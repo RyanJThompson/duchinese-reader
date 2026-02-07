@@ -14,6 +14,15 @@ export interface SeriesInfo {
   totalChapters: number;
 }
 
+export interface CourseInfo {
+  title: string;
+  description: string;
+  imageUrl?: string;
+  levels: Level[];
+  lessonCount: number;
+  contentType: ContentType;
+}
+
 export interface LessonSummary {
   id: string;
   title: string;
@@ -24,6 +33,7 @@ export interface LessonSummary {
   audioUrl?: string;
   series?: SeriesInfo;
   contentType: ContentType;
+  courseInfo?: CourseInfo;
 }
 
 export interface Sentence {

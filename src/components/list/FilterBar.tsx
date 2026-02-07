@@ -24,9 +24,6 @@ interface FilterBarProps {
   onToggleHideLearned: () => void;
   contentType: ContentType | null;
   onContentTypeChange: (value: ContentType | null) => void;
-  seriesTitle: string | null;
-  onSeriesTitleChange: (value: string | null) => void;
-  seriesTitles: string[];
   resultCount: number;
 }
 
@@ -39,9 +36,6 @@ export default function FilterBar({
   onToggleHideLearned,
   contentType,
   onContentTypeChange,
-  seriesTitle,
-  onSeriesTitleChange,
-  seriesTitles,
   resultCount,
 }: FilterBarProps) {
   return (
@@ -60,7 +54,6 @@ export default function FilterBar({
           onChange={(e) => {
             const val = e.target.value;
             onContentTypeChange(val ? (val as ContentType) : null);
-            if (!val || val === 'standalone') onSeriesTitleChange(null);
           }}
           className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm bg-white focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
         >
@@ -68,19 +61,6 @@ export default function FilterBar({
           {CONTENT_TYPE_ORDER.map((ct) => (
             <option key={ct} value={ct}>
               {CONTENT_TYPE_LABELS[ct]}
-            </option>
-          ))}
-        </select>
-
-        <select
-          value={seriesTitle ?? ''}
-          onChange={(e) => onSeriesTitleChange(e.target.value || null)}
-          className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm bg-white max-w-56 truncate focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
-        >
-          <option value="">All series</option>
-          {seriesTitles.map((title) => (
-            <option key={title} value={title}>
-              {title}
             </option>
           ))}
         </select>

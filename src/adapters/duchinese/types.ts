@@ -1,5 +1,16 @@
 // Raw DuChinese JSON shapes (as they come from the scraper)
 
+export interface RawCourse {
+  title: string;
+  description: string;
+  large_image_url: string;
+  medium_image_url: string;
+  levels: string[];
+  lesson_count: number;
+  type: string;
+  group: string;
+}
+
 export interface RawIndexEntry {
   id: string;
   title: string;
@@ -9,6 +20,7 @@ export interface RawIndexEntry {
   medium_image_url: string;
   large_image_url: string;
   release_at_formatted: string;
+  course: RawCourse | null;
   course_title: string | null;
   course_position: number | null;
   course_type: string | null;

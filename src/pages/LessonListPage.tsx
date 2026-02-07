@@ -7,14 +7,13 @@ import FilterBar from '../components/list/FilterBar';
 import LessonGrid from '../components/list/LessonGrid';
 
 export default function LessonListPage() {
-  const { lessons, seriesTitles, loading, error } = useData();
+  const { lessons, seriesMap, courseMap, loading, error } = useData();
   const { learnedSet, isLearned } = useLearned();
 
   const [search, setSearch] = useState('');
   const [selectedLevels, setSelectedLevels] = useState<Set<Level>>(new Set());
   const [hideLearned, setHideLearned] = useState(false);
   const [contentType, setContentType] = useState<ContentType | null>(null);
-  const [seriesTitle, setSeriesTitle] = useState<string | null>(null);
 
   const toggleLevel = useCallback((level: Level) => {
     setSelectedLevels((prev) => {
@@ -32,7 +31,8 @@ export default function LessonListPage() {
     hideLearned,
     learnedSet,
     contentType,
-    seriesTitle,
+    collapseSeries: true,
+    seriesMap,
   });
 
   if (loading) {
@@ -62,12 +62,9 @@ export default function LessonListPage() {
         onToggleHideLearned={() => setHideLearned((h) => !h)}
         contentType={contentType}
         onContentTypeChange={setContentType}
-        seriesTitle={seriesTitle}
-        onSeriesTitleChange={setSeriesTitle}
-        seriesTitles={seriesTitles}
         resultCount={filtered.length}
       />
-      <LessonGrid lessons={filtered} isLearned={isLearned} />
+      <LessonGrid lessons={filtered} isLearned={isLearned} courseMap={courseMap} />
     </div>
   );
 }

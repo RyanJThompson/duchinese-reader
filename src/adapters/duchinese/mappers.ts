@@ -1,5 +1,5 @@
-import type { ContentType, Lesson, LessonSummary, Level, Sentence, SeriesInfo, VocabWord } from '../../types/reader';
-import type { RawIndexEntry, RawLesson } from './types';
+import type { ContentType, CourseInfo, Lesson, LessonSummary, Level, Sentence, SeriesInfo, VocabWord } from '../../types/reader';
+import type { RawCourse, RawIndexEntry, RawLesson } from './types';
 
 const VALID_LEVELS = new Set<string>([
   'newbie', 'elementary', 'intermediate', 'upper intermediate', 'advanced', 'master',
@@ -24,6 +24,17 @@ function mapIndexSeries(raw: RawIndexEntry): SeriesInfo | undefined {
   };
 }
 
+function mapCourseInfo(raw: RawCourse): CourseInfo {
+  return {
+    title: raw.title,
+    description: raw.description,
+    imageUrl: raw.large_image_url || raw.medium_image_url || undefined,
+    levels: raw.levels.map(normalizeLevel),
+    lessonCount: raw.lesson_count,
+    contentType: mapContentType(raw.type),
+  };
+}
+
 function mapContentType(courseType: string | null): ContentType {
   switch (courseType) {
     case 'course': return 'course';
@@ -45,6 +56,7 @@ export function mapIndexEntry(raw: RawIndexEntry): LessonSummary {
     audioUrl: raw.audio_url || undefined,
     series: mapIndexSeries(raw),
     contentType: mapContentType(raw.course_type),
+    courseInfo: raw.course ? mapCourseInfo(raw.course) : undefined,
   };
 }
 

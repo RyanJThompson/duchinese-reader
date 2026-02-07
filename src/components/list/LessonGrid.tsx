@@ -1,15 +1,18 @@
 import { useState, useMemo } from 'react';
 import type { LessonSummary } from '../../types/reader';
+import type { CourseMap } from '../../context/DataContext';
 import LessonCard from './LessonCard';
+import SeriesCard from './SeriesCard';
 
 const PAGE_SIZE = 60;
 
 interface LessonGridProps {
   lessons: LessonSummary[];
   isLearned: (id: string) => boolean;
+  courseMap?: CourseMap;
 }
 
-export default function LessonGrid({ lessons, isLearned }: LessonGridProps) {
+export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGridProps) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const visible = useMemo(() => lessons.slice(0, visibleCount), [lessons, visibleCount]);
@@ -18,9 +21,13 @@ export default function LessonGrid({ lessons, isLearned }: LessonGridProps) {
   return (
     <div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {visible.map((lesson) => (
-          <LessonCard key={lesson.id} lesson={lesson} learned={isLearned(lesson.id)} />
-        ))}
+        {visible.map((lesson) => {
+          const course = lesson.series && courseMap?.get(lesson.series.title);
+          if (course) {
+            return <SeriesCard key={`series-${lesson.series!.title}`} courseInfo={course} />;
+          }
+          return <LessonCard key={lesson.id} lesson={lesson} learned={isLearned(lesson.id)} />;
+        })}
       </div>
       {hasMore && (
         <div className="mt-6 text-center">
