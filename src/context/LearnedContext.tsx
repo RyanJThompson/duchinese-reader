@@ -1,5 +1,6 @@
-import { createContext, useCallback, useContext, useState, type ReactNode } from 'react';
+import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react';
 import { getItem, setItem } from '../lib/storage';
+import { fetchRemoteLearned, pushRemoteLearned } from '../lib/sync';
 
 const KEY = 'reader:learned';
 
@@ -24,8 +25,26 @@ export function LearnedProvider({ children }: { children: ReactNode }) {
       if (next.has(id)) next.delete(id);
       else next.add(id);
       setItem(KEY, [...next]);
+      pushRemoteLearned([...next]).catch(() => {});
       return next;
     });
+  }, []);
+
+  useEffect(() => {
+    fetchRemoteLearned()
+      .then((remote) => {
+        setLearnedSet((prev) => {
+          const merged = new Set([...prev, ...remote]);
+          if (merged.size !== prev.size) {
+            setItem(KEY, [...merged]);
+          }
+          if (merged.size > remote.length) {
+            pushRemoteLearned([...merged]).catch(() => {});
+          }
+          return merged.size !== prev.size ? merged : prev;
+        });
+      })
+      .catch(() => {});
   }, []);
 
   return (

@@ -26,5 +26,10 @@ dist-ssr
 public/data/
 scraper/output/
 
+# Build artifacts
+*.tsbuildinfo
+
 # Environment variables
 .env
+.vercel
+.env*.local
