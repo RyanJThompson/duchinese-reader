@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import type { VocabWord } from '../../types/reader';
-import { usePreferences } from '../../context/PreferencesContext';
+import { usePreferences } from '../../context/usePreferences';
 
 interface VocabularyPanelProps {
   vocabulary: VocabWord[];

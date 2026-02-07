@@ -1,21 +1,6 @@
-import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react';
+import { useCallback, useEffect, useState, type ReactNode } from 'react';
 import { getItem, setItem } from '../lib/storage';
-
-type Script = 'simplified' | 'traditional';
-type Theme = 'light' | 'dark' | 'auto';
-
-interface PreferencesContextValue {
-  script: Script;
-  toggleScript: () => void;
-  showPinyin: boolean;
-  togglePinyin: () => void;
-  showEnglish: boolean;
-  toggleEnglish: () => void;
-  theme: Theme;
-  setTheme: (theme: Theme) => void;
-}
-
-const PreferencesContext = createContext<PreferencesContextValue | null>(null);
+import { PreferencesContext, type Script, type Theme } from './preferencesContextValue';
 
 function applyDarkClass(isDark: boolean) {
   document.documentElement.classList.toggle('dark', isDark);
@@ -80,8 +65,3 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
   );
 }
 
-export function usePreferences() {
-  const ctx = useContext(PreferencesContext);
-  if (!ctx) throw new Error('usePreferences must be used within PreferencesProvider');
-  return ctx;
-}

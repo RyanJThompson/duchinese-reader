@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { Link, useParams } from 'react-router';
-import { useData } from '../context/DataContext';
-import { useLearned } from '../context/LearnedContext';
+import { useData } from '../context/useData';
+import { useLearned } from '../context/useLearned';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
 import type { LessonSummary } from '../types/reader';
 

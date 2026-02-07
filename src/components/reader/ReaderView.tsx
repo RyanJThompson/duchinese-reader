@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import type { Sentence } from '../../types/reader';
 import type { AudioControls } from '../../hooks/useAudio';
-import { usePreferences } from '../../context/PreferencesContext';
+import { usePreferences } from '../../context/usePreferences';
 import SentenceBlock from './SentenceBlock';
 
 interface ReaderViewProps {

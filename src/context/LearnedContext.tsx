@@ -1,16 +1,9 @@
-import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react';
+import { useCallback, useEffect, useState, type ReactNode } from 'react';
 import { getItem, setItem } from '../lib/storage';
 import { fetchRemoteLearned, pushRemoteLearned } from '../lib/sync';
+import { LearnedContext } from './learnedContextValue';
 
 const KEY = 'reader:learned';
-
-interface LearnedContextValue {
-  learnedSet: Set<string>;
-  isLearned: (id: string) => boolean;
-  toggleLearned: (id: string) => void;
-}
-
-const LearnedContext = createContext<LearnedContextValue | null>(null);
 
 export function LearnedProvider({ children }: { children: ReactNode }) {
   const [learnedSet, setLearnedSet] = useState<Set<string>>(
@@ -54,8 +47,3 @@ export function LearnedProvider({ children }: { children: ReactNode }) {
   );
 }
 
-export function useLearned() {
-  const ctx = useContext(LearnedContext);
-  if (!ctx) throw new Error('useLearned must be used within LearnedProvider');
-  return ctx;
-}

@@ -1,7 +1,7 @@
 import { useCallback, useState } from 'react';
 import type { ContentType, Level } from '../types/reader';
-import { useData } from '../context/DataContext';
-import { useLearned } from '../context/LearnedContext';
+import { useData } from '../context/useData';
+import { useLearned } from '../context/useLearned';
 import { useLessons } from '../hooks/useLessons';
 import FilterBar from '../components/list/FilterBar';
 import LessonGrid from '../components/list/LessonGrid';

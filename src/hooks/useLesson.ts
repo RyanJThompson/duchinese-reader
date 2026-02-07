@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Lesson } from '../types/reader';
-import { useData } from '../context/DataContext';
+import { useData } from '../context/useData';
 
 export function useLesson(id: string | undefined) {
   const { adapter } = useData();

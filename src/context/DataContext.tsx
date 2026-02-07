@@ -1,23 +1,10 @@
-import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
+import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { DataAdapter } from '../adapters/types';
-import type { CourseInfo, LessonSummary } from '../types/reader';
+import type { LessonSummary } from '../types/reader';
+import { DataContext } from './dataContextValue';
+import type { SeriesMap, CourseMap } from './dataContextValue';
 
-/** Map from series title → lesson IDs ordered by chapter */
-export type SeriesMap = Map<string, string[]>;
-
-/** Map from series title → CourseInfo (deduplicated) */
-export type CourseMap = Map<string, CourseInfo>;
-
-interface DataContextValue {
-  adapter: DataAdapter;
-  lessons: LessonSummary[];
-  seriesMap: SeriesMap;
-  courseMap: CourseMap;
-  loading: boolean;
-  error: string | null;
-}
-
-const DataContext = createContext<DataContextValue | null>(null);
+export type { SeriesMap, CourseMap } from './dataContextValue';
 
 function buildSeriesMap(lessons: LessonSummary[]): SeriesMap {
   const map = new Map<string, { id: string; chapter: number }[]>();
@@ -68,8 +55,3 @@ export function DataProvider({ adapter, children }: { adapter: DataAdapter; chil
   );
 }
 
-export function useData() {
-  const ctx = useContext(DataContext);
-  if (!ctx) throw new Error('useData must be used within DataProvider');
-  return ctx;
-}

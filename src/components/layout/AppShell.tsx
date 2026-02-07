@@ -1,5 +1,5 @@
 import { Link, Outlet } from 'react-router';
-import { usePreferences } from '../../context/PreferencesContext';
+import { usePreferences } from '../../context/usePreferences';
 
 function SunIcon() {
   return (

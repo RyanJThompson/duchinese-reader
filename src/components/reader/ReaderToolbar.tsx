@@ -1,4 +1,4 @@
-import { usePreferences } from '../../context/PreferencesContext';
+import { usePreferences } from '../../context/usePreferences';
 
 interface ReaderToolbarProps {
   learned: boolean;
