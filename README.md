@@ -91,17 +91,43 @@ Build the app with `pnpm build`, then serve the `dist` directory with any static
 
 ## Cross-Device Sync (Optional)
 
-Cross-device sync for learned lessons uses Upstash Redis (Vercel KV).
+The app can sync your learned-lesson progress across devices using [Upstash Redis](https://upstash.com/). Without it, progress is stored in your browser's localStorage only — the app works fine either way.
 
-**One-click deploy**: A KV store is automatically provisioned when you use the Deploy button above — no extra setup needed.
+If you used the **Deploy with Vercel** button above, a KV store is automatically provisioned — no extra setup needed. For CLI or manual deployments, follow the steps below.
 
-**Manual / CLI deploy**: Add a KV store from the Vercel dashboard:
+### Setting Up Upstash Redis
 
-1. Go to your project → Storage → Create → KV (Upstash)
-2. Link the store to your project (this auto-populates the `KV_REST_API_URL` and `KV_REST_API_TOKEN` environment variables)
-3. Redeploy with `pnpm redeploy`
+1. **Create an Upstash account** at [console.upstash.com](https://console.upstash.com/) (the free tier is more than sufficient)
+2. **Create a Redis database** — click **Create Database**, give it a name (e.g. `duchinese-reader`), pick the region closest to your Vercel deployment, and click **Create**
+3. **Copy your credentials** from the database details page: `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN`
 
-If Redis is not configured, the app falls back to localStorage only — no errors, no impact.
+### Connecting to Vercel
+
+Pick whichever method you prefer — the API supports both `UPSTASH_REDIS_REST_*` and `KV_REST_API_*` variable names.
+
+**Upstash Integration (recommended)** — go to the [Upstash Integration on Vercel](https://vercel.com/integrations/upstash), add it to your account, and link your Redis database to your project. This auto-populates `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN` as env vars.
+
+**Vercel Dashboard** — open your project, go to **Storage** → **Create** → **KV (Upstash)**, and follow the prompts. This auto-populates `KV_REST_API_URL` and `KV_REST_API_TOKEN`.
+
+**Manual** — in your Vercel project **Settings** → **Environment Variables**, paste `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN` directly from the Upstash console.
+
+After connecting, redeploy with `pnpm redeploy`.
+
+### Local Development
+
+To test sync locally, add the credentials to your `.env` file:
+
+```env
+UPSTASH_REDIS_REST_URL=https://your-db.upstash.io
+UPSTASH_REDIS_REST_TOKEN=your-token
+```
+
+### How It Works
+
+- Learned lessons are stored as a set of lesson IDs in a single Redis key
+- On app startup, the local and remote sets are merged — no data is lost
+- Each time you mark/unmark a lesson, the change is saved to both localStorage and Redis
+- If Redis is unreachable, the app continues working with localStorage alone
 
 ## Project Structure
 
