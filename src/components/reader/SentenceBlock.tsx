@@ -6,9 +6,11 @@ interface SentenceBlockProps {
   showPinyin: boolean;
   showEnglish: boolean;
   onSeek?: (time: number) => void;
+  onPause?: () => void;
+  isActive?: boolean;
 }
 
-export default function SentenceBlock({ sentence, script, showPinyin, showEnglish, onSeek }: SentenceBlockProps) {
+export default function SentenceBlock({ sentence, script, showPinyin, showEnglish, onSeek, onPause, isActive }: SentenceBlockProps) {
   const chinese = script === 'simplified' ? sentence.simplified : sentence.traditional;
 
   return (
@@ -20,11 +22,15 @@ export default function SentenceBlock({ sentence, script, showPinyin, showEnglis
         <div className="text-xl leading-relaxed text-gray-900 dark:text-gray-100">{chinese}</div>
         {onSeek && sentence.audioTime != null && (
           <button
-            onClick={() => onSeek(sentence.audioTime!)}
-            className="w-6 h-6 flex items-center justify-center rounded-full text-gray-400 dark:text-gray-500 hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950 transition-colors cursor-pointer text-xs flex-shrink-0"
-            title="Play from here"
+            onClick={() => isActive && onPause ? onPause() : onSeek!(sentence.audioTime!)}
+            className={`w-6 h-6 flex items-center justify-center rounded-full transition-colors cursor-pointer text-xs flex-shrink-0 ${
+              isActive
+                ? 'text-red-600 bg-red-50 dark:bg-red-950 animate-pulse'
+                : 'text-gray-400 dark:text-gray-500 hover:text-red-600 hover:bg-red-50 dark:hover:bg-red-950'
+            }`}
+            title={isActive ? 'Playing' : 'Play from here'}
           >
-            ▶
+            {isActive ? '⏸' : '▶'}
           </button>
         )}
       </div>

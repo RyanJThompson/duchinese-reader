@@ -23,8 +23,8 @@ function applyDarkClass(isDark: boolean) {
 
 export function PreferencesProvider({ children }: { children: ReactNode }) {
   const [script, setScript] = useState<Script>(() => getItem('reader:script', 'simplified'));
-  const [showPinyin, setShowPinyin] = useState(() => getItem('reader:pinyin', true));
-  const [showEnglish, setShowEnglish] = useState(() => getItem('reader:english', true));
+  const [showPinyin, setShowPinyin] = useState(() => getItem('reader:pinyin', false));
+  const [showEnglish, setShowEnglish] = useState(() => getItem('reader:english', false));
   const [theme, setThemeState] = useState<Theme>(() => getItem('reader:theme', 'auto'));
 
   const setTheme = useCallback((t: Theme) => {

@@ -59,6 +59,10 @@ export function useAudio(url?: string): AudioControls {
     if (!audio) return;
     audio.currentTime = time;
     setCurrentTime(time);
+    if (audio.paused) {
+      audio.play();
+      setPlaying(true);
+    }
   }, []);
 
   const setPlaybackRate = useCallback((rate: number) => {
