@@ -7,7 +7,7 @@ interface ReaderToolbarProps {
 }
 
 export default function ReaderToolbar({ learned, onToggleLearned, onBack }: ReaderToolbarProps) {
-  const { script, toggleScript, showPinyin, togglePinyin } = usePreferences();
+  const { script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish } = usePreferences();
 
   return (
     <div className="flex flex-wrap items-center gap-2">
@@ -31,6 +31,14 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
         }`}
       >
         Pinyin
+      </button>
+      <button
+        onClick={toggleEnglish}
+        className={`px-3 py-1.5 rounded-lg text-sm border cursor-pointer ${
+          showEnglish ? 'border-red-300 bg-red-50 text-red-700' : 'border-gray-300 hover:bg-gray-50'
+        }`}
+      >
+        English
       </button>
       <button
         onClick={onToggleLearned}

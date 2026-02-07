@@ -65,5 +65,8 @@ export interface RawLesson {
   vocabulary: RawVocab[];
   raw: {
     sentence_translations: string[];
+    syllable_times?: number[];
+    sentence_indices?: number[];
+    words?: Array<{ pinyin?: string }>;
   };
 }

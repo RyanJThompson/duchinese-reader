@@ -42,6 +42,7 @@ export interface Sentence {
   traditional: string;
   pinyin: string;
   english: string;
+  audioTime?: number;
 }
 
 export interface VocabWord {

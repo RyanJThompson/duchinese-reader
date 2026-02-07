@@ -68,8 +68,28 @@ export function mapIndexEntry(raw: RawIndexEntry): LessonSummary {
  *
  * We also filter out whitespace-only sentences (paragraph breaks).
  */
+/**
+ * Build a mapping from word index to syllable index.
+ * sentence_indices are word indices into raw.words, not syllable indices
+ * into syllable_times. Multi-syllable words cause these to diverge.
+ */
+function buildWordToSyllableMap(words: Array<{ pinyin?: string }>): number[] {
+  const map = [0];
+  for (const w of words) {
+    const count = w.pinyin ? w.pinyin.split(' ').length : 0;
+    map.push(map[map.length - 1] + count);
+  }
+  return map;
+}
+
 export function mapSentences(raw: RawLesson): Sentence[] {
   const translations = raw.raw.sentence_translations;
+  const syllableTimes = raw.raw.syllable_times;
+  const sentenceIndices = raw.raw.sentence_indices;
+  const words = raw.raw.words;
+
+  const wordToSyllable = words ? buildWordToSyllableMap(words) : undefined;
+
   const result: Sentence[] = [];
 
   for (let i = 0; i < raw.sentences.length; i++) {
@@ -78,12 +98,26 @@ export function mapSentences(raw: RawLesson): Sentence[] {
 
     const english = i + 1 < translations.length ? translations[i + 1] : '';
 
+    let audioTime: number | undefined;
+    if (syllableTimes && sentenceIndices && wordToSyllable) {
+      const wordIdx = sentenceIndices[i];
+      if (wordIdx != null) {
+        const sylIdx = wordToSyllable[wordIdx];
+        if (sylIdx > 0 && sylIdx - 1 < syllableTimes.length) {
+          audioTime = syllableTimes[sylIdx - 1];
+        } else if (sylIdx === 0) {
+          audioTime = 0;
+        }
+      }
+    }
+
     result.push({
       index: result.length + 1,
       simplified: s.simplified,
       traditional: s.traditional,
       pinyin: s.pinyin,
       english,
+      audioTime,
     });
   }
 

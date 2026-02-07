@@ -4,9 +4,11 @@ interface SentenceBlockProps {
   sentence: Sentence;
   script: 'simplified' | 'traditional';
   showPinyin: boolean;
+  showEnglish: boolean;
+  onSeek?: (time: number) => void;
 }
 
-export default function SentenceBlock({ sentence, script, showPinyin }: SentenceBlockProps) {
+export default function SentenceBlock({ sentence, script, showPinyin, showEnglish, onSeek }: SentenceBlockProps) {
   const chinese = script === 'simplified' ? sentence.simplified : sentence.traditional;
 
   return (
@@ -14,8 +16,19 @@ export default function SentenceBlock({ sentence, script, showPinyin }: Sentence
       {showPinyin && sentence.pinyin && (
         <div className="text-sm text-gray-400">{sentence.pinyin}</div>
       )}
-      <div className="text-xl leading-relaxed text-gray-900">{chinese}</div>
-      {sentence.english && (
+      <div className="flex items-center gap-2">
+        <div className="text-xl leading-relaxed text-gray-900">{chinese}</div>
+        {onSeek && sentence.audioTime != null && (
+          <button
+            onClick={() => onSeek(sentence.audioTime!)}
+            className="w-6 h-6 flex items-center justify-center rounded-full text-gray-400 hover:text-red-600 hover:bg-red-50 transition-colors cursor-pointer text-xs flex-shrink-0"
+            title="Play from here"
+          >
+            ▶
+          </button>
+        )}
+      </div>
+      {showEnglish && sentence.english && (
         <div className="text-sm text-gray-500">{sentence.english}</div>
       )}
     </div>

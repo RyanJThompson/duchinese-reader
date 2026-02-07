@@ -1,13 +1,15 @@
 import type { Sentence } from '../../types/reader';
+import type { AudioControls } from '../../hooks/useAudio';
 import { usePreferences } from '../../context/PreferencesContext';
 import SentenceBlock from './SentenceBlock';
 
 interface ReaderViewProps {
   sentences: Sentence[];
+  audio?: AudioControls;
 }
 
-export default function ReaderView({ sentences }: ReaderViewProps) {
-  const { script, showPinyin } = usePreferences();
+export default function ReaderView({ sentences, audio }: ReaderViewProps) {
+  const { script, showPinyin, showEnglish } = usePreferences();
 
   return (
     <div className="divide-y divide-gray-100">
@@ -17,6 +19,8 @@ export default function ReaderView({ sentences }: ReaderViewProps) {
           sentence={s}
           script={script}
           showPinyin={showPinyin}
+          showEnglish={showEnglish}
+          onSeek={audio?.seek}
         />
       ))}
     </div>

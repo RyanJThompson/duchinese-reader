@@ -1,15 +1,28 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 
-export function useAudio(url?: string) {
+export interface AudioControls {
+  playing: boolean;
+  currentTime: number;
+  duration: number;
+  toggle: () => void;
+  seek: (time: number) => void;
+  playbackRate: number;
+  setPlaybackRate: (rate: number) => void;
+}
+
+export function useAudio(url?: string): AudioControls {
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const rateRef = useRef(1);
   const [playing, setPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
+  const [playbackRate, setPlaybackRateState] = useState(1);
 
   useEffect(() => {
     if (!url) return;
 
     const audio = new Audio(url);
+    audio.playbackRate = rateRef.current;
     audioRef.current = audio;
 
     const onTimeUpdate = () => setCurrentTime(audio.currentTime);
@@ -48,5 +61,12 @@ export function useAudio(url?: string) {
     setCurrentTime(time);
   }, []);
 
-  return { playing, currentTime, duration, toggle, seek };
+  const setPlaybackRate = useCallback((rate: number) => {
+    rateRef.current = rate;
+    const audio = audioRef.current;
+    if (audio) audio.playbackRate = rate;
+    setPlaybackRateState(rate);
+  }, []);
+
+  return { playing, currentTime, duration, toggle, seek, playbackRate, setPlaybackRate };
 }
