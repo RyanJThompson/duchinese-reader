@@ -30,7 +30,12 @@ export default function SentenceBlock({ sentence, script, showPinyin, showEnglis
             }`}
             title={isActive ? 'Playing' : 'Play from here'}
           >
-            {isActive ? '⏸' : '▶'}
+            {isActive ? (
+              <svg width="10" height="10" viewBox="0 0 14 14" fill="currentColor">
+                <rect x="1" y="0" width="4" height="14" rx="1" />
+                <rect x="9" y="0" width="4" height="14" rx="1" />
+              </svg>
+            ) : '▶'}
           </button>
         )}
       </div>

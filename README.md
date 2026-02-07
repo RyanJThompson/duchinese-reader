@@ -1,6 +1,8 @@
 # DuChinese Reader
 
-A local-first lesson reader and scraper for [DuChinese](https://www.duchinese.net/). Scrape your DuChinese lessons using your own account credentials and browse them in a locally-hosted React app with synchronized audio playback, pinyin annotations, and English translations.
+A local-first lesson reader and scraper for [DuChinese](https://www.duchinese.net/). Scrape your DuChinese lessons using your own account credentials and browse them in a reader app that works with [Migaku](https://www.migaku.com/) and other browser-based language learning tools that don't support DuChinese natively. Features synchronized audio playback, pinyin annotations, and English translations.
+
+> **Disclaimer:** This project is an independent, unofficial tool and is not affiliated with or endorsed by DuChinese. It requires an active DuChinese subscription and uses your own account credentials to access content you are already paying for. No lesson content is included in this repository. Use responsibly and in accordance with DuChinese's [terms of service](https://duchinese.net/legal).
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryanthompson/duchinese-reader&env=DUCHINESE_EMAIL,DUCHINESE_PASSWORD&envDescription=Your%20DuChinese%20account%20credentials&envLink=https://www.duchinese.net/&stores=[{"type":"kv"}])
 

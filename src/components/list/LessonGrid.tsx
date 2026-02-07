@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import type { LessonSummary } from '../../types/reader';
 import type { CourseMap } from '../../context/DataContext';
 import LessonCard from './LessonCard';
@@ -14,9 +14,34 @@ interface LessonGridProps {
 
 export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGridProps) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const sentinelRef = useRef<HTMLDivElement>(null);
+
+  const loadMore = useCallback(() => {
+    setVisibleCount((c) => c + PAGE_SIZE);
+  }, []);
+
+  // Reset visible count when the lesson list changes (e.g. filter change)
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [lessons]);
 
   const visible = useMemo(() => lessons.slice(0, visibleCount), [lessons, visibleCount]);
   const hasMore = visibleCount < lessons.length;
+
+  // Auto-load more when the sentinel element is near the viewport
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel || !hasMore) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) loadMore();
+      },
+      { rootMargin: '400px' },
+    );
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, loadMore]);
 
   return (
     <div>
@@ -29,16 +54,7 @@ export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGrid
           return <LessonCard key={lesson.id} lesson={lesson} learned={isLearned(lesson.id)} />;
         })}
       </div>
-      {hasMore && (
-        <div className="mt-6 text-center">
-          <button
-            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
-            className="px-6 py-2 bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 rounded-lg text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors cursor-pointer"
-          >
-            Load more ({lessons.length - visibleCount} remaining)
-          </button>
-        </div>
-      )}
+      {hasMore && <div ref={sentinelRef} className="h-1" />}
     </div>
   );
 }
