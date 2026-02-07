@@ -22,14 +22,14 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
   };
 
   return (
-    <div className="flex items-center gap-3 bg-gray-50 rounded-lg px-4 py-2">
+    <div className="flex items-center gap-3 bg-gray-50 dark:bg-gray-800 rounded-lg px-4 py-2">
       <button
         onClick={toggle}
         className="w-8 h-8 flex items-center justify-center rounded-full bg-red-600 text-white hover:bg-red-700 transition-colors cursor-pointer text-sm"
       >
         {playing ? '⏸' : '▶'}
       </button>
-      <span className="text-xs text-gray-500 w-10 text-right tabular-nums">
+      <span className="text-xs text-gray-500 dark:text-gray-400 w-10 text-right tabular-nums">
         {formatTime(currentTime)}
       </span>
       <input
@@ -41,12 +41,12 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
         onChange={(e) => seek(Number(e.target.value))}
         className="flex-1 h-1 accent-red-600"
       />
-      <span className="text-xs text-gray-500 w-10 tabular-nums">
+      <span className="text-xs text-gray-500 dark:text-gray-400 w-10 tabular-nums">
         {formatTime(duration)}
       </span>
       <button
         onClick={cycleSpeed}
-        className="px-2 py-1 rounded text-xs font-medium border border-gray-300 hover:bg-gray-100 cursor-pointer tabular-nums min-w-[3rem]"
+        className="px-2 py-1 rounded text-xs font-medium border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 cursor-pointer tabular-nums min-w-[3rem]"
       >
         {playbackRate}x
       </button>

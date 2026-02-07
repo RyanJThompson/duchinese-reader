@@ -12,7 +12,7 @@ export default function ReaderView({ sentences, audio }: ReaderViewProps) {
   const { script, showPinyin, showEnglish } = usePreferences();
 
   return (
-    <div className="divide-y divide-gray-100">
+    <div className="divide-y divide-gray-100 dark:divide-gray-800">
       {sentences.map((s) => (
         <SentenceBlock
           key={s.index}

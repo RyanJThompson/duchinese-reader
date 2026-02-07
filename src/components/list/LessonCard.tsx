@@ -11,10 +11,10 @@ export default function LessonCard({ lesson, learned }: LessonCardProps) {
   return (
     <Link
       to={`/lesson/${lesson.id}`}
-      className="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition-shadow no-underline"
+      className="group block bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden hover:shadow-md transition-shadow no-underline"
     >
       {lesson.imageUrl && (
-        <div className="aspect-[16/9] overflow-hidden bg-gray-100">
+        <div className="aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-gray-800">
           <img
             src={lesson.imageUrl}
             alt=""
@@ -29,16 +29,16 @@ export default function LessonCard({ lesson, learned }: LessonCardProps) {
             {LEVEL_LABELS[lesson.level]}
           </span>
           {learned && (
-            <span className="text-[11px] text-green-600 font-medium">Learned</span>
+            <span className="text-[11px] text-green-600 dark:text-green-400 font-medium">Learned</span>
           )}
           {lesson.series && (
-            <span className="text-[11px] text-gray-400 truncate ml-auto">{lesson.series.title}</span>
+            <span className="text-[11px] text-gray-400 dark:text-gray-500 truncate ml-auto">{lesson.series.title}</span>
           )}
         </div>
-        <h3 className="text-sm font-semibold text-gray-900 leading-snug line-clamp-2">
+        <h3 className="text-sm font-semibold text-gray-900 dark:text-gray-100 leading-snug line-clamp-2">
           {lesson.title}
         </h3>
-        <p className="text-xs text-gray-500 line-clamp-2">{lesson.synopsis}</p>
+        <p className="text-xs text-gray-500 dark:text-gray-400 line-clamp-2">{lesson.synopsis}</p>
       </div>
     </Link>
   );

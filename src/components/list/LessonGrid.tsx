@@ -33,7 +33,7 @@ export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGrid
         <div className="mt-6 text-center">
           <button
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
-            className="px-6 py-2 bg-white border border-gray-300 rounded-lg text-sm text-gray-700 hover:bg-gray-50 transition-colors cursor-pointer"
+            className="px-6 py-2 bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 rounded-lg text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors cursor-pointer"
           >
             Load more ({lessons.length - visibleCount} remaining)
           </button>

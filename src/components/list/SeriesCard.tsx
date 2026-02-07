@@ -10,10 +10,10 @@ export default function SeriesCard({ courseInfo }: SeriesCardProps) {
   return (
     <Link
       to={`/series/${encodeURIComponent(courseInfo.title)}`}
-      className="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition-shadow no-underline"
+      className="group block bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden hover:shadow-md transition-shadow no-underline"
     >
       {courseInfo.imageUrl && (
-        <div className="aspect-[16/9] overflow-hidden bg-gray-100">
+        <div className="aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-gray-800">
           <img
             src={courseInfo.imageUrl}
             alt=""
@@ -32,14 +32,14 @@ export default function SeriesCard({ courseInfo }: SeriesCardProps) {
               {LEVEL_LABELS[level]}
             </span>
           ))}
-          <span className="text-[11px] text-gray-400 ml-auto">
+          <span className="text-[11px] text-gray-400 dark:text-gray-500 ml-auto">
             {courseInfo.lessonCount} chapters
           </span>
         </div>
-        <h3 className="text-sm font-semibold text-gray-900 leading-snug line-clamp-2">
+        <h3 className="text-sm font-semibold text-gray-900 dark:text-gray-100 leading-snug line-clamp-2">
           {courseInfo.title}
         </h3>
-        <p className="text-xs text-gray-500 line-clamp-2">{courseInfo.description}</p>
+        <p className="text-xs text-gray-500 dark:text-gray-400 line-clamp-2">{courseInfo.description}</p>
       </div>
     </Link>
   );

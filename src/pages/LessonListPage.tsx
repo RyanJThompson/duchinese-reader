@@ -38,7 +38,7 @@ export default function LessonListPage() {
   if (loading) {
     return (
       <div className="max-w-7xl mx-auto px-4 py-12">
-        <div className="text-center text-gray-400">Loading lessons...</div>
+        <div className="text-center text-gray-400 dark:text-gray-500">Loading lessons...</div>
       </div>
     );
   }

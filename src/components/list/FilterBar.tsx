@@ -46,7 +46,7 @@ export default function FilterBar({
           placeholder="Search lessons..."
           value={search}
           onChange={(e) => onSearchChange(e.target.value)}
-          className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm w-64 focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
+          className="px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-sm w-64 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 placeholder:text-gray-400 dark:placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
         />
 
         <select
@@ -55,7 +55,7 @@ export default function FilterBar({
             const val = e.target.value;
             onContentTypeChange(val ? (val as ContentType) : null);
           }}
-          className="px-3 py-1.5 border border-gray-300 rounded-lg text-sm bg-white focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
+          className="px-3 py-1.5 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
         >
           <option value="">All types</option>
           {CONTENT_TYPE_ORDER.map((ct) => (
@@ -65,7 +65,7 @@ export default function FilterBar({
           ))}
         </select>
 
-        <label className="flex items-center gap-1.5 text-sm text-gray-600 cursor-pointer select-none">
+        <label className="flex items-center gap-1.5 text-sm text-gray-600 dark:text-gray-400 cursor-pointer select-none">
           <input
             type="checkbox"
             checked={hideLearned}
@@ -74,7 +74,7 @@ export default function FilterBar({
           />
           Hide learned
         </label>
-        <span className="text-sm text-gray-400 ml-auto">{resultCount} lessons</span>
+        <span className="text-sm text-gray-400 dark:text-gray-500 ml-auto">{resultCount} lessons</span>
       </div>
       <div className="flex flex-wrap gap-1.5">
         {LEVEL_ORDER.map((level) => {
@@ -86,7 +86,7 @@ export default function FilterBar({
               className={`px-3 py-1 rounded-full text-xs font-medium transition-all cursor-pointer ${
                 active
                   ? LEVEL_COLORS[level]
-                  : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
+                  : 'bg-gray-100 dark:bg-gray-800 text-gray-500 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700'
               }`}
             >
               {LEVEL_LABELS[level]}

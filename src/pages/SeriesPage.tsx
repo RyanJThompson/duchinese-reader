@@ -29,7 +29,7 @@ export default function SeriesPage() {
   if (!courseInfo || chapters.length === 0) {
     return (
       <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="text-center text-gray-400">Series not found.</div>
+        <div className="text-center text-gray-400 dark:text-gray-500">Series not found.</div>
         <div className="text-center mt-4">
           <Link to="/" className="text-red-600 hover:text-red-700 text-sm">Back to lessons</Link>
         </div>
@@ -39,7 +39,7 @@ export default function SeriesPage() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-6 space-y-6">
-      <Link to="/" className="inline-flex items-center gap-1 text-sm text-gray-500 hover:text-gray-700">
+      <Link to="/" className="inline-flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300">
         &larr; Back to lessons
       </Link>
 
@@ -55,7 +55,7 @@ export default function SeriesPage() {
           </div>
         )}
         <div className="space-y-3">
-          <h1 className="text-2xl font-bold text-gray-900">{courseInfo.title}</h1>
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">{courseInfo.title}</h1>
           <div className="flex flex-wrap items-center gap-2">
             {courseInfo.levels.map((level) => (
               <span
@@ -65,33 +65,33 @@ export default function SeriesPage() {
                 {LEVEL_LABELS[level]}
               </span>
             ))}
-            <span className="text-sm text-gray-400">
+            <span className="text-sm text-gray-400 dark:text-gray-500">
               {chapters.length} chapters
             </span>
           </div>
-          <p className="text-sm text-gray-600">{courseInfo.description}</p>
-          <div className="text-sm text-gray-500">
+          <p className="text-sm text-gray-600 dark:text-gray-400">{courseInfo.description}</p>
+          <div className="text-sm text-gray-500 dark:text-gray-400">
             {learnedCount}/{chapters.length} learned
           </div>
         </div>
       </div>
 
       {/* Chapter list */}
-      <div className="border border-gray-200 rounded-xl overflow-hidden divide-y divide-gray-100">
+      <div className="border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden divide-y divide-gray-100 dark:divide-gray-800">
         {chapters.map((ch, i) => {
           const learned = isLearned(ch.id);
           return (
             <Link
               key={ch.id}
               to={`/lesson/${ch.id}`}
-              className="flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors no-underline"
+              className="flex items-center gap-3 px-4 py-3 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors no-underline"
             >
-              <span className="text-sm text-gray-400 w-8 text-right flex-shrink-0">
+              <span className="text-sm text-gray-400 dark:text-gray-500 w-8 text-right flex-shrink-0">
                 {i + 1}
               </span>
               <div className="flex-1 min-w-0">
-                <div className="text-sm font-medium text-gray-900 truncate">{ch.title}</div>
-                <div className="text-xs text-gray-500 truncate">{ch.synopsis}</div>
+                <div className="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">{ch.title}</div>
+                <div className="text-xs text-gray-500 dark:text-gray-400 truncate">{ch.synopsis}</div>
               </div>
               {learned && (
                 <span className="text-green-500 flex-shrink-0" title="Learned">

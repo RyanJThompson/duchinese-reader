@@ -37,7 +37,7 @@ export default function LessonPage() {
   if (loading) {
     return (
       <div className="max-w-3xl mx-auto px-4 py-12">
-        <div className="text-center text-gray-400">Loading lesson...</div>
+        <div className="text-center text-gray-400 dark:text-gray-500">Loading lesson...</div>
       </div>
     );
   }
@@ -66,17 +66,17 @@ export default function LessonPage() {
             <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${LEVEL_COLORS[lesson.level]}`}>
               {LEVEL_LABELS[lesson.level]}
             </span>
-            <span className="text-xs text-gray-400">{lesson.date}</span>
+            <span className="text-xs text-gray-400 dark:text-gray-500">{lesson.date}</span>
           </div>
-          <h1 className="text-2xl font-bold text-gray-900">{lesson.title}</h1>
-          <p className="text-sm text-gray-500 mt-1">{lesson.synopsis}</p>
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">{lesson.title}</h1>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">{lesson.synopsis}</p>
         </div>
 
         {lesson.series && (
-          <div className="bg-gray-50 rounded-lg px-4 py-3 space-y-2">
+          <div className="bg-gray-50 dark:bg-gray-800 rounded-lg px-4 py-3 space-y-2">
             <div className="flex items-center justify-between">
-              <div className="text-sm font-medium text-gray-700">{lesson.series.title}</div>
-              <div className="text-xs text-gray-400">
+              <div className="text-sm font-medium text-gray-700 dark:text-gray-300">{lesson.series.title}</div>
+              <div className="text-xs text-gray-400 dark:text-gray-500">
                 Chapter {chapterNav.position} of {chapterNav.total}
               </div>
             </div>
@@ -84,12 +84,12 @@ export default function LessonPage() {
               {chapterNav.prev ? (
                 <Link
                   to={`/lesson/${chapterNav.prev}`}
-                  className="px-3 py-1 rounded text-xs font-medium bg-white border border-gray-300 text-gray-700 hover:bg-gray-100 no-underline"
+                  className="px-3 py-1 rounded text-xs font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline"
                 >
                   &larr; Previous
                 </Link>
               ) : (
-                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 border border-gray-100">
+                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
                   &larr; Previous
                 </span>
               )}
@@ -97,12 +97,12 @@ export default function LessonPage() {
               {chapterNav.next ? (
                 <Link
                   to={`/lesson/${chapterNav.next}`}
-                  className="px-3 py-1 rounded text-xs font-medium bg-white border border-gray-300 text-gray-700 hover:bg-gray-100 no-underline"
+                  className="px-3 py-1 rounded text-xs font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline"
                 >
                   Next &rarr;
                 </Link>
               ) : (
-                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 border border-gray-100">
+                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
                   Next &rarr;
                 </span>
               )}
@@ -115,11 +115,11 @@ export default function LessonPage() {
         <VocabularyPanel vocabulary={lesson.vocabulary} />
 
         {lesson.series && (chapterNav.prev || chapterNav.next) && (
-          <div className="flex items-center gap-2 pt-4 border-t border-gray-200">
+          <div className="flex items-center gap-2 pt-4 border-t border-gray-200 dark:border-gray-700">
             {chapterNav.prev ? (
               <Link
                 to={`/lesson/${chapterNav.prev}`}
-                className="px-4 py-2 rounded-lg text-sm font-medium bg-white border border-gray-300 text-gray-700 hover:bg-gray-50 no-underline"
+                className="px-4 py-2 rounded-lg text-sm font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 no-underline"
               >
                 &larr; Previous Chapter
               </Link>
@@ -142,13 +142,13 @@ export default function LessonPage() {
           <div className="max-w-3xl mx-auto px-4">
             <button
               onClick={() => setPlayerCollapsed((c) => !c)}
-              className="px-3 py-1 text-xs font-medium bg-gray-200 hover:bg-gray-300 rounded-t-lg cursor-pointer border border-b-0 border-gray-300"
+              className="px-3 py-1 text-xs font-medium bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 rounded-t-lg cursor-pointer border border-b-0 border-gray-300 dark:border-gray-600"
             >
               {playerCollapsed ? 'Show Player' : 'Hide Player'}
             </button>
           </div>
           {!playerCollapsed && (
-            <div className="bg-white border-t border-gray-200 shadow-lg">
+            <div className="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 shadow-lg">
               <div className="max-w-3xl mx-auto px-4 py-2">
                 <AudioPlayer audio={audio} />
               </div>
