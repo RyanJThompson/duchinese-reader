@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import type { AudioControls } from '../../hooks/useAudio';
 
 interface AudioPlayerProps {
@@ -13,12 +14,16 @@ function formatTime(seconds: number): string {
 }
 
 export default function AudioPlayer({ audio }: AudioPlayerProps) {
-  const { playing, currentTime, duration, toggle, seek, playbackRate, setPlaybackRate } = audio;
+  const { playing, currentTime, duration, toggle, seek, setPlaybackRate } = audio;
+  const [rate, setRate] = useState(audio.playbackRate);
 
   const cycleSpeed = () => {
-    const idx = SPEEDS.indexOf(playbackRate);
-    const next = SPEEDS[(idx + 1) % SPEEDS.length];
-    setPlaybackRate(next);
+    setRate((prev) => {
+      const idx = SPEEDS.indexOf(prev);
+      const next = SPEEDS[(idx + 1) % SPEEDS.length];
+      setPlaybackRate(next);
+      return next;
+    });
   };
 
   return (
@@ -48,7 +53,7 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
         onClick={cycleSpeed}
         className="px-2 py-1 rounded text-xs font-medium border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 cursor-pointer tabular-nums min-w-[3rem]"
       >
-        {playbackRate}x
+        {rate}x
       </button>
     </div>
   );
