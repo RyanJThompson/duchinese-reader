@@ -17,7 +17,7 @@ const HSK_COLORS: Record<number, string> = {
 
 export default function VocabularyPanel({ vocabulary }: VocabularyPanelProps) {
   const { script } = usePreferences();
-  const [collapsed, setCollapsed] = useState(false);
+  const [collapsed, setCollapsed] = useState(true);
 
   if (vocabulary.length === 0) return null;
 

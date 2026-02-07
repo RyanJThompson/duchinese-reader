@@ -47,7 +47,7 @@ function mapContentType(courseType: string | null): ContentType {
 
 export function mapIndexEntry(raw: RawIndexEntry): LessonSummary {
   return {
-    id: raw.id,
+    id: String(raw.id),
     title: raw.title,
     level: normalizeLevel(raw.level),
     synopsis: raw.synopsis,
@@ -136,7 +136,7 @@ export function mapVocabulary(raw: RawLesson): VocabWord[] {
 
 export function mapLesson(raw: RawLesson): Lesson {
   return {
-    id: raw.id,
+    id: String(raw.id),
     title: raw.title,
     level: normalizeLevel(raw.level),
     synopsis: raw.synopsis,

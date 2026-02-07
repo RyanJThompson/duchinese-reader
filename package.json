@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "scrape": "tsx scraper/src/index.ts --output-dir public/data --no-text",
+    "scrape:full": "tsx scraper/src/index.ts --output-dir scraper/output"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
@@ -20,6 +22,7 @@
     "onlyBuiltDependencies": ["esbuild"]
   },
   "devDependencies": {
+    "tsx": "^4.19.0",
     "@eslint/js": "^9.39.1",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",
