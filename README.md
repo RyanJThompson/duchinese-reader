@@ -6,6 +6,10 @@ A local-first lesson reader and scraper for [DuChinese](https://www.duchinese.ne
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryanthompson/duchinese-reader&env=DUCHINESE_EMAIL,DUCHINESE_PASSWORD&envDescription=Your%20DuChinese%20account%20credentials&envLink=https://www.duchinese.net/&stores=[{"type":"kv"}])
 
+## One-Click Deploy (Recommended)
+
+Click the **Deploy with Vercel** button above. Vercel will prompt you for your `DUCHINESE_EMAIL` and `DUCHINESE_PASSWORD`, then handle everything — install, scrape, build, and deploy — automatically. No need to run the project locally; Vercel's free tier will set up, build, and host the app for you. To enable learned-lesson tracking across devices, set up Upstash Redis — see [Cross-Device Sync](#cross-device-sync-optional) below.
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18+)
@@ -58,10 +62,6 @@ You can also create a `.env` file based on `.env.example` instead of exporting v
 The scraper supports additional flags — run `pnpm scrape -- --help` for details.
 
 ## Deployment
-
-### One-Click Deploy (Recommended)
-
-Click the **Deploy with Vercel** button at the top of this README. Vercel will prompt you for your `DUCHINESE_EMAIL` and `DUCHINESE_PASSWORD`, then handle everything — install, scrape, build, and deploy — automatically.
 
 ### CLI Deploy
 
