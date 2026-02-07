@@ -81,12 +81,12 @@ async function main() {
 
   // Step 1: Authenticate
   console.log('Step 1: Authenticating...');
-  const email = process.env.DUCHINESE_EMAIL || 'you@example.com';
+  const email = process.env.DUCHINESE_EMAIL;
   const password = process.env.DUCHINESE_PASSWORD;
 
-  if (!password) {
-    console.error('Error: Set DUCHINESE_PASSWORD environment variable');
-    console.error('Usage: DUCHINESE_PASSWORD=yourpass npx tsx scraper/src/index.ts');
+  if (!email || !password) {
+    console.error('Error: Set DUCHINESE_EMAIL and DUCHINESE_PASSWORD environment variables');
+    console.error('Usage: DUCHINESE_EMAIL=you@example.com DUCHINESE_PASSWORD=yourpass pnpm scrape');
     process.exit(1);
   }
 

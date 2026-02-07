@@ -25,3 +25,6 @@ dist-ssr
 
 public/data/
 scraper/output/
+
+# Environment variables
+.env

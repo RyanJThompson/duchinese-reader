@@ -1,73 +1,65 @@
-# React + TypeScript + Vite
+# DuChinese Reader
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A local-first lesson reader and scraper for [DuChinese](https://www.duchinese.net/). Scrape your DuChinese lessons using your own account credentials and browse them in a locally-hosted React app with synchronized audio playback, pinyin annotations, and English translations.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Node.js](https://nodejs.org/) (v18+)
+- [pnpm](https://pnpm.io/)
+- A [DuChinese](https://www.duchinese.net/) account with an active subscription
 
-## React Compiler
+## Quick Start
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+# Clone the repository
+git clone https://github.com/ryanthompson/duchinese-reader.git
+cd duchinese-reader
 
-## Expanding the ESLint configuration
+# Install dependencies
+pnpm install
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# Set your DuChinese credentials
+export DUCHINESE_EMAIL=you@example.com
+export DUCHINESE_PASSWORD=yourpass
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+# Scrape lessons into public/data/ for the reader app
+pnpm scrape
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Start the dev server
+pnpm dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+You can also create a `.env` file based on `.env.example` instead of exporting variables.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Available Scripts
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+| Command | Description |
+|---------|-------------|
+| `pnpm scrape` | Scrape lessons into `public/data/` (JSON only, for the reader app) |
+| `pnpm scrape:full` | Full scrape into `scraper/output/` (includes text files) |
+| `pnpm dev` | Start the Vite dev server |
+| `pnpm build` | Type-check and build for production |
+| `pnpm preview` | Preview the production build |
+| `pnpm lint` | Run ESLint |
+
+The scraper supports additional flags — run `pnpm scrape -- --help` for details.
+
+## Project Structure
+
 ```
+├── scraper/          # DuChinese API scraper (tsx)
+│   └── src/
+├── src/
+│   ├── adapters/     # Data format adapters (DuChinese JSON → app models)
+│   ├── components/   # React UI components
+│   ├── context/      # React context providers
+│   ├── hooks/        # Custom React hooks (audio, preferences)
+│   ├── pages/        # Page-level components
+│   └── types/        # TypeScript type definitions
+├── public/data/      # Scraped lesson data (git-ignored)
+└── package.json
+```
+
+## License
+
+[MIT](LICENSE)
