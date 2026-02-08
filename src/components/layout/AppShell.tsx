@@ -49,8 +49,19 @@ export default function AppShell() {
     <div className="min-h-screen flex flex-col">
       <header className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700">
         <div className="max-w-7xl mx-auto px-4 h-14 flex items-center">
-          <Link to="/" className="text-lg font-bold text-gray-900 dark:text-gray-100 no-underline">
-            <span className="text-red-600">中</span>文 Reader
+          <Link to="/" className="no-underline flex items-center" aria-label="Home">
+            <img
+              src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMjQiPjx0ZXh0IHg9IjAiIHk9IjE4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNkYzI2MjYiPuS4rTwvdGV4dD48dGV4dCB4PSIyMiIgeT0iMTgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzExMTgyNyI+5paHIFJlYWRlcjwvdGV4dD48L3N2Zz4K"
+              alt=""
+              aria-hidden="true"
+              className="h-6 dark:hidden"
+            />
+            <img
+              src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMjQiPjx0ZXh0IHg9IjAiIHk9IjE4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNkYzI2MjYiPuS4rTwvdGV4dD48dGV4dCB4PSIyMiIgeT0iMTgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2YzZjRmNiI+5paHIFJlYWRlcjwvdGV4dD48L3N2Zz4K"
+              alt=""
+              aria-hidden="true"
+              className="h-6 hidden dark:block"
+            />
           </Link>
           <Link
             to="/recents"
