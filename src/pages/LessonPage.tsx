@@ -61,11 +61,13 @@ export default function LessonPage() {
   return (
     <>
       <div className={`max-w-3xl mx-auto px-4 py-6 space-y-6 ${lesson.audioUrl ? 'pb-24' : ''}`}>
-        <ReaderToolbar
-          learned={isLearned(lesson.id)}
-          onToggleLearned={() => toggleLearned(lesson.id)}
-          onBack={() => navigate('/')}
-        />
+        <div className="sticky top-0 z-10 -mx-4 px-4 py-2 -mt-6 bg-white dark:bg-gray-950 border-b border-gray-200 dark:border-gray-700 sm:static sm:mx-0 sm:px-0 sm:py-0 sm:mt-0 sm:bg-transparent sm:dark:bg-transparent sm:border-b-0">
+          <ReaderToolbar
+            learned={isLearned(lesson.id)}
+            onToggleLearned={() => toggleLearned(lesson.id)}
+            onBack={() => navigate('/')}
+          />
+        </div>
 
         <div>
           <div className="flex items-center gap-2 mb-2">
