@@ -35,7 +35,11 @@ export default function SentenceBlock({ sentence, script, showPinyin, showEnglis
                 <rect x="1" y="0" width="4" height="14" rx="1" />
                 <rect x="9" y="0" width="4" height="14" rx="1" />
               </svg>
-            ) : '▶'}
+            ) : (
+              <svg width="10" height="10" viewBox="0 0 14 14" fill="currentColor">
+                <polygon points="2,0 14,7 2,14" />
+              </svg>
+            )}
           </button>
         )}
       </div>

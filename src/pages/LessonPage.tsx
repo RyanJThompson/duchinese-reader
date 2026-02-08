@@ -84,26 +84,36 @@ export default function LessonPage() {
               {chapterNav.prev ? (
                 <Link
                   to={`/lesson/${chapterNav.prev}`}
-                  className="px-3 py-1 rounded text-xs font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline"
+                  className="p-1.5 rounded bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline flex items-center"
+                  title="Previous chapter"
                 >
-                  &larr; Previous
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="15 18 9 12 15 6" />
+                  </svg>
                 </Link>
               ) : (
-                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
-                  &larr; Previous
+                <span className="p-1.5 rounded text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="15 18 9 12 15 6" />
+                  </svg>
                 </span>
               )}
               <div className="flex-1" />
               {chapterNav.next ? (
                 <Link
                   to={`/lesson/${chapterNav.next}`}
-                  className="px-3 py-1 rounded text-xs font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline"
+                  className="p-1.5 rounded bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 no-underline flex items-center"
+                  title="Next chapter"
                 >
-                  Next &rarr;
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="9 18 15 12 9 6" />
+                  </svg>
                 </Link>
               ) : (
-                <span className="px-3 py-1 rounded text-xs font-medium text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
-                  Next &rarr;
+                <span className="p-1.5 rounded text-gray-300 dark:text-gray-600 border border-gray-100 dark:border-gray-800">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="9 18 15 12 9 6" />
+                  </svg>
                 </span>
               )}
             </div>
@@ -119,18 +129,26 @@ export default function LessonPage() {
             {chapterNav.prev ? (
               <Link
                 to={`/lesson/${chapterNav.prev}`}
-                className="px-4 py-2 rounded-lg text-sm font-medium bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 no-underline"
+                className="p-2.5 rounded-lg bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 no-underline flex items-center"
+                title="Previous chapter"
               >
-                &larr; Previous Chapter
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="19" y1="12" x2="5" y2="12" />
+                  <polyline points="12 19 5 12 12 5" />
+                </svg>
               </Link>
             ) : <div />}
             <div className="flex-1" />
             {chapterNav.next && (
               <Link
                 to={`/lesson/${chapterNav.next}`}
-                className="px-4 py-2 rounded-lg text-sm font-medium bg-red-600 text-white hover:bg-red-700 no-underline"
+                className="p-2.5 rounded-lg bg-red-600 text-white hover:bg-red-700 no-underline flex items-center"
+                title="Next chapter"
               >
-                Next Chapter &rarr;
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                  <polyline points="12 5 19 12 12 19" />
+                </svg>
               </Link>
             )}
           </div>
@@ -142,9 +160,16 @@ export default function LessonPage() {
           <div className="max-w-3xl mx-auto px-4">
             <button
               onClick={() => setPlayerCollapsed((c) => !c)}
-              className="px-3 py-1 text-xs font-medium bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 rounded-t-lg cursor-pointer border border-b-0 border-gray-300 dark:border-gray-600"
+              className="px-3 py-1.5 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 rounded-t-lg cursor-pointer border border-b-0 border-gray-300 dark:border-gray-600 flex items-center justify-center"
+              title={playerCollapsed ? 'Show Player' : 'Hide Player'}
             >
-              {playerCollapsed ? 'Show Player' : 'Hide Player'}
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                {playerCollapsed ? (
+                  <polyline points="18 15 12 9 6 15" />
+                ) : (
+                  <polyline points="6 9 12 15 18 9" />
+                )}
+              </svg>
             </button>
           </div>
           {!playerCollapsed && (

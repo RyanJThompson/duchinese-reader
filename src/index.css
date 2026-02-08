@@ -1,2 +1,13 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
+
+/* Prevent browser extensions (e.g. Migaku Reader) from selecting text
+   inside interactive elements on mobile. */
+button,
+a,
+select,
+[role="button"] {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}

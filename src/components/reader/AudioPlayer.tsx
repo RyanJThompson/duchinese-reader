@@ -31,13 +31,18 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
       <button
         onClick={toggle}
         className="w-8 h-8 flex items-center justify-center rounded-full bg-red-600 text-white hover:bg-red-700 transition-colors cursor-pointer text-sm"
+        title={playing ? 'Pause' : 'Play'}
       >
         {playing ? (
           <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
             <rect x="1" y="0" width="4" height="14" rx="1" />
             <rect x="9" y="0" width="4" height="14" rx="1" />
           </svg>
-        ) : '▶'}
+        ) : (
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
+            <polygon points="2,0 14,7 2,14" />
+          </svg>
+        )}
       </button>
       <span className="text-xs text-gray-500 dark:text-gray-400 w-10 text-right tabular-nums">
         {formatTime(currentTime)}
