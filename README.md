@@ -4,7 +4,7 @@ A local-first lesson reader and scraper for [DuChinese](https://www.duchinese.ne
 
 > **Disclaimer:** This project is an independent, unofficial tool and is not affiliated with or endorsed by DuChinese. It requires an active DuChinese subscription and uses your own account credentials to access content you are already paying for. No lesson content is included in this repository. Use responsibly and in accordance with DuChinese's [terms of service](https://duchinese.net/legal).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryanthompson/duchinese-reader&env=DUCHINESE_EMAIL,DUCHINESE_PASSWORD&envDescription=Your%20DuChinese%20account%20credentials&envLink=https://www.duchinese.net/&stores=[{"type":"kv"}])
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRyanJThompson%2Fduchinese-reader&env=DUCHINESE_EMAIL,DUCHINESE_PASSWORD&envDescription=Your%20DuChinese%20account%20credentials&envLink=https%3A%2F%2Fwww.duchinese.net%2F&project-name=duchinese-reader&repository-name=duchinese-reader)
 
 ## One-Click Deploy (Recommended)
 
