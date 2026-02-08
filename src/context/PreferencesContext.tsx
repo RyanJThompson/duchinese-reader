@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState, type ReactNode } from 'react';
 import { getItem, setItem } from '../lib/storage';
+import { fetchRemotePreferences, pushRemotePreferences } from '../lib/sync';
 import { PreferencesContext, type Script, type Theme } from './preferencesContextValue';
 
 function applyDarkClass(isDark: boolean) {
@@ -11,6 +12,7 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
   const [showPinyin, setShowPinyin] = useState(() => getItem('reader:pinyin', false));
   const [showEnglish, setShowEnglish] = useState(() => getItem('reader:english', false));
   const [theme, setThemeState] = useState<Theme>(() => getItem('reader:theme', 'auto'));
+  const [showAudioPlayer, setShowAudioPlayer] = useState(() => getItem('reader:showAudioPlayer', false));
 
   const setTheme = useCallback((t: Theme) => {
     setThemeState(t);
@@ -58,8 +60,31 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
     });
   }, []);
 
+  const toggleAudioPlayer = useCallback(() => {
+    setShowAudioPlayer((prev) => {
+      const next = !prev;
+      setItem('reader:showAudioPlayer', next);
+      pushRemotePreferences({ showAudioPlayer: next }).catch(() => {});
+      return next;
+    });
+  }, []);
+
+  useEffect(() => {
+    fetchRemotePreferences()
+      .then((remote) => {
+        if (remote.showAudioPlayer != null) {
+          const local = getItem('reader:showAudioPlayer', undefined as boolean | undefined);
+          if (local == null) {
+            setShowAudioPlayer(remote.showAudioPlayer);
+            setItem('reader:showAudioPlayer', remote.showAudioPlayer);
+          }
+        }
+      })
+      .catch(() => {});
+  }, []);
+
   return (
-    <PreferencesContext.Provider value={{ script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish, theme, setTheme }}>
+    <PreferencesContext.Provider value={{ script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish, theme, setTheme, showAudioPlayer, toggleAudioPlayer }}>
       {children}
     </PreferencesContext.Provider>
   );

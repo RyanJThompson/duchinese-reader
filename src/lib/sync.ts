@@ -30,3 +30,21 @@ export async function pushRemoteRecents(entries: RecentEntry[]): Promise<void> {
     body: JSON.stringify(entries),
   });
 }
+
+export interface SyncedPreferences {
+  showAudioPlayer?: boolean;
+}
+
+export async function fetchRemotePreferences(): Promise<SyncedPreferences> {
+  const res = await fetch('/api/preferences');
+  if (!res.ok) return {};
+  return res.json();
+}
+
+export async function pushRemotePreferences(prefs: SyncedPreferences): Promise<void> {
+  await fetch('/api/preferences', {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(prefs),
+  });
+}

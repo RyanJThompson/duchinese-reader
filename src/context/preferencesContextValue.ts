@@ -12,6 +12,13 @@ export interface PreferencesContextValue {
   toggleEnglish: () => void;
   theme: Theme;
   setTheme: (theme: Theme) => void;
+  showAudioPlayer: boolean;
+  toggleAudioPlayer: () => void;
+}
+
+/** Subset of preferences synced to Redis */
+export interface SyncedPreferences {
+  showAudioPlayer?: boolean;
 }
 
 export const PreferencesContext = createContext<PreferencesContextValue | null>(null);

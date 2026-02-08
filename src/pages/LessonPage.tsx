@@ -1,8 +1,9 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router';
 import { useLesson } from '../hooks/useLesson';
 import { useAudio } from '../hooks/useAudio';
 import { useLearned } from '../context/useLearned';
+import { usePreferences } from '../context/usePreferences';
 import { useRecents } from '../context/useRecents';
 import { useData } from '../context/useData';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
@@ -31,6 +32,7 @@ export default function LessonPage() {
   const navigate = useNavigate();
   const { lesson, loading, error } = useLesson(id);
   const { isLearned, toggleLearned } = useLearned();
+  const { showAudioPlayer, toggleAudioPlayer } = usePreferences();
   const { recordVisit } = useRecents();
   const chapterNav = useChapterNav(lesson?.series?.title, lesson?.id);
 
@@ -38,7 +40,6 @@ export default function LessonPage() {
     if (lesson?.id) recordVisit(lesson.id);
   }, [lesson?.id, recordVisit]);
   const audio = useAudio(lesson?.audioUrl);
-  const [playerCollapsed, setPlayerCollapsed] = useState(false);
 
   if (loading) {
     return (
@@ -167,20 +168,20 @@ export default function LessonPage() {
         <div className="fixed bottom-0 left-0 right-0 z-20">
           <div className="max-w-3xl mx-auto px-4">
             <button
-              onClick={() => setPlayerCollapsed((c) => !c)}
+              onClick={toggleAudioPlayer}
               className="px-3 py-1.5 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 rounded-t-lg cursor-pointer border border-b-0 border-gray-300 dark:border-gray-600 flex items-center justify-center"
-              title={playerCollapsed ? 'Show Player' : 'Hide Player'}
+              title={showAudioPlayer ? 'Hide Player' : 'Show Player'}
             >
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                {playerCollapsed ? (
-                  <polyline points="18 15 12 9 6 15" />
-                ) : (
+                {showAudioPlayer ? (
                   <polyline points="6 9 12 15 18 9" />
+                ) : (
+                  <polyline points="18 15 12 9 6 15" />
                 )}
               </svg>
             </button>
           </div>
-          {!playerCollapsed && (
+          {showAudioPlayer && (
             <div className="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 shadow-lg">
               <div className="max-w-3xl mx-auto px-4 py-2">
                 <AudioPlayer audio={audio} />
