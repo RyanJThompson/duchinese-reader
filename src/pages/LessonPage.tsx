@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router';
 import { useLesson } from '../hooks/useLesson';
 import { useAudio } from '../hooks/useAudio';
 import { useLearned } from '../context/useLearned';
+import { useRecents } from '../context/useRecents';
 import { useData } from '../context/useData';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
 import ReaderToolbar from '../components/reader/ReaderToolbar';
@@ -30,7 +31,12 @@ export default function LessonPage() {
   const navigate = useNavigate();
   const { lesson, loading, error } = useLesson(id);
   const { isLearned, toggleLearned } = useLearned();
+  const { recordVisit } = useRecents();
   const chapterNav = useChapterNav(lesson?.series?.title, lesson?.id);
+
+  useEffect(() => {
+    if (lesson?.id) recordVisit(lesson.id);
+  }, [lesson?.id, recordVisit]);
   const audio = useAudio(lesson?.audioUrl);
   const [playerCollapsed, setPlayerCollapsed] = useState(false);
 

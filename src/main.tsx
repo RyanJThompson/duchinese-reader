@@ -6,6 +6,7 @@ import { DuChineseAdapter } from './adapters/duchinese/adapter';
 import { DataProvider } from './context/DataContext';
 import { PreferencesProvider } from './context/PreferencesContext';
 import { LearnedProvider } from './context/LearnedContext';
+import { RecentsProvider } from './context/RecentsContext';
 
 const adapter = new DuChineseAdapter();
 
@@ -14,7 +15,9 @@ createRoot(document.getElementById('root')!).render(
     <DataProvider adapter={adapter}>
       <PreferencesProvider>
         <LearnedProvider>
-          <App />
+          <RecentsProvider>
+            <App />
+          </RecentsProvider>
         </LearnedProvider>
       </PreferencesProvider>
     </DataProvider>
