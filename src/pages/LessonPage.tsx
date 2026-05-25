@@ -59,6 +59,8 @@ export default function LessonPage() {
     );
   }
 
+  const synopsis = lesson.synopsis.trim();
+
   return (
     <>
       <div className={`max-w-3xl mx-auto px-4 py-6 space-y-6 ${lesson.audioUrl ? 'pb-24' : ''}`}>
@@ -78,7 +80,9 @@ export default function LessonPage() {
             <span className="text-xs text-gray-400 dark:text-gray-500">{lesson.date}</span>
           </div>
           <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">{lesson.title}</h1>
-          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">{lesson.synopsis}</p>
+          {synopsis && (
+            <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">{synopsis}</p>
+          )}
         </div>
 
         {lesson.series && (

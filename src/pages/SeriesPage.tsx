@@ -5,6 +5,10 @@ import { useLearned } from '../context/useLearned';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
 import type { LessonSummary } from '../types/reader';
 
+function getChapterSubtitle(chapter: LessonSummary, position: number, total: number): string {
+  return chapter.synopsis.trim() || `Chapter ${position} of ${total}`;
+}
+
 export default function SeriesPage() {
   const { title } = useParams<{ title: string }>();
   const decodedTitle = decodeURIComponent(title ?? '');
@@ -80,6 +84,7 @@ export default function SeriesPage() {
       <div className="border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden divide-y divide-gray-100 dark:divide-gray-800">
         {chapters.map((ch, i) => {
           const learned = isLearned(ch.id);
+          const subtitle = getChapterSubtitle(ch, i + 1, chapters.length);
           return (
             <Link
               key={ch.id}
@@ -91,7 +96,7 @@ export default function SeriesPage() {
               </span>
               <div className="flex-1 min-w-0">
                 <div className="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">{ch.title}</div>
-                <div className="text-xs text-gray-500 dark:text-gray-400 truncate">{ch.synopsis}</div>
+                <div className="text-xs text-gray-500 dark:text-gray-400 truncate">{subtitle}</div>
               </div>
               {learned && (
                 <span className="text-green-500 flex-shrink-0" title="Learned">

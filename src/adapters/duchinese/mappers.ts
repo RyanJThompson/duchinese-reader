@@ -11,6 +11,11 @@ function normalizeLevel(raw: string): Level {
   return 'intermediate'; // fallback
 }
 
+function normalizeSynopsis(raw: string | null | undefined): string {
+  const synopsis = raw?.trim() ?? '';
+  return synopsis.toLowerCase() === 'null' ? '' : synopsis;
+}
+
 function isWhitespace(text: string): boolean {
   return text.trim().length === 0;
 }
@@ -50,7 +55,7 @@ export function mapIndexEntry(raw: RawIndexEntry): LessonSummary {
     id: String(raw.id),
     title: raw.title,
     level: normalizeLevel(raw.level),
-    synopsis: raw.synopsis,
+    synopsis: normalizeSynopsis(raw.synopsis),
     date: raw.release_at_formatted,
     imageUrl: raw.medium_image_url || undefined,
     audioUrl: raw.audio_url || undefined,
@@ -139,7 +144,7 @@ export function mapLesson(raw: RawLesson): Lesson {
     id: String(raw.id),
     title: raw.title,
     level: normalizeLevel(raw.level),
-    synopsis: raw.synopsis,
+    synopsis: normalizeSynopsis(raw.synopsis),
     date: raw.date,
     audioUrl: raw.audioUrl || undefined,
     series: raw.series
