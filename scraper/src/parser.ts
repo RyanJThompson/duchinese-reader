@@ -17,7 +17,7 @@ export interface VocabEntry {
 }
 
 export interface ParsedLesson {
-  id: number;
+  id: string;
   title: string;
   level: string;
   date: string;
@@ -65,7 +65,7 @@ export function parseCrd(
       .map(w => w.pinyin)
       .join(' ');
 
-    const english = sentence_translations[i] || '';
+    const english = sentence_translations[i + 1] || '';
 
     sentences.push({
       index: i + 1,
@@ -112,7 +112,7 @@ export function parseCrd(
   }
 
   return {
-    id: meta.id,
+    id: String(meta.id),
     title: meta.title,
     level: meta.level,
     date: (meta.release_at_formatted || meta.release_at || '') as string,

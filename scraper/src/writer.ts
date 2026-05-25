@@ -149,7 +149,7 @@ export async function writeSeriesInfo(
  */
 export async function lessonJsonExists(
   outputDir: string,
-  lessonId: number
+  lessonId: string
 ): Promise<boolean> {
   const filepath = path.join(outputDir, 'lessons', `${lessonId}.json`);
   try {

@@ -22,6 +22,11 @@ interface CliOptions {
   noText: boolean;
 }
 
+function getCourseKey(lesson: LessonMeta): string | null {
+  if (!lesson.has_course || !lesson.course) return null;
+  return lesson.course.path || lesson.course_path || String(lesson.course.id);
+}
+
 function parseArgs(): CliOptions {
   const args = process.argv.slice(2);
   const options: CliOptions = {
@@ -110,27 +115,27 @@ async function main() {
     console.log(`Limited to ${options.limit} lessons`);
   }
 
-  // Step 3: Set up output directories and write master index
+  // Step 3: Set up output directories
   console.log('\nStep 3: Setting up output directories...');
   await ensureOutputDirs(options.outputDir, options.noText);
-  await writeMasterIndex(options.outputDir, lessons);
-  console.log('Master index written.\n');
+  console.log('Output directories ready.\n');
 
   // Pre-compute series chapter counts
   const seriesChapterCounts = new Map<string, number>();
   const seriesLessons = new Map<string, LessonMeta[]>();
 
   for (const lesson of lessons) {
-    if (lesson.has_course && lesson.course) {
-      const slug = lesson.course.slug;
-      const current = seriesChapterCounts.get(slug) || 0;
-      const pos = lesson.course_position || 0;
-      seriesChapterCounts.set(slug, Math.max(current, pos));
+    const courseKey = getCourseKey(lesson);
+    if (courseKey && lesson.course) {
+      const current = seriesChapterCounts.get(courseKey) || 0;
+      const fallbackCount = lesson.course.lesson_count || 0;
+      const positionCount = lesson.course_position !== undefined ? lesson.course_position + 1 : 0;
+      seriesChapterCounts.set(courseKey, Math.max(current, fallbackCount, positionCount));
 
-      if (!seriesLessons.has(slug)) {
-        seriesLessons.set(slug, []);
+      if (!seriesLessons.has(courseKey)) {
+        seriesLessons.set(courseKey, []);
       }
-      seriesLessons.get(slug)!.push(lesson);
+      seriesLessons.get(courseKey)!.push(lesson);
     }
   }
 
@@ -140,7 +145,8 @@ async function main() {
   let skipped = 0;
   let failed = 0;
   const total = lessons.length;
-  const errors: { id: number; title: string; error: string }[] = [];
+  const errors: { id: string; title: string; error: string }[] = [];
+  const indexedLessons: LessonMeta[] = [];
 
   await processBatch(lessons, options.concurrency, async (lesson) => {
     const idx = processed + skipped + failed + 1;
@@ -149,6 +155,7 @@ async function main() {
     if (options.skipExisting) {
       const exists = await lessonJsonExists(options.outputDir, lesson.id);
       if (exists) {
+        indexedLessons.push(lesson);
         skipped++;
         return;
       }
@@ -178,8 +185,9 @@ async function main() {
       const crd = await fetchCrd(lesson.crd_url);
 
       // Get total chapters for this series
-      const totalChapters = lesson.has_course && lesson.course
-        ? seriesChapterCounts.get(lesson.course.slug)
+      const courseKey = getCourseKey(lesson);
+      const totalChapters = courseKey
+        ? seriesChapterCounts.get(courseKey)
         : undefined;
 
       // Parse
@@ -187,6 +195,7 @@ async function main() {
 
       // Write JSON output
       await writeLessonJson(options.outputDir, parsed);
+      indexedLessons.push(lesson);
 
       // Write text outputs unless --no-text
       if (!options.noText) {
@@ -207,11 +216,15 @@ async function main() {
     }
   });
 
-  // Step 5: Write series info files (unless --no-text)
-  if (!options.noText) {
-    console.log('\nStep 5: Writing series info files...');
+  console.log('\nStep 5: Writing master index...');
+  await writeMasterIndex(options.outputDir, indexedLessons);
+  console.log(`Master index written with ${indexedLessons.length} available lessons.`);
 
-    for (const [slug, members] of seriesLessons.entries()) {
+  // Step 6: Write series info files (unless --no-text)
+  if (!options.noText) {
+    console.log('\nStep 6: Writing series info files...');
+
+    for (const members of seriesLessons.values()) {
       const firstMember = members[0];
       if (!firstMember.course) continue;
 
