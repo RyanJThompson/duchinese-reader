@@ -4,7 +4,9 @@ import type { RawIndexEntry, RawLesson } from './types';
 import { mapIndexEntry, mapLesson } from './mappers';
 import { readerHeaders } from '../../lib/request';
 
-const DEFAULT_BASE_PATH = import.meta.env.PROD ? '/api/data' : '/data';
+// Lesson data is served as static files at /data (protected by the edge
+// basic-auth middleware) in both dev and prod — no serverless function needed.
+const DEFAULT_BASE_PATH = '/data';
 
 export class DuChineseAdapter implements DataAdapter {
   private basePath: string;

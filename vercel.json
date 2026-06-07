@@ -1,8 +1,7 @@
 {
-  "buildCommand": "BUILD_PRIVATE_DATA=1 pnpm scrape:server && BUILD_PRIVATE_DATA=1 pnpm build",
+  "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/api/data/(.*)", "destination": "/api/data?path=$1" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }

@@ -1,0 +1,11 @@
+# Reinstalled / rebuilt on Vercel — no need to upload
+node_modules/
+dist/
+.vercel/
+
+# Heavy local artifacts not needed by the deployment.
+# (public/data IS uploaded — it's served statically at /data behind auth.)
+scraper/output/
+scraper/dist/
+.reader-data/
+epubs/

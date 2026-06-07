@@ -4,5 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  publicDir: process.env.BUILD_PRIVATE_DATA === '1' ? false : 'public',
+  // Always include public/ (incl. public/data) in the build. Lesson data ships
+  // as static files served at /data, gated by the edge basic-auth middleware.
+  publicDir: 'public',
 })

@@ -38,3 +38,6 @@ epubs/
 .vercel
 .env*.local
 .env*
+
+# Playwright MCP browser test artifacts
+.playwright-mcp/
