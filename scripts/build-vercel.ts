@@ -3,13 +3,14 @@ import { cpSync, mkdirSync, writeFileSync, rmSync } from 'node:fs';
 import { build } from 'esbuild';
 
 const OUTPUT = '.vercel/output';
+const API_FUNCTIONS = ['data', 'learned', 'recents', 'preferences'];
 
 // Clean previous build output
 rmSync(OUTPUT, { recursive: true, force: true });
 
 // Build the app
 console.log('\n  Building app...');
-execSync('pnpm build', { stdio: 'inherit' });
+execSync('BUILD_PRIVATE_DATA=1 pnpm build', { stdio: 'inherit' });
 
 // Copy static files
 mkdirSync(`${OUTPUT}/static`, { recursive: true });
@@ -24,23 +25,28 @@ writeFileSync(`${OUTPUT}/config.json`, JSON.stringify({
   ],
 }, null, 2));
 
-// Bundle serverless function (esbuild inlines @upstash/redis, externalizes node builtins)
-const funcDir = `${OUTPUT}/functions/api/learned.func`;
-mkdirSync(funcDir, { recursive: true });
+console.log('\n  Bundling serverless functions...');
+for (const name of API_FUNCTIONS) {
+  const funcDir = `${OUTPUT}/functions/api/${name}.func`;
+  mkdirSync(funcDir, { recursive: true });
 
-console.log('\n  Bundling serverless function...');
-await build({
-  entryPoints: ['api/learned.ts'],
-  bundle: true,
-  platform: 'node',
-  format: 'esm',
-  outfile: `${funcDir}/index.mjs`,
-});
+  await build({
+    entryPoints: [`api/${name}.ts`],
+    bundle: true,
+    platform: 'node',
+    format: 'esm',
+    outfile: `${funcDir}/index.mjs`,
+  });
 
-writeFileSync(`${funcDir}/.vc-config.json`, JSON.stringify({
-  runtime: 'nodejs20.x',
-  handler: 'index.mjs',
-  launcherType: 'Nodejs',
-}, null, 2));
+  if (name === 'data') {
+    cpSync('.reader-data', `${funcDir}/.reader-data`, { recursive: true });
+  }
+
+  writeFileSync(`${funcDir}/.vc-config.json`, JSON.stringify({
+    runtime: 'nodejs20.x',
+    handler: 'index.mjs',
+    launcherType: 'Nodejs',
+  }, null, 2));
+}
 
 console.log('\n  Vercel build output ready.');

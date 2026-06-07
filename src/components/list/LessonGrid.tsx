@@ -20,11 +20,6 @@ export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGrid
     setVisibleCount((c) => c + PAGE_SIZE);
   }, []);
 
-  // Reset visible count when the lesson list changes (e.g. filter change)
-  useEffect(() => {
-    setVisibleCount(PAGE_SIZE);
-  }, [lessons]);
-
   const visible = useMemo(() => lessons.slice(0, visibleCount), [lessons, visibleCount]);
   const hasMore = visibleCount < lessons.length;
 

@@ -26,6 +26,8 @@ export default function VocabularyPanel({ vocabulary }: VocabularyPanelProps) {
       <button
         onClick={() => setCollapsed((c) => !c)}
         className="flex items-center gap-2 text-sm font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-wide cursor-pointer hover:text-gray-900 dark:hover:text-gray-100 w-full text-left"
+        aria-expanded={!collapsed}
+        aria-controls="lesson-vocabulary"
       >
         <span className="text-xs transition-transform" style={{ transform: collapsed ? 'rotate(-90deg)' : 'rotate(0deg)' }}>
           ▼
@@ -33,7 +35,7 @@ export default function VocabularyPanel({ vocabulary }: VocabularyPanelProps) {
         Vocabulary ({vocabulary.length})
       </button>
       {!collapsed && (
-        <div className="space-y-1">
+        <div id="lesson-vocabulary" className="space-y-1">
           {vocabulary.map((word, i) => (
             <div key={i} className="flex items-start gap-3 py-2 border-b border-gray-50 dark:border-gray-800 last:border-0">
               <div className="min-w-0 flex-1">

@@ -24,12 +24,17 @@ dist-ssr
 *.sw?
 
 public/data/
+.reader-data/
 scraper/output/
 
 # Build artifacts
 *.tsbuildinfo
 
+# Generated ebooks (personal export)
+epubs/
+
 # Environment variables
 .env
 .vercel
 .env*.local
+.env*

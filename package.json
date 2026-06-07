@@ -17,7 +17,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "scrape": "tsx scraper/src/index.ts --output-dir public/data --no-text",
+    "scrape:server": "tsx scraper/src/index.ts --output-dir .reader-data --no-text",
     "scrape:full": "tsx scraper/src/index.ts --output-dir scraper/output",
+    "build:epubs": "tsx scripts/build-epubs.ts",
+    "test": "tsx scripts/verify-reader.ts",
     "quickstart": "tsx scripts/setup.ts",
     "deploy:vercel": "npx vercel --prod --archive=tgz",
     "redeploy": "npx vercel --prod --archive=tgz"
@@ -25,6 +28,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
     "@upstash/redis": "^1.36.2",
+    "@vercel/functions": "^3.6.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router": "^7.13.0",
@@ -42,6 +46,7 @@
     "@types/react-dom": "^19.2.3",
     "@vercel/node": "^5.5.33",
     "@vitejs/plugin-react": "^5.1.1",
+    "epub-gen-memory": "^1.1.2",
     "esbuild": "^0.27.3",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",

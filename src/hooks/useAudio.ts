@@ -13,21 +13,35 @@ export interface AudioControls {
 export function useAudio(url?: string): AudioControls {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const rateRef = useRef(1);
-  const [playing, setPlaying] = useState(false);
-  const [currentTime, setCurrentTime] = useState(0);
-  const [duration, setDuration] = useState(0);
+  const [audioState, setAudioState] = useState({
+    url,
+    playing: false,
+    currentTime: 0,
+    duration: 0,
+  });
   const [playbackRate, setPlaybackRateState] = useState(1);
 
   useEffect(() => {
-    if (!url) return;
+    if (!url) {
+      audioRef.current = null;
+      return;
+    }
 
     const audio = new Audio(url);
     audio.playbackRate = rateRef.current;
     audioRef.current = audio;
 
-    const onTimeUpdate = () => setCurrentTime(audio.currentTime);
-    const onDurationChange = () => setDuration(audio.duration);
-    const onEnded = () => setPlaying(false);
+    const onTimeUpdate = () => setAudioState((prev) => ({
+      ...(prev.url === url ? prev : { url, playing: false, currentTime: 0, duration: 0 }),
+      url,
+      currentTime: audio.currentTime,
+    }));
+    const onDurationChange = () => setAudioState((prev) => ({
+      ...(prev.url === url ? prev : { url, playing: false, currentTime: 0, duration: 0 }),
+      url,
+      duration: audio.duration,
+    }));
+    const onEnded = () => setAudioState((prev) => ({ ...prev, url, playing: false }));
 
     audio.addEventListener('timeupdate', onTimeUpdate);
     audio.addEventListener('durationchange', onDurationChange);
@@ -38,7 +52,7 @@ export function useAudio(url?: string): AudioControls {
       audio.removeEventListener('timeupdate', onTimeUpdate);
       audio.removeEventListener('durationchange', onDurationChange);
       audio.removeEventListener('ended', onEnded);
-      audioRef.current = null;
+      if (audioRef.current === audio) audioRef.current = null;
     };
   }, [url]);
 
@@ -46,24 +60,26 @@ export function useAudio(url?: string): AudioControls {
     const audio = audioRef.current;
     if (!audio) return;
     if (audio.paused) {
-      audio.play();
-      setPlaying(true);
+      audio.play()
+        .then(() => setAudioState((prev) => ({ ...prev, url, playing: true })))
+        .catch(() => setAudioState((prev) => ({ ...prev, url, playing: false })));
     } else {
       audio.pause();
-      setPlaying(false);
+      setAudioState((prev) => ({ ...prev, url, playing: false }));
     }
-  }, []);
+  }, [url]);
 
   const seek = useCallback((time: number) => {
     const audio = audioRef.current;
     if (!audio) return;
     audio.currentTime = time;
-    setCurrentTime(time);
+    setAudioState((prev) => ({ ...prev, url, currentTime: time }));
     if (audio.paused) {
-      audio.play();
-      setPlaying(true);
+      audio.play()
+        .then(() => setAudioState((prev) => ({ ...prev, url, playing: true })))
+        .catch(() => setAudioState((prev) => ({ ...prev, url, playing: false })));
     }
-  }, []);
+  }, [url]);
 
   const setPlaybackRate = useCallback((rate: number) => {
     rateRef.current = rate;
@@ -72,5 +88,17 @@ export function useAudio(url?: string): AudioControls {
     setPlaybackRateState(rate);
   }, []);
 
-  return { playing, currentTime, duration, toggle, seek, playbackRate, setPlaybackRate };
+  const currentAudioState = audioState.url === url
+    ? audioState
+    : { url, playing: false, currentTime: 0, duration: 0 };
+
+  return {
+    playing: currentAudioState.playing,
+    currentTime: currentAudioState.currentTime,
+    duration: currentAudioState.duration,
+    toggle,
+    seek,
+    playbackRate,
+    setPlaybackRate,
+  };
 }

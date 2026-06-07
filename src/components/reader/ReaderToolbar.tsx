@@ -69,6 +69,7 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
         onClick={onBack}
         className="p-1.5 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 cursor-pointer"
         title="Back"
+        aria-label="Back"
       >
         <BackIcon />
       </button>
@@ -77,6 +78,8 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
         onClick={toggleScript}
         className="p-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800 cursor-pointer"
         title={script === 'simplified' ? 'Simplified' : 'Traditional'}
+        aria-label={script === 'simplified' ? 'Using simplified characters' : 'Using traditional characters'}
+        aria-pressed={script === 'traditional'}
       >
         <ScriptIcon />
       </button>
@@ -86,6 +89,8 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
           showPinyin ? 'border-red-300 dark:border-red-700 bg-red-50 dark:bg-red-950 text-red-700 dark:text-red-400' : 'border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800'
         }`}
         title="Pinyin"
+        aria-label="Show pinyin"
+        aria-pressed={showPinyin}
       >
         <PinyinIcon />
       </button>
@@ -95,6 +100,8 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
           showEnglish ? 'border-red-300 dark:border-red-700 bg-red-50 dark:bg-red-950 text-red-700 dark:text-red-400' : 'border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800'
         }`}
         title="English"
+        aria-label="Show English"
+        aria-pressed={showEnglish}
       >
         <EnglishIcon />
       </button>
@@ -106,6 +113,8 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
             : 'border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800'
         }`}
         title={learned ? 'Learned' : 'Mark learned'}
+        aria-label={learned ? 'Mark not learned' : 'Mark learned'}
+        aria-pressed={learned}
       >
         <LearnedIcon learned={learned} />
       </button>

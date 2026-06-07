@@ -55,6 +55,7 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
         value={currentTime}
         onChange={(e) => seek(Number(e.target.value))}
         className="flex-1 h-1 accent-red-600"
+        aria-label="Audio position"
       />
       <span className="text-xs text-gray-500 dark:text-gray-400 w-10 tabular-nums">
         {formatTime(duration)}
@@ -62,6 +63,7 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
       <button
         onClick={cycleSpeed}
         className="px-2 py-1 rounded text-xs font-medium border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 cursor-pointer tabular-nums min-w-[3rem]"
+        aria-label="Playback speed"
       >
         {rate}x
       </button>

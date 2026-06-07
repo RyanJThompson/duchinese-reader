@@ -1,10 +1,32 @@
 import { createInterface } from 'node:readline/promises';
 import { stdin, stdout } from 'node:process';
-import { execSync } from 'node:child_process';
+import { spawnSync } from 'node:child_process';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { randomBytes } from 'node:crypto';
 
 const LESSONS_PATH = 'public/data/lessons.json';
 const ENV_PATH = '.env';
+
+interface MaskableReadline {
+  _writeToOutput: (text: string) => void;
+}
+
+function runCommand(command: string, args: string[], options: Parameters<typeof spawnSync>[2] = {}) {
+  const result = spawnSync(command, args, { stdio: 'inherit', ...options });
+  if (result.status !== 0) {
+    throw new Error(`${command} ${args.join(' ')} failed`);
+  }
+}
+
+function addVercelEnv(name: string, value: string) {
+  const result = spawnSync('npx', ['vercel', 'env', 'add', name, 'production', '--force'], {
+    input: `${value}\n`,
+    stdio: ['pipe', 'inherit', 'inherit'],
+  });
+  if (result.status !== 0) {
+    throw new Error(`Failed to set ${name}`);
+  }
+}
 
 async function main() {
   const rl = createInterface({ input: stdin, output: stdout });
@@ -14,6 +36,8 @@ async function main() {
   // Check for existing credentials in .env
   let email = process.env.DUCHINESE_EMAIL ?? '';
   let password = process.env.DUCHINESE_PASSWORD ?? '';
+  let basicAuthUser = process.env.BASIC_AUTH_USER ?? '';
+  let basicAuthPassword = process.env.BASIC_AUTH_PASSWORD ?? process.env.APP_PASSWORD ?? '';
 
   if (existsSync(ENV_PATH)) {
     const envContents = readFileSync(ENV_PATH, 'utf-8');
@@ -22,6 +46,10 @@ async function main() {
       if (!match) continue;
       if (match[1] === 'DUCHINESE_EMAIL' && !email) email = match[2];
       if (match[1] === 'DUCHINESE_PASSWORD' && !password) password = match[2];
+      if (match[1] === 'BASIC_AUTH_USER' && !basicAuthUser) basicAuthUser = match[2];
+      if ((match[1] === 'BASIC_AUTH_PASSWORD' || match[1] === 'APP_PASSWORD') && !basicAuthPassword) {
+        basicAuthPassword = match[2];
+      }
     }
   }
 
@@ -35,10 +63,11 @@ async function main() {
   if (!password) {
     // Mute readline echo for password, write prompt ourselves
     stdout.write('? DuChinese password: ');
-    const origWrite = (rl as any)._writeToOutput;
-    (rl as any)._writeToOutput = () => {};
+    const maskedReadline = rl as unknown as MaskableReadline;
+    const origWrite = maskedReadline._writeToOutput;
+    maskedReadline._writeToOutput = () => {};
     password = await rl.question('');
-    (rl as any)._writeToOutput = origWrite;
+    maskedReadline._writeToOutput = origWrite;
     stdout.write('\n');
   } else {
     console.log('? DuChinese password: ******** (from .env)');
@@ -48,6 +77,15 @@ async function main() {
     console.error('\n  Error: Email and password are required.');
     rl.close();
     process.exit(1);
+  }
+
+  if (!basicAuthUser) basicAuthUser = 'reader';
+
+  if (!basicAuthPassword) {
+    basicAuthPassword = randomBytes(24).toString('base64url');
+    console.log(`? Reader login: ${basicAuthUser} / generated password`);
+  } else {
+    console.log(`? Reader login: ${basicAuthUser} / ******** (from env)`);
   }
 
   // Save to .env
@@ -66,8 +104,24 @@ async function main() {
       } else {
         envContent += `\nDUCHINESE_PASSWORD=${password}`;
       }
+      if (envContent.match(/^BASIC_AUTH_USER=.*/m)) {
+        envContent = envContent.replace(/^BASIC_AUTH_USER=.*/m, `BASIC_AUTH_USER=${basicAuthUser}`);
+      } else {
+        envContent += `\nBASIC_AUTH_USER=${basicAuthUser}`;
+      }
+      if (envContent.match(/^BASIC_AUTH_PASSWORD=.*/m)) {
+        envContent = envContent.replace(/^BASIC_AUTH_PASSWORD=.*/m, `BASIC_AUTH_PASSWORD=${basicAuthPassword}`);
+      } else {
+        envContent += `\nBASIC_AUTH_PASSWORD=${basicAuthPassword}`;
+      }
     } else {
-      envContent = `DUCHINESE_EMAIL=${email}\nDUCHINESE_PASSWORD=${password}\n`;
+      envContent = [
+        `DUCHINESE_EMAIL=${email}`,
+        `DUCHINESE_PASSWORD=${password}`,
+        `BASIC_AUTH_USER=${basicAuthUser}`,
+        `BASIC_AUTH_PASSWORD=${basicAuthPassword}`,
+        '',
+      ].join('\n');
     }
     writeFileSync(ENV_PATH, envContent.replace(/\n{3,}/g, '\n\n').trim() + '\n');
     console.log('  Saved to .env\n');
@@ -83,8 +137,7 @@ async function main() {
   if (shouldScrape) {
     console.log('\n  Scraping lessons...');
     try {
-      execSync('pnpm scrape', {
-        stdio: 'inherit',
+      runCommand('pnpm', ['scrape'], {
         env: { ...process.env, DUCHINESE_EMAIL: email, DUCHINESE_PASSWORD: password },
       });
       console.log('  Scraping complete.\n');
@@ -102,14 +155,16 @@ async function main() {
   if (deployAnswer.toLowerCase() !== 'n') {
     console.log('\n  Building and deploying...');
     try {
-      execSync('pnpm deploy:vercel', { stdio: 'inherit' });
-      console.log('\n  Deployment complete!');
-
       // Push credentials to Vercel so Git-triggered builds can scrape automatically
       console.log('  Setting Vercel environment variables...');
-      execSync(`echo "${email}" | npx vercel env add DUCHINESE_EMAIL production --force`, { stdio: 'inherit' });
-      execSync(`echo "${password}" | npx vercel env add DUCHINESE_PASSWORD production --force`, { stdio: 'inherit' });
+      addVercelEnv('DUCHINESE_EMAIL', email);
+      addVercelEnv('DUCHINESE_PASSWORD', password);
+      addVercelEnv('BASIC_AUTH_USER', basicAuthUser);
+      addVercelEnv('BASIC_AUTH_PASSWORD', basicAuthPassword);
       console.log('  Vercel env vars set.\n');
+
+      runCommand('pnpm', ['deploy:vercel']);
+      console.log('\n  Deployment complete!');
     } catch {
       console.error('\n  Error: Deployment failed. Check the output above for details.');
       rl.close();
