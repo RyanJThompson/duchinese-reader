@@ -2,7 +2,6 @@ import { Redis } from '@upstash/redis';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import {
   badRequest,
-  isSyncAuthorized,
   methodNotAllowed,
   normalizeRecents,
   syncUnavailable,
@@ -18,7 +17,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return methodNotAllowed(res);
   }
 
-  if (!redis || !isSyncAuthorized(req)) {
+  // Requests reach here only after the edge middleware has authenticated the
+  // session cookie, so Redis being configured is the only requirement.
+  if (!redis) {
     if (req.method === 'GET') return syncUnavailable(res, { entries: [], clearedAt: 0 });
     return syncUnavailable(res, { ok: true, synced: false });
   }
