@@ -6,6 +6,7 @@ export interface AudioControls {
   duration: number;
   toggle: () => void;
   seek: (time: number) => void;
+  skip: (delta: number) => void;
   playbackRate: number;
   setPlaybackRate: (rate: number) => void;
 }
@@ -81,6 +82,16 @@ export function useAudio(url?: string): AudioControls {
     }
   }, [url]);
 
+  // Jump relative to the current position, clamped, without changing play state.
+  const skip = useCallback((delta: number) => {
+    const audio = audioRef.current;
+    if (!audio) return;
+    const max = Number.isFinite(audio.duration) ? audio.duration : Infinity;
+    const target = Math.max(0, Math.min(audio.currentTime + delta, max));
+    audio.currentTime = target;
+    setAudioState((prev) => ({ ...prev, url, currentTime: target }));
+  }, [url]);
+
   const setPlaybackRate = useCallback((rate: number) => {
     rateRef.current = rate;
     const audio = audioRef.current;
@@ -98,6 +109,7 @@ export function useAudio(url?: string): AudioControls {
     duration: currentAudioState.duration,
     toggle,
     seek,
+    skip,
     playbackRate,
     setPlaybackRate,
   };

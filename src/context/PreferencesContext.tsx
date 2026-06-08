@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState, type ReactNode } from 'react';
 import { getItem, setItem } from '../lib/storage';
 import { fetchRemotePreferences, pushRemotePreferences } from '../lib/sync';
-import { PreferencesContext, type Script, type Theme } from './preferencesContextValue';
+import { PreferencesContext, type AudioPosition, type Script, type Theme } from './preferencesContextValue';
 
 function applyDarkClass(isDark: boolean) {
   document.documentElement.classList.toggle('dark', isDark);
@@ -13,6 +13,7 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
   const [showEnglish, setShowEnglish] = useState(() => getItem('reader:english', false));
   const [theme, setThemeState] = useState<Theme>(() => getItem('reader:theme', 'auto'));
   const [showAudioPlayer, setShowAudioPlayer] = useState(() => getItem('reader:showAudioPlayer', false));
+  const [audioPosition, setAudioPosition] = useState<AudioPosition>(() => getItem('reader:audioPosition', 'top'));
 
   const setTheme = useCallback((t: Theme) => {
     setThemeState(t);
@@ -69,6 +70,14 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
     });
   }, []);
 
+  const toggleAudioPosition = useCallback(() => {
+    setAudioPosition((prev) => {
+      const next = prev === 'top' ? 'bottom' : 'top';
+      setItem('reader:audioPosition', next);
+      return next;
+    });
+  }, []);
+
   useEffect(() => {
     fetchRemotePreferences()
       .then((remote) => {
@@ -84,7 +93,7 @@ export function PreferencesProvider({ children }: { children: ReactNode }) {
   }, []);
 
   return (
-    <PreferencesContext.Provider value={{ script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish, theme, setTheme, showAudioPlayer, toggleAudioPlayer }}>
+    <PreferencesContext.Provider value={{ script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish, theme, setTheme, showAudioPlayer, toggleAudioPlayer, audioPosition, toggleAudioPosition }}>
       {children}
     </PreferencesContext.Provider>
   );

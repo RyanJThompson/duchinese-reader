@@ -2,6 +2,7 @@ import { createContext } from 'react';
 
 export type Script = 'simplified' | 'traditional';
 export type Theme = 'light' | 'dark' | 'auto';
+export type AudioPosition = 'top' | 'bottom';
 
 export interface PreferencesContextValue {
   script: Script;
@@ -14,6 +15,8 @@ export interface PreferencesContextValue {
   setTheme: (theme: Theme) => void;
   showAudioPlayer: boolean;
   toggleAudioPlayer: () => void;
+  audioPosition: AudioPosition;
+  toggleAudioPosition: () => void;
 }
 
 /** Subset of preferences synced to Redis */
