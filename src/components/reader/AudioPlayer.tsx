@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import type { AudioControls } from '../../hooks/useAudio';
 import { usePreferences } from '../../context/usePreferences';
 
@@ -55,17 +54,14 @@ function PositionIcon({ position }: { position: 'top' | 'bottom' }) {
 }
 
 export default function AudioPlayer({ audio }: AudioPlayerProps) {
-  const { playing, currentTime, duration, toggle, seek, skip, setPlaybackRate } = audio;
+  const { playing, currentTime, duration, toggle, seek, skip, playbackRate, setPlaybackRate } = audio;
   const { audioPosition, toggleAudioPosition } = usePreferences();
-  const [rate, setRate] = useState(audio.playbackRate);
 
+  // Derive directly from the hook's authoritative (and persisted) rate so the
+  // label can never drift from the actual playback speed.
   const cycleSpeed = () => {
-    setRate((prev) => {
-      const idx = SPEEDS.indexOf(prev);
-      const next = SPEEDS[(idx + 1) % SPEEDS.length];
-      setPlaybackRate(next);
-      return next;
-    });
+    const idx = SPEEDS.indexOf(playbackRate);
+    setPlaybackRate(SPEEDS[(idx + 1) % SPEEDS.length]);
   };
 
   const iconBtn =
@@ -80,6 +76,7 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
         onClick={toggle}
         className="w-8 h-8 flex items-center justify-center rounded-full bg-red-600 text-white hover:bg-red-700 transition-colors cursor-pointer text-sm shrink-0"
         title={playing ? 'Pause' : 'Play'}
+        aria-label={playing ? 'Pause' : 'Play'}
       >
         {playing ? (
           <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor">
@@ -107,6 +104,7 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
         onChange={(e) => seek(Number(e.target.value))}
         className="flex-1 min-w-0 h-1 accent-red-600"
         aria-label="Audio position"
+        aria-valuetext={`${formatTime(currentTime)} of ${formatTime(duration)}`}
       />
       <span className="text-xs text-gray-500 dark:text-gray-400 w-10 tabular-nums">
         {formatTime(duration)}
@@ -114,9 +112,9 @@ export default function AudioPlayer({ audio }: AudioPlayerProps) {
       <button
         onClick={cycleSpeed}
         className="px-2 py-1 rounded text-xs font-medium border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 cursor-pointer tabular-nums shrink-0"
-        aria-label="Playback speed"
+        aria-label={`Playback speed ${playbackRate}x`}
       >
-        {rate}x
+        {playbackRate}x
       </button>
       <button
         onClick={toggleAudioPosition}

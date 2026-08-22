@@ -216,6 +216,18 @@ async function main() {
     }
   });
 
+  // Sanity guard: on a full scrape (no --limit/--level), refuse to ship a
+  // near-empty catalog. This turns a silent "successful-but-empty" scrape
+  // (e.g. an anonymous session or rate-limited feeds) into a hard build
+  // failure instead of deploying a broken, lesson-less site.
+  const minLessons = Number(process.env.SCRAPE_MIN_LESSONS ?? 200);
+  const isFullScrape = !options.limit && !options.level;
+  if (isFullScrape && indexedLessons.length < minLessons) {
+    console.error(`\nFATAL: only ${indexedLessons.length} lessons available (expected >= ${minLessons}).`);
+    console.error('Refusing to write a near-empty catalog. Check DuChinese auth / rate limits, or lower SCRAPE_MIN_LESSONS for an intentional partial scrape.');
+    process.exit(1);
+  }
+
   console.log('\nStep 5: Writing master index...');
   await writeMasterIndex(options.outputDir, indexedLessons);
   console.log(`Master index written with ${indexedLessons.length} available lessons.`);

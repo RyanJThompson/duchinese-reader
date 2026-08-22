@@ -1,7 +1,41 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+import { createHash, timingSafeEqual } from 'node:crypto';
+import { Redis } from '@upstash/redis';
 
 const COOKIE_NAME = 'reader_session';
 const MAX_AGE_SECONDS = 60 * 60 * 24 * 30; // 30 days
+const MAX_LOGIN_ATTEMPTS = 10;
+const LOGIN_WINDOW_SECONDS = 15 * 60; // 15 minutes
+
+const redisUrl = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
+const redisToken = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
+const redis = redisUrl && redisToken ? new Redis({ url: redisUrl, token: redisToken }) : null;
+
+// Constant-time comparison: hash both sides to a fixed length first so neither
+// the length nor the matching prefix leaks through timing.
+function safeEqual(a: string, b: string): boolean {
+  const ha = createHash('sha256').update(a).digest();
+  const hb = createHash('sha256').update(b).digest();
+  return timingSafeEqual(ha, hb);
+}
+
+// Per-IP login throttle backed by the same Upstash Redis used for sync. Fails
+// open when Redis is not configured so a misconfigured deploy never locks the
+// owner out of their own reader.
+async function loginRateLimited(req: VercelRequest): Promise<boolean> {
+  if (!redis) return false;
+  const fwd = req.headers['x-forwarded-for'];
+  const ip = (Array.isArray(fwd) ? fwd[0] : fwd)?.split(',')[0]?.trim() || 'unknown';
+  const key = `login:attempts:${ip}`;
+  try {
+    const count = await redis.incr(key);
+    if (count === 1) await redis.expire(key, LOGIN_WINDOW_SECONDS);
+    return count > MAX_LOGIN_ATTEMPTS;
+  } catch (err) {
+    console.error('[login] rate-limit check failed:', err);
+    return false;
+  }
+}
 
 async function sign(secret: string, message: string): Promise<string> {
   const encoder = new TextEncoder();
@@ -113,7 +147,15 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method === 'POST') {
     const form = readForm(req);
     const nextPath = safeNext(form.next);
-    const authorized = form.username === expectedUser && form.password === expectedPassword;
+
+    if (await loginRateLimited(req)) {
+      res.setHeader('Cache-Control', 'no-store');
+      res.setHeader('Retry-After', String(LOGIN_WINDOW_SECONDS));
+      return res.status(429).send('Too many sign-in attempts. Please wait a few minutes and try again.');
+    }
+
+    const authorized =
+      safeEqual(form.username ?? '', expectedUser) && safeEqual(form.password ?? '', expectedPassword);
 
     if (!authorized) {
       res.setHeader('Cache-Control', 'no-store');
@@ -121,8 +163,11 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       return res.status(303).end();
     }
 
+    // Sign with a dedicated SESSION_SECRET when provided so the cookie-signing
+    // key is decoupled from the login password; fall back to the password to
+    // stay backward compatible with existing deployments.
     const expiresAt = Date.now() + MAX_AGE_SECONDS * 1000;
-    const signature = await sign(expectedPassword, `${expectedUser}:${expiresAt}`);
+    const signature = await sign(process.env.SESSION_SECRET ?? expectedPassword, `${expectedUser}:${expiresAt}`);
     const token = `${expiresAt}.${signature}`;
     res.setHeader(
       'Set-Cookie',

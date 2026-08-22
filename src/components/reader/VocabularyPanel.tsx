@@ -16,7 +16,7 @@ const HSK_COLORS: Record<number, string> = {
 };
 
 export default function VocabularyPanel({ vocabulary }: VocabularyPanelProps) {
-  const { script } = usePreferences();
+  const { script, fontScale } = usePreferences();
   const [collapsed, setCollapsed] = useState(true);
 
   if (vocabulary.length === 0) return null;
@@ -40,17 +40,17 @@ export default function VocabularyPanel({ vocabulary }: VocabularyPanelProps) {
             <div key={i} className="flex items-start gap-3 py-2 border-b border-gray-50 dark:border-gray-800 last:border-0">
               <div className="min-w-0 flex-1">
                 <div className="flex items-center gap-2">
-                  <span className="text-base font-medium text-gray-900 dark:text-gray-100">
+                  <span lang={script === 'simplified' ? 'zh-Hans' : 'zh-Hant'} className="font-medium text-gray-900 dark:text-gray-100" style={{ fontSize: `${1 * fontScale}rem` }}>
                     {script === 'simplified' ? word.simplified : word.traditional}
                   </span>
-                  <span className="text-sm text-gray-400 dark:text-gray-500">{word.pinyin}</span>
+                  <span className="text-gray-400 dark:text-gray-500" style={{ fontSize: `${0.875 * fontScale}rem` }}>{word.pinyin}</span>
                   {word.hsk && (
                     <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${HSK_COLORS[word.hsk] || 'bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400'}`}>
                       HSK{word.hsk}
                     </span>
                   )}
                 </div>
-                <div className="text-sm text-gray-500 dark:text-gray-400 whitespace-pre-line">{word.meaning}</div>
+                <div className="text-gray-500 dark:text-gray-400 whitespace-pre-line" style={{ fontSize: `${0.875 * fontScale}rem` }}>{word.meaning}</div>
               </div>
             </div>
           ))}

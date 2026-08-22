@@ -1,12 +1,15 @@
 import { Link } from 'react-router';
 import type { CourseInfo } from '../../types/reader';
+import type { Progress } from '../../hooks/useProgress';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../../lib/levels';
 
 interface SeriesCardProps {
   courseInfo: CourseInfo;
+  progress?: Progress;
 }
 
-export default function SeriesCard({ courseInfo }: SeriesCardProps) {
+export default function SeriesCard({ courseInfo, progress }: SeriesCardProps) {
+  const pct = progress && progress.total > 0 ? (progress.done / progress.total) * 100 : 0;
   return (
     <Link
       to={`/series/${encodeURIComponent(courseInfo.title)}`}
@@ -40,6 +43,16 @@ export default function SeriesCard({ courseInfo }: SeriesCardProps) {
           {courseInfo.title}
         </h3>
         <p className="text-xs text-gray-500 dark:text-gray-400 line-clamp-2">{courseInfo.description}</p>
+        {progress && progress.total > 0 && progress.done > 0 && (
+          <div className="pt-0.5 space-y-1">
+            <div className="h-1 w-full rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden">
+              <div className="h-full rounded-full bg-green-500" style={{ width: `${pct}%` }} />
+            </div>
+            <div className="text-[10px] text-gray-400 dark:text-gray-500">
+              {progress.done}/{progress.total} learned
+            </div>
+          </div>
+        )}
       </div>
     </Link>
   );

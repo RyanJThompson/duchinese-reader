@@ -1,4 +1,5 @@
 import { usePreferences } from '../../context/usePreferences';
+import { FONT_SCALE_MAX, FONT_SCALE_MIN } from '../../lib/fontScale';
 
 interface ReaderToolbarProps {
   learned: boolean;
@@ -40,6 +41,29 @@ function PinyinIcon() {
   );
 }
 
+/* Decrease font: small "A" drawn as strokes (no text node, for Migaku) + minus */
+function FontDecreaseIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M4 18 L8 8 L12 18" />
+      <path d="M5.3 14.5 H10.7" />
+      <line x1="15" y1="13" x2="21" y2="13" />
+    </svg>
+  );
+}
+
+/* Increase font: larger "A" + plus */
+function FontIncreaseIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M2 19 L7 5 L12 19" />
+      <path d="M3.7 14.5 H10.3" />
+      <line x1="15" y1="13" x2="21" y2="13" />
+      <line x1="18" y1="10" x2="18" y2="16" />
+    </svg>
+  );
+}
+
 /* English: globe icon */
 function EnglishIcon() {
   return (
@@ -53,7 +77,7 @@ function EnglishIcon() {
 
 function LearnedIcon({ learned }: { learned: boolean }) {
   return (
-    <svg width="18" height="18" viewBox="0 0 24 24" fill={learned ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-label={learned ? 'Learned' : 'Mark learned'}>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill={learned ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
       <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
       {learned && <polyline points="22 4 12 14.01 9 11.01" />}
     </svg>
@@ -61,7 +85,12 @@ function LearnedIcon({ learned }: { learned: boolean }) {
 }
 
 export default function ReaderToolbar({ learned, onToggleLearned, onBack }: ReaderToolbarProps) {
-  const { script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish } = usePreferences();
+  const {
+    script, toggleScript, showPinyin, togglePinyin, showEnglish, toggleEnglish,
+    fontScale, increaseFontSize, decreaseFontSize, resetFontSize,
+  } = usePreferences();
+
+  const fontPercent = Math.round(fontScale * 100);
 
   return (
     <div className="flex flex-wrap items-center gap-2">
@@ -74,11 +103,33 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
         <BackIcon />
       </button>
       <div className="flex-1" />
+      <div className="flex items-center gap-1">
+        <button
+          onClick={decreaseFontSize}
+          onDoubleClick={resetFontSize}
+          disabled={fontScale <= FONT_SCALE_MIN}
+          className="p-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800 cursor-pointer disabled:opacity-40 disabled:cursor-default disabled:hover:bg-transparent"
+          title="Decrease font size (double-click either button to reset)"
+          aria-label={`Decrease font size (currently ${fontPercent}%)`}
+        >
+          <FontDecreaseIcon />
+        </button>
+        <button
+          onClick={increaseFontSize}
+          onDoubleClick={resetFontSize}
+          disabled={fontScale >= FONT_SCALE_MAX}
+          className="p-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800 cursor-pointer disabled:opacity-40 disabled:cursor-default disabled:hover:bg-transparent"
+          title="Increase font size (double-click either button to reset)"
+          aria-label={`Increase font size (currently ${fontPercent}%)`}
+        >
+          <FontIncreaseIcon />
+        </button>
+      </div>
       <button
         onClick={toggleScript}
         className="p-1.5 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800 cursor-pointer"
         title={script === 'simplified' ? 'Simplified' : 'Traditional'}
-        aria-label={script === 'simplified' ? 'Using simplified characters' : 'Using traditional characters'}
+        aria-label="Traditional characters"
         aria-pressed={script === 'traditional'}
       >
         <ScriptIcon />
@@ -89,7 +140,7 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
           showPinyin ? 'border-red-300 dark:border-red-700 bg-red-50 dark:bg-red-950 text-red-700 dark:text-red-400' : 'border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800'
         }`}
         title="Pinyin"
-        aria-label="Show pinyin"
+        aria-label="Pinyin"
         aria-pressed={showPinyin}
       >
         <PinyinIcon />
@@ -100,7 +151,7 @@ export default function ReaderToolbar({ learned, onToggleLearned, onBack }: Read
           showEnglish ? 'border-red-300 dark:border-red-700 bg-red-50 dark:bg-red-950 text-red-700 dark:text-red-400' : 'border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-800'
         }`}
         title="English"
-        aria-label="Show English"
+        aria-label="English translation"
         aria-pressed={showEnglish}
       >
         <EnglishIcon />

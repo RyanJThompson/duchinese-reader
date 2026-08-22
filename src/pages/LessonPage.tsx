@@ -2,6 +2,8 @@ import { useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router';
 import { useLesson } from '../hooks/useLesson';
 import { useAudio } from '../hooks/useAudio';
+import { useReaderShortcuts } from '../hooks/useReaderShortcuts';
+import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { useLearned } from '../context/useLearned';
 import { usePreferences } from '../context/usePreferences';
 import { useRecents } from '../context/useRecents';
@@ -32,14 +34,29 @@ export default function LessonPage() {
   const navigate = useNavigate();
   const { lesson, loading, error } = useLesson(id);
   const { isLearned, toggleLearned } = useLearned();
-  const { showAudioPlayer, toggleAudioPlayer, audioPosition } = usePreferences();
+  const { showAudioPlayer, toggleAudioPlayer, audioPosition, togglePinyin, toggleEnglish, toggleScript, increaseFontSize, decreaseFontSize, resetFontSize } = usePreferences();
   const { recordVisit } = useRecents();
   const chapterNav = useChapterNav(lesson?.series?.title, lesson?.id);
 
   useEffect(() => {
     if (lesson?.id) recordVisit(lesson.id);
   }, [lesson?.id, recordVisit]);
-  const audio = useAudio(lesson?.audioUrl);
+  const audio = useAudio(lesson?.audioUrl, lesson?.id);
+
+  useDocumentTitle(lesson?.title);
+  useReaderShortcuts({
+    onTogglePlay: lesson?.audioUrl ? audio.toggle : undefined,
+    onSkip: lesson?.audioUrl ? audio.skip : undefined,
+    onPrev: chapterNav.prev ? () => navigate(`/lesson/${chapterNav.prev}`) : undefined,
+    onNext: chapterNav.next ? () => navigate(`/lesson/${chapterNav.next}`) : undefined,
+    onTogglePinyin: togglePinyin,
+    onToggleEnglish: toggleEnglish,
+    onToggleScript: toggleScript,
+    onToggleLearned: () => { if (lesson) toggleLearned(lesson.id); },
+    onIncreaseFont: increaseFontSize,
+    onDecreaseFont: decreaseFontSize,
+    onResetFont: resetFontSize,
+  });
 
   if (loading) {
     return (

@@ -3,6 +3,7 @@ import { Link } from 'react-router';
 import { useData } from '../context/useData';
 import { useLearned } from '../context/useLearned';
 import { useRecents } from '../context/useRecents';
+import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
 import type { LessonSummary } from '../types/reader';
 
@@ -37,6 +38,8 @@ export default function RecentsPage() {
         .filter((r): r is typeof r & { lesson: LessonSummary } => !!r.lesson),
     [recents, lessonMap],
   );
+
+  useDocumentTitle('Recent Lessons');
 
   if (loading) {
     return (

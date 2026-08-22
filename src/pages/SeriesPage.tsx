@@ -2,6 +2,7 @@ import { useMemo } from 'react';
 import { Link, useParams } from 'react-router';
 import { useData } from '../context/useData';
 import { useLearned } from '../context/useLearned';
+import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { LEVEL_LABELS, LEVEL_COLORS } from '../lib/levels';
 import type { LessonSummary } from '../types/reader';
 
@@ -30,6 +31,8 @@ export default function SeriesPage() {
     [chapters, isLearned],
   );
 
+  useDocumentTitle(courseInfo?.title);
+
   if (!courseInfo || chapters.length === 0) {
     return (
       <div className="max-w-4xl mx-auto px-4 py-12">
@@ -51,11 +54,15 @@ export default function SeriesPage() {
       <div className="flex flex-col sm:flex-row gap-6">
         {courseInfo.imageUrl && (
           <div className="sm:w-72 flex-shrink-0">
-            <img
-              src={courseInfo.imageUrl}
-              alt=""
-              className="w-full rounded-xl object-cover"
-            />
+            <div className="aspect-[16/9] overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800">
+              <img
+                src={courseInfo.imageUrl}
+                alt=""
+                loading="lazy"
+                decoding="async"
+                className="w-full h-full object-cover"
+              />
+            </div>
           </div>
         )}
         <div className="space-y-3">
@@ -74,8 +81,23 @@ export default function SeriesPage() {
             </span>
           </div>
           <p className="text-sm text-gray-600 dark:text-gray-400">{courseInfo.description}</p>
-          <div className="text-sm text-gray-500 dark:text-gray-400">
-            {learnedCount}/{chapters.length} learned
+          <div className="space-y-1">
+            <div className="text-sm text-gray-500 dark:text-gray-400">
+              {learnedCount}/{chapters.length} learned
+            </div>
+            <div
+              className="h-1.5 w-full max-w-xs rounded-full bg-gray-200 dark:bg-gray-700 overflow-hidden"
+              role="progressbar"
+              aria-valuenow={learnedCount}
+              aria-valuemin={0}
+              aria-valuemax={chapters.length}
+              aria-label="Series progress"
+            >
+              <div
+                className="h-full rounded-full bg-green-500 transition-[width]"
+                style={{ width: `${chapters.length ? (learnedCount / chapters.length) * 100 : 0}%` }}
+              />
+            </div>
           </div>
         </div>
       </div>

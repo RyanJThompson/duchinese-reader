@@ -3,6 +3,8 @@ import type { ContentType, Level } from '../types/reader';
 import { useData } from '../context/useData';
 import { useLearned } from '../context/useLearned';
 import { useLessons } from '../hooks/useLessons';
+import { useProgress } from '../hooks/useProgress';
+import { useDocumentTitle } from '../hooks/useDocumentTitle';
 import { getItem, setItem } from '../lib/storage';
 import { LEVEL_ORDER } from '../lib/levels';
 import FilterBar from '../components/list/FilterBar';
@@ -58,6 +60,9 @@ export default function LessonListPage() {
     seriesMap,
   });
 
+  const progress = useProgress();
+  useDocumentTitle('Lessons');
+
   if (loading) {
     return (
       <div className="max-w-7xl mx-auto px-4 py-12">
@@ -76,7 +81,15 @@ export default function LessonListPage() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-6 space-y-6">
+      <h1 className="sr-only">Lessons</h1>
       <ContinueReading />
+      {progress.overall.done > 0 && (
+        <div className="text-sm text-gray-500 dark:text-gray-400">
+          You've learned{' '}
+          <span className="font-semibold text-gray-700 dark:text-gray-300">{progress.overall.done}</span>{' '}
+          {progress.overall.done === 1 ? 'lesson' : 'lessons'}.
+        </div>
+      )}
       <FilterBar
         search={search}
         onSearchChange={setSearch}
@@ -88,7 +101,7 @@ export default function LessonListPage() {
         onContentTypeChange={setContentType}
         resultCount={filtered.length}
       />
-      <LessonGrid lessons={filtered} isLearned={isLearned} courseMap={courseMap} />
+      <LessonGrid lessons={filtered} isLearned={isLearned} courseMap={courseMap} seriesProgress={progress.bySeries} />
     </div>
   );
 }

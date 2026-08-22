@@ -5,21 +5,22 @@ interface SentenceBlockProps {
   script: 'simplified' | 'traditional';
   showPinyin: boolean;
   showEnglish: boolean;
+  fontScale: number;
   onSeek?: (time: number) => void;
   onPause?: () => void;
   isActive?: boolean;
 }
 
-export default function SentenceBlock({ sentence, script, showPinyin, showEnglish, onSeek, onPause, isActive }: SentenceBlockProps) {
+export default function SentenceBlock({ sentence, script, showPinyin, showEnglish, fontScale, onSeek, onPause, isActive }: SentenceBlockProps) {
   const chinese = script === 'simplified' ? sentence.simplified : sentence.traditional;
 
   return (
     <div className="py-3 space-y-1">
       {showPinyin && sentence.pinyin && (
-        <div className="text-sm text-gray-400 dark:text-gray-500">{sentence.pinyin}</div>
+        <div className="text-gray-400 dark:text-gray-500" style={{ fontSize: `${0.875 * fontScale}rem` }}>{sentence.pinyin}</div>
       )}
       <div className="flex items-center gap-2">
-        <div className="text-xl leading-relaxed text-gray-900 dark:text-gray-100">{chinese}</div>
+        <div lang={script === 'simplified' ? 'zh-Hans' : 'zh-Hant'} className="leading-relaxed text-gray-900 dark:text-gray-100" style={{ fontSize: `${1.25 * fontScale}rem` }}>{chinese}</div>
         {onSeek && sentence.audioTime != null && (
           <button
             onClick={() => isActive && onPause ? onPause() : onSeek!(sentence.audioTime!)}
@@ -44,7 +45,7 @@ export default function SentenceBlock({ sentence, script, showPinyin, showEnglis
         )}
       </div>
       {showEnglish && sentence.english && (
-        <div className="text-sm text-gray-500 dark:text-gray-400">{sentence.english}</div>
+        <div className="text-gray-500 dark:text-gray-400" style={{ fontSize: `${0.875 * fontScale}rem` }}>{sentence.english}</div>
       )}
     </div>
   );

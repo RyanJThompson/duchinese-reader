@@ -248,7 +248,7 @@ async function main() {
     }
     void before;
   }
-  console.log(`\nDone. ${ok} ebook(s) written to ${OUT_DIR}`);
+  console.log(`\nDone. ${ok} ebook(s) (${chapters} chapters) written to ${OUT_DIR}`);
 }
 
 main().catch((err) => {

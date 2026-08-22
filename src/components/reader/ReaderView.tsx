@@ -10,7 +10,7 @@ interface ReaderViewProps {
 }
 
 export default function ReaderView({ sentences, audio }: ReaderViewProps) {
-  const { script, showPinyin, showEnglish } = usePreferences();
+  const { script, showPinyin, showEnglish, fontScale } = usePreferences();
 
   const activeSentenceIndex = useMemo(() => {
     if (!audio?.playing) return -1;
@@ -33,6 +33,7 @@ export default function ReaderView({ sentences, audio }: ReaderViewProps) {
           script={script}
           showPinyin={showPinyin}
           showEnglish={showEnglish}
+          fontScale={fontScale}
           onSeek={audio?.seek}
           onPause={audio?.toggle}
           isActive={i === activeSentenceIndex}

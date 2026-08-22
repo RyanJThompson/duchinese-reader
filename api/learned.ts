@@ -17,6 +17,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return methodNotAllowed(res);
   }
 
+  // Authenticated user data — never cache.
+  res.setHeader('Cache-Control', 'no-store');
+
   // Requests reach here only after the edge middleware has authenticated the
   // session cookie, so Redis being configured is the only requirement.
   if (!redis) {
@@ -24,14 +27,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return syncUnavailable(res, { ok: true, synced: false });
   }
 
-  if (req.method === 'GET') {
-    const learned = normalizeLearned(await redis.get<unknown>('learned')) ?? [];
-    return res.json(learned);
+  try {
+    if (req.method === 'GET') {
+      const learned = normalizeLearned(await redis.get<unknown>('learned')) ?? [];
+      return res.json(learned);
+    }
+
+    const learned = normalizeLearned(req.body);
+    if (!learned) return badRequest(res);
+
+    await redis.set('learned', learned);
+    return res.json({ ok: true, synced: true });
+  } catch (err) {
+    console.error('[sync] learned failed:', err);
+    return res.status(500).json({ error: 'Sync failed' });
   }
-
-  const learned = normalizeLearned(req.body);
-  if (!learned) return badRequest(res);
-
-  await redis.set('learned', learned);
-  return res.json({ ok: true, synced: true });
 }

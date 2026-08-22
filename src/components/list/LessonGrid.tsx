@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import type { LessonSummary } from '../../types/reader';
 import type { CourseMap } from '../../context/DataContext';
+import type { Progress } from '../../hooks/useProgress';
 import LessonCard from './LessonCard';
 import SeriesCard from './SeriesCard';
 
@@ -10,9 +11,10 @@ interface LessonGridProps {
   lessons: LessonSummary[];
   isLearned: (id: string) => boolean;
   courseMap?: CourseMap;
+  seriesProgress?: Map<string, Progress>;
 }
 
-export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGridProps) {
+export default function LessonGrid({ lessons, isLearned, courseMap, seriesProgress }: LessonGridProps) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const sentinelRef = useRef<HTMLDivElement>(null);
 
@@ -44,7 +46,13 @@ export default function LessonGrid({ lessons, isLearned, courseMap }: LessonGrid
         {visible.map((lesson) => {
           const course = lesson.series && courseMap?.get(lesson.series.title);
           if (course) {
-            return <SeriesCard key={`series-${lesson.series!.title}`} courseInfo={course} />;
+            return (
+              <SeriesCard
+                key={`series-${lesson.series!.title}`}
+                courseInfo={course}
+                progress={seriesProgress?.get(lesson.series!.title)}
+              />
+            );
           }
           return <LessonCard key={lesson.id} lesson={lesson} learned={isLearned(lesson.id)} />;
         })}

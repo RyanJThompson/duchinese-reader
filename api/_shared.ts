@@ -19,7 +19,18 @@ export interface SyncedLearnedEntry {
 
 export interface SyncedPreferences {
   showAudioPlayer?: boolean;
+  showPinyin?: boolean;
+  showEnglish?: boolean;
+  script?: 'simplified' | 'traditional';
+  theme?: 'light' | 'dark' | 'auto';
+  audioPosition?: 'top' | 'bottom';
+  fontScale?: number;
 }
+
+// Mirror of the reader font-scale bounds in src/lib/fontScale.ts. Kept inline so
+// the serverless functions don't import client code.
+const FONT_SCALE_MIN = 0.6;
+const FONT_SCALE_MAX = 3;
 
 function hasBearerOrHeaderToken(req: VercelRequest, token: string, headerName: string): boolean {
   const auth = req.headers.authorization;
@@ -151,8 +162,32 @@ function normalizeRecentEntries(value: unknown): RecentEntry[] | null {
 export function normalizePreferences(value: unknown): SyncedPreferences | null {
   if (!value || typeof value !== 'object' || Array.isArray(value)) return null;
   const prefs = value as Partial<SyncedPreferences>;
-  if (prefs.showAudioPlayer !== undefined && typeof prefs.showAudioPlayer !== 'boolean') return null;
+
+  const bool = (v: unknown): v is boolean => typeof v === 'boolean';
+  const oneOf = <T extends string>(v: unknown, allowed: readonly T[]): v is T =>
+    typeof v === 'string' && (allowed as readonly string[]).includes(v);
+
+  if (prefs.showAudioPlayer !== undefined && !bool(prefs.showAudioPlayer)) return null;
+  if (prefs.showPinyin !== undefined && !bool(prefs.showPinyin)) return null;
+  if (prefs.showEnglish !== undefined && !bool(prefs.showEnglish)) return null;
+  if (prefs.script !== undefined && !oneOf(prefs.script, ['simplified', 'traditional'] as const)) return null;
+  if (prefs.theme !== undefined && !oneOf(prefs.theme, ['light', 'dark', 'auto'] as const)) return null;
+  if (prefs.audioPosition !== undefined && !oneOf(prefs.audioPosition, ['top', 'bottom'] as const)) return null;
+  if (prefs.fontScale !== undefined && !(typeof prefs.fontScale === 'number' && Number.isFinite(prefs.fontScale))) return null;
+
+  // Clamp the font scale into range rather than rejecting an out-of-bounds value,
+  // so an unexpectedly large/small client value can't drop the whole payload.
+  const clampedFontScale = prefs.fontScale !== undefined
+    ? Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, prefs.fontScale as number))
+    : undefined;
+
   return {
     ...(prefs.showAudioPlayer !== undefined ? { showAudioPlayer: prefs.showAudioPlayer } : {}),
+    ...(prefs.showPinyin !== undefined ? { showPinyin: prefs.showPinyin } : {}),
+    ...(prefs.showEnglish !== undefined ? { showEnglish: prefs.showEnglish } : {}),
+    ...(prefs.script !== undefined ? { script: prefs.script } : {}),
+    ...(prefs.theme !== undefined ? { theme: prefs.theme } : {}),
+    ...(prefs.audioPosition !== undefined ? { audioPosition: prefs.audioPosition } : {}),
+    ...(clampedFontScale !== undefined ? { fontScale: clampedFontScale } : {}),
   };
 }

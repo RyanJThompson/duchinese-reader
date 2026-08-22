@@ -1,3 +1,37 @@
+const sleep = (ms: number) => new Promise<void>((resolve) => setTimeout(resolve, ms));
+
+/**
+ * PUT JSON with status checking + retry. Previously pushes were fire-and-forget
+ * and ignored res.ok, so a 5xx / network drop / validation 400 looked identical
+ * to success and silently lost the write. Now: retry transient failures (network
+ * / 5xx) with backoff, fail fast on 4xx (a malformed payload won't fix itself),
+ * and throw on exhaustion so callers can react (mark dirty / retry on next mount).
+ */
+async function putJSON(url: string, body: unknown): Promise<void> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    let res: Response;
+    try {
+      res = await fetch(url, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+    } catch (err) {
+      lastError = err;
+      if (attempt < 2) await sleep(500 * (attempt + 1));
+      continue;
+    }
+    if (res.ok) return;
+    if (res.status >= 400 && res.status < 500) {
+      throw new Error(`PUT ${url} rejected with ${res.status}`);
+    }
+    lastError = new Error(`PUT ${url} failed with ${res.status}`);
+    if (attempt < 2) await sleep(500 * (attempt + 1));
+  }
+  throw lastError instanceof Error ? lastError : new Error(`PUT ${url} failed`);
+}
+
 export interface SyncedLearnedEntry {
   id: string;
   learnedAt: number | null;
@@ -32,11 +66,7 @@ export async function fetchRemoteLearnedEntries(): Promise<SyncedLearnedEntry[]>
 }
 
 export async function pushRemoteLearned(ids: string[] | SyncedLearnedEntry[]): Promise<void> {
-  await fetch('/api/learned', {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(ids),
-  });
+  await putJSON('/api/learned', ids);
 }
 
 export interface RecentEntry {
@@ -63,15 +93,17 @@ export async function fetchRemoteRecents(): Promise<SyncedRecents> {
 }
 
 export async function pushRemoteRecents(entries: RecentEntry[] | SyncedRecents): Promise<void> {
-  await fetch('/api/recents', {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(entries),
-  });
+  await putJSON('/api/recents', entries);
 }
 
 export interface SyncedPreferences {
   showAudioPlayer?: boolean;
+  showPinyin?: boolean;
+  showEnglish?: boolean;
+  script?: 'simplified' | 'traditional';
+  theme?: 'light' | 'dark' | 'auto';
+  audioPosition?: 'top' | 'bottom';
+  fontScale?: number;
 }
 
 export async function fetchRemotePreferences(): Promise<SyncedPreferences> {
@@ -80,17 +112,19 @@ export async function fetchRemotePreferences(): Promise<SyncedPreferences> {
   const raw = await res.json();
   if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return {};
   const prefs = raw as Partial<SyncedPreferences>;
-  return {
-    ...(typeof prefs.showAudioPlayer === 'boolean' ? { showAudioPlayer: prefs.showAudioPlayer } : {}),
-  };
+  const result: SyncedPreferences = {};
+  if (typeof prefs.showAudioPlayer === 'boolean') result.showAudioPlayer = prefs.showAudioPlayer;
+  if (typeof prefs.showPinyin === 'boolean') result.showPinyin = prefs.showPinyin;
+  if (typeof prefs.showEnglish === 'boolean') result.showEnglish = prefs.showEnglish;
+  if (prefs.script === 'simplified' || prefs.script === 'traditional') result.script = prefs.script;
+  if (prefs.theme === 'light' || prefs.theme === 'dark' || prefs.theme === 'auto') result.theme = prefs.theme;
+  if (prefs.audioPosition === 'top' || prefs.audioPosition === 'bottom') result.audioPosition = prefs.audioPosition;
+  if (typeof prefs.fontScale === 'number' && Number.isFinite(prefs.fontScale)) result.fontScale = prefs.fontScale;
+  return result;
 }
 
 export async function pushRemotePreferences(prefs: SyncedPreferences): Promise<void> {
-  await fetch('/api/preferences', {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(prefs),
-  });
+  await putJSON('/api/preferences', prefs);
 }
 
 function isSyncedLearnedEntry(value: unknown): value is SyncedLearnedEntry {

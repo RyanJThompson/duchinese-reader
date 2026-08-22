@@ -3,7 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="robots" content="noindex" />
     <title>Chinese Reader</title>
+    <!-- Apply the saved/auto theme before first paint to avoid a flash of the
+         wrong theme. Mirrors PreferencesContext (reader:theme is JSON-encoded). -->
+    <script>
+      (function () {
+        try {
+          var raw = localStorage.getItem('reader:theme');
+          var theme = raw ? JSON.parse(raw) : 'auto';
+          var dark = theme === 'dark' ||
+            (theme !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body class="bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100 min-h-screen">
     <div id="root"></div>

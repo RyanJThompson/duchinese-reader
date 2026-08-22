@@ -17,11 +17,21 @@ export interface PreferencesContextValue {
   toggleAudioPlayer: () => void;
   audioPosition: AudioPosition;
   toggleAudioPosition: () => void;
+  fontScale: number;
+  increaseFontSize: () => void;
+  decreaseFontSize: () => void;
+  resetFontSize: () => void;
 }
 
-/** Subset of preferences synced to Redis */
+/** Reader preferences synced to Redis (see src/lib/sync.ts). */
 export interface SyncedPreferences {
   showAudioPlayer?: boolean;
+  showPinyin?: boolean;
+  showEnglish?: boolean;
+  script?: Script;
+  theme?: Theme;
+  audioPosition?: AudioPosition;
+  fontScale?: number;
 }
 
 export const PreferencesContext = createContext<PreferencesContextValue | null>(null);

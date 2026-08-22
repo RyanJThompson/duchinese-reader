@@ -77,8 +77,11 @@ export default async function middleware(request: Request) {
     });
   }
 
+  // Verify with a dedicated SESSION_SECRET when set (decouples the cookie key
+  // from the login password); fall back to the password for compatibility.
+  const sessionSecret = process.env.SESSION_SECRET ?? expectedPassword;
   const token = readCookie(request.headers.get('cookie'), COOKIE_NAME);
-  if (await hasValidSession(token, expectedUser, expectedPassword)) {
+  if (await hasValidSession(token, expectedUser, sessionSecret)) {
     return next();
   }
 

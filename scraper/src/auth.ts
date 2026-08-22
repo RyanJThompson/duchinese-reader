@@ -47,11 +47,21 @@ export async function authenticate(email: string, password: string): Promise<str
     if (i > 0) cookieMap.set(c.slice(0, i), c.slice(i + 1));
   }
 
-  if (r2.status === 302 || r2.status === 303) {
-    // Success — Devise redirects after login
-  } else {
-    const text = await r2.text();
-    const msg = text.match(/alert[^>]*>([^<]+)</)?.[1]?.trim() || `status ${r2.status}`;
+  // Devise redirects (302/303) on success. A failed login either re-renders the
+  // form with HTTP 200 OR redirects back to the sign-in page (lockout / captcha /
+  // rate-limit) — both must be treated as failure so we never proceed with an
+  // anonymous session and silently scrape an empty catalog.
+  const location = r2.headers.get('location') || '';
+  const redirected = r2.status === 302 || r2.status === 303;
+  const bouncedToSignIn = /sign_in|\/login(\b|\/|$)/i.test(location);
+
+  if (!redirected || bouncedToSignIn) {
+    const text = await r2.text().catch(() => '');
+    const msg =
+      text.match(/alert[^>]*>([^<]+)</)?.[1]?.trim() ||
+      (bouncedToSignIn
+        ? 'redirected back to sign-in (bad credentials, lockout, or captcha)'
+        : `status ${r2.status}`);
     throw new Error(`Authentication failed: ${msg}`);
   }
 

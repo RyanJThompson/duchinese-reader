@@ -51,14 +51,50 @@ export async function ensureOutputDirs(outputDir: string, noText: boolean = fals
 }
 
 /**
- * Write master index of all lessons
+ * Project a raw lesson to just the fields the reader's index mapper
+ * (src/adapters/duchinese/mappers.ts → mapIndexEntry) actually consumes.
+ * The raw DuChinese index carries ~25 fields per lesson (canonical_url,
+ * crd_url, thumb/large images, author, path, …) the list UI never reads;
+ * shipping all of them bloats lessons.json to ~7.5MB. This slim projection
+ * cuts it by well over half.
+ */
+function slimIndexEntry(lesson: LessonMeta) {
+  const course = lesson.course;
+  return {
+    id: lesson.id,
+    title: lesson.title,
+    level: lesson.level,
+    synopsis: lesson.synopsis,
+    release_at_formatted: lesson['release_at_formatted'],
+    medium_image_url: lesson['medium_image_url'],
+    audio_url: lesson.audio_url,
+    course_title: lesson.course_title,
+    course_position: lesson.course_position,
+    course_type: lesson.course_type,
+    course: course
+      ? {
+          title: course.title,
+          description: course.description,
+          large_image_url: course['large_image_url'],
+          medium_image_url: course['medium_image_url'],
+          levels: course['levels'],
+          lesson_count: course.lesson_count,
+          type: course.type,
+        }
+      : undefined,
+  };
+}
+
+/**
+ * Write master index of all lessons (slimmed; compact JSON since it is
+ * machine-read, not browsed).
  */
 export async function writeMasterIndex(
   outputDir: string,
   lessons: LessonMeta[]
 ): Promise<void> {
   const filepath = path.join(outputDir, 'lessons.json');
-  await fs.writeFile(filepath, JSON.stringify(lessons, null, 2), 'utf-8');
+  await fs.writeFile(filepath, JSON.stringify(lessons.map(slimIndexEntry)), 'utf-8');
 }
 
 /**
