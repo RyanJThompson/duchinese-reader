@@ -1,0 +1,964 @@
+{
+  "id": "E232",
+  "title": "It’s Hard to Say",
+  "level": "elementary",
+  "date": "2018-06-30",
+  "synopsis": "This short sentence can help you avoid some awkward situations.",
+  "audioUrl": "https://static.duchinese.net/documents/772/1cc3b0303595aaf2fae783fbee274cbbdd5ab534.mp3?1529323592",
+  "series": null,
+  "fullText": {
+    "simplified": "怎么说呢 \n\n安妮：我觉得《水形物语》这个电影太好看了。你觉得呢？\n林红：怎么说呢？还可以吧。\n安妮：为什么？\n林红：怎么说呢，就是个爱情和大魔王的故事，都是套路。\n安妮：好吧。怎么说呢，有时候你也挺挑的。",
+    "traditional": "怎麼說呢 \n\n安妮：我覺得《水形物語》這個電影太好看了。你覺得呢？\n林紅：怎麼說呢？還可以吧。\n安妮：為什麼？\n林紅：怎麼說呢，就是個愛情和大魔王的故事，都是套路。\n安妮：好吧。怎麼說呢，有時候你也挺挑的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "It’s Hard to Say"
+    },
+    {
+      "index": 2,
+      "simplified": "安妮：我觉得《水形物语》这个电影太好看了。你觉得呢？",
+      "traditional": "安妮：我覺得《水形物語》這個電影太好看了。你覺得呢？",
+      "pinyin": "ān nī wǒ jué de shuǐ xíng wù yǔ zhè ge diàn yǐng tài hǎo kàn le nǐ jué de ne",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Annie: I think the movie “The Shape of Water” is great. What do you think?"
+    },
+    {
+      "index": 4,
+      "simplified": "林红：怎么说呢？还可以吧。",
+      "traditional": "林紅：怎麼說呢？還可以吧。",
+      "pinyin": "lín hóng zěn me shuō ne hái kě yǐ ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Hong: It’s hard to say. It wasn’t bad."
+    },
+    {
+      "index": 6,
+      "simplified": "安妮：为什么？",
+      "traditional": "安妮：為什麼？",
+      "pinyin": "ān nī wèi shén me",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Annie: Why?"
+    },
+    {
+      "index": 8,
+      "simplified": "林红：怎么说呢，就是个爱情和大魔王的故事，都是套路。",
+      "traditional": "林紅：怎麼說呢，就是個愛情和大魔王的故事，都是套路。",
+      "pinyin": "lín hóng zěn me shuō ne jiù shì ge ài qíng hé dà mó wáng de gù shi dōu shì tào lù",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Hong: It’s hard to say. It's just a story of love and the devil. It’s all the same."
+    },
+    {
+      "index": 10,
+      "simplified": "安妮：好吧。怎么说呢，有时候你也挺挑的。",
+      "traditional": "安妮：好吧。怎麼說呢，有時候你也挺挑的。",
+      "pinyin": "ān nī hǎo ba zěn me shuō ne yǒu shí hou nǐ yě tǐng tiāo de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Annie: Ok. How should I put it… Sometimes you are quite picky."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "安妮",
+      "traditional": "安妮",
+      "pinyin": "ān nī",
+      "meaning": "Annie (name)\noften pronounced ān ní",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "形",
+      "traditional": "形",
+      "pinyin": "xíng",
+      "meaning": "form\nshape",
+      "hsk": null
+    },
+    {
+      "hanzi": "物语",
+      "traditional": "物語",
+      "pinyin": "wù yǔ",
+      "meaning": "epic narrative (Japanese literary form)\nmonogatari",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "林红",
+      "traditional": "林紅",
+      "pinyin": "lín hóng",
+      "meaning": "Lin Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "还可以",
+      "traditional": "還可以",
+      "pinyin": "hái kě yǐ",
+      "meaning": "not bad\nfair enough",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱情",
+      "traditional": "愛情",
+      "pinyin": "ài qíng",
+      "meaning": "romance\nlove (romantic)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "魔王",
+      "traditional": "魔王",
+      "pinyin": "mó wáng",
+      "meaning": "devil king\nevil person",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "故事",
+      "traditional": "故事",
+      "pinyin": "gù shi",
+      "meaning": "story\ntale",
+      "hsk": 3
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "套路",
+      "traditional": "套路",
+      "pinyin": "tào lù",
+      "meaning": "sequence of movements in martial arts\nroutine\nstandard method",
+      "hsk": null
+    },
+    {
+      "hanzi": "好吧",
+      "traditional": "好吧",
+      "pinyin": "hǎo ba",
+      "meaning": "OK (reluctantly)\nalright...",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "挺",
+      "traditional": "挺",
+      "pinyin": "tǐng",
+      "meaning": "(coll.) quite\nvery",
+      "hsk": 4
+    },
+    {
+      "hanzi": "挑",
+      "traditional": "挑",
+      "pinyin": "tiāo",
+      "meaning": "picky\nchoosy",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hanzi": "《",
+        "tc_hanzi": "《"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "形",
+        "pinyin": "xíng",
+        "meaning": "form\nshape",
+        "tc_hanzi": "形"
+      },
+      {
+        "hanzi": "物语",
+        "pinyin": "wù yǔ",
+        "meaning": "epic narrative (Japanese literary form)\nmonogatari",
+        "tc_hanzi": "物語"
+      },
+      {
+        "hanzi": "》",
+        "tc_hanzi": "》"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还可以",
+        "pinyin": "hái kě yǐ",
+        "meaning": "not bad\nfair enough",
+        "tc_hanzi": "還可以"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "爱情",
+        "pinyin": "ài qíng",
+        "meaning": "romance\nlove (romantic)",
+        "tc_hanzi": "愛情"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "魔王",
+        "pinyin": "mó wáng",
+        "meaning": "devil king\nevil person",
+        "tc_hanzi": "魔王"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "套路",
+        "pinyin": "tào lù",
+        "meaning": "sequence of movements in martial arts\nroutine\nstandard method",
+        "tc_hanzi": "套路"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吧",
+        "pinyin": "hǎo ba",
+        "meaning": "OK (reluctantly)\nalright...",
+        "tc_hanzi": "好吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "挺",
+        "pinyin": "tǐng",
+        "meaning": "(coll.) quite\nvery",
+        "tc_hanzi": "挺"
+      },
+      {
+        "hanzi": "挑",
+        "pinyin": "tiāo",
+        "meaning": "picky\nchoosy",
+        "tc_hanzi": "挑"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "This short sentence can help you avoid some awkward situations.",
+    "syllable_times": [
+      0.19321086319784325,
+      0.34384533576667303,
+      0.7709750566893424,
+      3.1158740650862455,
+      3.1158740650862455,
+      3.1158740650862455,
+      3.401360544217687,
+      3.764172335600907,
+      4.399092970521542,
+      4.761904761904762,
+      5.124716553287982,
+      5.442176870748299,
+      5.941043083900227,
+      6.125506522754828,
+      6.213151927437642,
+      6.4852607709750565,
+      6.802721088435374,
+      7.150751325612267,
+      7.346938775510204,
+      7.6643990929705215,
+      8.662131519274377,
+      8.979591836734693,
+      9.297052154195011,
+      9.47845804988662,
+      12.06777680676819,
+      12.06777680676819,
+      12.06777680676819,
+      12.426303854875284,
+      12.653061224489797,
+      13.015873015873016,
+      14.240362811791384,
+      14.603174603174603,
+      14.987427319205214,
+      15.192743764172336,
+      17.758215529338926,
+      17.758215529338926,
+      17.758215529338926,
+      18.00453514739229,
+      18.276643990929706,
+      20.692132012413353,
+      20.692132012413353,
+      20.692132012413353,
+      21.04308390022676,
+      21.251783382263195,
+      21.58730158730159,
+      23.174603174603174,
+      23.49206349206349,
+      23.764172335600907,
+      24.17233560090703,
+      24.489795918367346,
+      25.26077097505669,
+      25.668934240362812,
+      26.03174603174603,
+      26.29869207707046,
+      26.555435244287036,
+      26.802721088435373,
+      27.031307264834627,
+      28.117913832199548,
+      28.39002267573696,
+      28.707482993197278,
+      29.070294784580497,
+      31.189133370916046,
+      31.189133370916046,
+      31.189133370916046,
+      31.60997732426304,
+      32.698412698412696,
+      32.925170068027214,
+      33.10657596371882,
+      33.378684807256235,
+      34.285714285714285,
+      34.6031746031746,
+      34.965986394557824,
+      35.46485260770975,
+      35.775510018070534,
+      36.00907029478458,
+      36.281179138321995,
+      36.68934240362812,
+      37.29210884353741,
+      37.29210884353741
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      26,
+      27,
+      36,
+      37,
+      41,
+      42,
+      62,
+      63,
+      79
+    ],
+    "sentence_translations": [
+      "It’s Hard to Say",
+      "",
+      "Annie: I think the movie “The Shape of Water” is great. What do you think?",
+      "",
+      "Lin Hong: It’s hard to say. It wasn’t bad.",
+      "",
+      "Annie: Why?",
+      "",
+      "Lin Hong: It’s hard to say. It's just a story of love and the devil. It’s all the same.",
+      "",
+      "Annie: Ok. How should I put it… Sometimes you are quite picky.",
+      ""
+    ]
+  }
+}

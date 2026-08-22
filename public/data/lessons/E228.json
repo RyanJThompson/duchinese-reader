@@ -1,0 +1,763 @@
+{
+  "id": "E228",
+  "title": "Pig and Bear",
+  "level": "elementary",
+  "date": "2018-06-09",
+  "synopsis": "Be careful when picking a Chinese name for yourself. It could be very funny.",
+  "audioUrl": "https://static.duchinese.net/documents/759/864b2dbb91314d7f0adc8447922e85de6ff21c10.mp3?1528140791",
+  "series": null,
+  "fullText": {
+    "simplified": "猪和熊\n\n保罗：喂，你好！\n陌生人：哥哥，你什么时候到？\n保罗：不好意思，请问你是谁？\n陌生人：朱河雄。\n保罗：猪和熊？哈哈，对不起，你的名字太好笑了！还有，我觉得你打错了。",
+    "traditional": "豬和熊\n\n保羅：喂，你好！\n陌生人：哥哥，你什麼時候到？\n保羅：不好意思，請問你是誰？\n陌生人：朱河雄。\n保羅：豬和熊？哈哈，對不起，你的名字太好笑了！還有，我覺得你打錯了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Pig and Bear"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：喂，你好！",
+      "traditional": "保羅：喂，你好！",
+      "pinyin": "bǎo luó wéi nǐ hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Hello!"
+    },
+    {
+      "index": 4,
+      "simplified": "陌生人：哥哥，你什么时候到？",
+      "traditional": "陌生人：哥哥，你什麼時候到？",
+      "pinyin": "mò shēng rén gē ge nǐ shén me shí hou dào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Stranger: Older brother, when will you arrive?"
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：不好意思，请问你是谁？",
+      "traditional": "保羅：不好意思，請問你是誰？",
+      "pinyin": "bǎo luó bù hǎo yì si qǐng wèn nǐ shì shéi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Sorry, but may I ask who this is?"
+    },
+    {
+      "index": 8,
+      "simplified": "陌生人：朱河雄。",
+      "traditional": "陌生人：朱河雄。",
+      "pinyin": "mò shēng rén zhū hé xióng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Stranger: Zhu Hexiong"
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：猪和熊？哈哈，对不起，你的名字太好笑了！还有，我觉得你打错了。",
+      "traditional": "保羅：豬和熊？哈哈，對不起，你的名字太好笑了！還有，我覺得你打錯了。",
+      "pinyin": "bǎo luó zhū hé xióng hā hā duì bu qǐ nǐ de míng zi tài hǎo xiào le hái yǒu wǒ jué de nǐ dǎ cuò le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: Pig and bear? Haha, sorry, your name is too funny! And I think you dialed the wrong number."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "猪",
+      "traditional": "豬",
+      "pinyin": "zhū",
+      "meaning": "pig\nhog\nswine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "熊",
+      "traditional": "熊",
+      "pinyin": "xióng",
+      "meaning": "bear",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "陌生人",
+      "traditional": "陌生人",
+      "pinyin": "mò shēng rén",
+      "meaning": "stranger",
+      "hsk": null
+    },
+    {
+      "hanzi": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gē ge",
+      "meaning": "elder brother",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朱河雄",
+      "traditional": "朱河雄",
+      "pinyin": "zhū hé xióng",
+      "meaning": "Zhu Hexiong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "哈哈",
+      "traditional": "哈哈",
+      "pinyin": "hā hā",
+      "meaning": "(onom.) laughing out loud",
+      "hsk": null
+    },
+    {
+      "hanzi": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "meaning": "I'm sorry",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好笑",
+      "traditional": "好笑",
+      "pinyin": "hǎo xiào",
+      "meaning": "laughable\nfunny\nridiculous",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make\nto issue",
+      "hsk": null
+    },
+    {
+      "hanzi": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "meaning": "wrong\nerroneous\nincorrect",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "熊",
+        "pinyin": "xióng",
+        "meaning": "bear",
+        "tc_hanzi": "熊"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "哥哥",
+        "pinyin": "gē ge",
+        "meaning": "elder brother",
+        "tc_hanzi": "哥哥"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "朱河雄",
+        "pinyin": "zhū hé xióng",
+        "meaning": "Zhu Hexiong (name)",
+        "tc_hanzi": "朱河雄"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "熊",
+        "pinyin": "xióng",
+        "meaning": "bear",
+        "tc_hanzi": "熊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "I'm sorry",
+        "tc_hanzi": "對不起"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "好笑",
+        "pinyin": "hǎo xiào",
+        "meaning": "laughable\nfunny\nridiculous",
+        "tc_hanzi": "好笑"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong\nerroneous\nincorrect",
+        "tc_hanzi": "錯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Be careful when picking a Chinese name for yourself. It could be very funny.",
+    "syllable_times": [
+      0.5240148270104129,
+      1.0430839002267573,
+      3.104608392904159,
+      3.104608392904159,
+      3.104608392904159,
+      4.263038548752834,
+      4.580498866213152,
+      6.440937173800309,
+      6.440937173800309,
+      6.440937173800309,
+      6.440937173800309,
+      6.712018140589569,
+      7.755102040816326,
+      8.208616780045352,
+      8.571428571428571,
+      8.709298349277073,
+      9.070294784580499,
+      9.297052154195011,
+      11.134605242524477,
+      11.134605242524477,
+      11.134605242524477,
+      11.428571428571429,
+      11.671115603207895,
+      11.882086167800454,
+      12.7437641723356,
+      12.970521541950113,
+      13.560090702947846,
+      13.850522779472664,
+      14.104308390022675,
+      15.720942375530782,
+      15.720942375530782,
+      15.720942375530782,
+      15.720942375530782,
+      16.145124716553287,
+      16.433763830132214,
+      18.181188886616457,
+      18.181188886616457,
+      18.181188886616457,
+      18.820861678004537,
+      19.27437641723356,
+      20.589569160997733,
+      20.87340035790841,
+      21.904761904761905,
+      22.22222222222222,
+      22.389923903860666,
+      23.582766439909296,
+      23.79128471216705,
+      23.94557823129252,
+      24.217687074829932,
+      24.807256235827666,
+      25.215419501133788,
+      25.52274787275248,
+      25.895691609977323,
+      27.120181405895693,
+      27.412763806398864,
+      28.34467120181406,
+      28.616780045351472,
+      28.835039124966446,
+      29.523809523809526,
+      29.97732426303855,
+      30.249433106575964,
+      30.70294784580499,
+      31.171814058956915,
+      31.171814058956915
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      11,
+      12,
+      21,
+      22,
+      31,
+      32,
+      36,
+      37,
+      63
+    ],
+    "sentence_translations": [
+      "Pig and Bear",
+      "",
+      "Paul: Hello!",
+      "",
+      "Stranger: Older brother, when will you arrive?",
+      "",
+      "Paul: Sorry, but may I ask who this is?",
+      "",
+      "Stranger: Zhu Hexiong",
+      "",
+      "Paul: Pig and bear? Haha, sorry, your name is too funny! And I think you dialed the wrong number.",
+      ""
+    ]
+  }
+}

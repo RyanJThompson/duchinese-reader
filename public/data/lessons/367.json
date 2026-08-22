@@ -1,0 +1,490 @@
+{
+  "id": "367",
+  "title": "How Many Copies?",
+  "level": "elementary",
+  "date": "2017-09-15",
+  "synopsis": "Manager Wang asks Little Zhang to photocopy some contracts.",
+  "audioUrl": "https://static.duchinese.net/documents/523/5366f42a9d2df96fe0c49e27299e60149d55de38.mp3?1698352470",
+  "series": null,
+  "fullText": {
+    "simplified": "复印几份\n\n王总：小张，帮我复印这几份合同。\n小张：好的。复印几份？\n王总：两份。\n小张：好的。",
+    "traditional": "複印幾份\n\n王總：小張，幫我複印這幾份合同。\n小張：好的。複印幾份？\n王總：兩份。\n小張：好的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How Many Copies"
+    },
+    {
+      "index": 2,
+      "simplified": "王总：小张，帮我复印这几份合同。",
+      "traditional": "王總：小張，幫我複印這幾份合同。",
+      "pinyin": "wáng zǒng xiǎo zhāng bāng wǒ fù yìn zhè jǐ fèn hé tong",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Little Zhang, help me copy these contracts."
+    },
+    {
+      "index": 4,
+      "simplified": "小张：好的。复印几份？",
+      "traditional": "小張：好的。複印幾份？",
+      "pinyin": "xiǎo zhāng hǎo de fù yìn jǐ fèn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Ok. How many copies?"
+    },
+    {
+      "index": 6,
+      "simplified": "王总：两份。",
+      "traditional": "王總：兩份。",
+      "pinyin": "wáng zǒng liǎng fèn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Two."
+    },
+    {
+      "index": 8,
+      "simplified": "小张：好的。",
+      "traditional": "小張：好的。",
+      "pinyin": "xiǎo zhāng hǎo de",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Zhang: Ok."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "复印",
+      "traditional": "複印",
+      "pinyin": "fù yìn",
+      "meaning": "to photocopy\nto duplicate a document",
+      "hsk": 4
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "份",
+      "traditional": "份",
+      "pinyin": "fèn",
+      "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+      "hsk": 4
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "总",
+      "traditional": "總",
+      "pinyin": "zǒng",
+      "meaning": "head\nchief",
+      "hsk": null
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "合同",
+      "traditional": "合同",
+      "pinyin": "hé tong",
+      "meaning": "(business) contract",
+      "hsk": 5
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "复印",
+        "pinyin": "fù yìn",
+        "meaning": "to photocopy\nto duplicate a document",
+        "tc_hanzi": "複印"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+        "tc_hanzi": "份"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "复印",
+        "pinyin": "fù yìn",
+        "meaning": "to photocopy\nto duplicate a document",
+        "tc_hanzi": "複印"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+        "tc_hanzi": "份"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "合同",
+        "pinyin": "hé tong",
+        "meaning": "(business) contract",
+        "tc_hanzi": "合同"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "复印",
+        "pinyin": "fù yìn",
+        "meaning": "to photocopy\nto duplicate a document",
+        "tc_hanzi": "複印"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+        "tc_hanzi": "份"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+        "tc_hanzi": "份"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Manager Wang asks Little Zhang to photocopy some contracts.",
+    "syllable_times": [
+      0.4421768707482993,
+      0.9,
+      1.3321995464852607,
+      3.26,
+      3.26,
+      3.26,
+      3.492063492063492,
+      4.6315192743764175,
+      4.982993197278911,
+      5.3061224489795915,
+      5.742630385487528,
+      6.22,
+      6.496598639455782,
+      6.717687074829931,
+      6.921768707482993,
+      7.3809523809523805,
+      9.11,
+      9.11,
+      9.11,
+      9.467120181405896,
+      10.38548752834467,
+      10.714285714285714,
+      10.958049886621314,
+      11.235827664399093,
+      12.67,
+      12.67,
+      12.67,
+      13.117913832199546,
+      14.55,
+      14.55,
+      14.55,
+      14.931972789115646,
+      15.8
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      19,
+      20,
+      29,
+      30,
+      36,
+      37,
+      42
+    ],
+    "sentence_translations": [
+      "How Many Copies",
+      "",
+      "Manager Wang: Little Zhang, help me copy these contracts.",
+      "",
+      "Little Zhang: Ok. How many copies?",
+      "",
+      "Manager Wang: Two.",
+      "",
+      "Little Zhang: Ok.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "id": "531",
+  "title": "Guaranteed Sweet Apples",
+  "level": "newbie",
+  "date": "2018-06-28",
+  "synopsis": "Little Ming is out with his mom to buy some apples.",
+  "audioUrl": "https://static.duchinese.net/documents/756/f4fa208a442f03adccb2fe39f9f890c9ffa6c0dd.mp3?1527744199",
+  "series": null,
+  "fullText": {
+    "simplified": "不甜不要钱\n\n小明和妈妈去买苹果。\n妈妈问卖水果的人：“这个苹果甜不甜呀？”\n卖苹果的人说：“很甜。不甜不要钱。”\n小明问：“那我能不能买一斤不甜的苹果？”",
+    "traditional": "不甜不要錢\n\n小明和媽媽去買蘋果。\n媽媽問賣水果的人：“這個蘋果甜不甜呀？”\n賣蘋果的人說：“很甜。不甜不要錢。”\n小明問：“那我能不能買一斤不甜的蘋果？”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "If they’re not sweet you don’t need to pay"
+    },
+    {
+      "index": 2,
+      "simplified": "小明和妈妈去买苹果。",
+      "traditional": "小明和媽媽去買蘋果。",
+      "pinyin": "xiǎo míng hé mā ma qù mǎi píng guǒ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming and his mom went to buy apples."
+    },
+    {
+      "index": 4,
+      "simplified": "妈妈问卖水果的人：“这个苹果甜不甜呀？”",
+      "traditional": "媽媽問賣水果的人：“這個蘋果甜不甜呀？”",
+      "pinyin": "mā ma wèn mài shuǐ guǒ de rén zhè ge píng guǒ tián bù tián ya",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom asked the apple seller: “Are these apples sweet?”"
+    },
+    {
+      "index": 6,
+      "simplified": "卖苹果的人说：“很甜。不甜不要钱。”",
+      "traditional": "賣蘋果的人說：“很甜。不甜不要錢。”",
+      "pinyin": "mài píng guǒ de rén shuō hěn tián bù tián bú yào qián",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "The apple seller said: “Very sweet. If they’re not sweet you don’t need to pay.”"
+    },
+    {
+      "index": 8,
+      "simplified": "小明问：“那我能不能买一斤不甜的苹果？”",
+      "traditional": "小明問：“那我能不能買一斤不甜的蘋果？”",
+      "pinyin": "xiǎo míng wèn nà wǒ néng bù néng mǎi yì jīn bù tián de píng guǒ",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "甜",
+      "traditional": "甜",
+      "pinyin": "tián",
+      "meaning": "sweet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "meaning": "apple",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "卖",
+      "traditional": "賣",
+      "pinyin": "mài",
+      "meaning": "to sell",
+      "hsk": 2
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "斤",
+      "traditional": "斤",
+      "pinyin": "jīn",
+      "meaning": "weight equal to 0.5 kg",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "斤",
+        "pinyin": "jīn",
+        "meaning": "weight equal to 0.5 kg",
+        "tc_hanzi": "斤"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is out with his mom to buy some apples.",
+    "syllable_times": [
+      0.33147093869825417,
+      1.0430839002267573,
+      1.3446337156206927,
+      1.6780045351473922,
+      4.263038548752834,
+      4.660672887059098,
+      5.08669150056925,
+      5.442176870748299,
+      5.804988662131519,
+      6.394557823129252,
+      6.603753933966917,
+      6.826005242690245,
+      7.210884353741497,
+      8.75283446712018,
+      9.160997732426305,
+      9.433106575963718,
+      9.977324263038549,
+      10.342575910072874,
+      10.748299319727892,
+      10.975056689342404,
+      11.201814058956916,
+      12.698412698412698,
+      13.015873015873016,
+      13.242630385487528,
+      13.696145124716553,
+      14.467120181405896,
+      14.965986394557824,
+      15.16199462618439,
+      15.611062836929511,
+      17.868480725623584,
+      18.276643990929706,
+      18.594104308390023,
+      18.820861678004537,
+      19.002267573696145,
+      19.334503639495978,
+      20.634920634920636,
+      21.10932262658853,
+      22.22222222222222,
+      22.560915338609178,
+      23.26530612244898,
+      23.6734693877551,
+      23.990929705215418,
+      26.439909297052154,
+      26.802721088435373,
+      27.03120741773715,
+      28.435374149659864,
+      28.843537414965986,
+      29.387755102040817,
+      29.79591836734694,
+      30.02267573696145,
+      30.56689342403628,
+      30.839002267573697,
+      31.156462585034014,
+      31.836734693877553,
+      32.18100546264055,
+      32.698412698412696,
+      32.87981859410431,
+      33.28798185941043,
+      33.95167800453515,
+      33.95167800453515
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      14,
+      15,
+      30,
+      31,
+      46,
+      47
+    ],
+    "sentence_translations": [
+      "If they’re not sweet you don’t need to pay",
+      "",
+      "Little Ming and his mom went to buy apples.",
+      "",
+      "Mom asked the apple seller: “Are these apples sweet?”",
+      "",
+      "The apple seller said: “Very sweet. If they’re not sweet you don’t need to pay.”",
+      "",
+      "Little Ming asked: “Then can I buy half a kilo of sour apples?”"
+    ]
+  }
+}

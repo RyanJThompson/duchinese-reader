@@ -1,0 +1,725 @@
+{
+  "id": "1090",
+  "title": "There is Something in My Eye",
+  "level": "newbie",
+  "date": "2020-09-30",
+  "synopsis": "There is something (lovely) in Little He’s eye.",
+  "audioUrl": "https://static.duchinese.net/documents/1090/c7009574c8989578147e816773944525211fb1ff.mp3?1596878533",
+  "series": null,
+  "fullText": {
+    "simplified": "我的眼睛里有东西\n\n小何：亲爱的，你帮我看看我的眼睛里是不是有什么东西？\n丽丽：好的，我看看。什么都没有啊！\n小何：怎么可能？我的眼睛里有你啊，我的眼里都是你。",
+    "traditional": "我的眼睛裡有東西\n\n小何：親愛的，你幫我看看我的眼睛裡是不是有什麼東西？\n麗麗：好的，我看看。什麼都沒有啊！\n小何：怎麼可能？我的眼睛裡有你啊，我的眼裡都是你。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "There is Something in My Eye"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：亲爱的，你帮我看看我的眼睛里是不是有什么东西？",
+      "traditional": "小何：親愛的，你幫我看看我的眼睛裡是不是有什麼東西？",
+      "pinyin": "xiǎo hé qīn ài de nǐ bāng wǒ kàn kan wǒ de yǎn jing lǐ shì bú shì yǒu shén me dōng xi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Darling, can you help me take a look at my eye to see if there is something there?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：好的，我看看。什么都没有啊！",
+      "traditional": "麗麗：好的，我看看。什麼都沒有啊！",
+      "pinyin": "lì lì hǎo de wǒ kàn kan shén me dōu méi yǒu a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: OK, I will take a look. Nothing is there!"
+    },
+    {
+      "index": 6,
+      "simplified": "小何：怎么可能？",
+      "traditional": "小何：怎麼可能？",
+      "pinyin": "xiǎo hé zěn me kě néng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "我的眼睛里有你啊，我的眼里都是你。",
+      "traditional": "我的眼睛裡有你啊，我的眼裡都是你。",
+      "pinyin": "wǒ de yǎn jing lǐ yǒu nǐ a wǒ de yǎn lǐ dōu shì nǐ",
+      "english": "Little He: How is that possible?"
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "You are in my eyes. All I see is you."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "眼睛",
+      "traditional": "眼睛",
+      "pinyin": "yǎn jing",
+      "meaning": "eyes",
+      "hsk": 2
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "亲爱的",
+      "traditional": "親愛的",
+      "pinyin": "qīn ài de",
+      "meaning": "dear\ndarling",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "(not) at all",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "眼",
+      "traditional": "眼",
+      "pinyin": "yǎn",
+      "meaning": "eyes",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼睛",
+        "pinyin": "yǎn jing",
+        "meaning": "eyes",
+        "tc_hanzi": "眼睛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "亲爱的",
+        "pinyin": "qīn ài de",
+        "meaning": "dear\ndarling",
+        "tc_hanzi": "親愛的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼睛",
+        "pinyin": "yǎn jing",
+        "meaning": "eyes",
+        "tc_hanzi": "眼睛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(not) at all",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼睛",
+        "pinyin": "yǎn jing",
+        "meaning": "eyes",
+        "tc_hanzi": "眼睛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼",
+        "pinyin": "yǎn",
+        "meaning": "eyes",
+        "tc_hanzi": "眼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "There is something (lovely) in Little He’s eye.",
+    "syllable_times": [
+      0.205,
+      0.41,
+      0.7450000000000001,
+      1.08,
+      1.39,
+      1.67,
+      2.01,
+      3.214285714285714,
+      3.214285714285714,
+      3.214285714285714,
+      3.4750566893424035,
+      3.6933333333333334,
+      5,
+      5.2437641723356005,
+      5.459183673469387,
+      5.6,
+      5.904999999999999,
+      6.32,
+      6.485,
+      6.65,
+      6.915,
+      7.18,
+      7.69,
+      7.933333333333334,
+      8.129251700680271,
+      8.441043083900226,
+      8.73015873015873,
+      8.928571428571429,
+      9.06,
+      9.36,
+      10.470521541950113,
+      10.470521541950113,
+      10.470521541950113,
+      10.84,
+      11.87,
+      12.18,
+      12.59,
+      14.007936507936508,
+      14.43,
+      14.89,
+      15.1,
+      15.375,
+      15.65,
+      17.64,
+      17.64,
+      17.64,
+      17.91,
+      18.09,
+      18.42,
+      19.67,
+      19.83,
+      19.99,
+      20.225,
+      20.46,
+      20.67,
+      20.9297052154195,
+      21.27,
+      22.5,
+      22.66,
+      22.82,
+      23.06689342403628,
+      23.56,
+      23.83,
+      24.1,
+      24.803129
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      27,
+      28,
+      41,
+      42,
+      47,
+      63
+    ],
+    "sentence_translations": [
+      "There is Something in My Eye",
+      "",
+      "Little He: Darling, can you help me take a look at my eye to see if there is something there?",
+      "",
+      "Lili: OK, I will take a look. Nothing is there!",
+      "",
+      "Little He: How is that possible?",
+      "You are in my eyes. All I see is you.",
+      ""
+    ]
+  }
+}

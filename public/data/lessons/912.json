@@ -1,0 +1,721 @@
+{
+  "id": "912",
+  "title": "Is There a Toilet Here?",
+  "level": "newbie",
+  "date": "2020-04-09",
+  "synopsis": "Anne asks where the toilet is.",
+  "audioUrl": "https://static.duchinese.net/documents/912/607656632f656be2ee57a3c3f722b6a56616b03f.mp3?1585482716",
+  "series": null,
+  "fullText": {
+    "simplified": "这里有洗手间吗？\n\n安：不好意思，请问这里有洗手间吗？\n李现：有。二楼有男洗手间，三楼有女洗手间。\n安：请问这里是几楼？\n李现：这里是二楼。\n安：好的，谢谢您！\n李现：不客气！\n",
+    "traditional": "這裡有洗手間嗎？\n\n安：不好意思，請問這裡有洗手間嗎？\n李現：有。二樓有男洗手間，三樓有女洗手間。\n安：請問這裡是幾樓？\n李現：這裡是二樓。\n安：好的，謝謝您！\n李現：不客氣！\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Is there a toilet here?"
+    },
+    {
+      "index": 2,
+      "simplified": "安：不好意思，请问这里有洗手间吗？",
+      "traditional": "安：不好意思，請問這裡有洗手間嗎？",
+      "pinyin": "ān bù hǎo yì si qǐng wèn zhè lǐ yǒu xǐ shǒu jiān ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Excuse me, is there a toilet here?"
+    },
+    {
+      "index": 4,
+      "simplified": "李现：有。二楼有男洗手间，三楼有女洗手间。",
+      "traditional": "李現：有。二樓有男洗手間，三樓有女洗手間。",
+      "pinyin": "lǐ xiàn yǒu èr lóu yǒu nán xǐ shǒu jiān sān lóu yǒu nǚ xǐ shǒu jiān",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li Xian: Yes. On the second floor is the men’s toilet, and on the third floor is the women’s toilet."
+    },
+    {
+      "index": 6,
+      "simplified": "安：请问这里是几楼？",
+      "traditional": "安：請問這裡是幾樓？",
+      "pinyin": "ān qǐng wèn zhè lǐ shì jǐ lóu",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: What floor are we on now?"
+    },
+    {
+      "index": 8,
+      "simplified": "李现：这里是二楼。",
+      "traditional": "李現：這裡是二樓。",
+      "pinyin": "lǐ xiàn zhè lǐ shì èr lóu",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li Xian: This is the second floor."
+    },
+    {
+      "index": 10,
+      "simplified": "安：好的，谢谢您！",
+      "traditional": "安：好的，謝謝您！",
+      "pinyin": "ān hǎo de xiè xie nín",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Got it, thank you!"
+    },
+    {
+      "index": 12,
+      "simplified": "李现：不客气！",
+      "traditional": "李現：不客氣！",
+      "pinyin": "lǐ xiàn bú kè qi",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li Xian: You’re welcome!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "洗手间",
+      "traditional": "洗手間",
+      "pinyin": "xǐ shǒu jiān",
+      "meaning": "toilet\nwashroom",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "安",
+      "traditional": "安",
+      "pinyin": "ān",
+      "meaning": "Anne (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "李现",
+      "traditional": "李現",
+      "pinyin": "lǐ xiàn",
+      "meaning": "Li Xian (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "楼",
+      "traditional": "樓",
+      "pinyin": "lóu",
+      "meaning": "floor\nstoried building",
+      "hsk": 3
+    },
+    {
+      "hanzi": "男",
+      "traditional": "男",
+      "pinyin": "nán",
+      "meaning": "male\nman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女",
+      "traditional": "女",
+      "pinyin": "nǚ",
+      "meaning": "female\nwoman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "洗手间",
+        "pinyin": "xǐ shǒu jiān",
+        "meaning": "toilet\nwashroom",
+        "tc_hanzi": "洗手間"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "洗手间",
+        "pinyin": "xǐ shǒu jiān",
+        "meaning": "toilet\nwashroom",
+        "tc_hanzi": "洗手間"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李现",
+        "pinyin": "lǐ xiàn",
+        "meaning": "Li Xian (name)",
+        "tc_hanzi": "李現"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "楼",
+        "pinyin": "lóu",
+        "meaning": "floor\nstoried building",
+        "tc_hanzi": "樓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男",
+        "pinyin": "nán",
+        "meaning": "male\nman",
+        "tc_hanzi": "男"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "洗手间",
+        "pinyin": "xǐ shǒu jiān",
+        "meaning": "toilet\nwashroom",
+        "tc_hanzi": "洗手間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "楼",
+        "pinyin": "lóu",
+        "meaning": "floor\nstoried building",
+        "tc_hanzi": "樓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女",
+        "pinyin": "nǚ",
+        "meaning": "female\nwoman",
+        "tc_hanzi": "女"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "洗手间",
+        "pinyin": "xǐ shǒu jiān",
+        "meaning": "toilet\nwashroom",
+        "tc_hanzi": "洗手間"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "楼",
+        "pinyin": "lóu",
+        "meaning": "floor\nstoried building",
+        "tc_hanzi": "樓"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李现",
+        "pinyin": "lǐ xiàn",
+        "meaning": "Li Xian (name)",
+        "tc_hanzi": "李現"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "楼",
+        "pinyin": "lóu",
+        "meaning": "floor\nstoried building",
+        "tc_hanzi": "樓"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李现",
+        "pinyin": "lǐ xiàn",
+        "meaning": "Li Xian (name)",
+        "tc_hanzi": "李現"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne asks where the toilet is.",
+    "syllable_times": [
+      0.345,
+      0.74,
+      1.04,
+      1.3366666666666667,
+      1.6333333333333333,
+      2.0331391990184784,
+      4.03422240447253,
+      4.03422240447253,
+      4.253426874987781,
+      4.520515817217529,
+      4.86120496597141,
+      5.802445197477937,
+      6.115199197564667,
+      6.69,
+      6.975878239158934,
+      7.47,
+      7.86,
+      8.163333333333334,
+      8.466666666666667,
+      8.77,
+      10.333377780873722,
+      10.333377780873722,
+      10.333377780873722,
+      11.34,
+      11.64,
+      12.07,
+      12.35,
+      12.66,
+      12.95,
+      13.24,
+      14.14,
+      14.48,
+      14.91,
+      15.21,
+      15.62,
+      15.903333333333332,
+      16.186666666666667,
+      17.735234536115474,
+      17.735234536115474,
+      18.134999999999998,
+      18.68,
+      19.035,
+      19.42,
+      19.73,
+      20.04,
+      21.271680122126288,
+      21.271680122126288,
+      21.271680122126288,
+      21.615000000000002,
+      21.96,
+      22.25,
+      22.59,
+      23.89129209984094,
+      23.89129209984094,
+      24.25,
+      24.88524958770722,
+      25.275951406918466,
+      25.47,
+      26.666551935486495,
+      26.666551935486495,
+      26.666551935486495,
+      27.02,
+      27.34,
+      27.967392,
+      27.967392
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      17,
+      18,
+      34,
+      35,
+      43,
+      44,
+      51,
+      52,
+      59,
+      60,
+      64
+    ],
+    "sentence_translations": [
+      "Is there a toilet here?",
+      "",
+      "Anne: Excuse me, is there a toilet here?",
+      "",
+      "Li Xian: Yes. On the second floor is the men’s toilet, and on the third floor is the women’s toilet.",
+      "",
+      "Anne: What floor are we on now?",
+      "",
+      "Li Xian: This is the second floor.",
+      "",
+      "Anne: Got it, thank you!",
+      "",
+      "Li Xian: You’re welcome!",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,945 @@
+{
+  "id": "E398",
+  "title": "Check It Again",
+  "level": "intermediate",
+  "date": "2020-01-29",
+  "synopsis": "Little Fang brought dice to his exam, but why?",
+  "audioUrl": "https://static.duchinese.net/documents/50398/6dd0d41667c48442402a88a1b10b8976a695419f.mp3?1580203683",
+  "series": null,
+  "fullText": {
+    "simplified": "再检查一下\n\n老师：你为什么带色子来考试？\n小方：我不会的题就用色子做。\n老师：那你为什么一直在用色子？\n小方：因为很多题我都不会做。\n老师：那为什么你做完以后，还在用色子？\n小方：我要再检查一下啊。\n",
+    "traditional": "再檢查一下\n\n老師：你為什麼帶色子來考試？\n小方：我不會的題就用色子做。\n老師：那你為什麼一直在用色子？\n小方：因為很多題我都不會做。\n老師：那為什麼你做完以後，還在用色子？\n小方：我要再檢查一下啊。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Check it again"
+    },
+    {
+      "index": 2,
+      "simplified": "老师：你为什么带色子来考试？",
+      "traditional": "老師：你為什麼帶色子來考試？",
+      "pinyin": "lǎo shī nǐ wèi shén me dài shǎi zi lái kǎo shì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Why did you bring dice to the exam?"
+    },
+    {
+      "index": 4,
+      "simplified": "小方：我不会的题就用色子做。",
+      "traditional": "小方：我不會的題就用色子做。",
+      "pinyin": "xiǎo fāng wǒ bú huì de tí jiù yòng shǎi zi zuò",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: I used the dice to do the questions that I didn’t know."
+    },
+    {
+      "index": 6,
+      "simplified": "老师：那你为什么一直在用色子？",
+      "traditional": "老師：那你為什麼一直在用色子？",
+      "pinyin": "lǎo shī nà nǐ wèi shén me yì zhí zài yòng shǎi zi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Then why did you keep rolling the dice?"
+    },
+    {
+      "index": 8,
+      "simplified": "小方：因为很多题我都不会做。",
+      "traditional": "小方：因為很多題我都不會做。",
+      "pinyin": "xiǎo fāng yīn wèi hěn duō tí wǒ dōu bú huì zuò",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: Because there were a lot of questions that I couldn’t do."
+    },
+    {
+      "index": 10,
+      "simplified": "老师：那为什么你做完以后，还在用色子？",
+      "traditional": "老師：那為什麼你做完以後，還在用色子？",
+      "pinyin": "lǎo shī nà wèi shén me nǐ zuò wán yǐ hòu hái zài yòng shǎi zi",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Then why were you still rolling the dice after finishing the exam?"
+    },
+    {
+      "index": 12,
+      "simplified": "小方：我要再检查一下啊。",
+      "traditional": "小方：我要再檢查一下啊。",
+      "pinyin": "xiǎo fāng wǒ yào zài jiǎn chá yí xià a",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: I needed to check it again."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "检查",
+      "traditional": "檢查",
+      "pinyin": "jiǎn chá",
+      "meaning": "inspection\nto examine",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "色子",
+      "traditional": "色子",
+      "pinyin": "shǎi zi",
+      "meaning": "dice (used in gambling)",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "meaning": "to take an exam\nexam",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小方",
+      "traditional": "小方",
+      "pinyin": "xiǎo fāng",
+      "meaning": "Little Fang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "题",
+      "traditional": "題",
+      "pinyin": "tí",
+      "meaning": "topic\nproblem for discussion\nexam question",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一直",
+      "traditional": "一直",
+      "pinyin": "yì zhí",
+      "meaning": "continuously\nall along",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "检查",
+        "pinyin": "jiǎn chá",
+        "meaning": "inspection\nto examine",
+        "tc_hanzi": "檢查"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hanzi": "色子",
+        "pinyin": "shǎi zi",
+        "meaning": "dice (used in gambling)",
+        "tc_hanzi": "色子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "考试",
+        "pinyin": "kǎo shì",
+        "meaning": "to take an exam\nexam",
+        "tc_hanzi": "考試"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "题",
+        "pinyin": "tí",
+        "meaning": "topic\nproblem for discussion\nexam question",
+        "tc_hanzi": "題"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "色子",
+        "pinyin": "shǎi zi",
+        "meaning": "dice (used in gambling)",
+        "tc_hanzi": "色子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一直",
+        "pinyin": "yì zhí",
+        "meaning": "continuously\nall along",
+        "tc_hanzi": "一直"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "色子",
+        "pinyin": "shǎi zi",
+        "meaning": "dice (used in gambling)",
+        "tc_hanzi": "色子"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "题",
+        "pinyin": "tí",
+        "meaning": "topic\nproblem for discussion\nexam question",
+        "tc_hanzi": "題"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "色子",
+        "pinyin": "shǎi zi",
+        "meaning": "dice (used in gambling)",
+        "tc_hanzi": "色子"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "检查",
+        "pinyin": "jiǎn chá",
+        "meaning": "inspection\nto examine",
+        "tc_hanzi": "檢查"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Fang brought dice to his exam, but why?",
+    "syllable_times": [
+      0.47,
+      0.76,
+      1.05,
+      1.35,
+      4.766794033976923,
+      4.766794033976923,
+      4.766794033976923,
+      5.02,
+      5.273333333333333,
+      5.526666666666666,
+      5.81,
+      6.01,
+      6.39,
+      6.54,
+      6.71,
+      7.0649999999999995,
+      9.415894375283674,
+      9.415894375283674,
+      9.415894375283674,
+      9.73,
+      10.02,
+      10.31,
+      10.46,
+      11.07,
+      11.415,
+      11.76,
+      12.22,
+      12.42,
+      14.799471502519737,
+      14.799471502519737,
+      14.799471502519737,
+      15.54,
+      15.75,
+      16.02,
+      16.29,
+      16.61,
+      16.884999999999998,
+      17.16,
+      17.35,
+      17.54,
+      17.869999999999997,
+      20.084791284730574,
+      20.084791284730574,
+      20.084791284730574,
+      20.395,
+      20.64,
+      20.965,
+      21.29,
+      21.629304896788607,
+      21.97,
+      22.21333333333333,
+      22.456666666666667,
+      22.7,
+      25.138882050231178,
+      25.138882050231178,
+      25.138882050231178,
+      25.35,
+      25.593333333333334,
+      25.836666666666666,
+      26.23,
+      26.48,
+      26.700000000000003,
+      26.92,
+      27.205,
+      27.66,
+      27.98,
+      28.3,
+      28.51,
+      28.82,
+      31.204077759206573,
+      31.204077759206573,
+      31.204077759206573,
+      31.545,
+      31.95,
+      32.23,
+      32.525,
+      32.82,
+      33.055,
+      33.29,
+      33.908542,
+      33.908542
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      27,
+      28,
+      38,
+      39,
+      51,
+      52,
+      66,
+      67,
+      76
+    ],
+    "sentence_translations": [
+      "Check it again",
+      "",
+      "Teacher: Why did you bring dice to the exam?",
+      "",
+      "Little Fang: I used the dice to do the questions that I didn’t know.",
+      "",
+      "Teacher: Then why did you keep rolling the dice?",
+      "",
+      "Little Fang: Because there were a lot of questions that I couldn’t do.",
+      "",
+      "Teacher: Then why were you still rolling the dice after finishing the exam?",
+      "",
+      "Little Fang: I needed to check it again.",
+      ""
+    ]
+  }
+}

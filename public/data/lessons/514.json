@@ -1,0 +1,767 @@
+{
+  "id": "514",
+  "title": "A Riddle Of Doing",
+  "level": "newbie",
+  "date": "2018-03-08",
+  "synopsis": "Can you guess the answer to the riddle?",
+  "audioUrl": "https://static.duchinese.net/documents/674/bde4ec426d1173dc1f632336a3cbb8eb2fcf9e88.mp3?1519569576",
+  "series": null,
+  "fullText": {
+    "simplified": "这是做什么？ \n\n    你能做，我能做，大家都做；一个人能做，两个人不能一起做。这是做什么？ \n    这是一个IQ题，请想一想！\n    想出来了吗？那就是：做梦。",
+    "traditional": "這是做什麼？ \n\n    你能做，我能做，大家都做；一個人能做，兩個人不能一起做。這是做什麼？ \n    這是一個IQ題，請想一想！\n    想出來了嗎？那就是：做夢。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": " \n\n    ",
+      "traditional": " \n\n    ",
+      "pinyin": "",
+      "english": "What are we doing?"
+    },
+    {
+      "index": 2,
+      "simplified": "你能做，我能做，大家都做；",
+      "traditional": "你能做，我能做，大家都做；",
+      "pinyin": "nǐ néng zuò wǒ néng zuò dà jiā dōu zuò",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "一个人能做，两个人不能一起做。",
+      "traditional": "一個人能做，兩個人不能一起做。",
+      "pinyin": "yí ge rén néng zuò liǎng ge rén bù néng yì qǐ zuò",
+      "english": "You can do it. I can do it. Everyone does it."
+    },
+    {
+      "index": 4,
+      "simplified": "这是做什么？",
+      "traditional": "這是做什麼？",
+      "pinyin": "zhè shì zuò shén me",
+      "english": "One person can do it, but two people cannot do it together."
+    },
+    {
+      "index": 5,
+      "simplified": " \n    ",
+      "traditional": " \n    ",
+      "pinyin": "",
+      "english": "What are we doing?"
+    },
+    {
+      "index": 6,
+      "simplified": "这是一个IQ题，请想一想！",
+      "traditional": "這是一個IQ題，請想一想！",
+      "pinyin": "zhè shì yí ge 2 tí qǐng xiǎng yi xiǎng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "This is an IQ question. Please think about it for a while!"
+    },
+    {
+      "index": 8,
+      "simplified": "想出来了吗？那就是：做梦。",
+      "traditional": "想出來了嗎？那就是：做夢。",
+      "pinyin": "xiǎng chū lái le ma nà jiù shì zuò mèng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Did you get it? The answer is: to dream."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "题",
+      "traditional": "題",
+      "pinyin": "tí",
+      "meaning": "topic\nproblem for discussion\nexam question",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "to come out\nto appear",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "梦",
+      "traditional": "夢",
+      "pinyin": "mèng",
+      "meaning": "dream",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "IQ",
+        "pinyin": "2",
+        "tc_hanzi": "IQ"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "题",
+        "pinyin": "tí",
+        "meaning": "topic\nproblem for discussion\nexam question",
+        "tc_hanzi": "題"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yi",
+        "meaning": "(used between verbs to lessen seriousness)",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "to come out\nto appear",
+        "tc_hanzi": "出來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "梦",
+        "pinyin": "mèng",
+        "meaning": "dream",
+        "tc_hanzi": "夢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Can you guess the answer to the riddle?",
+    "syllable_times": [
+      0.5732713924540628,
+      1.360544217687075,
+      1.904761904761905,
+      2.451374608898711,
+      4.716553287981859,
+      5.265515248559353,
+      5.666889443152374,
+      6.938775510204081,
+      7.437641723356009,
+      7.755102040816326,
+      9.251700680272108,
+      9.61451247165533,
+      10.38548752834467,
+      10.79365079365079,
+      13.15192743764172,
+      13.46938775510204,
+      13.83219954648526,
+      14.15163189662585,
+      14.5124716553288,
+      15.78231292517007,
+      16.281179138322,
+      16.59863945578231,
+      17.14285714285714,
+      17.41496598639456,
+      17.86848072562358,
+      18.2312925170068,
+      18.73015873015873,
+      20.54421768707483,
+      20.90702947845805,
+      21.7687074829932,
+      22.17687074829932,
+      22.59497333114716,
+      24.80725623582767,
+      25.1707717240572,
+      25.5328798185941,
+      25.80498866213152,
+      26.30385487528345,
+      26.66666666666667,
+      27.06203983677949,
+      28.29931972789116,
+      28.93424036281179,
+      29.47845804988662,
+      29.71999714117199,
+      32.06349206349206,
+      32.64530801606612,
+      32.90084884785285,
+      33.16374783715502,
+      33.38537908762053,
+      35.01133786848072,
+      35.32879818594105,
+      35.65953734864702,
+      36.78004535147392,
+      37.32426303854875,
+      37.99147392290249,
+      37.99147392290249
+    ],
+    "sentence_indices": [
+      5,
+      9,
+      21,
+      35,
+      40,
+      43,
+      55,
+      57,
+      69
+    ],
+    "sentence_translations": [
+      "What are we doing?",
+      "",
+      "You can do it. I can do it. Everyone does it.",
+      "One person can do it, but two people cannot do it together.",
+      "What are we doing?",
+      "",
+      "This is an IQ question. Please think about it for a while!",
+      "",
+      "Did you get it? The answer is: to dream.",
+      ""
+    ]
+  }
+}

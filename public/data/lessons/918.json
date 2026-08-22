@@ -1,0 +1,946 @@
+{
+  "id": "918",
+  "title": "Buy A New Dad",
+  "level": "newbie",
+  "date": "2020-07-07",
+  "synopsis": "Little Ming doesn’t want to let his dad sleep…",
+  "audioUrl": "https://static.duchinese.net/documents/918/6bbc37c2aff4cc8b3d14d3358b2eac78c0da827f.mp3?1589700265",
+  "series": null,
+  "fullText": {
+    "simplified": "去超市买新爸爸\n\n小明：妈妈，爸爸怎么还不起床？\n妈妈：爸爸太累了吧。\n小明：妈妈，我们去超市买一个新的爸爸吧，这个爸爸我们不要了。\n妈妈：为什么呢？\n小明：这个爸爸太懒了，每天都起床很晚，不能和我玩。",
+    "traditional": "去超市買新爸爸\n\n小明：媽媽，爸爸怎麼還不起床？\n媽媽：爸爸太累了吧。\n小明：媽媽，我們去超市買一個新的爸爸吧，這個爸爸我們不要了。\n媽媽：為什麼呢？\n小明：這個爸爸太懶了，每天都起床很晚，不能和我玩。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Go to the Supermarket and Buy a New Dad"
+    },
+    {
+      "index": 2,
+      "simplified": "小明：妈妈，爸爸怎么还不起床？",
+      "traditional": "小明：媽媽，爸爸怎麼還不起床？",
+      "pinyin": "xiǎo míng mā ma bà ba zěn me hái bù qǐ chuáng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Mom, how come dad still hasn’t gotten out of bed?"
+    },
+    {
+      "index": 4,
+      "simplified": "妈妈：爸爸太累了吧。",
+      "traditional": "媽媽：爸爸太累了吧。",
+      "pinyin": "mā ma bà ba tài lèi le ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Dad is too tired."
+    },
+    {
+      "index": 6,
+      "simplified": "小明：妈妈，我们去超市买一个新的爸爸吧，这个爸爸我们不要了。",
+      "traditional": "小明：媽媽，我們去超市買一個新的爸爸吧，這個爸爸我們不要了。",
+      "pinyin": "xiǎo míng mā ma wǒ men qù chāo shì mǎi yí ge xīn de bà ba ba zhè ge bà ba wǒ men bú yào le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Mom, let’s go to the supermarket and buy a new dad, we don’t want this dad."
+    },
+    {
+      "index": 8,
+      "simplified": "妈妈：为什么呢？",
+      "traditional": "媽媽：為什麼呢？",
+      "pinyin": "mā ma wèi shén me ne",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Why is that?"
+    },
+    {
+      "index": 10,
+      "simplified": "小明：这个爸爸太懒了，每天都起床很晚，不能和我玩。",
+      "traditional": "小明：這個爸爸太懶了，每天都起床很晚，不能和我玩。",
+      "pinyin": "xiǎo míng zhè ge bà ba tài lǎn le měi tiān dōu qǐ chuáng hěn wǎn bù néng hé wǒ wán",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: This dad is too lazy. He gets out of bed very late every day and can’t play with me."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "超市",
+      "traditional": "超市",
+      "pinyin": "chāo shì",
+      "meaning": "supermarket",
+      "hsk": 3
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "meaning": "to get out of bed\nto get up",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "累",
+      "traditional": "累",
+      "pinyin": "lèi",
+      "meaning": "tired\nto wear out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "懒",
+      "traditional": "懶",
+      "pinyin": "lǎn",
+      "meaning": "lazy",
+      "hsk": 4
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "超市",
+        "pinyin": "chāo shì",
+        "meaning": "supermarket",
+        "tc_hanzi": "超市"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "累",
+        "pinyin": "lèi",
+        "meaning": "tired\nto wear out",
+        "tc_hanzi": "累"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "超市",
+        "pinyin": "chāo shì",
+        "meaning": "supermarket",
+        "tc_hanzi": "超市"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "懒",
+        "pinyin": "lǎn",
+        "meaning": "lazy",
+        "tc_hanzi": "懶"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming doesn’t want to let his dad sleep…",
+    "syllable_times": [
+      0.64,
+      0.925,
+      1.2528344671201814,
+      1.68,
+      2.06,
+      2.395,
+      5.4,
+      5.4,
+      5.4,
+      5.705,
+      6.8,
+      7.025,
+      7.33,
+      7.484999999999999,
+      7.64,
+      7.875,
+      8.11,
+      8.339002267573695,
+      11.3,
+      11.3,
+      11.3,
+      11.585,
+      11.9,
+      12.261904761904761,
+      12.54,
+      12.72,
+      15.19,
+      15.19,
+      15.19,
+      15.51,
+      16.79,
+      17.005,
+      17.22,
+      17.43,
+      17.775,
+      18.45,
+      18.71,
+      18.880000000000003,
+      19.05,
+      19.421768707482993,
+      19.6,
+      19.810000000000002,
+      20.02,
+      21.37,
+      21.55,
+      21.73,
+      21.995,
+      22.67,
+      22.87,
+      23.180272108843536,
+      23.35,
+      23.63,
+      25.73,
+      25.73,
+      25.73,
+      26.15079365079365,
+      26.502267573696145,
+      26.706349206349206,
+      28.93,
+      28.93,
+      28.93,
+      29.17800453514739,
+      29.31,
+      29.549999999999997,
+      29.85,
+      30.16,
+      30.464852607709748,
+      31.4,
+      31.674999999999997,
+      31.95,
+      32.19,
+      32.43,
+      32.709750566893426,
+      33.00453514739229,
+      34,
+      34.28004535147392,
+      34.43,
+      34.64285714285714,
+      34.81,
+      35.61127
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      17,
+      18,
+      26,
+      27,
+      50,
+      51,
+      56,
+      57,
+      79
+    ],
+    "sentence_translations": [
+      "Go to the Supermarket and Buy a New Dad",
+      "",
+      "Little Ming: Mom, how come dad still hasn’t gotten out of bed?",
+      "",
+      "Mom: Dad is too tired.",
+      "",
+      "Little Ming: Mom, let’s go to the supermarket and buy a new dad, we don’t want this dad.",
+      "",
+      "Mom: Why is that?",
+      "",
+      "Little Ming: This dad is too lazy. He gets out of bed very late every day and can’t play with me.",
+      ""
+    ]
+  }
+}

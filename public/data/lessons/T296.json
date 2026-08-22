@@ -1,0 +1,3773 @@
+{
+  "id": "T296",
+  "title": "Drones",
+  "level": "master",
+  "date": "2024-08-09",
+  "synopsis": "Learn about the wide application of drones, from disaster relief to military reconnaissance and even creating spectacular displays.",
+  "audioUrl": "https://static.duchinese.net/documents/60296/96743d7880d3b08f7dce81bb466340c3a7abff45.mp3?1719841668",
+  "series": null,
+  "fullText": {
+    "simplified": "无人机\n\n    无人机，全称是无人驾驶飞机，英文缩写UAV，是利用无线电遥控设备和自备的程序控制装置操纵的不载人飞机。\n    无人机按应用领域，可分为军用与民用。军用方面，无人机分为侦察机和靶机；民用方面，无人机广泛应用于各个行业，体现了其真正的刚需性。\n    比如在灾难救援方面，无人机可以飞越地形和障碍，凭借空中优势及变焦、夜视、红外等超强感知能力，实现高效搜寻。另外，可24小时悬停在空中的无人机，可以当作通讯基站，也可以提供应急照明。\n    无人机不仅在特殊领域发挥着重要的作用，它还将制造浪漫提升到了一个新高度。2024年春节期间，新加坡滨海湾用无人机表演的方式来庆祝农历新年，吸引了大量居民前来观看拍照。表演中，大约1500架无人机在滨海湾集体升空，组成一条巨龙的造型，引来了围观人群的阵阵惊叹。随着阵型的不断变换，无人机还拼出了红色的“春”字，向人们送出新春祝福。\n    除此以外，在观察野生动物、监控传染病、新闻报道、影视拍摄等领域无人机都发挥着巨大的作用。\n    值得注意的是，无人机好用是好用，但是从飞行安全、个人隐私等方面考虑，民用无人机的使用需要实名登记后才能进行飞行活动。",
+    "traditional": "無人機\n\n    無人機，全稱是無人駕駛飛機，英文縮寫UAV，是利用無線電遙控設備和自備的程序控制裝置操縱的不載人飛機。\n    無人機按應用領域，可分為軍用與民用。軍用方面，無人機分為偵察機和靶機；民用方面，無人機廣泛應用於各個行業，體現了其真正的剛需性。\n    比如在災難救援方面，無人機可以飛越地形和障礙，憑借空中優勢及變焦、夜視、紅外等超強感知能力，實現高效搜尋。另外，可24小時懸停在空中的無人機，可以當作通訊基站，也可以提供應急照明。\n    無人機不僅在特殊領域發揮著重要的作用，它還將製造浪漫提昇到了一個新高度。2024年春節期間，新加坡濱海灣用無人機表演的方式來慶祝農曆新年，吸引了大量居民前來觀看拍照。表演中，大約1500架無人機在濱海灣集體昇空，組成一條巨龍的造型，引來了圍觀人群的陣陣驚嘆。隨著陣型的不斷變換，無人機還拼出了紅色的“春”字，向人們送出新春祝福。\n    除此以外，在觀察野生動物、監控傳染病、新聞報道、影視拍攝等領域無人機都發揮著巨大的作用。\n    值得注意的是，無人機好用是好用，但是從飛行安全、個人隱私等方面考慮，民用無人機的使用需要實名登記後才能進行飛行活動。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Drones"
+    },
+    {
+      "index": 2,
+      "simplified": "无人机，全称是无人驾驶飞机，英文缩写UAV，",
+      "traditional": "無人機，全稱是無人駕駛飛機，英文縮寫UAV，",
+      "pinyin": "wú rén jī quán chēng shì wú rén jià shǐ fēi jī yīng wén suō xiě 3",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "是利用无线电遥控设备和自备的程序控制装置操纵的不载人飞机。",
+      "traditional": "是利用無線電遙控設備和自備的程序控制裝置操縱的不載人飛機。",
+      "pinyin": "shì lì yòng wú xiàn diàn yáo kòng shè bèi hé zì bèi de chéng xù kòng zhì zhuāng zhì cāo zòng de bú zài rén fēi jī",
+      "english": "Drones, full name “unmanned aerial vehicles”, abbreviated “UAV” in English, .."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. are unmanned aircraft operated by radio remote control equipment and their own program control devices."
+    },
+    {
+      "index": 5,
+      "simplified": "无人机按应用领域，可分为军用与民用。",
+      "traditional": "無人機按應用領域，可分為軍用與民用。",
+      "pinyin": "wú rén jī àn yìng yòng lǐng yù kě fēn wéi jūn yòng yǔ mín yòng",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "军用方面，无人机分为侦察机和靶机；",
+      "traditional": "軍用方面，無人機分為偵察機和靶機；",
+      "pinyin": "jūn yòng fāng miàn wú rén jī fēn wéi zhēn chá jī hé bǎ jī",
+      "english": "Drones, according to their areas of application, can be divided into military and civilian use."
+    },
+    {
+      "index": 7,
+      "simplified": "民用方面，无人机广泛应用于各个行业，体现了其真正的刚需性。",
+      "traditional": "民用方面，無人機廣泛應用於各個行業，體現了其真正的剛需性。",
+      "pinyin": "mín yòng fāng miàn wú rén jī guǎng fàn yìng yòng yú gè gè háng yè tǐ xiàn le qí zhēn zhèng de gāng xū xìng",
+      "english": "For military use, drones are divided into reconnaissance aircraft and target aircraft."
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "For civilian use, drones are widely used in various industries, reflecting their indispensable role."
+    },
+    {
+      "index": 9,
+      "simplified": "比如在灾难救援方面，无人机可以飞越地形和障碍，",
+      "traditional": "比如在災難救援方面，無人機可以飛越地形和障礙，",
+      "pinyin": "bǐ rú zài zāi nàn jiù yuán fāng miàn wú rén jī kě yǐ fēi yuè dì xíng hé zhàng ài",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "凭借空中优势及变焦、夜视、红外等超强感知能力，实现高效搜寻。",
+      "traditional": "憑借空中優勢及變焦、夜視、紅外等超強感知能力，實現高效搜尋。",
+      "pinyin": "píng jiè kōng zhōng yōu shì jí biàn jiāo yè shì hóng wài děng chāo qiáng gǎn zhī néng lì shí xiàn gāo xiào sōu xún",
+      "english": "For example, in disaster relief, drones can fly over terrain and obstacles, .."
+    },
+    {
+      "index": 11,
+      "simplified": "另外，可24小时悬停在空中的无人机，可以当作通讯基站，",
+      "traditional": "另外，可24小時懸停在空中的無人機，可以當作通訊基站，",
+      "pinyin": "lìng wài kě 3 xiǎo shí xuán tíng zài kōng zhōng de wú rén jī kě yǐ dàng zuò tōng xùn jī zhàn",
+      "english": ".. leveraging aerial advantages and powerful sensing capabilities such as zoom, night vision, and infrared to enable efficient searching."
+    },
+    {
+      "index": 12,
+      "simplified": "也可以提供应急照明。",
+      "traditional": "也可以提供應急照明。",
+      "pinyin": "yě kě yǐ tí gōng yìng jí zhào míng",
+      "english": "In addition, drones that can hover in the air for 24 hours can be used as communication base stations .."
+    },
+    {
+      "index": 13,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. and can also provide emergency lighting."
+    },
+    {
+      "index": 14,
+      "simplified": "无人机不仅在特殊领域发挥着重要的作用，它还将制造浪漫提升到了一个新高度。",
+      "traditional": "無人機不僅在特殊領域發揮著重要的作用，它還將製造浪漫提昇到了一個新高度。",
+      "pinyin": "wú rén jī bù jǐn zài tè shū lǐng yù fā huī zhe zhòng yào de zuò yòng tā hái jiāng zhì zào làng màn tí shēng dào le yí ge xīn gāo dù",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "2024年春节期间，新加坡滨海湾用无人机表演的方式来庆祝农历新年，",
+      "traditional": "2024年春節期間，新加坡濱海灣用無人機表演的方式來慶祝農曆新年，",
+      "pinyin": "4 nián chūn jié qī jiān xīn jiā pō bīn hǎi wān yòng wú rén jī biǎo yǎn de fāng shì lái qìng zhù nóng lì xīn nián",
+      "english": "Drones not only play an important role in special fields, but they have also elevated romance to a new level."
+    },
+    {
+      "index": 16,
+      "simplified": "吸引了大量居民前来观看拍照。",
+      "traditional": "吸引了大量居民前來觀看拍照。",
+      "pinyin": "xī yǐn le dà liàng jū mín qián lái guān kàn pāi zhào",
+      "english": "During the Spring Festival in 2024, Singapore’s Marina Bay celebrated Lunar New Year with a drone show, .."
+    },
+    {
+      "index": 17,
+      "simplified": "表演中，大约1500架无人机在滨海湾集体升空，",
+      "traditional": "表演中，大約1500架無人機在濱海灣集體昇空，",
+      "pinyin": "biǎo yǎn zhōng dà yuē 4 jià wú rén jī zài bīn hǎi wān jí tǐ shēng kōng",
+      "english": ".. attracting a large number of residents to come and watch and take pictures."
+    },
+    {
+      "index": 18,
+      "simplified": "组成一条巨龙的造型，引来了围观人群的阵阵惊叹。",
+      "traditional": "組成一條巨龍的造型，引來了圍觀人群的陣陣驚嘆。",
+      "pinyin": "zǔ chéng yì tiáo jù lóng de zào xíng yǐn lái le wéi guān rén qún de zhèn zhèn jīng tàn",
+      "english": "During the performance, around 1,500 drones collectively ascended over Marina Bay, .."
+    },
+    {
+      "index": 19,
+      "simplified": "随着阵型的不断变换，无人机还拼出了红色的“春”字，向人们送出新春祝福。",
+      "traditional": "隨著陣型的不斷變換，無人機還拼出了紅色的“春”字，向人們送出新春祝福。",
+      "pinyin": "suí zhe zhèn xíng de bú duàn biàn huàn wú rén jī hái pīn chū le hóng sè de chūn zì xiàng rén men sòng chū xīn chūn zhù fú",
+      "english": ".. forming the shape of a giant dragon and drawing gasps of astonishment from the crowd of onlookers."
+    },
+    {
+      "index": 20,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "As the formations continuously changed, the drones even formed the red character “春” [spring], sending New Year blessings to everyone."
+    },
+    {
+      "index": 21,
+      "simplified": "除此以外，在观察野生动物、监控传染病、新闻报道、影视拍摄等领域",
+      "traditional": "除此以外，在觀察野生動物、監控傳染病、新聞報道、影視拍攝等領域",
+      "pinyin": "chú cǐ yǐ wài zài guān chá yě shēng dòng wù jiān kòng chuán rǎn bìng xīn wén bào dào yǐng shì pāi shè děng lǐng yù",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "无人机都发挥着巨大的作用。",
+      "traditional": "無人機都發揮著巨大的作用。",
+      "pinyin": "wú rén jī dōu fā huī zhe jù dà de zuò yòng",
+      "english": "In addition, in fields such as observing wildlife, monitoring infectious diseases, reporting news, and shooting film and television, .."
+    },
+    {
+      "index": 23,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. drones are playing significant roles."
+    },
+    {
+      "index": 24,
+      "simplified": "值得注意的是，无人机好用是好用，但是从飞行安全、个人隐私等方面考虑，",
+      "traditional": "值得注意的是，無人機好用是好用，但是從飛行安全、個人隱私等方面考慮，",
+      "pinyin": "zhí de zhù yì de shì wú rén jī hǎo yòng shì hǎo yòng dàn shì cóng fēi xíng ān quán gè rén yǐn sī děng fāng miàn kǎo lǜ",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "民用无人机的使用需要实名登记后才能进行飞行活动。",
+      "traditional": "民用無人機的使用需要實名登記後才能進行飛行活動。",
+      "pinyin": "mín yòng wú rén jī de shǐ yòng xū yào shí míng dēng jì hòu cái néng jìn xíng fēi xíng huó dòng",
+      "english": "It’s worth noting that while drones are indeed useful,  considering aspects such as flight safety and personal privacy, .."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "无人机",
+      "traditional": "無人機",
+      "pinyin": "wú rén jī",
+      "meaning": "drone\nunmanned aerial vehicle",
+      "hsk": null
+    },
+    {
+      "hanzi": "全称",
+      "traditional": "全稱",
+      "pinyin": "quán chēng",
+      "meaning": "full name",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "无人驾驶飞机",
+      "traditional": "無人駕駛飛機",
+      "pinyin": "wú rén jià shǐ fēi jī",
+      "meaning": "drone\nunmanned aerial vehicle",
+      "hsk": null
+    },
+    {
+      "hanzi": "英文",
+      "traditional": "英文",
+      "pinyin": "yīng wén",
+      "meaning": "English (language)",
+      "hsk": null
+    },
+    {
+      "hanzi": "缩写",
+      "traditional": "縮寫",
+      "pinyin": "suō xiě",
+      "meaning": "abbreviation\nto abridge",
+      "hsk": null
+    },
+    {
+      "hanzi": "利用",
+      "traditional": "利用",
+      "pinyin": "lì yòng",
+      "meaning": "to make use of\nto take advantage of",
+      "hsk": 5
+    },
+    {
+      "hanzi": "无线电",
+      "traditional": "無線電",
+      "pinyin": "wú xiàn diàn",
+      "meaning": "radio\nradio wave",
+      "hsk": null
+    },
+    {
+      "hanzi": "遥控",
+      "traditional": "遙控",
+      "pinyin": "yáo kòng",
+      "meaning": "remote control",
+      "hsk": 6
+    },
+    {
+      "hanzi": "设备",
+      "traditional": "設備",
+      "pinyin": "shè bèi",
+      "meaning": "equipment\nfacilities",
+      "hsk": 5
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自备",
+      "traditional": "自備",
+      "pinyin": "zì bèi",
+      "meaning": "self-provided\nself-contained",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "程序",
+      "traditional": "程序",
+      "pinyin": "chéng xù",
+      "meaning": "computer program\nprocedure",
+      "hsk": 5
+    },
+    {
+      "hanzi": "控制",
+      "traditional": "控制",
+      "pinyin": "kòng zhì",
+      "meaning": "control\nto exercise control over\nto contain",
+      "hsk": 5
+    },
+    {
+      "hanzi": "装置",
+      "traditional": "裝置",
+      "pinyin": "zhuāng zhì",
+      "meaning": "equipment\nsystem\nunit",
+      "hsk": null
+    },
+    {
+      "hanzi": "操纵",
+      "traditional": "操縱",
+      "pinyin": "cāo zòng",
+      "meaning": "to operate\nto control\nto manipulate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "载人",
+      "traditional": "載人",
+      "pinyin": "zài rén",
+      "meaning": "(of spaceships etc) manned",
+      "hsk": null
+    },
+    {
+      "hanzi": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "meaning": "airplane",
+      "hsk": 1
+    },
+    {
+      "hanzi": "按",
+      "traditional": "按",
+      "pinyin": "àn",
+      "meaning": "according to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "应用",
+      "traditional": "應用",
+      "pinyin": "yìng yòng",
+      "meaning": "application\napp",
+      "hsk": 5
+    },
+    {
+      "hanzi": "领域",
+      "traditional": "領域",
+      "pinyin": "lǐng yù",
+      "meaning": "domain\nfield\narea",
+      "hsk": 5
+    },
+    {
+      "hanzi": "可",
+      "traditional": "可",
+      "pinyin": "kě",
+      "meaning": "can\nmay",
+      "hsk": 2
+    },
+    {
+      "hanzi": "分为",
+      "traditional": "分為",
+      "pinyin": "fēn wéi",
+      "meaning": "to divide sth into (parts)\nto subdivide",
+      "hsk": null
+    },
+    {
+      "hanzi": "军用",
+      "traditional": "軍用",
+      "pinyin": "jūn yòng",
+      "meaning": "(for) military use\nmilitary application",
+      "hsk": null
+    },
+    {
+      "hanzi": "与",
+      "traditional": "與",
+      "pinyin": "yǔ",
+      "meaning": "and\ntogether with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "民用",
+      "traditional": "民用",
+      "pinyin": "mín yòng",
+      "meaning": "(for) civilian use",
+      "hsk": null
+    },
+    {
+      "hanzi": "方面",
+      "traditional": "方面",
+      "pinyin": "fāng miàn",
+      "meaning": "aspect\nside",
+      "hsk": 4
+    },
+    {
+      "hanzi": "侦察机",
+      "traditional": "偵察機",
+      "pinyin": "zhēn chá jī",
+      "meaning": "surveillance aircraft\nspy plane",
+      "hsk": null
+    },
+    {
+      "hanzi": "靶机",
+      "traditional": "靶機",
+      "pinyin": "bǎ jī",
+      "meaning": "target drone",
+      "hsk": null
+    },
+    {
+      "hanzi": "广泛",
+      "traditional": "廣泛",
+      "pinyin": "guǎng fàn",
+      "meaning": "extensive\nwide range",
+      "hsk": 5
+    },
+    {
+      "hanzi": "于",
+      "traditional": "於",
+      "pinyin": "yú",
+      "meaning": "at\non\nto",
+      "hsk": null
+    },
+    {
+      "hanzi": "各个",
+      "traditional": "各個",
+      "pinyin": "gè gè",
+      "meaning": "every\nvarious",
+      "hsk": null
+    },
+    {
+      "hanzi": "行业",
+      "traditional": "行業",
+      "pinyin": "háng yè",
+      "meaning": "industry\nbusiness",
+      "hsk": 5
+    },
+    {
+      "hanzi": "体现",
+      "traditional": "體現",
+      "pinyin": "tǐ xiàn",
+      "meaning": "to embody\nto reflect",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "其",
+      "traditional": "其",
+      "pinyin": "qí",
+      "meaning": "his\nher\nits",
+      "hsk": null
+    },
+    {
+      "hanzi": "真正",
+      "traditional": "真正",
+      "pinyin": "zhēn zhèng",
+      "meaning": "genuine\nreal",
+      "hsk": 4
+    },
+    {
+      "hanzi": "刚需",
+      "traditional": "剛需",
+      "pinyin": "gāng xū",
+      "meaning": "inelastic demand\nrigid demand",
+      "hsk": null
+    },
+    {
+      "hanzi": "性",
+      "traditional": "性",
+      "pinyin": "xìng",
+      "meaning": "suffix forming noun, corresponding to -ness or -ity",
+      "hsk": null
+    },
+    {
+      "hanzi": "比如",
+      "traditional": "比如",
+      "pinyin": "bǐ rú",
+      "meaning": "for example",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "灾难",
+      "traditional": "災難",
+      "pinyin": "zāi nàn",
+      "meaning": "disaster\ncatastrophe\nmisfortune",
+      "hsk": 6
+    },
+    {
+      "hanzi": "救援",
+      "traditional": "救援",
+      "pinyin": "jiù yuán",
+      "meaning": "to save\nto support\nto help",
+      "hsk": null
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "飞",
+      "traditional": "飛",
+      "pinyin": "fēi",
+      "meaning": "to fly",
+      "hsk": null
+    },
+    {
+      "hanzi": "越",
+      "traditional": "越",
+      "pinyin": "yuè",
+      "meaning": "to exceed\nto surpass",
+      "hsk": 3
+    },
+    {
+      "hanzi": "地形",
+      "traditional": "地形",
+      "pinyin": "dì xíng",
+      "meaning": "topography\nterrain\nlandform",
+      "hsk": null
+    },
+    {
+      "hanzi": "障碍",
+      "traditional": "障礙",
+      "pinyin": "zhàng ài",
+      "meaning": "barrier\nobstruction\nhindrance",
+      "hsk": 6
+    },
+    {
+      "hanzi": "凭借",
+      "traditional": "憑借",
+      "pinyin": "píng jiè",
+      "meaning": "to rely on\nby means of",
+      "hsk": 5
+    },
+    {
+      "hanzi": "空中",
+      "traditional": "空中",
+      "pinyin": "kōng zhōng",
+      "meaning": "in the sky\nin the air",
+      "hsk": null
+    },
+    {
+      "hanzi": "优势",
+      "traditional": "優勢",
+      "pinyin": "yōu shì",
+      "meaning": "superiority\ndominance\nadvantage",
+      "hsk": 5
+    },
+    {
+      "hanzi": "及",
+      "traditional": "及",
+      "pinyin": "jí",
+      "meaning": "and",
+      "hsk": 5
+    },
+    {
+      "hanzi": "变焦",
+      "traditional": "變焦",
+      "pinyin": "biàn jiāo",
+      "meaning": "(photography) zoom\n(optics) to adjust the focus",
+      "hsk": null
+    },
+    {
+      "hanzi": "夜视",
+      "traditional": "夜視",
+      "pinyin": "yè shì",
+      "meaning": "night vision",
+      "hsk": null
+    },
+    {
+      "hanzi": "红外",
+      "traditional": "紅外",
+      "pinyin": "hóng wài",
+      "meaning": "infrared (ray)",
+      "hsk": null
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "et cetera\nand so on",
+      "hsk": 4
+    },
+    {
+      "hanzi": "超",
+      "traditional": "超",
+      "pinyin": "chāo",
+      "meaning": "ultra-\nsuper-",
+      "hsk": null
+    },
+    {
+      "hanzi": "强",
+      "traditional": "強",
+      "pinyin": "qiáng",
+      "meaning": "strong\npowerful",
+      "hsk": 5
+    },
+    {
+      "hanzi": "感知",
+      "traditional": "感知",
+      "pinyin": "gǎn zhī",
+      "meaning": "perception\nawareness",
+      "hsk": null
+    },
+    {
+      "hanzi": "能力",
+      "traditional": "能力",
+      "pinyin": "néng lì",
+      "meaning": "capability\nability",
+      "hsk": 4
+    },
+    {
+      "hanzi": "实现",
+      "traditional": "實現",
+      "pinyin": "shí xiàn",
+      "meaning": "to achieve\nto implement\nto realize",
+      "hsk": 5
+    },
+    {
+      "hanzi": "高效",
+      "traditional": "高效",
+      "pinyin": "gāo xiào",
+      "meaning": "efficient\nhighly effective",
+      "hsk": null
+    },
+    {
+      "hanzi": "搜寻",
+      "traditional": "搜尋",
+      "pinyin": "sōu xún",
+      "meaning": "to search\nto look for",
+      "hsk": null
+    },
+    {
+      "hanzi": "另外",
+      "traditional": "另外",
+      "pinyin": "lìng wài",
+      "meaning": "additional\nin addition\nother",
+      "hsk": 4
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "悬停",
+      "traditional": "懸停",
+      "pinyin": "xuán tíng",
+      "meaning": "to hover (helicopter, computer mouse etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "当作",
+      "traditional": "當作",
+      "pinyin": "dàng zuò",
+      "meaning": "to treat as\nto regard as\ncoll. also pr. dāng zuò",
+      "hsk": null
+    },
+    {
+      "hanzi": "通讯",
+      "traditional": "通訊",
+      "pinyin": "tōng xùn",
+      "meaning": "communications",
+      "hsk": 6
+    },
+    {
+      "hanzi": "基站",
+      "traditional": "基站",
+      "pinyin": "jī zhàn",
+      "meaning": "base station",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "提供",
+      "traditional": "提供",
+      "pinyin": "tí gōng",
+      "meaning": "to offer\nto supply\nto provide",
+      "hsk": 4
+    },
+    {
+      "hanzi": "应急",
+      "traditional": "應急",
+      "pinyin": "yìng jí",
+      "meaning": "to respond to an emergency\nto meet a contingency\n(attributive) emergency",
+      "hsk": null
+    },
+    {
+      "hanzi": "照明",
+      "traditional": "照明",
+      "pinyin": "zhào míng",
+      "meaning": "lighting\nillumination",
+      "hsk": null
+    },
+    {
+      "hanzi": "不仅",
+      "traditional": "不僅",
+      "pinyin": "bù jǐn",
+      "meaning": "not only (this one)\nnot just (...) but also",
+      "hsk": 4
+    },
+    {
+      "hanzi": "特殊",
+      "traditional": "特殊",
+      "pinyin": "tè shū",
+      "meaning": "special\nparticular\nunusual",
+      "hsk": 5
+    },
+    {
+      "hanzi": "发挥",
+      "traditional": "發揮",
+      "pinyin": "fā huī",
+      "meaning": "to display\nto exhibit",
+      "hsk": 5
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "重要",
+      "traditional": "重要",
+      "pinyin": "zhòng yào",
+      "meaning": "important",
+      "hsk": 3
+    },
+    {
+      "hanzi": "作用",
+      "traditional": "作用",
+      "pinyin": "zuò yòng",
+      "meaning": "function\nrole\npurpose",
+      "hsk": 4
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "also\neven more\nin addition",
+      "hsk": 3
+    },
+    {
+      "hanzi": "将",
+      "traditional": "將",
+      "pinyin": "jiāng",
+      "meaning": "(introduces object of main verb, used in the same way as 把)",
+      "hsk": null
+    },
+    {
+      "hanzi": "制造",
+      "traditional": "製造",
+      "pinyin": "zhì zào",
+      "meaning": "to manufacture\nto make",
+      "hsk": 5
+    },
+    {
+      "hanzi": "浪漫",
+      "traditional": "浪漫",
+      "pinyin": "làng màn",
+      "meaning": "romantic",
+      "hsk": 4
+    },
+    {
+      "hanzi": "提升",
+      "traditional": "提昇",
+      "pinyin": "tí shēng",
+      "meaning": "to promote\nto upgrade\nto increase",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "高度",
+      "traditional": "高度",
+      "pinyin": "gāo dù",
+      "meaning": "height\naltitude\nelevation",
+      "hsk": null
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "春节",
+      "traditional": "春節",
+      "pinyin": "chūn jié",
+      "meaning": "Spring Festival (Chinese New Year)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "期间",
+      "traditional": "期間",
+      "pinyin": "qī jiān",
+      "meaning": "period of time\ntime",
+      "hsk": 5
+    },
+    {
+      "hanzi": "新加坡",
+      "traditional": "新加坡",
+      "pinyin": "xīn jiā pō",
+      "meaning": "Singapore",
+      "hsk": null
+    },
+    {
+      "hanzi": "滨海湾",
+      "traditional": "濱海灣",
+      "pinyin": "bīn hǎi wān",
+      "meaning": "Marina Bay, a bay in Singapore with skyscrapers, luxury malls, upscale hotels",
+      "hsk": null
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "表演",
+      "traditional": "表演",
+      "pinyin": "biǎo yǎn",
+      "meaning": "to perform\nto act\nto demonstrate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "方式",
+      "traditional": "方式",
+      "pinyin": "fāng shì",
+      "meaning": "way\nmanner\nstyle",
+      "hsk": 5
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "(after verb or verbal expression) in order to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "庆祝",
+      "traditional": "慶祝",
+      "pinyin": "qìng zhù",
+      "meaning": "to celebrate",
+      "hsk": 5
+    },
+    {
+      "hanzi": "农历",
+      "traditional": "農曆",
+      "pinyin": "nóng lì",
+      "meaning": "the traditional Chinese calendar\nthe lunar calendar",
+      "hsk": 6
+    },
+    {
+      "hanzi": "新年",
+      "traditional": "新年",
+      "pinyin": "xīn nián",
+      "meaning": "New Year",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吸引",
+      "traditional": "吸引",
+      "pinyin": "xī yǐn",
+      "meaning": "to attract (interest, investment etc)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "大量",
+      "traditional": "大量",
+      "pinyin": "dà liàng",
+      "meaning": "great amount\nlarge quantity",
+      "hsk": null
+    },
+    {
+      "hanzi": "居民",
+      "traditional": "居民",
+      "pinyin": "jū mín",
+      "meaning": "resident\ninhabitant",
+      "hsk": 6
+    },
+    {
+      "hanzi": "前来",
+      "traditional": "前來",
+      "pinyin": "qián lái",
+      "meaning": "to come (formal)",
+      "hsk": null
+    },
+    {
+      "hanzi": "观看",
+      "traditional": "觀看",
+      "pinyin": "guān kàn",
+      "meaning": "to watch\nto view",
+      "hsk": null
+    },
+    {
+      "hanzi": "拍照",
+      "traditional": "拍照",
+      "pinyin": "pāi zhào",
+      "meaning": "to take a photograph",
+      "hsk": null
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "while (doing sth)\nduring",
+      "hsk": null
+    },
+    {
+      "hanzi": "大约",
+      "traditional": "大約",
+      "pinyin": "dà yuē",
+      "meaning": "approximately\nprobably",
+      "hsk": 4
+    },
+    {
+      "hanzi": "架",
+      "traditional": "架",
+      "pinyin": "jià",
+      "meaning": "classifier for planes, large vehicles, radios etc",
+      "hsk": null
+    },
+    {
+      "hanzi": "集体",
+      "traditional": "集體",
+      "pinyin": "jí tǐ",
+      "meaning": "collective\nsocial\nteam",
+      "hsk": 5
+    },
+    {
+      "hanzi": "升空",
+      "traditional": "昇空",
+      "pinyin": "shēng kōng",
+      "meaning": "to rise to the sky\nto lift off\nliftoff",
+      "hsk": null
+    },
+    {
+      "hanzi": "组成",
+      "traditional": "組成",
+      "pinyin": "zǔ chéng",
+      "meaning": "to form\nto make up\nto constitute",
+      "hsk": 5
+    },
+    {
+      "hanzi": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "meaning": "classifier for long and thin objects or animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "巨",
+      "traditional": "巨",
+      "pinyin": "jù",
+      "meaning": "very large\nhuge\ntremendous",
+      "hsk": null
+    },
+    {
+      "hanzi": "龙",
+      "traditional": "龍",
+      "pinyin": "lóng",
+      "meaning": "(mythology) Chinese dragon (loong)\n(mythology) Western dragon",
+      "hsk": 5
+    },
+    {
+      "hanzi": "造型",
+      "traditional": "造型",
+      "pinyin": "zào xíng",
+      "meaning": "style\ndesign\nform",
+      "hsk": 6
+    },
+    {
+      "hanzi": "引",
+      "traditional": "引",
+      "pinyin": "yǐn",
+      "meaning": "to attract\nto lead\nto guide",
+      "hsk": null
+    },
+    {
+      "hanzi": "围观",
+      "traditional": "圍觀",
+      "pinyin": "wéi guān",
+      "meaning": "(of a crowd) to watch\nto look on",
+      "hsk": null
+    },
+    {
+      "hanzi": "人群",
+      "traditional": "人群",
+      "pinyin": "rén qún",
+      "meaning": "crowd\ngroup of people",
+      "hsk": null
+    },
+    {
+      "hanzi": "阵阵",
+      "traditional": "陣陣",
+      "pinyin": "zhèn zhèn",
+      "meaning": "in bursts",
+      "hsk": null
+    },
+    {
+      "hanzi": "惊叹",
+      "traditional": "驚嘆",
+      "pinyin": "jīng tàn",
+      "meaning": "to exclaim in admiration\na gasp of surprise",
+      "hsk": null
+    },
+    {
+      "hanzi": "随着",
+      "traditional": "隨著",
+      "pinyin": "suí zhe",
+      "meaning": "along with\nfollowing",
+      "hsk": 4
+    },
+    {
+      "hanzi": "阵型",
+      "traditional": "陣型",
+      "pinyin": "zhèn xíng",
+      "meaning": "formation (of a sports team, troops etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不断",
+      "traditional": "不斷",
+      "pinyin": "bú duàn",
+      "meaning": "unceasing\ncontinuous",
+      "hsk": 5
+    },
+    {
+      "hanzi": "变换",
+      "traditional": "變換",
+      "pinyin": "biàn huàn",
+      "meaning": "to transform\nto convert\nto alternate",
+      "hsk": null
+    },
+    {
+      "hanzi": "拼出",
+      "traditional": "拼出",
+      "pinyin": "pīn chū",
+      "meaning": "to spell out",
+      "hsk": null
+    },
+    {
+      "hanzi": "红色",
+      "traditional": "紅色",
+      "pinyin": "hóng sè",
+      "meaning": "red (color)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "春",
+      "traditional": "春",
+      "pinyin": "chūn",
+      "meaning": "spring (season)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "meaning": "character\nletter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "向",
+      "traditional": "向",
+      "pinyin": "xiàng",
+      "meaning": "towards\nto face",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "meaning": "to deliver\nto send",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "新春",
+      "traditional": "新春",
+      "pinyin": "xīn chūn",
+      "meaning": "the beginning of Spring\nthe 10 or 20 days following the lunar New Year's Day",
+      "hsk": null
+    },
+    {
+      "hanzi": "祝福",
+      "traditional": "祝福",
+      "pinyin": "zhù fú",
+      "meaning": "blessings\nto wish sb well",
+      "hsk": 5
+    },
+    {
+      "hanzi": "除",
+      "traditional": "除",
+      "pinyin": "chú",
+      "meaning": "except for\nnot including",
+      "hsk": 6
+    },
+    {
+      "hanzi": "此",
+      "traditional": "此",
+      "pinyin": "cǐ",
+      "meaning": "this\nthese",
+      "hsk": 4
+    },
+    {
+      "hanzi": "以外",
+      "traditional": "以外",
+      "pinyin": "yǐ wài",
+      "meaning": "apart from\nother than\nexcept for",
+      "hsk": null
+    },
+    {
+      "hanzi": "观察",
+      "traditional": "觀察",
+      "pinyin": "guān chá",
+      "meaning": "to observe\nto watch",
+      "hsk": 5
+    },
+    {
+      "hanzi": "野生",
+      "traditional": "野生",
+      "pinyin": "yě shēng",
+      "meaning": "wild\nundomesticated",
+      "hsk": null
+    },
+    {
+      "hanzi": "动物",
+      "traditional": "動物",
+      "pinyin": "dòng wù",
+      "meaning": "animal",
+      "hsk": 3
+    },
+    {
+      "hanzi": "监控",
+      "traditional": "監控",
+      "pinyin": "jiān kòng",
+      "meaning": "to monitor",
+      "hsk": null
+    },
+    {
+      "hanzi": "传染病",
+      "traditional": "傳染病",
+      "pinyin": "chuán rǎn bìng",
+      "meaning": "infectious disease\ncontagious disease\npestilence",
+      "hsk": null
+    },
+    {
+      "hanzi": "新闻",
+      "traditional": "新聞",
+      "pinyin": "xīn wén",
+      "meaning": "news",
+      "hsk": 3
+    },
+    {
+      "hanzi": "报道",
+      "traditional": "報道",
+      "pinyin": "bào dào",
+      "meaning": "to report (news)\nreport",
+      "hsk": 5
+    },
+    {
+      "hanzi": "影视",
+      "traditional": "影視",
+      "pinyin": "yǐng shì",
+      "meaning": "movies and television",
+      "hsk": null
+    },
+    {
+      "hanzi": "拍摄",
+      "traditional": "拍攝",
+      "pinyin": "pāi shè",
+      "meaning": "to film\nto shoot (a picture)",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "巨大",
+      "traditional": "巨大",
+      "pinyin": "jù dà",
+      "meaning": "huge\nimmense\ntremendous",
+      "hsk": 5
+    },
+    {
+      "hanzi": "值得",
+      "traditional": "值得",
+      "pinyin": "zhí de",
+      "meaning": "to be worth\nto deserve",
+      "hsk": 4
+    },
+    {
+      "hanzi": "注意",
+      "traditional": "注意",
+      "pinyin": "zhù yì",
+      "meaning": "to take note of\nto pay attention to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好用",
+      "traditional": "好用",
+      "pinyin": "hǎo yòng",
+      "meaning": "effective\nuser-friendly\neasy to use",
+      "hsk": null
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "飞行",
+      "traditional": "飛行",
+      "pinyin": "fēi xíng",
+      "meaning": "(of planes etc) to fly\nflying\nflight",
+      "hsk": null
+    },
+    {
+      "hanzi": "安全",
+      "traditional": "安全",
+      "pinyin": "ān quán",
+      "meaning": "safety\nsecurity",
+      "hsk": 4
+    },
+    {
+      "hanzi": "个人",
+      "traditional": "個人",
+      "pinyin": "gè rén",
+      "meaning": "individual\npersonal\noneself",
+      "hsk": 5
+    },
+    {
+      "hanzi": "隐私",
+      "traditional": "隱私",
+      "pinyin": "yǐn sī",
+      "meaning": "privacy",
+      "hsk": 6
+    },
+    {
+      "hanzi": "考虑",
+      "traditional": "考慮",
+      "pinyin": "kǎo lǜ",
+      "meaning": "to think over\nto consider",
+      "hsk": 4
+    },
+    {
+      "hanzi": "使用",
+      "traditional": "使用",
+      "pinyin": "shǐ yòng",
+      "meaning": "to use\nto employ",
+      "hsk": 4
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "to need\nto require",
+      "hsk": 3
+    },
+    {
+      "hanzi": "实名",
+      "traditional": "實名",
+      "pinyin": "shí míng",
+      "meaning": "real-name (registration etc)\nnon-anonymous",
+      "hsk": null
+    },
+    {
+      "hanzi": "登记",
+      "traditional": "登記",
+      "pinyin": "dēng jì",
+      "meaning": "to register (one's name)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "may\ncan\nhave permission to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "进行",
+      "traditional": "進行",
+      "pinyin": "jìn xíng",
+      "meaning": "to conduct\nto carry out",
+      "hsk": 4
+    },
+    {
+      "hanzi": "活动",
+      "traditional": "活動",
+      "pinyin": "huó dòng",
+      "meaning": "activity\nevent",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "全称",
+        "pinyin": "quán chēng",
+        "meaning": "full name",
+        "tc_hanzi": "全稱"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "无人驾驶飞机",
+        "pinyin": "wú rén jià shǐ fēi jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人駕駛飛機"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "英文",
+        "pinyin": "yīng wén",
+        "meaning": "English (language)",
+        "tc_hanzi": "英文"
+      },
+      {
+        "hanzi": "缩写",
+        "pinyin": "suō xiě",
+        "meaning": "abbreviation\nto abridge",
+        "tc_hanzi": "縮寫"
+      },
+      {
+        "hanzi": "UAV",
+        "pinyin": "3",
+        "tc_hanzi": "UAV"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "利用",
+        "pinyin": "lì yòng",
+        "meaning": "to make use of\nto take advantage of",
+        "tc_hanzi": "利用"
+      },
+      {
+        "hanzi": "无线电",
+        "pinyin": "wú xiàn diàn",
+        "meaning": "radio\nradio wave",
+        "tc_hanzi": "無線電"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "遥控",
+        "pinyin": "yáo kòng",
+        "meaning": "remote control",
+        "tc_hanzi": "遙控"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "设备",
+        "pinyin": "shè bèi",
+        "meaning": "equipment\nfacilities",
+        "tc_hanzi": "設備"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "自备",
+        "pinyin": "zì bèi",
+        "meaning": "self-provided\nself-contained",
+        "tc_hanzi": "自備"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "程序",
+        "pinyin": "chéng xù",
+        "meaning": "computer program\nprocedure",
+        "tc_hanzi": "程序"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "控制",
+        "pinyin": "kòng zhì",
+        "meaning": "control\nto exercise control over\nto contain",
+        "tc_hanzi": "控制"
+      },
+      {
+        "hanzi": "装置",
+        "pinyin": "zhuāng zhì",
+        "meaning": "equipment\nsystem\nunit",
+        "tc_hanzi": "裝置"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "操纵",
+        "pinyin": "cāo zòng",
+        "meaning": "to operate\nto control\nto manipulate",
+        "tc_hanzi": "操縱"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "载人",
+        "pinyin": "zài rén",
+        "meaning": "(of spaceships etc) manned",
+        "tc_hanzi": "載人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "按",
+        "pinyin": "àn",
+        "meaning": "according to",
+        "tc_hanzi": "按"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "应用",
+        "pinyin": "yìng yòng",
+        "meaning": "application\napp",
+        "tc_hanzi": "應用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "领域",
+        "pinyin": "lǐng yù",
+        "meaning": "domain\nfield\narea",
+        "tc_hanzi": "領域"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可",
+        "pinyin": "kě",
+        "meaning": "can\nmay",
+        "tc_hanzi": "可"
+      },
+      {
+        "hanzi": "分为",
+        "pinyin": "fēn wéi",
+        "meaning": "to divide sth into (parts)\nto subdivide",
+        "tc_hanzi": "分為"
+      },
+      {
+        "hanzi": "军用",
+        "pinyin": "jūn yòng",
+        "meaning": "(for) military use\nmilitary application",
+        "tc_hanzi": "軍用"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hanzi": "民用",
+        "pinyin": "mín yòng",
+        "meaning": "(for) civilian use",
+        "tc_hanzi": "民用"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "军用",
+        "pinyin": "jūn yòng",
+        "meaning": "(for) military use\nmilitary application",
+        "tc_hanzi": "軍用"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hanzi": "分为",
+        "pinyin": "fēn wéi",
+        "meaning": "to divide sth into (parts)\nto subdivide",
+        "tc_hanzi": "分為"
+      },
+      {
+        "hanzi": "侦察机",
+        "pinyin": "zhēn chá jī",
+        "meaning": "surveillance aircraft\nspy plane",
+        "tc_hanzi": "偵察機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "靶机",
+        "pinyin": "bǎ jī",
+        "meaning": "target drone",
+        "tc_hanzi": "靶機"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hanzi": "民用",
+        "pinyin": "mín yòng",
+        "meaning": "(for) civilian use",
+        "tc_hanzi": "民用"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "广泛",
+        "pinyin": "guǎng fàn",
+        "meaning": "extensive\nwide range",
+        "tc_hanzi": "廣泛"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "应用",
+        "pinyin": "yìng yòng",
+        "meaning": "to use\nto apply\napplication",
+        "tc_hanzi": "應用"
+      },
+      {
+        "hanzi": "于",
+        "pinyin": "yú",
+        "meaning": "at\non\nto",
+        "tc_hanzi": "於"
+      },
+      {
+        "hanzi": "各个",
+        "pinyin": "gè gè",
+        "meaning": "every\nvarious",
+        "tc_hanzi": "各個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "行业",
+        "pinyin": "háng yè",
+        "meaning": "industry\nbusiness",
+        "tc_hanzi": "行業"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "体现",
+        "pinyin": "tǐ xiàn",
+        "meaning": "to embody\nto reflect",
+        "tc_hanzi": "體現"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "其",
+        "pinyin": "qí",
+        "meaning": "his\nher\nits",
+        "tc_hanzi": "其"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "真正",
+        "pinyin": "zhēn zhèng",
+        "meaning": "genuine\nreal",
+        "tc_hanzi": "真正"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "刚需",
+        "pinyin": "gāng xū",
+        "meaning": "inelastic demand\nrigid demand",
+        "tc_hanzi": "剛需"
+      },
+      {
+        "hanzi": "性",
+        "pinyin": "xìng",
+        "meaning": "suffix forming noun, corresponding to -ness or -ity",
+        "tc_hanzi": "性"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "比如",
+        "pinyin": "bǐ rú",
+        "meaning": "for example",
+        "tc_hanzi": "比如"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "灾难",
+        "pinyin": "zāi nàn",
+        "meaning": "disaster\ncatastrophe\nmisfortune",
+        "tc_hanzi": "災難"
+      },
+      {
+        "hanzi": "救援",
+        "pinyin": "jiù yuán",
+        "meaning": "to save\nto support\nto help",
+        "tc_hanzi": "救援"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "飞",
+        "pinyin": "fēi",
+        "meaning": "to fly",
+        "tc_hanzi": "飛"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "越",
+        "pinyin": "yuè",
+        "meaning": "to exceed\nto surpass",
+        "tc_hanzi": "越"
+      },
+      {
+        "hanzi": "地形",
+        "pinyin": "dì xíng",
+        "meaning": "topography\nterrain\nlandform",
+        "tc_hanzi": "地形"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "障碍",
+        "pinyin": "zhàng ài",
+        "meaning": "barrier\nobstruction\nhindrance",
+        "tc_hanzi": "障礙"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "凭借",
+        "pinyin": "píng jiè",
+        "meaning": "to rely on\nby means of",
+        "tc_hanzi": "憑借"
+      },
+      {
+        "hanzi": "空中",
+        "pinyin": "kōng zhōng",
+        "meaning": "in the sky\nin the air",
+        "tc_hanzi": "空中"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "优势",
+        "pinyin": "yōu shì",
+        "meaning": "superiority\ndominance\nadvantage",
+        "tc_hanzi": "優勢"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "及",
+        "pinyin": "jí",
+        "meaning": "and",
+        "tc_hanzi": "及"
+      },
+      {
+        "hanzi": "变焦",
+        "pinyin": "biàn jiāo",
+        "meaning": "(photography) zoom\n(optics) to adjust the focus",
+        "tc_hanzi": "變焦"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "夜视",
+        "pinyin": "yè shì",
+        "meaning": "night vision",
+        "tc_hanzi": "夜視"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "红外",
+        "pinyin": "hóng wài",
+        "meaning": "infrared (ray)",
+        "tc_hanzi": "紅外"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hanzi": "超",
+        "pinyin": "chāo",
+        "meaning": "ultra-\nsuper-",
+        "tc_hanzi": "超"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "强",
+        "pinyin": "qiáng",
+        "meaning": "strong\npowerful",
+        "tc_hanzi": "強"
+      },
+      {
+        "hanzi": "感知",
+        "pinyin": "gǎn zhī",
+        "meaning": "perception\nawareness",
+        "tc_hanzi": "感知"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "能力",
+        "pinyin": "néng lì",
+        "meaning": "capability\nability",
+        "tc_hanzi": "能力"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "实现",
+        "pinyin": "shí xiàn",
+        "meaning": "to achieve\nto implement\nto realize",
+        "tc_hanzi": "實現"
+      },
+      {
+        "hanzi": "高效",
+        "pinyin": "gāo xiào",
+        "meaning": "efficient\nhighly effective",
+        "tc_hanzi": "高效"
+      },
+      {
+        "hanzi": "搜寻",
+        "pinyin": "sōu xún",
+        "meaning": "to search\nto look for",
+        "tc_hanzi": "搜尋"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "另外",
+        "pinyin": "lìng wài",
+        "meaning": "additional\nin addition\nother",
+        "tc_hanzi": "另外"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可",
+        "pinyin": "kě",
+        "meaning": "can\nmay",
+        "tc_hanzi": "可"
+      },
+      {
+        "hanzi": "24",
+        "pinyin": "3",
+        "tc_hanzi": "24"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "hanzi": "悬停",
+        "pinyin": "xuán tíng",
+        "meaning": "to hover (helicopter, computer mouse etc)",
+        "tc_hanzi": "懸停"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "空中",
+        "pinyin": "kōng zhōng",
+        "meaning": "in the sky\nin the air",
+        "tc_hanzi": "空中"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "当作",
+        "pinyin": "dàng zuò",
+        "meaning": "to treat as\nto regard as\ncoll. also pr. dāng zuò",
+        "tc_hanzi": "當作"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "通讯",
+        "pinyin": "tōng xùn",
+        "meaning": "communications",
+        "tc_hanzi": "通訊"
+      },
+      {
+        "hanzi": "基站",
+        "pinyin": "jī zhàn",
+        "meaning": "base station",
+        "tc_hanzi": "基站"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "提供",
+        "pinyin": "tí gōng",
+        "meaning": "to offer\nto supply\nto provide",
+        "tc_hanzi": "提供"
+      },
+      {
+        "hanzi": "应急",
+        "pinyin": "yìng jí",
+        "meaning": "to respond to an emergency\nto meet a contingency\n(attributive) emergency",
+        "tc_hanzi": "應急"
+      },
+      {
+        "hanzi": "照明",
+        "pinyin": "zhào míng",
+        "meaning": "lighting\nillumination",
+        "tc_hanzi": "照明"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "不仅",
+        "pinyin": "bù jǐn",
+        "meaning": "not only (this one)\nnot just (...) but also",
+        "tc_hanzi": "不僅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "特殊",
+        "pinyin": "tè shū",
+        "meaning": "special\nparticular\nunusual",
+        "tc_hanzi": "特殊"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "领域",
+        "pinyin": "lǐng yù",
+        "meaning": "domain\nfield\narea",
+        "tc_hanzi": "領域"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "发挥",
+        "pinyin": "fā huī",
+        "meaning": "to display\nto exhibit",
+        "tc_hanzi": "發揮"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "重要",
+        "pinyin": "zhòng yào",
+        "meaning": "important",
+        "tc_hanzi": "重要"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "作用",
+        "pinyin": "zuò yòng",
+        "meaning": "function\nrole\npurpose",
+        "tc_hanzi": "作用"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "(introduces object of main verb, used in the same way as 把)",
+        "tc_hanzi": "將"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "制造",
+        "pinyin": "zhì zào",
+        "meaning": "to manufacture\nto make",
+        "tc_hanzi": "製造"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "浪漫",
+        "pinyin": "làng màn",
+        "meaning": "romantic",
+        "tc_hanzi": "浪漫"
+      },
+      {
+        "hanzi": "提升",
+        "pinyin": "tí shēng",
+        "meaning": "to promote\nto upgrade\nto increase",
+        "tc_hanzi": "提昇"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hanzi": "高度",
+        "pinyin": "gāo dù",
+        "meaning": "height\naltitude\nelevation",
+        "tc_hanzi": "高度"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "2024",
+        "pinyin": "4",
+        "tc_hanzi": "2024"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "春节",
+        "pinyin": "chūn jié",
+        "meaning": "Spring Festival (Chinese New Year)",
+        "tc_hanzi": "春節"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "期间",
+        "pinyin": "qī jiān",
+        "meaning": "period of time\ntime",
+        "tc_hanzi": "期間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "新加坡",
+        "pinyin": "xīn jiā pō",
+        "meaning": "Singapore",
+        "tc_hanzi": "新加坡"
+      },
+      {
+        "hanzi": "滨海湾",
+        "pinyin": "bīn hǎi wān",
+        "meaning": "Marina Bay, a bay in Singapore with skyscrapers, luxury malls, upscale hotels",
+        "tc_hanzi": "濱海灣"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "表演",
+        "pinyin": "biǎo yǎn",
+        "meaning": "to perform\nto act\nto demonstrate",
+        "tc_hanzi": "表演"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方式",
+        "pinyin": "fāng shì",
+        "meaning": "way\nmanner\nstyle",
+        "tc_hanzi": "方式"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "(after verb or verbal expression) in order to",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "庆祝",
+        "pinyin": "qìng zhù",
+        "meaning": "to celebrate",
+        "tc_hanzi": "慶祝"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "农历",
+        "pinyin": "nóng lì",
+        "meaning": "the traditional Chinese calendar\nthe lunar calendar",
+        "tc_hanzi": "農曆"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新年",
+        "pinyin": "xīn nián",
+        "meaning": "New Year",
+        "tc_hanzi": "新年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "吸引",
+        "pinyin": "xī yǐn",
+        "meaning": "to attract (interest, investment etc)",
+        "tc_hanzi": "吸引"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "大量",
+        "pinyin": "dà liàng",
+        "meaning": "great amount\nlarge quantity",
+        "tc_hanzi": "大量"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "居民",
+        "pinyin": "jū mín",
+        "meaning": "resident\ninhabitant",
+        "tc_hanzi": "居民"
+      },
+      {
+        "hanzi": "前来",
+        "pinyin": "qián lái",
+        "meaning": "to come (formal)",
+        "tc_hanzi": "前來"
+      },
+      {
+        "hanzi": "观看",
+        "pinyin": "guān kàn",
+        "meaning": "to watch\nto view",
+        "tc_hanzi": "觀看"
+      },
+      {
+        "hanzi": "拍照",
+        "pinyin": "pāi zhào",
+        "meaning": "to take a photograph",
+        "tc_hanzi": "拍照"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "表演",
+        "pinyin": "biǎo yǎn",
+        "meaning": "to perform\nto act\nto demonstrate",
+        "tc_hanzi": "表演"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "while (doing sth)\nduring",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "大约",
+        "pinyin": "dà yuē",
+        "meaning": "approximately\nprobably",
+        "tc_hanzi": "大約"
+      },
+      {
+        "hanzi": "1500",
+        "pinyin": "4",
+        "tc_hanzi": "1500"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "架",
+        "pinyin": "jià",
+        "meaning": "classifier for planes, large vehicles, radios etc",
+        "tc_hanzi": "架"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "滨海湾",
+        "pinyin": "bīn hǎi wān",
+        "meaning": "Marina Bay, a bay in Singapore with skyscrapers, luxury malls, upscale hotels",
+        "tc_hanzi": "濱海灣"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "集体",
+        "pinyin": "jí tǐ",
+        "meaning": "collective\nsocial\nteam",
+        "tc_hanzi": "集體"
+      },
+      {
+        "hanzi": "升空",
+        "pinyin": "shēng kōng",
+        "meaning": "to rise to the sky\nto lift off\nliftoff",
+        "tc_hanzi": "昇空"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "组成",
+        "pinyin": "zǔ chéng",
+        "meaning": "to form\nto make up\nto constitute",
+        "tc_hanzi": "組成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "classifier for long and thin objects or animals",
+        "tc_hanzi": "條"
+      },
+      {
+        "hanzi": "巨",
+        "pinyin": "jù",
+        "meaning": "very large\nhuge\ntremendous",
+        "tc_hanzi": "巨"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "龙",
+        "pinyin": "lóng",
+        "meaning": "(mythology) Chinese dragon (loong)\n(mythology) Western dragon",
+        "tc_hanzi": "龍"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "造型",
+        "pinyin": "zào xíng",
+        "meaning": "style\ndesign\nform",
+        "tc_hanzi": "造型"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "引",
+        "pinyin": "yǐn",
+        "meaning": "to attract\nto lead\nto guide",
+        "tc_hanzi": "引"
+      },
+      {
+        "g": "directional-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "(after a verb, indicating motion towards the speaker)",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "围观",
+        "pinyin": "wéi guān",
+        "meaning": "(of a crowd) to watch\nto look on",
+        "tc_hanzi": "圍觀"
+      },
+      {
+        "hanzi": "人群",
+        "pinyin": "rén qún",
+        "meaning": "crowd\ngroup of people",
+        "tc_hanzi": "人群"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "阵阵",
+        "pinyin": "zhèn zhèn",
+        "meaning": "in bursts",
+        "tc_hanzi": "陣陣"
+      },
+      {
+        "hanzi": "惊叹",
+        "pinyin": "jīng tàn",
+        "meaning": "to exclaim in admiration\na gasp of surprise",
+        "tc_hanzi": "驚嘆"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "随着",
+        "pinyin": "suí zhe",
+        "meaning": "along with\nfollowing",
+        "tc_hanzi": "隨著"
+      },
+      {
+        "hanzi": "阵型",
+        "pinyin": "zhèn xíng",
+        "meaning": "formation (of a sports team, troops etc)",
+        "tc_hanzi": "陣型"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "不断",
+        "pinyin": "bú duàn",
+        "meaning": "unceasing\ncontinuous",
+        "tc_hanzi": "不斷"
+      },
+      {
+        "hanzi": "变换",
+        "pinyin": "biàn huàn",
+        "meaning": "to transform\nto convert\nto alternate",
+        "tc_hanzi": "變換"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hanzi": "拼出",
+        "pinyin": "pīn chū",
+        "meaning": "to spell out",
+        "tc_hanzi": "拼出"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "春",
+        "pinyin": "chūn",
+        "meaning": "spring (season)",
+        "tc_hanzi": "春"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "向",
+        "pinyin": "xiàng",
+        "meaning": "towards\nto face",
+        "tc_hanzi": "向"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to deliver\nto send",
+        "tc_hanzi": "送"
+      },
+      {
+        "g": "directional-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+        "tc_hanzi": "出"
+      },
+      {
+        "hanzi": "新春",
+        "pinyin": "xīn chūn",
+        "meaning": "the beginning of Spring\nthe 10 or 20 days following the lunar New Year's Day",
+        "tc_hanzi": "新春"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "祝福",
+        "pinyin": "zhù fú",
+        "meaning": "blessings\nto wish sb well",
+        "tc_hanzi": "祝福"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 6,
+        "hanzi": "除",
+        "pinyin": "chú",
+        "meaning": "except for\nnot including",
+        "tc_hanzi": "除"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "此",
+        "pinyin": "cǐ",
+        "meaning": "this\nthese",
+        "tc_hanzi": "此"
+      },
+      {
+        "hanzi": "以外",
+        "pinyin": "yǐ wài",
+        "meaning": "apart from\nother than\nexcept for",
+        "tc_hanzi": "以外"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "观察",
+        "pinyin": "guān chá",
+        "meaning": "to observe\nto watch",
+        "tc_hanzi": "觀察"
+      },
+      {
+        "hanzi": "野生",
+        "pinyin": "yě shēng",
+        "meaning": "wild\nundomesticated",
+        "tc_hanzi": "野生"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "动物",
+        "pinyin": "dòng wù",
+        "meaning": "animal",
+        "tc_hanzi": "動物"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "监控",
+        "pinyin": "jiān kòng",
+        "meaning": "to monitor",
+        "tc_hanzi": "監控"
+      },
+      {
+        "hanzi": "传染病",
+        "pinyin": "chuán rǎn bìng",
+        "meaning": "infectious disease\ncontagious disease\npestilence",
+        "tc_hanzi": "傳染病"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "新闻",
+        "pinyin": "xīn wén",
+        "meaning": "news",
+        "tc_hanzi": "新聞"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "报道",
+        "pinyin": "bào dào",
+        "meaning": "to report (news)\nreport",
+        "tc_hanzi": "報道"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "影视",
+        "pinyin": "yǐng shì",
+        "meaning": "movies and television",
+        "tc_hanzi": "影視"
+      },
+      {
+        "hanzi": "拍摄",
+        "pinyin": "pāi shè",
+        "meaning": "to film\nto shoot (a picture)",
+        "tc_hanzi": "拍攝"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "领域",
+        "pinyin": "lǐng yù",
+        "meaning": "domain\nfield\narea",
+        "tc_hanzi": "領域"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "发挥",
+        "pinyin": "fā huī",
+        "meaning": "to display\nto exhibit",
+        "tc_hanzi": "發揮"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "巨大",
+        "pinyin": "jù dà",
+        "meaning": "huge\nimmense\ntremendous",
+        "tc_hanzi": "巨大"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "作用",
+        "pinyin": "zuò yòng",
+        "meaning": "function\nrole\npurpose",
+        "tc_hanzi": "作用"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "值得",
+        "pinyin": "zhí de",
+        "meaning": "to be worth\nto deserve",
+        "tc_hanzi": "值得"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "注意",
+        "pinyin": "zhù yì",
+        "meaning": "to take note of\nto pay attention to",
+        "tc_hanzi": "注意"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "hanzi": "好用",
+        "pinyin": "hǎo yòng",
+        "meaning": "effective\nuser-friendly\neasy to use",
+        "tc_hanzi": "好用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "好用",
+        "pinyin": "hǎo yòng",
+        "meaning": "effective\nuser-friendly\neasy to use",
+        "tc_hanzi": "好用"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "飞行",
+        "pinyin": "fēi xíng",
+        "meaning": "(of planes etc) to fly\nflying\nflight",
+        "tc_hanzi": "飛行"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "安全",
+        "pinyin": "ān quán",
+        "meaning": "safety\nsecurity",
+        "tc_hanzi": "安全"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "个人",
+        "pinyin": "gè rén",
+        "meaning": "individual\npersonal\noneself",
+        "tc_hanzi": "個人"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "考虑",
+        "pinyin": "kǎo lǜ",
+        "meaning": "to think over\nto consider",
+        "tc_hanzi": "考慮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "民用",
+        "pinyin": "mín yòng",
+        "meaning": "(for) civilian use",
+        "tc_hanzi": "民用"
+      },
+      {
+        "hanzi": "无人机",
+        "pinyin": "wú rén jī",
+        "meaning": "drone\nunmanned aerial vehicle",
+        "tc_hanzi": "無人機"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "使用",
+        "pinyin": "shǐ yòng",
+        "meaning": "to use\nto employ",
+        "tc_hanzi": "使用"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "to need\nto require",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hanzi": "实名",
+        "pinyin": "shí míng",
+        "meaning": "real-name (registration etc)\nnon-anonymous",
+        "tc_hanzi": "實名"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "登记",
+        "pinyin": "dēng jì",
+        "meaning": "to register (one's name)",
+        "tc_hanzi": "登記"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "g": "cai-lateness",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "may\ncan\nhave permission to",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进行",
+        "pinyin": "jìn xíng",
+        "meaning": "to conduct\nto carry out",
+        "tc_hanzi": "進行"
+      },
+      {
+        "hanzi": "飞行",
+        "pinyin": "fēi xíng",
+        "meaning": "(of planes etc) to fly\nflying\nflight",
+        "tc_hanzi": "飛行"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "活动",
+        "pinyin": "huó dòng",
+        "meaning": "activity\nevent",
+        "tc_hanzi": "活動"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.26643990929705214,
+      0.4875283446712018,
+      1.86,
+      2.1145124716553285,
+      2.3639455782312924,
+      3.16,
+      3.554421768707483,
+      3.92,
+      4.285714285714286,
+      4.51814058956916,
+      4.761904761904762,
+      5.034013605442177,
+      5.3231292517006805,
+      5.561224489795918,
+      6.56,
+      6.802721088435374,
+      7.057823129251701,
+      7.301587301587301,
+      7.82,
+      8.157596371882086,
+      8.395691609977323,
+      9.69,
+      10.073696145124716,
+      10.300453514739228,
+      10.64,
+      10.850340136054422,
+      11.14,
+      11.43424036281179,
+      11.683673469387754,
+      11.95578231292517,
+      12.15986394557823,
+      12.477324263038549,
+      12.828798185941043,
+      13.095238095238095,
+      13.276643990929704,
+      13.46938775510204,
+      13.758503401360544,
+      14.22,
+      14.603174603174603,
+      14.8015873015873,
+      15.068027210884352,
+      15.317460317460316,
+      15.612244897959183,
+      15.787981859410431,
+      16.014739229024944,
+      16.27551020408163,
+      16.496598639455783,
+      16.723356009070294,
+      16.95578231292517,
+      18.23,
+      18.565759637188208,
+      18.820861678004533,
+      19.1156462585034,
+      19.382086167800452,
+      19.53514739229025,
+      19.74489795918367,
+      19.948979591836736,
+      20.49,
+      20.821995464852606,
+      21.065759637188208,
+      21.4,
+      21.700680272108844,
+      21.98,
+      22.205215419501133,
+      22.44331065759637,
+      23.28798185941043,
+      23.520408163265305,
+      23.718820861678005,
+      23.922902494331066,
+      24.45,
+      24.665532879818592,
+      24.897959183673468,
+      25.22,
+      25.515873015873016,
+      25.759637188208615,
+      25.99206349206349,
+      26.26984126984127,
+      26.541950113378682,
+      26.870748299319725,
+      27.114512471655328,
+      27.85,
+      28.10657596371882,
+      28.32766439909297,
+      28.565759637188208,
+      29.09297052154195,
+      29.291383219954646,
+      29.5124716553288,
+      29.8,
+      30.045351473922903,
+      30.30612244897959,
+      30.498866213151928,
+      30.736961451247165,
+      30.90702947845805,
+      31.116780045351472,
+      31.320861678004533,
+      31.575963718820862,
+      32.07,
+      32.358276643990926,
+      32.61337868480725,
+      32.811791383219955,
+      33.078231292517,
+      33.30498866213152,
+      33.46371882086168,
+      33.70181405895691,
+      33.96825396825397,
+      34.166666666666664,
+      35.4,
+      35.66893424036281,
+      36.2,
+      36.5249433106576,
+      36.785714285714285,
+      37.074829931972786,
+      37.27324263038549,
+      37.5,
+      37.68140589569161,
+      38.36,
+      38.58276643990929,
+      38.781179138321995,
+      39.08,
+      39.3140589569161,
+      39.506802721088434,
+      39.750566893424036,
+      39.97732426303855,
+      40.26077097505669,
+      40.47052154195011,
+      40.63492063492063,
+      40.86734693877551,
+      41.56,
+      41.904761904761905,
+      42.19954648526077,
+      42.5,
+      42.71541950113379,
+      42.930839002267575,
+      43.22,
+      43.480725623582764,
+      43.75283446712018,
+      44.28,
+      44.59183673469388,
+      44.99,
+      45.37981859410431,
+      45.71,
+      45.95238095238095,
+      46.23015873015873,
+      46.507936507936506,
+      46.75170068027211,
+      46.893424036281175,
+      47.10884353741496,
+      47.65,
+      47.95351473922902,
+      48.23696145124716,
+      48.486394557823125,
+      48.73015873015873,
+      49.007936507936506,
+      49.92630385487528,
+      50.10770975056689,
+      50.72,
+      51.054421768707485,
+      51.264172335600904,
+      51.400226757369616,
+      51.60430839002267,
+      51.80272108843537,
+      52.06349206349206,
+      52.36394557823129,
+      52.573696145124714,
+      52.84580498866213,
+      53.12925170068027,
+      53.29931972789115,
+      53.4297052154195,
+      53.59410430839002,
+      53.775510204081634,
+      54.49,
+      54.733560090702944,
+      54.8922902494331,
+      55.14739229024943,
+      55.40249433106576,
+      55.66326530612245,
+      55.90702947845805,
+      56.09410430839002,
+      56.77,
+      57.00113378684807,
+      57.21655328798186,
+      57.3922902494331,
+      57.64172335600907,
+      57.91,
+      58.157596371882086,
+      58.36167800453514,
+      58.62244897959184,
+      59.89,
+      60.13038548752834,
+      60.374149659863946,
+      60.72,
+      60.941043083900226,
+      61.23015873015873,
+      61.53061224489796,
+      61.82539682539682,
+      62.02380952380952,
+      62.244897959183675,
+      62.50566893424036,
+      62.749433106575964,
+      62.9421768707483,
+      63.140589569160994,
+      63.304988662131514,
+      63.51473922902494,
+      63.63945578231292,
+      63.888888888888886,
+      64.79,
+      65.02267573696145,
+      65.28344671201813,
+      65.60657596371883,
+      65.80498866213152,
+      65.9920634920635,
+      66.24716553287982,
+      66.54,
+      66.8140589569161,
+      67.0124716553288,
+      67.18820861678005,
+      67.3639455782313,
+      67.49433106575964,
+      67.63038548752834,
+      67.88548752834467,
+      68.09523809523809,
+      69.04,
+      69.24036281179139,
+      69.38775510204081,
+      69.56349206349206,
+      69.79024943310657,
+      70.02834467120181,
+      70.31179138321995,
+      70.5328798185941,
+      70.74829931972789,
+      71.56,
+      71.9047619047619,
+      72.16553287981858,
+      72.52834467120181,
+      72.79478458049887,
+      73.03854875283446,
+      73.37301587301587,
+      73.65079365079364,
+      73.88321995464852,
+      74.1609977324263,
+      74.37074829931973,
+      74.58616780045351,
+      74.73922902494331,
+      74.8922902494331,
+      75.14172335600907,
+      75.63,
+      75.85600907029479,
+      76.19047619047619,
+      76.40589569160997,
+      76.62131519274377,
+      76.7687074829932,
+      77.06916099773242,
+      77.81,
+      78.04421768707483,
+      78.25396825396825,
+      78.46371882086167,
+      78.66780045351474,
+      78.91156462585033,
+      79.16666666666666,
+      79.42,
+      79.66553287981858,
+      79.88095238095238,
+      80.08503401360544,
+      80.31746031746032,
+      80.5498866213152,
+      81.37,
+      81.58730158730158,
+      81.78571428571428,
+      82.52,
+      82.77210884353741,
+      83.02721088435374,
+      83.20294784580499,
+      83.4126984126984,
+      83.58843537414965,
+      83.7641723356009,
+      84.05328798185941,
+      84.21201814058956,
+      84.38208616780045,
+      84.75,
+      85.02267573696145,
+      85.23242630385488,
+      85.40249433106575,
+      85.70861678004535,
+      85.91836734693877,
+      86.08843537414965,
+      86.34353741496598,
+      87.26,
+      87.51700680272108,
+      87.77210884353741,
+      87.95351473922902,
+      88.30498866213152,
+      88.52607709750566,
+      88.69047619047619,
+      88.8265306122449,
+      89.07596371882086,
+      89.73,
+      89.9546485260771,
+      90.15306122448979,
+      90.31746031746032,
+      90.51020408163265,
+      90.71995464852607,
+      90.91836734693877,
+      91.11678004535148,
+      91.26984126984127,
+      91.4625850340136,
+      91.6780045351474,
+      91.89909297052154,
+      92.9,
+      93.21995464852607,
+      93.37868480725623,
+      93.61678004535148,
+      93.78117913832199,
+      93.94557823129252,
+      94.10997732426304,
+      94.32539682539682,
+      94.58616780045351,
+      95.47,
+      95.70861678004535,
+      95.96938775510203,
+      96.2358276643991,
+      96.58163265306122,
+      96.91609977324262,
+      97.12018140589569,
+      97.30725623582767,
+      97.53968253968253,
+      97.75510204081633,
+      97.89682539682539,
+      98.25963718820861,
+      98.78,
+      99.13265306122449,
+      99.359410430839,
+      99.63,
+      99.97165532879818,
+      100.25510204081633,
+      100.52721088435374,
+      100.85600907029477,
+      101.09410430839002,
+      102.49,
+      102.73242630385487,
+      102.9875283446712,
+      103.12925170068027,
+      103.72,
+      104.07596371882086,
+      104.31972789115646,
+      104.62585034013605,
+      104.79591836734693,
+      105.06235827664399,
+      105.3061224489796,
+      105.86,
+      106.218820861678,
+      106.4625850340136,
+      106.65532879818593,
+      106.9501133786848,
+      107.55,
+      107.85714285714285,
+      108.11791383219955,
+      108.3219954648526,
+      109.1,
+      109.39909297052154,
+      109.6938775510204,
+      109.93764172335601,
+      110.24943310657596,
+      110.43083900226758,
+      110.640589569161,
+      111,
+      111.20748299319727,
+      111.41156462585033,
+      111.65532879818593,
+      111.9047619047619,
+      112.13718820861678,
+      112.30725623582767,
+      112.46598639455782,
+      112.64172335600907,
+      112.7891156462585,
+      112.90816326530611,
+      113.15192743764172,
+      114.04,
+      114.21201814058956,
+      114.4047619047619,
+      114.58616780045351,
+      114.72789115646258,
+      114.8922902494331,
+      115.60090702947845,
+      115.79365079365078,
+      115.99773242630386,
+      116.3,
+      116.59297052154194,
+      116.84807256235827,
+      117.0578231292517,
+      117.26757369614512,
+      118.06,
+      118.2766439909297,
+      118.41836734693877,
+      118.73015873015872,
+      118.9172335600907,
+      119.14965986394557,
+      119.34807256235827,
+      119.99,
+      120.18707482993197,
+      120.3344671201814,
+      120.56122448979592,
+      120.78231292517006,
+      120.9750566893424,
+      121.14512471655328,
+      121.34920634920634,
+      121.54195011337868,
+      122.2,
+      122.46598639455782,
+      122.70408163265306,
+      122.85714285714285,
+      123.0498866213152,
+      123.19160997732426,
+      123.3219954648526,
+      123.53741496598639,
+      124.03,
+      124.25170068027211,
+      124.51814058956916,
+      124.72222222222221,
+      124.96031746031746,
+      125.15306122448979,
+      125.3344671201814,
+      125.76,
+      126.02607709750566,
+      126.218820861678,
+      126.43424036281179,
+      126.66666666666666,
+      126.88775510204081,
+      127.0578231292517,
+      127.3015873015873,
+      128.1
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      14,
+      31,
+      33,
+      44,
+      53,
+      71,
+      73,
+      87,
+      106,
+      122,
+      128,
+      130,
+      154,
+      171,
+      179,
+      191,
+      208,
+      232,
+      234,
+      253,
+      261,
+      263,
+      284
+    ],
+    "sentence_translations": [
+      "Drones",
+      "",
+      "Drones, full name “unmanned aerial vehicles”, abbreviated “UAV” in English, ..",
+      ".. are unmanned aircraft operated by radio remote control equipment and their own program control devices.",
+      "",
+      "Drones, according to their areas of application, can be divided into military and civilian use.",
+      "For military use, drones are divided into reconnaissance aircraft and target aircraft.",
+      "For civilian use, drones are widely used in various industries, reflecting their indispensable role.",
+      "",
+      "For example, in disaster relief, drones can fly over terrain and obstacles, ..",
+      ".. leveraging aerial advantages and powerful sensing capabilities such as zoom, night vision, and infrared to enable efficient searching.",
+      "In addition, drones that can hover in the air for 24 hours can be used as communication base stations ..",
+      ".. and can also provide emergency lighting.",
+      "",
+      "Drones not only play an important role in special fields, but they have also elevated romance to a new level.",
+      "During the Spring Festival in 2024, Singapore’s Marina Bay celebrated Lunar New Year with a drone show, ..",
+      ".. attracting a large number of residents to come and watch and take pictures.",
+      "During the performance, around 1,500 drones collectively ascended over Marina Bay, ..",
+      ".. forming the shape of a giant dragon and drawing gasps of astonishment from the crowd of onlookers.",
+      "As the formations continuously changed, the drones even formed the red character “春” [spring], sending New Year blessings to everyone.",
+      "",
+      "In addition, in fields such as observing wildlife, monitoring infectious diseases, reporting news, and shooting film and television, ..",
+      ".. drones are playing significant roles.",
+      "",
+      "It’s worth noting that while drones are indeed useful,  considering aspects such as flight safety and personal privacy, ..",
+      ".. the use of civilian drones requires real-name registration before they can be flown."
+    ]
+  }
+}

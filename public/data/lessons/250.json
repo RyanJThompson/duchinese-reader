@@ -1,0 +1,874 @@
+{
+  "id": "250",
+  "title": "Physical Exam",
+  "level": "intermediate",
+  "date": "2017-02-11",
+  "synopsis": "When Little Wang visits the doctor for a physical exam, the doctor utters a phrase he did not want to hear.",
+  "audioUrl": "https://static.duchinese.net/documents/338/1843aeb7e787abb1affd9783a4450699e2cc972e.mp3?1486413821",
+  "series": null,
+  "fullText": {
+    "simplified": "体检\n\n一天，小王去医院体检。\n医生看了看小王的体检报告，说：“幸亏你来得早啊！”\n小王一听，以为自己得了什么重病，吓得一身冷汗。\n谁知，医生不慌不忙地又加了一句：“再晚点，我就下班了……”",
+    "traditional": "體檢\n\n一天，小王去醫院體檢。\n醫生看了看小王的體檢報告，說：“幸虧你來得早啊！”\n小王一聽，以為自己得了什麼重病，嚇得一身冷汗。\n誰知，醫生不慌不忙地又加了一句：“再晚點，我就下班了……”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Physical Exam"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小王去医院体检。",
+      "traditional": "一天，小王去醫院體檢。",
+      "pinyin": "yì tiān xiǎo wáng qù yī yuàn tǐ jiǎn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "One day, Little Wang went to the hospital for a physical exam."
+    },
+    {
+      "index": 4,
+      "simplified": "医生看了看小王的体检报告，说：“幸亏你来得早啊！”",
+      "traditional": "醫生看了看小王的體檢報告，說：“幸虧你來得早啊！”",
+      "pinyin": "yī shēng kàn le kàn xiǎo wáng de tǐ jiǎn bào gào shuō xìng kuī nǐ lái de zǎo a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "The doctor looked at Little Wang's physical exam report and said: “Thank goodness you came in early!”"
+    },
+    {
+      "index": 6,
+      "simplified": "小王一听，以为自己得了什么重病，吓得一身冷汗。",
+      "traditional": "小王一聽，以為自己得了什麼重病，嚇得一身冷汗。",
+      "pinyin": "xiǎo wáng yì tīng yǐ wéi zì jǐ dé le shén me zhòng bìng xià de yì shēn lěng hàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "As soon as Little Wang heard that he thought he had a serious illness, and got so scared he broke into cold sweat."
+    },
+    {
+      "index": 8,
+      "simplified": "谁知，医生不慌不忙地又加了一句：“再晚点，我就下班了……”",
+      "traditional": "誰知，醫生不慌不忙地又加了一句：“再晚點，我就下班了……”",
+      "pinyin": "shéi zhī yī shēng bù huāng bù máng de yòu jiā le yí jù zài wǎn diǎn wǒ jiù xià bān le",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "体检",
+      "traditional": "體檢",
+      "pinyin": "tǐ jiǎn",
+      "meaning": "physical examination\nhealth check-up",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小王",
+      "traditional": "小王",
+      "pinyin": "xiǎo wáng",
+      "meaning": "Little Wang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "meaning": "doctor",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "报告",
+      "traditional": "報告",
+      "pinyin": "bào gào",
+      "meaning": "to inform\nto report\nreport",
+      "hsk": 5
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "幸亏",
+      "traditional": "幸虧",
+      "pinyin": "xìng kuī",
+      "meaning": "fortunately\nluckily",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以为",
+      "traditional": "以為",
+      "pinyin": "yǐ wéi",
+      "meaning": "to believe\nto be under the impression",
+      "hsk": 4
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "重病",
+      "traditional": "重病",
+      "pinyin": "zhòng bìng",
+      "meaning": "serious illness",
+      "hsk": null
+    },
+    {
+      "hanzi": "吓",
+      "traditional": "嚇",
+      "pinyin": "xià",
+      "meaning": "to frighten\nto scare",
+      "hsk": 5
+    },
+    {
+      "hanzi": "一身",
+      "traditional": "一身",
+      "pinyin": "yì shēn",
+      "meaning": "whole body\nfrom head to toe",
+      "hsk": null
+    },
+    {
+      "hanzi": "冷汗",
+      "traditional": "冷汗",
+      "pinyin": "lěng hàn",
+      "meaning": "cold sweat",
+      "hsk": null
+    },
+    {
+      "hanzi": "谁知",
+      "traditional": "誰知",
+      "pinyin": "shéi zhī",
+      "meaning": "lit. who knows\nwho would have thought\nunexpectedly",
+      "hsk": null
+    },
+    {
+      "hanzi": "不慌不忙",
+      "traditional": "不慌不忙",
+      "pinyin": "bù huāng bù máng",
+      "meaning": "calm and unhurried (idiom); composed",
+      "hsk": null
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "加",
+      "traditional": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "hsk": null
+    },
+    {
+      "hanzi": "句",
+      "traditional": "句",
+      "pinyin": "jù",
+      "meaning": "classifier for phrases or lines of verse",
+      "hsk": 3
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "a bit\na little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "下班",
+      "traditional": "下班",
+      "pinyin": "xià bān",
+      "meaning": "to finish work\nto get off work",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "体检",
+        "pinyin": "tǐ jiǎn",
+        "meaning": "physical examination\nhealth check-up",
+        "tc_hanzi": "體檢"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hanzi": "体检",
+        "pinyin": "tǐ jiǎn",
+        "meaning": "physical examination\nhealth check-up",
+        "tc_hanzi": "體檢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "体检",
+        "pinyin": "tǐ jiǎn",
+        "meaning": "physical examination\nhealth check-up",
+        "tc_hanzi": "體檢"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "报告",
+        "pinyin": "bào gào",
+        "meaning": "to inform\nto report\nreport",
+        "tc_hanzi": "報告"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "幸亏",
+        "pinyin": "xìng kuī",
+        "meaning": "fortunately\nluckily",
+        "tc_hanzi": "幸虧"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "as soon as",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yiwei",
+        "hsk": 4,
+        "hanzi": "以为",
+        "pinyin": "yǐ wéi",
+        "meaning": "to believe\nto be under the impression",
+        "tc_hanzi": "以為"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "dé",
+        "meaning": "to obtain\nto get",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "重病",
+        "pinyin": "zhòng bìng",
+        "meaning": "serious illness",
+        "tc_hanzi": "重病"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吓",
+        "pinyin": "xià",
+        "meaning": "to frighten\nto scare",
+        "tc_hanzi": "嚇"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hanzi": "一身",
+        "pinyin": "yì shēn",
+        "meaning": "whole body\nfrom head to toe",
+        "tc_hanzi": "一身"
+      },
+      {
+        "hanzi": "冷汗",
+        "pinyin": "lěng hàn",
+        "meaning": "cold sweat",
+        "tc_hanzi": "冷汗"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "谁知",
+        "pinyin": "shéi zhī",
+        "meaning": "lit. who knows\nwho would have thought\nunexpectedly",
+        "tc_hanzi": "誰知"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hanzi": "不慌不忙",
+        "pinyin": "bù huāng bù máng",
+        "meaning": "calm and unhurried (idiom); composed",
+        "tc_hanzi": "不慌不忙"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "句",
+        "pinyin": "jù",
+        "meaning": "classifier for phrases or lines of verse",
+        "tc_hanzi": "句"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "a bit\na little\nsome",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "下班",
+        "pinyin": "xià bān",
+        "meaning": "to finish work\nto get off work",
+        "tc_hanzi": "下班"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "When Little Wang visits the doctor for a physical exam, the doctor utters a phrase he did not want to hear.",
+    "syllable_times": [
+      0.5895691609977324,
+      2.53968253968254,
+      2.857142857142857,
+      3.854875283446712,
+      4.35374149659864,
+      4.897959183673469,
+      5.442176870748299,
+      5.759637188208616,
+      6.167800453514739,
+      6.621315192743764,
+      8.480725623582767,
+      8.843537414965986,
+      9.569160997732427,
+      9.96878571449433,
+      10.24943310657596,
+      10.8843537414966,
+      11.38321995464853,
+      11.74603174603175,
+      12.29024943310658,
+      12.7437641723356,
+      13.10657596371882,
+      13.42403628117914,
+      14.33106575963719,
+      15.60090702947846,
+      16.09977324263038,
+      16.55328798185941,
+      16.91609977324263,
+      17.31583524494117,
+      17.59637188208617,
+      18.00453514739229,
+      19.72789115646259,
+      20.22675736961451,
+      20.63492063492064,
+      20.90702947845805,
+      22.26757369614512,
+      22.58503401360544,
+      23.03854875283447,
+      23.40136054421769,
+      23.85487528344671,
+      24.19830662788696,
+      24.47186745426404,
+      24.89795918367347,
+      25.26077097505669,
+      25.71428571428572,
+      26.89342403628118,
+      27.3469387755102,
+      27.84580498866213,
+      28.20861678004535,
+      28.66213151927438,
+      28.97959183673469,
+      31.11111111111111,
+      31.56462585034014,
+      32.6984126984127,
+      33.04873982581287,
+      33.78684807256236,
+      34.19501133786848,
+      34.5124716553288,
+      34.91349210827181,
+      35.23809523809524,
+      36.09977324263038,
+      36.50793650793651,
+      36.9214959446599,
+      37.18820861678005,
+      37.46031746031746,
+      39.22902494331066,
+      39.63718820861678,
+      39.9546485260771,
+      40.90702947845805,
+      41.26984126984127,
+      41.67800453514739,
+      42.08616780045352,
+      42.55422151026104,
+      43.20804988662132,
+      43.20804988662132
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      11,
+      12,
+      30,
+      31,
+      47,
+      48
+    ],
+    "sentence_translations": [
+      "Physical Exam",
+      "",
+      "One day, Little Wang went to the hospital for a physical exam.",
+      "",
+      "The doctor looked at Little Wang's physical exam report and said: “Thank goodness you came in early!”",
+      "",
+      "As soon as Little Wang heard that he thought he had a serious illness, and got so scared he broke into cold sweat.",
+      "",
+      "Unexpectedly, the doctor calmly added: “Had you come any later I would have gone home for the day.”"
+    ]
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "id": "E227",
+  "title": "Never mind",
+  "level": "newbie",
+  "date": "2018-06-14",
+  "synopsis": "Little Le gets frustrated by being told “never mind”.",
+  "audioUrl": "https://static.duchinese.net/documents/758/55f3b79d537c1967943da5ad9273ade7bed382af.mp3?1528140700",
+  "series": null,
+  "fullText": {
+    "simplified": "算了\n\n保罗：小乐，问你个问题。\n小乐：你问吧。\n保罗：算了。\n小乐：什么问题，你说啊！\n保罗：算了，没事。\n小乐：快说，别说话说一半！\n保罗：你别生气啊，我忘了我想说什么了……",
+    "traditional": "算了\n\n保羅：小樂，問你個問題。\n小樂：你問吧。\n保羅：算了。\n小樂：什麼問題，你說啊！\n保羅：算了，沒事。\n小樂：快說，別說話說一半！\n保羅：你別生氣啊，我忘了我想說什麼了……"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Never mind"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：小乐，问你个问题。",
+      "traditional": "保羅：小樂，問你個問題。",
+      "pinyin": "bǎo luó xiǎo lè wèn nǐ ge wèn tí",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Little Le, I want to ask you a question."
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：你问吧。",
+      "traditional": "小樂：你問吧。",
+      "pinyin": "xiǎo lè nǐ wèn ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Go ahead."
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：算了。",
+      "traditional": "保羅：算了。",
+      "pinyin": "bǎo luó suàn le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Never mind."
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：什么问题，你说啊！",
+      "traditional": "小樂：什麼問題，你說啊！",
+      "pinyin": "xiǎo lè shén me wèn tí nǐ shuō a",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What question, just ask!"
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：算了，没事。",
+      "traditional": "保羅：算了，沒事。",
+      "pinyin": "bǎo luó suàn le méi shì",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Forget it, it’s nothing."
+    },
+    {
+      "index": 12,
+      "simplified": "小乐：快说，别说话说一半！",
+      "traditional": "小樂：快說，別說話說一半！",
+      "pinyin": "xiǎo lè kuài shuō bié shuō huà shuō yí bàn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Hurry up and say it. Don’t just stop halfway!"
+    },
+    {
+      "index": 14,
+      "simplified": "保罗：你别生气啊，我忘了我想说什么了……",
+      "traditional": "保羅：你別生氣啊，我忘了我想說什麼了……",
+      "pinyin": "bǎo luó nǐ bié shēng qì a wǒ wàng le wǒ xiǎng shuō shén me le",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "算了",
+      "traditional": "算了",
+      "pinyin": "suàn le",
+      "meaning": "forget it\nlet it be",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没事",
+      "traditional": "沒事",
+      "pinyin": "méi shì",
+      "meaning": "it's not important\nit's nothing\nnever mind",
+      "hsk": null
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "meaning": "to speak\nto talk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "meaning": "to forget",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "meaning": "forget it\nlet it be",
+        "tc_hanzi": "算了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "meaning": "forget it\nlet it be",
+        "tc_hanzi": "算了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "meaning": "forget it\nlet it be",
+        "tc_hanzi": "算了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "没事",
+        "pinyin": "méi shì",
+        "meaning": "it's not important\nit's nothing\nnever mind",
+        "tc_hanzi": "沒事"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "说话",
+        "pinyin": "shuō huà",
+        "meaning": "to speak\nto talk",
+        "tc_hanzi": "說話"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "忘",
+        "pinyin": "wàng",
+        "meaning": "to forget",
+        "tc_hanzi": "忘"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Le gets frustrated by being told “never mind”.",
+    "syllable_times": [
+      0.5192076976938286,
+      2.554152601981123,
+      2.554152601981123,
+      2.554152601981123,
+      2.9024943310657596,
+      4.172335600907029,
+      4.399092970521542,
+      4.5683983433161375,
+      4.67313522138089,
+      4.8772458110923536,
+      6.771817591033024,
+      6.771817591033024,
+      6.771817591033024,
+      7.346938775510204,
+      7.755102040816326,
+      9.649138367429538,
+      9.649138367429538,
+      9.649138367429538,
+      10.068027210884354,
+      11.409010455267463,
+      11.409010455267463,
+      11.409010455267463,
+      11.811824144582943,
+      11.97278911564626,
+      12.273056456534622,
+      13.242630385487528,
+      13.583796599628519,
+      14.058956916099774,
+      15.780345523354239,
+      15.780345523354239,
+      15.780345523354239,
+      16.145124716553287,
+      17.142857142857142,
+      17.442661170811075,
+      19.292288729694757,
+      19.292288729694757,
+      19.292288729694757,
+      19.673250840133417,
+      21.08843537414966,
+      21.541950113378686,
+      21.950113378684808,
+      22.403628117913833,
+      22.89081695237503,
+      23.219954648526077,
+      24.96649532722581,
+      24.96649532722581,
+      24.96649532722581,
+      25.4875283446712,
+      25.743090689296288,
+      25.99174658686009,
+      26.258503401360546,
+      27.482993197278912,
+      27.891156462585034,
+      28.251235301674697,
+      28.616780045351472,
+      28.934240362811792,
+      29.25170068027211,
+      29.614512471655328,
+      29.841269841269842,
+      30.019814302566367,
+      30.545736961451247,
+      30.545736961451247
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      12,
+      13,
+      19,
+      20,
+      24,
+      25,
+      34,
+      35,
+      41,
+      42,
+      53,
+      54
+    ],
+    "sentence_translations": [
+      "Never mind",
+      "",
+      "Paul: Little Le, I want to ask you a question.",
+      "",
+      "Little Le: Go ahead.",
+      "",
+      "Paul: Never mind.",
+      "",
+      "Little Le: What question, just ask!",
+      "",
+      "Paul: Forget it, it’s nothing.",
+      "",
+      "Little Le: Hurry up and say it. Don’t just stop halfway!",
+      "",
+      "Paul: Don’t be so angry. I forgot what I wanted to say…"
+    ]
+  }
+}

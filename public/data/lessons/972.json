@@ -1,0 +1,699 @@
+{
+  "id": "972",
+  "title": "What’s your phone number?",
+  "level": "newbie",
+  "date": "2020-05-20",
+  "synopsis": "On the way back to the school, Anne asks Li for his phone number.",
+  "audioUrl": "https://static.duchinese.net/documents/972/4ed851a28b02a447260a5c00995219713c29b7e9.mp3?1591186108",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 15,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你的手机号码是多少？\n\nAnne：你有手机吗？\nLi：有，怎么了？\nAnne：你的手机号码是多少？\nLi：13912305608。你的呢？\nAnne：15600379406。太好了！我们是朋友了！",
+    "traditional": "你的手機號碼是多少？\n\nAnne：你有手機嗎？\nLi：有，怎麼了？\nAnne：你的手機號碼是多少？\nLi：13912305608。你的呢？\nAnne：15600379406。太好了！我們是朋友了！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What’s your phone number?"
+    },
+    {
+      "index": 2,
+      "simplified": "Anne：你有手机吗？",
+      "traditional": "Anne：你有手機嗎？",
+      "pinyin": "nǐ yǒu shǒu jī ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Do you have a phone?"
+    },
+    {
+      "index": 4,
+      "simplified": "Li：有，怎么了？",
+      "traditional": "Li：有，怎麼了？",
+      "pinyin": "yǒu zěn me le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: I do, why?"
+    },
+    {
+      "index": 6,
+      "simplified": "Anne：你的手机号码是多少？",
+      "traditional": "Anne：你的手機號碼是多少？",
+      "pinyin": "nǐ de shǒu jī hào mǎ shì duō shao",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: What’s your phone number?"
+    },
+    {
+      "index": 8,
+      "simplified": "Li：13912305608。你的呢？",
+      "traditional": "Li：13912305608。你的呢？",
+      "pinyin": "yāo sān jiǔ yāo èr sān líng wǔ liù líng bā nǐ de ne",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: 13912305608. What’s yours?"
+    },
+    {
+      "index": 10,
+      "simplified": "Anne：15600379406。太好了！我们是朋友了！",
+      "traditional": "Anne：15600379406。太好了！我們是朋友了！",
+      "pinyin": "yāo wǔ liù líng líng sān qī jiǔ sì líng liù tài hǎo le wǒ men shì péng you le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Anne: 15600379406. Great! We’re friends!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "号码",
+      "traditional": "號碼",
+      "pinyin": "hào mǎ",
+      "meaning": "number",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么了",
+      "traditional": "怎麼了",
+      "pinyin": "zěn me le",
+      "meaning": "What's up?\nWhat happened?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "号码",
+        "pinyin": "hào mǎ",
+        "meaning": "number",
+        "tc_hanzi": "號碼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么了",
+        "pinyin": "zěn me le",
+        "meaning": "What's up?\nWhat happened?",
+        "tc_hanzi": "怎麼了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "号码",
+        "pinyin": "hào mǎ",
+        "meaning": "number",
+        "tc_hanzi": "號碼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yāo",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "jiǔ",
+        "tc_hanzi": "9"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yāo",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "0",
+        "pinyin": "líng",
+        "tc_hanzi": "0"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "tc_hanzi": "6"
+      },
+      {
+        "hanzi": "0",
+        "pinyin": "líng",
+        "tc_hanzi": "0"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "bā",
+        "tc_hanzi": "8"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yāo",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "tc_hanzi": "6"
+      },
+      {
+        "hanzi": "0",
+        "pinyin": "líng",
+        "tc_hanzi": "0"
+      },
+      {
+        "hanzi": "0",
+        "pinyin": "líng",
+        "tc_hanzi": "0"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "qī",
+        "tc_hanzi": "7"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "jiǔ",
+        "tc_hanzi": "9"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "sì",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": "0",
+        "pinyin": "líng",
+        "tc_hanzi": "0"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "tc_hanzi": "6"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "On the way back to the school, Anne asks Li for his phone number.",
+    "syllable_times": [
+      0.26077097505668934,
+      0.52,
+      0.9240362811791383,
+      1.2528344671201814,
+      1.5,
+      1.85,
+      2.11,
+      2.4050000000000002,
+      4.7,
+      4.96,
+      5.18,
+      5.56,
+      5.82,
+      7.82,
+      9.06,
+      9.37641723356009,
+      9.529478458049887,
+      11.71,
+      12.052154195011337,
+      12.34,
+      12.760770975056689,
+      13.072562358276643,
+      13.40702947845805,
+      13.72,
+      14.01,
+      14.257369614512472,
+      16.58,
+      16.972789115646258,
+      17.3,
+      17.91,
+      18.3,
+      18.639455782312925,
+      18.962585034013603,
+      19.64,
+      20.068027210884352,
+      20.379818594104307,
+      20.697278911564624,
+      22.08,
+      22.44331065759637,
+      22.61,
+      24.26,
+      24.671201814058957,
+      24.892290249433106,
+      25.46,
+      25.821995464852606,
+      26.145124716553287,
+      26.87,
+      27.24489795918367,
+      27.65,
+      28.02,
+      28.231292517006803,
+      30.29,
+      30.619999999999997,
+      30.95,
+      31.859410430839002,
+      32.14852607709751,
+      32.52,
+      32.83,
+      33.214285714285715,
+      33.42,
+      33.980544
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      15,
+      16,
+      21,
+      22,
+      30,
+      31,
+      48,
+      49,
+      71
+    ],
+    "sentence_translations": [
+      "What’s your phone number?",
+      "",
+      "Anne: Do you have a phone?",
+      "",
+      "Li: I do, why?",
+      "",
+      "Anne: What’s your phone number?",
+      "",
+      "Li: 13912305608. What’s yours?",
+      "",
+      "Anne: 15600379406. Great! We’re friends!",
+      ""
+    ]
+  }
+}

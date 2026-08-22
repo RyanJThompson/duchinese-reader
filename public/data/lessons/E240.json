@@ -1,0 +1,719 @@
+{
+  "id": "E240",
+  "title": "Where Am I Pretty?",
+  "level": "elementary",
+  "date": "2018-07-21",
+  "synopsis": "How do you respond to a compliment in Chinese?",
+  "audioUrl": "https://static.duchinese.net/documents/792/975aad46d23c6f1850a6d0b4fed520267c53d5d9.mp3?1531654028",
+  "series": null,
+  "fullText": {
+    "simplified": "哪里漂亮？\n\n保罗：这是你的新裙子吗？真漂亮！\n小乐：哪里哪里。\n保罗：哪里？都很漂亮啊。\n小乐：不是“哪里漂亮”，是谢谢你的夸奖。你今天也很帅啊。\n保罗：啊，哪里哪里！",
+    "traditional": "哪裏漂亮？\n\n保羅：這是你的新裙子嗎？真漂亮！\n小樂：哪裡哪裡。\n保羅：哪裏？都很漂亮啊。\n小樂：不是“哪裏漂亮”，是謝謝你的誇獎。你今天也很帥啊。\n保羅：啊，哪裡哪裡！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where Am I Pretty?"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：这是你的新裙子吗？真漂亮！",
+      "traditional": "保羅：這是你的新裙子嗎？真漂亮！",
+      "pinyin": "bǎo luó zhè shì nǐ de xīn qún zi ma zhēn piào liang",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Is this your new skirt? It’s really pretty!"
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：哪里哪里。",
+      "traditional": "小樂：哪裡哪裡。",
+      "pinyin": "xiǎo lè nǎ lǐ nǎ lǐ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: It’s nothing."
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：哪里？都很漂亮啊。",
+      "traditional": "保羅：哪裏？都很漂亮啊。",
+      "pinyin": "bǎo luó nǎ lǐ dōu hěn piào liang a",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Where? You’re pretty everywhere."
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：不是“哪里漂亮”，是谢谢你的夸奖。你今天也很帅啊。",
+      "traditional": "小樂：不是“哪裏漂亮”，是謝謝你的誇獎。你今天也很帥啊。",
+      "pinyin": "xiǎo lè bú shì nǎ lǐ piào liang shì xiè xie nǐ de kuā jiǎng nǐ jīn tiān yě hěn shuài a",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: I didn’t mean “where am I pretty”. I meant “thank you for your praise”. You look handsome as well today."
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：啊，哪里哪里！",
+      "traditional": "保羅：啊，哪裡哪裡！",
+      "pinyin": "bǎo luó a nǎ lǐ nǎ lǐ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: Ah, it’s nothing!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "哪里",
+      "traditional": "哪裏",
+      "pinyin": "nǎ lǐ",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "裙子",
+      "traditional": "裙子",
+      "pinyin": "qún zi",
+      "meaning": "skirt\ndress",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "夸奖",
+      "traditional": "誇獎",
+      "pinyin": "kuā jiǎng",
+      "meaning": "to praise\nto applaud\nto compliment",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帅",
+      "traditional": "帥",
+      "pinyin": "shuài",
+      "meaning": "handsome\nsmart",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "裙子",
+        "pinyin": "qún zi",
+        "meaning": "skirt\ndress",
+        "tc_hanzi": "裙子"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "humble expression denying compliment",
+        "tc_hanzi": "哪裡"
+      },
+      {
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "humble expression denying compliment",
+        "tc_hanzi": "哪裡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "夸奖",
+        "pinyin": "kuā jiǎng",
+        "meaning": "to praise\nto applaud\nto compliment",
+        "tc_hanzi": "誇獎"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "帅",
+        "pinyin": "shuài",
+        "meaning": "handsome\nsmart",
+        "tc_hanzi": "帥"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "humble expression denying compliment",
+        "tc_hanzi": "哪裡"
+      },
+      {
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "humble expression denying compliment",
+        "tc_hanzi": "哪裡"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you respond to a compliment in Chinese?",
+    "syllable_times": [
+      0.44190088421332113,
+      0.7709750566893424,
+      1.1791383219954648,
+      3.425574497855974,
+      3.425574497855974,
+      3.425574497855974,
+      3.729503317558291,
+      3.9084545487707314,
+      4.081632653061225,
+      4.421004580771268,
+      4.716553287981859,
+      5.079365079365079,
+      5.215419501133787,
+      6.213151927437642,
+      6.4852607709750565,
+      6.802721088435374,
+      8.775794988506558,
+      8.775794988506558,
+      8.775794988506558,
+      9.1744105191478,
+      9.433106575963718,
+      9.721065506985354,
+      11.461526998361064,
+      11.461526998361064,
+      11.461526998361064,
+      11.927437641723357,
+      13.333333333333334,
+      13.65079365079365,
+      13.832199546485262,
+      14.155062907942138,
+      14.331065759637188,
+      16.191204165982864,
+      16.191204165982864,
+      16.191204165982864,
+      16.49211720285434,
+      17.006802721088434,
+      17.46031746031746,
+      17.64172335600907,
+      18.049886621315192,
+      18.866213151927436,
+      19.501133786848072,
+      19.954648526077097,
+      20.317460317460316,
+      20.54421768707483,
+      20.68027210884354,
+      21.08843537414966,
+      22.90249433106576,
+      23.310657596371883,
+      23.6281179138322,
+      24.081632653061224,
+      24.444444444444443,
+      24.625850340136054,
+      25.034013605442176,
+      26.92441961069568,
+      26.92441961069568,
+      26.92441961069568,
+      28.435374149659864,
+      28.75283446712018,
+      29.206349206349206,
+      29.48220425481259,
+      29.97331065759637,
+      29.97331065759637
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      18,
+      19,
+      24,
+      25,
+      34,
+      35,
+      56,
+      57,
+      64
+    ],
+    "sentence_translations": [
+      "Where Am I Pretty?",
+      "",
+      "Paul: Is this your new skirt? It’s really pretty!",
+      "",
+      "Little Le: It’s nothing.",
+      "",
+      "Paul: Where? You’re pretty everywhere.",
+      "",
+      "Little Le: I didn’t mean “where am I pretty”. I meant “thank you for your praise”. You look handsome as well today.",
+      "",
+      "Paul: Ah, it’s nothing!",
+      ""
+    ]
+  }
+}

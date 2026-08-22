@@ -1,0 +1,801 @@
+{
+  "id": "E410",
+  "title": "Lay Eggs?",
+  "level": "newbie",
+  "date": "2020-03-05",
+  "synopsis": "Little Ming is curious if his mother can lay eggs. Why would he think that?",
+  "audioUrl": "https://static.duchinese.net/documents/50410/37ccbb41cbbd0a7ea9105defcd125be45bff0f37.mp3?1582295754",
+  "series": null,
+  "fullText": {
+    "simplified": "你会生蛋吗\n\n小明：妈妈，小红的妈妈游泳游得很好。你为什么不会呢？\n小明的妈妈：她每天都吃鱼，所以会游泳。我不吃鱼。怎么会游泳呢？\n小明：那你每天吃鸡。你会生蛋吗？\n",
+    "traditional": "你會生蛋嗎\n\n小明：媽媽，小紅的媽媽游泳游得很好。你為什麼不會呢？\n小明的媽媽：她每天都吃魚，所以會游泳。我不吃魚。怎麼會游泳呢？\n小明：那你每天吃雞。你會生蛋嗎？\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can you lay eggs"
+    },
+    {
+      "index": 2,
+      "simplified": "小明：妈妈，小红的妈妈游泳游得很好。你为什么不会呢？",
+      "traditional": "小明：媽媽，小紅的媽媽游泳游得很好。你為什麼不會呢？",
+      "pinyin": "xiǎo míng mā ma xiǎo hóng de mā ma yóu yǒng yóu de hěn hǎo nǐ wèi shén me bú huì ne",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Mom, Little Hong’s mom swims very well. Why can’t you?"
+    },
+    {
+      "index": 4,
+      "simplified": "小明的妈妈：她每天都吃鱼，所以会游泳。我不吃鱼。怎么会游泳呢？",
+      "traditional": "小明的媽媽：她每天都吃魚，所以會游泳。我不吃魚。怎麼會游泳呢？",
+      "pinyin": "xiǎo míng de mā ma tā měi tiān dōu chī yú suǒ yǐ huì yóu yǒng wǒ bù chī yú zěn me huì yóu yǒng ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s mom: She eats fish every day, and she can swim as a result. I don’t eat fish. How could I swim?"
+    },
+    {
+      "index": 6,
+      "simplified": "小明：那你每天吃鸡。你会生蛋吗？",
+      "traditional": "小明：那你每天吃雞。你會生蛋嗎？",
+      "pinyin": "xiǎo míng nà nǐ měi tiān chī jī nǐ huì shēng dàn ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: In that case, you eat chicken every day. Can you lay eggs?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生",
+      "traditional": "生",
+      "pinyin": "shēng",
+      "meaning": "to be born\nto give birth",
+      "hsk": 5
+    },
+    {
+      "hanzi": "蛋",
+      "traditional": "蛋",
+      "pinyin": "dàn",
+      "meaning": "egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小红",
+      "traditional": "小紅",
+      "pinyin": "xiǎo hóng",
+      "meaning": "Little Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "游泳",
+      "traditional": "游泳",
+      "pinyin": "yóu yǒng",
+      "meaning": "swimming\nto swim",
+      "hsk": 2
+    },
+    {
+      "hanzi": "游",
+      "traditional": "游",
+      "pinyin": "yóu",
+      "meaning": "to swim",
+      "hsk": null
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鱼",
+      "traditional": "魚",
+      "pinyin": "yú",
+      "meaning": "fish",
+      "hsk": 2
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鸡",
+      "traditional": "雞",
+      "pinyin": "jī",
+      "meaning": "chicken",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born\nto give birth",
+        "tc_hanzi": "生"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "蛋",
+        "pinyin": "dàn",
+        "meaning": "egg",
+        "tc_hanzi": "蛋"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "hanzi": "游",
+        "pinyin": "yóu",
+        "meaning": "to swim",
+        "tc_hanzi": "游"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡",
+        "pinyin": "jī",
+        "meaning": "chicken",
+        "tc_hanzi": "雞"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born\nto give birth",
+        "tc_hanzi": "生"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "蛋",
+        "pinyin": "dàn",
+        "meaning": "egg",
+        "tc_hanzi": "蛋"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is curious if his mother can lay eggs. Why would he think that?",
+    "syllable_times": [
+      0.35,
+      0.88,
+      1.36,
+      1.66,
+      5.060593020157526,
+      5.060593020157526,
+      5.060593020157526,
+      5.425000000000001,
+      6.67,
+      7.117286359717091,
+      7.35,
+      7.49,
+      7.815,
+      8.17,
+      8.545,
+      8.95,
+      9.26,
+      9.41,
+      9.835,
+      11,
+      11.36,
+      11.643333333333333,
+      11.926666666666668,
+      12.21,
+      12.530000000000001,
+      12.85,
+      15.342562570926038,
+      15.342562570926038,
+      15.342562570926038,
+      15.342562570926038,
+      15.342562570926038,
+      15.342562570926038,
+      15.56,
+      15.870000000000001,
+      16.18,
+      16.41,
+      16.72,
+      17.88,
+      18.225,
+      18.57,
+      18.91,
+      19.25,
+      20.57,
+      20.91,
+      21.255000000000003,
+      21.6,
+      22.56,
+      22.744999999999997,
+      22.93,
+      23.23,
+      23.560000000000002,
+      23.93,
+      26.40878509792101,
+      26.40878509792101,
+      26.40878509792101,
+      27.1,
+      27.46,
+      27.77,
+      28.08,
+      28.44,
+      29.51,
+      29.8,
+      30.19,
+      30.53,
+      30.87,
+      31.563792,
+      31.563792
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      26,
+      27,
+      52,
+      53,
+      68
+    ],
+    "sentence_translations": [
+      "Can you lay eggs",
+      "",
+      "Little Ming: Mom, Little Hong’s mom swims very well. Why can’t you?",
+      "",
+      "Little Ming’s mom: She eats fish every day, and she can swim as a result. I don’t eat fish. How could I swim?",
+      "",
+      "Little Ming: In that case, you eat chicken every day. Can you lay eggs?",
+      ""
+    ]
+  }
+}

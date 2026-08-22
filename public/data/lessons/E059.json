@@ -1,0 +1,1766 @@
+{
+  "id": "E059",
+  "title": "Decoding the Chinese Menu",
+  "level": "intermediate",
+  "date": "2016-11-05",
+  "synopsis": "If you want to find “lion's head”, “ants climbing a tree” and “cat’s ear” you shouldn’t go to the Zoo. Go to a Chinese restaurant.",
+  "audioUrl": "https://static.duchinese.net/documents/267/2de168a5c4a00f146f2fce1a8b6a09c321d4dc54.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "解密中国菜单\n\n在饭店\n服务员：你们好，请问几位？\n女人：两位，有靠窗的座位吗？\n服务员：这边请！这是菜单。\n男人：谢谢，我们先看看。\n \n5分钟以后……\n男人：服务员，你们怎么有狮子头？\n服务员：哈哈，这不是真的狮子头，是大的猪肉丸，这个菜很有名。\n女人：所以这个蚂蚁上树里面没有蚂蚁吧？\n服务员：没有，那是肉末，别担心。还有这个猫耳朵也不是真的，是一种面……\n男人：我的天，中国的菜单太难懂了！",
+    "traditional": "解密中國菜單\n\n在飯店\n服務員：你們好，請問幾位？\n女人：兩位，有靠窗的座位嗎？\n服務員：這邊請！這是菜單。\n男人：謝謝，我們先看看。\n \n5分鐘以後……\n男人：服務員，你們怎麼有獅子頭？\n服務員：哈哈，這不是真的獅子頭，是大的豬肉丸，這個菜很有名。\n女人：所以這個螞蟻上樹裡面沒有螞蟻吧？\n服務員：沒有，那是肉末，別擔心。還有這個貓耳朵也不是真的，是一種麵……\n男人：我的天，中國的菜單太難懂了！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Decoding the Chinese Menu"
+    },
+    {
+      "index": 2,
+      "simplified": "在饭店",
+      "traditional": "在飯店",
+      "pinyin": "zài fàn diàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "In a restaurant"
+    },
+    {
+      "index": 4,
+      "simplified": "服务员：你们好，请问几位？",
+      "traditional": "服務員：你們好，請問幾位？",
+      "pinyin": "fú wù yuán nǐ men hǎo qǐng wèn jǐ wèi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waitress: Hello. May I ask how many of you?"
+    },
+    {
+      "index": 6,
+      "simplified": "女人：两位，有靠窗的座位吗？",
+      "traditional": "女人：兩位，有靠窗的座位嗎？",
+      "pinyin": "nǚ rén liǎng wèi yǒu kào chuāng de zuò wèi ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Woman: Two. Is there a window seat?"
+    },
+    {
+      "index": 8,
+      "simplified": "服务员：这边请！这是菜单。",
+      "traditional": "服務員：這邊請！這是菜單。",
+      "pinyin": "fú wù yuán zhè biān qǐng zhè shì cài dān",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waitress: This way please. Here’s the menu."
+    },
+    {
+      "index": 10,
+      "simplified": "男人：谢谢，我们先看看。",
+      "traditional": "男人：謝謝，我們先看看。",
+      "pinyin": "nán rén xiè xie wǒ men xiān kàn kan",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n \n",
+      "traditional": "\n \n",
+      "pinyin": "",
+      "english": "Man: Thank you. We will take a look first."
+    },
+    {
+      "index": 12,
+      "simplified": "5分钟以后……",
+      "traditional": "5分鐘以後……",
+      "pinyin": "1 fēn zhōng yǐ hòu",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "5 minutes later"
+    },
+    {
+      "index": 14,
+      "simplified": "男人：服务员，你们怎么有狮子头？",
+      "traditional": "男人：服務員，你們怎麼有獅子頭？",
+      "pinyin": "nán rén fú wù yuán nǐ men zěn me yǒu shī zi tóu",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Man: Waitress! How come you are serving lion head?"
+    },
+    {
+      "index": 16,
+      "simplified": "服务员：哈哈，这不是真的狮子头，是大的猪肉丸，这个菜很有名。",
+      "traditional": "服務員：哈哈，這不是真的獅子頭，是大的豬肉丸，這個菜很有名。",
+      "pinyin": "fú wù yuán hā hā zhè bú shì zhēn de shī zi tóu shì dà de zhū ròu wán zhè ge cài hěn yǒu míng",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waitress: Haha. It’s not a real lion head. It’s just big pork balls. This dish is very famous."
+    },
+    {
+      "index": 18,
+      "simplified": "女人：所以这个蚂蚁上树里面没有蚂蚁吧？",
+      "traditional": "女人：所以這個螞蟻上樹裡面沒有螞蟻吧？",
+      "pinyin": "nǚ rén suǒ yǐ zhè ge mǎ yǐ shàng shù lǐ miàn méi yǒu mǎ yǐ ba",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Woman: So there are not any ants in this “ants climbing a tree” right?"
+    },
+    {
+      "index": 20,
+      "simplified": "服务员：没有，那是肉末，别担心。",
+      "traditional": "服務員：沒有，那是肉末，別擔心。",
+      "pinyin": "fú wù yuán méi yǒu nà shì ròu mò bié dān xīn",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "还有这个猫耳朵也不是真的，是一种面……",
+      "traditional": "還有這個貓耳朵也不是真的，是一種麵……",
+      "pinyin": "hái yǒu zhè ge māo ěr duo yě bú shì zhēn de shì yì zhǒng miàn",
+      "english": "Waitress: No, it’s ground meat. Don’t worry."
+    },
+    {
+      "index": 22,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "And this “cat’s ear” is not real ear of a cat. It’s a kind of wheaten food……"
+    },
+    {
+      "index": 23,
+      "simplified": "男人：我的天，中国的菜单太难懂了！",
+      "traditional": "男人：我的天，中國的菜單太難懂了！",
+      "pinyin": "nán rén wǒ de tiān zhōng guó de cài dān tài nán dǒng le",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Man: Oh my god! Chinese menus are too difficult to understand."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "解密",
+      "traditional": "解密",
+      "pinyin": "jiě mì",
+      "meaning": "to declassify\n(computing) to decrypt\nto decipher",
+      "hsk": null
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜单",
+      "traditional": "菜單",
+      "pinyin": "cài dān",
+      "meaning": "menu",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "位",
+      "traditional": "位",
+      "pinyin": "wèi",
+      "meaning": "classifier for people (honorific)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "女人",
+      "traditional": "女人",
+      "pinyin": "nǚ rén",
+      "meaning": "a woman\nfemale",
+      "hsk": 2
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "靠",
+      "traditional": "靠",
+      "pinyin": "kào",
+      "meaning": "to lean against or on\nto depend on",
+      "hsk": 5
+    },
+    {
+      "hanzi": "窗",
+      "traditional": "窗",
+      "pinyin": "chuāng",
+      "meaning": "window\nshutter",
+      "hsk": 4
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "座位",
+      "traditional": "座位",
+      "pinyin": "zuò wèi",
+      "meaning": "seat",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "边",
+      "traditional": "邊",
+      "pinyin": "biān",
+      "meaning": "side\nedge",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "男人",
+      "traditional": "男人",
+      "pinyin": "nán rén",
+      "meaning": "a man\nmale",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to look at\nto watch",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "狮子头",
+      "traditional": "獅子頭",
+      "pinyin": "shī zi tóu",
+      "meaning": "lit. lion's head\npork meatballs",
+      "hsk": null
+    },
+    {
+      "hanzi": "哈哈",
+      "traditional": "哈哈",
+      "pinyin": "hā hā",
+      "meaning": "(onom.) laughing out loud",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "real\ntrue",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猪",
+      "traditional": "豬",
+      "pinyin": "zhū",
+      "meaning": "pig\nhog\nswine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "肉丸",
+      "traditional": "肉丸",
+      "pinyin": "ròu wán",
+      "meaning": "meatball",
+      "hsk": null
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有名",
+      "traditional": "有名",
+      "pinyin": "yǒu míng",
+      "meaning": "famous\nwell-known",
+      "hsk": 3
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "蚂蚁上树",
+      "traditional": "螞蟻上樹",
+      "pinyin": "mǎ yǐ shàng shù",
+      "meaning": "lit. ants climbing a tree\nclassic Sichuan dish with pork and bean thread noodles",
+      "hsk": null
+    },
+    {
+      "hanzi": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐ miàn",
+      "meaning": "inside\ninterior",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "蚂蚁",
+      "traditional": "螞蟻",
+      "pinyin": "mǎ yǐ",
+      "meaning": "ant",
+      "hsk": 6
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "肉末",
+      "traditional": "肉末",
+      "pinyin": "ròu mò",
+      "meaning": "ground meat",
+      "hsk": null
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "担心",
+      "traditional": "擔心",
+      "pinyin": "dān xīn",
+      "meaning": "to worry\nto be anxious",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "猫耳朵",
+      "traditional": "貓耳朵",
+      "pinyin": "māo ěr duo",
+      "meaning": "lit. cat's ear\na type of noodles",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "面",
+      "traditional": "麵",
+      "pinyin": "miàn",
+      "meaning": "flour\nnoodles",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "sky\nheaven",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "懂",
+      "traditional": "懂",
+      "pinyin": "dǒng",
+      "meaning": "to understand\nto comprehend",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "解密",
+        "pinyin": "jiě mì",
+        "meaning": "to declassify\n(computing) to decrypt\nto decipher",
+        "tc_hanzi": "解密"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "位",
+        "pinyin": "wèi",
+        "meaning": "classifier for people (honorific)",
+        "tc_hanzi": "位"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女人",
+        "pinyin": "nǚ rén",
+        "meaning": "a woman\nfemale",
+        "tc_hanzi": "女人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "位",
+        "pinyin": "wèi",
+        "meaning": "classifier for people (honorific)",
+        "tc_hanzi": "位"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "靠",
+        "pinyin": "kào",
+        "meaning": "to lean against or on\nto depend on",
+        "tc_hanzi": "靠"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "窗",
+        "pinyin": "chuāng",
+        "meaning": "window\nshutter",
+        "tc_hanzi": "窗"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "座位",
+        "pinyin": "zuò wèi",
+        "meaning": "seat",
+        "tc_hanzi": "座位"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "边",
+        "pinyin": "biān",
+        "meaning": "side\nedge",
+        "tc_hanzi": "邊"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男人",
+        "pinyin": "nán rén",
+        "meaning": "a man\nmale",
+        "tc_hanzi": "男人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to look at\nto watch",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男人",
+        "pinyin": "nán rén",
+        "meaning": "a man\nmale",
+        "tc_hanzi": "男人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "狮子头",
+        "pinyin": "shī zi tóu",
+        "meaning": "lit. lion's head\npork meatballs",
+        "tc_hanzi": "獅子頭"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "real\ntrue",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "狮子头",
+        "pinyin": "shī zi tóu",
+        "meaning": "lit. lion's head\npork meatballs",
+        "tc_hanzi": "獅子頭"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "肉丸",
+        "pinyin": "ròu wán",
+        "meaning": "meatball",
+        "tc_hanzi": "肉丸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "有名",
+        "pinyin": "yǒu míng",
+        "meaning": "famous\nwell-known",
+        "tc_hanzi": "有名"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女人",
+        "pinyin": "nǚ rén",
+        "meaning": "a woman\nfemale",
+        "tc_hanzi": "女人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "蚂蚁上树",
+        "pinyin": "mǎ yǐ shàng shù",
+        "meaning": "lit. ants climbing a tree\nclassic Sichuan dish with pork and bean thread noodles",
+        "tc_hanzi": "螞蟻上樹"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里面",
+        "pinyin": "lǐ miàn",
+        "meaning": "inside\ninterior",
+        "tc_hanzi": "裡面"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ",
+        "meaning": "ant",
+        "tc_hanzi": "螞蟻"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "肉末",
+        "pinyin": "ròu mò",
+        "meaning": "ground meat",
+        "tc_hanzi": "肉末"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "担心",
+        "pinyin": "dān xīn",
+        "meaning": "to worry\nto be anxious",
+        "tc_hanzi": "擔心"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "猫耳朵",
+        "pinyin": "māo ěr duo",
+        "meaning": "lit. cat's ear\na type of noodles",
+        "tc_hanzi": "貓耳朵"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hanzi": "面",
+        "pinyin": "miàn",
+        "meaning": "flour\nnoodles",
+        "tc_hanzi": "麵"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男人",
+        "pinyin": "nán rén",
+        "meaning": "a man\nmale",
+        "tc_hanzi": "男人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "sky\nheaven",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "懂",
+        "pinyin": "dǒng",
+        "meaning": "to understand\nto comprehend",
+        "tc_hanzi": "懂"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "If you want to find “lion's head”, “ants climbing a tree” and “cat’s ear” you shouldn’t go to the Zoo. Go to a Chinese restaurant.",
+    "syllable_times": [
+      0.272108843537415,
+      0.5895691609977324,
+      0.8616780045351474,
+      1.043083900226757,
+      1.315192743764172,
+      2.766439909297052,
+      2.993197278911565,
+      3.219954648526077,
+      4.88766901339254,
+      4.88766901339254,
+      4.88766901339254,
+      4.88766901339254,
+      5.002373283476599,
+      5.170068027210885,
+      6.031746031746032,
+      6.258503401360544,
+      6.485260770975056,
+      6.666666666666667,
+      8.188883603003719,
+      8.188883603003719,
+      8.188883603003719,
+      8.480725623582767,
+      9.251700680272108,
+      9.387755102040817,
+      9.65986394557823,
+      9.886621315192743,
+      10.02267573696145,
+      10.20408163265306,
+      10.38548752834467,
+      11.52124635445254,
+      11.52124635445254,
+      11.52124635445254,
+      11.52124635445254,
+      11.74603174603175,
+      11.99601304360695,
+      12.83446712018141,
+      13.01009803316045,
+      13.19727891156463,
+      13.42403628117914,
+      14.68786396742587,
+      14.68786396742587,
+      14.68786396742587,
+      14.97615314681443,
+      15.64625850340136,
+      15.7883869758801,
+      15.94894637131642,
+      16.17906378298757,
+      16.42309279790568,
+      17.82312925170068,
+      18.04988662131519,
+      18.27664399092971,
+      18.54412494390962,
+      18.76276749812547,
+      19.9686022292486,
+      19.9686022292486,
+      19.9686022292486,
+      20.13605442176871,
+      20.30816544404686,
+      20.95238095238095,
+      21.10152556934435,
+      21.26984126984127,
+      21.36054421768707,
+      21.50177214174272,
+      21.72335600907029,
+      22.04081632653061,
+      22.22222222222222,
+      23.4665867302664,
+      23.4665867302664,
+      23.4665867302664,
+      23.4665867302664,
+      23.6734693877551,
+      24.35374149659864,
+      24.61845861822137,
+      24.84862033436146,
+      25.07936507936508,
+      25.30612244897959,
+      25.5328798185941,
+      25.75963718820862,
+      25.89569160997732,
+      26.66666666666667,
+      26.93877551020408,
+      27.1889152971464,
+      27.3469387755102,
+      27.57369614512472,
+      27.80045351473923,
+      28.93424036281179,
+      29.1156462585034,
+      29.29705215419501,
+      29.70521541950113,
+      30.02267573696145,
+      30.24943310657596,
+      31.49159668377758,
+      31.49159668377758,
+      31.49159668377758,
+      31.85976682066384,
+      32.42630385487529,
+      32.58379045207121,
+      32.6984126984127,
+      32.87491511747189,
+      33.04787976421122,
+      33.26337670113238,
+      33.51473922902494,
+      33.69583262244968,
+      34.05895691609977,
+      34.34471587453586,
+      34.5124716553288,
+      34.73459520120241,
+      34.92063492063492,
+      36.00985503515356,
+      36.00985503515356,
+      36.00985503515356,
+      36.00985503515356,
+      36.3718820861678,
+      37.00680272108843,
+      37.18820861678005,
+      37.36961451247166,
+      37.59637188208617,
+      38.73015873015873,
+      38.91156462585034,
+      39.13037476293498,
+      39.9546485260771,
+      40.22675736961451,
+      40.54421768707483,
+      40.72562358276644,
+      40.86167800453515,
+      41.04308390022675,
+      41.31519274376417,
+      41.7687074829932,
+      41.99546485260771,
+      42.10887560079171,
+      42.28028959111817,
+      42.53968253968254,
+      43.17460317460318,
+      43.43597166340194,
+      43.5827664399093,
+      43.79700878078895,
+      45.15733319510371,
+      45.15733319510371,
+      45.15733319510371,
+      45.4421768707483,
+      45.58407383992783,
+      46.48526077097506,
+      46.80272108843538,
+      46.98412698412698,
+      47.11076153510997,
+      47.3469387755102,
+      47.70975056689343,
+      48.16326530612245,
+      48.43537414965986,
+      48.61678004535148,
+      49.22401360544217,
+      49.22401360544217
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      7,
+      8,
+      17,
+      18,
+      30,
+      31,
+      41,
+      42,
+      50,
+      53,
+      57,
+      58,
+      67,
+      68,
+      91,
+      92,
+      103,
+      104,
+      115,
+      130,
+      131,
+      145
+    ],
+    "sentence_translations": [
+      "Decoding the Chinese Menu",
+      "",
+      "In a restaurant",
+      "",
+      "Waitress: Hello. May I ask how many of you?",
+      "",
+      "Woman: Two. Is there a window seat?",
+      "",
+      "Waitress: This way please. Here’s the menu.",
+      "",
+      "Man: Thank you. We will take a look first.",
+      "",
+      "5 minutes later",
+      "",
+      "Man: Waitress! How come you are serving lion head?",
+      "",
+      "Waitress: Haha. It’s not a real lion head. It’s just big pork balls. This dish is very famous.",
+      "",
+      "Woman: So there are not any ants in this “ants climbing a tree” right?",
+      "",
+      "Waitress: No, it’s ground meat. Don’t worry.",
+      "And this “cat’s ear” is not real ear of a cat. It’s a kind of wheaten food……",
+      "",
+      "Man: Oh my god! Chinese menus are too difficult to understand.",
+      ""
+    ]
+  }
+}

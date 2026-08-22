@@ -1,0 +1,364 @@
+{
+  "id": "312",
+  "title": "Can You Drive a Car?",
+  "level": "newbie",
+  "date": "2017-06-07",
+  "synopsis": "Ben asks Lili if she can drive.",
+  "audioUrl": "https://static.duchinese.net/documents/437/5bb0d831945334497a92c8eaa2b621769d0a43a0.mp3?1554973077",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 5,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你会开车吗？\n\n本：丽丽，你会开车吗？\n丽丽：会。我开车两年了。",
+    "traditional": "你會開車嗎？\n\n本：麗麗，你會開車嗎？\n麗麗：會。我開車兩年了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can you drive a car?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，你会开车吗？",
+      "traditional": "本：麗麗，你會開車嗎？",
+      "pinyin": "běn lì lì nǐ huì kāi chē ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, can you drive a car?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：会。我开车两年了。",
+      "traditional": "麗麗：會。我開車兩年了。",
+      "pinyin": "lì lì huì wǒ kāi chē liǎng nián le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Yes, I've been driving for two years."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to drive\nto operate (vehicle)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "meaning": "car\nvehicle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to drive\nto operate (vehicle)",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to drive\nto operate (vehicle)",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to drive\nto operate (vehicle)",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks Lili if she can drive.",
+    "syllable_times": [
+      0.4791865826743405,
+      1.13,
+      1.6099999999999999,
+      2.09,
+      3.760686843756599,
+      3.760686843756599,
+      4.11,
+      4.923315842613214,
+      5.28,
+      5.62,
+      5.945,
+      6.27,
+      8.310695295809454,
+      8.310695295809454,
+      8.310695295809454,
+      9.65,
+      10.1,
+      10.58,
+      11.54,
+      12.062547775108744,
+      12.427686708080437,
+      13.04678,
+      13.04678
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      18,
+      19,
+      30
+    ],
+    "sentence_translations": [
+      "Can you drive a car?",
+      "",
+      "Ben: Lili, can you drive a car?",
+      "",
+      "Lili: Yes, I've been driving for two years.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "id": "1048",
+  "title": "No Posting",
+  "level": "elementary",
+  "date": "2020-10-17",
+  "synopsis": "Does the “No Posting” sign really apply to everyone?",
+  "audioUrl": "https://static.duchinese.net/documents/1048/db2481118ed5e304c48190bf3eacb145ac5a5ce5.mp3?1595238060",
+  "series": null,
+  "fullText": {
+    "simplified": "禁止张贴\n\n笑笑：小明，你看！这儿写了“禁止张贴”，我们还是把广告贴到那儿去吧！\n小明：“禁止张贴”的意思是：禁止姓张的人在这儿贴东西。我们不姓张，没关系的！\n笑笑：真的吗？\n小明：我开玩笑的。我们还是把广告贴到那儿去吧！",
+    "traditional": "禁止張貼\n\n笑笑：小明，你看！這兒寫了“禁止張貼”，我們還是把廣告貼到那兒去吧！\n小明：“禁止張貼”的意思是：禁止姓張的人在這兒貼東西。我們不姓張，沒關係的！\n笑笑：真的嗎？\n小明：我開玩笑的。我們還是把廣告貼到那兒去吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "No Posting"
+    },
+    {
+      "index": 2,
+      "simplified": "笑笑：小明，你看！这儿写了“禁止张贴”，我们还是把广告贴到那儿去吧！",
+      "traditional": "笑笑：小明，你看！這兒寫了“禁止張貼”，我們還是把廣告貼到那兒去吧！",
+      "pinyin": "xiào xiào xiǎo míng nǐ kàn zhè‘r xiě le jìn zhǐ zhāng tiē wǒ men hái shi bǎ guǎng gào tiē dào nà'r qù ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Xiao Xiao: Little Ming, look! It says “No Posting” here. We had better stick the advertisement over there!"
+    },
+    {
+      "index": 4,
+      "simplified": "小明：“禁止张贴”的意思是：禁止姓张的人在这儿贴东西。",
+      "traditional": "小明：“禁止張貼”的意思是：禁止姓張的人在這兒貼東西。",
+      "pinyin": "xiǎo míng jìn zhǐ zhāng tiē de yì si shì jìn zhǐ xìng zhāng de rén zài zhè‘r tiē dōng xi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "我们不姓张，没关系的！",
+      "traditional": "我們不姓張，沒關係的！",
+      "pinyin": "wǒ men bú xìng zhāng méi guān xi de",
+      "english": "Little Ming: The meaning of “No Posting” is: It is forbidden for people surnamed Zhang to stick things here."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "We are not surnamed Zhang, so it doesn’t matter!"
+    },
+    {
+      "index": 7,
+      "simplified": "笑笑：真的吗？",
+      "traditional": "笑笑：真的嗎？",
+      "pinyin": "xiào xiào zhēn de ma",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Xiao Xiao: Really?"
+    },
+    {
+      "index": 9,
+      "simplified": "小明：我开玩笑的。我们还是把广告贴到那儿去吧！",
+      "traditional": "小明：我開玩笑的。我們還是把廣告貼到那兒去吧！",
+      "pinyin": "xiǎo míng wǒ kāi wán xiào de wǒ men hái shi bǎ guǎng gào tiē dào nà'r qù ba",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: I am joking. We had better stick the advertisement over there!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "禁止",
+      "traditional": "禁止",
+      "pinyin": "jìn zhǐ",
+      "meaning": "to prohibit\nto forbid\nto ban",
+      "hsk": 4
+    },
+    {
+      "hanzi": "张贴",
+      "traditional": "張貼",
+      "pinyin": "zhāng tiē",
+      "meaning": "to post (a notice)\nto advertise",
+      "hsk": null
+    },
+    {
+      "hanzi": "笑笑",
+      "traditional": "笑笑",
+      "pinyin": "xiào xiào",
+      "meaning": "Xiao Xiao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or\nnevertheless\nhad better",
+      "hsk": 3
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "广告",
+      "traditional": "廣告",
+      "pinyin": "guǎng gào",
+      "meaning": "to advertise\na commercial\nadvertisement",
+      "hsk": 4
+    },
+    {
+      "hanzi": "贴",
+      "traditional": "貼",
+      "pinyin": "tiē",
+      "meaning": "to stick\nto paste",
+      "hsk": 5
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "(after a verb of motion indicates movement away from the speaker)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "meaning": "meaning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "姓",
+      "traditional": "姓",
+      "pinyin": "xìng",
+      "meaning": "family name\nsurname\nto be surnamed",
+      "hsk": 2
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开玩笑",
+      "traditional": "開玩笑",
+      "pinyin": "kāi wán xiào",
+      "meaning": "to joke",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "禁止",
+        "pinyin": "jìn zhǐ",
+        "meaning": "to prohibit\nto forbid\nto ban",
+        "tc_hanzi": "禁止"
+      },
+      {
+        "hanzi": "张贴",
+        "pinyin": "zhāng tiē",
+        "meaning": "to post (a notice)\nto advertise",
+        "tc_hanzi": "張貼"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "笑笑",
+        "pinyin": "xiào xiào",
+        "meaning": "Xiao Xiao (name)",
+        "tc_hanzi": "笑笑"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "禁止",
+        "pinyin": "jìn zhǐ",
+        "meaning": "to prohibit\nto forbid\nto ban",
+        "tc_hanzi": "禁止"
+      },
+      {
+        "hanzi": "张贴",
+        "pinyin": "zhāng tiē",
+        "meaning": "to post (a notice)\nto advertise",
+        "tc_hanzi": "張貼"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or\nnevertheless\nhad better",
+        "tc_hanzi": "還是"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "广告",
+        "pinyin": "guǎng gào",
+        "meaning": "to advertise\na commercial\nadvertisement",
+        "tc_hanzi": "廣告"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "贴",
+        "pinyin": "tiē",
+        "meaning": "to stick\nto paste",
+        "tc_hanzi": "貼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "g": "directional-complements",
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "(after a verb of motion indicates movement away from the speaker)",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "禁止",
+        "pinyin": "jìn zhǐ",
+        "meaning": "to prohibit\nto forbid\nto ban",
+        "tc_hanzi": "禁止"
+      },
+      {
+        "hanzi": "张贴",
+        "pinyin": "zhāng tiē",
+        "meaning": "to post (a notice)\nto advertise",
+        "tc_hanzi": "張貼"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "禁止",
+        "pinyin": "jìn zhǐ",
+        "meaning": "to prohibit\nto forbid\nto ban",
+        "tc_hanzi": "禁止"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "姓",
+        "pinyin": "xìng",
+        "meaning": "family name\nsurname\nto be surnamed",
+        "tc_hanzi": "姓"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "贴",
+        "pinyin": "tiē",
+        "meaning": "to stick\nto paste",
+        "tc_hanzi": "貼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "姓",
+        "pinyin": "xìng",
+        "meaning": "family name\nsurname\nto be surnamed",
+        "tc_hanzi": "姓"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "笑笑",
+        "pinyin": "xiào xiào",
+        "meaning": "Xiao Xiao (name)",
+        "tc_hanzi": "笑笑"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "开玩笑",
+        "pinyin": "kāi wán xiào",
+        "meaning": "to joke",
+        "tc_hanzi": "開玩笑"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or\nnevertheless\nhad better",
+        "tc_hanzi": "還是"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "广告",
+        "pinyin": "guǎng gào",
+        "meaning": "to advertise\na commercial\nadvertisement",
+        "tc_hanzi": "廣告"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "贴",
+        "pinyin": "tiē",
+        "meaning": "to stick\nto paste",
+        "tc_hanzi": "貼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "g": "directional-complements",
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "(after a verb of motion indicates movement away from the speaker)",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Does the “No Posting” sign really apply to everyone?",
+    "syllable_times": [
+      0.36,
+      0.69,
+      1.035,
+      2.9,
+      2.9,
+      2.9,
+      3.2800000000000002,
+      3.69,
+      3.95,
+      5.07,
+      5.45,
+      5.81,
+      6.42,
+      6.775,
+      7.13,
+      7.482993197278911,
+      8.52,
+      8.754999999999999,
+      8.99,
+      9.205,
+      9.42,
+      9.6,
+      9.95,
+      10.41,
+      10.65,
+      10.82,
+      11.18,
+      11.42,
+      13.06,
+      13.06,
+      13.06,
+      13.4,
+      13.72,
+      13.95,
+      14.18,
+      14.28,
+      14.45,
+      14.62,
+      15.96,
+      16.275,
+      16.59,
+      16.855,
+      17.12,
+      17.24,
+      17.68,
+      17.96,
+      18.23,
+      18.52,
+      18.785,
+      20.01,
+      20.225,
+      20.44,
+      20.73,
+      21.02,
+      21.98,
+      22.29,
+      22.515,
+      22.74,
+      24.06,
+      24.06,
+      24.06,
+      24.427437641723355,
+      24.6,
+      26.35,
+      26.35,
+      26.35,
+      26.62,
+      26.886666666666667,
+      27.153333333333336,
+      27.42,
+      28.62,
+      28.810000000000002,
+      29,
+      29.189999999999998,
+      29.38,
+      29.54,
+      29.85,
+      30.47,
+      30.72,
+      30.89,
+      31.2,
+      31.424999999999997,
+      32.075692
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      28,
+      29,
+      49,
+      57,
+      58,
+      63,
+      64,
+      80
+    ],
+    "sentence_translations": [
+      "No Posting",
+      "",
+      "Xiao Xiao: Little Ming, look! It says “No Posting” here. We had better stick the advertisement over there!",
+      "",
+      "Little Ming: The meaning of “No Posting” is: It is forbidden for people surnamed Zhang to stick things here.",
+      "We are not surnamed Zhang, so it doesn’t matter!",
+      "",
+      "Xiao Xiao: Really?",
+      "",
+      "Little Ming: I am joking. We had better stick the advertisement over there!",
+      ""
+    ]
+  }
+}

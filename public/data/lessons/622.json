@@ -1,0 +1,734 @@
+{
+  "id": "622",
+  "title": "Can I Park Here?",
+  "level": "newbie",
+  "date": "2018-12-27",
+  "synopsis": "Little He is stopped by the guard when he tries to drive into the school campus.",
+  "audioUrl": "https://static.duchinese.net/documents/923/b1c2faefa597980381bf048930581de3b073ebff.mp3?1698350347",
+  "series": null,
+  "fullText": {
+    "simplified": "这里可以停车吗？\n\n门卫：唉唉唉，这里是学校，你不能开车进去。\n小何：啊，不好意思。那这里可以停车吗？\n门卫：这里不能停车。\n小何：那哪里可以停车？\n门卫：那边有个停车场，那边可以停车。",
+    "traditional": "這裡可以停車嗎？\n\n門衛：唉唉唉，這裡是學校，你不能開車進去。\n小何：啊，不好意思。那這裡可以停車嗎？\n門衛：這裡不能停車。\n小何：那哪裏可以停車？\n門衛：那邊有個停車場，那邊可以停車。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can I park here?"
+    },
+    {
+      "index": 2,
+      "simplified": "门卫：唉唉唉，这里是学校，你不能开车进去。",
+      "traditional": "門衛：唉唉唉，這裡是學校，你不能開車進去。",
+      "pinyin": "mén wèi ài ài ài zhè lǐ shì xué xiào nǐ bù néng kāi chē jìn qù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Guard: No no no, this is a school. You cannot drive in here."
+    },
+    {
+      "index": 4,
+      "simplified": "小何：啊，不好意思。那这里可以停车吗？",
+      "traditional": "小何：啊，不好意思。那這裡可以停車嗎？",
+      "pinyin": "xiǎo hé a bù hǎo yì si nà zhè lǐ kě yǐ tíng chē ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Ah, I’m sorry. Can I park here then?"
+    },
+    {
+      "index": 6,
+      "simplified": "门卫：这里不能停车。",
+      "traditional": "門衛：這裡不能停車。",
+      "pinyin": "mén wèi zhè lǐ bù néng tíng chē",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Guard: You can’t park here."
+    },
+    {
+      "index": 8,
+      "simplified": "小何：那哪里可以停车？",
+      "traditional": "小何：那哪裏可以停車？",
+      "pinyin": "xiǎo hé nà nǎ lǐ kě yǐ tíng chē",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Then, where can I park?"
+    },
+    {
+      "index": 10,
+      "simplified": "门卫：那边有个停车场，那边可以停车。",
+      "traditional": "門衛：那邊有個停車場，那邊可以停車。",
+      "pinyin": "mén wèi nà bian yǒu ge tíng chē chǎng nà bian kě yǐ tíng chē",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Guard: There is a parking lot over there. You can park there."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "停车",
+      "traditional": "停車",
+      "pinyin": "tíng chē",
+      "meaning": "to pull up (stop one's vehicle)\nto park",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "门卫",
+      "traditional": "門衛",
+      "pinyin": "mén wèi",
+      "meaning": "guard at gate\nsentry",
+      "hsk": null
+    },
+    {
+      "hanzi": "唉",
+      "traditional": "唉",
+      "pinyin": "ài",
+      "meaning": "alas\noh dear",
+      "hsk": 5
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开车",
+      "traditional": "開車",
+      "pinyin": "kāi chē",
+      "meaning": "to drive a car",
+      "hsk": 1
+    },
+    {
+      "hanzi": "进去",
+      "traditional": "進去",
+      "pinyin": "jìn qù",
+      "meaning": "to go in\nto enter",
+      "hsk": null
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪里",
+      "traditional": "哪裏",
+      "pinyin": "nǎ lǐ",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那边",
+      "traditional": "那邊",
+      "pinyin": "nà bian",
+      "meaning": "over there",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "停车场",
+      "traditional": "停車場",
+      "pinyin": "tíng chē chǎng",
+      "meaning": "parking lot\ncar park",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "停车",
+        "pinyin": "tíng chē",
+        "meaning": "to pull up (stop one's vehicle)\nto park",
+        "tc_hanzi": "停車"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "门卫",
+        "pinyin": "mén wèi",
+        "meaning": "guard at gate\nsentry",
+        "tc_hanzi": "門衛"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "唉",
+        "pinyin": "ài",
+        "meaning": "alas\noh dear",
+        "tc_hanzi": "唉"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "唉",
+        "pinyin": "ài",
+        "meaning": "alas\noh dear",
+        "tc_hanzi": "唉"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "唉",
+        "pinyin": "ài",
+        "meaning": "alas\noh dear",
+        "tc_hanzi": "唉"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开车",
+        "pinyin": "kāi chē",
+        "meaning": "to drive a car",
+        "tc_hanzi": "開車"
+      },
+      {
+        "hanzi": "进去",
+        "pinyin": "jìn qù",
+        "meaning": "to go in\nto enter",
+        "tc_hanzi": "進去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "停车",
+        "pinyin": "tíng chē",
+        "meaning": "to pull up (stop one's vehicle)\nto park",
+        "tc_hanzi": "停車"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "门卫",
+        "pinyin": "mén wèi",
+        "meaning": "guard at gate\nsentry",
+        "tc_hanzi": "門衛"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hanzi": "停车",
+        "pinyin": "tíng chē",
+        "meaning": "to pull up (stop one's vehicle)\nto park",
+        "tc_hanzi": "停車"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "停车",
+        "pinyin": "tíng chē",
+        "meaning": "to pull up (stop one's vehicle)\nto park",
+        "tc_hanzi": "停車"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "门卫",
+        "pinyin": "mén wèi",
+        "meaning": "guard at gate\nsentry",
+        "tc_hanzi": "門衛"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "那边",
+        "pinyin": "nà bian",
+        "meaning": "over there",
+        "tc_hanzi": "那邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "停车场",
+        "pinyin": "tíng chē chǎng",
+        "meaning": "parking lot\ncar park",
+        "tc_hanzi": "停車場"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "那边",
+        "pinyin": "nà bian",
+        "meaning": "over there",
+        "tc_hanzi": "那邊"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "停车",
+        "pinyin": "tíng chē",
+        "meaning": "to pull up (stop one's vehicle)\nto park",
+        "tc_hanzi": "停車"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little He is stopped by the guard when he tries to drive into the school campus.",
+    "syllable_times": [
+      0.32312925170068024,
+      1.05,
+      1.4285714285714286,
+      1.6156462585034013,
+      2.1598639455782314,
+      2.698412698412698,
+      4.1439909297052155,
+      4.1439909297052155,
+      4.1439909297052155,
+      4.3480725623582765,
+      4.523809523809524,
+      5.59,
+      5.9353741496598635,
+      6.3,
+      6.655328798185941,
+      7.125850340136054,
+      8.1,
+      8.616780045351474,
+      9.05328798185941,
+      9.33673469387755,
+      9.65986394557823,
+      9.954648526077097,
+      10.300453514739228,
+      11.870748299319727,
+      11.870748299319727,
+      11.870748299319727,
+      13.36,
+      13.565759637188208,
+      13.820861678004535,
+      14.064625850340136,
+      14.99,
+      15.94671201814059,
+      16.320861678004533,
+      17.0578231292517,
+      17.5,
+      17.670068027210885,
+      18.1859410430839,
+      18.718820861678005,
+      20.4,
+      20.4,
+      20.4,
+      20.78798185941043,
+      21.23,
+      21.59297052154195,
+      22.0124716553288,
+      22.346938775510203,
+      23.877551020408163,
+      23.877551020408163,
+      23.877551020408163,
+      24.67,
+      25.14172335600907,
+      25.8,
+      26.218820861678005,
+      26.400226757369612,
+      26.853741496598637,
+      28.89,
+      28.89,
+      28.89,
+      29.246031746031743,
+      29.710884353741495,
+      29.965986394557824,
+      30.379818594104307,
+      30.70861678004535,
+      31.037414965986393,
+      32.16553287981859,
+      32.534013605442176,
+      33.01,
+      33.46371882086168,
+      33.64512471655328,
+      33.939909297052154,
+      35
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      23,
+      24,
+      36,
+      37,
+      44,
+      45,
+      52,
+      53,
+      64
+    ],
+    "sentence_translations": [
+      "Can I park here?",
+      "",
+      "Guard: No no no, this is a school. You cannot drive in here.",
+      "",
+      "Little He: Ah, I’m sorry. Can I park here then?",
+      "",
+      "Guard: You can’t park here.",
+      "",
+      "Little He: Then, where can I park?",
+      "",
+      "Guard: There is a parking lot over there. You can park there.",
+      ""
+    ]
+  }
+}

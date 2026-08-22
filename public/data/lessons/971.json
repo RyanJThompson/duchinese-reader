@@ -1,0 +1,729 @@
+{
+  "id": "971",
+  "title": "Excuse me, how much is it?",
+  "level": "newbie",
+  "date": "2020-05-06",
+  "synopsis": "Li and Anne pay the bill as they leave the restaurant to go to class.",
+  "audioUrl": "https://static.duchinese.net/documents/971/74aae33ac0316240179e5eb8e1e686bf0187b579.mp3?1591186106",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 14,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "请问多少钱？\n\nLi：你好，请问多少钱？\nWaiter：八十五块。\nLi：这是一百块。\nWaiter：这是十五块。你们喜欢这里的菜吗？\nLi：我们很喜欢。谢谢！\nWaiter：不客气！再见！\nLi：再见！",
+    "traditional": "請問多少錢？\n\nLi：你好，請問多少錢？\nWaiter：八十五塊。\nLi：這是一百塊。\nWaiter：這是十五塊。你們喜歡這裡的菜嗎？\nLi：我們很喜歡。謝謝！\nWaiter：不客氣！再見！\nLi：再見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Excuse me, how much is it?"
+    },
+    {
+      "index": 2,
+      "simplified": "Li：你好，请问多少钱？",
+      "traditional": "Li：你好，請問多少錢？",
+      "pinyin": "nǐ hǎo qǐng wèn duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Hello. Excuse me, how much is it?"
+    },
+    {
+      "index": 4,
+      "simplified": "Waiter：八十五块。",
+      "traditional": "Waiter：八十五塊。",
+      "pinyin": "bā shí wǔ kuài",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: 85 yuan."
+    },
+    {
+      "index": 6,
+      "simplified": "Li：这是一百块。",
+      "traditional": "Li：這是一百塊。",
+      "pinyin": "zhè shì yì bǎi kuài",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Here’s 100 yuan."
+    },
+    {
+      "index": 8,
+      "simplified": "Waiter：这是十五块。你们喜欢这里的菜吗？",
+      "traditional": "Waiter：這是十五塊。你們喜歡這裡的菜嗎？",
+      "pinyin": "zhè shì shí wǔ kuài nǐ men xǐ huan zhè lǐ de cài ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Here’s 15 yuan. Do you like the food here?"
+    },
+    {
+      "index": 10,
+      "simplified": "Li：我们很喜欢。谢谢！",
+      "traditional": "Li：我們很喜歡。謝謝！",
+      "pinyin": "wǒ men hěn xǐ huan xiè xie",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: We like it very much. Thank you!"
+    },
+    {
+      "index": 12,
+      "simplified": "Waiter：不客气！再见！",
+      "traditional": "Waiter：不客氣！再見！",
+      "pinyin": "bú kè qi zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: You’re welcome! Bye!"
+    },
+    {
+      "index": 14,
+      "simplified": "Li：再见！",
+      "traditional": "Li：再見！",
+      "pinyin": "zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Li: Bye!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "meaning": "eight",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "百",
+      "traditional": "百",
+      "pinyin": "bǎi",
+      "meaning": "hundred",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "numbers",
+        "hsk": 2,
+        "hanzi": "百",
+        "pinyin": "bǎi",
+        "meaning": "hundred",
+        "tc_hanzi": "百"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Li and Anne pay the bill as they leave the restaurant to go to class.",
+    "syllable_times": [
+      0.39499999999999996,
+      0.83,
+      1.09,
+      1.35,
+      2.97,
+      3.24,
+      4.53,
+      4.805,
+      5.14,
+      5.38,
+      5.62,
+      7.64,
+      7.923333333333333,
+      8.242630385487528,
+      8.520408163265305,
+      10.01,
+      10.289115646258503,
+      10.595238095238095,
+      10.805,
+      11.11,
+      12.99,
+      13.276643990929704,
+      13.71,
+      14.07596371882086,
+      14.32,
+      15.65,
+      15.925,
+      16.2,
+      16.683673469387756,
+      16.99,
+      17.205,
+      17.42,
+      17.6,
+      17.94,
+      19.27,
+      19.53514739229025,
+      19.807256235827662,
+      20.119047619047617,
+      20.4875283446712,
+      21.63,
+      21.990000000000002,
+      23.58,
+      23.764172335600907,
+      24.149659863945576,
+      25.14,
+      25.42,
+      26.91,
+      27.28,
+      27.954966
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      13,
+      14,
+      20,
+      21,
+      28,
+      29,
+      43,
+      44,
+      51,
+      52,
+      57,
+      58,
+      61
+    ],
+    "sentence_translations": [
+      "Excuse me, how much is it?",
+      "",
+      "Li: Hello. Excuse me, how much is it?",
+      "",
+      "Waiter: 85 yuan.",
+      "",
+      "Li: Here’s 100 yuan.",
+      "",
+      "Waiter: Here’s 15 yuan. Do you like the food here?",
+      "",
+      "Li: We like it very much. Thank you!",
+      "",
+      "Waiter: You’re welcome! Bye!",
+      "",
+      "Li: Bye!",
+      ""
+    ]
+  }
+}

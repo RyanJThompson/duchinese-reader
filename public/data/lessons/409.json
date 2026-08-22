@@ -1,0 +1,3283 @@
+{
+  "id": "409",
+  "title": "Recipe: Shredded Pork in Beijing Sauce",
+  "level": "master",
+  "date": "2018-01-02",
+  "synopsis": "How about some Shredded Pork in Beijing Sauce for tonight's dinner?",
+  "audioUrl": "https://static.duchinese.net/documents/618/f78569a1e15dab74959eb08c3b0c6a50421bff6a.mp3?1514559012",
+  "series": null,
+  "fullText": {
+    "simplified": "小李菜谱：京酱肉丝\n\n菜谱简介：\n京酱肉丝是北京菜中的经典菜之一。它咸甜适中，风味独特，是很多中国人喜欢吃的菜。\n\n材料：\n猪肉300克，黄瓜1根，半个鸡蛋的蛋清，料酒30毫升，干淀粉5克，番茄沙司30毫升，蚝油15毫升，甜面酱30毫升。\n\n做法：\n1.\t将猪肉切成3毫米厚的薄片，再切成3毫米宽的细丝。将切好的猪肉放入碗中，倒入半个鸡蛋的蛋清，再倒入料酒和干淀粉，搅拌均匀，腌制10分钟。\n2.\t黄瓜切成4厘米长的细丝，放入盘中摆好。\n3.\t锅中倒入油，大火烧至8成热后，倒入肉丝，快速炒散，炒到肉丝变色后，捞出备用。\n4.\t锅中留少量的油，调成小火，先倒入番茄酱，再倒入蚝油，最后倒入甜面酱，搅拌后倒入炒好的肉丝，翻炒片刻即可。\n\n小贴士：\n1.\t猪肉可以放到冰箱冷冻层冷冻半小时后再拿出来切，这样比较好切。\n2.\t如果觉得香味不够，可以在第四步倒入肉丝后，再倒入1毫升的香油翻炒。",
+    "traditional": "小李菜譜：京醬肉絲\n\n菜譜簡介：\n京醬肉絲是北京菜中的經典菜之一。它鹹甜適中，風味獨特，是很多中國人喜歡吃的菜。\n\n材料：\n豬肉300克，黃瓜1根，半個雞蛋的蛋清，料酒30毫升，乾澱粉5克，番茄沙司30毫升，蠔油15毫升，甜麵醬30毫升。\n\n做法：\n1.\t將豬肉切成3毫米厚的薄片，再切成3毫米寬的細絲。將切好的豬肉放入碗中，倒入半個雞蛋的蛋清，再倒入料酒和乾澱粉，攪拌均勻，腌製10分鐘。\n2.\t黃瓜切成4釐米長的細絲，放入盤中擺好。\n3.\t鍋中倒入油，大火燒至8成熱後，倒入肉絲，快速炒散，炒到肉絲變色後，撈出備用。\n4.\t鍋中留少量的油，調成小火，先倒入番茄醬，再倒入蠔油，最後倒入甜麵醬，攪拌後倒入炒好的肉絲，翻炒片刻即可。\n\n小貼士：\n1.\t豬肉可以放到冰箱冷凍層冷凍半小時後再拿出來切，這樣比較好切。\n2.\t如果覺得香味不夠，可以在第四步倒入肉絲後，再倒入1毫升的香油翻炒。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Little Li’s Recipe: Shredded Pork in Beijing Sauce"
+    },
+    {
+      "index": 2,
+      "simplified": "菜谱简介：",
+      "traditional": "菜譜簡介：",
+      "pinyin": "cài pǔ jiǎn jiè",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Recipe summary:"
+    },
+    {
+      "index": 4,
+      "simplified": "京酱肉丝是北京菜中的经典菜之一。",
+      "traditional": "京醬肉絲是北京菜中的經典菜之一。",
+      "pinyin": "jīng jiàng ròu sī shì běi jīng cài zhōng de jīng diǎn cài zhī yī",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "它咸甜适中，风味独特，是很多中国人喜欢吃的菜。",
+      "traditional": "它鹹甜適中，風味獨特，是很多中國人喜歡吃的菜。",
+      "pinyin": "tā xián tián shì zhōng fēng wèi dú tè shì hěn duō zhōng guó rén xǐ huan chī de cài",
+      "english": "Shredded Pork in Beijing Sauce is one of the classic Beijing dishes."
+    },
+    {
+      "index": 6,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "It is moderately salty and sweet, and has a unique taste. It is favored by many Chinese people."
+    },
+    {
+      "index": 7,
+      "simplified": "材料：",
+      "traditional": "材料：",
+      "pinyin": "cái liào",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ingredients:"
+    },
+    {
+      "index": 9,
+      "simplified": "猪肉300克，黄瓜1根，半个鸡蛋的蛋清，料酒30毫升，干淀粉5克，",
+      "traditional": "豬肉300克，黃瓜1根，半個雞蛋的蛋清，料酒30毫升，乾澱粉5克，",
+      "pinyin": "zhū ròu 2 kè huáng guā 1 gēn bàn ge jī dàn de dàn qīng liào jiǔ 2 háo shēng gān diàn fěn 1 kè",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "番茄沙司30毫升，蚝油15毫升，甜面酱30毫升。",
+      "traditional": "番茄沙司30毫升，蠔油15毫升，甜麵醬30毫升。",
+      "pinyin": "fān qié shā sī 2 háo shēng háo yóu 2 háo shēng tián miàn jiàng 2 háo shēng",
+      "english": "300g pork, 1 cucumber, egg white of half an egg, 30ml cooking wine, 5g dry starch, .."
+    },
+    {
+      "index": 11,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": ".. 30ml tomato sauce, 15ml oyster sauce, 30ml sweet soybean sauce."
+    },
+    {
+      "index": 12,
+      "simplified": "做法：",
+      "traditional": "做法：",
+      "pinyin": "zuò fǎ",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Cooking instructions:"
+    },
+    {
+      "index": 14,
+      "simplified": "1.\t将猪肉切成3毫米厚的薄片，再切成3毫米宽的细丝。",
+      "traditional": "1.\t將豬肉切成3毫米厚的薄片，再切成3毫米寬的細絲。",
+      "pinyin": "1 jiāng zhū ròu qiē chéng 1 háo mǐ hòu de báo piàn zài qiē chéng 1 háo mǐ kuān de xì sī",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "将切好的猪肉放入碗中，倒入半个鸡蛋的蛋清，",
+      "traditional": "將切好的豬肉放入碗中，倒入半個雞蛋的蛋清，",
+      "pinyin": "jiāng qiē hǎo de zhū ròu fàng rù wǎn zhōng dào rù bàn ge jī dàn de dàn qīng",
+      "english": "1. Cut the pork into 3mm thick slices, and then slice these into 3mm wide fine threads."
+    },
+    {
+      "index": 16,
+      "simplified": "再倒入料酒和干淀粉，搅拌均匀，腌制10分钟。",
+      "traditional": "再倒入料酒和乾澱粉，攪拌均勻，腌製10分鐘。",
+      "pinyin": "zài dào rù liào jiǔ hé gān diàn fěn jiǎo bàn jūn yún yān zhì 1 fēn zhōng",
+      "english": "Put the shredded pork into a bowl, and add the egg white of half an egg."
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Then pour in cooking wine and dry starch. Mix evenly and marinate for 10 minutes."
+    },
+    {
+      "index": 18,
+      "simplified": "2.\t黄瓜切成4厘米长的细丝，放入盘中摆好。",
+      "traditional": "2.\t黃瓜切成4釐米長的細絲，放入盤中擺好。",
+      "pinyin": "1 huáng guā qiē chéng 1 lí mǐ cháng de xì sī fàng rù pán zhōng bǎi hǎo",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "2. Cut the cucumber into 4cm long slices, and arrange them neatly on a plate."
+    },
+    {
+      "index": 20,
+      "simplified": "3.\t锅中倒入油，大火烧至8成热后，倒入肉丝，快速炒散，",
+      "traditional": "3.\t鍋中倒入油，大火燒至8成熱後，倒入肉絲，快速炒散，",
+      "pinyin": "1 guō zhōng dào rù yóu dà huǒ shāo zhì 1 chéng rè hòu dào rù ròu sī kuài sù chǎo sàn",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "炒到肉丝变色后，捞出备用。",
+      "traditional": "炒到肉絲變色後，撈出備用。",
+      "pinyin": "chǎo dào ròu sī biàn sè hòu lāo chū bèi yòng",
+      "english": "3. Add oil into the pot. Heat until 80% heated with intense heat, then add the shredded pork and sauté quickly."
+    },
+    {
+      "index": 22,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "When the meat changes color, remove it from the pot."
+    },
+    {
+      "index": 23,
+      "simplified": "4.\t锅中留少量的油，调成小火，",
+      "traditional": "4.\t鍋中留少量的油，調成小火，",
+      "pinyin": "1 guō zhōng liú shǎo liàng de yóu tiáo chéng xiǎo huǒ",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "先倒入番茄酱，再倒入蚝油，最后倒入甜面酱，",
+      "traditional": "先倒入番茄醬，再倒入蠔油，最後倒入甜麵醬，",
+      "pinyin": "xiān dào rù fān qié jiàng zài dào rù háo yóu zuì hòu dào rù tián miàn jiàng",
+      "english": "4. Leave some oil in the pot and change to small heat."
+    },
+    {
+      "index": 25,
+      "simplified": "搅拌后倒入炒好的肉丝，翻炒片刻即可。",
+      "traditional": "攪拌後倒入炒好的肉絲，翻炒片刻即可。",
+      "pinyin": "jiǎo bàn hòu dào rù chǎo hǎo de ròu sī fān chǎo piàn kè jí kě",
+      "english": "Pour in the tomato sauce first, then add oyster sauce, and finally the sweet soybean sauce."
+    },
+    {
+      "index": 26,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "After mixing, add the fried shredded pork, sauté for a while, and it's finished."
+    },
+    {
+      "index": 27,
+      "simplified": "小贴士：",
+      "traditional": "小貼士：",
+      "pinyin": "xiǎo tiē shì",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Tips:"
+    },
+    {
+      "index": 29,
+      "simplified": "1.\t猪肉可以放到冰箱冷冻层冷冻半小时后再拿出来切，",
+      "traditional": "1.\t豬肉可以放到冰箱冷凍層冷凍半小時後再拿出來切，",
+      "pinyin": "1 zhū ròu kě yǐ fàng dào bīng xiāng lěng dòng céng lěng dòng bàn xiǎo shí hòu zài ná chū lái qiē",
+      "english": ""
+    },
+    {
+      "index": 30,
+      "simplified": "这样比较好切。",
+      "traditional": "這樣比較好切。",
+      "pinyin": "zhè yàng bǐ jiào hǎo qiē",
+      "english": "1. The pork can be put into the freezing compartment of the refrigerator for half an hour before shredding."
+    },
+    {
+      "index": 31,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "This way it'll be easier to cut."
+    },
+    {
+      "index": 32,
+      "simplified": "2.\t如果觉得香味不够，可以在第四步倒入肉丝后，再倒入1毫升的香油翻炒。",
+      "traditional": "2.\t如果覺得香味不夠，可以在第四步倒入肉絲後，再倒入1毫升的香油翻炒。",
+      "pinyin": "1 rú guǒ jué de xiāng wèi bú gòu kě yǐ zài dì sì bù dào rù ròu sī hòu zài dào rù 1 háo shēng de xiāng yóu fān chǎo",
+      "english": ""
+    },
+    {
+      "index": 33,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "2. If you think it's not fragrant enough, you can add 1ml sesame oil after the shredded pork in step 4 and sauté."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "小李",
+      "traditional": "小李",
+      "pinyin": "xiǎo lǐ",
+      "meaning": "Little Li (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "菜谱",
+      "traditional": "菜譜",
+      "pinyin": "cài pǔ",
+      "meaning": "menu (in restaurant)\nrecipe",
+      "hsk": null
+    },
+    {
+      "hanzi": "京",
+      "traditional": "京",
+      "pinyin": "jīng",
+      "meaning": "abbr. for Beijing",
+      "hsk": null
+    },
+    {
+      "hanzi": "酱",
+      "traditional": "醬",
+      "pinyin": "jiàng",
+      "meaning": "thick paste of fermented soybean\npaste\njam",
+      "hsk": null
+    },
+    {
+      "hanzi": "肉丝",
+      "traditional": "肉絲",
+      "pinyin": "ròu sī",
+      "meaning": "shredded meat\nshredded pork",
+      "hsk": null
+    },
+    {
+      "hanzi": "简介",
+      "traditional": "簡介",
+      "pinyin": "jiǎn jiè",
+      "meaning": "brief introduction\nsummary",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "经典",
+      "traditional": "經典",
+      "pinyin": "jīng diǎn",
+      "meaning": "classic\ntypical",
+      "hsk": 5
+    },
+    {
+      "hanzi": "之一",
+      "traditional": "之一",
+      "pinyin": "zhī yī",
+      "meaning": "one of (sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "咸",
+      "traditional": "鹹",
+      "pinyin": "xián",
+      "meaning": "salted\nsalty",
+      "hsk": 4
+    },
+    {
+      "hanzi": "甜",
+      "traditional": "甜",
+      "pinyin": "tián",
+      "meaning": "sweet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "适中",
+      "traditional": "適中",
+      "pinyin": "shì zhōng",
+      "meaning": "moderate\nreasonable",
+      "hsk": null
+    },
+    {
+      "hanzi": "风味",
+      "traditional": "風味",
+      "pinyin": "fēng wèi",
+      "meaning": "distinctive flavor\ndistinctive style",
+      "hsk": 6
+    },
+    {
+      "hanzi": "独特",
+      "traditional": "獨特",
+      "pinyin": "dú tè",
+      "meaning": "unique\ndistinct",
+      "hsk": 5
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "材料",
+      "traditional": "材料",
+      "pinyin": "cái liào",
+      "meaning": "material",
+      "hsk": 4
+    },
+    {
+      "hanzi": "猪肉",
+      "traditional": "豬肉",
+      "pinyin": "zhū ròu",
+      "meaning": "pork",
+      "hsk": null
+    },
+    {
+      "hanzi": "克",
+      "traditional": "克",
+      "pinyin": "kè",
+      "meaning": "gram",
+      "hsk": 5
+    },
+    {
+      "hanzi": "黄瓜",
+      "traditional": "黃瓜",
+      "pinyin": "huáng guā",
+      "meaning": "cucumber",
+      "hsk": null
+    },
+    {
+      "hanzi": "根",
+      "traditional": "根",
+      "pinyin": "gēn",
+      "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+      "hsk": 5
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "蛋清",
+      "traditional": "蛋清",
+      "pinyin": "dàn qīng",
+      "meaning": "(coll.) egg white",
+      "hsk": null
+    },
+    {
+      "hanzi": "料酒",
+      "traditional": "料酒",
+      "pinyin": "liào jiǔ",
+      "meaning": "cooking wine",
+      "hsk": null
+    },
+    {
+      "hanzi": "毫升",
+      "traditional": "毫升",
+      "pinyin": "háo shēng",
+      "meaning": "milliliter",
+      "hsk": null
+    },
+    {
+      "hanzi": "干",
+      "traditional": "乾",
+      "pinyin": "gān",
+      "meaning": "dry\ndried food",
+      "hsk": 4
+    },
+    {
+      "hanzi": "淀粉",
+      "traditional": "澱粉",
+      "pinyin": "diàn fěn",
+      "meaning": "starch",
+      "hsk": null
+    },
+    {
+      "hanzi": "番茄",
+      "traditional": "番茄",
+      "pinyin": "fān qié",
+      "meaning": "tomato",
+      "hsk": null
+    },
+    {
+      "hanzi": "沙司",
+      "traditional": "沙司",
+      "pinyin": "shā sī",
+      "meaning": "sauce (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "蚝油",
+      "traditional": "蠔油",
+      "pinyin": "háo yóu",
+      "meaning": "oyster sauce",
+      "hsk": null
+    },
+    {
+      "hanzi": "甜面酱",
+      "traditional": "甜麵醬",
+      "pinyin": "tián miàn jiàng",
+      "meaning": "sweet bean sauce",
+      "hsk": null
+    },
+    {
+      "hanzi": "做法",
+      "traditional": "做法",
+      "pinyin": "zuò fǎ",
+      "meaning": "method for making\nrecipe",
+      "hsk": null
+    },
+    {
+      "hanzi": "将",
+      "traditional": "將",
+      "pinyin": "jiāng",
+      "meaning": "(introduces object of main verb, used in the same way as 把)",
+      "hsk": null
+    },
+    {
+      "hanzi": "切成",
+      "traditional": "切成",
+      "pinyin": "qiē chéng",
+      "meaning": "to cut up (into pieces)\nto slice\nto carve",
+      "hsk": null
+    },
+    {
+      "hanzi": "毫米",
+      "traditional": "毫米",
+      "pinyin": "háo mǐ",
+      "meaning": "millimeter",
+      "hsk": 6
+    },
+    {
+      "hanzi": "厚",
+      "traditional": "厚",
+      "pinyin": "hòu",
+      "meaning": "thick\ndeep or profound",
+      "hsk": 4
+    },
+    {
+      "hanzi": "薄",
+      "traditional": "薄",
+      "pinyin": "báo",
+      "meaning": "thin\nweak\nlight",
+      "hsk": 5
+    },
+    {
+      "hanzi": "片",
+      "traditional": "片",
+      "pinyin": "piàn",
+      "meaning": "thin piece\nflake",
+      "hsk": 5
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "宽",
+      "traditional": "寬",
+      "pinyin": "kuān",
+      "meaning": "wide\nbroad\nlenient",
+      "hsk": 5
+    },
+    {
+      "hanzi": "细",
+      "traditional": "細",
+      "pinyin": "xì",
+      "meaning": "fine\ndelicate\nin detail",
+      "hsk": null
+    },
+    {
+      "hanzi": "丝",
+      "traditional": "絲",
+      "pinyin": "sī",
+      "meaning": "silk\nthread\ntrace",
+      "hsk": null
+    },
+    {
+      "hanzi": "切",
+      "traditional": "切",
+      "pinyin": "qiē",
+      "meaning": "to cut\nto slice",
+      "hsk": 5
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "放",
+      "traditional": "放",
+      "pinyin": "fàng",
+      "meaning": "to put\nto place",
+      "hsk": 3
+    },
+    {
+      "hanzi": "入",
+      "traditional": "入",
+      "pinyin": "rù",
+      "meaning": "to enter\nto go into\nto join",
+      "hsk": 4
+    },
+    {
+      "hanzi": "碗",
+      "traditional": "碗",
+      "pinyin": "wǎn",
+      "meaning": "bowl\ncup",
+      "hsk": 3
+    },
+    {
+      "hanzi": "倒",
+      "traditional": "倒",
+      "pinyin": "dào",
+      "meaning": "to place upside down\nto invert\nto move around",
+      "hsk": 4
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "搅拌",
+      "traditional": "攪拌",
+      "pinyin": "jiǎo bàn",
+      "meaning": "to stir\nto agitate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "均匀",
+      "traditional": "均勻",
+      "pinyin": "jūn yún",
+      "meaning": "even\nwell-distributed\nhomogeneous",
+      "hsk": 5
+    },
+    {
+      "hanzi": "腌制",
+      "traditional": "腌製",
+      "pinyin": "yān zhì",
+      "meaning": "to marinate\nto make by pickling, salting or curing",
+      "hsk": null
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "厘米",
+      "traditional": "釐米",
+      "pinyin": "lí mǐ",
+      "meaning": "centimeter",
+      "hsk": 5
+    },
+    {
+      "hanzi": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "meaning": "length\nlong",
+      "hsk": 3
+    },
+    {
+      "hanzi": "盘",
+      "traditional": "盤",
+      "pinyin": "pán",
+      "meaning": "plate\ndish\ntray",
+      "hsk": null
+    },
+    {
+      "hanzi": "摆",
+      "traditional": "擺",
+      "pinyin": "bǎi",
+      "meaning": "to arrange\nto put\nto exhibit",
+      "hsk": 5
+    },
+    {
+      "hanzi": "锅",
+      "traditional": "鍋",
+      "pinyin": "guō",
+      "meaning": "pot\npan\nwok",
+      "hsk": 5
+    },
+    {
+      "hanzi": "油",
+      "traditional": "油",
+      "pinyin": "yóu",
+      "meaning": "oil\nfat\ngrease",
+      "hsk": null
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "火",
+      "traditional": "火",
+      "pinyin": "huǒ",
+      "meaning": "fire\nheat",
+      "hsk": 4
+    },
+    {
+      "hanzi": "烧",
+      "traditional": "燒",
+      "pinyin": "shāo",
+      "meaning": "to burn",
+      "hsk": null
+    },
+    {
+      "hanzi": "至",
+      "traditional": "至",
+      "pinyin": "zhì",
+      "meaning": "to arrive\nto\nuntil",
+      "hsk": null
+    },
+    {
+      "hanzi": "成",
+      "traditional": "成",
+      "pinyin": "chéng",
+      "meaning": "one tenth",
+      "hsk": null
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "after",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快速",
+      "traditional": "快速",
+      "pinyin": "kuài sù",
+      "meaning": "fast\nhigh-speed\nrapid",
+      "hsk": null
+    },
+    {
+      "hanzi": "炒",
+      "traditional": "炒",
+      "pinyin": "chǎo",
+      "meaning": "to sauté\nto stir-fry",
+      "hsk": 5
+    },
+    {
+      "hanzi": "散",
+      "traditional": "散",
+      "pinyin": "sàn",
+      "meaning": "to scatter\nto break up\nto disperse",
+      "hsk": 6
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "until",
+      "hsk": 2
+    },
+    {
+      "hanzi": "变色",
+      "traditional": "變色",
+      "pinyin": "biàn sè",
+      "meaning": "to change color",
+      "hsk": null
+    },
+    {
+      "hanzi": "捞",
+      "traditional": "撈",
+      "pinyin": "lāo",
+      "meaning": "to fish up\nto dredge up",
+      "hsk": 6
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "to go out\nto come out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "备用",
+      "traditional": "備用",
+      "pinyin": "bèi yòng",
+      "meaning": "reserve\nspare\nalternate",
+      "hsk": null
+    },
+    {
+      "hanzi": "留",
+      "traditional": "留",
+      "pinyin": "liú",
+      "meaning": "to stay\nto remain",
+      "hsk": 4
+    },
+    {
+      "hanzi": "少量",
+      "traditional": "少量",
+      "pinyin": "shǎo liàng",
+      "meaning": "a little bit\na few",
+      "hsk": null
+    },
+    {
+      "hanzi": "调",
+      "traditional": "調",
+      "pinyin": "tiáo",
+      "meaning": "to blend\nto adjust\nto season (food)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "番茄酱",
+      "traditional": "番茄醬",
+      "pinyin": "fān qié jiàng",
+      "meaning": "ketchup\ntomato sauce",
+      "hsk": null
+    },
+    {
+      "hanzi": "最后",
+      "traditional": "最後",
+      "pinyin": "zuì hòu",
+      "meaning": "last\nfinal\nfinally",
+      "hsk": 3
+    },
+    {
+      "hanzi": "翻炒",
+      "traditional": "翻炒",
+      "pinyin": "fān chǎo",
+      "meaning": "to stir-fry",
+      "hsk": null
+    },
+    {
+      "hanzi": "片刻",
+      "traditional": "片刻",
+      "pinyin": "piàn kè",
+      "meaning": "short period of time\na moment",
+      "hsk": 6
+    },
+    {
+      "hanzi": "即可",
+      "traditional": "即可",
+      "pinyin": "jí kě",
+      "meaning": "equivalent to 就可以\n(do sth) and that will suffice",
+      "hsk": null
+    },
+    {
+      "hanzi": "贴士",
+      "traditional": "貼士",
+      "pinyin": "tiē shì",
+      "meaning": "tip (loanword)\nhint",
+      "hsk": null
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "冰箱",
+      "traditional": "冰箱",
+      "pinyin": "bīng xiāng",
+      "meaning": "refrigerator\nicebox",
+      "hsk": 3
+    },
+    {
+      "hanzi": "冷冻",
+      "traditional": "冷凍",
+      "pinyin": "lěng dòng",
+      "meaning": "to freeze\nto deep-freeze",
+      "hsk": null
+    },
+    {
+      "hanzi": "层",
+      "traditional": "層",
+      "pinyin": "céng",
+      "meaning": "layer\nclassifier for layers",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "拿出",
+      "traditional": "拿出",
+      "pinyin": "ná chū",
+      "meaning": "to take out\nto put out",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "manner\nway\nappearance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "比较",
+      "traditional": "比較",
+      "pinyin": "bǐ jiào",
+      "meaning": "comparatively\nrelatively",
+      "hsk": 3
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "香味",
+      "traditional": "香味",
+      "pinyin": "xiāng wèi",
+      "meaning": "fragrance\nsweet smell",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "够",
+      "traditional": "夠",
+      "pinyin": "gòu",
+      "meaning": "enough (sufficient)\nenough (too much)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "hsk": 1
+    },
+    {
+      "hanzi": "步",
+      "traditional": "步",
+      "pinyin": "bù",
+      "meaning": "a step\nstages in a process",
+      "hsk": null
+    },
+    {
+      "hanzi": "香油",
+      "traditional": "香油",
+      "pinyin": "xiāng yóu",
+      "meaning": "sesame oil",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "小李",
+        "pinyin": "xiǎo lǐ",
+        "meaning": "Little Li (name)",
+        "tc_hanzi": "小李"
+      },
+      {
+        "hanzi": "菜谱",
+        "pinyin": "cài pǔ",
+        "meaning": "menu (in restaurant)\nrecipe",
+        "tc_hanzi": "菜譜"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "京",
+        "pinyin": "jīng",
+        "meaning": "abbr. for Beijing",
+        "tc_hanzi": "京"
+      },
+      {
+        "hanzi": "酱",
+        "pinyin": "jiàng",
+        "meaning": "thick paste of fermented soybean\npaste\njam",
+        "tc_hanzi": "醬"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "菜谱",
+        "pinyin": "cài pǔ",
+        "meaning": "menu (in restaurant)\nrecipe",
+        "tc_hanzi": "菜譜"
+      },
+      {
+        "hanzi": "简介",
+        "pinyin": "jiǎn jiè",
+        "meaning": "brief introduction\nsummary",
+        "tc_hanzi": "簡介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "京",
+        "pinyin": "jīng",
+        "meaning": "abbr. for Beijing",
+        "tc_hanzi": "京"
+      },
+      {
+        "hanzi": "酱",
+        "pinyin": "jiàng",
+        "meaning": "thick paste of fermented soybean\npaste\njam",
+        "tc_hanzi": "醬"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "经典",
+        "pinyin": "jīng diǎn",
+        "meaning": "classic\ntypical",
+        "tc_hanzi": "經典"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "之一",
+        "pinyin": "zhī yī",
+        "meaning": "one of (sth)",
+        "tc_hanzi": "之一"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "咸",
+        "pinyin": "xián",
+        "meaning": "salted\nsalty",
+        "tc_hanzi": "鹹"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "甜",
+        "pinyin": "tián",
+        "meaning": "sweet",
+        "tc_hanzi": "甜"
+      },
+      {
+        "hanzi": "适中",
+        "pinyin": "shì zhōng",
+        "meaning": "moderate\nreasonable",
+        "tc_hanzi": "適中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "风味",
+        "pinyin": "fēng wèi",
+        "meaning": "distinctive flavor\ndistinctive style",
+        "tc_hanzi": "風味"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "独特",
+        "pinyin": "dú tè",
+        "meaning": "unique\ndistinct",
+        "tc_hanzi": "獨特"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "材料",
+        "pinyin": "cái liào",
+        "meaning": "material",
+        "tc_hanzi": "材料"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "猪肉",
+        "pinyin": "zhū ròu",
+        "meaning": "pork",
+        "tc_hanzi": "豬肉"
+      },
+      {
+        "hanzi": "300",
+        "pinyin": "2",
+        "tc_hanzi": "300"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "克",
+        "pinyin": "kè",
+        "meaning": "gram",
+        "tc_hanzi": "克"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "黄瓜",
+        "pinyin": "huáng guā",
+        "meaning": "cucumber",
+        "tc_hanzi": "黃瓜"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+        "tc_hanzi": "根"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "蛋清",
+        "pinyin": "dàn qīng",
+        "meaning": "(coll.) egg white",
+        "tc_hanzi": "蛋清"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "料酒",
+        "pinyin": "liào jiǔ",
+        "meaning": "cooking wine",
+        "tc_hanzi": "料酒"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gān",
+        "meaning": "dry\ndried food",
+        "tc_hanzi": "乾"
+      },
+      {
+        "hanzi": "淀粉",
+        "pinyin": "diàn fěn",
+        "meaning": "starch",
+        "tc_hanzi": "澱粉"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "克",
+        "pinyin": "kè",
+        "meaning": "gram",
+        "tc_hanzi": "克"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "番茄",
+        "pinyin": "fān qié",
+        "meaning": "tomato",
+        "tc_hanzi": "番茄"
+      },
+      {
+        "hanzi": "沙司",
+        "pinyin": "shā sī",
+        "meaning": "sauce (loanword)",
+        "tc_hanzi": "沙司"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "蚝油",
+        "pinyin": "háo yóu",
+        "meaning": "oyster sauce",
+        "tc_hanzi": "蠔油"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "甜面酱",
+        "pinyin": "tián miàn jiàng",
+        "meaning": "sweet bean sauce",
+        "tc_hanzi": "甜麵醬"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "做法",
+        "pinyin": "zuò fǎ",
+        "meaning": "method for making\nrecipe",
+        "tc_hanzi": "做法"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "(introduces object of main verb, used in the same way as 把)",
+        "tc_hanzi": "將"
+      },
+      {
+        "hanzi": "猪肉",
+        "pinyin": "zhū ròu",
+        "meaning": "pork",
+        "tc_hanzi": "豬肉"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "切成",
+        "pinyin": "qiē chéng",
+        "meaning": "to cut up (into pieces)\nto slice\nto carve",
+        "tc_hanzi": "切成"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "毫米",
+        "pinyin": "háo mǐ",
+        "meaning": "millimeter",
+        "tc_hanzi": "毫米"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "厚",
+        "pinyin": "hòu",
+        "meaning": "thick\ndeep or profound",
+        "tc_hanzi": "厚"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "薄",
+        "pinyin": "báo",
+        "meaning": "thin\nweak\nlight",
+        "tc_hanzi": "薄"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "meaning": "thin piece\nflake",
+        "tc_hanzi": "片"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "切成",
+        "pinyin": "qiē chéng",
+        "meaning": "to cut up (into pieces)\nto slice\nto carve",
+        "tc_hanzi": "切成"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "毫米",
+        "pinyin": "háo mǐ",
+        "meaning": "millimeter",
+        "tc_hanzi": "毫米"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "宽",
+        "pinyin": "kuān",
+        "meaning": "wide\nbroad\nlenient",
+        "tc_hanzi": "寬"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "细",
+        "pinyin": "xì",
+        "meaning": "fine\ndelicate\nin detail",
+        "tc_hanzi": "細"
+      },
+      {
+        "hanzi": "丝",
+        "pinyin": "sī",
+        "meaning": "silk\nthread\ntrace",
+        "tc_hanzi": "絲"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "(introduces object of main verb, used in the same way as 把)",
+        "tc_hanzi": "將"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "切",
+        "pinyin": "qiē",
+        "meaning": "to cut\nto slice",
+        "tc_hanzi": "切"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "猪肉",
+        "pinyin": "zhū ròu",
+        "meaning": "pork",
+        "tc_hanzi": "豬肉"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "碗",
+        "pinyin": "wǎn",
+        "meaning": "bowl\ncup",
+        "tc_hanzi": "碗"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "蛋清",
+        "pinyin": "dàn qīng",
+        "meaning": "(coll.) egg white",
+        "tc_hanzi": "蛋清"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "料酒",
+        "pinyin": "liào jiǔ",
+        "meaning": "cooking wine",
+        "tc_hanzi": "料酒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gān",
+        "meaning": "dry\ndried food",
+        "tc_hanzi": "乾"
+      },
+      {
+        "hanzi": "淀粉",
+        "pinyin": "diàn fěn",
+        "meaning": "starch",
+        "tc_hanzi": "澱粉"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "搅拌",
+        "pinyin": "jiǎo bàn",
+        "meaning": "to stir\nto agitate",
+        "tc_hanzi": "攪拌"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "均匀",
+        "pinyin": "jūn yún",
+        "meaning": "even\nwell-distributed\nhomogeneous",
+        "tc_hanzi": "均勻"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "腌制",
+        "pinyin": "yān zhì",
+        "meaning": "to marinate\nto make by pickling, salting or curing",
+        "tc_hanzi": "腌製"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "hanzi": "黄瓜",
+        "pinyin": "huáng guā",
+        "meaning": "cucumber",
+        "tc_hanzi": "黃瓜"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "切成",
+        "pinyin": "qiē chéng",
+        "meaning": "to cut up (into pieces)\nto slice\nto carve",
+        "tc_hanzi": "切成"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "1",
+        "tc_hanzi": "4"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "厘米",
+        "pinyin": "lí mǐ",
+        "meaning": "centimeter",
+        "tc_hanzi": "釐米"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "细",
+        "pinyin": "xì",
+        "meaning": "fine\ndelicate\nin detail",
+        "tc_hanzi": "細"
+      },
+      {
+        "hanzi": "丝",
+        "pinyin": "sī",
+        "meaning": "silk\nthread\ntrace",
+        "tc_hanzi": "絲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "盘",
+        "pinyin": "pán",
+        "meaning": "plate\ndish\ntray",
+        "tc_hanzi": "盤"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "摆",
+        "pinyin": "bǎi",
+        "meaning": "to arrange\nto put\nto exhibit",
+        "tc_hanzi": "擺"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "锅",
+        "pinyin": "guō",
+        "meaning": "pot\npan\nwok",
+        "tc_hanzi": "鍋"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "油",
+        "pinyin": "yóu",
+        "meaning": "oil\nfat\ngrease",
+        "tc_hanzi": "油"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "火",
+        "pinyin": "huǒ",
+        "meaning": "fire\nheat",
+        "tc_hanzi": "火"
+      },
+      {
+        "hanzi": "烧",
+        "pinyin": "shāo",
+        "meaning": "to burn",
+        "tc_hanzi": "燒"
+      },
+      {
+        "hanzi": "至",
+        "pinyin": "zhì",
+        "meaning": "to arrive\nto\nuntil",
+        "tc_hanzi": "至"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hanzi": "成",
+        "pinyin": "chéng",
+        "meaning": "one tenth",
+        "tc_hanzi": "成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "after",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "快速",
+        "pinyin": "kuài sù",
+        "meaning": "fast\nhigh-speed\nrapid",
+        "tc_hanzi": "快速"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "散",
+        "pinyin": "sàn",
+        "meaning": "to scatter\nto break up\nto disperse",
+        "tc_hanzi": "散"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "until",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hanzi": "变色",
+        "pinyin": "biàn sè",
+        "meaning": "to change color",
+        "tc_hanzi": "變色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "after",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "捞",
+        "pinyin": "lāo",
+        "meaning": "to fish up\nto dredge up",
+        "tc_hanzi": "撈"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "to go out\nto come out",
+        "tc_hanzi": "出"
+      },
+      {
+        "hanzi": "备用",
+        "pinyin": "bèi yòng",
+        "meaning": "reserve\nspare\nalternate",
+        "tc_hanzi": "備用"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "1",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "锅",
+        "pinyin": "guō",
+        "meaning": "pot\npan\nwok",
+        "tc_hanzi": "鍋"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "留",
+        "pinyin": "liú",
+        "meaning": "to stay\nto remain",
+        "tc_hanzi": "留"
+      },
+      {
+        "hanzi": "少量",
+        "pinyin": "shǎo liàng",
+        "meaning": "a little bit\na few",
+        "tc_hanzi": "少量"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "油",
+        "pinyin": "yóu",
+        "meaning": "oil\nfat\ngrease",
+        "tc_hanzi": "油"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "调",
+        "pinyin": "tiáo",
+        "meaning": "to blend\nto adjust\nto season (food)",
+        "tc_hanzi": "調"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "成",
+        "pinyin": "chéng",
+        "meaning": "to become\nto turn into",
+        "tc_hanzi": "成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "火",
+        "pinyin": "huǒ",
+        "meaning": "fire\nheat",
+        "tc_hanzi": "火"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "番茄酱",
+        "pinyin": "fān qié jiàng",
+        "meaning": "ketchup\ntomato sauce",
+        "tc_hanzi": "番茄醬"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "蚝油",
+        "pinyin": "háo yóu",
+        "meaning": "oyster sauce",
+        "tc_hanzi": "蠔油"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最后",
+        "pinyin": "zuì hòu",
+        "meaning": "last\nfinal\nfinally",
+        "tc_hanzi": "最後"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "甜面酱",
+        "pinyin": "tián miàn jiàng",
+        "meaning": "sweet bean sauce",
+        "tc_hanzi": "甜麵醬"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "搅拌",
+        "pinyin": "jiǎo bàn",
+        "meaning": "to stir\nto agitate",
+        "tc_hanzi": "攪拌"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "翻炒",
+        "pinyin": "fān chǎo",
+        "meaning": "to stir-fry",
+        "tc_hanzi": "翻炒"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "片刻",
+        "pinyin": "piàn kè",
+        "meaning": "short period of time\na moment",
+        "tc_hanzi": "片刻"
+      },
+      {
+        "hanzi": "即可",
+        "pinyin": "jí kě",
+        "meaning": "equivalent to 就可以\n(do sth) and that will suffice",
+        "tc_hanzi": "即可"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "贴士",
+        "pinyin": "tiē shì",
+        "meaning": "tip (loanword)\nhint",
+        "tc_hanzi": "貼士"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "hanzi": "猪肉",
+        "pinyin": "zhū ròu",
+        "meaning": "pork",
+        "tc_hanzi": "豬肉"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "冰箱",
+        "pinyin": "bīng xiāng",
+        "meaning": "refrigerator\nicebox",
+        "tc_hanzi": "冰箱"
+      },
+      {
+        "hanzi": "冷冻",
+        "pinyin": "lěng dòng",
+        "meaning": "to freeze\nto deep-freeze",
+        "tc_hanzi": "冷凍"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "层",
+        "pinyin": "céng",
+        "meaning": "layer\nclassifier for layers",
+        "tc_hanzi": "層"
+      },
+      {
+        "hanzi": "冷冻",
+        "pinyin": "lěng dòng",
+        "meaning": "to freeze\nto deep-freeze",
+        "tc_hanzi": "冷凍"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hanzi": "拿出",
+        "pinyin": "ná chū",
+        "meaning": "to take out\nto put out",
+        "tc_hanzi": "拿出"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "切",
+        "pinyin": "qiē",
+        "meaning": "to cut\nto slice",
+        "tc_hanzi": "切"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "manner\nway\nappearance",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比较",
+        "pinyin": "bǐ jiào",
+        "meaning": "comparatively\nrelatively",
+        "tc_hanzi": "比較"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "easy to",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "切",
+        "pinyin": "qiē",
+        "meaning": "to cut\nto slice",
+        "tc_hanzi": "切"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": ".\t",
+        "tc_hanzi": ".\t"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "香味",
+        "pinyin": "xiāng wèi",
+        "meaning": "fragrance\nsweet smell",
+        "tc_hanzi": "香味"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "够",
+        "pinyin": "gòu",
+        "meaning": "enough (sufficient)\nenough (too much)",
+        "tc_hanzi": "夠"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "四",
+        "pinyin": "sì",
+        "meaning": "four",
+        "tc_hanzi": "四"
+      },
+      {
+        "hanzi": "步",
+        "pinyin": "bù",
+        "meaning": "a step\nstages in a process",
+        "tc_hanzi": "步"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "肉丝",
+        "pinyin": "ròu sī",
+        "meaning": "shredded meat\nshredded pork",
+        "tc_hanzi": "肉絲"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "after",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "香油",
+        "pinyin": "xiāng yóu",
+        "meaning": "sesame oil",
+        "tc_hanzi": "香油"
+      },
+      {
+        "hanzi": "翻炒",
+        "pinyin": "fān chǎo",
+        "meaning": "to stir-fry",
+        "tc_hanzi": "翻炒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How about some Shredded Pork in Beijing Sauce for tonight's dinner?",
+    "syllable_times": [
+      0.453514739229025,
+      0.6830732128339118,
+      0.9977324263038548,
+      1.950113378684807,
+      2.312925170068027,
+      2.675736961451247,
+      2.90249433106576,
+      4.308390022675737,
+      4.611220296143134,
+      4.844846127544216,
+      5.124716553287982,
+      6.712018140589569,
+      6.984126984126984,
+      7.256235827664399,
+      7.508800655116476,
+      8.072562358276643,
+      8.480725623582767,
+      8.75283446712018,
+      8.992535058484748,
+      9.286660015135855,
+      9.512712383566399,
+      9.886621315192743,
+      10.15873015873016,
+      10.43083900226757,
+      10.64477330783196,
+      10.87862058551873,
+      12.01814058956916,
+      12.40194958476806,
+      12.74731721192743,
+      13.01587301587302,
+      13.28798185941043,
+      14.05566615703062,
+      14.3518727087672,
+      14.6031746031746,
+      14.92063492063492,
+      15.73696145124716,
+      16.08420271244908,
+      16.3718820861678,
+      16.68934240362812,
+      17.00680272108843,
+      17.23356009070295,
+      17.46031746031746,
+      17.76015249179473,
+      18.00453514739229,
+      18.2312925170068,
+      18.41269841269841,
+      20.22675736961451,
+      20.54421768707483,
+      21.90476190476191,
+      22.22222222222222,
+      22.63038548752834,
+      22.94784580498866,
+      23.19579349394044,
+      24.19287753988025,
+      24.53514739229025,
+      25.03401360544218,
+      25.26077097505669,
+      26.43990929705215,
+      26.75736961451247,
+      26.89342403628118,
+      27.12018140589569,
+      27.3469387755102,
+      27.57369614512472,
+      27.80045351473923,
+      29.29705215419501,
+      29.62464490301256,
+      30.06802721088435,
+      30.40300405620593,
+      30.62095149058028,
+      30.84952834666767,
+      31.97278911564626,
+      32.24489795918367,
+      32.51700680272109,
+      33.01587301587302,
+      33.24263038548753,
+      34.33106575963719,
+      34.5578231292517,
+      34.82993197278912,
+      35.10953483370928,
+      35.69160997732426,
+      36.00907029478458,
+      36.22961014672034,
+      36.46258503401361,
+      37.55102040816327,
+      37.86848072562358,
+      38.1859410430839,
+      38.54875283446712,
+      38.68726531454544,
+      38.97935296536822,
+      40.09070294784581,
+      40.40816326530612,
+      40.62914464045772,
+      41.0622935752639,
+      41.37426710254148,
+      41.63265306122449,
+      41.8140589569161,
+      43.6281179138322,
+      43.90022675736962,
+      45.12471655328798,
+      46.21315192743764,
+      46.57596371882086,
+      46.85563843366793,
+      47.12018140589569,
+      47.39229024943311,
+      47.70581501368219,
+      48.02721088435374,
+      48.29906961304096,
+      48.52607709750567,
+      48.70748299319728,
+      48.93424036281179,
+      49.18866363190771,
+      50.52154195011338,
+      50.8271550179527,
+      51.06575963718821,
+      51.42857142857143,
+      51.74603174603175,
+      51.94705317393521,
+      52.10884353741496,
+      52.38095238095238,
+      52.6530612244898,
+      52.99471555152623,
+      54.69387755102041,
+      55.05668934240363,
+      55.30688050965416,
+      55.51020408163265,
+      55.73696145124717,
+      55.96371882086168,
+      56.32653061224489,
+      56.55328798185941,
+      56.68934240362812,
+      56.96145124716553,
+      58.09523809523809,
+      58.39242447591968,
+      58.63945578231292,
+      58.91156462585034,
+      59.09297052154195,
+      59.27437641723356,
+      59.50113378684807,
+      59.63718820861678,
+      59.85100258123376,
+      60.86167800453515,
+      61.13378684807256,
+      61.36054421768708,
+      61.63265306122449,
+      61.87614063286248,
+      62.35623618023457,
+      62.63038548752834,
+      62.85714285714285,
+      63.13577139511427,
+      64.26303854875283,
+      64.53514739229026,
+      64.76190476190476,
+      65.02922571626291,
+      65.85034013605443,
+      66.25850340136054,
+      66.66666666666667,
+      67.02947845804988,
+      67.2562358276644,
+      69.29705215419501,
+      70.43083900226758,
+      70.70294784580499,
+      71.06575963718821,
+      71.33683288754852,
+      71.74416118544346,
+      72.04342369592253,
+      72.20273215384664,
+      72.40584268707988,
+      72.65306122448979,
+      72.87981859410431,
+      73.16575776104762,
+      74.19501133786848,
+      74.421768707483,
+      74.57823074968141,
+      74.87528344671202,
+      75.19274376417233,
+      75.51020408163265,
+      77.14285714285714,
+      78.36734693877551,
+      78.63945578231292,
+      78.95691609977324,
+      79.18367346938776,
+      79.41043083900227,
+      80.22675736961452,
+      80.49886621315193,
+      80.69127593974741,
+      80.9619718793727,
+      81.40589569160997,
+      81.68393105997347,
+      81.96587647091172,
+      82.17687074829932,
+      82.99319727891157,
+      83.26530612244898,
+      83.71882086167801,
+      84.01195157215668,
+      84.94331065759637,
+      85.25918134240993,
+      85.53776076980571,
+      85.80345202337445,
+      86.75736961451247,
+      86.98412698412699,
+      87.21088435374149,
+      87.43764172335601,
+      87.89115646258503,
+      88.20861678004535,
+      88.43537414965986,
+      89.1156462585034,
+      89.45142526603094,
+      89.70521541950113,
+      89.93197278911565,
+      91.54010607008941,
+      92.78911564625851,
+      93.08689092564828,
+      93.46938775510205,
+      93.82337698259018,
+      94.05895691609977,
+      94.28487104196446,
+      94.46712018140589,
+      95.23809523809524,
+      95.56088882935717,
+      95.82766439909297,
+      96.19047619047619,
+      97.32426303854875,
+      97.64172335600907,
+      97.91383219954649,
+      98.2766439909297,
+      98.45804988662131,
+      98.72872223538442,
+      99.9092970521542,
+      100.1360544217687,
+      100.4081632653061,
+      100.8616780045352,
+      101.1791383219955,
+      102.312925170068,
+      102.5850340136054,
+      102.81179138322,
+      103.0385487528345,
+      103.313652284886,
+      103.5954205387958,
+      103.8629719411643,
+      105.0340136054422,
+      105.3061224489796,
+      105.578231292517,
+      106.1224489795918,
+      106.4399092970522,
+      106.8027210884354,
+      107.1201814058957,
+      107.3015873015873,
+      107.5283446712018,
+      107.7682657677905,
+      108.6621315192744,
+      108.8888888888889,
+      109.2063492063492,
+      109.5178425899832,
+      109.8412698412698,
+      110.0680272108844,
+      112.0634920634921,
+      112.330298996738,
+      112.562358276644,
+      113.6054421768708,
+      115.0566893424036,
+      115.328798185941,
+      115.6009070294785,
+      115.8702507412357,
+      116.0544217687075,
+      116.281179138322,
+      116.5532879818594,
+      116.8280059268373,
+      117.1428571428571,
+      117.4603174603175,
+      117.6867746227363,
+      118.3673469387755,
+      118.6394557823129,
+      118.9115646258503,
+      119.1836734693878,
+      119.4016546591059,
+      119.6371882086168,
+      120.0453514739229,
+      120.2521174483054,
+      120.453514739229,
+      120.6170609271196,
+      120.8163265306122,
+      121.9954648526077,
+      122.2675736961451,
+      122.5850340136054,
+      122.766439909297,
+      122.9931972789116,
+      123.1746031746032,
+      125.124716553288,
+      126.1678004535147,
+      126.3945578231292,
+      126.5759637188209,
+      126.8480725623583,
+      127.1201814058957,
+      127.3922902494331,
+      127.6190476190476,
+      127.8458049886621,
+      128.7981859410431,
+      129.0860083877231,
+      129.2517006802721,
+      129.5691609977324,
+      129.7753626118157,
+      130.0680272108844,
+      130.5215419501134,
+      130.7987101872381,
+      131.2018140589569,
+      131.479834672758,
+      131.7460317460317,
+      132.7437641723356,
+      132.9705215419501,
+      133.1972789115646,
+      133.5600907029478,
+      133.7868480725623,
+      134.0136054421769,
+      134.1950113378685,
+      134.4671201814059,
+      134.7845804988662,
+      135.2376452731158,
+      135.4595787406326,
+      136.0112244897959,
+      136.0112244897959
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      11,
+      12,
+      24,
+      42,
+      44,
+      46,
+      47,
+      70,
+      83,
+      85,
+      87,
+      88,
+      109,
+      127,
+      142,
+      143,
+      161,
+      162,
+      187,
+      197,
+      198,
+      212,
+      227,
+      240,
+      242,
+      245,
+      246,
+      264,
+      270,
+      271,
+      298
+    ],
+    "sentence_translations": [
+      "Little Li’s Recipe: Shredded Pork in Beijing Sauce",
+      "",
+      "Recipe summary:",
+      "",
+      "Shredded Pork in Beijing Sauce is one of the classic Beijing dishes.",
+      "It is moderately salty and sweet, and has a unique taste. It is favored by many Chinese people.",
+      "",
+      "Ingredients:",
+      "",
+      "300g pork, 1 cucumber, egg white of half an egg, 30ml cooking wine, 5g dry starch, ..",
+      ".. 30ml tomato sauce, 15ml oyster sauce, 30ml sweet soybean sauce.",
+      "",
+      "Cooking instructions:",
+      "",
+      "1. Cut the pork into 3mm thick slices, and then slice these into 3mm wide fine threads.",
+      "Put the shredded pork into a bowl, and add the egg white of half an egg.",
+      "Then pour in cooking wine and dry starch. Mix evenly and marinate for 10 minutes.",
+      "",
+      "2. Cut the cucumber into 4cm long slices, and arrange them neatly on a plate.",
+      "",
+      "3. Add oil into the pot. Heat until 80% heated with intense heat, then add the shredded pork and sauté quickly.",
+      "When the meat changes color, remove it from the pot.",
+      "",
+      "4. Leave some oil in the pot and change to small heat.",
+      "Pour in the tomato sauce first, then add oyster sauce, and finally the sweet soybean sauce.",
+      "After mixing, add the fried shredded pork, sauté for a while, and it's finished.",
+      "",
+      "Tips:",
+      "",
+      "1. The pork can be put into the freezing compartment of the refrigerator for half an hour before shredding.",
+      "This way it'll be easier to cut.",
+      "",
+      "2. If you think it's not fragrant enough, you can add 1ml sesame oil after the shredded pork in step 4 and sauté.",
+      ""
+    ]
+  }
+}

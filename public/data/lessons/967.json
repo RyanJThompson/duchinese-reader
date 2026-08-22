@@ -1,0 +1,816 @@
+{
+  "id": "967",
+  "title": "Who are they?",
+  "level": "newbie",
+  "date": "2020-03-11",
+  "synopsis": "Li notices a picture on Anne’s phone and asks her who is in it.",
+  "audioUrl": "https://static.duchinese.net/documents/967/4b13457db2941cb5198616a46f6c27188465ad82.mp3?1591186096",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 10,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "他们是谁？\n\nLi：他们是谁？\nAnne：他们是我的爸爸和妈妈。\nLi：他们是美国人吗？\nAnne：我的爸爸是美国人，我的妈妈是中国人。\nLi：他是谁？\nAnne：他是我的哥哥。\nLi：他是学生吗？\nAnne：不是，他是老师。",
+    "traditional": "他們是誰？\n\nLi：他們是誰？\nAnne：他們是我的爸爸和媽媽。\nLi：他們是美國人嗎？\nAnne：我的爸爸是美國人，我的媽媽是中國人。\nLi：他是誰？\nAnne：他是我的哥哥。\nLi：他是學生嗎？\nAnne：不是，他是老師。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Who are they?"
+    },
+    {
+      "index": 2,
+      "simplified": "Li：他们是谁？",
+      "traditional": "Li：他們是誰？",
+      "pinyin": "tā men shì shuí",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Who are they?"
+    },
+    {
+      "index": 4,
+      "simplified": "Anne：他们是我的爸爸和妈妈。",
+      "traditional": "Anne：他們是我的爸爸和媽媽。",
+      "pinyin": "tā men shì wǒ de bà ba hé mā ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: They are my dad and my mom."
+    },
+    {
+      "index": 6,
+      "simplified": "Li：他们是美国人吗？",
+      "traditional": "Li：他們是美國人嗎？",
+      "pinyin": "tā men shì měi guó rén ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Are they American?"
+    },
+    {
+      "index": 8,
+      "simplified": "Anne：我的爸爸是美国人，我的妈妈是中国人。",
+      "traditional": "Anne：我的爸爸是美國人，我的媽媽是中國人。",
+      "pinyin": "wǒ de bà ba shì měi guó rén wǒ de mā ma shì zhōng guó rén",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: My dad is American. My mom is Chinese."
+    },
+    {
+      "index": 10,
+      "simplified": "Li：他是谁？",
+      "traditional": "Li：他是誰？",
+      "pinyin": "tā shì shuí",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Who is he?"
+    },
+    {
+      "index": 12,
+      "simplified": "Anne：他是我的哥哥。",
+      "traditional": "Anne：他是我的哥哥。",
+      "pinyin": "tā shì wǒ de gē ge",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: He’s my big brother."
+    },
+    {
+      "index": 14,
+      "simplified": "Li：他是学生吗？",
+      "traditional": "Li：他是學生嗎？",
+      "pinyin": "tā shì xué sheng ma",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Is he a student?"
+    },
+    {
+      "index": 16,
+      "simplified": "Anne：不是，他是老师。",
+      "traditional": "Anne：不是，他是老師。",
+      "pinyin": "bú shì tā shì lǎo shī",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Anne: No, he’s a teacher."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shuí",
+      "meaning": "who\nalso pr. shéi",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gē ge",
+      "meaning": "elder brother",
+      "hsk": 2
+    },
+    {
+      "hanzi": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "meaning": "student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shuí",
+        "meaning": "who\nalso pr. shéi",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shuí",
+        "meaning": "who\nalso pr. shéi",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shuí",
+        "meaning": "who\nalso pr. shéi",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "哥哥",
+        "pinyin": "gē ge",
+        "meaning": "elder brother",
+        "tc_hanzi": "哥哥"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Li notices a picture on Anne’s phone and asks her who is in it.",
+    "syllable_times": [
+      0.35,
+      0.8786848072562358,
+      1.1564625850340136,
+      3.58,
+      3.8605442176870746,
+      4.041950113378685,
+      4.25,
+      6.51,
+      6.875,
+      7.29,
+      7.670068027210884,
+      7.90249433106576,
+      8.36,
+      8.71,
+      9.09,
+      9.461451247165533,
+      9.744897959183673,
+      11.97,
+      12.245000000000001,
+      12.551020408163264,
+      12.78344671201814,
+      13.10657596371882,
+      13.339002267573695,
+      13.554421768707483,
+      15.86,
+      16.18480725623583,
+      16.44,
+      16.85,
+      17.31,
+      17.94,
+      18.296666666666667,
+      18.599773242630384,
+      19.62,
+      19.88095238095238,
+      20.056689342403626,
+      20.425,
+      20.87,
+      21.52,
+      21.910430839002267,
+      22.166666666666664,
+      24.09,
+      24.45578231292517,
+      24.65986394557823,
+      26.47,
+      26.81,
+      27.4,
+      27.715419501133788,
+      27.87,
+      28.219954648526077,
+      30.06,
+      30.38548752834467,
+      30.63,
+      30.99206349206349,
+      31.286848072562357,
+      33.15,
+      33.435374149659864,
+      34.36,
+      34.7,
+      35.24,
+      35.6,
+      36.26771
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      11,
+      12,
+      21,
+      22,
+      29,
+      30,
+      45,
+      46,
+      51,
+      52,
+      59,
+      60,
+      66,
+      67,
+      75
+    ],
+    "sentence_translations": [
+      "Who are they?",
+      "",
+      "Li: Who are they?",
+      "",
+      "Anne: They are my dad and my mom.",
+      "",
+      "Li: Are they American?",
+      "",
+      "Anne: My dad is American. My mom is Chinese.",
+      "",
+      "Li: Who is he?",
+      "",
+      "Anne: He’s my big brother.",
+      "",
+      "Li: Is he a student?",
+      "",
+      "Anne: No, he’s a teacher.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "id": "005",
+  "title": "Diary",
+  "level": "elementary",
+  "date": "2015-11-13",
+  "synopsis": "Do you write a diary? Writing a diary in a language you’re studying can be an effective way of learning. Here’s an example of how you can write a simple summary of your day.",
+  "audioUrl": "https://static.duchinese.net/documents/5/b2338551da81414183227df7e4f9debe448495a7.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "日记\n\n2015年2月7日 星期六\n    今天下雨了，很冷。我们一家人在家休息，吃着水果，喝着茶，看着电视。度过了很舒服，很安静的一天。",
+    "traditional": "日記\n\n2015年2月7日 星期六\n    今天下雨了，很冷。我們一家人在家休息，吃著水果，喝著茶，看著電視。度過了很舒服，很安靜的一天。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Diary"
+    },
+    {
+      "index": 2,
+      "simplified": "2015年2月7日 星期六",
+      "traditional": "2015年2月7日 星期六",
+      "pinyin": "èr líng yī wǔ nián èr yuè qī rì xīng qī liù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "2015-02-07 Saturday"
+    },
+    {
+      "index": 4,
+      "simplified": "今天下雨了，很冷。",
+      "traditional": "今天下雨了，很冷。",
+      "pinyin": "jīn tiān xià yǔ le hěn lěng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "我们一家人在家休息，吃着水果，喝着茶，看着电视。",
+      "traditional": "我們一家人在家休息，吃著水果，喝著茶，看著電視。",
+      "pinyin": "wǒ men yì jiā rén zài jiā xiū xi chī zhe shuǐ guǒ hē zhe chá kàn zhe diàn shì",
+      "english": "It was raining today, and was very cold."
+    },
+    {
+      "index": 6,
+      "simplified": "度过了很舒服，很安静的一天。",
+      "traditional": "度過了很舒服，很安靜的一天。",
+      "pinyin": "dù guò le hěn shū fu hěn ān jìng de yì tiān",
+      "english": "The whole family stayed at home relaxing, eating fruits, drinking tea and watching TV."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "星期六",
+      "traditional": "星期六",
+      "pinyin": "xīng qī liù",
+      "meaning": "Saturday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一家人",
+      "traditional": "一家人",
+      "pinyin": "yì jiā rén",
+      "meaning": "household\nthe whole family",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "meaning": "rest\nto rest",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "meaning": "tea\ntea plant",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电视",
+      "traditional": "電視",
+      "pinyin": "diàn shì",
+      "meaning": "television\nTV",
+      "hsk": 1
+    },
+    {
+      "hanzi": "度过",
+      "traditional": "度過",
+      "pinyin": "dù guò",
+      "meaning": "to pass\nto spend (time)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "舒服",
+      "traditional": "舒服",
+      "pinyin": "shū fu",
+      "meaning": "comfortable\nfeeling well",
+      "hsk": 3
+    },
+    {
+      "hanzi": "安静",
+      "traditional": "安靜",
+      "pinyin": "ān jìng",
+      "meaning": "quiet\ncalm\npeaceful",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "\n\n",
+        "tc_hanzi": "\n\n"
+      },
+      {
+        "hanzi": "2015",
+        "pinyin": "èr líng yī wǔ",
+        "tc_hanzi": "2015"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "qī",
+        "tc_hanzi": "7"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期六",
+        "pinyin": "xīng qī liù",
+        "meaning": "Saturday",
+        "tc_hanzi": "星期六"
+      },
+      {
+        "hanzi": "\n    ",
+        "tc_hanzi": "\n    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hanzi": "一家人",
+        "pinyin": "yì jiā rén",
+        "meaning": "household\nthe whole family",
+        "tc_hanzi": "一家人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "休息",
+        "pinyin": "xiū xi",
+        "meaning": "rest\nto rest",
+        "tc_hanzi": "休息"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea\ntea plant",
+        "tc_hanzi": "茶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电视",
+        "pinyin": "diàn shì",
+        "meaning": "television\nTV",
+        "tc_hanzi": "電視"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "度过",
+        "pinyin": "dù guò",
+        "meaning": "to pass\nto spend (time)",
+        "tc_hanzi": "度過"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "舒服",
+        "pinyin": "shū fu",
+        "meaning": "comfortable\nfeeling well",
+        "tc_hanzi": "舒服"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "安静",
+        "pinyin": "ān jìng",
+        "meaning": "quiet\ncalm\npeaceful",
+        "tc_hanzi": "安靜"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Do you write a diary? Writing a diary in a language you’re studying can be an effective way of learning. Here’s an example of how you can write a simple summary of your day.",
+    "syllable_times": [
+      0.3632416971444991,
+      1.859410430839002,
+      2.17687074829932,
+      2.494331065759637,
+      2.857142857142857,
+      3.129251700680272,
+      3.673469387755102,
+      4.036281179138322,
+      4.399092970521542,
+      4.852607709750567,
+      5.442176870748299,
+      5.804988662131519,
+      6.167800453514739,
+      8.503119611229115,
+      8.866405654814484,
+      9.297052154195011,
+      9.717857319467685,
+      9.977324263038549,
+      11.06575963718821,
+      11.29251700680272,
+      13.15192743764172,
+      13.46938775510204,
+      13.83219954648526,
+      14.10430839002268,
+      14.4671201814059,
+      14.87528344671202,
+      15.23809523809524,
+      15.51020408163265,
+      15.91836734693878,
+      17.91383219954648,
+      18.32199546485261,
+      18.68480725623583,
+      19.00226757369614,
+      19.90929705215419,
+      20.22675736961451,
+      20.45351473922902,
+      21.71764944664682,
+      22.13151927437642,
+      22.35827664399093,
+      22.63038548752834,
+      24.44444444444444,
+      24.76190476190476,
+      25.03401360544218,
+      25.3968253968254,
+      25.66893424036281,
+      26.12244897959184,
+      26.93877551020408,
+      27.3015873015873,
+      27.61904761904762,
+      27.89115646258503,
+      28.29931972789116,
+      28.58602620818266,
+      29.19909297052154,
+      29.19911575317383
+    ],
+    "sentence_indices": [
+      1,
+      2,
+      10,
+      11,
+      18,
+      36
+    ],
+    "sentence_translations": [
+      "Diary",
+      "",
+      "2015-02-07 Saturday",
+      "",
+      "It was raining today, and was very cold.",
+      "The whole family stayed at home relaxing, eating fruits, drinking tea and watching TV.",
+      "We spent the day in a very comfortable and peaceful manner."
+    ]
+  }
+}

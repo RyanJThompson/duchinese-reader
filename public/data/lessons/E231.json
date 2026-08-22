@@ -1,0 +1,984 @@
+{
+  "id": "E231",
+  "title": "Have a Guess",
+  "level": "elementary",
+  "date": "2018-06-23",
+  "synopsis": "Wang Ping asks her colleague to guess how old she is.",
+  "audioUrl": "https://static.duchinese.net/documents/768/8d835b570c5691a5ab30524b283c1ae69d2a7fd5.mp3?1529323579",
+  "series": null,
+  "fullText": {
+    "simplified": "你猜\n\n同事：你今年多大了？\n王萍：你猜。\n同事：26？\n王萍：不对。\n同事：猜大了还是小了？\n王萍：小了。再猜猜。\n同事：28？\n王萍：还是小了。我已经35岁了。\n同事：真的吗？你看起来很年轻啊！\n王萍：哈哈，谢谢你的夸奖。",
+    "traditional": "你猜\n\n同事：你今年多大了？\n王萍：你猜。\n同事：26？\n王萍：不對。\n同事：猜大了還是小了？\n王萍：小了。再猜猜。\n同事：28？\n王萍：還是小了。我已經35歲了。\n同事：真的嗎？你看起來很年輕啊！\n王萍：哈哈，謝謝你的誇獎。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Have a Guess"
+    },
+    {
+      "index": 2,
+      "simplified": "同事：你今年多大了？",
+      "traditional": "同事：你今年多大了？",
+      "pinyin": "tóng shì nǐ jīn nián duō dà le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Colleague: How old are you this year?"
+    },
+    {
+      "index": 4,
+      "simplified": "王萍：你猜。",
+      "traditional": "王萍：你猜。",
+      "pinyin": "wáng píng nǐ cāi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: Guess."
+    },
+    {
+      "index": 6,
+      "simplified": "同事：26？",
+      "traditional": "同事：26？",
+      "pinyin": "tóng shì 3",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Colleague: 26?"
+    },
+    {
+      "index": 8,
+      "simplified": "王萍：不对。",
+      "traditional": "王萍：不對。",
+      "pinyin": "wáng píng bú duì",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: Wrong."
+    },
+    {
+      "index": 10,
+      "simplified": "同事：猜大了还是小了？",
+      "traditional": "同事：猜大了還是小了？",
+      "pinyin": "tóng shì cāi dà le hái shi xiǎo le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Colleague: Did I guess too high or too low?"
+    },
+    {
+      "index": 12,
+      "simplified": "王萍：小了。再猜猜。",
+      "traditional": "王萍：小了。再猜猜。",
+      "pinyin": "wáng píng xiǎo le zài cāi cāi",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: Too low. Guess again."
+    },
+    {
+      "index": 14,
+      "simplified": "同事：28？",
+      "traditional": "同事：28？",
+      "pinyin": "tóng shì 3",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Colleague: 28?"
+    },
+    {
+      "index": 16,
+      "simplified": "王萍：还是小了。我已经35岁了。",
+      "traditional": "王萍：還是小了。我已經35歲了。",
+      "pinyin": "wáng píng hái shi xiǎo le wǒ yǐ jīng 3 suì le",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: Still too low. I’m 35 years old."
+    },
+    {
+      "index": 18,
+      "simplified": "同事：真的吗？你看起来很年轻啊！",
+      "traditional": "同事：真的嗎？你看起來很年輕啊！",
+      "pinyin": "tóng shì zhēn de ma nǐ kàn qǐ lái hěn nián qīng a",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Colleague: Really? You look very young!"
+    },
+    {
+      "index": 20,
+      "simplified": "王萍：哈哈，谢谢你的夸奖。",
+      "traditional": "王萍：哈哈，謝謝你的誇獎。",
+      "pinyin": "wáng píng hā hā xiè xie nǐ de kuā jiǎng",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Wang Ping: Haha, thank you for your praise."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猜",
+      "traditional": "猜",
+      "pinyin": "cāi",
+      "meaning": "to guess",
+      "hsk": 4
+    },
+    {
+      "hanzi": "同事",
+      "traditional": "同事",
+      "pinyin": "tóng shì",
+      "meaning": "colleague\ncoworker",
+      "hsk": 3
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "how (to what extent)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "王萍",
+      "traditional": "王萍",
+      "pinyin": "wáng píng",
+      "meaning": "Wang Ping (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不对",
+      "traditional": "不對",
+      "pinyin": "bú duì",
+      "meaning": "incorrect\nwrong",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看起来",
+      "traditional": "看起來",
+      "pinyin": "kàn qǐ lái",
+      "meaning": "seemingly\napparently\nlooks as if",
+      "hsk": 3
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年轻",
+      "traditional": "年輕",
+      "pinyin": "nián qīng",
+      "meaning": "young",
+      "hsk": 3
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "哈哈",
+      "traditional": "哈哈",
+      "pinyin": "hā hā",
+      "meaning": "(onom.) laughing out loud",
+      "hsk": null
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "夸奖",
+      "traditional": "誇獎",
+      "pinyin": "kuā jiǎng",
+      "meaning": "to praise\nto applaud\nto compliment",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "g": "duo",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王萍",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王萍"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "26",
+        "pinyin": "3",
+        "tc_hanzi": "26"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王萍",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王萍"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不对",
+        "pinyin": "bú duì",
+        "meaning": "incorrect\nwrong",
+        "tc_hanzi": "不對"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王萍",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王萍"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "28",
+        "pinyin": "3",
+        "tc_hanzi": "28"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王萍",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王萍"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hanzi": "35",
+        "pinyin": "3",
+        "tc_hanzi": "35"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "看起来",
+        "pinyin": "kàn qǐ lái",
+        "meaning": "seemingly\napparently\nlooks as if",
+        "tc_hanzi": "看起來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "年轻",
+        "pinyin": "nián qīng",
+        "meaning": "young",
+        "tc_hanzi": "年輕"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王萍",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王萍"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "夸奖",
+        "pinyin": "kuā jiǎng",
+        "meaning": "to praise\nto applaud\nto compliment",
+        "tc_hanzi": "誇獎"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Wang Ping asks her colleague to guess how old she is.",
+    "syllable_times": [
+      0.4988662131519274,
+      3.5994356756381105,
+      3.5994356756381105,
+      3.5994356756381105,
+      4.217687074829932,
+      4.564107292237576,
+      5.079365079365079,
+      5.487528344671202,
+      5.850340136054422,
+      7.791136192800069,
+      7.791136192800069,
+      7.791136192800069,
+      8.072562358276643,
+      10.001774142883468,
+      10.001774142883468,
+      10.001774142883468,
+      10.34013605442177,
+      10.657596371882086,
+      12.563534971119074,
+      12.563534971119074,
+      12.563534971119074,
+      12.879818594104309,
+      14.908662788780983,
+      14.908662788780983,
+      14.908662788780983,
+      15.328798185941043,
+      15.736961451247165,
+      16.3265306122449,
+      16.598639455782312,
+      17.142857142857142,
+      17.596371882086167,
+      19.777599047703784,
+      19.777599047703784,
+      19.777599047703784,
+      20.317460317460316,
+      21.768707482993197,
+      22.145825292753333,
+      22.529364092888088,
+      24.43159960629461,
+      24.43159960629461,
+      24.43159960629461,
+      24.671201814058957,
+      25.034013605442176,
+      27.09158229358365,
+      27.09158229358365,
+      27.09158229358365,
+      27.528344671201815,
+      27.84580498866213,
+      28.299319727891156,
+      29.614512471655328,
+      30.0265687786892,
+      30.249433106575964,
+      31.065759637188208,
+      31.47392290249433,
+      31.884156283025874,
+      32.15419501133787,
+      32.6530612244898,
+      34.67439108793274,
+      34.67439108793274,
+      34.67439108793274,
+      34.965986394557824,
+      35.192743764172334,
+      36.281179138321995,
+      36.68934240362812,
+      37.05215419501134,
+      37.32426303854875,
+      37.65479318098573,
+      37.948770201022036,
+      38.2312925170068,
+      38.59410430839002,
+      40.75495072345385,
+      40.75495072345385,
+      40.75495072345385,
+      40.9996289001422,
+      42.131519274376416,
+      42.539143633515984,
+      42.993197278911566,
+      43.21995464852608,
+      43.53741496598639,
+      43.85487528344671,
+      44.40419501133787,
+      44.40419501133787
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      12,
+      13,
+      18,
+      19,
+      23,
+      24,
+      28,
+      29,
+      38,
+      39,
+      48,
+      49,
+      53,
+      54,
+      66,
+      67,
+      78,
+      79,
+      88
+    ],
+    "sentence_translations": [
+      "Have a Guess",
+      "",
+      "Colleague: How old are you this year?",
+      "",
+      "Wang Ping: Guess.",
+      "",
+      "Colleague: 26?",
+      "",
+      "Wang Ping: Wrong.",
+      "",
+      "Colleague: Did I guess too high or too low?",
+      "",
+      "Wang Ping: Too low. Guess again.",
+      "",
+      "Colleague: 28?",
+      "",
+      "Wang Ping: Still too low. I’m 35 years old.",
+      "",
+      "Colleague: Really? You look very young!",
+      "",
+      "Wang Ping: Haha, thank you for your praise.",
+      ""
+    ]
+  }
+}

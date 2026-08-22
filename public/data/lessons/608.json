@@ -1,0 +1,823 @@
+{
+  "id": "608",
+  "title": "I’ll Bring Something To Eat",
+  "level": "newbie",
+  "date": "2018-10-25",
+  "synopsis": "Lucy and Ben plan a trip to the beach.",
+  "audioUrl": "https://static.duchinese.net/documents/876/754433fbbb7d83cf0db620ad4804064f6f2fcadb.mp3?1698350555",
+  "series": null,
+  "fullText": {
+    "simplified": "我带点吃的去\n\n露西：下周日我们去海边玩，我带点吃的去。\n本：那我呢？\n露西：你带水和水果，怎么样？\n本：好的。\n露西：啊，水太重了，我们到那再买吧。\n本：好的。",
+    "traditional": "我帶點吃的去\n\n露西：下週日我們去海邊玩，我帶點吃的去。\n本：那我呢？\n露西：你帶水和水果，怎麼樣？\n本：好的。\n露西：啊，水太重了，我們到那再買吧。\n本：好的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I’ll Bring Something To Eat"
+    },
+    {
+      "index": 2,
+      "simplified": "露西：下周日我们去海边玩，我带点吃的去。",
+      "traditional": "露西：下週日我們去海邊玩，我帶點吃的去。",
+      "pinyin": "lù xī xià zhōu rì wǒ men qù hǎi biān wán wǒ dài diǎn chī de qù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: Next Sunday we’re going to the beach to play. I’ll bring something to eat."
+    },
+    {
+      "index": 4,
+      "simplified": "本：那我呢？",
+      "traditional": "本：那我呢？",
+      "pinyin": "běn nà wǒ ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What should I do?"
+    },
+    {
+      "index": 6,
+      "simplified": "露西：你带水和水果，怎么样？",
+      "traditional": "露西：你帶水和水果，怎麼樣？",
+      "pinyin": "lù xī nǐ dài shuǐ hé shuǐ guǒ zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: You can bring water and fruits. What do you think?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：好的。",
+      "traditional": "本：好的。",
+      "pinyin": "běn hǎo de",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Alright."
+    },
+    {
+      "index": 10,
+      "simplified": "露西：啊，水太重了，我们到那再买吧。",
+      "traditional": "露西：啊，水太重了，我們到那再買吧。",
+      "pinyin": "lù xī a shuǐ tài zhòng le wǒ men dào nà zài mǎi ba",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: Ah, water is too heavy. Let’s buy it once we get there."
+    },
+    {
+      "index": 12,
+      "simplified": "本：好的。",
+      "traditional": "本：好的。",
+      "pinyin": "běn hǎo de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Ok."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "a bit\na little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "露西",
+      "traditional": "露西",
+      "pinyin": "lù xī",
+      "meaning": "Lucy (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "周日",
+      "traditional": "週日",
+      "pinyin": "zhōu rì",
+      "meaning": "Sunday",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "海边",
+      "traditional": "海邊",
+      "pinyin": "hǎi biān",
+      "meaning": "seaside\ncoast\nbeach",
+      "hsk": null
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "重",
+      "traditional": "重",
+      "pinyin": "zhòng",
+      "meaning": "serious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "a bit\na little\nsome",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "周日",
+        "pinyin": "zhōu rì",
+        "meaning": "Sunday",
+        "tc_hanzi": "週日"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "海边",
+        "pinyin": "hǎi biān",
+        "meaning": "seaside\ncoast\nbeach",
+        "tc_hanzi": "海邊"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "a bit\na little\nsome",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "重",
+        "pinyin": "zhòng",
+        "meaning": "serious",
+        "tc_hanzi": "重"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "there",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lucy and Ben plan a trip to the beach.",
+    "syllable_times": [
+      0.98,
+      1.349206349206349,
+      1.7857142857142856,
+      2.375283446712018,
+      2.5963718820861676,
+      4.55,
+      4.55,
+      4.55,
+      5.051020408163265,
+      5.385487528344671,
+      6.14,
+      6.55328798185941,
+      7.06,
+      7.71,
+      8.117913832199546,
+      8.44671201814059,
+      9.57,
+      10.107709750566894,
+      10.442176870748298,
+      10.98,
+      11.405895691609977,
+      11.649659863945578,
+      13.514739229024944,
+      13.514739229024944,
+      13.911564625850339,
+      14.467120181405896,
+      16.33,
+      16.33,
+      16.33,
+      16.763038548752835,
+      17.267573696145124,
+      18.07,
+      18.401360544217688,
+      18.900226757369612,
+      19.78,
+      19.982993197278912,
+      20.170068027210885,
+      21.36,
+      21.36,
+      21.83673469387755,
+      23.71,
+      23.71,
+      23.71,
+      24.767573696145124,
+      25.640589569160998,
+      26.037414965986393,
+      26.41156462585034,
+      27.3,
+      27.66439909297052,
+      28.22,
+      28.50907029478458,
+      29.04,
+      29.325396825396826,
+      29.727891156462583,
+      30.67,
+      30.67,
+      31.19614512471655,
+      32.2
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      24,
+      25,
+      31,
+      32,
+      42,
+      43,
+      47,
+      48,
+      64,
+      65,
+      69
+    ],
+    "sentence_translations": [
+      "I’ll Bring Something To Eat",
+      "",
+      "Lucy: Next Sunday we’re going to the beach to play. I’ll bring something to eat.",
+      "",
+      "Ben: What should I do?",
+      "",
+      "Lucy: You can bring water and fruits. What do you think?",
+      "",
+      "Ben: Alright.",
+      "",
+      "Lucy: Ah, water is too heavy. Let’s buy it once we get there.",
+      "",
+      "Ben: Ok.",
+      ""
+    ]
+  }
+}

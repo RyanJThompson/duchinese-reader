@@ -1,0 +1,702 @@
+{
+  "id": "E383",
+  "title": "Finish Your Homework First",
+  "level": "newbie",
+  "date": "2019-12-12",
+  "synopsis": "Little Ming wants to go out and buy a pen, but his mom doesn’t let him.",
+  "audioUrl": "https://static.duchinese.net/documents/50383/a1ec3ab05db5849a4f23dbde223e1645a0254bb7.mp3?1575901966",
+  "series": null,
+  "fullText": {
+    "simplified": "先做作业\n\n小明：妈妈，我想看电视。\n妈妈：先做作业再看。\n小明：妈妈，我要出去买支笔。\n妈妈：先做作业再去买。\n小明：可是，我要先买笔才能做作业啊……\n",
+    "traditional": "先做作業\n\n小明：媽媽，我想看電視。\n媽媽：先做作業再看。\n小明：媽媽，我要出去買支筆。\n媽媽：先做作業再去買。\n小明：可是，我要先買筆才能做作業啊……\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Finish Your Homework First"
+    },
+    {
+      "index": 2,
+      "simplified": "小明：妈妈，我想看电视。",
+      "traditional": "小明：媽媽，我想看電視。",
+      "pinyin": "xiǎo míng mā ma wǒ xiǎng kàn diàn shì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Mom, I want to watch TV."
+    },
+    {
+      "index": 4,
+      "simplified": "妈妈：先做作业再看。",
+      "traditional": "媽媽：先做作業再看。",
+      "pinyin": "mā ma xiān zuò zuò yè zài kàn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Finish your homework first and then watch TV."
+    },
+    {
+      "index": 6,
+      "simplified": "小明：妈妈，我要出去买支笔。",
+      "traditional": "小明：媽媽，我要出去買支筆。",
+      "pinyin": "xiǎo míng mā ma wǒ yào chū qù mǎi zhī bǐ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Mom, I want to go out and buy a pen."
+    },
+    {
+      "index": 8,
+      "simplified": "妈妈：先做作业再去买。",
+      "traditional": "媽媽：先做作業再去買。",
+      "pinyin": "mā ma xiān zuò zuò yè zài qù mǎi",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Finish your homework first and then go and buy it."
+    },
+    {
+      "index": 10,
+      "simplified": "小明：可是，我要先买笔才能做作业啊……",
+      "traditional": "小明：可是，我要先買筆才能做作業啊……",
+      "pinyin": "xiǎo míng kě shì wǒ yào xiān mǎi bǐ cái néng zuò zuò yè a",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: But, I need to buy a pen first to be able to write my homework…"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作业",
+      "traditional": "作業",
+      "pinyin": "zuò yè",
+      "meaning": "homework\nschool assignment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电视",
+      "traditional": "電視",
+      "pinyin": "diàn shì",
+      "meaning": "television\nTV",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "meaning": "to go out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "支",
+      "traditional": "支",
+      "pinyin": "zhī",
+      "meaning": "classifier for rods such as pens and guns, for army divisions and for songs or compositions",
+      "hsk": 5
+    },
+    {
+      "hanzi": "笔",
+      "traditional": "筆",
+      "pinyin": "bǐ",
+      "meaning": "pen\npencil",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电视",
+        "pinyin": "diàn shì",
+        "meaning": "television\nTV",
+        "tc_hanzi": "電視"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出去",
+        "pinyin": "chū qù",
+        "meaning": "to go out",
+        "tc_hanzi": "出去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 5,
+        "hanzi": "支",
+        "pinyin": "zhī",
+        "meaning": "classifier for rods such as pens and guns, for army divisions and for songs or compositions",
+        "tc_hanzi": "支"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "meaning": "pen\npencil",
+        "tc_hanzi": "筆"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "meaning": "pen\npencil",
+        "tc_hanzi": "筆"
+      },
+      {
+        "g": "cai-lateness",
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming wants to go out and buy a pen, but his mom doesn’t let him.",
+    "syllable_times": [
+      0.64,
+      1.2,
+      1.595,
+      5.116543834717537,
+      5.116543834717537,
+      5.116543834717537,
+      5.425,
+      6.21,
+      6.54,
+      6.9,
+      7.23,
+      7.56,
+      9.472759386845278,
+      9.472759386845278,
+      9.472759386845278,
+      10.03,
+      10.406666666666666,
+      10.783333333333333,
+      11.2,
+      11.46,
+      13.506999506207988,
+      13.506999506207988,
+      13.506999506207988,
+      13.83,
+      14.51,
+      14.805,
+      15.1,
+      15.515,
+      15.96,
+      16.32,
+      16.59,
+      18.444478271923767,
+      18.444478271923767,
+      18.444478271923767,
+      18.93,
+      19.286666666666665,
+      19.643333333333334,
+      20.09,
+      20.38,
+      20.644952556358863,
+      22.520458542754124,
+      22.520458542754124,
+      22.520458542754124,
+      22.905,
+      23.56,
+      23.86,
+      24.16,
+      24.48,
+      24.77,
+      25.37,
+      25.68,
+      25.99,
+      26.263333333333332,
+      26.536666666666665,
+      26.81,
+      27.420396,
+      27.420396
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      23,
+      24,
+      35,
+      36,
+      45,
+      46,
+      61
+    ],
+    "sentence_translations": [
+      "Finish Your Homework First",
+      "",
+      "Little Ming: Mom, I want to watch TV.",
+      "",
+      "Mom: Finish your homework first and then watch TV.",
+      "",
+      "Little Ming: Mom, I want to go out and buy a pen.",
+      "",
+      "Mom: Finish your homework first and then go and buy it.",
+      "",
+      "Little Ming: But, I need to buy a pen first to be able to write my homework…",
+      ""
+    ]
+  }
+}

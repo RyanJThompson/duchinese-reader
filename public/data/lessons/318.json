@@ -1,0 +1,881 @@
+{
+  "id": "318",
+  "title": "Ben’s Diary — Having a meal",
+  "level": "newbie",
+  "date": "2017-05-19",
+  "synopsis": "Ben writes in his diary about going to a restaurant with Lili.",
+  "audioUrl": "https://static.duchinese.net/documents/422/d7e1fa17b7ec7e1e1ae6858035a7043f54d119c6.mp3?1589790981",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 16,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "本的日记-吃饭\n\n    今天我和丽丽去吃饭。因为我想吃中国菜，所以我们去了一个中国菜的饭店。这个饭店的菜很好吃，我吃了很多。从我住的地方走路到这个饭店不到5分钟，以后我可以经常去那里吃饭。",
+    "traditional": "本的日記-吃飯\n\n    今天我和麗麗去吃飯。因為我想吃中國菜，所以我們去了一個中國菜的飯店。這個飯店的菜很好吃，我吃了很多。從我住的地方走路到這個飯店不到5分鐘，以後我可以經常去那裡吃飯。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ben’s Diary — Having a meal"
+    },
+    {
+      "index": 2,
+      "simplified": "今天我和丽丽去吃饭。",
+      "traditional": "今天我和麗麗去吃飯。",
+      "pinyin": "jīn tiān wǒ hé lì lì qù chī fàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "因为我想吃中国菜，所以我们去了一个中国菜的饭店。",
+      "traditional": "因為我想吃中國菜，所以我們去了一個中國菜的飯店。",
+      "pinyin": "yīn wèi wǒ xiǎng chī zhōng guó cài suǒ yǐ wǒ men qù le yí ge zhōng guó cài de fàn diàn",
+      "english": "Today me and Lili went to have a meal."
+    },
+    {
+      "index": 4,
+      "simplified": "这个饭店的菜很好吃，我吃了很多。",
+      "traditional": "這個飯店的菜很好吃，我吃了很多。",
+      "pinyin": "zhè ge fàn diàn de cài hěn hǎo chī wǒ chī le hěn duō",
+      "english": "Because I wanted to eat Chinese food, we went to a Chinese restaurant."
+    },
+    {
+      "index": 5,
+      "simplified": "从我住的地方走路到这个饭店不到5分钟，",
+      "traditional": "從我住的地方走路到這個飯店不到5分鐘，",
+      "pinyin": "cóng wǒ zhù de dì fang zǒu lù dào zhè ge fàn diàn bu dào 1 fēn zhōng",
+      "english": "The food at this restaurant is delicious, and I ate a lot."
+    },
+    {
+      "index": 6,
+      "simplified": "以后我可以经常去那里吃饭。",
+      "traditional": "以後我可以經常去那裡吃飯。",
+      "pinyin": "yǐ hòu wǒ kě yǐ jīng cháng qù nà lǐ chī fàn",
+      "english": "It doesn’t take even 5 minutes to walk there from where I live."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "From now on I can go there to eat frequently."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "地方",
+      "traditional": "地方",
+      "pinyin": "dì fang",
+      "meaning": "area\nplace\nterritory",
+      "hsk": 3
+    },
+    {
+      "hanzi": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "meaning": "to walk\nto go on foot",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不到",
+      "traditional": "不到",
+      "pinyin": "bu dào",
+      "meaning": "not to arrive\nnot reaching\ninsufficient",
+      "hsk": 2
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "经常",
+      "traditional": "經常",
+      "pinyin": "jīng cháng",
+      "meaning": "frequently\noften",
+      "hsk": 3
+    },
+    {
+      "hanzi": "那里",
+      "traditional": "那裡",
+      "pinyin": "nà lǐ",
+      "meaning": "there\nthat place",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "-",
+        "tc_hanzi": "-"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "地方",
+        "pinyin": "dì fang",
+        "meaning": "area\nplace\nterritory",
+        "tc_hanzi": "地方"
+      },
+      {
+        "hanzi": "走路",
+        "pinyin": "zǒu lù",
+        "meaning": "to walk\nto go on foot",
+        "tc_hanzi": "走路"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不到",
+        "pinyin": "bu dào",
+        "meaning": "not to arrive\nnot reaching\ninsufficient",
+        "tc_hanzi": "不到"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经常",
+        "pinyin": "jīng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "經常"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那里",
+        "pinyin": "nà lǐ",
+        "meaning": "there\nthat place",
+        "tc_hanzi": "那裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben writes in his diary about going to a restaurant with Lili.",
+    "syllable_times": [
+      0.5102040816326531,
+      0.7879818594104309,
+      1.125,
+      2.0861678004535147,
+      2.590702947845805,
+      5.238095238095238,
+      5.555555555555555,
+      6.309523809523809,
+      6.6439909297052155,
+      6.899092970521542,
+      7.165,
+      7.6473922902494325,
+      8.04,
+      8.441043083900226,
+      9.461451247165533,
+      9.727891156462585,
+      10.226757369614512,
+      10.680272108843537,
+      11.065759637188208,
+      11.38888888888889,
+      11.740362811791384,
+      11.97845804988662,
+      12.874149659863946,
+      13.214285714285714,
+      13.962585034013605,
+      14.251700680272108,
+      14.535147392290249,
+      14.875283446712018,
+      15.062358276643991,
+      15.280000000000001,
+      15.81,
+      16.16780045351474,
+      16.423333333333332,
+      16.73,
+      16.950113378684808,
+      17.261904761904763,
+      18.63,
+      18.922902494331066,
+      19.1156462585034,
+      19.489795918367346,
+      19.67,
+      19.82,
+      20.48,
+      20.963718820861676,
+      21.281179138321995,
+      22.392290249433106,
+      22.93083900226757,
+      23.310657596371883,
+      23.54875283446712,
+      23.928571428571427,
+      25.11,
+      25.48,
+      25.82,
+      26.13378684807256,
+      26.29,
+      26.6,
+      27.3015873015873,
+      27.565,
+      27.85,
+      28.22,
+      28.463718820861676,
+      28.622448979591837,
+      28.895,
+      29.54,
+      29.807256235827662,
+      30.107709750566894,
+      30.37,
+      30.759637188208615,
+      31.7,
+      32.02,
+      32.64,
+      32.94,
+      33.215,
+      33.68,
+      34.025,
+      34.393424036281175,
+      34.64,
+      34.87528344671202,
+      35.08,
+      35.45351473922902,
+      36.012177
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      15,
+      33,
+      47,
+      61,
+      69
+    ],
+    "sentence_translations": [
+      "Ben’s Diary — Having a meal",
+      "",
+      "Today me and Lili went to have a meal.",
+      "Because I wanted to eat Chinese food, we went to a Chinese restaurant.",
+      "The food at this restaurant is delicious, and I ate a lot.",
+      "It doesn’t take even 5 minutes to walk there from where I live.",
+      "From now on I can go there to eat frequently.",
+      ""
+    ]
+  }
+}

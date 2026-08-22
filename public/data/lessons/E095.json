@@ -1,0 +1,699 @@
+{
+  "id": "E095",
+  "title": "Cutting Your Hair",
+  "level": "intermediate",
+  "date": "2017-03-04",
+  "synopsis": "How do you express yourself when talking to a barber?",
+  "audioUrl": "https://static.duchinese.net/documents/356/44157d33d373a8479185e498aebe9b5f41d08bee.mp3?1488226468",
+  "series": null,
+  "fullText": {
+    "simplified": "剪头发\n\n    你好，我要剪头发。头顶不要剪太短。两边和后面剪短一点，露出耳朵。请用剪刀剪，不要用推子。还有，可以先帮我洗头，再剪头发吗？谢谢！",
+    "traditional": "剪頭髮\n\n    你好，我要剪頭髮。頭頂不要剪太短。兩邊和後面剪短一點，露出耳朵。請用剪刀剪，不要用推子。還有，可以先幫我洗頭，再剪頭髮嗎？謝謝！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Cutting your hair"
+    },
+    {
+      "index": 2,
+      "simplified": "你好，我要剪头发。",
+      "traditional": "你好，我要剪頭髮。",
+      "pinyin": "nǐ hǎo wǒ yào jiǎn tóu fa",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "头顶不要剪太短。",
+      "traditional": "頭頂不要剪太短。",
+      "pinyin": "tóu dǐng bú yào jiǎn tài duǎn",
+      "english": "Hello, I would like to cut my hair."
+    },
+    {
+      "index": 4,
+      "simplified": "两边和后面剪短一点，露出耳朵。",
+      "traditional": "兩邊和後面剪短一點，露出耳朵。",
+      "pinyin": "liǎng biān hé hòu miàn jiǎn duǎn yì diǎn lù chū ěr duo",
+      "english": "Don’t cut too short on the top of my head."
+    },
+    {
+      "index": 5,
+      "simplified": "请用剪刀剪，不要用推子。",
+      "traditional": "請用剪刀剪，不要用推子。",
+      "pinyin": "qǐng yòng jiǎn dāo jiǎn bú yào yòng tuī zi",
+      "english": "On the sides and in the back a bit shorter, show my ears."
+    },
+    {
+      "index": 6,
+      "simplified": "还有，可以先帮我洗头，再剪头发吗？",
+      "traditional": "還有，可以先幫我洗頭，再剪頭髮嗎？",
+      "pinyin": "hái yǒu kě yǐ xiān bāng wǒ xǐ tóu zài jiǎn tóu fa ma",
+      "english": "Please use scissors, no electric clipper."
+    },
+    {
+      "index": 7,
+      "simplified": "谢谢！",
+      "traditional": "謝謝！",
+      "pinyin": "xiè xie",
+      "english": "Also, could you wash my hair first before cutting it?"
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Thank you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "剪",
+      "traditional": "剪",
+      "pinyin": "jiǎn",
+      "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+      "hsk": null
+    },
+    {
+      "hanzi": "头发",
+      "traditional": "頭髮",
+      "pinyin": "tóu fa",
+      "meaning": "hair (on the head)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "头顶",
+      "traditional": "頭頂",
+      "pinyin": "tóu dǐng",
+      "meaning": "top of the head",
+      "hsk": null
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "短",
+      "traditional": "短",
+      "pinyin": "duǎn",
+      "meaning": "short\nbrief",
+      "hsk": 3
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "边",
+      "traditional": "邊",
+      "pinyin": "biān",
+      "meaning": "side\nedge",
+      "hsk": 2
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后面",
+      "traditional": "後面",
+      "pinyin": "hòu miàn",
+      "meaning": "back\nbehind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "露",
+      "traditional": "露",
+      "pinyin": "lù",
+      "meaning": "to show\nto reveal\nto expose",
+      "hsk": null
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "to go out\nto come out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "耳朵",
+      "traditional": "耳朵",
+      "pinyin": "ěr duo",
+      "meaning": "ear",
+      "hsk": 3
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "剪刀",
+      "traditional": "剪刀",
+      "pinyin": "jiǎn dāo",
+      "meaning": "scissors",
+      "hsk": 5
+    },
+    {
+      "hanzi": "推子",
+      "traditional": "推子",
+      "pinyin": "tuī zi",
+      "meaning": "hair clippers",
+      "hsk": null
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "洗头",
+      "traditional": "洗頭",
+      "pinyin": "xǐ tóu",
+      "meaning": "to wash one's hair\nto have a shampoo",
+      "hsk": null
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头发",
+        "pinyin": "tóu fa",
+        "meaning": "hair (on the head)",
+        "tc_hanzi": "頭髮"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头发",
+        "pinyin": "tóu fa",
+        "meaning": "hair (on the head)",
+        "tc_hanzi": "頭髮"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "头顶",
+        "pinyin": "tóu dǐng",
+        "meaning": "top of the head",
+        "tc_hanzi": "頭頂"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "meaning": "short\nbrief",
+        "tc_hanzi": "短"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "边",
+        "pinyin": "biān",
+        "meaning": "side\nedge",
+        "tc_hanzi": "邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "back\nbehind",
+        "tc_hanzi": "後面"
+      },
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "meaning": "short\nbrief",
+        "tc_hanzi": "短"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "露",
+        "pinyin": "lù",
+        "meaning": "to show\nto reveal\nto expose",
+        "tc_hanzi": "露"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "to go out\nto come out",
+        "tc_hanzi": "出"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "耳朵",
+        "pinyin": "ěr duo",
+        "meaning": "ear",
+        "tc_hanzi": "耳朵"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "剪刀",
+        "pinyin": "jiǎn dāo",
+        "meaning": "scissors",
+        "tc_hanzi": "剪刀"
+      },
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "推子",
+        "pinyin": "tuī zi",
+        "meaning": "hair clippers",
+        "tc_hanzi": "推子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "洗头",
+        "pinyin": "xǐ tóu",
+        "meaning": "to wash one's hair\nto have a shampoo",
+        "tc_hanzi": "洗頭"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hanzi": "剪",
+        "pinyin": "jiǎn",
+        "meaning": "to cut with scissors\nto trim\nto wipe out or exterminate",
+        "tc_hanzi": "剪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头发",
+        "pinyin": "tóu fa",
+        "meaning": "hair (on the head)",
+        "tc_hanzi": "頭髮"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you express yourself when talking to a barber?",
+    "syllable_times": [
+      0.5196016693621679,
+      0.9523809523809523,
+      3.219954648526077,
+      3.492063492063492,
+      4.897959183673469,
+      5.170068027210885,
+      5.532879818594104,
+      5.938938036268833,
+      6.303854875283447,
+      8.344671201814059,
+      8.662131519274377,
+      9.160997732426305,
+      9.422911113120762,
+      9.65986394557823,
+      10.06802721088435,
+      10.43083900226757,
+      12.15419501133787,
+      12.51700680272109,
+      13.10657596371882,
+      13.51473922902494,
+      13.83142686694089,
+      14.6031746031746,
+      15.10204081632653,
+      15.46485260770975,
+      15.73696145124716,
+      17.18820861678005,
+      17.522983514653,
+      17.91383219954648,
+      18.27664399092971,
+      20.45351473922902,
+      20.81632653061224,
+      21.25987676439368,
+      21.58730158730159,
+      21.90476190476191,
+      23.35600907029479,
+      23.63890948872976,
+      23.99092970521542,
+      24.38980970021202,
+      24.76190476190476,
+      26.53061224489796,
+      26.84807256235828,
+      28.11791383219955,
+      28.41896115374756,
+      28.66213151927438,
+      29.1156462585034,
+      29.38775510204082,
+      29.70521541950113,
+      30.11337868480726,
+      31.11111111111111,
+      31.47392290249433,
+      31.83673469387755,
+      32.19954648526077,
+      32.42630385487529,
+      33.74149659863946,
+      34.11564842173281,
+      34.72401360544217,
+      34.72401360544217
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      12,
+      18,
+      30,
+      39,
+      52,
+      54
+    ],
+    "sentence_translations": [
+      "Cutting your hair",
+      "",
+      "Hello, I would like to cut my hair.",
+      "Don’t cut too short on the top of my head.",
+      "On the sides and in the back a bit shorter, show my ears.",
+      "Please use scissors, no electric clipper.",
+      "Also, could you wash my hair first before cutting it?",
+      "Thank you!",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,2630 @@
+{
+  "id": "T067",
+  "title": "Can You Guess Who’s Who?",
+  "level": "intermediate",
+  "date": "2020-12-27",
+  "synopsis": "Try to solve this logic puzzle involving three friends and the colors they’re wearing.",
+  "audioUrl": "https://static.duchinese.net/documents/60067/66ec045a80cf715ef525ebdf2ea30a329df3856d.mp3?1607084817",
+  "series": null,
+  "fullText": {
+    "simplified": "推理故事：你能猜出谁是谁吗？\n\n    我有一个好玩儿的推理小故事，分享给大家。\n    故事是这样的。三个好朋友：小红、小绿和小蓝，他们分别穿着红色、绿色和蓝色的衣服。小蓝说：“真奇怪，我们的名字是红、绿、蓝，穿的衣服也是红、绿、蓝，可是没有人穿的衣服的颜色和自己的名字一样啊！”穿绿衣服的人说：“对呀，真有意思。”根据他们的对话，你知道他们分别穿的是什么颜色的衣服吗？\n    怎么样？你猜出来了吗？穿红色衣服的是“小蓝”。因为小蓝说他们穿的衣服颜色跟名字不一样，根据他的话可以知道他穿的可能是红色或者绿色的。再加上回答他的人是穿绿衣服的人，所以，我们可以知道小蓝穿的是红色的衣服。还剩下蓝色和绿色，又知道他们衣服的颜色和名字不一样。所以，穿绿衣服的应该是小红，穿蓝衣服的应该是小绿。",
+    "traditional": "推理故事：你能猜出誰是誰嗎？\n\n    我有一個好玩兒的推理小故事，分享給大家。\n    故事是這樣的。三個好朋友：小紅、小綠和小藍，他們分別穿著紅色、綠色和藍色的衣服。小藍說：“真奇怪，我們的名字是紅、綠、藍，穿的衣服也是紅、綠、藍，可是沒有人穿的衣服的顏色和自己的名字一樣啊！”穿綠衣服的人說：“對呀，真有意思。”根據他們的對話，你知道他們分別穿的是什麼顏色的衣服嗎？\n    怎麼樣？你猜出來了嗎？穿紅色衣服的是“小藍”。因為小藍說他們穿的衣服顏色跟名字不一樣，根據他的話可以知道他穿的可能是紅色或者綠色的。再加上回答他的人是穿綠衣服的人，所以，我們可以知道小藍穿的是紅色的衣服。還剩下藍色和綠色，又知道他們衣服的顏色和名字不一樣。所以，穿綠衣服的應該是小紅，穿藍衣服的應該是小綠。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "A Logic Puzzle: Can you Guess Who’s Who?"
+    },
+    {
+      "index": 2,
+      "simplified": "我有一个好玩儿的推理小故事，分享给大家。",
+      "traditional": "我有一個好玩兒的推理小故事，分享給大家。",
+      "pinyin": "wǒ yǒu yí ge hǎo wán‘r de tuī lǐ xiǎo gù shi fēn xiǎng gěi dà jiā",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "I’ve got a fun logic puzzle that I’d like to share with everyone."
+    },
+    {
+      "index": 4,
+      "simplified": "故事是这样的。",
+      "traditional": "故事是這樣的。",
+      "pinyin": "gù shi shì zhè yàng de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "三个好朋友：小红、小绿和小蓝，他们分别穿着红色、绿色和蓝色的衣服。",
+      "traditional": "三個好朋友：小紅、小綠和小藍，他們分別穿著紅色、綠色和藍色的衣服。",
+      "pinyin": "sān ge hǎo péng you xiǎo hóng xiǎo lǜ hé xiǎo lán tā men fēn bié chuān zhe hóng sè lǜ sè hé lán sè de yī fu",
+      "english": "Here is the story:"
+    },
+    {
+      "index": 6,
+      "simplified": "小蓝说：“真奇怪，我们的名字是红、绿、蓝，穿的衣服也是红、绿、蓝，",
+      "traditional": "小藍說：“真奇怪，我們的名字是紅、綠、藍，穿的衣服也是紅、綠、藍，",
+      "pinyin": "xiǎo lán shuō zhēn qí guài wǒ men de míng zi shì hóng lǜ lán chuān de yī fu yě shì hóng lǜ lán",
+      "english": "There were three good friends whose names were Red, Green and Blue. They were each wearing either red, green, or blue."
+    },
+    {
+      "index": 7,
+      "simplified": "可是没有人穿的衣服的颜色和自己的名字一样啊！”",
+      "traditional": "可是沒有人穿的衣服的顏色和自己的名字一樣啊！”",
+      "pinyin": "kě shì méi yǒu rén chuān de yī fu de yán sè hé zì jǐ de míng zi yí yàng a",
+      "english": "Blue said: “It’s odd that our names are Red, Green and Blue, and we’re also wearing red, green, and blue clothes."
+    },
+    {
+      "index": 8,
+      "simplified": "穿绿衣服的人说：“对呀，真有意思。”",
+      "traditional": "穿綠衣服的人說：“對呀，真有意思。”",
+      "pinyin": "chuān lǜ yī fu de rén shuō duì ya zhēn yǒu yì si",
+      "english": "However, none of us are wearing the same color as our name!”"
+    },
+    {
+      "index": 9,
+      "simplified": "根据他们的对话，你知道他们分别穿的是什么颜色的衣服吗？",
+      "traditional": "根據他們的對話，你知道他們分別穿的是什麼顏色的衣服嗎？",
+      "pinyin": "gēn jù tā men de duì huà nǐ zhī dào tā men fēn bié chuān de shì shén me yán sè de yī fu ma",
+      "english": "The person wearing green said, “Yes, this is indeed very interesting.”"
+    },
+    {
+      "index": 10,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "From their conversation, can you guess what color each of them was wearing?"
+    },
+    {
+      "index": 11,
+      "simplified": "怎么样？你猜出来了吗？穿红色衣服的是“小蓝”。",
+      "traditional": "怎麼樣？你猜出來了嗎？穿紅色衣服的是“小藍”。",
+      "pinyin": "zěn me yàng nǐ cāi chū lái le ma chuān hóng sè yī fu de shì xiǎo lán",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "因为小蓝说他们穿的衣服颜色跟名字不一样，",
+      "traditional": "因為小藍說他們穿的衣服顏色跟名字不一樣，",
+      "pinyin": "yīn wèi xiǎo lán shuō tā men chuān de yī fu yán sè gēn míng zi bù yí yàng",
+      "english": "So, how did it go? Were you able to guess? Blue was the one wearing red."
+    },
+    {
+      "index": 13,
+      "simplified": "根据他的话可以知道他穿的可能是红色或者绿色的。",
+      "traditional": "根據他的話可以知道他穿的可能是紅色或者綠色的。",
+      "pinyin": "gēn jù tā de huà kě yǐ zhī dào tā chuān de kě néng shì hóng sè huò zhě lǜ sè de",
+      "english": "Blue was the one who said that the colors they wore were different from their names."
+    },
+    {
+      "index": 14,
+      "simplified": "再加上回答他的人是穿绿衣服的人，所以，我们可以知道小蓝穿的是红色的衣服。",
+      "traditional": "再加上回答他的人是穿綠衣服的人，所以，我們可以知道小藍穿的是紅色的衣服。",
+      "pinyin": "zài jiā shàng huí dá tā de rén shì chuān lǜ yī fu de rén suǒ yǐ wǒ men kě yǐ zhī dào xiǎo lán chuān de shì hóng sè de yī fu",
+      "english": "From that, we know he was wearing either red or green."
+    },
+    {
+      "index": 15,
+      "simplified": "还剩下蓝色和绿色，又知道他们衣服的颜色和名字不一样。",
+      "traditional": "還剩下藍色和綠色，又知道他們衣服的顏色和名字不一樣。",
+      "pinyin": "hái shèng xià lán sè hé lǜ sè yòu zhī dào tā men yī fu de yán sè hé míng zi bù yí yàng",
+      "english": "On top of that, the person who responded was wearing green, so we know that Blue was wearing red."
+    },
+    {
+      "index": 16,
+      "simplified": "所以，穿绿衣服的应该是小红，穿蓝衣服的应该是小绿。",
+      "traditional": "所以，穿綠衣服的應該是小紅，穿藍衣服的應該是小綠。",
+      "pinyin": "suǒ yǐ chuān lǜ yī fu de yīng gāi shì xiǎo hóng chuān lán yī fu de yīng gāi shì xiǎo lǜ",
+      "english": "We still have the colors blue and green left, and we already know that the colors worn were different from their names."
+    },
+    {
+      "index": 17,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Therefore, the person wearing green should be Red, and the one wearing blue should be Green."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "推理",
+      "traditional": "推理",
+      "pinyin": "tuī lǐ",
+      "meaning": "reasoning\nto infer\nto deduce",
+      "hsk": 6
+    },
+    {
+      "hanzi": "故事",
+      "traditional": "故事",
+      "pinyin": "gù shi",
+      "meaning": "story\ntale",
+      "hsk": 3
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猜",
+      "traditional": "猜",
+      "pinyin": "cāi",
+      "meaning": "to guess",
+      "hsk": 4
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好玩儿",
+      "traditional": "好玩兒",
+      "pinyin": "hǎo wán‘r",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分享",
+      "traditional": "分享",
+      "pinyin": "fēn xiǎng",
+      "meaning": "to share",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "meaning": "this kind of\nlike this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小红",
+      "traditional": "小紅",
+      "pinyin": "xiǎo hóng",
+      "meaning": "Little Red (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小绿",
+      "traditional": "小綠",
+      "pinyin": "xiǎo lǜ",
+      "meaning": "Little Green (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小蓝",
+      "traditional": "小藍",
+      "pinyin": "xiǎo lán",
+      "meaning": "Little Blue (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分别",
+      "traditional": "分別",
+      "pinyin": "fēn bié",
+      "meaning": "separately or individually",
+      "hsk": 5
+    },
+    {
+      "hanzi": "穿",
+      "traditional": "穿",
+      "pinyin": "chuān",
+      "meaning": "to wear\nto put on",
+      "hsk": 2
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "红色",
+      "traditional": "紅色",
+      "pinyin": "hóng sè",
+      "meaning": "red (color)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "绿色",
+      "traditional": "綠色",
+      "pinyin": "lǜ sè",
+      "meaning": "green",
+      "hsk": 3
+    },
+    {
+      "hanzi": "蓝色",
+      "traditional": "藍色",
+      "pinyin": "lán sè",
+      "meaning": "blue (color)",
+      "hsk": null
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "奇怪",
+      "traditional": "奇怪",
+      "pinyin": "qí guài",
+      "meaning": "strange\nodd",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "红",
+      "traditional": "紅",
+      "pinyin": "hóng",
+      "meaning": "red\npopular",
+      "hsk": 2
+    },
+    {
+      "hanzi": "绿",
+      "traditional": "綠",
+      "pinyin": "lǜ",
+      "meaning": "green",
+      "hsk": 3
+    },
+    {
+      "hanzi": "蓝",
+      "traditional": "藍",
+      "pinyin": "lán",
+      "meaning": "blue\nindigo plant",
+      "hsk": 3
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "颜色",
+      "traditional": "顏色",
+      "pinyin": "yán sè",
+      "meaning": "color",
+      "hsk": 2
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "有意思",
+      "traditional": "有意思",
+      "pinyin": "yǒu yì si",
+      "meaning": "interesting\nenjoyable\nfun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "根据",
+      "traditional": "根據",
+      "pinyin": "gēn jù",
+      "meaning": "according to\nbased on\nbasis",
+      "hsk": 3
+    },
+    {
+      "hanzi": "对话",
+      "traditional": "對話",
+      "pinyin": "duì huà",
+      "meaning": "dialog",
+      "hsk": 4
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "(after a verb) coming out, completion of an action, or ability to discern or detect",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "meaning": "with",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "话",
+      "traditional": "話",
+      "pinyin": "huà",
+      "meaning": "talk\nwords",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "再加上",
+      "traditional": "再加上",
+      "pinyin": "zài jiā shàng",
+      "meaning": "what's more\nin addition",
+      "hsk": null
+    },
+    {
+      "hanzi": "回答",
+      "traditional": "回答",
+      "pinyin": "huí dá",
+      "meaning": "to reply\nto answer",
+      "hsk": 3
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "剩下",
+      "traditional": "剩下",
+      "pinyin": "shèng xià",
+      "meaning": "to remain\nleft over",
+      "hsk": 4
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "应该",
+      "traditional": "應該",
+      "pinyin": "yīng gāi",
+      "meaning": "ought to\nshould\nmust",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 6,
+        "hanzi": "推理",
+        "pinyin": "tuī lǐ",
+        "meaning": "reasoning\nto infer\nto deduce",
+        "tc_hanzi": "推理"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "g": "directional-complements",
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+        "tc_hanzi": "出"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "好玩儿",
+        "pinyin": "hǎo wán‘r",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩兒"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "推理",
+        "pinyin": "tuī lǐ",
+        "meaning": "reasoning\nto infer\nto deduce",
+        "tc_hanzi": "推理"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "分享",
+        "pinyin": "fēn xiǎng",
+        "meaning": "to share",
+        "tc_hanzi": "分享"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Red (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "小绿",
+        "pinyin": "xiǎo lǜ",
+        "meaning": "Little Green (name)",
+        "tc_hanzi": "小綠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "小蓝",
+        "pinyin": "xiǎo lán",
+        "meaning": "Little Blue (name)",
+        "tc_hanzi": "小藍"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "分别",
+        "pinyin": "fēn bié",
+        "meaning": "separately or individually",
+        "tc_hanzi": "分別"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿色",
+        "pinyin": "lǜ sè",
+        "meaning": "green",
+        "tc_hanzi": "綠色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "蓝色",
+        "pinyin": "lán sè",
+        "meaning": "blue (color)",
+        "tc_hanzi": "藍色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小蓝",
+        "pinyin": "xiǎo lán",
+        "meaning": "Little Blue (name)",
+        "tc_hanzi": "小藍"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奇怪",
+        "pinyin": "qí guài",
+        "meaning": "strange\nodd",
+        "tc_hanzi": "奇怪"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "red\npopular",
+        "tc_hanzi": "紅"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿",
+        "pinyin": "lǜ",
+        "meaning": "green",
+        "tc_hanzi": "綠"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蓝",
+        "pinyin": "lán",
+        "meaning": "blue\nindigo plant",
+        "tc_hanzi": "藍"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "red\npopular",
+        "tc_hanzi": "紅"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿",
+        "pinyin": "lǜ",
+        "meaning": "green",
+        "tc_hanzi": "綠"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蓝",
+        "pinyin": "lán",
+        "meaning": "blue\nindigo plant",
+        "tc_hanzi": "藍"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "颜色",
+        "pinyin": "yán sè",
+        "meaning": "color",
+        "tc_hanzi": "顏色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿",
+        "pinyin": "lǜ",
+        "meaning": "green",
+        "tc_hanzi": "綠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "有意思",
+        "pinyin": "yǒu yì si",
+        "meaning": "interesting\nenjoyable\nfun",
+        "tc_hanzi": "有意思"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "根据",
+        "pinyin": "gēn jù",
+        "meaning": "according to\nbased on\nbasis",
+        "tc_hanzi": "根據"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "对话",
+        "pinyin": "duì huà",
+        "meaning": "dialog",
+        "tc_hanzi": "對話"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "分别",
+        "pinyin": "fēn bié",
+        "meaning": "separately or individually",
+        "tc_hanzi": "分別"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "颜色",
+        "pinyin": "yán sè",
+        "meaning": "color",
+        "tc_hanzi": "顏色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about\nwhat",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "(after a verb) coming out, completion of an action, or ability to discern or detect",
+        "tc_hanzi": "出來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "小蓝",
+        "pinyin": "xiǎo lán",
+        "meaning": "Little Blue (name)",
+        "tc_hanzi": "小藍"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hanzi": "小蓝",
+        "pinyin": "xiǎo lán",
+        "meaning": "Little Blue (name)",
+        "tc_hanzi": "小藍"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "颜色",
+        "pinyin": "yán sè",
+        "meaning": "color",
+        "tc_hanzi": "顏色"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "根据",
+        "pinyin": "gēn jù",
+        "meaning": "according to\nbased on\nbasis",
+        "tc_hanzi": "根據"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "话",
+        "pinyin": "huà",
+        "meaning": "talk\nwords",
+        "tc_hanzi": "話"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿色",
+        "pinyin": "lǜ sè",
+        "meaning": "green",
+        "tc_hanzi": "綠色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "再加上",
+        "pinyin": "zài jiā shàng",
+        "meaning": "what's more\nin addition",
+        "tc_hanzi": "再加上"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "回答",
+        "pinyin": "huí dá",
+        "meaning": "to reply\nto answer",
+        "tc_hanzi": "回答"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿",
+        "pinyin": "lǜ",
+        "meaning": "green",
+        "tc_hanzi": "綠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "小蓝",
+        "pinyin": "xiǎo lán",
+        "meaning": "Little Blue (name)",
+        "tc_hanzi": "小藍"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "剩下",
+        "pinyin": "shèng xià",
+        "meaning": "to remain\nleft over",
+        "tc_hanzi": "剩下"
+      },
+      {
+        "hanzi": "蓝色",
+        "pinyin": "lán sè",
+        "meaning": "blue (color)",
+        "tc_hanzi": "藍色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿色",
+        "pinyin": "lǜ sè",
+        "meaning": "green",
+        "tc_hanzi": "綠色"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "颜色",
+        "pinyin": "yán sè",
+        "meaning": "color",
+        "tc_hanzi": "顏色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "绿",
+        "pinyin": "lǜ",
+        "meaning": "green",
+        "tc_hanzi": "綠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "应该",
+        "pinyin": "yīng gāi",
+        "meaning": "ought to\nshould\nmust",
+        "tc_hanzi": "應該"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Red (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蓝",
+        "pinyin": "lán",
+        "meaning": "blue\nindigo plant",
+        "tc_hanzi": "藍"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "应该",
+        "pinyin": "yīng gāi",
+        "meaning": "ought to\nshould\nmust",
+        "tc_hanzi": "應該"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "小绿",
+        "pinyin": "xiǎo lǜ",
+        "meaning": "Little Green (name)",
+        "tc_hanzi": "小綠"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Try to solve this logic puzzle involving three friends and the colors they’re wearing.",
+    "syllable_times": [
+      0.29500000000000004,
+      0.56,
+      0.88,
+      1.86,
+      2.08,
+      2.3,
+      2.6530612244897958,
+      3.15,
+      3.51,
+      3.7358276643990926,
+      4.03,
+      5.73,
+      5.96,
+      6.337868480725623,
+      6.52,
+      6.836734693877551,
+      7.171201814058957,
+      7.43,
+      7.74,
+      8.095238095238095,
+      8.3,
+      8.656462585034014,
+      8.95124716553288,
+      9.61,
+      9.977324263038549,
+      10.22,
+      10.41,
+      10.719999999999999,
+      11.95,
+      12.305,
+      12.69,
+      12.9,
+      13.156666666666666,
+      13.413333333333334,
+      14.393424036281179,
+      14.773242630385488,
+      15.005668934240362,
+      15.266666666666667,
+      15.563333333333333,
+      16.47,
+      16.86,
+      17.41,
+      17.795,
+      18.35,
+      18.6281179138322,
+      18.917233560090704,
+      20.08,
+      20.365,
+      20.65,
+      20.9,
+      21.15,
+      21.519274376417233,
+      21.86,
+      22.27891156462585,
+      22.93,
+      23.285,
+      23.83,
+      24.09,
+      24.369999999999997,
+      24.65,
+      24.79,
+      25.07,
+      26.67,
+      26.950000000000003,
+      27.23,
+      28.31,
+      28.61,
+      28.91,
+      29.82,
+      30.045351473922903,
+      30.238095238095237,
+      30.38,
+      30.71428571428571,
+      31.15,
+      31.45124716553288,
+      32.06,
+      32.73,
+      34.07,
+      34.42,
+      34.57,
+      34.95,
+      35.38,
+      35.705,
+      36.07142857142857,
+      36.68,
+      37.24,
+      38.74,
+      39.115,
+      39.74,
+      40.050000000000004,
+      40.36,
+      40.67,
+      41.03,
+      41.21,
+      41.44,
+      41.67,
+      41.79,
+      42.15,
+      42.54,
+      42.87,
+      43.07,
+      43.27,
+      43.41,
+      43.769999999999996,
+      44.16,
+      44.394999999999996,
+      44.63,
+      46,
+      46.38,
+      46.68,
+      46.85,
+      47.02,
+      47.17,
+      47.43197278911565,
+      48.35,
+      48.62244897959184,
+      49.25,
+      49.48979591836734,
+      49.72,
+      50.015,
+      51.38,
+      51.715,
+      52.08,
+      52.32993197278911,
+      52.46,
+      52.65,
+      52.995000000000005,
+      53.64,
+      53.98,
+      54.32,
+      54.66,
+      54.9,
+      55.14,
+      55.425,
+      55.71,
+      56.03,
+      56.39,
+      56.59,
+      56.79,
+      56.99,
+      57.24,
+      57.49,
+      57.66,
+      57.930839002267575,
+      58.12358276643991,
+      59.81,
+      60.03666666666667,
+      60.263333333333335,
+      60.96,
+      61.31,
+      61.56,
+      61.81,
+      61.965,
+      62.12,
+      63.45,
+      63.91,
+      64.235,
+      64.56,
+      64.775,
+      64.99,
+      65.37,
+      65.57,
+      65.935,
+      66.68,
+      66.95,
+      67.42,
+      67.69,
+      67.96,
+      68.72,
+      69.035,
+      69.35,
+      69.66,
+      69.79,
+      69.98,
+      70.17,
+      70.545,
+      70.95,
+      71.13,
+      71.465,
+      71.8,
+      72.03999999999999,
+      72.28,
+      73.47,
+      73.78999999999999,
+      74.11,
+      74.305,
+      74.5,
+      75,
+      75.22,
+      75.44,
+      75.72,
+      76.49,
+      76.77,
+      77.07,
+      77.44,
+      77.71,
+      77.89682539682539,
+      78.25,
+      78.62,
+      79.26,
+      79.59,
+      79.92,
+      80.2,
+      80.48,
+      81.78,
+      82.11,
+      82.44,
+      82.82,
+      83.125,
+      83.43,
+      83.61000000000001,
+      83.79,
+      84.22,
+      84.46,
+      84.85,
+      85.13,
+      85.33500000000001,
+      85.54,
+      85.69,
+      86.4,
+      86.74000000000001,
+      87.37,
+      87.55000000000001,
+      87.73,
+      87.92,
+      88.11,
+      88.41,
+      89.13,
+      89.475,
+      89.82,
+      90.13,
+      90.31,
+      90.6,
+      90.96371882086167,
+      91.18,
+      91.3,
+      91.57,
+      93.01020408163265,
+      93.40136054421768,
+      93.695,
+      94.03,
+      94.405,
+      94.82,
+      95.05,
+      95.34,
+      96.46,
+      96.73,
+      96.97278911564625,
+      97.59,
+      97.80000000000001,
+      98.06122448979592,
+      98.30498866213152,
+      98.46938775510203,
+      98.58,
+      98.86054421768708,
+      99.31,
+      99.51,
+      99.85,
+      100.26077097505669,
+      100.41666666666667,
+      100.64333333333333,
+      101.64,
+      102.02000000000001,
+      102.43,
+      102.76,
+      103.04,
+      103.25,
+      103.46,
+      103.78,
+      104.01333333333334,
+      104.24666666666667,
+      104.48,
+      104.86,
+      105.55,
+      106.01,
+      106.3,
+      106.49000000000001,
+      106.68,
+      107,
+      107.24,
+      107.48,
+      107.72,
+      108.05,
+      108.655079
+    ],
+    "sentence_indices": [
+      12,
+      15,
+      29,
+      31,
+      36,
+      59,
+      87,
+      103,
+      117,
+      135,
+      137,
+      153,
+      166,
+      182,
+      207,
+      224,
+      242
+    ],
+    "sentence_translations": [
+      "A Logic Puzzle: Can you Guess Who’s Who?",
+      "",
+      "I’ve got a fun logic puzzle that I’d like to share with everyone.",
+      "",
+      "Here is the story:",
+      "There were three good friends whose names were Red, Green and Blue. They were each wearing either red, green, or blue.",
+      "Blue said: “It’s odd that our names are Red, Green and Blue, and we’re also wearing red, green, and blue clothes.",
+      "However, none of us are wearing the same color as our name!”",
+      "The person wearing green said, “Yes, this is indeed very interesting.”",
+      "From their conversation, can you guess what color each of them was wearing?",
+      "",
+      "So, how did it go? Were you able to guess? Blue was the one wearing red.",
+      "Blue was the one who said that the colors they wore were different from their names.",
+      "From that, we know he was wearing either red or green.",
+      "On top of that, the person who responded was wearing green, so we know that Blue was wearing red.",
+      "We still have the colors blue and green left, and we already know that the colors worn were different from their names.",
+      "Therefore, the person wearing green should be Red, and the one wearing blue should be Green.",
+      ""
+    ]
+  }
+}

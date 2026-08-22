@@ -1,0 +1,575 @@
+{
+  "id": "313",
+  "title": "Today's Date",
+  "level": "newbie",
+  "date": "2017-06-14",
+  "synopsis": "Ben asks Lili what date it is today.",
+  "audioUrl": "https://static.duchinese.net/documents/444/1c6d6d971f1222e34c8573df06353732af14b0f6.mp3?1553269248",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 12,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "几月几号？\n\n本：丽丽，今天是几号？\n丽丽：今天是5月18号。\n本：你爸爸什么时候来北京呢？\n丽丽：他下个月6号来北京。",
+    "traditional": "幾月幾號？\n\n本：麗麗，今天是幾號？\n麗麗：今天是5月18號。\n本：你爸爸什麼時候來北京呢？\n麗麗：他下個月6號來北京。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What date?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，今天是几号？",
+      "traditional": "本：麗麗，今天是幾號？",
+      "pinyin": "běn lì lì jīn tiān shì jǐ hào",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, what date is it today?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：今天是5月18号。",
+      "traditional": "麗麗：今天是5月18號。",
+      "pinyin": "lì lì jīn tiān shì wǔ yuè shí bā hào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Today is May 18th."
+    },
+    {
+      "index": 6,
+      "simplified": "本：你爸爸什么时候来北京呢？",
+      "traditional": "本：你爸爸什麼時候來北京呢？",
+      "pinyin": "běn nǐ bà ba shén me shí hou lái běi jīng ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: When is your dad coming to Beijing?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：他下个月6号来北京。",
+      "traditional": "麗麗：他下個月6號來北京。",
+      "pinyin": "lì lì tā xià ge yuè liù hào lái běi jīng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: He's coming to Beijing the 6th of next month."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "18",
+        "pinyin": "shí bā",
+        "tc_hanzi": "18"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "tc_hanzi": "6"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks Lili what date it is today.",
+    "syllable_times": [
+      0.48364825235711556,
+      1.19,
+      1.640775143407441,
+      3.721766908365024,
+      3.721766908365024,
+      4.019133835126146,
+      4.89952271496718,
+      5.231226804388768,
+      5.66,
+      6.025550961282381,
+      6.327886573079642,
+      8.189590747558302,
+      8.189590747558302,
+      8.189590747558302,
+      8.56,
+      9.055,
+      10.01,
+      10.5,
+      11.1,
+      11.55,
+      12,
+      13.830537782499336,
+      13.830537782499336,
+      14.14,
+      14.425,
+      14.94,
+      15.245000000000001,
+      15.55,
+      15.88,
+      16.37,
+      16.77,
+      17.08,
+      17.39,
+      18.986347046160983,
+      18.986347046160983,
+      18.986347046160983,
+      19.63,
+      20.08,
+      20.53,
+      21.13,
+      21.51,
+      22.26,
+      22.83,
+      23.19,
+      23.940567,
+      23.940567
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      16,
+      17,
+      26,
+      27,
+      37,
+      38,
+      49
+    ],
+    "sentence_translations": [
+      "What date?",
+      "",
+      "Ben: Lili, what date is it today?",
+      "",
+      "Lili: Today is May 18th.",
+      "",
+      "Ben: When is your dad coming to Beijing?",
+      "",
+      "Lili: He's coming to Beijing the 6th of next month.",
+      ""
+    ]
+  }
+}

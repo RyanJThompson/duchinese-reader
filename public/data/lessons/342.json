@@ -1,0 +1,778 @@
+{
+  "id": "342",
+  "title": "Your dog is really cute",
+  "level": "newbie",
+  "date": "2017-08-09",
+  "synopsis": "Ben gets to meet Aunt Li's dog: Jack.",
+  "audioUrl": "https://static.duchinese.net/documents/493/87fbc696d253aec5058545ac59193481a20f31e9.mp3?1554973058",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 4,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你的狗真可爱\n\n汪！汪！汪！\n李阿姨：杰克，不要叫了！\n本：这是你的狗吗？\n李阿姨：是的。不好意思，它老是叫！\n本：没关系。你的狗真可爱，它叫什么名字？\n李阿姨：它叫杰克。",
+    "traditional": "你的狗真可愛\n\n汪！汪！汪！\n李阿姨：傑克，不要叫了！\n本：這是你的狗嗎？\n李阿姨：是的。不好意思，它老是叫！\n本：沒關係。你的狗真可愛，它叫什麼名字？\n李阿姨：它叫傑克。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Your dog is really cute"
+    },
+    {
+      "index": 2,
+      "simplified": "汪！汪！汪！",
+      "traditional": "汪！汪！汪！",
+      "pinyin": "wāng wāng wāng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Woof! Woof! Woof!"
+    },
+    {
+      "index": 4,
+      "simplified": "李阿姨：杰克，不要叫了！",
+      "traditional": "李阿姨：傑克，不要叫了！",
+      "pinyin": "lǐ ā yí jié kè bú yào jiào le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Li: Jack, stop barking!"
+    },
+    {
+      "index": 6,
+      "simplified": "本：这是你的狗吗？",
+      "traditional": "本：這是你的狗嗎？",
+      "pinyin": "běn zhè shì nǐ de gǒu ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Is this your dog?"
+    },
+    {
+      "index": 8,
+      "simplified": "李阿姨：是的。不好意思，它老是叫！",
+      "traditional": "李阿姨：是的。不好意思，它老是叫！",
+      "pinyin": "lǐ ā yí shì de bù hǎo yì si tā lǎo shi jiào",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Li: Yes. I'm sorry, he's always barking!"
+    },
+    {
+      "index": 10,
+      "simplified": "本：没关系。你的狗真可爱，它叫什么名字？",
+      "traditional": "本：沒關係。你的狗真可愛，它叫什麼名字？",
+      "pinyin": "běn méi guān xi nǐ de gǒu zhēn kě ài tā jiào shén me míng zi",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: No worries. Your dog is really cute, what's his name?"
+    },
+    {
+      "index": 12,
+      "simplified": "李阿姨：它叫杰克。",
+      "traditional": "李阿姨：它叫傑克。",
+      "pinyin": "lǐ ā yí tā jiào jié kè",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Aunt Li: His name is Jack."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "狗",
+      "traditional": "狗",
+      "pinyin": "gǒu",
+      "meaning": "dog",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可爱",
+      "traditional": "可愛",
+      "pinyin": "kě ài",
+      "meaning": "cute\nadorable\nlovely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "汪",
+      "traditional": "汪",
+      "pinyin": "wāng",
+      "meaning": "(onom.) bark",
+      "hsk": null
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "阿姨",
+      "traditional": "阿姨",
+      "pinyin": "ā yí",
+      "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "杰克",
+      "traditional": "傑克",
+      "pinyin": "jié kè",
+      "meaning": "Jack (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是的",
+      "traditional": "是的",
+      "pinyin": "shì de",
+      "meaning": "yes, that's right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "老是",
+      "traditional": "老是",
+      "pinyin": "lǎo shi",
+      "meaning": "always",
+      "hsk": null
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "汪",
+        "pinyin": "wāng",
+        "meaning": "(onom.) bark",
+        "tc_hanzi": "汪"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "汪",
+        "pinyin": "wāng",
+        "meaning": "(onom.) bark",
+        "tc_hanzi": "汪"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "汪",
+        "pinyin": "wāng",
+        "meaning": "(onom.) bark",
+        "tc_hanzi": "汪"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "杰克",
+        "pinyin": "jié kè",
+        "meaning": "Jack (name)",
+        "tc_hanzi": "傑克"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是的",
+        "pinyin": "shì de",
+        "meaning": "yes, that's right",
+        "tc_hanzi": "是的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hanzi": "老是",
+        "pinyin": "lǎo shi",
+        "meaning": "always",
+        "tc_hanzi": "老是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "杰克",
+        "pinyin": "jié kè",
+        "meaning": "Jack (name)",
+        "tc_hanzi": "傑克"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben gets to meet Aunt Li's dog: Jack.",
+    "syllable_times": [
+      0.46,
+      0.82,
+      1.75,
+      2.17,
+      2.625,
+      4.784165909478585,
+      5.39,
+      5.779999999999999,
+      7.828715704912876,
+      7.828715704912876,
+      7.828715704912876,
+      7.828715704912876,
+      8.18,
+      8.85,
+      9.1,
+      9.38,
+      9.76,
+      11.017657360623238,
+      11.017657360623238,
+      11.57,
+      11.98,
+      12.245000000000001,
+      12.51,
+      12.85,
+      14.669463118493905,
+      14.669463118493905,
+      14.669463118493905,
+      14.669463118493905,
+      15.075,
+      16.05,
+      16.3575,
+      16.665,
+      16.9725,
+      17.74,
+      18.09,
+      18.46,
+      18.83,
+      20.448284190702953,
+      20.448284190702953,
+      20.87,
+      21.21,
+      22.32,
+      22.63,
+      22.89,
+      23.58,
+      23.93,
+      24.27,
+      25.55,
+      25.856203441314257,
+      26.37,
+      26.87492391409073,
+      27.1,
+      27.4,
+      29.026486725883974,
+      29.026486725883974,
+      29.026486725883974,
+      29.026486725883974,
+      29.452172366753114,
+      29.98,
+      30.44,
+      31.178005,
+      31.178005
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      13,
+      14,
+      23,
+      24,
+      33,
+      34,
+      45,
+      46,
+      61,
+      62,
+      69
+    ],
+    "sentence_translations": [
+      "Your dog is really cute",
+      "",
+      "Woof! Woof! Woof!",
+      "",
+      "Aunt Li: Jack, stop barking!",
+      "",
+      "Ben: Is this your dog?",
+      "",
+      "Aunt Li: Yes. I'm sorry, he's always barking!",
+      "",
+      "Ben: No worries. Your dog is really cute, what's his name?",
+      "",
+      "Aunt Li: His name is Jack.",
+      ""
+    ]
+  }
+}

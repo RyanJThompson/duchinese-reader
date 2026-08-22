@@ -1,0 +1,833 @@
+{
+  "id": "448",
+  "title": "We Meet Again",
+  "level": "newbie",
+  "date": "2018-01-25",
+  "synopsis": "Ben bumps into Lili's friend Little Yu again.",
+  "audioUrl": "https://static.duchinese.net/documents/638/fb759f326d468063db770a020601174e3d76d575.mp3?1589791600",
+  "series": {
+    "title": "Ben’s life in China 3: Who is Little Yu?",
+    "chapter": 5,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我们又见面了\n\n小雨：本！我们又见面了！你去哪儿？\n本：你好，小雨！我去吃饭。\n小雨：我也要去吃饭，我们一起吧！\n本：好啊！你想吃什么？\n小雨：我知道有一家店非常好吃，我带你去。",
+    "traditional": "我們又見面了\n\n小雨：本！我們又見面了！你去哪兒？\n本：你好，小雨！我去吃飯。\n小雨：我也要去吃飯，我們一起吧！\n本：好啊！你想吃什麼？\n小雨：我知道有一家店非常好吃，我帶你去。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "We Meet Again"
+    },
+    {
+      "index": 2,
+      "simplified": "小雨：本！我们又见面了！你去哪儿？",
+      "traditional": "小雨：本！我們又見面了！你去哪兒？",
+      "pinyin": "xiǎo yǔ běn wǒ men yòu jiàn miàn le nǐ qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Ben! We meet again! Where are you going?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：你好，小雨！我去吃饭。",
+      "traditional": "本：你好，小雨！我去吃飯。",
+      "pinyin": "běn nǐ hǎo xiǎo yǔ wǒ qù chī fàn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Hi, Little Yu! I'm going to eat."
+    },
+    {
+      "index": 6,
+      "simplified": "小雨：我也要去吃饭，我们一起吧！",
+      "traditional": "小雨：我也要去吃飯，我們一起吧！",
+      "pinyin": "xiǎo yǔ wǒ yě yào qù chī fàn wǒ men yì qǐ ba",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: I'm also going to eat, let's go together!"
+    },
+    {
+      "index": 8,
+      "simplified": "本：好啊！你想吃什么？",
+      "traditional": "本：好啊！你想吃什麼？",
+      "pinyin": "běn hǎo a nǐ xiǎng chī shén me",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Sure! What do you want to eat?"
+    },
+    {
+      "index": 10,
+      "simplified": "小雨：我知道有一家店非常好吃，我带你去。",
+      "traditional": "小雨：我知道有一家店非常好吃，我帶你去。",
+      "pinyin": "xiǎo yǔ wǒ zhī dào yǒu yì jiā diàn fēi cháng hǎo chī wǒ dài nǐ qù",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Yu: I know a really tasty restaurant. I'll take you."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "见面",
+      "traditional": "見面",
+      "pinyin": "jiàn miàn",
+      "meaning": "to meet\nto see each other",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "店",
+      "traditional": "店",
+      "pinyin": "diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "见面",
+        "pinyin": "jiàn miàn",
+        "meaning": "to meet\nto see each other",
+        "tc_hanzi": "見面"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "见面",
+        "pinyin": "jiàn miàn",
+        "meaning": "to meet\nto see each other",
+        "tc_hanzi": "見面"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben bumps into Lili's friend Little Yu again.",
+    "syllable_times": [
+      0.35,
+      0.83,
+      1.292517006802721,
+      1.6213151927437641,
+      1.9274376417233559,
+      3.7,
+      3.7,
+      3.7,
+      4.84,
+      5.1643990929705215,
+      5.54421768707483,
+      5.890022675736962,
+      6.207482993197279,
+      6.515000000000001,
+      7.51,
+      7.79,
+      8.22,
+      10.017006802721088,
+      10.017006802721088,
+      10.430839002267573,
+      11.133786848072562,
+      11.581632653061224,
+      12.585034013605442,
+      12.97,
+      13.36,
+      13.735,
+      15.81,
+      15.81,
+      15.81,
+      16.201814058956916,
+      16.415,
+      16.7,
+      17.07,
+      17.445,
+      18.58,
+      18.92,
+      19.41,
+      19.756235827664398,
+      20.18,
+      21.52,
+      21.52,
+      21.967120181405896,
+      23.31,
+      23.679138321995463,
+      24.26,
+      24.761904761904763,
+      25.10204081632653,
+      27.12,
+      27.12,
+      27.12,
+      27.62,
+      27.913832199546484,
+      28.37,
+      28.72,
+      28.97,
+      29.274376417233558,
+      29.82,
+      30.249433106575964,
+      30.668934240362812,
+      30.95,
+      31.99,
+      32.38,
+      32.68707482993197,
+      32.94,
+      33.593152,
+      33.593152
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      19,
+      20,
+      30,
+      31,
+      43,
+      44,
+      54,
+      55,
+      71
+    ],
+    "sentence_translations": [
+      "We Meet Again",
+      "",
+      "Little Yu: Ben! We meet again! Where are you going?",
+      "",
+      "Ben: Hi, Little Yu! I'm going to eat.",
+      "",
+      "Little Yu: I'm also going to eat, let's go together!",
+      "",
+      "Ben: Sure! What do you want to eat?",
+      "",
+      "Little Yu: I know a really tasty restaurant. I'll take you.",
+      ""
+    ]
+  }
+}

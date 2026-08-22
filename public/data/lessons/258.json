@@ -1,0 +1,583 @@
+{
+  "id": "258",
+  "title": "Days of the Week",
+  "level": "newbie",
+  "date": "2017-02-23",
+  "synopsis": "Ben wants to know what day of the week it is.",
+  "audioUrl": "https://static.duchinese.net/documents/352/785d1288d671959f8e07cc1ceb09254833836fb8.mp3?1553269312",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 9,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "今天星期几\n\n本：今天星期几？\n丽丽：今天星期六。\n本：明天星期几？\n丽丽：明天星期天。\n本：昨天是几月几号？\n丽丽：昨天是2月15号。",
+    "traditional": "今天星期幾\n\n本：今天星期幾？\n麗麗：今天星期六。\n本：明天星期幾？\n麗麗：明天星期天。\n本：昨天是幾月幾號？\n麗麗：昨天是2月15號。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What day of the week is it?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：今天星期几？",
+      "traditional": "本：今天星期幾？",
+      "pinyin": "běn jīn tiān xīng qī jǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What day is it today?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：今天星期六。",
+      "traditional": "麗麗：今天星期六。",
+      "pinyin": "lì lì jīn tiān xīng qī liù",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Today is Saturday."
+    },
+    {
+      "index": 6,
+      "simplified": "本：明天星期几？",
+      "traditional": "本：明天星期幾？",
+      "pinyin": "běn míng tiān xīng qī jǐ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What day is it tomorrow?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：明天星期天。",
+      "traditional": "麗麗：明天星期天。",
+      "pinyin": "lì lì míng tiān xīng qī tiān",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Tomorrow is Sunday."
+    },
+    {
+      "index": 10,
+      "simplified": "本：昨天是几月几号？",
+      "traditional": "本：昨天是幾月幾號？",
+      "pinyin": "běn zuó tiān shì jǐ yuè jǐ hào",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What month and what day was it yesterday?"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：昨天是2月15号。",
+      "traditional": "麗麗：昨天是2月15號。",
+      "pinyin": "lì lì zuó tiān shì èr yuè shí wǔ hào",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Yesterday was February 15th."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "meaning": "yesterday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "tc_hanzi": "六"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "shí wǔ",
+        "tc_hanzi": "15"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben wants to know what day of the week it is.",
+    "syllable_times": [
+      0.43,
+      1.18,
+      1.74,
+      2.21,
+      4.461281961023498,
+      4.461281961023498,
+      4.783107685716674,
+      5.3,
+      5.68,
+      6.0041484362430895,
+      8.320188675718477,
+      8.320188675718477,
+      8.320188675718477,
+      8.83,
+      9.53,
+      9.965,
+      10.48,
+      12.521519132083457,
+      12.521519132083457,
+      12.925,
+      13.42,
+      13.88,
+      14.25,
+      16.226199650071543,
+      16.226199650071543,
+      16.226199650071543,
+      16.686089984655812,
+      17.41,
+      17.906666666666666,
+      18.344062011043036,
+      20.232200817258335,
+      20.232200817258335,
+      20.60136297962846,
+      21.17,
+      21.67,
+      22,
+      22.33,
+      22.685,
+      23.90064606616815,
+      23.90064606616815,
+      23.90064606616815,
+      24.240000000000002,
+      24.62709195898197,
+      25.59,
+      26.025,
+      26.66,
+      27.153333333333332,
+      27.64666666666667,
+      28.411791,
+      28.411791
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      11,
+      12,
+      18,
+      19,
+      25,
+      26,
+      31,
+      32,
+      41,
+      42,
+      51
+    ],
+    "sentence_translations": [
+      "What day of the week is it?",
+      "",
+      "Ben: What day is it today?",
+      "",
+      "Lili: Today is Saturday.",
+      "",
+      "Ben: What day is it tomorrow?",
+      "",
+      "Lili: Tomorrow is Sunday.",
+      "",
+      "Ben: What month and what day was it yesterday?",
+      "",
+      "Lili: Yesterday was February 15th.",
+      ""
+    ]
+  }
+}

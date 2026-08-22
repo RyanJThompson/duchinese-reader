@@ -1,0 +1,619 @@
+{
+  "id": "311",
+  "title": "I'll Treat You a Meal",
+  "level": "newbie",
+  "date": "2017-05-17",
+  "synopsis": "Ben wants to treat Lili to a meal.",
+  "audioUrl": "https://static.duchinese.net/documents/421/c5a839b9fcebb1aceff30b996663a05a457a12bc.mp3?1553269245",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 13,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我请你吃饭\n\n本：丽丽，今天我请你吃饭。\n丽丽：太好了！但是我今天有事，没时间。\n本：那明天呢？\n丽丽：明天可以。我想吃中国菜。",
+    "traditional": "我請你吃飯\n\n本：麗麗，今天我請你吃飯。\n麗麗：太好了！但是我今天有事，沒時間。\n本：那明天呢？\n麗麗：明天可以。我想吃中國菜。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I'll Treat You a Meal"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，今天我请你吃饭。",
+      "traditional": "本：麗麗，今天我請你吃飯。",
+      "pinyin": "běn lì lì jīn tiān wǒ qǐng nǐ chī fàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, today I'll treat you a meal."
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：太好了！但是我今天有事，没时间。",
+      "traditional": "麗麗：太好了！但是我今天有事，沒時間。",
+      "pinyin": "lì lì tài hǎo le dàn shì wǒ jīn tiān yǒu shì méi shí jiān",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Great! But I'm busy today. I don't have time."
+    },
+    {
+      "index": 6,
+      "simplified": "本：那明天呢？",
+      "traditional": "本：那明天呢？",
+      "pinyin": "běn nà míng tiān ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What about tomorrow?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：明天可以。我想吃中国菜。",
+      "traditional": "麗麗：明天可以。我想吃中國菜。",
+      "pinyin": "lì lì míng tiān kě yǐ wǒ xiǎng chī zhōng guó cài",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Tomorrow is fine. I want to eat Chinese food."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to treat (to a meal etc)\nto invite",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有事",
+      "traditional": "有事",
+      "pinyin": "yǒu shì",
+      "meaning": "to be occupied with sth\nto have sth on one's mind",
+      "hsk": null
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to treat (to a meal etc)\nto invite",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to treat (to a meal etc)\nto invite",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "有事",
+        "pinyin": "yǒu shì",
+        "meaning": "to be occupied with sth\nto have sth on one's mind",
+        "tc_hanzi": "有事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben wants to treat Lili to a meal.",
+    "syllable_times": [
+      0.51,
+      1.1014983739885615,
+      1.7950425944177477,
+      2.2700953453143193,
+      4.014570238568434,
+      4.014570238568434,
+      4.305,
+      5.25,
+      5.59,
+      6.17,
+      6.63,
+      7.05,
+      7.28,
+      7.595000000000001,
+      8.774503977536426,
+      8.774503977536426,
+      8.774503977536426,
+      9.275,
+      9.709308854713127,
+      10.65,
+      11.037054480621364,
+      12.15,
+      12.5,
+      12.95,
+      13.47,
+      13.879999999999999,
+      14.96,
+      15.4,
+      15.78,
+      17.042689173595935,
+      17.042689173595935,
+      17.572121038714922,
+      18.003830045756953,
+      18.28,
+      19.585123277587314,
+      19.585123277587314,
+      19.585123277587314,
+      20.068862504757394,
+      20.71,
+      21.3,
+      22.55,
+      22.93,
+      23.465,
+      24.35,
+      24.87,
+      25.32,
+      26.049501,
+      26.049501
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      16,
+      17,
+      31,
+      32,
+      38,
+      39,
+      50
+    ],
+    "sentence_translations": [
+      "I'll Treat You a Meal",
+      "",
+      "Ben: Lili, today I'll treat you a meal.",
+      "",
+      "Lili: Great! But I'm busy today. I don't have time.",
+      "",
+      "Ben: What about tomorrow?",
+      "",
+      "Lili: Tomorrow is fine. I want to eat Chinese food.",
+      ""
+    ]
+  }
+}

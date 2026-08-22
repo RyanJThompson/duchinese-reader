@@ -1,0 +1,883 @@
+{
+  "id": "892",
+  "title": "Cleaning Up",
+  "level": "upper intermediate",
+  "date": "2020-02-28",
+  "synopsis": "Little Ming’s mother tells Little Ming’s father to clean the house.",
+  "audioUrl": "https://static.duchinese.net/documents/892/8c2990c3be35141b80d125556e87c63139e79b1a.mp3?1582277478",
+  "series": null,
+  "fullText": {
+    "simplified": "收拾\n\n小明妈妈：这家里太乱了，你快收拾收拾！\n小明爸爸：等会儿吧，刚吃饱呢。\n小明妈妈：行，你今天收拾好就行。我现在去上班了，等我回家如果你还没把房子收拾好，你就等着被我收拾吧！\n",
+    "traditional": "收拾\n\n小明媽媽：這家裡太亂了，你快收拾收拾！\n小明爸爸：等會兒吧，剛吃飽呢。\n小明媽媽：行，你今天收拾好就行。我現在去上班了，等我回家如果你還沒把房子收拾好，你就等著被我收拾吧！\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Cleaning up"
+    },
+    {
+      "index": 2,
+      "simplified": "小明妈妈：这家里太乱了，你快收拾收拾！",
+      "traditional": "小明媽媽：這家裡太亂了，你快收拾收拾！",
+      "pinyin": "xiǎo míng mā ma zhè jiā lǐ tài luàn le nǐ kuài shōu shi shōu shi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Mother: The house is so messy. Clean it up now!"
+    },
+    {
+      "index": 4,
+      "simplified": "小明爸爸：等会儿吧，刚吃饱呢。",
+      "traditional": "小明爸爸：等會兒吧，剛吃飽呢。",
+      "pinyin": "xiǎo míng bà ba děng huì'r ba gāng chī bǎo ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Father: Wait a moment. I’ve just finished eating."
+    },
+    {
+      "index": 6,
+      "simplified": "小明妈妈：行，你今天收拾好就行。",
+      "traditional": "小明媽媽：行，你今天收拾好就行。",
+      "pinyin": "xiǎo míng mā ma xíng nǐ jīn tiān shōu shi hǎo jiù xíng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "我现在去上班了，等我回家如果你还没把房子收拾好，你就等着被我收拾吧！",
+      "traditional": "我現在去上班了，等我回家如果你還沒把房子收拾好，你就等著被我收拾吧！",
+      "pinyin": "wǒ xiàn zài qù shàng bān le děng wǒ huí jiā rú guǒ nǐ hái méi bǎ fáng zi shōu shi hǎo nǐ jiù děng zhe bèi wǒ shōu shi ba",
+      "english": "Little Ming’s Mother: Okay, just make sure you clean up today."
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "I’m going to work now. If I come back and you still haven’t cleaned the house, you’ll be cleaned up by me!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "收拾",
+      "traditional": "收拾",
+      "pinyin": "shōu shi",
+      "meaning": "to put in order\nto tidy up",
+      "hsk": 4
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "乱",
+      "traditional": "亂",
+      "pinyin": "luàn",
+      "meaning": "messy\ndisorder",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会儿",
+      "traditional": "會兒",
+      "pinyin": "huì'r",
+      "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "刚",
+      "traditional": "剛",
+      "pinyin": "gāng",
+      "meaning": "just\nas soon as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饱",
+      "traditional": "飽",
+      "pinyin": "bǎo",
+      "meaning": "to eat till full\nsatisfied",
+      "hsk": 3
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "行",
+      "traditional": "行",
+      "pinyin": "xíng",
+      "meaning": "all right\nOK!",
+      "hsk": 4
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上班",
+      "traditional": "上班",
+      "pinyin": "shàng bān",
+      "meaning": "to go to work\nto be on duty",
+      "hsk": 2
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "房子",
+      "traditional": "房子",
+      "pinyin": "fáng zi",
+      "meaning": "apartment\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "乱",
+        "pinyin": "luàn",
+        "meaning": "messy\ndisorder",
+        "tc_hanzi": "亂"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "erhua",
+        "hsk": 3,
+        "hanzi": "会儿",
+        "pinyin": "huì'r",
+        "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+        "tc_hanzi": "會兒"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "饱",
+        "pinyin": "bǎo",
+        "meaning": "to eat till full\nsatisfied",
+        "tc_hanzi": "飽"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "行",
+        "pinyin": "xíng",
+        "meaning": "all right\nOK!",
+        "tc_hanzi": "行"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "行",
+        "pinyin": "xíng",
+        "meaning": "all right\nOK!",
+        "tc_hanzi": "行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上班",
+        "pinyin": "shàng bān",
+        "meaning": "to go to work\nto be on duty",
+        "tc_hanzi": "上班"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收拾",
+        "pinyin": "shōu shi",
+        "meaning": "to put in order\nto tidy up",
+        "tc_hanzi": "收拾"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming’s mother tells Little Ming’s father to clean the house.",
+    "syllable_times": [
+      0.5035378299091097,
+      2.5600900033267204,
+      2.5600900033267204,
+      2.5600900033267204,
+      2.5600900033267204,
+      2.5600900033267204,
+      2.83,
+      3.1100000000000003,
+      3.42,
+      3.865,
+      4.22,
+      5,
+      5.18,
+      5.42,
+      5.753180004533903,
+      5.9,
+      6.220000000000001,
+      7.707456828940284,
+      7.707456828940284,
+      7.707456828940284,
+      7.707456828940284,
+      7.707456828940284,
+      8.047461167411248,
+      8.32,
+      9.25,
+      9.515,
+      9.78,
+      10.06,
+      11.618835901725685,
+      11.618835901725685,
+      11.618835901725685,
+      11.618835901725685,
+      11.618835901725685,
+      12.65258378095484,
+      12.93,
+      13.191655032736993,
+      13.44,
+      13.715,
+      13.99,
+      14.36,
+      14.63461324166615,
+      15.77,
+      16.00629738252414,
+      16.255,
+      16.56,
+      16.77,
+      17.049999999999997,
+      17.33,
+      18.19,
+      18.35,
+      18.54,
+      18.924999999999997,
+      19.58,
+      19.77,
+      19.96,
+      20.11,
+      20.365000000000002,
+      20.62,
+      20.81,
+      21.11,
+      21.45,
+      21.740000000000002,
+      22.03,
+      22.95,
+      23.1,
+      23.25,
+      23.65,
+      24.1,
+      24.27,
+      24.52,
+      24.744999999999997,
+      24.97,
+      25.542948,
+      25.542948
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      17,
+      18,
+      30,
+      31,
+      43,
+      70
+    ],
+    "sentence_translations": [
+      "Cleaning up",
+      "",
+      "Little Ming’s Mother: The house is so messy. Clean it up now!",
+      "",
+      "Little Ming’s Father: Wait a moment. I’ve just finished eating.",
+      "",
+      "Little Ming’s Mother: Okay, just make sure you clean up today.",
+      "I’m going to work now. If I come back and you still haven’t cleaned the house, you’ll be cleaned up by me!",
+      ""
+    ]
+  }
+}

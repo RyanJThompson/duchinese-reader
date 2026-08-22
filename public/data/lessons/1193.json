@@ -1,0 +1,861 @@
+{
+  "id": "1193",
+  "title": "My New Sweaters",
+  "level": "newbie",
+  "date": "2021-02-01",
+  "synopsis": "What a clever and cute cat!",
+  "audioUrl": "https://static.duchinese.net/documents/1193/33babeddc62aa7246630e09b87c440cefcbd0d6a.mp3?1609756397",
+  "series": null,
+  "fullText": {
+    "simplified": "我的新毛衣\n\n    我有一只白色的猫，我很喜欢它。因为它又聪明又可爱，它还喜欢送我礼物。\n    每年春天和秋天，它都会送我很多新“毛衣”。现在我的衣服都是白色的，因为它送给我的毛衣是白色的！",
+    "traditional": "我的新毛衣\n\n    我有一隻白色的貓，我很喜歡它。因為它又聰明又可愛，它還喜歡送我禮物。\n    每年春天和秋天，它都會送我很多新“毛衣”。現在我的衣服都是白色的，因為它送給我的毛衣是白色的！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "My New Sweaters"
+    },
+    {
+      "index": 2,
+      "simplified": "我有一只白色的猫，我很喜欢它。",
+      "traditional": "我有一隻白色的貓，我很喜歡它。",
+      "pinyin": "wǒ yǒu yì zhī bái sè de māo wǒ hěn xǐ huan tā",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "因为它又聪明又可爱，它还喜欢送我礼物。",
+      "traditional": "因為它又聰明又可愛，它還喜歡送我禮物。",
+      "pinyin": "yīn wèi tā yòu cōng ming yòu kě ài tā hái xǐ huan sòng wǒ lǐ wù",
+      "english": "I have a white cat, and I like it very much."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "That’s because it’s both clever and cute, and it also likes to give me presents."
+    },
+    {
+      "index": 5,
+      "simplified": "每年春天和秋天，它都会送我很多新“毛衣”。",
+      "traditional": "每年春天和秋天，它都會送我很多新“毛衣”。",
+      "pinyin": "měi nián chūn tiān hé qiū tiān tā dōu huì sòng wǒ hěn duō xīn máo yī",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "现在我的衣服都是白色的，因为它送给我的毛衣是白色的！",
+      "traditional": "現在我的衣服都是白色的，因為它送給我的毛衣是白色的！",
+      "pinyin": "xiàn zài wǒ de yī fu dōu shì bái sè de yīn wèi tā sòng gěi wǒ de máo yī shì bái sè de",
+      "english": "Every year in spring and autumn, it will always give me many new “sweaters”."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Now all of my clothes are white, because the sweaters it gave me are white!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "毛衣",
+      "traditional": "毛衣",
+      "pinyin": "máo yī",
+      "meaning": "(wool) sweater",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "隻",
+      "pinyin": "zhī",
+      "meaning": "classifier for birds and certain animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "白色",
+      "traditional": "白色",
+      "pinyin": "bái sè",
+      "meaning": "white",
+      "hsk": null
+    },
+    {
+      "hanzi": "猫",
+      "traditional": "貓",
+      "pinyin": "māo",
+      "meaning": "cat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "both... and...",
+      "hsk": 3
+    },
+    {
+      "hanzi": "聪明",
+      "traditional": "聰明",
+      "pinyin": "cōng ming",
+      "meaning": "clever\nintelligent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可爱",
+      "traditional": "可愛",
+      "pinyin": "kě ài",
+      "meaning": "cute\nadorable\nlovely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "also\neven more\nin addition",
+      "hsk": 3
+    },
+    {
+      "hanzi": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "meaning": "to give (as a present)\nto present (with)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "礼物",
+      "traditional": "禮物",
+      "pinyin": "lǐ wù",
+      "meaning": "gift\npresent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "春天",
+      "traditional": "春天",
+      "pinyin": "chūn tiān",
+      "meaning": "spring (season)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "秋天",
+      "traditional": "秋天",
+      "pinyin": "qiū tiān",
+      "meaning": "autumn\nfall",
+      "hsk": 3
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hanzi": "毛衣",
+        "pinyin": "máo yī",
+        "meaning": "(wool) sweater",
+        "tc_hanzi": "毛衣"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhī",
+        "meaning": "classifier for birds and certain animals",
+        "tc_hanzi": "隻"
+      },
+      {
+        "hanzi": "白色",
+        "pinyin": "bái sè",
+        "meaning": "white",
+        "tc_hanzi": "白色"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "both... and...",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "聪明",
+        "pinyin": "cōng ming",
+        "meaning": "clever\nintelligent",
+        "tc_hanzi": "聰明"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "both... and...",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to give (as a present)\nto present (with)",
+        "tc_hanzi": "送"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "春天",
+        "pinyin": "chūn tiān",
+        "meaning": "spring (season)",
+        "tc_hanzi": "春天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "秋天",
+        "pinyin": "qiū tiān",
+        "meaning": "autumn\nfall",
+        "tc_hanzi": "秋天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to give (as a present)\nto present (with)",
+        "tc_hanzi": "送"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "毛衣",
+        "pinyin": "máo yī",
+        "meaning": "(wool) sweater",
+        "tc_hanzi": "毛衣"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "白色",
+        "pinyin": "bái sè",
+        "meaning": "white",
+        "tc_hanzi": "白色"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to give (as a present)\nto present (with)",
+        "tc_hanzi": "送"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "毛衣",
+        "pinyin": "máo yī",
+        "meaning": "(wool) sweater",
+        "tc_hanzi": "毛衣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "白色",
+        "pinyin": "bái sè",
+        "meaning": "white",
+        "tc_hanzi": "白色"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What a clever and cute cat!",
+    "syllable_times": [
+      0.37000000000000005,
+      0.71,
+      1.0374149659863945,
+      1.415,
+      3.09,
+      3.45,
+      3.84,
+      4.098639455782313,
+      4.73,
+      5.08,
+      5.43,
+      5.55,
+      6.7,
+      6.9,
+      7.1,
+      7.445,
+      7.79,
+      9.03,
+      9.27,
+      9.51,
+      10.13,
+      10.5,
+      10.87,
+      11.44,
+      11.72,
+      12.07,
+      13.43,
+      13.64,
+      13.82,
+      14.205,
+      14.62,
+      14.91,
+      15.1,
+      15.469999999999999,
+      17.37,
+      17.634999999999998,
+      17.9,
+      18.28,
+      18.72,
+      18.97,
+      19.31,
+      20.26,
+      20.52,
+      20.86,
+      21.24,
+      21.53,
+      21.75,
+      22.085,
+      22.57,
+      23.19,
+      23.62,
+      25.07,
+      25.509999999999998,
+      26.03,
+      26.245,
+      26.46,
+      26.83,
+      27.52,
+      27.86,
+      28.13,
+      28.415,
+      28.7,
+      29.72,
+      30.09,
+      30.69,
+      30.93,
+      31.115000000000002,
+      31.3,
+      31.5,
+      31.7,
+      32.115,
+      32.67,
+      33.31,
+      33.66,
+      34.01,
+      34.554444
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      20,
+      34,
+      36,
+      53,
+      73
+    ],
+    "sentence_translations": [
+      "My New Sweaters",
+      "",
+      "I have a white cat, and I like it very much.",
+      "That’s because it’s both clever and cute, and it also likes to give me presents.",
+      "",
+      "Every year in spring and autumn, it will always give me many new “sweaters”.",
+      "Now all of my clothes are white, because the sweaters it gave me are white!",
+      ""
+    ]
+  }
+}

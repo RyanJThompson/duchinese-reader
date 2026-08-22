@@ -1,0 +1,971 @@
+{
+  "id": "693",
+  "title": "Beijing Time",
+  "level": "intermediate",
+  "date": "2019-06-23",
+  "synopsis": "Honda wants to make an appointment with Manager Wang for Section Chief Tanaka.",
+  "audioUrl": "https://static.duchinese.net/documents/1074/c8e413bc23d46e9da1efa589a772f2b39714ad75.mp3?1560417364",
+  "series": null,
+  "fullText": {
+    "simplified": "北京时间\n\n王经理：\n    您好！\n    我们市场部的田中科长想和您在2月18日（周一）北京时间上午10点开一个视频会议，讨论一下我们新一年度的合作计划，不知您是否方便？\n    期待您的回复，祝好！\n\n本田\n2019年2月5日",
+    "traditional": "北京時間\n\n王經理：\n    您好！\n    我們市場部的田中科長想和您在2月18日（週一）北京時間上午10點開一個視頻會議，討論一下我們新一年度的合作計劃，不知您是否方便？\n    期待您的回復，祝好！\n\n本田\n2019年2月5日"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Beijing Time"
+    },
+    {
+      "index": 2,
+      "simplified": "王经理：",
+      "traditional": "王經理：",
+      "pinyin": "wáng jīng lǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Manager Wang:"
+    },
+    {
+      "index": 4,
+      "simplified": "您好！",
+      "traditional": "您好！",
+      "pinyin": "nín hǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Hello!"
+    },
+    {
+      "index": 6,
+      "simplified": "我们市场部的田中科长想和您在2月18日（周一）北京时间上午10点开一个视频会议，",
+      "traditional": "我們市場部的田中科長想和您在2月18日（週一）北京時間上午10點開一個視頻會議，",
+      "pinyin": "wǒ men shì chǎng bù de tián zhōng kē zhǎng xiǎng hé nín zài 1 yuè 2 rì zhōu yī běi jīng shí jiān shàng wǔ 1 diǎn kāi yí ge shì pín huì yì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "讨论一下我们新一年度的合作计划，",
+      "traditional": "討論一下我們新一年度的合作計劃，",
+      "pinyin": "tǎo lùn yí xià wǒ men xīn yì nián dù de hé zuò jì huà",
+      "english": "Our marketing department chief Tanaka wants to have a video conference with you on February 18 (Monday) at 10 a.m. Beijing Time."
+    },
+    {
+      "index": 8,
+      "simplified": "不知您是否方便？",
+      "traditional": "不知您是否方便？",
+      "pinyin": "bù zhī nín shì fǒu fāng biàn",
+      "english": "He wants to briefly discuss our new collaboration plan for the year."
+    },
+    {
+      "index": 9,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "I don’t know whether or not that is convenient for you?"
+    },
+    {
+      "index": 10,
+      "simplified": "期待您的回复，祝好！",
+      "traditional": "期待您的回復，祝好！",
+      "pinyin": "qī dài nín de huí fù zhù hǎo",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Awaiting your reply, wish you all the best!"
+    },
+    {
+      "index": 12,
+      "simplified": "本田",
+      "traditional": "本田",
+      "pinyin": "běn tián",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Honda"
+    },
+    {
+      "index": 14,
+      "simplified": "2019年2月5日",
+      "traditional": "2019年2月5日",
+      "pinyin": "4 nián 1 yuè 1 rì",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "经理",
+      "traditional": "經理",
+      "pinyin": "jīng lǐ",
+      "meaning": "manager\ndirector",
+      "hsk": 3
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "市场",
+      "traditional": "市場",
+      "pinyin": "shì chǎng",
+      "meaning": "market",
+      "hsk": 5
+    },
+    {
+      "hanzi": "部",
+      "traditional": "部",
+      "pinyin": "bù",
+      "meaning": "section\npart",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "田中",
+      "traditional": "田中",
+      "pinyin": "tián zhōng",
+      "meaning": "Tanaka (Japanese surname)",
+      "hsk": null
+    },
+    {
+      "hanzi": "科长",
+      "traditional": "科長",
+      "pinyin": "kē zhǎng",
+      "meaning": "section chief",
+      "hsk": null
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "周一",
+      "traditional": "週一",
+      "pinyin": "zhōu yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "meaning": "morning\nbefore noon",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to open",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "视频",
+      "traditional": "視頻",
+      "pinyin": "shì pín",
+      "meaning": "video",
+      "hsk": 6
+    },
+    {
+      "hanzi": "会议",
+      "traditional": "會議",
+      "pinyin": "huì yì",
+      "meaning": "meeting\nconference",
+      "hsk": 3
+    },
+    {
+      "hanzi": "讨论",
+      "traditional": "討論",
+      "pinyin": "tǎo lùn",
+      "meaning": "to discuss\nto talk over",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "年度",
+      "traditional": "年度",
+      "pinyin": "nián dù",
+      "meaning": "annual\nyear (e.g. school year, fiscal year)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "合作",
+      "traditional": "合作",
+      "pinyin": "hé zuò",
+      "meaning": "to cooperate\nto collaborate\ncooperation",
+      "hsk": 5
+    },
+    {
+      "hanzi": "计划",
+      "traditional": "計劃",
+      "pinyin": "jì huà",
+      "meaning": "plan\nproject\nprogram",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不知",
+      "traditional": "不知",
+      "pinyin": "bù zhī",
+      "meaning": "not to know\nunaware",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是否",
+      "traditional": "是否",
+      "pinyin": "shì fǒu",
+      "meaning": "whether (or not)\nif\nis or isn't",
+      "hsk": 4
+    },
+    {
+      "hanzi": "方便",
+      "traditional": "方便",
+      "pinyin": "fāng biàn",
+      "meaning": "convenient\nsuitable",
+      "hsk": 3
+    },
+    {
+      "hanzi": "期待",
+      "traditional": "期待",
+      "pinyin": "qī dài",
+      "meaning": "to look forward to\nto await\nexpectation",
+      "hsk": 5
+    },
+    {
+      "hanzi": "回复",
+      "traditional": "回復",
+      "pinyin": "huí fù",
+      "meaning": "to reply\nto recover",
+      "hsk": null
+    },
+    {
+      "hanzi": "祝好",
+      "traditional": "祝好",
+      "pinyin": "zhù hǎo",
+      "meaning": "wish you all the best! (when signing off on a correspondence)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本田",
+      "traditional": "本田",
+      "pinyin": "běn tián",
+      "meaning": "Honda (Japanese name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "市场",
+        "pinyin": "shì chǎng",
+        "meaning": "market",
+        "tc_hanzi": "市場"
+      },
+      {
+        "hanzi": "部",
+        "pinyin": "bù",
+        "meaning": "section\npart",
+        "tc_hanzi": "部"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "田中",
+        "pinyin": "tián zhōng",
+        "meaning": "Tanaka (Japanese surname)",
+        "tc_hanzi": "田中"
+      },
+      {
+        "hanzi": "科长",
+        "pinyin": "kē zhǎng",
+        "meaning": "section chief",
+        "tc_hanzi": "科長"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "18",
+        "pinyin": "2",
+        "tc_hanzi": "18"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hanzi": "周一",
+        "pinyin": "zhōu yī",
+        "meaning": "Monday",
+        "tc_hanzi": "週一"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "morning\nbefore noon",
+        "tc_hanzi": "上午"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to open",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "视频",
+        "pinyin": "shì pín",
+        "meaning": "video",
+        "tc_hanzi": "視頻"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "会议",
+        "pinyin": "huì yì",
+        "meaning": "meeting\nconference",
+        "tc_hanzi": "會議"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "讨论",
+        "pinyin": "tǎo lùn",
+        "meaning": "to discuss\nto talk over",
+        "tc_hanzi": "討論"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "年度",
+        "pinyin": "nián dù",
+        "meaning": "annual\nyear (e.g. school year, fiscal year)",
+        "tc_hanzi": "年度"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "合作",
+        "pinyin": "hé zuò",
+        "meaning": "to cooperate\nto collaborate\ncooperation",
+        "tc_hanzi": "合作"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "计划",
+        "pinyin": "jì huà",
+        "meaning": "plan\nproject\nprogram",
+        "tc_hanzi": "計劃"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不知",
+        "pinyin": "bù zhī",
+        "meaning": "not to know\nunaware",
+        "tc_hanzi": "不知"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "是否",
+        "pinyin": "shì fǒu",
+        "meaning": "whether (or not)\nif\nis or isn't",
+        "tc_hanzi": "是否"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 5,
+        "hanzi": "期待",
+        "pinyin": "qī dài",
+        "meaning": "to look forward to\nto await\nexpectation",
+        "tc_hanzi": "期待"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "回复",
+        "pinyin": "huí fù",
+        "meaning": "to reply\nto recover",
+        "tc_hanzi": "回復"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "祝好",
+        "pinyin": "zhù hǎo",
+        "meaning": "wish you all the best! (when signing off on a correspondence)",
+        "tc_hanzi": "祝好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "本田",
+        "pinyin": "běn tián",
+        "meaning": "Honda (Japanese name)",
+        "tc_hanzi": "本田"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2019",
+        "pinyin": "4",
+        "tc_hanzi": "2019"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Honda wants to make an appointment with Manager Wang for Section Chief Tanaka.",
+    "syllable_times": [
+      0.47500000000000003,
+      0.88,
+      1.305,
+      2.81,
+      3.11,
+      3.49,
+      4.03,
+      4.475,
+      5.45,
+      5.734999999999999,
+      6.02,
+      6.293333333333333,
+      6.566666666666666,
+      6.84,
+      7.23,
+      7.575,
+      7.92,
+      8.23,
+      8.95,
+      9.25,
+      9.54,
+      9.96,
+      10.48,
+      10.77,
+      11.06,
+      11.38,
+      11.7,
+      12.26,
+      12.57,
+      13.501339169679591,
+      13.838033683329636,
+      14.160276266571527,
+      14.449137550435081,
+      15.12,
+      15.485,
+      15.85,
+      16.265,
+      16.81,
+      17.09,
+      17.345,
+      17.6,
+      17.92,
+      18.240000000000002,
+      18.56,
+      19.67,
+      19.92,
+      20.17,
+      20.54,
+      20.95,
+      21.23,
+      21.51,
+      21.755000000000003,
+      22,
+      22.259999999999998,
+      22.52,
+      22.85,
+      23.175,
+      23.5,
+      23.825,
+      24.89,
+      25.25,
+      25.67,
+      25.99,
+      26.24,
+      26.49,
+      26.85,
+      28.11,
+      28.42,
+      28.73,
+      28.953253691515034,
+      29.162363371684524,
+      29.405,
+      30.11,
+      30.35,
+      31.91,
+      32.23817828169891,
+      33.19,
+      33.5,
+      33.72,
+      33.98,
+      34.28,
+      34.92,
+      35.255,
+      35.7,
+      35.97,
+      36.543016,
+      36.543016
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      7,
+      9,
+      11,
+      13,
+      41,
+      51,
+      56,
+      58,
+      65,
+      67,
+      68,
+      69
+    ],
+    "sentence_translations": [
+      "Beijing Time",
+      "",
+      "Manager Wang:",
+      "",
+      "Hello!",
+      "",
+      "Our marketing department chief Tanaka wants to have a video conference with you on February 18 (Monday) at 10 a.m. Beijing Time.",
+      "He wants to briefly discuss our new collaboration plan for the year.",
+      "I don’t know whether or not that is convenient for you?",
+      "",
+      "Awaiting your reply, wish you all the best!",
+      "",
+      "Honda",
+      "",
+      "February 5, 2019"
+    ]
+  }
+}

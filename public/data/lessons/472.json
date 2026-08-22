@@ -1,0 +1,827 @@
+{
+  "id": "472",
+  "title": "I Have Lots of Homework",
+  "level": "newbie",
+  "date": "2018-03-22",
+  "synopsis": "Ben says he has too much homework to go out to play with Little Yu.",
+  "audioUrl": "https://static.duchinese.net/documents/685/7b95072975bd0e2d9c5ffea152f728877ad848c7.mp3?1589791863",
+  "series": {
+    "title": "Ben’s life in China 4: Trouble in Paradise",
+    "chapter": 19,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我有好多作业\n\n小雨：本，我们去堆雪人吧。\n本：不行。我有好多作业。\n小雨：晚上再写吧。\n本：不行。作业太多了，写不完。\n小雨：我们现在去堆雪人，晚上我教你写作业，怎么样？\n本：好吧！",
+    "traditional": "我有好多作業\n\n小雨：本，我們去堆雪人吧。\n本：不行。我有好多作業。\n小雨：晚上再寫吧。\n本：不行。作業太多了，寫不完。\n小雨：我們現在去堆雪人，晚上我教你寫作業，怎麼樣？\n本：好吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Have Lots of Homework"
+    },
+    {
+      "index": 2,
+      "simplified": "小雨：本，我们去堆雪人吧。",
+      "traditional": "小雨：本，我們去堆雪人吧。",
+      "pinyin": "xiǎo yǔ běn wǒ men qù duī xuě rén ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Ben, let's go make a snowman."
+    },
+    {
+      "index": 4,
+      "simplified": "本：不行。我有好多作业。",
+      "traditional": "本：不行。我有好多作業。",
+      "pinyin": "běn bù xíng wǒ yǒu hǎo duō zuò yè",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I can't. I have lots of homework."
+    },
+    {
+      "index": 6,
+      "simplified": "小雨：晚上再写吧。",
+      "traditional": "小雨：晚上再寫吧。",
+      "pinyin": "xiǎo yǔ wǎn shang zài xiě ba",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: You can do it tonight."
+    },
+    {
+      "index": 8,
+      "simplified": "本：不行。作业太多了，写不完。",
+      "traditional": "本：不行。作業太多了，寫不完。",
+      "pinyin": "běn bù xíng zuò yè tài duō le xiě bù wán",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I can't. I have too much homework, I won't be able to finish it."
+    },
+    {
+      "index": 10,
+      "simplified": "小雨：我们现在去堆雪人，晚上我教你写作业，怎么样？",
+      "traditional": "小雨：我們現在去堆雪人，晚上我教你寫作業，怎麼樣？",
+      "pinyin": "xiǎo yǔ wǒ men xiàn zài qù duī xuě rén wǎn shang wǒ jiāo nǐ xiě zuò yè zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Let's go make a snowman now, and I'll help you with your homework tonight. How about that?"
+    },
+    {
+      "index": 12,
+      "simplified": "本：好吧！",
+      "traditional": "本：好吧！",
+      "pinyin": "běn hǎo ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Alright!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作业",
+      "traditional": "作業",
+      "pinyin": "zuò yè",
+      "meaning": "homework\nschool assignment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "堆",
+      "traditional": "堆",
+      "pinyin": "duī",
+      "meaning": "pile\nstack",
+      "hsk": 5
+    },
+    {
+      "hanzi": "雪人",
+      "traditional": "雪人",
+      "pinyin": "xuě rén",
+      "meaning": "snowman\nyeti",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不行",
+      "traditional": "不行",
+      "pinyin": "bù xíng",
+      "meaning": "won't do\nbe out of the question\nbe no good",
+      "hsk": null
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "meaning": "to teach",
+      "hsk": 3
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好吧",
+      "traditional": "好吧",
+      "pinyin": "hǎo ba",
+      "meaning": "OK (reluctantly)\nalright...",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "堆",
+        "pinyin": "duī",
+        "meaning": "pile\nstack",
+        "tc_hanzi": "堆"
+      },
+      {
+        "hanzi": "雪人",
+        "pinyin": "xuě rén",
+        "meaning": "snowman\nyeti",
+        "tc_hanzi": "雪人"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不行",
+        "pinyin": "bù xíng",
+        "meaning": "won't do\nbe out of the question\nbe no good",
+        "tc_hanzi": "不行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不行",
+        "pinyin": "bù xíng",
+        "meaning": "won't do\nbe out of the question\nbe no good",
+        "tc_hanzi": "不行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "堆",
+        "pinyin": "duī",
+        "meaning": "pile\nstack",
+        "tc_hanzi": "堆"
+      },
+      {
+        "hanzi": "雪人",
+        "pinyin": "xuě rén",
+        "meaning": "snowman\nyeti",
+        "tc_hanzi": "雪人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吧",
+        "pinyin": "hǎo ba",
+        "meaning": "OK (reluctantly)\nalright...",
+        "tc_hanzi": "好吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben says he has too much homework to go out to play with Little Yu.",
+    "syllable_times": [
+      0.3968253968253968,
+      0.719954648526077,
+      1.173469387755102,
+      1.44,
+      1.785,
+      3.95,
+      3.95,
+      3.95,
+      5.192743764172335,
+      5.56,
+      6.26,
+      6.65,
+      7.09,
+      7.54,
+      8.02154195011338,
+      9.65,
+      9.65,
+      10.015,
+      11.11,
+      11.445578231292517,
+      11.73469387755102,
+      12.137188208616779,
+      12.4,
+      12.73,
+      15.04,
+      15.04,
+      15.04,
+      15.55,
+      16.116780045351472,
+      16.479591836734695,
+      16.97,
+      18.32,
+      18.32,
+      18.67,
+      19.75,
+      20.125,
+      20.67,
+      21.201814058956916,
+      21.52,
+      22.28,
+      22.72108843537415,
+      23.01020408163265,
+      24.84,
+      24.84,
+      24.84,
+      25.240000000000002,
+      25.83,
+      26.38888888888889,
+      26.93,
+      27.312925170068027,
+      27.66,
+      28.11,
+      29.17,
+      29.52,
+      30.28,
+      30.674603174603174,
+      31.025,
+      31.47,
+      31.94,
+      32.38662131519274,
+      33.11,
+      33.35666666666667,
+      33.60333333333333,
+      34.72,
+      34.72,
+      35.19,
+      35.910181
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      17,
+      18,
+      28,
+      29,
+      36,
+      37,
+      50,
+      51,
+      68,
+      69,
+      73
+    ],
+    "sentence_translations": [
+      "I Have Lots of Homework",
+      "",
+      "Little Yu: Ben, let's go make a snowman.",
+      "",
+      "Ben: I can't. I have lots of homework.",
+      "",
+      "Little Yu: You can do it tonight.",
+      "",
+      "Ben: I can't. I have too much homework, I won't be able to finish it.",
+      "",
+      "Little Yu: Let's go make a snowman now, and I'll help you with your homework tonight. How about that?",
+      "",
+      "Ben: Alright!",
+      ""
+    ]
+  }
+}

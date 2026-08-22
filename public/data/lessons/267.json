@@ -1,0 +1,421 @@
+{
+  "id": "267",
+  "title": "What Are You Doing?",
+  "level": "newbie",
+  "date": "2017-03-31",
+  "synopsis": "Lili tells Ben that she is watching a movie.",
+  "audioUrl": "https://static.duchinese.net/documents/377/56966272e58f75ff23eff80f3b5971d5738f8d50.mp3?1553269255",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 18,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你在干什么？\n\n本：你在干什么？\n丽丽：我在看电影。\n本：什么电影？\n丽丽：《星球大战》。",
+    "traditional": "你在幹什麼？\n\n本：你在幹什麼？\n麗麗：我在看電影。\n本：什麼電影？\n麗麗：《星球大戰》。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What Are You Doing?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：你在干什么？",
+      "traditional": "本：你在幹什麼？",
+      "pinyin": "běn nǐ zài gàn shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, what are you doing?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：我在看电影。",
+      "traditional": "麗麗：我在看電影。",
+      "pinyin": "lì lì wǒ zài kàn diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I'm watching a movie."
+    },
+    {
+      "index": 6,
+      "simplified": "本：什么电影？",
+      "traditional": "本：什麼電影？",
+      "pinyin": "běn shén me diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What movie?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：《星球大战》。",
+      "traditional": "麗麗：《星球大戰》。",
+      "pinyin": "lì lì xīng qiú dà zhàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Star Wars."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "干",
+      "traditional": "幹",
+      "pinyin": "gàn",
+      "meaning": "to do\nto manage\nto work",
+      "hsk": 4
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星球",
+      "traditional": "星球",
+      "pinyin": "xīng qiú",
+      "meaning": "celestial body (e.g. planet, satellite etc)\nheavenly body",
+      "hsk": null
+    },
+    {
+      "hanzi": "大战",
+      "traditional": "大戰",
+      "pinyin": "dà zhàn",
+      "meaning": "great war\nto fight a major battle",
+      "hsk": 5
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：《",
+        "tc_hanzi": "：《"
+      },
+      {
+        "hanzi": "星球",
+        "pinyin": "xīng qiú",
+        "meaning": "celestial body (e.g. planet, satellite etc)\nheavenly body",
+        "tc_hanzi": "星球"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "大战",
+        "pinyin": "dà zhàn",
+        "meaning": "great war\nto fight a major battle",
+        "tc_hanzi": "大戰"
+      },
+      {
+        "hanzi": "》。",
+        "tc_hanzi": "》。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili tells Ben that she is watching a movie.",
+    "syllable_times": [
+      0.49,
+      1.33,
+      1.823089699447155,
+      2.451316555337729,
+      4.220436702628393,
+      4.220436702628393,
+      4.49,
+      4.96,
+      5.246666666666667,
+      5.533333333333333,
+      6.978404835697598,
+      6.978404835697598,
+      6.978404835697598,
+      7.49,
+      8.2,
+      8.73533973927477,
+      9.308533603557493,
+      11.151474172763358,
+      11.151474172763358,
+      11.576318233581443,
+      11.79964051836692,
+      12.05,
+      14.152961178325318,
+      14.152961178325318,
+      14.152961178325318,
+      14.777687546021832,
+      15.52,
+      15.98,
+      16.788186,
+      16.788186
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      14,
+      15,
+      22,
+      23,
+      28,
+      29,
+      34
+    ],
+    "sentence_translations": [
+      "What Are You Doing?",
+      "",
+      "Ben: Lili, what are you doing?",
+      "",
+      "Lili: I'm watching a movie.",
+      "",
+      "Ben: What movie?",
+      "",
+      "Lili: Star Wars.",
+      ""
+    ]
+  }
+}

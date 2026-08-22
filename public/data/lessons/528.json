@@ -1,0 +1,711 @@
+{
+  "id": "528",
+  "title": "My name is Ben",
+  "level": "newbie",
+  "date": "2018-05-31",
+  "synopsis": "Ben tells us a little bit about himself.",
+  "audioUrl": "https://static.duchinese.net/documents/746/81a53701a912da4e765a7fd2114eecadf9e77bef.mp3?1553269235",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 10,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我叫本\n\n     我叫本，我是美国人，我20岁，我喜欢看电影。我现在在中国学汉语，我学汉语两年了。我很喜欢中国，我有很多中国朋友，丽丽、小雨都是我的好朋友。",
+    "traditional": "我叫本\n\n     我叫本，我是美國人，我20歲，我喜歡看電影。我現在在中國學漢語，我學漢語兩年了。我很喜歡中國，我有很多中國朋友，麗麗、小雨都是我的好朋友。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n     ",
+      "traditional": "\n\n     ",
+      "pinyin": "",
+      "english": "My name is Ben"
+    },
+    {
+      "index": 2,
+      "simplified": "我叫本，我是美国人，我20岁，我喜欢看电影。",
+      "traditional": "我叫本，我是美國人，我20歲，我喜歡看電影。",
+      "pinyin": "wǒ jiào běn wǒ shì měi guó rén wǒ èr shí suì wǒ xǐ huan kàn diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "我现在在中国学汉语，我学汉语两年了。",
+      "traditional": "我現在在中國學漢語，我學漢語兩年了。",
+      "pinyin": "wǒ xiàn zài zài zhōng guó xué hàn yǔ wǒ xué hàn yǔ liǎng nián le",
+      "english": "My name is Ben and I'm from the USA. I'm 20 years old and like to watch movies."
+    },
+    {
+      "index": 4,
+      "simplified": "我很喜欢中国，我有很多中国朋友，丽丽、小雨都是我的好朋友。",
+      "traditional": "我很喜歡中國，我有很多中國朋友，麗麗、小雨都是我的好朋友。",
+      "pinyin": "wǒ hěn xǐ huan zhōng guó wǒ yǒu hěn duō zhōng guó péng you lì lì xiǎo yǔ dōu shì wǒ de hǎo péng you",
+      "english": "I'm currently in China to study Chinese. I've studied Chinese for 2 years."
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "I really like China. I have many Chinese friends. Lili and Little Yu are both my good friends."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "meaning": "to study\nto learn",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "     ",
+        "tc_hanzi": "     "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "20",
+        "pinyin": "èr shí",
+        "tc_hanzi": "20"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben tells us a little bit about himself.",
+    "syllable_times": [
+      0.41,
+      0.7,
+      2.61,
+      2.95,
+      3.24,
+      4.52,
+      4.8,
+      5.27,
+      5.609999999999999,
+      5.95,
+      6.69,
+      7.04,
+      7.33,
+      7.62,
+      8.65,
+      8.933195253627167,
+      9.225000000000001,
+      9.55,
+      9.886666666666667,
+      10.223333333333334,
+      11.47,
+      11.69,
+      12.004999999999999,
+      12.63,
+      12.93,
+      13.302650749896385,
+      13.53,
+      13.8,
+      14.175,
+      15.28,
+      15.6,
+      15.85,
+      16.185,
+      16.67,
+      17.020000000000003,
+      17.37,
+      18.7,
+      19.13,
+      19.51,
+      19.82,
+      20.13,
+      20.490000000000002,
+      21.69,
+      22.03,
+      22.43,
+      22.755,
+      23.08,
+      23.354999999999997,
+      23.67519808227173,
+      23.91,
+      25.05,
+      25.4,
+      25.92,
+      26.295,
+      26.91,
+      27.155,
+      27.4,
+      27.685,
+      28,
+      28.386666666666667,
+      28.773333333333333,
+      29.426644,
+      29.426644
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      24,
+      38,
+      60
+    ],
+    "sentence_translations": [
+      "My name is Ben",
+      "",
+      "My name is Ben and I'm from the USA. I'm 20 years old and like to watch movies.",
+      "I'm currently in China to study Chinese. I've studied Chinese for 2 years.",
+      "I really like China. I have many Chinese friends. Lili and Little Yu are both my good friends.",
+      ""
+    ]
+  }
+}

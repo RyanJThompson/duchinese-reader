@@ -1,0 +1,895 @@
+{
+  "id": "366",
+  "title": "Is Manager Wang There?",
+  "level": "elementary",
+  "date": "2017-08-18",
+  "synopsis": "Chen Dong calls looking for Manager Wang.",
+  "audioUrl": "https://static.duchinese.net/documents/499/4246cb371556d9e66e92366aa46001722cc81f80.mp3?1698352476",
+  "series": null,
+  "fullText": {
+    "simplified": "王总在吗？\n\n张力：喂，您好！大华公司。\n陈东：喂，您好！我是陈东。请问你们王总在吗？\n张力：您好，陈总！王总现在在开会，他请您三点后到他办公室找他。\n陈东：好的。我知道了！谢谢！再见！\n张力：再见！",
+    "traditional": "王總在嗎？\n\n張力：喂，您好！大華公司。\n陳東：喂，您好！我是陳東。請問你們王總在嗎？\n張力：您好，陳總！王總現在在開會，他請您三點後到他辦公室找他。\n陳東：好的。我知道了！謝謝！再見！\n張力：再見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Is Manager Wang there?"
+    },
+    {
+      "index": 2,
+      "simplified": "张力：喂，您好！大华公司。",
+      "traditional": "張力：喂，您好！大華公司。",
+      "pinyin": "zhāng lì wéi nín hǎo dà huá gōng sī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Zhang Li: Hello! Dahua Corporation."
+    },
+    {
+      "index": 4,
+      "simplified": "陈东：喂，您好！我是陈东。请问你们王总在吗？",
+      "traditional": "陳東：喂，您好！我是陳東。請問你們王總在嗎？",
+      "pinyin": "chén dōng wéi nín hǎo wǒ shì chén dōng qǐng wèn nǐ men wáng zǒng zài ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Chen Dong: Hello! I'm Chen Dong. May I ask if Manager Wang is there?"
+    },
+    {
+      "index": 6,
+      "simplified": "张力：您好，陈总！王总现在在开会，",
+      "traditional": "張力：您好，陳總！王總現在在開會，",
+      "pinyin": "zhāng lì nín hǎo chén zǒng wáng zǒng xiàn zài zài kāi huì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "他请您三点后到他办公室找他。",
+      "traditional": "他請您三點後到他辦公室找他。",
+      "pinyin": "tā qǐng nín sān diǎn hòu dào tā bàn gōng shì zhǎo tā",
+      "english": "Zhang Li: Hello, Manager Chen. Manager Wang is in a meeting."
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "He asked for you to come look for him in his office after 3 o'clock."
+    },
+    {
+      "index": 9,
+      "simplified": "陈东：好的。我知道了！谢谢！再见！",
+      "traditional": "陳東：好的。我知道了！謝謝！再見！",
+      "pinyin": "chén dōng hǎo de wǒ zhī dào le xiè xie zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Chen Dong: Ok, got it! Thank you! Goodbye!"
+    },
+    {
+      "index": 11,
+      "simplified": "张力：再见！",
+      "traditional": "張力：再見！",
+      "pinyin": "zhāng lì zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Zhang Li: Goodbye!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "总",
+      "traditional": "總",
+      "pinyin": "zǒng",
+      "meaning": "head\nchief",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "张力",
+      "traditional": "張力",
+      "pinyin": "zhāng lì",
+      "meaning": "Zhang Li (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "华",
+      "traditional": "華",
+      "pinyin": "huá",
+      "meaning": "abbr. for China",
+      "hsk": null
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "陈东",
+      "traditional": "陳東",
+      "pinyin": "chén dōng",
+      "meaning": "Chen Dong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "陈",
+      "traditional": "陳",
+      "pinyin": "chén",
+      "meaning": "surname Chen",
+      "hsk": null
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开会",
+      "traditional": "開會",
+      "pinyin": "kāi huì",
+      "meaning": "to hold a meeting",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "办公室",
+      "traditional": "辦公室",
+      "pinyin": "bàn gōng shì",
+      "meaning": "office",
+      "hsk": 3
+    },
+    {
+      "hanzi": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to try to find\nto look for\nto call on sb",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张力",
+        "pinyin": "zhāng lì",
+        "meaning": "Zhang Li (name)",
+        "tc_hanzi": "張力"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "华",
+        "pinyin": "huá",
+        "meaning": "abbr. for China",
+        "tc_hanzi": "華"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陈东",
+        "pinyin": "chén dōng",
+        "meaning": "Chen Dong (name)",
+        "tc_hanzi": "陳東"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "陈东",
+        "pinyin": "chén dōng",
+        "meaning": "Chen Dong (name)",
+        "tc_hanzi": "陳東"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张力",
+        "pinyin": "zhāng lì",
+        "meaning": "Zhang Li (name)",
+        "tc_hanzi": "張力"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "陈",
+        "pinyin": "chén",
+        "meaning": "surname Chen",
+        "tc_hanzi": "陳"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "开会",
+        "pinyin": "kāi huì",
+        "meaning": "to hold a meeting",
+        "tc_hanzi": "開會"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "办公室",
+        "pinyin": "bàn gōng shì",
+        "meaning": "office",
+        "tc_hanzi": "辦公室"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陈东",
+        "pinyin": "chén dōng",
+        "meaning": "Chen Dong (name)",
+        "tc_hanzi": "陳東"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张力",
+        "pinyin": "zhāng lì",
+        "meaning": "Zhang Li (name)",
+        "tc_hanzi": "張力"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Chen Dong calls looking for Manager Wang.",
+    "syllable_times": [
+      0.46485260770975056,
+      1.01,
+      1.4342403628117912,
+      3.01,
+      3.01,
+      3.01,
+      3.378684807256236,
+      3.8095238095238093,
+      4.51,
+      4.824263038548753,
+      5.073696145124717,
+      5.294784580498866,
+      7.22,
+      7.22,
+      7.22,
+      8.072562358276643,
+      8.356009070294784,
+      9.319727891156463,
+      9.586167800453515,
+      9.965986394557822,
+      10.272108843537415,
+      11.45,
+      11.808390022675736,
+      12.41,
+      12.647392290249433,
+      12.88548752834467,
+      13.231292517006802,
+      13.724489795918366,
+      14.05328798185941,
+      16.01,
+      16.01,
+      16.01,
+      16.349206349206348,
+      16.75170068027211,
+      17.0578231292517,
+      18.19,
+      18.520408163265305,
+      18.860544217687075,
+      19.17800453514739,
+      19.506802721088434,
+      19.72222222222222,
+      20.07936507936508,
+      21.08,
+      21.33219954648526,
+      21.60997732426304,
+      21.984126984126984,
+      22.250566893424036,
+      22.50566893424036,
+      22.96,
+      23.236961451247165,
+      23.565759637188208,
+      23.81519274376417,
+      24.01360544217687,
+      24.302721088435373,
+      24.569160997732425,
+      25.92,
+      25.92,
+      25.92,
+      26.218820861678005,
+      27.284580498866212,
+      27.471655328798185,
+      27.66439909297052,
+      27.84580498866213,
+      28.92,
+      29.280045351473923,
+      30.45,
+      30.674603174603174,
+      31.52,
+      31.52,
+      31.52,
+      31.81972789115646,
+      32.9
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      17,
+      18,
+      35,
+      36,
+      49,
+      61,
+      62,
+      74,
+      75,
+      79
+    ],
+    "sentence_translations": [
+      "Is Manager Wang there?",
+      "",
+      "Zhang Li: Hello! Dahua Corporation.",
+      "",
+      "Chen Dong: Hello! I'm Chen Dong. May I ask if Manager Wang is there?",
+      "",
+      "Zhang Li: Hello, Manager Chen. Manager Wang is in a meeting.",
+      "He asked for you to come look for him in his office after 3 o'clock.",
+      "",
+      "Chen Dong: Ok, got it! Thank you! Goodbye!",
+      "",
+      "Zhang Li: Goodbye!",
+      ""
+    ]
+  }
+}

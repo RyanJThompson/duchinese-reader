@@ -1,0 +1,1217 @@
+{
+  "id": "E291",
+  "title": "Watching A Movie Alone",
+  "level": "elementary",
+  "date": "2019-01-19",
+  "synopsis": "Ben can’t find anyone to go watch a movie with him.",
+  "audioUrl": "https://static.duchinese.net/documents/947/c5c48d5d1ddd5d7bd185102c357ac7f55e0d5192.mp3?1547295337",
+  "series": null,
+  "fullText": {
+    "simplified": "一个人看电影\n\n本：小乐，我买了两张明天的电影票，你想不想去看？\n小乐：不好意思，我明天要去看我奶奶。你问一下保罗吧。\n本：保罗明天有事，也不能去。\n小乐：丽丽呢？\n本：丽丽身体不舒服，她想在家休息。\n小乐：那你问问别的同学吧。\n本：算了，我还是一个人去看吧。",
+    "traditional": "一個人看電影\n\n本：小樂，我買了兩張明天的電影票，你想不想去看？\n小樂：不好意思，我明天要去看我奶奶。你問一下保羅吧。\n本：保羅明天有事，也不能去。\n小樂：麗麗呢？\n本：麗麗身體不舒服，她想在家休息。\n小樂：那你問問別的同學吧。\n本：算了，我還是一個人去看吧。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Watching A Movie Alone"
+    },
+    {
+      "index": 2,
+      "simplified": "本：小乐，我买了两张明天的电影票，你想不想去看？",
+      "traditional": "本：小樂，我買了兩張明天的電影票，你想不想去看？",
+      "pinyin": "běn xiǎo lè wǒ mǎi le liǎng zhāng míng tiān de diàn yǐng piào nǐ xiǎng bù xiǎng qù kàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Little Le, I bought two tickets for the movie tomorrow. Do you want to go watch it together?"
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：不好意思，我明天要去看我奶奶。你问一下保罗吧。",
+      "traditional": "小樂：不好意思，我明天要去看我奶奶。你問一下保羅吧。",
+      "pinyin": "xiǎo lè bù hǎo yì si wǒ míng tiān yào qù kàn wǒ nǎi nai nǐ wèn yí xià bǎo luó ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Sorry, I’m going to visit my grandma tomorrow. You can ask Paul."
+    },
+    {
+      "index": 6,
+      "simplified": "本：保罗明天有事，也不能去。",
+      "traditional": "本：保羅明天有事，也不能去。",
+      "pinyin": "běn bǎo luó míng tiān yǒu shì yě bù néng qù",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Paul is busy tomorrow. He can’t go either."
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：丽丽呢？",
+      "traditional": "小樂：麗麗呢？",
+      "pinyin": "xiǎo lè lì lì ne",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: How about Lili?"
+    },
+    {
+      "index": 10,
+      "simplified": "本：丽丽身体不舒服，她想在家休息。",
+      "traditional": "本：麗麗身體不舒服，她想在家休息。",
+      "pinyin": "běn lì lì shēn tǐ bù shū fu tā xiǎng zài jiā xiū xi",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili isn’t feeling well. She wants to stay at home and rest."
+    },
+    {
+      "index": 12,
+      "simplified": "小乐：那你问问别的同学吧。",
+      "traditional": "小樂：那你問問別的同學吧。",
+      "pinyin": "xiǎo lè nà nǐ wèn wen bié de tóng xué ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Then ask some other classmate."
+    },
+    {
+      "index": 14,
+      "simplified": "本：算了，我还是一个人去看吧。",
+      "traditional": "本：算了，我還是一個人去看吧。",
+      "pinyin": "běn suàn le wǒ hái shi yí ge rén qù kàn ba",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Never mind, I better just go watch it alone."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "classifier for flat objects, sheet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "票",
+      "traditional": "票",
+      "pinyin": "piào",
+      "meaning": "ticket\nballot",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "奶奶",
+      "traditional": "奶奶",
+      "pinyin": "nǎi nai",
+      "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有事",
+      "traditional": "有事",
+      "pinyin": "yǒu shì",
+      "meaning": "to be occupied with sth\nto have sth on one's mind",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "身体",
+      "traditional": "身體",
+      "pinyin": "shēn tǐ",
+      "meaning": "the body\none's health",
+      "hsk": 2
+    },
+    {
+      "hanzi": "舒服",
+      "traditional": "舒服",
+      "pinyin": "shū fu",
+      "meaning": "comfortable\nfeeling well",
+      "hsk": 3
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "meaning": "rest\nto rest",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问问",
+      "traditional": "問問",
+      "pinyin": "wèn wen",
+      "meaning": "to ask",
+      "hsk": null
+    },
+    {
+      "hanzi": "别的",
+      "traditional": "別的",
+      "pinyin": "bié de",
+      "meaning": "else\nother",
+      "hsk": null
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "算了",
+      "traditional": "算了",
+      "pinyin": "suàn le",
+      "meaning": "forget it\nlet it be",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "classifier for flat objects, sheet",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to visit\nto call on",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "有事",
+        "pinyin": "yǒu shì",
+        "meaning": "to be occupied with sth\nto have sth on one's mind",
+        "tc_hanzi": "有事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "舒服",
+        "pinyin": "shū fu",
+        "meaning": "comfortable\nfeeling well",
+        "tc_hanzi": "舒服"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "休息",
+        "pinyin": "xiū xi",
+        "meaning": "rest\nto rest",
+        "tc_hanzi": "休息"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "verb-reduplication",
+        "hanzi": "问问",
+        "pinyin": "wèn wen",
+        "meaning": "to ask",
+        "tc_hanzi": "問問"
+      },
+      {
+        "hanzi": "别的",
+        "pinyin": "bié de",
+        "meaning": "else\nother",
+        "tc_hanzi": "別的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "meaning": "forget it\nlet it be",
+        "tc_hanzi": "算了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben can’t find anyone to go watch a movie with him.",
+    "syllable_times": [
+      0.31746031746031744,
+      0.6349206349206349,
+      1.2698412698412698,
+      1.8140589569160999,
+      2.17687074829932,
+      5.072124232341741,
+      5.072124232341741,
+      5.397547740227505,
+      6.4852607709750565,
+      6.757369614512472,
+      7.029478458049887,
+      7.197763832646339,
+      7.528344671201814,
+      7.891156462585034,
+      8.312672654885702,
+      8.571428571428571,
+      8.75283446712018,
+      8.979591836734693,
+      9.251700680272108,
+      10.38548752834467,
+      10.715588852354434,
+      11.020408163265307,
+      11.201814058956916,
+      11.461090834282475,
+      11.700680272108844,
+      13.657197017529239,
+      13.657197017529239,
+      13.657197017529239,
+      13.900766347849617,
+      14.240362811791384,
+      14.568843490825119,
+      15.600907029478458,
+      15.93135234152255,
+      16.265723113406263,
+      16.780045351473923,
+      17.142857142857142,
+      17.596371882086167,
+      17.959183673469386,
+      18.231292517006803,
+      18.594104308390023,
+      20,
+      20.453514739229025,
+      20.703831816705286,
+      20.952380952380953,
+      21.31519274376417,
+      21.632653061224488,
+      21.99546485260771,
+      23.8742638090079,
+      23.8742638090079,
+      24.217687074829932,
+      24.58049886621315,
+      24.917993159738838,
+      25.124716553287982,
+      25.396825396825395,
+      26.53061224489796,
+      26.802721088435373,
+      27.022116776512398,
+      27.241989145254056,
+      29.121136051753794,
+      29.121136051753794,
+      29.121136051753794,
+      29.478458049886623,
+      29.705215419501133,
+      31.515857972788766,
+      31.515857972788766,
+      31.882086167800452,
+      32.19954648526077,
+      32.51700680272109,
+      32.7437641723356,
+      32.939447402957335,
+      33.28798185941043,
+      34.14965986394558,
+      34.512471655328795,
+      34.92063492063492,
+      35.23809523809524,
+      35.50310429868623,
+      35.87301587301587,
+      37.84237090028837,
+      37.84237090028837,
+      37.84237090028837,
+      38.50340136054422,
+      38.86621315192744,
+      39.183673469387756,
+      39.63718820861678,
+      40,
+      40.1985511676524,
+      40.48021281004325,
+      40.86167800453515,
+      42.8551355874788,
+      42.8551355874788,
+      43.31653979077892,
+      44.17233560090703,
+      44.399092970521544,
+      44.67120181405895,
+      45.034013605442176,
+      45.3968253968254,
+      45.57823129251701,
+      45.941043083900226,
+      46.28007737647552,
+      46.621315192743765,
+      47.12530612244898,
+      47.12530612244898
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      28,
+      29,
+      47,
+      48,
+      59,
+      60,
+      65,
+      66,
+      79,
+      80,
+      89,
+      90,
+      103
+    ],
+    "sentence_translations": [
+      "Watching A Movie Alone",
+      "",
+      "Ben: Little Le, I bought two tickets for the movie tomorrow. Do you want to go watch it together?",
+      "",
+      "Little Le: Sorry, I’m going to visit my grandma tomorrow. You can ask Paul.",
+      "",
+      "Ben: Paul is busy tomorrow. He can’t go either.",
+      "",
+      "Little Le: How about Lili?",
+      "",
+      "Ben: Lili isn’t feeling well. She wants to stay at home and rest.",
+      "",
+      "Little Le: Then ask some other classmate.",
+      "",
+      "Ben: Never mind, I better just go watch it alone.",
+      ""
+    ]
+  }
+}

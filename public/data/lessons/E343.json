@@ -1,0 +1,906 @@
+{
+  "id": "E343",
+  "title": "You Are So Stupid!",
+  "level": "newbie",
+  "date": "2019-07-18",
+  "synopsis": "Guess which is the most \"stupid\" number in China.",
+  "audioUrl": "https://static.duchinese.net/documents/1102/c76e93ea6e60889ba57aa03807db83b7ce874cea.mp3?1563182493",
+  "series": null,
+  "fullText": {
+    "simplified": "你太二了\n\n保罗：喂，你在哪儿呢？今天不是9点上课吗？教室里怎么一个人都没有？\n小乐：今天是星期六，不上课。你不会又看错时间了吧？\n保罗：噢！真的，我又二了！\n小乐：你真是太二了！",
+    "traditional": "你太二了\n\n保羅：喂，你在哪兒呢？今天不是9點上課嗎？教室裡怎麼一個人都沒有？\n小樂：今天是星期六，不上課。你不會又看錯時間了吧？\n保羅：噢！真的，我又二了！\n小樂：你真是太二了！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "You Are So Stupid!"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：喂，你在哪儿呢？今天不是9点上课吗？",
+      "traditional": "保羅：喂，你在哪兒呢？今天不是9點上課嗎？",
+      "pinyin": "bǎo luó wéi nǐ zài nǎ'r ne jīn tiān bú shì 1 diǎn shàng kè ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "教室里怎么一个人都没有？",
+      "traditional": "教室裡怎麼一個人都沒有？",
+      "pinyin": "jiào shì lǐ zěn me yí ge rén dōu méi yǒu",
+      "english": "Paul: Hello, where are you? Don’t we have class at 9 today?"
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "How come there is not a single person in the classroom?"
+    },
+    {
+      "index": 5,
+      "simplified": "小乐：今天是星期六，不上课。你不会又看错时间了吧？",
+      "traditional": "小樂：今天是星期六，不上課。你不會又看錯時間了吧？",
+      "pinyin": "xiǎo lè jīn tiān shì xīng qī liù bú shàng kè nǐ bú huì yòu kàn cuò shí jiān le ba",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: It is Saturday today, we don’t have class. You can’t have gotten the time wrong again?"
+    },
+    {
+      "index": 7,
+      "simplified": "保罗：噢！真的，我又二了！",
+      "traditional": "保羅：噢！真的，我又二了！",
+      "pinyin": "bǎo luó ō zhēn de wǒ yòu èr le",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Oh! That’s true! I’m being stupid again!"
+    },
+    {
+      "index": 9,
+      "simplified": "小乐：你真是太二了！",
+      "traditional": "小樂：你真是太二了！",
+      "pinyin": "xiǎo lè nǐ zhēn shì tài èr le",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: You are really stupid!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\n(Beijing dialect) stupid",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "meaning": "to attend class",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "教室",
+      "traditional": "教室",
+      "pinyin": "jiào shì",
+      "meaning": "classroom",
+      "hsk": 2
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "(used for emphasis) even\nalready",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不会",
+      "traditional": "不會",
+      "pinyin": "bú huì",
+      "meaning": "improbable\nunlikely\nnot at all",
+      "hsk": null
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "meaning": "wrong\nerroneous\nincorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "噢",
+      "traditional": "噢",
+      "pinyin": "ō",
+      "meaning": "Oh!",
+      "hsk": null
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\n(Beijing dialect) stupid",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "1",
+        "tc_hanzi": "9"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "教室",
+        "pinyin": "jiào shì",
+        "meaning": "classroom",
+        "tc_hanzi": "教室"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(used for emphasis) even\nalready",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "tc_hanzi": "六"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "不会",
+        "pinyin": "bú huì",
+        "meaning": "improbable\nunlikely\nnot at all",
+        "tc_hanzi": "不會"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong\nerroneous\nincorrect",
+        "tc_hanzi": "錯"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "噢",
+        "pinyin": "ō",
+        "meaning": "Oh!",
+        "tc_hanzi": "噢"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\n(Beijing dialect) stupid",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\n(Beijing dialect) stupid",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Guess which is the most \"stupid\" number in China.",
+    "syllable_times": [
+      0.55,
+      1.0551005105040916,
+      1.35,
+      3.575057047310361,
+      3.575057047310361,
+      3.575057047310361,
+      4.64,
+      4.97,
+      5.31,
+      5.65,
+      7.19,
+      7.515000000000001,
+      7.84,
+      8.115,
+      8.39,
+      8.746281562985384,
+      8.98,
+      9.29,
+      9.6,
+      11.197458026190244,
+      11.584434574313637,
+      11.86,
+      12.37,
+      12.675,
+      13.01,
+      13.26,
+      13.51,
+      13.76,
+      13.96,
+      14.290722216338112,
+      16.226668566340663,
+      16.226668566340663,
+      16.226668566340663,
+      16.575,
+      16.91,
+      17.24179509076971,
+      17.463333333333335,
+      17.766666666666666,
+      18.42,
+      18.65,
+      19.055,
+      20.52,
+      20.79,
+      21.02447755355855,
+      21.41,
+      21.71,
+      22.02,
+      22.24,
+      22.49,
+      22.74,
+      22.9,
+      25.235417867768582,
+      25.235417867768582,
+      25.235417867768582,
+      26.64,
+      27.10112168126454,
+      27.91,
+      28.24,
+      28.614194666380076,
+      29,
+      30.829161211868755,
+      30.829161211868755,
+      30.829161211868755,
+      31.1,
+      31.36,
+      31.62,
+      32.123573834130326,
+      32.42,
+      32.991729,
+      32.991729
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      23,
+      32,
+      33,
+      52,
+      53,
+      64,
+      65,
+      74
+    ],
+    "sentence_translations": [
+      "You Are So Stupid!",
+      "",
+      "Paul: Hello, where are you? Don’t we have class at 9 today?",
+      "How come there is not a single person in the classroom?",
+      "",
+      "Little Le: It is Saturday today, we don’t have class. You can’t have gotten the time wrong again?",
+      "",
+      "Paul: Oh! That’s true! I’m being stupid again!",
+      "",
+      "Little Le: You are really stupid!",
+      ""
+    ]
+  }
+}

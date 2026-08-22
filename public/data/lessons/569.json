@@ -1,0 +1,959 @@
+{
+  "id": "569",
+  "title": "Bad Luck Fracture",
+  "level": "intermediate",
+  "date": "2018-09-23",
+  "synopsis": "A patient at the hospital explains how he suffered a fracture through bad luck.",
+  "audioUrl": "https://static.duchinese.net/documents/841/bace953cc094277cae3f7137ad16004488ec1124.mp3?1536666379",
+  "series": null,
+  "fullText": {
+    "simplified": "倒霉\n\n    医院里来了一个骨折的病人，医生问病人是怎么骨折的？\n    病人说：“我太倒霉了！今天，我觉得鞋里有沙子，就扶着电线杆抖鞋子。有个人经过，他以为我触电了，拿起旁边的棍子，给了我两棍。所以我就骨折了”",
+    "traditional": "倒霉\n\n    醫院裡來了一個骨折的病人，醫生問病人是怎麼骨折的？\n    病人說：“我太倒霉了！今天，我覺得鞋裡有沙子，就扶著電線杆抖鞋子。有個人經過，他以為我觸電了，拿起旁邊的棍子，給了我兩棍。所以我就骨折了”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Bad Luck"
+    },
+    {
+      "index": 2,
+      "simplified": "医院里来了一个骨折的病人，医生问病人是怎么骨折的？",
+      "traditional": "醫院裡來了一個骨折的病人，醫生問病人是怎麼骨折的？",
+      "pinyin": "yī yuàn lǐ lái le yí ge gǔ zhé de bìng rén yī shēng wèn bìng rén shì zěn me gǔ zhé de",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "A patient with a fracture arrived at the hospital. The doctor asked the patient how he had suffered the fracture."
+    },
+    {
+      "index": 4,
+      "simplified": "病人说：“我太倒霉了！",
+      "traditional": "病人說：“我太倒霉了！",
+      "pinyin": "bìng rén shuō wǒ tài dǎo méi le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "今天，我觉得鞋里有沙子，就扶着电线杆抖鞋子。",
+      "traditional": "今天，我覺得鞋裡有沙子，就扶著電線杆抖鞋子。",
+      "pinyin": "jīn tiān wǒ jué de xié lǐ yǒu shā zi jiù fú zhe diàn xiàn gān dǒu xié zi",
+      "english": "The patient said: “I had such bad luck!”"
+    },
+    {
+      "index": 6,
+      "simplified": "有个人经过，他以为我触电了，",
+      "traditional": "有個人經過，他以為我觸電了，",
+      "pinyin": "yǒu ge rén jīng guò tā yǐ wéi wǒ chù diàn le",
+      "english": "“Today, I felt that I had some sand in my shoe, so I leaned against a power pole and shook my shoe.”"
+    },
+    {
+      "index": 7,
+      "simplified": "拿起旁边的棍子，给了我两棍。所以我就骨折了”",
+      "traditional": "拿起旁邊的棍子，給了我兩棍。所以我就骨折了”",
+      "pinyin": "ná qǐ páng biān de gùn zi gěi le wǒ liǎng gùn suǒ yǐ wǒ jiù gǔ zhé le",
+      "english": "“A person passed by, and thought I was getting an electric shock.”"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "倒霉",
+      "traditional": "倒霉",
+      "pinyin": "dǎo méi",
+      "meaning": "to have bad luck\nto be out of luck",
+      "hsk": 5
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "骨折",
+      "traditional": "骨折",
+      "pinyin": "gǔ zhé",
+      "meaning": "to suffer a fracture\n(of a bone) to break\nfracture",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "病人",
+      "traditional": "病人",
+      "pinyin": "bìng rén",
+      "meaning": "sick person\npatient\ninvalid",
+      "hsk": null
+    },
+    {
+      "hanzi": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "meaning": "doctor",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "鞋",
+      "traditional": "鞋",
+      "pinyin": "xié",
+      "meaning": "shoe",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "沙子",
+      "traditional": "沙子",
+      "pinyin": "shā zi",
+      "meaning": "sand\ngrit",
+      "hsk": null
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "扶",
+      "traditional": "扶",
+      "pinyin": "fú",
+      "meaning": "to support with the hand\nto help",
+      "hsk": 5
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "电线杆",
+      "traditional": "電線杆",
+      "pinyin": "diàn xiàn gān",
+      "meaning": "electric pole\ntelephone pole\nlamppost",
+      "hsk": null
+    },
+    {
+      "hanzi": "抖",
+      "traditional": "抖",
+      "pinyin": "dǒu",
+      "meaning": "to tremble\nto shake out",
+      "hsk": null
+    },
+    {
+      "hanzi": "鞋子",
+      "traditional": "鞋子",
+      "pinyin": "xié zi",
+      "meaning": "shoe",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "经过",
+      "traditional": "經過",
+      "pinyin": "jīng guò",
+      "meaning": "to pass\nto go through",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以为",
+      "traditional": "以為",
+      "pinyin": "yǐ wéi",
+      "meaning": "to believe\nto be under the impression",
+      "hsk": 4
+    },
+    {
+      "hanzi": "触电",
+      "traditional": "觸電",
+      "pinyin": "chù diàn",
+      "meaning": "to get an electric shock\nto be electrocuted\nelectric shock",
+      "hsk": null
+    },
+    {
+      "hanzi": "拿起",
+      "traditional": "拿起",
+      "pinyin": "ná qǐ",
+      "meaning": "to pick up",
+      "hsk": 3
+    },
+    {
+      "hanzi": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "meaning": "side\nbeside",
+      "hsk": 2
+    },
+    {
+      "hanzi": "棍子",
+      "traditional": "棍子",
+      "pinyin": "gùn zi",
+      "meaning": "stick\nrod",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "棍",
+      "traditional": "棍",
+      "pinyin": "gùn",
+      "meaning": "stick\nrod",
+      "hsk": null
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 5,
+        "hanzi": "倒霉",
+        "pinyin": "dǎo méi",
+        "meaning": "to have bad luck\nto be out of luck",
+        "tc_hanzi": "倒霉"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "骨折",
+        "pinyin": "gǔ zhé",
+        "meaning": "to suffer a fracture\n(of a bone) to break\nfracture",
+        "tc_hanzi": "骨折"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "病人",
+        "pinyin": "bìng rén",
+        "meaning": "sick person\npatient\ninvalid",
+        "tc_hanzi": "病人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "病人",
+        "pinyin": "bìng rén",
+        "meaning": "sick person\npatient\ninvalid",
+        "tc_hanzi": "病人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hanzi": "骨折",
+        "pinyin": "gǔ zhé",
+        "meaning": "to suffer a fracture\n(of a bone) to break\nfracture",
+        "tc_hanzi": "骨折"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "病人",
+        "pinyin": "bìng rén",
+        "meaning": "sick person\npatient\ninvalid",
+        "tc_hanzi": "病人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "倒霉",
+        "pinyin": "dǎo méi",
+        "meaning": "to have bad luck\nto be out of luck",
+        "tc_hanzi": "倒霉"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋",
+        "pinyin": "xié",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "沙子",
+        "pinyin": "shā zi",
+        "meaning": "sand\ngrit",
+        "tc_hanzi": "沙子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "扶",
+        "pinyin": "fú",
+        "meaning": "to support with the hand\nto help",
+        "tc_hanzi": "扶"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "电线杆",
+        "pinyin": "diàn xiàn gān",
+        "meaning": "electric pole\ntelephone pole\nlamppost",
+        "tc_hanzi": "電線杆"
+      },
+      {
+        "hanzi": "抖",
+        "pinyin": "dǒu",
+        "meaning": "to tremble\nto shake out",
+        "tc_hanzi": "抖"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋子",
+        "pinyin": "xié zi",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经过",
+        "pinyin": "jīng guò",
+        "meaning": "to pass\nto go through",
+        "tc_hanzi": "經過"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "yiwei",
+        "hsk": 4,
+        "hanzi": "以为",
+        "pinyin": "yǐ wéi",
+        "meaning": "to believe\nto be under the impression",
+        "tc_hanzi": "以為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "触电",
+        "pinyin": "chù diàn",
+        "meaning": "to get an electric shock\nto be electrocuted\nelectric shock",
+        "tc_hanzi": "觸電"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿起",
+        "pinyin": "ná qǐ",
+        "meaning": "to pick up",
+        "tc_hanzi": "拿起"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "side\nbeside",
+        "tc_hanzi": "旁邊"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "棍子",
+        "pinyin": "gùn zi",
+        "meaning": "stick\nrod",
+        "tc_hanzi": "棍子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hanzi": "棍",
+        "pinyin": "gùn",
+        "meaning": "stick\nrod",
+        "tc_hanzi": "棍"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "骨折",
+        "pinyin": "gǔ zhé",
+        "meaning": "to suffer a fracture\n(of a bone) to break\nfracture",
+        "tc_hanzi": "骨折"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A patient at the hospital explains how he suffered a fracture through bad luck.",
+    "syllable_times": [
+      0.40816326530612246,
+      2.312925170068027,
+      2.5850340136054424,
+      2.947845804988662,
+      3.492063492063492,
+      3.764172335600907,
+      4.081632653061225,
+      4.35374149659864,
+      4.852607709750567,
+      5.215419501133787,
+      5.544026415307203,
+      5.714285714285714,
+      5.941043083900227,
+      7.573696145124717,
+      7.845804988662132,
+      8.390022675736962,
+      8.662131519274377,
+      8.979591836734693,
+      9.433106575963718,
+      9.841269841269842,
+      10.158730158730158,
+      10.38548752834467,
+      10.702947845804989,
+      10.975056689342404,
+      12.01814058956916,
+      12.291509021231468,
+      12.502581751750071,
+      13.741496598639456,
+      14.104308390022675,
+      14.648526077097506,
+      15.011337868480725,
+      15.328798185941043,
+      16.643990929705215,
+      17.006802721088434,
+      17.868480725623584,
+      18.140589569160998,
+      18.503401360544217,
+      19.047619047619047,
+      19.501133786848072,
+      19.909297052154194,
+      20.13605442176871,
+      20.589569160997733,
+      21.723356009070294,
+      22.131519274376416,
+      22.403628117913833,
+      22.90249433106576,
+      23.174603174603174,
+      23.49206349206349,
+      24.126984126984127,
+      24.35374149659864,
+      24.807256235827666,
+      26.39455782312925,
+      26.621315192743765,
+      26.848072562358276,
+      27.165532879818596,
+      27.482993197278912,
+      28.52607709750567,
+      28.843537414965986,
+      29.070294784580497,
+      29.523809523809526,
+      30.02267573696145,
+      30.385487528344672,
+      30.839002267573697,
+      31.972789115646258,
+      32.33560090702948,
+      32.60770975056689,
+      32.97052154195011,
+      33.197278911564624,
+      33.378684807256235,
+      33.74149659863946,
+      34.42176870748299,
+      34.73922902494331,
+      35.01133786848072,
+      35.23809523809524,
+      35.55555555555556,
+      37.77777777777778,
+      38.23550997112942,
+      38.82086167800453,
+      39.13832199546485,
+      39.59183673469388,
+      39.9546485260771,
+      40.3066063484055,
+      40.87755102040816,
+      40.87755102040816
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      22,
+      24,
+      33,
+      49,
+      60
+    ],
+    "sentence_translations": [
+      "Bad Luck",
+      "",
+      "A patient with a fracture arrived at the hospital. The doctor asked the patient how he had suffered the fracture.",
+      "",
+      "The patient said: “I had such bad luck!”",
+      "“Today, I felt that I had some sand in my shoe, so I leaned against a power pole and shook my shoe.”",
+      "“A person passed by, and thought I was getting an electric shock.”",
+      "“He picked up a stick lying by the side, and hit me twice. So then my bone broke.”"
+    ]
+  }
+}

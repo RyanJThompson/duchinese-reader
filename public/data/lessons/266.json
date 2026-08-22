@@ -1,0 +1,389 @@
+{
+  "id": "266",
+  "title": "Where Are You Going?",
+  "level": "newbie",
+  "date": "2017-03-17",
+  "synopsis": "Lili wants to know where Ben is going.",
+  "audioUrl": "https://static.duchinese.net/documents/367/82c6ef29c90678c3d5ddab69acb3d8d3ca55b12c.mp3?1553269242",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 11,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你去哪儿\n\n丽丽：你去哪儿？\n本：我去图书馆。\n丽丽：我也去图书馆。我们一起去吧！",
+    "traditional": "你去哪兒\n\n麗麗：你去哪兒？\n本：我去圖書館。\n麗麗：我也去圖書館。我們一起去吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where Are You Going?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：你去哪儿？",
+      "traditional": "麗麗：你去哪兒？",
+      "pinyin": "lì lì nǐ qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Where are you going?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：我去图书馆。",
+      "traditional": "本：我去圖書館。",
+      "pinyin": "běn wǒ qù tú shū guǎn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I’m going to the library."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：我也去图书馆。我们一起去吧！",
+      "traditional": "麗麗：我也去圖書館。我們一起去吧！",
+      "pinyin": "lì lì wǒ yě qù tú shū guǎn wǒ men yì qǐ qù ba",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: I’m also going to the library. Let’s go together!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "图书馆",
+      "traditional": "圖書館",
+      "pinyin": "tú shū guǎn",
+      "meaning": "library",
+      "hsk": 3
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "图书馆",
+        "pinyin": "tú shū guǎn",
+        "meaning": "library",
+        "tc_hanzi": "圖書館"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "图书馆",
+        "pinyin": "tú shū guǎn",
+        "meaning": "library",
+        "tc_hanzi": "圖書館"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili wants to know where Ben is going.",
+    "syllable_times": [
+      0.46455312022939327,
+      1.23,
+      3.576234375257045,
+      3.576234375257045,
+      3.576234375257045,
+      4.127242790814489,
+      4.830323854051531,
+      6.9059603187069305,
+      6.9059603187069305,
+      7.23,
+      7.69,
+      8.043333333333333,
+      8.396666666666667,
+      10.19777894035913,
+      10.19777894035913,
+      10.19777894035913,
+      10.742181284632535,
+      11.16,
+      11.87,
+      12.323333333333332,
+      12.879311849093064,
+      14.54,
+      15.053551686471328,
+      15.86,
+      16.35,
+      16.93,
+      17.41,
+      18.160068,
+      18.160068
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      11,
+      12,
+      18,
+      19,
+      31
+    ],
+    "sentence_translations": [
+      "Where Are You Going?",
+      "",
+      "Lili: Where are you going?",
+      "",
+      "Ben: I’m going to the library.",
+      "",
+      "Lili: I’m also going to the library. Let’s go together!",
+      ""
+    ]
+  }
+}

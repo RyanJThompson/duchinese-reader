@@ -1,0 +1,1050 @@
+{
+  "id": "E351",
+  "title": "Buying Clothes",
+  "level": "newbie",
+  "date": "2019-08-15",
+  "synopsis": "Different people act differently when buying clothes.",
+  "audioUrl": "https://static.duchinese.net/documents/1124/8db4497e4e4f45986cb82a88d940eb4c5d3acfe3.mp3?1565531076",
+  "series": null,
+  "fullText": {
+    "simplified": "买衣服的那些事\n\n    没有钱的人买衣服：“你好，请问这个多少钱？”\n    有钱的人买衣服：“你好，这个我要了。”\n    非常有钱的人买衣服：“你好，这个，这个，这个，还有这个，我都要了。”\n    最有钱的人买衣服：“你好，这个，这个，这个，这个，这个，还有这个，我不要。别的都要了。”",
+    "traditional": "買衣服的那些事\n\n    沒有錢的人買衣服：“你好，請問這個多少錢？”\n    有錢的人買衣服：“你好，這個我要了。”\n    非常有錢的人買衣服：“你好，這個，這個，這個，還有這個，我都要了。”\n    最有錢的人買衣服：“你好，這個，這個，這個，這個，這個，還有這個，我不要。別的都要了。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Buying Clothes"
+    },
+    {
+      "index": 2,
+      "simplified": "没有钱的人买衣服：“你好，请问这个多少钱？”",
+      "traditional": "沒有錢的人買衣服：“你好，請問這個多少錢？”",
+      "pinyin": "méi yǒu qián de rén mǎi yī fu nǐ hǎo qǐng wèn zhè ge duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "When people without money buy clothes: “Hello, how much is this?”"
+    },
+    {
+      "index": 4,
+      "simplified": "有钱的人买衣服：“你好，这个我要了。”",
+      "traditional": "有錢的人買衣服：“你好，這個我要了。”",
+      "pinyin": "yǒu qián de rén mǎi yī fu nǐ hǎo zhè ge wǒ yào le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "When rich people buy clothes: “Hello, I will take this one.”"
+    },
+    {
+      "index": 6,
+      "simplified": "非常有钱的人买衣服：“你好，这个，这个，这个，还有这个，我都要了。”",
+      "traditional": "非常有錢的人買衣服：“你好，這個，這個，這個，還有這個，我都要了。”",
+      "pinyin": "fēi cháng yǒu qián de rén mǎi yī fu nǐ hǎo zhè ge zhè ge zhè ge hái yǒu zhè ge wǒ dōu yào le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "When very rich people buy clothes: “Hello, I will take this, this, this, and this.”"
+    },
+    {
+      "index": 8,
+      "simplified": "最有钱的人买衣服：“你好，这个，这个，这个，这个，这个，还有这个，我不要。别的都要了。”",
+      "traditional": "最有錢的人買衣服：“你好，這個，這個，這個，這個，這個，還有這個，我不要。別的都要了。”",
+      "pinyin": "zuì yǒu qián de rén mǎi yī fu nǐ hǎo zhè ge zhè ge zhè ge zhè ge zhè ge hái yǒu zhè ge wǒ bú yào bié de dōu yào le",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那些",
+      "traditional": "那些",
+      "pinyin": "nà xiē",
+      "meaning": "those",
+      "hsk": null
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有钱",
+      "traditional": "有錢",
+      "pinyin": "yǒu qián",
+      "meaning": "well-off\nwealthy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "别的",
+      "traditional": "別的",
+      "pinyin": "bié de",
+      "meaning": "else\nother",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "那些",
+        "pinyin": "nà xiē",
+        "meaning": "those",
+        "tc_hanzi": "那些"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有钱",
+        "pinyin": "yǒu qián",
+        "meaning": "well-off\nwealthy",
+        "tc_hanzi": "有錢"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有钱",
+        "pinyin": "yǒu qián",
+        "meaning": "well-off\nwealthy",
+        "tc_hanzi": "有錢"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有钱",
+        "pinyin": "yǒu qián",
+        "meaning": "well-off\nwealthy",
+        "tc_hanzi": "有錢"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "别的",
+        "pinyin": "bié de",
+        "meaning": "else\nother",
+        "tc_hanzi": "別的"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Different people act differently when buying clothes.",
+    "syllable_times": [
+      0.5127427728700089,
+      0.7818707175795955,
+      1.01,
+      1.51,
+      1.8399999999999999,
+      2.218046569992965,
+      4.86,
+      5.163333333333333,
+      5.466666666666667,
+      5.77,
+      5.93,
+      6.41,
+      6.733333333333333,
+      7.056666666666667,
+      8.7,
+      9.05,
+      9.98,
+      10.36,
+      11.05,
+      11.32,
+      11.65,
+      11.91,
+      12.17,
+      14.5,
+      14.875,
+      15.25,
+      15.42,
+      15.91,
+      16.216666666666665,
+      16.523333333333333,
+      18.33,
+      18.59,
+      19.47,
+      19.68,
+      19.89,
+      20.105,
+      20.32,
+      22.29,
+      22.66,
+      23.11,
+      23.4,
+      23.69,
+      23.86,
+      24.28,
+      24.576666666666668,
+      24.873333333333335,
+      26.6,
+      26.915,
+      27.64,
+      27.905,
+      28.41,
+      28.7,
+      29.32,
+      29.59,
+      30.31,
+      30.435,
+      30.56,
+      30.79,
+      31.46,
+      31.78,
+      32.004999999999995,
+      32.23,
+      34.26,
+      34.56,
+      34.870000000000005,
+      35.18,
+      35.35,
+      35.76,
+      36.07333333333333,
+      36.38666666666667,
+      38.44,
+      38.78,
+      39.97,
+      40.2,
+      40.51,
+      40.754999999999995,
+      41,
+      41.2,
+      41.4,
+      41.665,
+      42.43,
+      42.675,
+      43.24,
+      43.400000000000006,
+      43.56,
+      43.78,
+      44.38,
+      44.59,
+      44.74367244170188,
+      45.53,
+      45.805,
+      46.26,
+      46.51,
+      46.76,
+      47.261604,
+      47.261604
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      24,
+      26,
+      41,
+      43,
+      71,
+      73
+    ],
+    "sentence_translations": [
+      "Buying Clothes",
+      "",
+      "When people without money buy clothes: “Hello, how much is this?”",
+      "",
+      "When rich people buy clothes: “Hello, I will take this one.”",
+      "",
+      "When very rich people buy clothes: “Hello, I will take this, this, this, and this.”",
+      "",
+      "When the richest people buy clothes: “Hello, this, this, this, this, this, and this, I don’t like. I will take all the other ones.”"
+    ]
+  }
+}

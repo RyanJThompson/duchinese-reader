@@ -1,0 +1,388 @@
+{
+  "id": "289",
+  "title": "What are you doing?",
+  "level": "newbie",
+  "date": "2017-04-12",
+  "synopsis": "Ben wants to know what plans Lili has for the day.",
+  "audioUrl": "https://static.duchinese.net/documents/391/63abb8a3aee070025bee953464c73d01c99cd528.mp3?1553269216",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 3,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你干什么？\n\n本：丽丽，今天下午你干什么？\n丽丽：下午我去商店，我想买些水果。",
+    "traditional": "你幹什麼？\n\n本：麗麗，今天下午你幹什麼？\n麗麗：下午我去商店，我想買些水果。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What are you doing?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，今天下午你干什么？",
+      "traditional": "本：麗麗，今天下午你幹什麼？",
+      "pinyin": "běn lì lì jīn tiān xià wǔ nǐ gàn shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, what are you doing today in the afternoon?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：下午我去商店，我想买些水果。",
+      "traditional": "麗麗：下午我去商店，我想買些水果。",
+      "pinyin": "lì lì xià wǔ wǒ qù shāng diàn wǒ xiǎng mǎi xiē shuǐ guǒ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: In the afternoon I'm going to the store. I want to buy some fruit."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "干",
+      "traditional": "幹",
+      "pinyin": "gàn",
+      "meaning": "to do\nto manage\nto work",
+      "hsk": 4
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "商店",
+      "traditional": "商店",
+      "pinyin": "shāng diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "些",
+      "traditional": "些",
+      "pinyin": "xiē",
+      "meaning": "some (short for 一些)\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "商店",
+        "pinyin": "shāng diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "商店"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some (short for 一些)\na few",
+        "tc_hanzi": "些"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben wants to know what plans Lili has for the day.",
+    "syllable_times": [
+      0.41,
+      0.6733333333333333,
+      0.9366666666666668,
+      3.3628790872064163,
+      3.3628790872064163,
+      3.710117225865337,
+      4.67859337918235,
+      5.037904734473664,
+      5.335829109608354,
+      5.582575474532928,
+      6.23,
+      6.56,
+      6.83,
+      7.1,
+      9.368416625305859,
+      9.368416625305859,
+      9.368416625305859,
+      9.92,
+      10.62,
+      11.06,
+      11.43,
+      11.825,
+      13.1,
+      13.4,
+      13.775,
+      14.15,
+      14.379999999999999,
+      14.61,
+      15.055,
+      15.771882,
+      15.771882
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      16,
+      17,
+      30
+    ],
+    "sentence_translations": [
+      "What are you doing?",
+      "",
+      "Ben: Lili, what are you doing today in the afternoon?",
+      "",
+      "Lili: In the afternoon I'm going to the store. I want to buy some fruit.",
+      ""
+    ]
+  }
+}

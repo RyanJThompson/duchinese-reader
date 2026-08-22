@@ -1,0 +1,536 @@
+{
+  "id": "551",
+  "title": "Where is the Restaurant?",
+  "level": "newbie",
+  "date": "2018-07-22",
+  "synopsis": "Ben wants to know where the restaurant is located.",
+  "audioUrl": "https://static.duchinese.net/documents/791/8486918a4c2d9e82e2c24c2b09982f9924dddf99.mp3?1553269295",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 14,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "饭店在哪里\n\n丽丽：走吧，我们去吃饭。\n本：好！饭店在哪里？\n丽丽：饭店在学校旁边。\n本：走路几分钟？\n丽丽：5分钟。",
+    "traditional": "飯店在哪裏\n\n麗麗：走吧，我們去吃飯。\n本：好！飯店在哪裏？\n麗麗：飯店在學校旁邊。\n本：走路幾分鐘？\n麗麗：5分鐘。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where is the Restaurant?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：走吧，我们去吃饭。",
+      "traditional": "麗麗：走吧，我們去吃飯。",
+      "pinyin": "lì lì zǒu ba wǒ men qù chī fàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Let’s go have a meal."
+    },
+    {
+      "index": 4,
+      "simplified": "本：好！饭店在哪里？",
+      "traditional": "本：好！飯店在哪裏？",
+      "pinyin": "běn hǎo fàn diàn zài nǎ lǐ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok! Where is the restaurant?"
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：饭店在学校旁边。",
+      "traditional": "麗麗：飯店在學校旁邊。",
+      "pinyin": "lì lì fàn diàn zài xué xiào páng biān",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: The restaurant is next to the school."
+    },
+    {
+      "index": 8,
+      "simplified": "本：走路几分钟？",
+      "traditional": "本：走路幾分鐘？",
+      "pinyin": "běn zǒu lù jǐ fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How many minutes walk is it?"
+    },
+    {
+      "index": 10,
+      "simplified": "丽丽：5分钟。",
+      "traditional": "麗麗：5分鐘。",
+      "pinyin": "lì lì wǔ fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: 5 minutes."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪里",
+      "traditional": "哪裏",
+      "pinyin": "nǎ lǐ",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "to walk\nto go",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "meaning": "side\nbeside",
+      "hsk": 2
+    },
+    {
+      "hanzi": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "meaning": "to walk\nto go on foot",
+      "hsk": null
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk\nto go",
+        "tc_hanzi": "走"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "side\nbeside",
+        "tc_hanzi": "旁邊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "走路",
+        "pinyin": "zǒu lù",
+        "meaning": "to walk\nto go on foot",
+        "tc_hanzi": "走路"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben wants to know where the restaurant is located.",
+    "syllable_times": [
+      0.44806697231366555,
+      1.1,
+      1.46,
+      1.7947073748493216,
+      3.512593130608635,
+      3.512593130608635,
+      3.512593130608635,
+      3.82,
+      4.89,
+      5.21,
+      5.67,
+      6.02,
+      6.359999999999999,
+      7.885348881894257,
+      7.885348881894257,
+      9.18,
+      9.615,
+      10.23,
+      10.58,
+      10.955,
+      13.060480011703145,
+      13.060480011703145,
+      13.060480011703145,
+      13.475000000000001,
+      14.01,
+      14.336666666666666,
+      14.663333333333334,
+      14.99,
+      15.375,
+      17.25413316605721,
+      17.25413316605721,
+      17.685,
+      18.32,
+      18.740356498890936,
+      19.053333333333335,
+      21.482376272273957,
+      21.482376272273957,
+      21.482376272273957,
+      21.96,
+      22.345,
+      23.027324,
+      23.027324
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      23,
+      24,
+      31,
+      32,
+      38,
+      39,
+      44
+    ],
+    "sentence_translations": [
+      "Where is the Restaurant?",
+      "",
+      "Lili: Let’s go have a meal.",
+      "",
+      "Ben: Ok! Where is the restaurant?",
+      "",
+      "Lili: The restaurant is next to the school.",
+      "",
+      "Ben: How many minutes walk is it?",
+      "",
+      "Lili: 5 minutes.",
+      ""
+    ]
+  }
+}

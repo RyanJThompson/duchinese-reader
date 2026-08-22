@@ -1,0 +1,962 @@
+{
+  "id": "483",
+  "title": "Little Ming's Love Story",
+  "level": "intermediate",
+  "date": "2018-03-25",
+  "synopsis": "Little Ming writes a moving love story in class.",
+  "audioUrl": "https://static.duchinese.net/documents/687/3d8b139ba3102cdf8dae8c9b04f383af1616a5de.mp3?1519660885",
+  "series": null,
+  "fullText": {
+    "simplified": "写作文\n\n    一天，老师让大家写一个爱情故事。她说：“大家写这个故事的时候尽量写得简单一些。故事短一点也没关系，但要是一个让人难过的爱情故事。”\n    小明想了想，写道：\n    “请你嫁给我吧！”\n    “滚！”",
+    "traditional": "寫作文\n\n    一天，老師讓大家寫一個愛情故事。她說：“大家寫這個故事的時候儘量寫得簡單一些。故事短一點也沒關係，但要是一個讓人難過的愛情故事。”\n    小明想了想，寫道：\n    “請你嫁給我吧！”\n    “滾！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Writing an Essay"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，老师让大家写一个爱情故事。",
+      "traditional": "一天，老師讓大家寫一個愛情故事。",
+      "pinyin": "yì tiān lǎo shī ràng dà jiā xiě yí ge ài qíng gù shi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "她说：“大家写这个故事的时候尽量写得简单一些。",
+      "traditional": "她說：“大家寫這個故事的時候儘量寫得簡單一些。",
+      "pinyin": "tā shuō dà jiā xiě zhè ge gù shi de shí hou jǐn liàng xiě de jiǎn dān yì xiē",
+      "english": "One day, the teacher had everyone write a love story."
+    },
+    {
+      "index": 4,
+      "simplified": "故事短一点也没关系，但要是一个让人难过的爱情故事。”",
+      "traditional": "故事短一點也沒關係，但要是一個讓人難過的愛情故事。”",
+      "pinyin": "gù shi duǎn yì diǎn yě méi guān xi dàn yào shì yí ge ràng rén nán guò de ài qíng gù shi",
+      "english": "She said: “When you write this story, make it as simple as possible.”"
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "“It doesn't matter if the story is a bit short, but it must be a love story that moves people.”"
+    },
+    {
+      "index": 6,
+      "simplified": "小明想了想，写道：",
+      "traditional": "小明想了想，寫道：",
+      "pinyin": "xiǎo míng xiǎng le xiǎng xiě dào",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming thought for a while, then wrote:"
+    },
+    {
+      "index": 8,
+      "simplified": "“请你嫁给我吧！”",
+      "traditional": "“請你嫁給我吧！”",
+      "pinyin": "qǐng nǐ jià gěi wǒ ba",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "“Please marry me!”"
+    },
+    {
+      "index": 10,
+      "simplified": "“滚！”",
+      "traditional": "“滾！”",
+      "pinyin": "gǔn",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作文",
+      "traditional": "作文",
+      "pinyin": "zuò wén",
+      "meaning": "to write an essay\ncomposition (student essay)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱情",
+      "traditional": "愛情",
+      "pinyin": "ài qíng",
+      "meaning": "romance\nlove (romantic)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "故事",
+      "traditional": "故事",
+      "pinyin": "gù shi",
+      "meaning": "story\ntale",
+      "hsk": 3
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "尽量",
+      "traditional": "儘量",
+      "pinyin": "jǐn liàng",
+      "meaning": "as much as possible\nto the greatest extent",
+      "hsk": 5
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "简单",
+      "traditional": "簡單",
+      "pinyin": "jiǎn dān",
+      "meaning": "simple\nnot complicated",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一些",
+      "traditional": "一些",
+      "pinyin": "yì xiē",
+      "meaning": "some\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "短",
+      "traditional": "短",
+      "pinyin": "duǎn",
+      "meaning": "short\nbrief",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难过",
+      "traditional": "難過",
+      "pinyin": "nán guò",
+      "meaning": "to feel sad\nto feel unwell\n(of life) to be difficult",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "道",
+      "traditional": "道",
+      "pinyin": "dào",
+      "meaning": "to say\nto speak\nto talk",
+      "hsk": null
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "嫁",
+      "traditional": "嫁",
+      "pinyin": "jià",
+      "meaning": "(of a woman) to marry",
+      "hsk": 5
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "滚",
+      "traditional": "滾",
+      "pinyin": "gǔn",
+      "meaning": "to roll\nto take a hike\nGet lost!",
+      "hsk": 5
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "作文",
+        "pinyin": "zuò wén",
+        "meaning": "to write an essay\ncomposition (student essay)",
+        "tc_hanzi": "作文"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "爱情",
+        "pinyin": "ài qíng",
+        "meaning": "romance\nlove (romantic)",
+        "tc_hanzi": "愛情"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尽量",
+        "pinyin": "jǐn liàng",
+        "meaning": "as much as possible\nto the greatest extent",
+        "tc_hanzi": "儘量"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "简单",
+        "pinyin": "jiǎn dān",
+        "meaning": "simple\nnot complicated",
+        "tc_hanzi": "簡單"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一些",
+        "pinyin": "yì xiē",
+        "meaning": "some\na few",
+        "tc_hanzi": "一些"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "meaning": "short\nbrief",
+        "tc_hanzi": "短"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难过",
+        "pinyin": "nán guò",
+        "meaning": "to feel sad\nto feel unwell\n(of life) to be difficult",
+        "tc_hanzi": "難過"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "爱情",
+        "pinyin": "ài qíng",
+        "meaning": "romance\nlove (romantic)",
+        "tc_hanzi": "愛情"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hanzi": "道",
+        "pinyin": "dào",
+        "meaning": "to say\nto speak\nto talk",
+        "tc_hanzi": "道"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嫁",
+        "pinyin": "jià",
+        "meaning": "(of a woman) to marry",
+        "tc_hanzi": "嫁"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "滚",
+        "pinyin": "gǔn",
+        "meaning": "to roll\nto take a hike\nGet lost!",
+        "tc_hanzi": "滾"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming writes a moving love story in class.",
+    "syllable_times": [
+      0.6802721088435374,
+      0.9977324263038548,
+      2.811791383219955,
+      3.038548752834467,
+      4.081632653061225,
+      4.412813150007545,
+      4.988662131519274,
+      5.306122448979592,
+      5.532879818594104,
+      6.031746031746032,
+      6.401684186880312,
+      6.64322792327379,
+      7.120181405895692,
+      7.482993197278912,
+      7.936507936507937,
+      8.169520335690827,
+      9.886621315192743,
+      10.16520589424167,
+      11.60997732426304,
+      11.92743764172336,
+      12.29024943310658,
+      12.60770975056689,
+      12.83446712018141,
+      13.06122448979592,
+      13.34766532665059,
+      13.56009070294785,
+      13.75412146550013,
+      14.02808955821858,
+      14.82993197278912,
+      15.23518810222347,
+      15.64625850340136,
+      15.96371882086168,
+      16.281179138322,
+      16.68934240362812,
+      16.91609977324263,
+      17.11872427660886,
+      18.45804988662131,
+      18.81506737745695,
+      19.31972789115646,
+      19.63718820861678,
+      19.86394557823129,
+      20.31746031746032,
+      20.58956916099773,
+      20.77097505668934,
+      21.13557094765421,
+      22.76643990929705,
+      23.03854875283447,
+      23.35600907029479,
+      23.6281179138322,
+      23.8557175290199,
+      24.39909297052154,
+      24.71655328798186,
+      24.98866213151927,
+      25.3968253968254,
+      25.66893424036281,
+      26.12244897959184,
+      26.39455782312925,
+      26.75736961451247,
+      27.01177680245386,
+      29.61451247165533,
+      29.97732426303855,
+      30.38548752834467,
+      30.8390022675737,
+      31.06891230635037,
+      31.97278911564626,
+      32.33560090702948,
+      33.87755102040816,
+      34.26607786758428,
+      34.64852607709751,
+      35.01133786848072,
+      35.23809523809524,
+      35.51020408163265,
+      37.00680272108843,
+      37.91981859410431,
+      37.91981859410431
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      17,
+      33,
+      51,
+      53,
+      61,
+      63,
+      71,
+      73
+    ],
+    "sentence_translations": [
+      "Writing an Essay",
+      "",
+      "One day, the teacher had everyone write a love story.",
+      "She said: “When you write this story, make it as simple as possible.”",
+      "“It doesn't matter if the story is a bit short, but it must be a love story that moves people.”",
+      "",
+      "Little Ming thought for a while, then wrote:",
+      "",
+      "“Please marry me!”",
+      "",
+      "“Get lost!”"
+    ]
+  }
+}

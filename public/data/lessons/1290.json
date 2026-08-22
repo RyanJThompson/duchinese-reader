@@ -1,0 +1,2087 @@
+{
+  "id": "1290",
+  "title": "I’m a Cat 2: Inside a Computer",
+  "level": "newbie",
+  "date": "2021-06-21",
+  "synopsis": "",
+  "audioUrl": "https://static.duchinese.net/documents/1290/4b0cb38ed2b28d3ac698c0413c0aeef27c81d52d.mp3?1621951607",
+  "series": {
+    "title": "I’m a Cat 2: Inside a Computer",
+    "chapter": 4,
+    "totalChapters": 11
+  },
+  "fullText": {
+    "simplified": "电脑里的人是谁？\n\n    今天是十月十九号，星期天。下雨了。\n    上午七点十分，我在椅子上“看书”，妈妈在打电话。\n    “你吃饭了吗？”\n    “我在喝茶。我们这儿下雨了，你那儿天气怎么样？”\n    “对啊，今年这儿下雨很多。”\n    “这儿不冷，你那儿呢？是不是很冷？”\n    “你想我了吗？”\n    ……\n    “你那儿很晚了，我们不说了。我去工作了。”\n    “知道了！我会好好吃饭，好好学习，好好睡觉。”\n    “好了，我去工作了。再见！”\n    妈妈在笑，妈妈很高兴。\n    电脑里的人是谁？星期一、星期二……星期天，妈妈都和他说话。\n    他是谁？我很想知道。",
+    "traditional": "電腦裡的人是誰？\n\n    今天是十月十九號，星期天。下雨了。\n    上午七點十分，我在椅子上“看書”，媽媽在打電話。\n    “你吃飯了嗎？”\n    “我在喝茶。我們這兒下雨了，你那兒天氣怎麼樣？”\n    “對啊，今年這兒下雨很多。”\n    “這兒不冷，你那兒呢？是不是很冷？”\n    “你想我了嗎？”\n    ……\n    “你那兒很晚了，我們不說了。我去工作了。”\n    “知道了！我會好好吃飯，好好學習，好好睡覺。”\n    “好了，我去工作了。再見！”\n    媽媽在笑，媽媽很高興。\n    電腦裡的人是誰？星期一、星期二……星期天，媽媽都和他說話。\n    他是誰？我很想知道。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 2,
+      "simplified": "今天是十月十九号，星期天。下雨了。",
+      "traditional": "今天是十月十九號，星期天。下雨了。",
+      "pinyin": "jīn tiān shì shí yuè shí jiǔ hào xīng qī tiān xià yǔ le",
+      "english": "Today was October 19th, a Sunday. It was raining."
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 4,
+      "simplified": "上午七点十分，我在椅子上“看书”，妈妈在打电话。",
+      "traditional": "上午七點十分，我在椅子上“看書”，媽媽在打電話。",
+      "pinyin": "shàng wǔ qī diǎn shí fēn wǒ zài yǐ zi shang kàn shū mā ma zài dǎ diàn huà",
+      "english": "It was 7:10 in the morning. I was on a chair “studying”, and mom was making a phone call."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "“你吃饭了吗？”",
+      "traditional": "“你吃飯了嗎？”",
+      "pinyin": "nǐ chī fàn le ma",
+      "english": "“Have you eaten?”"
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "“我在喝茶。我们这儿下雨了，你那儿天气怎么样？”",
+      "traditional": "“我在喝茶。我們這兒下雨了，你那兒天氣怎麼樣？”",
+      "pinyin": "wǒ zài hē chá wǒ men zhè‘r xià yǔ le nǐ nà'r tiān qì zěn me yàng",
+      "english": "“I’m drinking tea. It’s raining here, what’s the weather like where you are?”"
+    },
+    {
+      "index": 9,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "“对啊，今年这儿下雨很多。”",
+      "traditional": "“對啊，今年這兒下雨很多。”",
+      "pinyin": "duì a jīn nián zhè‘r xià yǔ hěn duō",
+      "english": "“Yes, it’s rained a lot here this year.”"
+    },
+    {
+      "index": 11,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "“这儿不冷，你那儿呢？是不是很冷？”",
+      "traditional": "“這兒不冷，你那兒呢？是不是很冷？”",
+      "pinyin": "zhè‘r bù lěng nǐ nà'r ne shì bú shì hěn lěng",
+      "english": "“It’s not cold here, how about where you are? Is it very cold?”"
+    },
+    {
+      "index": 13,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "“你想我了吗？”",
+      "traditional": "“你想我了嗎？”",
+      "pinyin": "nǐ xiǎng wǒ le ma",
+      "english": "“Do you miss me?”"
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 16,
+      "simplified": "    ……",
+      "traditional": "    ……",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "“你那儿很晚了，我们不说了。我去工作了。”",
+      "traditional": "“你那兒很晚了，我們不說了。我去工作了。”",
+      "pinyin": "nǐ nà'r hěn wǎn le wǒ men bù shuō le wǒ qù gōng zuò le",
+      "english": "“It’s very late where you are, let’s not talk anymore. I’m going to work.”"
+    },
+    {
+      "index": 19,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 20,
+      "simplified": "“知道了！我会好好吃饭，好好学习，好好睡觉。”",
+      "traditional": "“知道了！我會好好吃飯，好好學習，好好睡覺。”",
+      "pinyin": "zhī dào le wǒ huì hǎo hǎo chī fàn hǎo hǎo xué xí hǎo hǎo shuì jiào",
+      "english": "“OK! I will eat well, study well, and sleep well.”"
+    },
+    {
+      "index": 21,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "“好了，我去工作了。再见！”",
+      "traditional": "“好了，我去工作了。再見！”",
+      "pinyin": "hǎo le wǒ qù gōng zuò le zài jiàn",
+      "english": "“All right, I’m going to work. Goodbye!”"
+    },
+    {
+      "index": 23,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "妈妈在笑，妈妈很高兴。",
+      "traditional": "媽媽在笑，媽媽很高興。",
+      "pinyin": "mā ma zài xiào mā ma hěn gāo xìng",
+      "english": "Mom was smiling. Mom was very happy."
+    },
+    {
+      "index": 25,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 26,
+      "simplified": "电脑里的人是谁？星期一、星期二……星期天，妈妈都和他说话。",
+      "traditional": "電腦裡的人是誰？星期一、星期二……星期天，媽媽都和他說話。",
+      "pinyin": "diàn nǎo lǐ de rén shì shéi xīng qī yī xīng qī èr xīng qī tiān mā ma dōu hé tā shuō huà",
+      "english": "Who is the man in the computer? Monday, Tuesday … Sunday, mom talks to him every day."
+    },
+    {
+      "index": 27,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "他是谁？我很想知道。",
+      "traditional": "他是誰？我很想知道。",
+      "pinyin": "tā shì shéi wǒ hěn xiǎng zhī dào",
+      "english": "Who is he? I really want to know."
+    },
+    {
+      "index": 29,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diàn nǎo",
+      "meaning": "computer",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十月",
+      "traditional": "十月",
+      "pinyin": "shí yuè",
+      "meaning": "October\ntenth month (of the lunar year)",
+      "hsk": null
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "meaning": "morning\nbefore noon",
+      "hsk": 1
+    },
+    {
+      "hanzi": "七",
+      "traditional": "七",
+      "pinyin": "qī",
+      "meaning": "seven",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "meaning": "minute",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "椅子",
+      "traditional": "椅子",
+      "pinyin": "yǐ zi",
+      "meaning": "chair",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看书",
+      "traditional": "看書",
+      "pinyin": "kàn shū",
+      "meaning": "to read\nto study",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "meaning": "tea\ntea plant",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "what’s it like?\nhow are things?\nwhat do you think?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to miss (feel wistful about the absence of sb or sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "to work",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好好",
+      "traditional": "好好",
+      "pinyin": "hǎo hǎo",
+      "meaning": "well\ncarefully\nproperly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "meaning": "to learn\nto study",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好了",
+      "traditional": "好了",
+      "pinyin": "hǎo le",
+      "meaning": "(interjection, often doubled) okay\nall right\nthat's enough",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    },
+    {
+      "hanzi": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "meaning": "laugh\nsmile",
+      "hsk": 2
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期一",
+      "traditional": "星期一",
+      "pinyin": "xīng qī yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "星期二",
+      "traditional": "星期二",
+      "pinyin": "xīng qī èr",
+      "meaning": "Tuesday",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "meaning": "to speak\nto talk",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "十月",
+        "pinyin": "shí yuè",
+        "meaning": "October\ntenth month (of the lunar year)",
+        "tc_hanzi": "十月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "morning\nbefore noon",
+        "tc_hanzi": "上午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "七",
+        "pinyin": "qī",
+        "meaning": "seven",
+        "tc_hanzi": "七"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "meaning": "minute",
+        "tc_hanzi": "分"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair",
+        "tc_hanzi": "椅子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "看书",
+        "pinyin": "kàn shū",
+        "meaning": "to read\nto study",
+        "tc_hanzi": "看書"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea\ntea plant",
+        "tc_hanzi": "茶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "d": "22005",
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "what’s it like?\nhow are things?\nwhat do you think?",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to miss (feel wistful about the absence of sb or sth)",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ……",
+        "tc_hanzi": "    ……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "d": "45",
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "to work",
+        "tc_hanzi": "工作"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "aa",
+        "hsk": 1,
+        "hanzi": "好好",
+        "pinyin": "hǎo hǎo",
+        "meaning": "well\ncarefully\nproperly",
+        "tc_hanzi": "好好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "aa",
+        "hsk": 1,
+        "hanzi": "好好",
+        "pinyin": "hǎo hǎo",
+        "meaning": "well\ncarefully\nproperly",
+        "tc_hanzi": "好好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学习",
+        "pinyin": "xué xí",
+        "meaning": "to learn\nto study",
+        "tc_hanzi": "學習"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "aa",
+        "hsk": 1,
+        "hanzi": "好好",
+        "pinyin": "hǎo hǎo",
+        "meaning": "well\ncarefully\nproperly",
+        "tc_hanzi": "好好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "d": "22445",
+        "hsk": 1,
+        "hanzi": "好了",
+        "pinyin": "hǎo le",
+        "meaning": "(interjection, often doubled) okay\nall right\nthat's enough",
+        "tc_hanzi": "好了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "d": "45",
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "to work",
+        "tc_hanzi": "工作"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīng qī yī",
+        "meaning": "Monday",
+        "tc_hanzi": "星期一"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "星期二",
+        "pinyin": "xīng qī èr",
+        "meaning": "Tuesday",
+        "tc_hanzi": "星期二"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "说话",
+        "pinyin": "shuō huà",
+        "meaning": "to speak\nto talk",
+        "tc_hanzi": "說話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.47619047619047616,
+      0.7993197278911565,
+      1.04,
+      1.3,
+      2.14,
+      2.5510204081632653,
+      4.36,
+      4.744897959183674,
+      5.56,
+      6.23,
+      6.77437641723356,
+      7.23,
+      7.573696145124717,
+      7.98,
+      8.91,
+      9.251700680272108,
+      9.495464852607709,
+      10.91,
+      11.360544217687075,
+      11.68,
+      13.25,
+      13.769841269841269,
+      14.41,
+      14.829931972789115,
+      15.16,
+      15.57,
+      16.68,
+      17.69,
+      18.03,
+      18.441043083900226,
+      18.63378684807256,
+      19.13,
+      19.46145124716553,
+      20.7,
+      21.1,
+      21.88,
+      22.227891156462583,
+      22.56,
+      22.891156462585034,
+      25.2,
+      25.61,
+      25.89,
+      26.17,
+      26.3718820861678,
+      28.09,
+      28.8,
+      29.03628117913832,
+      29.291383219954646,
+      31.2,
+      31.507936507936506,
+      31.65,
+      32.42063492063492,
+      32.835,
+      33.15,
+      34.59,
+      34.95,
+      35.37,
+      35.66893424036281,
+      36.15,
+      36.40333333333333,
+      36.656666666666666,
+      38.35,
+      38.883219954648524,
+      39.92,
+      40.365,
+      40.86,
+      41.77,
+      42.215,
+      42.74,
+      43.28798185941043,
+      45.37981859410431,
+      45.821995464852606,
+      46.07,
+      46.82,
+      47.18,
+      47.55,
+      48.78,
+      49.1609977324263,
+      49.31972789115646,
+      49.85,
+      50.16439909297052,
+      52.48,
+      53.06122448979592,
+      53.43,
+      53.71,
+      53.85,
+      57.22,
+      57.55,
+      57.91,
+      58.17,
+      58.43,
+      59.45,
+      59.705,
+      60.028344671201815,
+      60.18,
+      60.55,
+      61.48,
+      61.97,
+      62.17,
+      62.43197278911565,
+      62.7437641723356,
+      64.3,
+      64.68,
+      65.12471655328798,
+      66.27,
+      66.54499999999999,
+      66.86507936507937,
+      67.40929705215419,
+      67.8,
+      68.18,
+      68.93,
+      69.5124716553288,
+      69.93197278911565,
+      70.3344671201814,
+      71.09,
+      71.61,
+      71.89,
+      72.3,
+      73.96,
+      74.35,
+      75.23,
+      75.48,
+      75.7,
+      76.03174603174602,
+      76.33786848072562,
+      77.26,
+      77.56802721088435,
+      79.92,
+      80.38548752834467,
+      80.84,
+      81.1734693877551,
+      82.37528344671202,
+      82.725,
+      83.33,
+      83.84,
+      84.35,
+      85.9,
+      86.215,
+      86.53,
+      86.81,
+      87.01,
+      87.89,
+      88.27097505668934,
+      89.56,
+      90.03401360544217,
+      90.34,
+      91.22,
+      91.62698412698413,
+      91.9501133786848,
+      93.3,
+      93.66,
+      93.95691609977324,
+      95.19,
+      95.6,
+      96.35,
+      96.755,
+      97.16,
+      97.49,
+      97.93,
+      99.54,
+      100.38,
+      100.70861678004535,
+      102.17,
+      103.04,
+      103.50340136054422,
+      103.93,
+      104.27437641723355,
+      105.376916
+    ],
+    "sentence_indices": [
+      7,
+      10,
+      22,
+      24,
+      41,
+      43,
+      49,
+      51,
+      67,
+      69,
+      79,
+      81,
+      96,
+      98,
+      105,
+      106,
+      107,
+      109,
+      126,
+      128,
+      143,
+      145,
+      155,
+      157,
+      165,
+      167,
+      186,
+      188,
+      197
+    ],
+    "sentence_translations": [
+      "Who is the Man in the Computer?",
+      "",
+      "Today was October 19th, a Sunday. It was raining.",
+      "",
+      "It was 7:10 in the morning. I was on a chair “studying”, and mom was making a phone call.",
+      "",
+      "“Have you eaten?”",
+      "",
+      "“I’m drinking tea. It’s raining here, what’s the weather like where you are?”",
+      "",
+      "“Yes, it’s rained a lot here this year.”",
+      "",
+      "“It’s not cold here, how about where you are? Is it very cold?”",
+      "",
+      "“Do you miss me?”",
+      "",
+      "",
+      "",
+      "“It’s very late where you are, let’s not talk anymore. I’m going to work.”",
+      "",
+      "“OK! I will eat well, study well, and sleep well.”",
+      "",
+      "“All right, I’m going to work. Goodbye!”",
+      "",
+      "Mom was smiling. Mom was very happy.",
+      "",
+      "Who is the man in the computer? Monday, Tuesday … Sunday, mom talks to him every day.",
+      "",
+      "Who is he? I really want to know.",
+      ""
+    ]
+  }
+}

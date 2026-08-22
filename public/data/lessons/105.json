@@ -1,0 +1,548 @@
+{
+  "id": "105",
+  "title": "Checking into a Hotel",
+  "level": "intermediate",
+  "date": "2016-03-13",
+  "synopsis": "Can you check into a hotel using only Chinese? Today we learn some words and phrases which come in handy when traveling in China.",
+  "audioUrl": "https://static.duchinese.net/documents/85/de0e1f13eb9521893ceaa9b674fc90f19c9f0ec5.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "入住宾馆\n    \n    你好。我预订了房间。我叫保罗。我订的是一个大床房，住一个晚上，明天退房。这是我的护照，谢谢。",
+    "traditional": "入住賓館\n    \n    你好。我預訂了房間。我叫保羅。我訂的是一個大床房，住一個晚上，明天退房。這是我的護照，謝謝。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n    \n    ",
+      "traditional": "\n    \n    ",
+      "pinyin": "",
+      "english": "Checking into a Hotel"
+    },
+    {
+      "index": 2,
+      "simplified": "你好。",
+      "traditional": "你好。",
+      "pinyin": "nǐ hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "我预订了房间。",
+      "traditional": "我預訂了房間。",
+      "pinyin": "wǒ yù dìng le fáng jiān",
+      "english": "Hello."
+    },
+    {
+      "index": 4,
+      "simplified": "我叫保罗。",
+      "traditional": "我叫保羅。",
+      "pinyin": "wǒ jiào bǎo luó",
+      "english": "I booked a room."
+    },
+    {
+      "index": 5,
+      "simplified": "我订的是一个大床房，住一个晚上，明天退房。",
+      "traditional": "我訂的是一個大床房，住一個晚上，明天退房。",
+      "pinyin": "wǒ dìng de shì yí ge dà chuáng fáng zhù yí ge wǎn shang míng tiān tuì fáng",
+      "english": "My name is Paul."
+    },
+    {
+      "index": 6,
+      "simplified": "这是我的护照，谢谢。",
+      "traditional": "這是我的護照，謝謝。",
+      "pinyin": "zhè shì wǒ de hù zhào xiè xie",
+      "english": "I booked a room with a double bed. I stay for one night and check out tomorrow."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "入住",
+      "traditional": "入住",
+      "pinyin": "rù zhù",
+      "meaning": "to check in (at a hotel etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "宾馆",
+      "traditional": "賓館",
+      "pinyin": "bīn guǎn",
+      "meaning": "guesthouse\nhotel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "预订",
+      "traditional": "預訂",
+      "pinyin": "yù dìng",
+      "meaning": "to book ahead",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "meaning": "room",
+      "hsk": 2
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to name\nto call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "订",
+      "traditional": "訂",
+      "pinyin": "dìng",
+      "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大床",
+      "traditional": "大床",
+      "pinyin": "dà chuáng",
+      "meaning": "double bed",
+      "hsk": null
+    },
+    {
+      "hanzi": "房",
+      "traditional": "房",
+      "pinyin": "fáng",
+      "meaning": "room\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "退房",
+      "traditional": "退房",
+      "pinyin": "tuì fáng",
+      "meaning": "to check out of a hotel room",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "护照",
+      "traditional": "護照",
+      "pinyin": "hù zhào",
+      "meaning": "passport",
+      "hsk": 3
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "入住",
+        "pinyin": "rù zhù",
+        "meaning": "to check in (at a hotel etc)",
+        "tc_hanzi": "入住"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "预订",
+        "pinyin": "yù dìng",
+        "meaning": "to book ahead",
+        "tc_hanzi": "預訂"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to name\nto call",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "大床",
+        "pinyin": "dà chuáng",
+        "meaning": "double bed",
+        "tc_hanzi": "大床"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "退房",
+        "pinyin": "tuì fáng",
+        "meaning": "to check out of a hotel room",
+        "tc_hanzi": "退房"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "护照",
+        "pinyin": "hù zhào",
+        "meaning": "passport",
+        "tc_hanzi": "護照"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.4182244249616205,
+      0.9070294784580499,
+      1.315192743764172,
+      2.585034013605442,
+      3.08390022675737,
+      4.399092970521542,
+      4.890762347420948,
+      5.26077097505669,
+      5.578231292517007,
+      6.031746031746032,
+      6.439909297052155,
+      7.800453514739229,
+      8.253968253968255,
+      8.70748299319728,
+      9.297052154195011,
+      10.70294784580499,
+      11.15646258503401,
+      11.51927437641723,
+      11.81967346000699,
+      12.40351245274243,
+      12.7891156462585,
+      13.28798185941043,
+      13.60544217687075,
+      14.10430839002268,
+      15.55555555555556,
+      16.00907029478458,
+      16.3265306122449,
+      16.73469387755102,
+      17.09750566893424,
+      18.41269841269841,
+      18.86621315192744,
+      19.18367346938776,
+      19.68253968253968,
+      21.04308390022676,
+      21.40589569160998,
+      21.90476190476191,
+      22.26757369614512,
+      22.72108843537415,
+      23.03854875283447,
+      24.12698412698413,
+      24.53514739229025,
+      25.32265306122449,
+      25.32267570495605
+    ],
+    "sentence_indices": [
+      2,
+      6,
+      8,
+      13,
+      17,
+      34
+    ],
+    "sentence_translations": [
+      "Checking into a Hotel",
+      "",
+      "Hello.",
+      "I booked a room.",
+      "My name is Paul.",
+      "I booked a room with a double bed. I stay for one night and check out tomorrow.",
+      "This is my passport. Thank you."
+    ]
+  }
+}

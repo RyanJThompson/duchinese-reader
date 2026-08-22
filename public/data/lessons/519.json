@@ -1,0 +1,868 @@
+{
+  "id": "519",
+  "title": "Who Are You?",
+  "level": "elementary",
+  "date": "2018-08-29",
+  "synopsis": "An unexpected person answers when Old Wang calls his wife.",
+  "audioUrl": "https://static.duchinese.net/documents/831/f8d970e16f5cc63d02d6bd2fa81bd5570043d240.mp3?1535300681",
+  "series": null,
+  "fullText": {
+    "simplified": "你是谁？\n\n    老王给他的老婆打电话，但接电话的是个男的。\n    老王很生气，问：“你是谁？我老婆呢？”\n    男的说：“我是抢手机的。你老婆在我后面呢。先不说了，你老婆跑得太快了！”",
+    "traditional": "你是誰？\n\n    老王給他的老婆打電話，但接電話的是個男的。\n    老王很生氣，問：“你是誰？我老婆呢？”\n    男的說：“我是搶手機的。你老婆在我後面呢。先不說了，你老婆跑得太快了！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Who Are You?"
+    },
+    {
+      "index": 2,
+      "simplified": "老王给他的老婆打电话，但接电话的是个男的。",
+      "traditional": "老王給他的老婆打電話，但接電話的是個男的。",
+      "pinyin": "lǎo wáng gěi tā de lǎo po dǎ diàn huà dàn jiē diàn huà de shì ge nán de",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Old Wang made a phone call to his wife, but a man answered the phone."
+    },
+    {
+      "index": 4,
+      "simplified": "老王很生气，问：“你是谁？我老婆呢？”",
+      "traditional": "老王很生氣，問：“你是誰？我老婆呢？”",
+      "pinyin": "lǎo wáng hěn shēng qì wèn nǐ shì shéi wǒ lǎo po ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Old Wang got angry and asked: “Who are you? Where’s my wife?”"
+    },
+    {
+      "index": 6,
+      "simplified": "男的说：“我是抢手机的。你老婆在我后面呢。",
+      "traditional": "男的說：“我是搶手機的。你老婆在我後面呢。",
+      "pinyin": "nán de shuō wǒ shì qiǎng shǒu jī de nǐ lǎo po zài wǒ hòu miàn ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "先不说了，你老婆跑得太快了！”",
+      "traditional": "先不說了，你老婆跑得太快了！”",
+      "pinyin": "xiān bù shuō le nǐ lǎo po pǎo de tài kuài le",
+      "english": "The man said: “I stole her phone. Your wife is behind me.”"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老",
+      "traditional": "老",
+      "pinyin": "lǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 3
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老婆",
+      "traditional": "老婆",
+      "pinyin": "lǎo po",
+      "meaning": "(coll.) wife",
+      "hsk": 5
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make\nto issue",
+      "hsk": null
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "接",
+      "traditional": "接",
+      "pinyin": "jiē",
+      "meaning": "to receive\nto answer (the phone)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "男",
+      "traditional": "男",
+      "pinyin": "nán",
+      "meaning": "male\nman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "抢",
+      "traditional": "搶",
+      "pinyin": "qiǎng",
+      "meaning": "to grab\nto rob\nto snatch",
+      "hsk": 5
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后面",
+      "traditional": "後面",
+      "pinyin": "hòu miàn",
+      "meaning": "back\nbehind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "老",
+        "pinyin": "lǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "老"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男",
+        "pinyin": "nán",
+        "meaning": "male\nman",
+        "tc_hanzi": "男"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "老",
+        "pinyin": "lǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "老"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男",
+        "pinyin": "nán",
+        "meaning": "male\nman",
+        "tc_hanzi": "男"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "抢",
+        "pinyin": "qiǎng",
+        "meaning": "to grab\nto rob\nto snatch",
+        "tc_hanzi": "搶"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "back\nbehind",
+        "tc_hanzi": "後面"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "An unexpected person answers when Old Wang calls his wife.",
+    "syllable_times": [
+      0.54421768707483,
+      1.005033009481348,
+      3.1746031746031744,
+      3.5374149659863945,
+      4.126984126984127,
+      4.580498866213152,
+      4.9433106575963714,
+      5.3061224489795915,
+      5.759637188208616,
+      6.349206349206349,
+      6.666666666666667,
+      7.091760847871497,
+      8.934240362811792,
+      9.22646411935321,
+      9.523809523809524,
+      9.931972789115646,
+      10.294784580498867,
+      10.975056689342404,
+      11.428571428571429,
+      11.927437641723357,
+      12.380952380952381,
+      14.37641723356009,
+      14.739229024943311,
+      15.200658897576108,
+      15.600907029478458,
+      16.099773242630384,
+      17.369614512471657,
+      18.95691609977324,
+      19.33531362226215,
+      19.631485340249416,
+      20.997732426303855,
+      21.31519274376417,
+      21.67800453514739,
+      21.950113378684808,
+      24.17233560090703,
+      24.596080389387268,
+      24.85713713721796,
+      26.71201814058957,
+      27.01395890266836,
+      27.573696145124718,
+      27.936507936507937,
+      28.253968253968253,
+      28.616780045351472,
+      29.931972789115648,
+      30.20408163265306,
+      30.612244897959183,
+      31.428571428571427,
+      31.79138321995465,
+      32.06349206349206,
+      32.38095238095238,
+      32.6530612244898,
+      34.058956916099774,
+      34.467120181405896,
+      34.683747682151576,
+      35.01133786848072,
+      36.19047619047619,
+      36.43998389789914,
+      36.87074829931973,
+      37.414965986394556,
+      37.77777777777778,
+      38.140589569160994,
+      38.68480725623583,
+      39.002267573696145,
+      39.54439909297052,
+      39.54439909297052
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      25,
+      27,
+      42,
+      44,
+      61
+    ],
+    "sentence_translations": [
+      "Who Are You?",
+      "",
+      "Old Wang made a phone call to his wife, but a man answered the phone.",
+      "",
+      "Old Wang got angry and asked: “Who are you? Where’s my wife?”",
+      "",
+      "The man said: “I stole her phone. Your wife is behind me.”",
+      "“Be quiet for a while, your wife runs really quickly!”"
+    ]
+  }
+}

@@ -1,0 +1,952 @@
+{
+  "id": "1047",
+  "title": "I Want…",
+  "level": "elementary",
+  "date": "2020-07-25",
+  "synopsis": "Little Ming hasn’t really understood how ordering food over the phone works.",
+  "audioUrl": "https://static.duchinese.net/documents/1047/9ce625d1cb2708d7af113a045a71d8cb5d2ead75.mp3?1595070746",
+  "series": null,
+  "fullText": {
+    "simplified": "我要……\n\n    小明看到大人们可以打电话叫外卖，他也想试一下。\n    他随便拨了一个电话号码，说：“喂，我要两杯可乐，两个汉堡。”\n    对方回答：“不好意思，我们这儿是图书馆。”\n    小明马上很小声地说：“我要两杯可乐，两个汉堡。”",
+    "traditional": "我要……\n\n    小明看到大人們可以打電話叫外賣，他也想試一下。\n    他隨便撥了一個電話號碼，說：“喂，我要兩杯可樂，兩個漢堡。”\n    對方回答：“不好意思，我們這兒是圖書館。”\n    小明馬上很小聲地說：“我要兩杯可樂，兩個漢堡。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "I want …"
+    },
+    {
+      "index": 2,
+      "simplified": "小明看到大人们可以打电话叫外卖，他也想试一下。",
+      "traditional": "小明看到大人們可以打電話叫外賣，他也想試一下。",
+      "pinyin": "xiǎo míng kàn dào dà ren men kě yǐ dǎ diàn huà jiào wài mài tā yě xiǎng shì yí xià",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming has noticed that grownups can order food delivery over the phone, and he also wants to give it a go."
+    },
+    {
+      "index": 4,
+      "simplified": "他随便拨了一个电话号码，说：“喂，我要两杯可乐，两个汉堡。”",
+      "traditional": "他隨便撥了一個電話號碼，說：“喂，我要兩杯可樂，兩個漢堡。”",
+      "pinyin": "tā suí biàn bō le yí ge diàn huà hào mǎ shuō wéi wǒ yào liǎng bēi kě lè liǎng ge hàn bǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "He dialed a phone number at random, and said, “Hello, I want two coca-colas, and two hamburgers.”"
+    },
+    {
+      "index": 6,
+      "simplified": "对方回答：“不好意思，我们这儿是图书馆。”",
+      "traditional": "對方回答：“不好意思，我們這兒是圖書館。”",
+      "pinyin": "duì fāng huí dá bù hǎo yì si wǒ men zhè‘r shì tú shū guǎn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "The person on the other end answered, “I’m sorry, this is a library.”"
+    },
+    {
+      "index": 8,
+      "simplified": "小明马上很小声地说：“我要两杯可乐，两个汉堡。”",
+      "traditional": "小明馬上很小聲地說：“我要兩杯可樂，兩個漢堡。”",
+      "pinyin": "xiǎo míng mǎ shàng hěn xiǎo shēng de shuō wǒ yào liǎng bēi kě lè liǎng ge hàn bǎo",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大人",
+      "traditional": "大人",
+      "pinyin": "dà ren",
+      "meaning": "adult\ngrownup",
+      "hsk": null
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to order\nto ask",
+      "hsk": 1
+    },
+    {
+      "hanzi": "外卖",
+      "traditional": "外賣",
+      "pinyin": "wài mài",
+      "meaning": "delivery (of food from a restaurant)\ntakeout",
+      "hsk": null
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "试",
+      "traditional": "試",
+      "pinyin": "shì",
+      "meaning": "to test\nto try",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "随便",
+      "traditional": "隨便",
+      "pinyin": "suí biàn",
+      "meaning": "as one wishes\nat random\ncasual",
+      "hsk": 4
+    },
+    {
+      "hanzi": "拨",
+      "traditional": "撥",
+      "pinyin": "bō",
+      "meaning": "to dial",
+      "hsk": 6
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号码",
+      "traditional": "號碼",
+      "pinyin": "hào mǎ",
+      "meaning": "number",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可乐",
+      "traditional": "可樂",
+      "pinyin": "kě lè",
+      "meaning": "(loanword) cola\ncoca-cola",
+      "hsk": null
+    },
+    {
+      "hanzi": "汉堡",
+      "traditional": "漢堡",
+      "pinyin": "hàn bǎo",
+      "meaning": "hamburger (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "对方",
+      "traditional": "對方",
+      "pinyin": "duì fāng",
+      "meaning": "counterpart\nother person involved\nother side",
+      "hsk": 5
+    },
+    {
+      "hanzi": "回答",
+      "traditional": "回答",
+      "pinyin": "huí dá",
+      "meaning": "to reply\nto answer",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "图书馆",
+      "traditional": "圖書館",
+      "pinyin": "tú shū guǎn",
+      "meaning": "library",
+      "hsk": 3
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小声",
+      "traditional": "小聲",
+      "pinyin": "xiǎo shēng",
+      "meaning": "in a low voice\n(speak) in whispers",
+      "hsk": 3
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hanzi": "大人",
+        "pinyin": "dà ren",
+        "meaning": "adult\ngrownup",
+        "tc_hanzi": "大人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to order\nto ask",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "试",
+        "pinyin": "shì",
+        "meaning": "to test\nto try",
+        "tc_hanzi": "試"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "随便",
+        "pinyin": "suí biàn",
+        "meaning": "as one wishes\nat random\ncasual",
+        "tc_hanzi": "隨便"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "拨",
+        "pinyin": "bō",
+        "meaning": "to dial",
+        "tc_hanzi": "撥"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "号码",
+        "pinyin": "hào mǎ",
+        "meaning": "number",
+        "tc_hanzi": "號碼"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hanzi": "可乐",
+        "pinyin": "kě lè",
+        "meaning": "(loanword) cola\ncoca-cola",
+        "tc_hanzi": "可樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "汉堡",
+        "pinyin": "hàn bǎo",
+        "meaning": "hamburger (loanword)",
+        "tc_hanzi": "漢堡"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 5,
+        "hanzi": "对方",
+        "pinyin": "duì fāng",
+        "meaning": "counterpart\nother person involved\nother side",
+        "tc_hanzi": "對方"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "回答",
+        "pinyin": "huí dá",
+        "meaning": "to reply\nto answer",
+        "tc_hanzi": "回答"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "图书馆",
+        "pinyin": "tú shū guǎn",
+        "meaning": "library",
+        "tc_hanzi": "圖書館"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "小声",
+        "pinyin": "xiǎo shēng",
+        "meaning": "in a low voice\n(speak) in whispers",
+        "tc_hanzi": "小聲"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hanzi": "可乐",
+        "pinyin": "kě lè",
+        "meaning": "(loanword) cola\ncoca-cola",
+        "tc_hanzi": "可樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "汉堡",
+        "pinyin": "hàn bǎo",
+        "meaning": "hamburger (loanword)",
+        "tc_hanzi": "漢堡"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming hasn’t really understood how ordering food over the phone works.",
+    "syllable_times": [
+      0.36848072562358275,
+      2.38,
+      2.8,
+      3.22,
+      3.50907029478458,
+      3.65,
+      3.96,
+      4.3,
+      4.93,
+      5.23,
+      5.56,
+      5.846666666666667,
+      6.133333333333333,
+      6.42,
+      6.64,
+      6.984999999999999,
+      7.94,
+      8.3,
+      8.52,
+      8.74,
+      9.026666666666667,
+      9.240362811791384,
+      10.85,
+      11.26,
+      11.559999999999999,
+      11.938775510204081,
+      12.14,
+      12.346666666666668,
+      12.5,
+      12.76,
+      12.998866213151928,
+      13.1859410430839,
+      13.44671201814059,
+      14.58,
+      16.17,
+      17.13,
+      17.43764172335601,
+      17.800453514739228,
+      18.06,
+      18.33,
+      18.65079365079365,
+      19.4,
+      19.841269841269842,
+      20.068027210884352,
+      20.36281179138322,
+      22.77,
+      22.990000000000002,
+      23.253968253968253,
+      23.514739229024944,
+      25.13,
+      25.294784580498867,
+      25.515873015873016,
+      25.76530612244898,
+      26.79,
+      27.046485260770975,
+      27.43,
+      27.83,
+      28.07,
+      28.330000000000002,
+      28.59,
+      30.7,
+      31.015,
+      31.5,
+      31.815,
+      32.15986394557823,
+      32.41,
+      32.69,
+      33.03,
+      33.17,
+      34.96,
+      35.30612244897959,
+      35.83,
+      36.23,
+      36.56,
+      36.980000000000004,
+      38.01,
+      38.45,
+      38.70181405895691,
+      39.13265306122449,
+      40.039456
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      21,
+      23,
+      47,
+      49,
+      60,
+      62
+    ],
+    "sentence_translations": [
+      "I want …",
+      "",
+      "Little Ming has noticed that grownups can order food delivery over the phone, and he also wants to give it a go.",
+      "",
+      "He dialed a phone number at random, and said, “Hello, I want two coca-colas, and two hamburgers.”",
+      "",
+      "The person on the other end answered, “I’m sorry, this is a library.”",
+      "",
+      "Little Ming immediately said in a very low voice, ”I want two coca-colas, and two hamburgers.”"
+    ]
+  }
+}

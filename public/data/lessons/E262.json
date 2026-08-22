@@ -1,0 +1,680 @@
+{
+  "id": "E262",
+  "title": "What Are You Drinking",
+  "level": "elementary",
+  "date": "2018-10-13",
+  "synopsis": "Lili likes to drink soy milk for breakfast.",
+  "audioUrl": "https://static.duchinese.net/documents/862/f8299cb9fe7b6c3f591f1066e48a930bb91113b9.mp3?1538292699",
+  "series": null,
+  "fullText": {
+    "simplified": "你在喝什么\n\n本：早上好！你在喝什么？是牛奶吗？\n丽丽：早上好！这不是牛奶，这是豆浆。     \n本：豆浆是用什么做的？\n丽丽：豆浆是一种用黄豆做的饮料，很好喝。",
+    "traditional": "你在喝什麼\n\n本：早上好！你在喝什麼？是牛奶嗎？\n麗麗：早上好！這不是牛奶，這是豆漿。     \n本：豆漿是用什麼做的？\n麗麗：豆漿是一種用黃豆做的飲料，很好喝。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What Are You Drinking"
+    },
+    {
+      "index": 2,
+      "simplified": "本：早上好！你在喝什么？是牛奶吗？",
+      "traditional": "本：早上好！你在喝什麼？是牛奶嗎？",
+      "pinyin": "běn zǎo shang hǎo nǐ zài hē shén me shì niú nǎi ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Good morning! What are you drinking? Is it milk?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：早上好！这不是牛奶，这是豆浆。",
+      "traditional": "麗麗：早上好！這不是牛奶，這是豆漿。",
+      "pinyin": "lì lì zǎo shang hǎo zhè bú shì niú nǎi zhè shì dòu jiāng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "     \n",
+      "traditional": "     \n",
+      "pinyin": "",
+      "english": "Lili: Good morning! This is not milk. It is soy milk."
+    },
+    {
+      "index": 6,
+      "simplified": "本：豆浆是用什么做的？",
+      "traditional": "本：豆漿是用什麼做的？",
+      "pinyin": "běn dòu jiāng shì yòng shén me zuò de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What is soy milk made from?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：豆浆是一种用黄豆做的饮料，很好喝。",
+      "traditional": "麗麗：豆漿是一種用黃豆做的飲料，很好喝。",
+      "pinyin": "lì lì dòu jiāng shì yì zhǒng yòng huáng dòu zuò de yǐn liào hěn hǎo hē",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Soy milk is a type of beverage made from yellow soybeans. It’s delicious."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早上好",
+      "traditional": "早上好",
+      "pinyin": "zǎo shang hǎo",
+      "meaning": "Good morning!",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "meaning": "cow's milk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "豆浆",
+      "traditional": "豆漿",
+      "pinyin": "dòu jiāng",
+      "meaning": "soy milk",
+      "hsk": null
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一种",
+      "traditional": "一種",
+      "pinyin": "yì zhǒng",
+      "meaning": "one kind of",
+      "hsk": 3
+    },
+    {
+      "hanzi": "黄豆",
+      "traditional": "黃豆",
+      "pinyin": "huáng dòu",
+      "meaning": "yellow soybean",
+      "hsk": null
+    },
+    {
+      "hanzi": "饮料",
+      "traditional": "飲料",
+      "pinyin": "yǐn liào",
+      "meaning": "drink\nbeverage",
+      "hsk": 3
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好喝",
+      "traditional": "好喝",
+      "pinyin": "hǎo hē",
+      "meaning": "tasty (drinks)",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "早上好",
+        "pinyin": "zǎo shang hǎo",
+        "meaning": "Good morning!",
+        "tc_hanzi": "早上好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "早上好",
+        "pinyin": "zǎo shang hǎo",
+        "meaning": "Good morning!",
+        "tc_hanzi": "早上好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "豆浆",
+        "pinyin": "dòu jiāng",
+        "meaning": "soy milk",
+        "tc_hanzi": "豆漿"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "     ",
+        "tc_hanzi": "     "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "豆浆",
+        "pinyin": "dòu jiāng",
+        "meaning": "soy milk",
+        "tc_hanzi": "豆漿"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "豆浆",
+        "pinyin": "dòu jiāng",
+        "meaning": "soy milk",
+        "tc_hanzi": "豆漿"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一种",
+        "pinyin": "yì zhǒng",
+        "meaning": "one kind of",
+        "tc_hanzi": "一種"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "黄豆",
+        "pinyin": "huáng dòu",
+        "meaning": "yellow soybean",
+        "tc_hanzi": "黃豆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "饮料",
+        "pinyin": "yǐn liào",
+        "meaning": "drink\nbeverage",
+        "tc_hanzi": "飲料"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "好喝",
+        "pinyin": "hǎo hē",
+        "meaning": "tasty (drinks)",
+        "tc_hanzi": "好喝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili likes to drink soy milk for breakfast.",
+    "syllable_times": [
+      0.3635610923651726,
+      0.9070294784580499,
+      1.2244897959183674,
+      1.5873015873015872,
+      2.989427845804922,
+      2.989427845804922,
+      3.310657596371882,
+      3.5374149659863945,
+      5.079365079365079,
+      5.3061224489795915,
+      5.531873241547615,
+      5.725222849557476,
+      6.002348422523467,
+      7.482993197278912,
+      7.845804988662132,
+      8.072562358276643,
+      8.390022675736962,
+      10.344094911043598,
+      10.344094911043598,
+      10.344094911043598,
+      10.657596371882086,
+      10.929705215419501,
+      12.471655328798185,
+      12.970521541950113,
+      13.243984423932448,
+      13.605442176870747,
+      13.877551020408163,
+      14.829931972789115,
+      15.10204081632653,
+      15.646258503401361,
+      16.009070294784582,
+      18.0695823290444,
+      18.0695823290444,
+      18.41269841269841,
+      18.95691609977324,
+      19.236461840933348,
+      19.408490687491412,
+      19.635217703761572,
+      19.767042952322175,
+      20,
+      21.97748730175724,
+      21.97748730175724,
+      21.97748730175724,
+      22.312925170068027,
+      22.811791383219955,
+      23.26530612244898,
+      23.49206349206349,
+      23.990929705215418,
+      24.399092970521544,
+      24.85260770975057,
+      25.215419501133788,
+      25.578231292517007,
+      25.714285714285715,
+      25.98639455782313,
+      26.848072562358276,
+      27.165532879818596,
+      27.490927759678133,
+      28.14160997732426,
+      28.14160997732426
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      19,
+      20,
+      33,
+      35,
+      44,
+      45,
+      59
+    ],
+    "sentence_translations": [
+      "What Are You Drinking",
+      "",
+      "Ben: Good morning! What are you drinking? Is it milk?",
+      "",
+      "Lili: Good morning! This is not milk. It is soy milk.",
+      "",
+      "Ben: What is soy milk made from?",
+      "",
+      "Lili: Soy milk is a type of beverage made from yellow soybeans. It’s delicious.",
+      ""
+    ]
+  }
+}

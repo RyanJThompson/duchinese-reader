@@ -1,0 +1,750 @@
+{
+  "id": "431",
+  "title": "Autumn Excursion",
+  "level": "elementary",
+  "date": "2017-11-21",
+  "synopsis": "The school is announcing an autumn excursion to go see the autumn leaves.",
+  "audioUrl": "https://static.duchinese.net/documents/583/e9c5cc8159f5b84ad9a4cb8043eb0cf7050a3aa7.mp3?1511205954",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 14,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "秋游\n\n    同学们，11月25号星期六我们要去秋游！这次我们去香山看红叶。\n    请大家25号早上8点到学校，不要迟到。因为要爬山，所以请大家穿上好走路的鞋子，带上水。",
+    "traditional": "秋遊\n\n    同學們，11月25號星期六我們要去秋遊！這次我們去香山看紅葉。\n    請大家25號早上8點到學校，不要遲到。因為要爬山，所以請大家穿上好走路的鞋子，帶上水。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Autumn Excursion"
+    },
+    {
+      "index": 2,
+      "simplified": "同学们，11月25号星期六我们要去秋游！",
+      "traditional": "同學們，11月25號星期六我們要去秋遊！",
+      "pinyin": "tóng xué men 2 yuè 3 hào xīng qī liù wǒ men yào qù qiū yóu",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "这次我们去香山看红叶。",
+      "traditional": "這次我們去香山看紅葉。",
+      "pinyin": "zhè cì wǒ men qù xiāng shān kàn hóng yè",
+      "english": "Fellow classmates, on Saturday November 25th we will go on an autumn excursion!"
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "This time we will go to Fragrance Hill to watch the autumn leaves."
+    },
+    {
+      "index": 5,
+      "simplified": "请大家25号早上8点到学校，不要迟到。",
+      "traditional": "請大家25號早上8點到學校，不要遲到。",
+      "pinyin": "qǐng dà jiā 3 hào zǎo shang 1 diǎn dào xué xiào bú yào chí dào",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "因为要爬山，所以请大家穿上好走路的鞋子，带上水。",
+      "traditional": "因為要爬山，所以請大家穿上好走路的鞋子，帶上水。",
+      "pinyin": "yīn wèi yào pá shān suǒ yǐ qǐng dà jiā chuān shang hǎo zǒu lù de xié zi dài shàng shuǐ",
+      "english": "We ask everyone to come to school at 8 in the morning on the 25th, and not to be late."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Because we will go hiking, please wear good walking shoes and bring water."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "秋游",
+      "traditional": "秋遊",
+      "pinyin": "qiū yóu",
+      "meaning": "autumn outing\nautumn excursion",
+      "hsk": null
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期六",
+      "traditional": "星期六",
+      "pinyin": "xīng qī liù",
+      "meaning": "Saturday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "香山",
+      "traditional": "香山",
+      "pinyin": "xiāng shān",
+      "meaning": "Fragrance Hill (a park in Beijing)",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "红叶",
+      "traditional": "紅葉",
+      "pinyin": "hóng yè",
+      "meaning": "red autumnal leaves",
+      "hsk": null
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "迟到",
+      "traditional": "遲到",
+      "pinyin": "chí dào",
+      "meaning": "to arrive late",
+      "hsk": 3
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "爬山",
+      "traditional": "爬山",
+      "pinyin": "pá shān",
+      "meaning": "to climb a mountain\nhiking",
+      "hsk": 3
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "穿上",
+      "traditional": "穿上",
+      "pinyin": "chuān shang",
+      "meaning": "to put on (clothes etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "meaning": "to walk\nto go on foot",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鞋子",
+      "traditional": "鞋子",
+      "pinyin": "xié zi",
+      "meaning": "shoe",
+      "hsk": 3
+    },
+    {
+      "hanzi": "带上",
+      "traditional": "帶上",
+      "pinyin": "dài shàng",
+      "meaning": "to take along with one",
+      "hsk": null
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "秋游",
+        "pinyin": "qiū yóu",
+        "meaning": "autumn outing\nautumn excursion",
+        "tc_hanzi": "秋遊"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "11",
+        "pinyin": "2",
+        "tc_hanzi": "11"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "25",
+        "pinyin": "3",
+        "tc_hanzi": "25"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期六",
+        "pinyin": "xīng qī liù",
+        "meaning": "Saturday",
+        "tc_hanzi": "星期六"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "秋游",
+        "pinyin": "qiū yóu",
+        "meaning": "autumn outing\nautumn excursion",
+        "tc_hanzi": "秋遊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "香山",
+        "pinyin": "xiāng shān",
+        "meaning": "Fragrance Hill (a park in Beijing)",
+        "tc_hanzi": "香山"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "红叶",
+        "pinyin": "hóng yè",
+        "meaning": "red autumnal leaves",
+        "tc_hanzi": "紅葉"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "25",
+        "pinyin": "3",
+        "tc_hanzi": "25"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "迟到",
+        "pinyin": "chí dào",
+        "meaning": "to arrive late",
+        "tc_hanzi": "遲到"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "爬山",
+        "pinyin": "pá shān",
+        "meaning": "to climb a mountain\nhiking",
+        "tc_hanzi": "爬山"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "穿上",
+        "pinyin": "chuān shang",
+        "meaning": "to put on (clothes etc)",
+        "tc_hanzi": "穿上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "走路",
+        "pinyin": "zǒu lù",
+        "meaning": "to walk\nto go on foot",
+        "tc_hanzi": "走路"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋子",
+        "pinyin": "xié zi",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "带上",
+        "pinyin": "dài shàng",
+        "meaning": "to take along with one",
+        "tc_hanzi": "帶上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "The school is announcing an autumn excursion to go see the autumn leaves.",
+    "syllable_times": [
+      0.54421768707483,
+      2.403628117913832,
+      2.857142857142857,
+      3.069709164329466,
+      4.308390022675737,
+      4.644075731697401,
+      4.988662131519274,
+      5.487528344671202,
+      5.721397471750172,
+      6.031746031746032,
+      6.258503401360544,
+      7.029478458049887,
+      7.437641723356009,
+      7.755102040816326,
+      8.934240362811792,
+      9.297052154195011,
+      9.841269841269842,
+      10.15873015873016,
+      10.61224489795918,
+      10.9750566893424,
+      13.15192743764172,
+      13.51473922902494,
+      14.4671201814059,
+      14.82993197278912,
+      15.32879818594104,
+      15.74359173813836,
+      16.09977324263038,
+      16.73469387755102,
+      17.14285714285714,
+      17.50566893424036,
+      19.59183673469388,
+      20.18140589569161,
+      20.49886621315193,
+      21.31519274376417,
+      21.60278120729938,
+      21.89571030836302,
+      22.14230584830274,
+      22.63038548752834,
+      22.99319727891157,
+      23.85487528344671,
+      24.21768707482993,
+      24.76190476190476,
+      25.03401360544218,
+      25.38813570004019,
+      26.89342403628118,
+      27.21088435374149,
+      27.48299319727891,
+      27.84580498866213,
+      30.74829931972789,
+      31.06575963718821,
+      31.51927437641723,
+      31.74603174603175,
+      32.06349206349206,
+      33.42403628117914,
+      33.90936241345145,
+      34.37641723356009,
+      34.78458049886621,
+      35.05668934240363,
+      35.51020408163265,
+      35.87301587301587,
+      36.50793650793651,
+      36.82539682539682,
+      37.05215419501134,
+      37.41496598639456,
+      37.59637188208617,
+      38.09523809523809,
+      39.41043083900227,
+      39.72789115646258,
+      40.02747439134499,
+      41.00455782312925,
+      41.00455782312925
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      17,
+      25,
+      27,
+      41,
+      57
+    ],
+    "sentence_translations": [
+      "Autumn Excursion",
+      "",
+      "Fellow classmates, on Saturday November 25th we will go on an autumn excursion!",
+      "This time we will go to Fragrance Hill to watch the autumn leaves.",
+      "",
+      "We ask everyone to come to school at 8 in the morning on the 25th, and not to be late.",
+      "Because we will go hiking, please wear good walking shoes and bring water.",
+      ""
+    ]
+  }
+}

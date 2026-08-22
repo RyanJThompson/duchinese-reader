@@ -1,0 +1,469 @@
+{
+  "id": "265",
+  "title": "Are You British?",
+  "level": "newbie",
+  "date": "2017-03-03",
+  "synopsis": "Lili asks if Ben is from the United Kingdom.",
+  "audioUrl": "https://static.duchinese.net/documents/358/e006096b9c006717e578233d741caf2c97651152.mp3?1553269238",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 6,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你是英国人吗？\n\n丽丽：你是英国人吗？\n本：不是。我是美国人。你是中国人吗？\n丽丽：是，我是中国人。",
+    "traditional": "你是英國人嗎？\n\n麗麗：你是英國人嗎？\n本：不是。我是美國人。你是中國人嗎？\n麗麗：是，我是中國人。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Are You British?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：你是英国人吗？",
+      "traditional": "麗麗：你是英國人嗎？",
+      "pinyin": "lì lì nǐ shì yīng guó rén ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Are you British?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：不是。我是美国人。你是中国人吗？",
+      "traditional": "本：不是。我是美國人。你是中國人嗎？",
+      "pinyin": "běn bú shì wǒ shì měi guó rén nǐ shì zhōng guó rén ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: No. I'm an American. Are you Chinese?"
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：是，我是中国人。",
+      "traditional": "麗麗：是，我是中國人。",
+      "pinyin": "lì lì shì wǒ shì zhōng guó rén",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Yes, I'm Chinese."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "英国",
+      "traditional": "英國",
+      "pinyin": "yīng guó",
+      "meaning": "United Kingdom\nGreat Britain\nabbr. for England",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "英国",
+        "pinyin": "yīng guó",
+        "meaning": "United Kingdom\nGreat Britain\nabbr. for England",
+        "tc_hanzi": "英國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "英国",
+        "pinyin": "yīng guó",
+        "meaning": "United Kingdom\nGreat Britain\nabbr. for England",
+        "tc_hanzi": "英國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili asks if Ben is from the United Kingdom.",
+    "syllable_times": [
+      0.4851528241093311,
+      1.51,
+      2,
+      2.46,
+      2.8620870595369357,
+      5.394638859881152,
+      5.394638859881152,
+      5.394638859881152,
+      5.92,
+      6.92,
+      7.43,
+      7.82,
+      8.219017904684593,
+      9.801230175257757,
+      9.801230175257757,
+      10.130721124209899,
+      10.913727385497321,
+      11.207770141985542,
+      11.58,
+      11.975799541956958,
+      12.193333333333333,
+      13.1,
+      13.42,
+      13.79,
+      14.146070815319906,
+      14.345422587688878,
+      14.556871055736163,
+      15.895350492933218,
+      15.895350492933218,
+      15.895350492933218,
+      17.09,
+      17.581931180125974,
+      18.18,
+      18.66,
+      19.08,
+      19.91907,
+      19.91907
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      16,
+      17,
+      33,
+      34,
+      43
+    ],
+    "sentence_translations": [
+      "Are You British?",
+      "",
+      "Lili: Are you British?",
+      "",
+      "Ben: No. I'm an American. Are you Chinese?",
+      "",
+      "Lili: Yes, I'm Chinese.",
+      ""
+    ]
+  }
+}

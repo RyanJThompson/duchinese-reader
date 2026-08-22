@@ -1,0 +1,690 @@
+{
+  "id": "702",
+  "title": "We’re Going On An Autumn Excursion",
+  "level": "newbie",
+  "date": "2019-04-11",
+  "synopsis": "The teacher announces an autumn excursion to Fragrance Hill.",
+  "audioUrl": "https://static.duchinese.net/documents/1015/8d4de5a3046ecbf164c43e4b3b4dd3e193078453.mp3?1554468195",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 13,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我们要去秋游\n\n张老师：同学们，明天我们要去秋游，请同学们8点到学校。\n本：太好了！我们去哪儿？\n张老师：香山。\n本：我们怎么去？\n张老师：坐巴士去。",
+    "traditional": "我們要去秋遊\n\n張老師：同學們，明天我們要去秋遊，請同學們8點到學校。\n本：太好了！我們去哪兒？\n張老師：香山。\n本：我們怎麼去？\n張老師：坐巴士去。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "We’re Going On An Autumn Excursion"
+    },
+    {
+      "index": 2,
+      "simplified": "张老师：同学们，明天我们要去秋游，请同学们8点到学校。",
+      "traditional": "張老師：同學們，明天我們要去秋遊，請同學們8點到學校。",
+      "pinyin": "zhāng lǎo shī tóng xué men míng tiān wǒ men yào qù qiū yóu qǐng tóng xué men bā diǎn dào xué xiào",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher Zhang: Students, we are going on an autumn excursion tomorrow. Please arrive at the school at 8 o’clock."
+    },
+    {
+      "index": 4,
+      "simplified": "本：太好了！我们去哪儿？",
+      "traditional": "本：太好了！我們去哪兒？",
+      "pinyin": "běn tài hǎo le wǒ men qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Great! Where are we going?"
+    },
+    {
+      "index": 6,
+      "simplified": "张老师：香山。",
+      "traditional": "張老師：香山。",
+      "pinyin": "zhāng lǎo shī xiāng shān",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher Zhang: Fragrance Hill."
+    },
+    {
+      "index": 8,
+      "simplified": "本：我们怎么去？",
+      "traditional": "本：我們怎麼去？",
+      "pinyin": "běn wǒ men zěn me qù",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How are we going there?"
+    },
+    {
+      "index": 10,
+      "simplified": "张老师：坐巴士去。",
+      "traditional": "張老師：坐巴士去。",
+      "pinyin": "zhāng lǎo shī zuò bā shì qù",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Teacher Zhang: We’re going by bus."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "秋游",
+      "traditional": "秋遊",
+      "pinyin": "qiū yóu",
+      "meaning": "autumn outing\nautumn excursion",
+      "hsk": null
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "香山",
+      "traditional": "香山",
+      "pinyin": "xiāng shān",
+      "meaning": "Fragrance Hill (a park in Beijing)",
+      "hsk": null
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "巴士",
+      "traditional": "巴士",
+      "pinyin": "bā shì",
+      "meaning": "bus (loanword)\ncoach",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "秋游",
+        "pinyin": "qiū yóu",
+        "meaning": "autumn outing\nautumn excursion",
+        "tc_hanzi": "秋遊"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "秋游",
+        "pinyin": "qiū yóu",
+        "meaning": "autumn outing\nautumn excursion",
+        "tc_hanzi": "秋遊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "bā",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "香山",
+        "pinyin": "xiāng shān",
+        "meaning": "Fragrance Hill (a park in Beijing)",
+        "tc_hanzi": "香山"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hanzi": "巴士",
+        "pinyin": "bā shì",
+        "meaning": "bus (loanword)\ncoach",
+        "tc_hanzi": "巴士"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "The teacher announces an autumn excursion to Fragrance Hill.",
+    "syllable_times": [
+      0.49,
+      1,
+      1.37,
+      1.92,
+      2.3449999999999998,
+      3.997617410917731,
+      3.997617410917731,
+      3.997617410917731,
+      3.997617410917731,
+      4.343333333333334,
+      4.656666666666666,
+      5.63,
+      6.1,
+      6.73,
+      7.115,
+      7.6,
+      7.93,
+      8.31,
+      8.690000000000001,
+      9.81,
+      10.32,
+      10.64,
+      10.959999999999999,
+      11.53,
+      11.905,
+      12.45,
+      12.67,
+      13.035,
+      14.6548411236936,
+      14.6548411236936,
+      14.965,
+      15.27,
+      16.36,
+      16.605,
+      16.88,
+      17.241519091676444,
+      18.95665881679542,
+      18.95665881679542,
+      18.95665881679542,
+      18.95665881679542,
+      19.525,
+      21.063075865187297,
+      21.063075865187297,
+      21.35,
+      21.66,
+      21.915,
+      22.17,
+      24.21700310572099,
+      24.21700310572099,
+      24.21700310572099,
+      24.21700310572099,
+      24.64,
+      25.009999999999998,
+      25.38,
+      26.064376,
+      26.064376
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      26,
+      27,
+      37,
+      38,
+      43,
+      44,
+      50,
+      51,
+      58
+    ],
+    "sentence_translations": [
+      "We’re Going On An Autumn Excursion",
+      "",
+      "Teacher Zhang: Students, we are going on an autumn excursion tomorrow. Please arrive at the school at 8 o’clock.",
+      "",
+      "Ben: Great! Where are we going?",
+      "",
+      "Teacher Zhang: Fragrance Hill.",
+      "",
+      "Ben: How are we going there?",
+      "",
+      "Teacher Zhang: We’re going by bus.",
+      ""
+    ]
+  }
+}

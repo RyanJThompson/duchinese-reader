@@ -1,0 +1,768 @@
+{
+  "id": "E187",
+  "title": "What Are You Doing After Work?",
+  "level": "newbie",
+  "date": "2018-01-18",
+  "synopsis": "Yuanyuan chose to study French after work. What do you normally do?",
+  "audioUrl": "https://static.duchinese.net/documents/641/ae0ed65624d9f65bd2106cace93aef6c8c9462c7.mp3?1516136729",
+  "series": null,
+  "fullText": {
+    "simplified": "你下班后去哪儿\n\n圆圆：最近怎么样？\n方方：忙死了。你呢？\n圆圆：我还好。\n方方：你下班后去哪儿？\n圆圆：今天是星期二，我要去上法语课。你呢？\n方方：我要回家做晚饭。",
+    "traditional": "你下班後去哪兒\n\n圓圓：最近怎麼樣？\n方方：忙死了。你呢？\n圓圓：我還好。\n方方：你下班後去哪兒？\n圓圓：今天是星期二，我要去上法語課。你呢？\n方方：我要回家做晚飯。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where are you going after work?"
+    },
+    {
+      "index": 2,
+      "simplified": "圆圆：最近怎么样？",
+      "traditional": "圓圓：最近怎麼樣？",
+      "pinyin": "yuán yuán zuì jìn zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Yuanyuan: How is everything going?"
+    },
+    {
+      "index": 4,
+      "simplified": "方方：忙死了。你呢？",
+      "traditional": "方方：忙死了。你呢？",
+      "pinyin": "fāng fāng máng sǐ le nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Fangfang: I am so busy. How about you?"
+    },
+    {
+      "index": 6,
+      "simplified": "圆圆：我还好。",
+      "traditional": "圓圓：我還好。",
+      "pinyin": "yuán yuán wǒ hái hǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Yuanyuan: I am alright."
+    },
+    {
+      "index": 8,
+      "simplified": "方方：你下班后去哪儿？",
+      "traditional": "方方：你下班後去哪兒？",
+      "pinyin": "fāng fāng nǐ xià bān hòu qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Fangfang: Where are you going after work?"
+    },
+    {
+      "index": 10,
+      "simplified": "圆圆：今天是星期二，我要去上法语课。你呢？",
+      "traditional": "圓圓：今天是星期二，我要去上法語課。你呢？",
+      "pinyin": "yuán yuán jīn tiān shì xīng qī èr wǒ yào qù shàng fǎ yǔ kè nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Yuanyuan: It’s Tuesday today, I am going to have a French class. How about you?"
+    },
+    {
+      "index": 12,
+      "simplified": "方方：我要回家做晚饭。",
+      "traditional": "方方：我要回家做晚飯。",
+      "pinyin": "fāng fāng wǒ yào huí jiā zuò wǎn fàn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Fangfang: I’m going back home to cook dinner."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下班",
+      "traditional": "下班",
+      "pinyin": "xià bān",
+      "meaning": "to finish work\nto get off work",
+      "hsk": null
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "圆圆",
+      "traditional": "圓圓",
+      "pinyin": "yuán yuán",
+      "meaning": "Yuanyuan (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "方方",
+      "traditional": "方方",
+      "pinyin": "fāng fāng",
+      "meaning": "Fangfang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "忙",
+      "traditional": "忙",
+      "pinyin": "máng",
+      "meaning": "busy",
+      "hsk": 2
+    },
+    {
+      "hanzi": "死",
+      "traditional": "死",
+      "pinyin": "sǐ",
+      "meaning": "death\nto die",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还好",
+      "traditional": "還好",
+      "pinyin": "hái hǎo",
+      "meaning": "not bad\ntolerable",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "to get onto\nto go up",
+      "hsk": 1
+    },
+    {
+      "hanzi": "法语",
+      "traditional": "法語",
+      "pinyin": "fǎ yǔ",
+      "meaning": "French (language)",
+      "hsk": null
+    },
+    {
+      "hanzi": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "meaning": "class\nlesson",
+      "hsk": 2
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚饭",
+      "traditional": "晚飯",
+      "pinyin": "wǎn fàn",
+      "meaning": "evening meal\ndinner",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "下班",
+        "pinyin": "xià bān",
+        "meaning": "to finish work\nto get off work",
+        "tc_hanzi": "下班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "Yuanyuan (name)",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "tc_hanzi": "忙"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "Yuanyuan (name)",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "还好",
+        "pinyin": "hái hǎo",
+        "meaning": "not bad\ntolerable",
+        "tc_hanzi": "還好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "下班",
+        "pinyin": "xià bān",
+        "meaning": "to finish work\nto get off work",
+        "tc_hanzi": "下班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "Yuanyuan (name)",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "法语",
+        "pinyin": "fǎ yǔ",
+        "meaning": "French (language)",
+        "tc_hanzi": "法語"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚饭",
+        "pinyin": "wǎn fàn",
+        "meaning": "evening meal\ndinner",
+        "tc_hanzi": "晚飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Yuanyuan chose to study French after work. What do you normally do?",
+    "syllable_times": [
+      0.4081632653061225,
+      0.7256235827664399,
+      0.9574578432264468,
+      1.360544217687075,
+      1.8140589569161,
+      5.40269334998511,
+      5.40269334998511,
+      5.40269334998511,
+      5.759637188208616,
+      6.213151927437642,
+      6.439909297052155,
+      6.634255137589705,
+      8.994057837257904,
+      8.994057837257904,
+      8.994057837257904,
+      9.416161954708274,
+      9.65986394557823,
+      10.9297052154195,
+      11.20181405895692,
+      13.2794281467853,
+      13.2794281467853,
+      13.2794281467853,
+      13.70742744932659,
+      14.03587347582111,
+      16.30800191902424,
+      16.30800191902424,
+      16.30800191902424,
+      16.78484704089036,
+      17.18820861678005,
+      17.47263340973184,
+      17.86848072562358,
+      18.36734693877551,
+      20.79169850812052,
+      20.79169850812052,
+      20.79169850812052,
+      21.1895570147082,
+      21.58730158730159,
+      22.07862184593991,
+      22.40362811791383,
+      22.67573696145125,
+      24.21768707482993,
+      24.62585034013605,
+      24.94331065759637,
+      25.20617267312653,
+      25.62358276643991,
+      25.99426583791363,
+      26.21315192743764,
+      27.57369614512472,
+      27.93650793650794,
+      30.21455225429899,
+      30.21455225429899,
+      30.21455225429899,
+      30.47619047619047,
+      30.89227691625596,
+      31.20181405895692,
+      31.79138321995465,
+      32.29024943310657,
+      32.58977994954346,
+      33.2243537414966,
+      33.2243537414966
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      12,
+      13,
+      22,
+      23,
+      28,
+      29,
+      37,
+      38,
+      55,
+      56,
+      64
+    ],
+    "sentence_translations": [
+      "Where are you going after work?",
+      "",
+      "Yuanyuan: How is everything going?",
+      "",
+      "Fangfang: I am so busy. How about you?",
+      "",
+      "Yuanyuan: I am alright.",
+      "",
+      "Fangfang: Where are you going after work?",
+      "",
+      "Yuanyuan: It’s Tuesday today, I am going to have a French class. How about you?",
+      "",
+      "Fangfang: I’m going back home to cook dinner.",
+      ""
+    ]
+  }
+}

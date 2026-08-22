@@ -1,0 +1,939 @@
+{
+  "id": "E207",
+  "title": "Spring Outing",
+  "level": "intermediate",
+  "date": "2018-04-01",
+  "synopsis": "What do you need to do to prepare for a spring outing?",
+  "audioUrl": "https://static.duchinese.net/documents/696/6573776dbce2c273a7b67decfdbdb791713e2974.mp3?1522070911",
+  "series": null,
+  "fullText": {
+    "simplified": "明天去春游\n\n    明天小明要跟同学一起去森林公园春游。妈妈给他准备了很多好吃的，有面包、鸡蛋、水果，还有牛奶。今天晚上他想早一点睡觉，这样明天早上可以早一点起床。他要先去学校跟同学见面，然后一起坐公共汽车去公园。",
+    "traditional": "明天去春遊\n\n    明天小明要跟同學一起去森林公園春遊。媽媽給他準備了很多好吃的，有麵包、雞蛋、水果，還有牛奶。今天晚上他想早一點睡覺，這樣明天早上可以早一點起床。他要先去學校跟同學見面，然後一起坐公共汽車去公園。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Going for a Spring Outing Tomorrow"
+    },
+    {
+      "index": 2,
+      "simplified": "明天小明要跟同学一起去森林公园春游。",
+      "traditional": "明天小明要跟同學一起去森林公園春遊。",
+      "pinyin": "míng tiān xiǎo míng yào gēn tóng xué yì qǐ qù sēn lín gōng yuán chūn yóu",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "妈妈给他准备了很多好吃的，有面包、鸡蛋、水果，还有牛奶。",
+      "traditional": "媽媽給他準備了很多好吃的，有麵包、雞蛋、水果，還有牛奶。",
+      "pinyin": "mā ma gěi tā zhǔn bèi le hěn duō hǎo chī de yǒu miàn bāo jī dàn shuǐ guǒ hái yǒu niú nǎi",
+      "english": "Tomorrow, Little Ming is going to the forest park for a spring outing with his classmates."
+    },
+    {
+      "index": 4,
+      "simplified": "今天晚上他想早一点睡觉，这样明天早上可以早一点起床。",
+      "traditional": "今天晚上他想早一點睡覺，這樣明天早上可以早一點起床。",
+      "pinyin": "jīn tiān wǎn shang tā xiǎng zǎo yì diǎn shuì jiào zhè yàng míng tiān zǎo shang kě yǐ zǎo yì diǎn qǐ chuáng",
+      "english": "His mom prepared a lot of tasty food for him. He has bread, eggs, fruit and milk."
+    },
+    {
+      "index": 5,
+      "simplified": "他要先去学校跟同学见面，",
+      "traditional": "他要先去學校跟同學見面，",
+      "pinyin": "tā yào xiān qù xué xiào gēn tóng xué jiàn miàn",
+      "english": "He wants to go to bed early tonight, so that he can get up early tomorrow morning."
+    },
+    {
+      "index": 6,
+      "simplified": "然后一起坐公共汽车去公园。",
+      "traditional": "然後一起坐公共汽車去公園。",
+      "pinyin": "rán hòu yì qǐ zuò gōng gòng qì chē qù gōng yuán",
+      "english": "He needs to first go to school to meet his classmates, .."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": ".. and then take the bus to the forest park together with them."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "春游",
+      "traditional": "春遊",
+      "pinyin": "chūn yóu",
+      "meaning": "spring outing\nspring excursion",
+      "hsk": null
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "meaning": "with",
+      "hsk": 3
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "森林",
+      "traditional": "森林",
+      "pinyin": "sēn lín",
+      "meaning": "forest",
+      "hsk": 4
+    },
+    {
+      "hanzi": "公园",
+      "traditional": "公園",
+      "pinyin": "gōng yuán",
+      "meaning": "public park",
+      "hsk": 3
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "meaning": "preparation\nto prepare\nto be about to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "面包",
+      "traditional": "麵包",
+      "pinyin": "miàn bāo",
+      "meaning": "bread",
+      "hsk": 3
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "meaning": "cow's milk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "manner\nway\nappearance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "meaning": "to get out of bed\nto get up",
+      "hsk": 2
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "见面",
+      "traditional": "見面",
+      "pinyin": "jiàn miàn",
+      "meaning": "to meet\nto see each other",
+      "hsk": 3
+    },
+    {
+      "hanzi": "然后",
+      "traditional": "然後",
+      "pinyin": "rán hòu",
+      "meaning": "then (afterwards)\nafter that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公共汽车",
+      "traditional": "公共汽車",
+      "pinyin": "gōng gòng qì chē",
+      "meaning": "bus",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "春游",
+        "pinyin": "chūn yóu",
+        "meaning": "spring outing\nspring excursion",
+        "tc_hanzi": "春遊"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "森林",
+        "pinyin": "sēn lín",
+        "meaning": "forest",
+        "tc_hanzi": "森林"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "hanzi": "春游",
+        "pinyin": "chūn yóu",
+        "meaning": "spring outing\nspring excursion",
+        "tc_hanzi": "春遊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "准备",
+        "pinyin": "zhǔn bèi",
+        "meaning": "preparation\nto prepare\nto be about to",
+        "tc_hanzi": "準備"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "面包",
+        "pinyin": "miàn bāo",
+        "meaning": "bread",
+        "tc_hanzi": "麵包"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "manner\nway\nappearance",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "见面",
+        "pinyin": "jiàn miàn",
+        "meaning": "to meet\nto see each other",
+        "tc_hanzi": "見面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What do you need to do to prepare for a spring outing?",
+    "syllable_times": [
+      0.5710510264426009,
+      1.1791383219954648,
+      1.6780045351473922,
+      2.131519274376417,
+      5.3061224489795915,
+      5.756151806851389,
+      6.757369614512472,
+      7.2562358276643995,
+      7.891156462585034,
+      8.344671201814059,
+      8.70748299319728,
+      9.115646258503402,
+      9.61451247165533,
+      9.886621315192743,
+      11.201814058956916,
+      11.927437641723357,
+      12.381088306235133,
+      12.763989828660097,
+      13.106575963718821,
+      13.65079365079365,
+      14.104308390022675,
+      16.462585034013607,
+      16.825396825396826,
+      17.27891156462585,
+      17.596371882086167,
+      18.276643990929706,
+      18.68480725623583,
+      19.047619047619047,
+      19.727891156462587,
+      20.18140589569161,
+      20.68027210884354,
+      21.133786848072564,
+      21.541950113378686,
+      23.44671201814059,
+      24.03628117913832,
+      24.489795918367346,
+      25.85034013605442,
+      26.258503401360546,
+      27.800453514739228,
+      28.299319727891156,
+      29.614512471655328,
+      29.97732426303855,
+      30.34013605442177,
+      30.70294784580499,
+      32.83446712018141,
+      33.28798185941043,
+      33.605442176870746,
+      33.92290249433107,
+      35.28344671201814,
+      35.64625850340136,
+      36.235827664399096,
+      36.64399092970522,
+      36.961451247165535,
+      37.27891156462585,
+      37.73242630385487,
+      39.54648526077097,
+      39.9546485260771,
+      40.997732426303855,
+      41.42689718973403,
+      41.859410430839006,
+      42.17687074829932,
+      43.08390022675737,
+      43.5827664399093,
+      44.12698412698413,
+      44.580498866213155,
+      44.807256235827666,
+      45.30612244897959,
+      45.80498866213152,
+      48.02721088435374,
+      48.435374149659864,
+      48.93424036281179,
+      49.43310657596372,
+      49.84126984126984,
+      50.24705028806756,
+      51.42857142857143,
+      51.83673469387755,
+      52.244897959183675,
+      52.7437641723356,
+      53.151927437641724,
+      55.01133786848072,
+      55.419501133786845,
+      56.281179138321995,
+      56.64399092970522,
+      57.233560090702944,
+      57.868480725623584,
+      58.2312925170068,
+      58.54875283446712,
+      58.956916099773245,
+      59.909297052154194,
+      60.45351473922903,
+      60.816326530612244,
+      61.57476190476191,
+      61.57476190476191
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      17,
+      37,
+      54,
+      63,
+      70
+    ],
+    "sentence_translations": [
+      "Going for a Spring Outing Tomorrow",
+      "",
+      "Tomorrow, Little Ming is going to the forest park for a spring outing with his classmates.",
+      "His mom prepared a lot of tasty food for him. He has bread, eggs, fruit and milk.",
+      "He wants to go to bed early tonight, so that he can get up early tomorrow morning.",
+      "He needs to first go to school to meet his classmates, ..",
+      ".. and then take the bus to the forest park together with them.",
+      ""
+    ]
+  }
+}

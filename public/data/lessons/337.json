@@ -1,0 +1,783 @@
+{
+  "id": "337",
+  "title": "Who Can Eat the Most?",
+  "level": "newbie",
+  "date": "2017-06-23",
+  "synopsis": "Little Le asks Paul if he thinks she eats a lot.",
+  "audioUrl": "https://static.duchinese.net/documents/452/bd591202b11b194466c535d832524f5de22dba0d.mp3?1496728780",
+  "series": null,
+  "fullText": {
+    "simplified": "谁最能吃？\n\n    一天，小乐问保罗：“保罗，我是不是你见过的女的里面最能吃的？”\n    保罗说：“不是。”\n    小乐很高兴，问：“真的？”\n    保罗说：“我见过的男的里面，也没有你那么能吃的！”",
+    "traditional": "誰最能吃？\n\n    一天，小樂問保羅：“保羅，我是不是你見過的女的裡面最能吃的？”\n    保羅說：“不是。”\n    小樂很高興，問：“真的？”\n    保羅說：“我見過的男的裡面，也沒有你那麼能吃的！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Who can eat the most?"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小乐问保罗：“保罗，我是不是你见过的女的里面最能吃的？”",
+      "traditional": "一天，小樂問保羅：“保羅，我是不是你見過的女的裡面最能吃的？”",
+      "pinyin": "yì tiān xiǎo lè wèn bǎo luó bǎo luó wǒ shì bu shì nǐ jiàn guò de nǚ de lǐ miàn zuì néng chī de",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day, Little Le asked Paul: “Paul, of all the women you've seen, am I the one who eats the most?”"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗说：“不是。”",
+      "traditional": "保羅說：“不是。”",
+      "pinyin": "bǎo luó shuō bú shì",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Paul: “No you're not.”"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐很高兴，问：“真的？”",
+      "traditional": "小樂很高興，問：“真的？”",
+      "pinyin": "xiǎo lè hěn gāo xìng wèn zhēn de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Le was thrilled and said: “Really?”"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗说：“我见过的男的里面，也没有你那么能吃的！”",
+      "traditional": "保羅說：“我見過的男的裡面，也沒有你那麼能吃的！”",
+      "pinyin": "bǎo luó shuō wǒ jiàn guò de nán de lǐ miàn yě méi yǒu nǐ nà me néng chī de",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是不是",
+      "traditional": "是不是",
+      "pinyin": "shì bu shì",
+      "meaning": "is or isn't\nwhether or not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "meaning": "to see\nto meet",
+      "hsk": null
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女",
+      "traditional": "女",
+      "pinyin": "nǚ",
+      "meaning": "female\nwoman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐ miàn",
+      "meaning": "inside\ninterior",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "男",
+      "traditional": "男",
+      "pinyin": "nán",
+      "meaning": "male\nman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是不是",
+        "pinyin": "shì bu shì",
+        "meaning": "is or isn't\nwhether or not",
+        "tc_hanzi": "是不是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女",
+        "pinyin": "nǚ",
+        "meaning": "female\nwoman",
+        "tc_hanzi": "女"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里面",
+        "pinyin": "lǐ miàn",
+        "meaning": "inside\ninterior",
+        "tc_hanzi": "裡面"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男",
+        "pinyin": "nán",
+        "meaning": "male\nman",
+        "tc_hanzi": "男"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里面",
+        "pinyin": "lǐ miàn",
+        "meaning": "inside\ninterior",
+        "tc_hanzi": "裡面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Le asks Paul if he thinks she eats a lot.",
+    "syllable_times": [
+      0.5895691609977324,
+      1.08843537414966,
+      1.405895691609977,
+      3.174603174603174,
+      3.549844756069747,
+      4.535147392290249,
+      5.124716553287982,
+      5.74733180752084,
+      6.122448979591836,
+      6.485260770975056,
+      8.385096620581821,
+      8.798185941043084,
+      9.977324263038549,
+      10.52154195011338,
+      10.9297052154195,
+      11.23095841539447,
+      11.97278911564626,
+      12.38095238095238,
+      12.7891156462585,
+      13.10657596371882,
+      13.74149659863946,
+      14.19501133786848,
+      14.4671201814059,
+      14.73922902494331,
+      15.51020408163265,
+      15.96371882086168,
+      16.281179138322,
+      16.64399092970521,
+      18.91156462585034,
+      19.22902494331066,
+      19.59183673469388,
+      20.68027210884354,
+      21.08843537414966,
+      22.35827664399093,
+      22.81179138321995,
+      23.21995464852608,
+      23.53741496598639,
+      23.95943867557337,
+      24.94331065759637,
+      26.21315192743764,
+      26.57596371882086,
+      28.57142857142857,
+      28.93424036281179,
+      29.20251990781922,
+      30.79365079365079,
+      31.15646258503401,
+      31.56462585034014,
+      31.83673469387755,
+      32.51700680272109,
+      33.06122448979592,
+      33.33333333333334,
+      33.64063502401913,
+      34.6031746031746,
+      34.96598639455782,
+      35.23809523809524,
+      35.51020408163265,
+      36.09977324263038,
+      36.55328798185941,
+      36.82539682539682,
+      37.09750566893424,
+      37.50566893424036,
+      38.0924716553288,
+      38.0924716553288
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      31,
+      33,
+      39,
+      41,
+      49,
+      51
+    ],
+    "sentence_translations": [
+      "Who can eat the most?",
+      "",
+      "One day, Little Le asked Paul: “Paul, of all the women you've seen, am I the one who eats the most?”",
+      "",
+      "Paul: “No you're not.”",
+      "",
+      "Little Le was thrilled and said: “Really?”",
+      "",
+      "Paul said: “Of all the men I've seen, you eat more than them too.”"
+    ]
+  }
+}

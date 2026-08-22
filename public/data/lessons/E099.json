@@ -1,0 +1,905 @@
+{
+  "id": "E099",
+  "title": "How is the weather today?",
+  "level": "elementary",
+  "date": "2017-03-18",
+  "synopsis": "Paul and Lin Hong talk about tomorrow’s weather forecast.",
+  "audioUrl": "https://static.duchinese.net/documents/368/c6c127853a0d812ff08ab798cba23af70a18325d.mp3?1489436740",
+  "series": null,
+  "fullText": {
+    "simplified": "今天天气怎么样？\n\n保罗：今天天气怎么样？\n林红：今天白天是阴天，气温13到20度。\n保罗：明天呢？\n林红：明天下雨，气温10度左右。明天会有点冷，不过后天就是晴天了。\n保罗：你怎么都知道？\n林红：我每天都看天气预报。",
+    "traditional": "今天天氣怎麼樣？\n\n保羅：今天天氣怎麼樣？\n林紅：今天白天是陰天，氣溫13到20度。\n保羅：明天呢？\n林紅：明天下雨，氣溫10度左右。明天會有點冷，不過後天就是晴天了。\n保羅：你怎麼都知道？\n林紅：我每天都看天氣預報。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How is the weather today?"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：今天天气怎么样？",
+      "traditional": "保羅：今天天氣怎麼樣？",
+      "pinyin": "bǎo luó jīn tiān tiān qì zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: How is the weather today?"
+    },
+    {
+      "index": 4,
+      "simplified": "林红：今天白天是阴天，气温13到20度。",
+      "traditional": "林紅：今天白天是陰天，氣溫13到20度。",
+      "pinyin": "lín hóng jīn tiān bái tiān shì yīn tiān qì wēn 2 dào 2 dù",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Hong: It’s cloudy today during the daytime, and the temperature will be 13-20 degrees Celsius."
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：明天呢？",
+      "traditional": "保羅：明天呢？",
+      "pinyin": "bǎo luó míng tiān ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: How about tomorrow?"
+    },
+    {
+      "index": 8,
+      "simplified": "林红：明天下雨，气温10度左右。",
+      "traditional": "林紅：明天下雨，氣溫10度左右。",
+      "pinyin": "lín hóng míng tiān xià yǔ qì wēn 1 dù zuǒ yòu",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "明天会有点冷，不过后天就是晴天了。",
+      "traditional": "明天會有點冷，不過後天就是晴天了。",
+      "pinyin": "míng tiān huì yǒu diǎn lěng bú guò hòu tiān jiù shì qíng tiān le",
+      "english": "Lin Hong: It will be raining tomorrow, and the temperature will be around 10 degrees Celsius."
+    },
+    {
+      "index": 10,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Tomorrow will be a bit cold, but the day after tomorrow will be sunny."
+    },
+    {
+      "index": 11,
+      "simplified": "保罗：你怎么都知道？",
+      "traditional": "保羅：你怎麼都知道？",
+      "pinyin": "bǎo luó nǐ zěn me dōu zhī dào",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: How do you know all this?"
+    },
+    {
+      "index": 13,
+      "simplified": "林红：我每天都看天气预报。",
+      "traditional": "林紅：我每天都看天氣預報。",
+      "pinyin": "lín hóng wǒ měi tiān dōu kàn tiān qì yù bào",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lin Hong: I watch the weather forecast every day."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "林红",
+      "traditional": "林紅",
+      "pinyin": "lín hóng",
+      "meaning": "Lin Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "白天",
+      "traditional": "白天",
+      "pinyin": "bái tiān",
+      "meaning": "daytime",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "阴天",
+      "traditional": "陰天",
+      "pinyin": "yīn tiān",
+      "meaning": "cloudy day\novercast sky",
+      "hsk": null
+    },
+    {
+      "hanzi": "气温",
+      "traditional": "氣溫",
+      "pinyin": "qì wēn",
+      "meaning": "air temperature",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to\nup to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "度",
+      "traditional": "度",
+      "pinyin": "dù",
+      "meaning": "limit\ndegree (angles, temperature etc)\nextent",
+      "hsk": 4
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "左右",
+      "traditional": "左右",
+      "pinyin": "zuǒ yòu",
+      "meaning": "nearby\napproximately",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有点",
+      "traditional": "有點",
+      "pinyin": "yǒu diǎn",
+      "meaning": "a little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不过",
+      "traditional": "不過",
+      "pinyin": "bú guò",
+      "meaning": "but\nhowever\nanyway (to get back to a previous topic)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "后天",
+      "traditional": "後天",
+      "pinyin": "hòu tiān",
+      "meaning": "the day after tomorrow",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晴天",
+      "traditional": "晴天",
+      "pinyin": "qíng tiān",
+      "meaning": "clear sky\nsunny day",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "预报",
+      "traditional": "預報",
+      "pinyin": "yù bào",
+      "meaning": "forecast",
+      "hsk": 5
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "白天",
+        "pinyin": "bái tiān",
+        "meaning": "daytime",
+        "tc_hanzi": "白天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "阴天",
+        "pinyin": "yīn tiān",
+        "meaning": "cloudy day\novercast sky",
+        "tc_hanzi": "陰天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "气温",
+        "pinyin": "qì wēn",
+        "meaning": "air temperature",
+        "tc_hanzi": "氣溫"
+      },
+      {
+        "hanzi": "13",
+        "pinyin": "2",
+        "tc_hanzi": "13"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to\nup to",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "20",
+        "pinyin": "2",
+        "tc_hanzi": "20"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "度",
+        "pinyin": "dù",
+        "meaning": "limit\ndegree (angles, temperature etc)\nextent",
+        "tc_hanzi": "度"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "气温",
+        "pinyin": "qì wēn",
+        "meaning": "air temperature",
+        "tc_hanzi": "氣溫"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "度",
+        "pinyin": "dù",
+        "meaning": "limit\ndegree (angles, temperature etc)\nextent",
+        "tc_hanzi": "度"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "左右",
+        "pinyin": "zuǒ yòu",
+        "meaning": "nearby\napproximately",
+        "tc_hanzi": "左右"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有点",
+        "pinyin": "yǒu diǎn",
+        "meaning": "a little",
+        "tc_hanzi": "有點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "不过",
+        "pinyin": "bú guò",
+        "meaning": "but\nhowever\nanyway (to get back to a previous topic)",
+        "tc_hanzi": "不過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后天",
+        "pinyin": "hòu tiān",
+        "meaning": "the day after tomorrow",
+        "tc_hanzi": "後天"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "晴天",
+        "pinyin": "qíng tiān",
+        "meaning": "clear sky\nsunny day",
+        "tc_hanzi": "晴天"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(used for emphasis) even\nalready",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "预报",
+        "pinyin": "yù bào",
+        "meaning": "forecast",
+        "tc_hanzi": "預報"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul and Lin Hong talk about tomorrow’s weather forecast.",
+    "syllable_times": [
+      0.36281179138322,
+      1.043083900226757,
+      1.335056647356705,
+      1.541950113378685,
+      1.723356009070295,
+      1.832156922924615,
+      3.664180872079573,
+      3.664180872079573,
+      3.664180872079573,
+      3.954506935830782,
+      4.35374149659864,
+      4.666226875625159,
+      4.852607709750567,
+      5.007925139053873,
+      5.11004899415048,
+      6.336111474978297,
+      6.336111474978297,
+      6.336111474978297,
+      6.712018140589569,
+      7.256235827664399,
+      7.573696145124717,
+      7.853076239225835,
+      8.117913832199546,
+      8.435374149659864,
+      9.61451247165533,
+      10.00640914046209,
+      10.47619047619048,
+      10.79799622834259,
+      11.15646258503401,
+      11.33786848072562,
+      11.56822462678606,
+      11.74603174603175,
+      13.33908064189878,
+      13.33908064189878,
+      13.33908064189878,
+      13.65079365079365,
+      13.88329795651517,
+      15.27358304286943,
+      15.27358304286943,
+      15.27358304286943,
+      15.6147937358094,
+      15.91836734693878,
+      16.22505468935546,
+      17.09750566893424,
+      17.41496598639456,
+      17.74139890934459,
+      18.00453514739229,
+      18.27664399092971,
+      18.45804988662131,
+      19.86394557823129,
+      20.18140589569161,
+      20.58956916099773,
+      20.77097505668934,
+      20.95238095238095,
+      21.22448979591837,
+      22.76643990929705,
+      22.90249433106576,
+      23.80952380952381,
+      24.22592342021117,
+      24.62585034013605,
+      24.85260770975057,
+      25.07936507936508,
+      25.35147392290249,
+      25.57823129251701,
+      27.19083956225424,
+      27.19083956225424,
+      27.19083956225424,
+      27.52834467120181,
+      27.72105030646676,
+      27.98185941043084,
+      28.29931972789116,
+      28.48072562358277,
+      30.67704865987967,
+      30.67704865987967,
+      30.67704865987967,
+      31.11111111111111,
+      31.33786848072562,
+      31.65532879818594,
+      31.87421150810202,
+      32.21497895514314,
+      32.47165532879819,
+      32.7437641723356,
+      32.97052154195011,
+      33.6327664399093,
+      33.6327664399093
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      12,
+      13,
+      26,
+      27,
+      32,
+      33,
+      43,
+      55,
+      56,
+      63,
+      64,
+      74
+    ],
+    "sentence_translations": [
+      "How is the weather today?",
+      "",
+      "Paul: How is the weather today?",
+      "",
+      "Lin Hong: It’s cloudy today during the daytime, and the temperature will be 13-20 degrees Celsius.",
+      "",
+      "Paul: How about tomorrow?",
+      "",
+      "Lin Hong: It will be raining tomorrow, and the temperature will be around 10 degrees Celsius.",
+      "Tomorrow will be a bit cold, but the day after tomorrow will be sunny.",
+      "",
+      "Paul: How do you know all this?",
+      "",
+      "Lin Hong: I watch the weather forecast every day.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,4097 @@
+{
+  "id": "1462",
+  "title": "The Removal of Didi",
+  "level": "advanced",
+  "date": "2021-10-26",
+  "synopsis": "Why has China removed the ride-hailing app Didi?",
+  "audioUrl": "https://static.duchinese.net/documents/1462/0f84c1f7b9b2f3d11c736bdfcebbdb7a79c3ae85.mp3?1634546402",
+  "series": null,
+  "fullText": {
+    "simplified": "滴滴下架背后，利润与隐私之争\n\n    短短数年，就从初创到纽交所上市，这样的成绩对于任何一家公司来说，都是很出色的。然而，取得了这样优秀的成绩，被称为中国“Uber”的“滴滴出行”在上市不久，就经历了软件被下架。令人惊讶的事件背后，到底有着哪些故事呢？\n    中国网络安全和信息化委员会办公室在滴滴上市五天后发布了一则通报，提到：“’滴滴出行’App存在严重违法违规收集使用个人信息问题”。可以得知，滴滴出行下架的原因，是侵犯了用户的个人隐私。而这一事件背后，反映出了中国政府对互联网企业态度的变化。\n    近几年内，中国互联网公司发展迅速，尤其是移动互联网方面，出现了一批新兴公司。为了更快打开市场，这些公司往往会在前期大量投入资金，用免费、低价的形式吸引用户并占有市场。而在这个过程中，出现了大量过度收集用户个人隐私的情况。互联网公司利用这些大数据进行精准广告投放，创造二次利润收回成本；而用户则默认用部分个人隐私换取低价优质服务；政府则在企业发展和公民隐私保护之间进行平衡管理。\n    这次的“滴滴出行”下架背后，标志着中国政府在这场企业利润与公民隐私之争的天平上，逐渐偏向了公民隐私保护。在这样的官方信号下，各大互联网公司需要开始思考“下一步路该怎么走”了。",
+    "traditional": "滴滴下架背後，利潤與隱私之爭\n\n    短短數年，就從初創到紐交所上市，這樣的成績對於任何一家公司來說，都是很出色的。然而，取得了這樣優秀的成績，被稱為中國“Uber”的“滴滴出行”在上市不久，就經歷了軟件被下架。令人驚訝的事件背後，到底有著哪些故事呢？\n    中國網絡安全和信息化委員會辦公室在滴滴上市五天後發布了一則通報，提到：“’滴滴出行’App存在嚴重違法違規收集使用個人信息問題”。可以得知，滴滴出行下架的原因，是侵犯了用戶的個人隱私。而這一事件背後，反映出了中國政府對互聯網企業態度的變化。\n    近幾年內，中國互聯網公司發展迅速，尤其是移動互聯網方面，出現了一批新興公司。為了更快打開市場，這些公司往往會在前期大量投入資金，用免費、低價的形式吸引用戶並佔有市場。而在這個過程中，出現了大量過度收集用戶個人隱私的情況。互聯網公司利用這些大數據進行精準廣告投放，創造二次利潤收回成本；而用戶則默認用部分個人隱私換取低價優質服務；政府則在企業發展和公民隱私保護之間進行平衡管理。\n    這次的“滴滴出行”下架背後，標誌著中國政府在這場企業利潤與公民隱私之爭的天平上，逐漸偏向了公民隱私保護。在這樣的官方信號下，各大互聯網公司需要開始思考“下一步路該怎麼走”了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Profits vs. Privacy Battle Behind the Removal of Didi"
+    },
+    {
+      "index": 2,
+      "simplified": "短短数年，就从初创到纽交所上市，",
+      "traditional": "短短數年，就從初創到紐交所上市，",
+      "pinyin": "duǎn duǎn shù nián jiù cóng chū chuàng dào niǔ jiāo suǒ shàng shì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "这样的成绩对于任何一家公司来说，都是很出色的。",
+      "traditional": "這樣的成績對於任何一家公司來說，都是很出色的。",
+      "pinyin": "zhè yàng de chéng jì duì yú rèn hé yì jiā gōng sī lái shuō dōu shì hěn chū sè de",
+      "english": "From startup to listing on the New York Stock Exchange in just a few short years, .."
+    },
+    {
+      "index": 4,
+      "simplified": "然而，取得了这样优秀的成绩，被称为中国“Uber”的“滴滴出行”",
+      "traditional": "然而，取得了這樣優秀的成績，被稱為中國“Uber”的“滴滴出行”",
+      "pinyin": "rán ér qǔ dé le zhè yàng yōu xiù de chéng jì bèi chēng wéi zhōng guó 2 de dī dī chū xíng",
+      "english": ".. this is an outstanding achievement for any company."
+    },
+    {
+      "index": 5,
+      "simplified": "在上市不久，就经历了软件被下架。",
+      "traditional": "在上市不久，就經歷了軟件被下架。",
+      "pinyin": "zài shàng shì bù jiǔ jiù jīng lì le ruǎn jiàn bèi xià jià",
+      "english": "However, Didi Chuxing, which achieved these outstanding results and is known as the Chinese “Uber”, .."
+    },
+    {
+      "index": 6,
+      "simplified": "令人惊讶的事件背后，到底有着哪些故事呢？",
+      "traditional": "令人驚訝的事件背後，到底有著哪些故事呢？",
+      "pinyin": "lìng rén jīng yà de shì jiàn bèi hòu dào dǐ yǒu zhe nǎ xiē gù shi ne",
+      "english": ".. experienced the removal of its app not long after listing."
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "What exactly are the stories behind this astonishing incident?"
+    },
+    {
+      "index": 8,
+      "simplified": "中国网络安全和信息化委员会办公室在滴滴上市五天后发布了一则通报，提到：",
+      "traditional": "中國網絡安全和信息化委員會辦公室在滴滴上市五天後發布了一則通報，提到：",
+      "pinyin": "zhōng guó wǎng luò ān quán hé xìn xī huà wěi yuán huì bàn gōng shì zài dī dī shàng shì wǔ tiān hòu fā bù le yì zé tōng bào tí dào",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "“’滴滴出行’App存在严重违法违规收集使用个人信息问题”。",
+      "traditional": "“’滴滴出行’App存在嚴重違法違規收集使用個人信息問題”。",
+      "pinyin": "dī dī chū xíng 3 cún zài yán zhòng wéi fǎ wéi guī shōu jí shǐ yòng gè rén xìn xī wèn tí",
+      "english": "Five days after Didi was listed, the Cyberspace Administration of China issued a notice saying:"
+    },
+    {
+      "index": 10,
+      "simplified": "可以得知，滴滴出行下架的原因，是侵犯了用户的个人隐私。",
+      "traditional": "可以得知，滴滴出行下架的原因，是侵犯了用戶的個人隱私。",
+      "pinyin": "kě yǐ dé zhī dī dī chū xíng xià jià de yuán yīn shì qīn fàn le yòng hù de gè rén yǐn sī",
+      "english": "“The Didi Chuxing app has serious problems involving the illegal collection and use of personal data.”"
+    },
+    {
+      "index": 11,
+      "simplified": "而这一事件背后，反映出了中国政府对互联网企业态度的变化。",
+      "traditional": "而這一事件背後，反映出了中國政府對互聯網企業態度的變化。",
+      "pinyin": "ér zhè yí shì jiàn bèi hòu fǎn yìng chū le zhōng guó zhèng fǔ duì hù lián wǎng qǐ yè tài du de biàn huà",
+      "english": "It can be seen that the reason Didi Chuxing was removed was due to violations of user privacy."
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Behind this incident is a reflection of the change in the Chinese government’s attitude towards internet companies."
+    },
+    {
+      "index": 13,
+      "simplified": "近几年内，中国互联网公司发展迅速，",
+      "traditional": "近幾年內，中國互聯網公司發展迅速，",
+      "pinyin": "jìn jǐ nián nèi zhōng guó hù lián wǎng gōng sī fā zhǎn xùn sù",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "尤其是移动互联网方面，出现了一批新兴公司。",
+      "traditional": "尤其是移動互聯網方面，出現了一批新興公司。",
+      "pinyin": "yóu qí shì yí dòng hù lián wǎng fāng miàn chū xiàn le yì pī xīn xīng gōng sī",
+      "english": "Chinese internet companies have developed rapidly in recent years."
+    },
+    {
+      "index": 15,
+      "simplified": "为了更快打开市场，这些公司往往会在前期大量投入资金，",
+      "traditional": "為了更快打開市場，這些公司往往會在前期大量投入資金，",
+      "pinyin": "wèi le gèng kuài dǎ kāi shì chǎng zhè xiē gōng sī wǎng wǎng huì zài qián qī dà liàng tóu rù zī jīn",
+      "english": "In particular, in the mobile internet, a wave of new companies has emerged."
+    },
+    {
+      "index": 16,
+      "simplified": "用免费、低价的形式吸引用户并占有市场。",
+      "traditional": "用免費、低價的形式吸引用戶並佔有市場。",
+      "pinyin": "yòng miǎn fèi dī jià de xíng shì xī yǐn yòng hù bìng zhàn yǒu shì chǎng",
+      "english": "In order to quickly penetrate the market, these companies often invest large amounts of capital in the early stage, .."
+    },
+    {
+      "index": 17,
+      "simplified": "而在这个过程中，",
+      "traditional": "而在這個過程中，",
+      "pinyin": "ér zài zhè ge guò chéng zhōng",
+      "english": ".. using free or low price models to attract users and occupy the market."
+    },
+    {
+      "index": 18,
+      "simplified": "出现了大量过度收集用户个人隐私的情况。",
+      "traditional": "出現了大量過度收集用戶個人隱私的情況。",
+      "pinyin": "chū xiàn le dà liàng guò dù shōu jí yòng hù gè rén yǐn sī de qíng kuàng",
+      "english": "However, during this process, .."
+    },
+    {
+      "index": 19,
+      "simplified": "互联网公司利用这些大数据进行精准广告投放，创造二次利润收回成本；",
+      "traditional": "互聯網公司利用這些大數據進行精準廣告投放，創造二次利潤收回成本；",
+      "pinyin": "hù lián wǎng gōng sī lì yòng zhè xiē dà shù jù jìn xíng jīng zhǔn guǎng gào tóu fàng chuàng zào èr cì lì rùn shōu huí chéng běn",
+      "english": ".. there have been a large number of situations involving the excessive collection of users’ personal data."
+    },
+    {
+      "index": 20,
+      "simplified": "而用户则默认用部分个人隐私换取低价优质服务；",
+      "traditional": "而用戶則默認用部分個人隱私換取低價優質服務；",
+      "pinyin": "ér yòng hù zé mò rèn yòng bù fen gè rén yǐn sī huàn qǔ dī jià yōu zhì fú wù",
+      "english": "Internet companies utilize this big data for precision advertising, creating additional profits to recover costs."
+    },
+    {
+      "index": 21,
+      "simplified": "政府则在企业发展和公民隐私保护之间进行平衡管理。",
+      "traditional": "政府則在企業發展和公民隱私保護之間進行平衡管理。",
+      "pinyin": "zhèng fǔ zé zài qǐ yè fā zhǎn hé gōng mín yǐn sī bǎo hù zhī jiān jìn xíng píng héng guǎn lǐ",
+      "english": "Meanwhile, users tacitly agree to exchange some of their personal privacy for low-cost and high-quality services, .."
+    },
+    {
+      "index": 22,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. while the government manages the balance between corporate development and the protection of citizens’ privacy."
+    },
+    {
+      "index": 23,
+      "simplified": "这次的“滴滴出行”下架背后，标志着中国政府在这场企业利润与公民隐私之争的天平上，",
+      "traditional": "這次的“滴滴出行”下架背後，標誌著中國政府在這場企業利潤與公民隱私之爭的天平上，",
+      "pinyin": "zhè cì de dī dī chū xíng xià jià bèi hòu biāo zhì zhe zhōng guó zhèng fǔ zài zhè cháng qǐ yè lì rùn yǔ gōng mín yǐn sī zhī zhēng de tiān píng shang",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "逐渐偏向了公民隐私保护。",
+      "traditional": "逐漸偏向了公民隱私保護。",
+      "pinyin": "zhú jiàn piān xiàng le gōng mín yǐn sī bǎo hù",
+      "english": "Didi’s Chuxing’s removal indicates that, on the scale between corporate profits and citizens’ personal privacy, the Chinese government .."
+    },
+    {
+      "index": 25,
+      "simplified": "在这样的官方信号下，各大互联网公司需要开始思考“下一步路该怎么走”了。",
+      "traditional": "在這樣的官方信號下，各大互聯網公司需要開始思考“下一步路該怎麼走”了。",
+      "pinyin": "zài zhè yàng de guān fāng xìn hào xià gè dà hù lián wǎng gōng sī xū yào kāi shǐ sī kǎo xià yí bù lù gāi zěn me zǒu le",
+      "english": ".. is gradually leaning towards the protection of citizens’ privacy."
+    },
+    {
+      "index": 26,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "In the context of such official signals, major internet companies must start to think about “how to take the next step”."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "滴滴",
+      "traditional": "滴滴",
+      "pinyin": "dī dī",
+      "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+      "hsk": null
+    },
+    {
+      "hanzi": "下架",
+      "traditional": "下架",
+      "pinyin": "xià jià",
+      "meaning": "to take down from the shelves (e.g. a contaminated product)",
+      "hsk": null
+    },
+    {
+      "hanzi": "背后",
+      "traditional": "背後",
+      "pinyin": "bèi hòu",
+      "meaning": "behind\nat the back",
+      "hsk": 5
+    },
+    {
+      "hanzi": "利润",
+      "traditional": "利潤",
+      "pinyin": "lì rùn",
+      "meaning": "profits",
+      "hsk": 5
+    },
+    {
+      "hanzi": "与",
+      "traditional": "與",
+      "pinyin": "yǔ",
+      "meaning": "and\ntogether with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "隐私",
+      "traditional": "隱私",
+      "pinyin": "yǐn sī",
+      "meaning": "privacy",
+      "hsk": 6
+    },
+    {
+      "hanzi": "之",
+      "traditional": "之",
+      "pinyin": "zhī",
+      "meaning": "(possessive particle, literary equivalent of 的)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "争",
+      "traditional": "爭",
+      "pinyin": "zhēng",
+      "meaning": "to strive for\nto argue\nto dispute",
+      "hsk": null
+    },
+    {
+      "hanzi": "短短",
+      "traditional": "短短",
+      "pinyin": "duǎn duǎn",
+      "meaning": "short (used before period of time, etc.)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "数",
+      "traditional": "數",
+      "pinyin": "shù",
+      "meaning": "number\nseveral",
+      "hsk": 5
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "as early as\nalready\nright away",
+      "hsk": 2
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "初创",
+      "traditional": "初創",
+      "pinyin": "chū chuàng",
+      "meaning": "startup (company, phase etc)\nnewly established\nin the early stages",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "纽交所",
+      "traditional": "紐交所",
+      "pinyin": "niǔ jiāo suǒ",
+      "meaning": "New York Stock Exchange (abbr. for 纽约证券交易所|紐約證券交易所)",
+      "hsk": null
+    },
+    {
+      "hanzi": "上市",
+      "traditional": "上市",
+      "pinyin": "shàng shì",
+      "meaning": "to hit the market (of a new product)\nto float (a company on the stock market)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "meaning": "this kind of\nlike this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "成绩",
+      "traditional": "成績",
+      "pinyin": "chéng jì",
+      "meaning": "achievement\ngrades\nperformance records",
+      "hsk": 3
+    },
+    {
+      "hanzi": "对于",
+      "traditional": "對於",
+      "pinyin": "duì yú",
+      "meaning": "regarding\nas far as sth is concerned",
+      "hsk": 4
+    },
+    {
+      "hanzi": "任何",
+      "traditional": "任何",
+      "pinyin": "rèn hé",
+      "meaning": "any\nwhatever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "speaking/viewing from the perspective of sb.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出色",
+      "traditional": "出色",
+      "pinyin": "chū sè",
+      "meaning": "remarkable\noutstanding",
+      "hsk": 5
+    },
+    {
+      "hanzi": "然而",
+      "traditional": "然而",
+      "pinyin": "rán ér",
+      "meaning": "however\nyet\nbut",
+      "hsk": 4
+    },
+    {
+      "hanzi": "取得",
+      "traditional": "取得",
+      "pinyin": "qǔ dé",
+      "meaning": "to acquire\nto get\nto obtain",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "优秀",
+      "traditional": "優秀",
+      "pinyin": "yōu xiù",
+      "meaning": "outstanding\nexcellent",
+      "hsk": 4
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "称为",
+      "traditional": "稱為",
+      "pinyin": "chēng wéi",
+      "meaning": "call (or be called)\nknown as",
+      "hsk": 5
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "滴滴出行",
+      "traditional": "滴滴出行",
+      "pinyin": "dī dī chū xíng",
+      "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不久",
+      "traditional": "不久",
+      "pinyin": "bù jiǔ",
+      "meaning": "not long (after)\nbefore too long\nsoon",
+      "hsk": 3
+    },
+    {
+      "hanzi": "经历",
+      "traditional": "經歷",
+      "pinyin": "jīng lì",
+      "meaning": "experience\nto experience",
+      "hsk": 4
+    },
+    {
+      "hanzi": "软件",
+      "traditional": "軟件",
+      "pinyin": "ruǎn jiàn",
+      "meaning": "(computer) software",
+      "hsk": 5
+    },
+    {
+      "hanzi": "令",
+      "traditional": "令",
+      "pinyin": "lìng",
+      "meaning": "to cause\nto make sth happen",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "惊讶",
+      "traditional": "驚訝",
+      "pinyin": "jīng yà",
+      "meaning": "amazed\nastonished\nsurprised",
+      "hsk": 6
+    },
+    {
+      "hanzi": "事件",
+      "traditional": "事件",
+      "pinyin": "shì jiàn",
+      "meaning": "event\nhappening\nincident",
+      "hsk": 6
+    },
+    {
+      "hanzi": "到底",
+      "traditional": "到底",
+      "pinyin": "dào dǐ",
+      "meaning": "after all\nactually\nwhen all is said and done",
+      "hsk": 4
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "些",
+      "traditional": "些",
+      "pinyin": "xiē",
+      "meaning": "some (short for 一些)\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "故事",
+      "traditional": "故事",
+      "pinyin": "gù shi",
+      "meaning": "story\ntale",
+      "hsk": 3
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "网络",
+      "traditional": "網絡",
+      "pinyin": "wǎng luò",
+      "meaning": "internet",
+      "hsk": 5
+    },
+    {
+      "hanzi": "安全",
+      "traditional": "安全",
+      "pinyin": "ān quán",
+      "meaning": "safe\nsecure",
+      "hsk": 4
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "信息",
+      "traditional": "信息",
+      "pinyin": "xìn xī",
+      "meaning": "information\nmessage",
+      "hsk": 4
+    },
+    {
+      "hanzi": "化",
+      "traditional": "化",
+      "pinyin": "huà",
+      "meaning": "to make into\n-ization",
+      "hsk": null
+    },
+    {
+      "hanzi": "委员会",
+      "traditional": "委員會",
+      "pinyin": "wěi yuán huì",
+      "meaning": "committee",
+      "hsk": null
+    },
+    {
+      "hanzi": "办公室",
+      "traditional": "辦公室",
+      "pinyin": "bàn gōng shì",
+      "meaning": "office",
+      "hsk": 3
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "发布",
+      "traditional": "發布",
+      "pinyin": "fā bù",
+      "meaning": "to release\nto issue",
+      "hsk": 6
+    },
+    {
+      "hanzi": "则",
+      "traditional": "則",
+      "pinyin": "zé",
+      "meaning": "classifier for written items",
+      "hsk": 5
+    },
+    {
+      "hanzi": "通报",
+      "traditional": "通報",
+      "pinyin": "tōng bào",
+      "meaning": "to notify\nto announce\nbulletin",
+      "hsk": null
+    },
+    {
+      "hanzi": "提到",
+      "traditional": "提到",
+      "pinyin": "tí dào",
+      "meaning": "to mention\nto raise (a subject)\nto refer to",
+      "hsk": null
+    },
+    {
+      "hanzi": "存在",
+      "traditional": "存在",
+      "pinyin": "cún zài",
+      "meaning": "to exist\nto be\nexistence",
+      "hsk": 5
+    },
+    {
+      "hanzi": "严重",
+      "traditional": "嚴重",
+      "pinyin": "yán zhòng",
+      "meaning": "grave\nserious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "违法",
+      "traditional": "違法",
+      "pinyin": "wéi fǎ",
+      "meaning": "illegal\nto break the law",
+      "hsk": null
+    },
+    {
+      "hanzi": "违规",
+      "traditional": "違規",
+      "pinyin": "wéi guī",
+      "meaning": "to violate (rules)\nirregular\nillegal",
+      "hsk": null
+    },
+    {
+      "hanzi": "收集",
+      "traditional": "收集",
+      "pinyin": "shōu jí",
+      "meaning": "to gather\nto collect",
+      "hsk": null
+    },
+    {
+      "hanzi": "使用",
+      "traditional": "使用",
+      "pinyin": "shǐ yòng",
+      "meaning": "to use\nto employ",
+      "hsk": 4
+    },
+    {
+      "hanzi": "个人",
+      "traditional": "個人",
+      "pinyin": "gè rén",
+      "meaning": "individual\npersonal\noneself",
+      "hsk": 5
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得知",
+      "traditional": "得知",
+      "pinyin": "dé zhī",
+      "meaning": "to find out\nto know\nto learn about",
+      "hsk": null
+    },
+    {
+      "hanzi": "原因",
+      "traditional": "原因",
+      "pinyin": "yuán yīn",
+      "meaning": "cause\norigin\nreason",
+      "hsk": 4
+    },
+    {
+      "hanzi": "侵犯",
+      "traditional": "侵犯",
+      "pinyin": "qīn fàn",
+      "meaning": "to infringe on\nto encroach on\nto violate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "用户",
+      "traditional": "用戶",
+      "pinyin": "yòng hù",
+      "meaning": "user\nconsumer\ncustomer",
+      "hsk": 6
+    },
+    {
+      "hanzi": "而",
+      "traditional": "而",
+      "pinyin": "ér",
+      "meaning": "but (not)\nyet (not)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "反映",
+      "traditional": "反映",
+      "pinyin": "fǎn yìng",
+      "meaning": "to mirror\nto reflect",
+      "hsk": 5
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "政府",
+      "traditional": "政府",
+      "pinyin": "zhèng fǔ",
+      "meaning": "government",
+      "hsk": 5
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "互联网",
+      "traditional": "互聯網",
+      "pinyin": "hù lián wǎng",
+      "meaning": "internet",
+      "hsk": 4
+    },
+    {
+      "hanzi": "企业",
+      "traditional": "企業",
+      "pinyin": "qǐ yè",
+      "meaning": "company\nfirm\ncorporation",
+      "hsk": 5
+    },
+    {
+      "hanzi": "态度",
+      "traditional": "態度",
+      "pinyin": "tài du",
+      "meaning": "manner\nattitude\napproach",
+      "hsk": 4
+    },
+    {
+      "hanzi": "变化",
+      "traditional": "變化",
+      "pinyin": "biàn huà",
+      "meaning": "change\nvariation",
+      "hsk": 3
+    },
+    {
+      "hanzi": "近",
+      "traditional": "近",
+      "pinyin": "jìn",
+      "meaning": "near\nclose to\napproximately",
+      "hsk": 2
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "内",
+      "traditional": "內",
+      "pinyin": "nèi",
+      "meaning": "inside\nwithin\ninternal",
+      "hsk": 4
+    },
+    {
+      "hanzi": "发展",
+      "traditional": "發展",
+      "pinyin": "fā zhǎn",
+      "meaning": "to develop\nto grow\ndevelopment",
+      "hsk": 4
+    },
+    {
+      "hanzi": "迅速",
+      "traditional": "迅速",
+      "pinyin": "xùn sù",
+      "meaning": "rapid\nspeedy\nfast",
+      "hsk": 5
+    },
+    {
+      "hanzi": "尤其",
+      "traditional": "尤其",
+      "pinyin": "yóu qí",
+      "meaning": "especially\nparticularly",
+      "hsk": 4
+    },
+    {
+      "hanzi": "移动",
+      "traditional": "移動",
+      "pinyin": "yí dòng",
+      "meaning": "to move\nmobile\nmovement",
+      "hsk": 5
+    },
+    {
+      "hanzi": "方面",
+      "traditional": "方面",
+      "pinyin": "fāng miàn",
+      "meaning": "aspect\nside",
+      "hsk": 4
+    },
+    {
+      "hanzi": "出现",
+      "traditional": "出現",
+      "pinyin": "chū xiàn",
+      "meaning": "to appear\nto emerge",
+      "hsk": 4
+    },
+    {
+      "hanzi": "批",
+      "traditional": "批",
+      "pinyin": "pī",
+      "meaning": "classifier for batches, lots, military flights",
+      "hsk": 5
+    },
+    {
+      "hanzi": "新兴",
+      "traditional": "新興",
+      "pinyin": "xīn xīng",
+      "meaning": "new\nup-and-coming\nnewly developing",
+      "hsk": null
+    },
+    {
+      "hanzi": "为了",
+      "traditional": "為了",
+      "pinyin": "wèi le",
+      "meaning": "for\nfor the sake of\nin order to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "更",
+      "traditional": "更",
+      "pinyin": "gèng",
+      "meaning": "even more\nfurther\nfurthermore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "打开",
+      "traditional": "打開",
+      "pinyin": "dǎ kāi",
+      "meaning": "to open up\nto widen",
+      "hsk": null
+    },
+    {
+      "hanzi": "市场",
+      "traditional": "市場",
+      "pinyin": "shì chǎng",
+      "meaning": "market",
+      "hsk": 5
+    },
+    {
+      "hanzi": "往往",
+      "traditional": "往往",
+      "pinyin": "wǎng wǎng",
+      "meaning": "often\nfrequently",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "前期",
+      "traditional": "前期",
+      "pinyin": "qián qī",
+      "meaning": "preceding period\nearly stage",
+      "hsk": null
+    },
+    {
+      "hanzi": "大量",
+      "traditional": "大量",
+      "pinyin": "dà liàng",
+      "meaning": "great amount\nlarge quantity",
+      "hsk": null
+    },
+    {
+      "hanzi": "投入",
+      "traditional": "投入",
+      "pinyin": "tóu rù",
+      "meaning": "to throw into\nto put into",
+      "hsk": 5
+    },
+    {
+      "hanzi": "资金",
+      "traditional": "資金",
+      "pinyin": "zī jīn",
+      "meaning": "funding\ncapital",
+      "hsk": 5
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "免费",
+      "traditional": "免費",
+      "pinyin": "miǎn fèi",
+      "meaning": "free (of charge)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "低价",
+      "traditional": "低價",
+      "pinyin": "dī jià",
+      "meaning": "low price",
+      "hsk": null
+    },
+    {
+      "hanzi": "形式",
+      "traditional": "形式",
+      "pinyin": "xíng shì",
+      "meaning": "form\nshape\nformality",
+      "hsk": 5
+    },
+    {
+      "hanzi": "吸引",
+      "traditional": "吸引",
+      "pinyin": "xī yǐn",
+      "meaning": "to attract (interest, investment etc)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "并",
+      "traditional": "並",
+      "pinyin": "bìng",
+      "meaning": "and\nfurthermore",
+      "hsk": 4
+    },
+    {
+      "hanzi": "占有",
+      "traditional": "佔有",
+      "pinyin": "zhàn yǒu",
+      "meaning": "to occupy\nto possess\nto account for (a high proportion etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过程",
+      "traditional": "過程",
+      "pinyin": "guò chéng",
+      "meaning": "course of events\nprocess",
+      "hsk": 4
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within \ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "过度",
+      "traditional": "過度",
+      "pinyin": "guò dù",
+      "meaning": "excessive\ngoing too far",
+      "hsk": 6
+    },
+    {
+      "hanzi": "情况",
+      "traditional": "情況",
+      "pinyin": "qíng kuàng",
+      "meaning": "circumstances\nstate of affairs\nsituation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "利用",
+      "traditional": "利用",
+      "pinyin": "lì yòng",
+      "meaning": "to make use of\nto take advantage of",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大数据",
+      "traditional": "大數據",
+      "pinyin": "dà shù jù",
+      "meaning": "big data",
+      "hsk": null
+    },
+    {
+      "hanzi": "进行",
+      "traditional": "進行",
+      "pinyin": "jìn xíng",
+      "meaning": "to conduct\nto carry out",
+      "hsk": 4
+    },
+    {
+      "hanzi": "精准",
+      "traditional": "精準",
+      "pinyin": "jīng zhǔn",
+      "meaning": "accurate\nexact\nprecise",
+      "hsk": null
+    },
+    {
+      "hanzi": "广告",
+      "traditional": "廣告",
+      "pinyin": "guǎng gào",
+      "meaning": "to advertise\na commercial\nadvertisement",
+      "hsk": 4
+    },
+    {
+      "hanzi": "投放",
+      "traditional": "投放",
+      "pinyin": "tóu fàng",
+      "meaning": "to input\nto throw in\nto unload",
+      "hsk": null
+    },
+    {
+      "hanzi": "创造",
+      "traditional": "創造",
+      "pinyin": "chuàng zào",
+      "meaning": "to create\nto bring about",
+      "hsk": 5
+    },
+    {
+      "hanzi": "二次",
+      "traditional": "二次",
+      "pinyin": "èr cì",
+      "meaning": "second (i.e. number two)\nsecond time\ntwice",
+      "hsk": null
+    },
+    {
+      "hanzi": "收回",
+      "traditional": "收回",
+      "pinyin": "shōu huí",
+      "meaning": "to withdraw\nto retake\nto take back",
+      "hsk": null
+    },
+    {
+      "hanzi": "成本",
+      "traditional": "成本",
+      "pinyin": "chéng běn",
+      "meaning": "(manufacturing, production etc) costs",
+      "hsk": 6
+    },
+    {
+      "hanzi": "默认",
+      "traditional": "默認",
+      "pinyin": "mò rèn",
+      "meaning": "to agree tacitly\nto tacitly approve\nto acquiesce in",
+      "hsk": null
+    },
+    {
+      "hanzi": "部分",
+      "traditional": "部分",
+      "pinyin": "bù fen",
+      "meaning": "part\nshare\nsection",
+      "hsk": 4
+    },
+    {
+      "hanzi": "换取",
+      "traditional": "換取",
+      "pinyin": "huàn qǔ",
+      "meaning": "to obtain (sth) in exchange\nto exchange (sth) for (sth else)",
+      "hsk": null
+    },
+    {
+      "hanzi": "优质",
+      "traditional": "優質",
+      "pinyin": "yōu zhì",
+      "meaning": "high (or top) quality\nhigh grade",
+      "hsk": null
+    },
+    {
+      "hanzi": "服务",
+      "traditional": "服務",
+      "pinyin": "fú wù",
+      "meaning": "service",
+      "hsk": 2
+    },
+    {
+      "hanzi": "公民",
+      "traditional": "公民",
+      "pinyin": "gōng mín",
+      "meaning": "citizen",
+      "hsk": 6
+    },
+    {
+      "hanzi": "保护",
+      "traditional": "保護",
+      "pinyin": "bǎo hù",
+      "meaning": "to protect\nto defend\nto safeguard",
+      "hsk": 4
+    },
+    {
+      "hanzi": "之间",
+      "traditional": "之間",
+      "pinyin": "zhī jiān",
+      "meaning": "between\namong\ninter-",
+      "hsk": null
+    },
+    {
+      "hanzi": "平衡",
+      "traditional": "平衡",
+      "pinyin": "píng héng",
+      "meaning": "balance\nequilibrium",
+      "hsk": 5
+    },
+    {
+      "hanzi": "管理",
+      "traditional": "管理",
+      "pinyin": "guǎn lǐ",
+      "meaning": "to supervise\nto manage\nadministration",
+      "hsk": 4
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "标志",
+      "traditional": "標誌",
+      "pinyin": "biāo zhì",
+      "meaning": "to symbolize\nto indicate\nto mark",
+      "hsk": 5
+    },
+    {
+      "hanzi": "场",
+      "traditional": "場",
+      "pinyin": "cháng",
+      "meaning": "classifier for events and happenings: spell, episode, bout",
+      "hsk": 4
+    },
+    {
+      "hanzi": "天平",
+      "traditional": "天平",
+      "pinyin": "tiān píng",
+      "meaning": "scales (to weigh things)",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "逐渐",
+      "traditional": "逐漸",
+      "pinyin": "zhú jiàn",
+      "meaning": "gradually",
+      "hsk": 5
+    },
+    {
+      "hanzi": "偏向",
+      "traditional": "偏向",
+      "pinyin": "piān xiàng",
+      "meaning": "partial towards sth\nto prefer\nto incline",
+      "hsk": null
+    },
+    {
+      "hanzi": "官方",
+      "traditional": "官方",
+      "pinyin": "guān fāng",
+      "meaning": "government\nofficial (approved or issued by an authority)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "信号",
+      "traditional": "信號",
+      "pinyin": "xìn hào",
+      "meaning": "signal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "(indicating scope, state, condition, etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "各",
+      "traditional": "各",
+      "pinyin": "gè",
+      "meaning": "each\nevery",
+      "hsk": 4
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "开始",
+      "traditional": "開始",
+      "pinyin": "kāi shǐ",
+      "meaning": "to begin\nto start",
+      "hsk": 2
+    },
+    {
+      "hanzi": "思考",
+      "traditional": "思考",
+      "pinyin": "sī kǎo",
+      "meaning": "to reflect on\nto ponder over\nto think deeply",
+      "hsk": 5
+    },
+    {
+      "hanzi": "步",
+      "traditional": "步",
+      "pinyin": "bù",
+      "meaning": "a step\nstages in a process",
+      "hsk": null
+    },
+    {
+      "hanzi": "路",
+      "traditional": "路",
+      "pinyin": "lù",
+      "meaning": "road\npath\nway",
+      "hsk": 2
+    },
+    {
+      "hanzi": "该",
+      "traditional": "該",
+      "pinyin": "gāi",
+      "meaning": "should\nought to",
+      "hsk": null
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "to walk\nto go",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "滴滴",
+        "pinyin": "dī dī",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴"
+      },
+      {
+        "hanzi": "下架",
+        "pinyin": "xià jià",
+        "meaning": "to take down from the shelves (e.g. a contaminated product)",
+        "tc_hanzi": "下架"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "背后",
+        "pinyin": "bèi hòu",
+        "meaning": "behind\nat the back",
+        "tc_hanzi": "背後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "利润",
+        "pinyin": "lì rùn",
+        "meaning": "profits",
+        "tc_hanzi": "利潤"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之",
+        "pinyin": "zhī",
+        "meaning": "(possessive particle, literary equivalent of 的)",
+        "tc_hanzi": "之"
+      },
+      {
+        "hanzi": "争",
+        "pinyin": "zhēng",
+        "meaning": "to strive for\nto argue\nto dispute",
+        "tc_hanzi": "爭"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "g": "aa",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "短短",
+        "pinyin": "duǎn duǎn",
+        "meaning": "short (used before period of time, etc.)",
+        "tc_hanzi": "短短"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数",
+        "pinyin": "shù",
+        "meaning": "number\nseveral",
+        "tc_hanzi": "數"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-promptness",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "初创",
+        "pinyin": "chū chuàng",
+        "meaning": "startup (company, phase etc)\nnewly established\nin the early stages",
+        "tc_hanzi": "初創"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "纽交所",
+        "pinyin": "niǔ jiāo suǒ",
+        "meaning": "New York Stock Exchange (abbr. for 纽约证券交易所|紐約證券交易所)",
+        "tc_hanzi": "紐交所"
+      },
+      {
+        "hanzi": "上市",
+        "pinyin": "shàng shì",
+        "meaning": "to hit the market (of a new product)\nto float (a company on the stock market)",
+        "tc_hanzi": "上市"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "成绩",
+        "pinyin": "chéng jì",
+        "meaning": "achievement\ngrades\nperformance records",
+        "tc_hanzi": "成績"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "对于",
+        "pinyin": "duì yú",
+        "meaning": "regarding\nas far as sth is concerned",
+        "tc_hanzi": "對於"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "任何",
+        "pinyin": "rèn hé",
+        "meaning": "any\nwhatever",
+        "tc_hanzi": "任何"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "speaking/viewing from the perspective of sb.",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "出色",
+        "pinyin": "chū sè",
+        "meaning": "remarkable\noutstanding",
+        "tc_hanzi": "出色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "然而",
+        "pinyin": "rán ér",
+        "meaning": "however\nyet\nbut",
+        "tc_hanzi": "然而"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "取得",
+        "pinyin": "qǔ dé",
+        "meaning": "to acquire\nto get\nto obtain",
+        "tc_hanzi": "取得"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "优秀",
+        "pinyin": "yōu xiù",
+        "meaning": "outstanding\nexcellent",
+        "tc_hanzi": "優秀"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "成绩",
+        "pinyin": "chéng jì",
+        "meaning": "achievement\ngrades\nperformance records",
+        "tc_hanzi": "成績"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "称为",
+        "pinyin": "chēng wéi",
+        "meaning": "call (or be called)\nknown as",
+        "tc_hanzi": "稱為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "Uber",
+        "pinyin": "2",
+        "tc_hanzi": "Uber"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "滴滴出行",
+        "pinyin": "dī dī chū xíng",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴出行"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "上市",
+        "pinyin": "shàng shì",
+        "meaning": "to hit the market (of a new product)\nto float (a company on the stock market)",
+        "tc_hanzi": "上市"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "不久",
+        "pinyin": "bù jiǔ",
+        "meaning": "not long (after)\nbefore too long\nsoon",
+        "tc_hanzi": "不久"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-promptness",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "经历",
+        "pinyin": "jīng lì",
+        "meaning": "experience\nto experience",
+        "tc_hanzi": "經歷"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "软件",
+        "pinyin": "ruǎn jiàn",
+        "meaning": "(computer) software",
+        "tc_hanzi": "軟件"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hanzi": "下架",
+        "pinyin": "xià jià",
+        "meaning": "to take down from the shelves (e.g. a contaminated product)",
+        "tc_hanzi": "下架"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "令",
+        "pinyin": "lìng",
+        "meaning": "to cause\nto make sth happen",
+        "tc_hanzi": "令"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "惊讶",
+        "pinyin": "jīng yà",
+        "meaning": "amazed\nastonished\nsurprised",
+        "tc_hanzi": "驚訝"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "事件",
+        "pinyin": "shì jiàn",
+        "meaning": "event\nhappening\nincident",
+        "tc_hanzi": "事件"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "背后",
+        "pinyin": "bèi hòu",
+        "meaning": "behind\nat the back",
+        "tc_hanzi": "背後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "到底",
+        "pinyin": "dào dǐ",
+        "meaning": "after all\nactually\nwhen all is said and done",
+        "tc_hanzi": "到底"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "na",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some (short for 一些)\na few",
+        "tc_hanzi": "些"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "故事",
+        "pinyin": "gù shi",
+        "meaning": "story\ntale",
+        "tc_hanzi": "故事"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "网络",
+        "pinyin": "wǎng luò",
+        "meaning": "internet",
+        "tc_hanzi": "網絡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "安全",
+        "pinyin": "ān quán",
+        "meaning": "safe\nsecure",
+        "tc_hanzi": "安全"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "信息",
+        "pinyin": "xìn xī",
+        "meaning": "information\nmessage",
+        "tc_hanzi": "信息"
+      },
+      {
+        "hanzi": "化",
+        "pinyin": "huà",
+        "meaning": "to make into\n-ization",
+        "tc_hanzi": "化"
+      },
+      {
+        "hanzi": "委员会",
+        "pinyin": "wěi yuán huì",
+        "meaning": "committee",
+        "tc_hanzi": "委員會"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "办公室",
+        "pinyin": "bàn gōng shì",
+        "meaning": "office",
+        "tc_hanzi": "辦公室"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "滴滴",
+        "pinyin": "dī dī",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴"
+      },
+      {
+        "hanzi": "上市",
+        "pinyin": "shàng shì",
+        "meaning": "to hit the market (of a new product)\nto float (a company on the stock market)",
+        "tc_hanzi": "上市"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "发布",
+        "pinyin": "fā bù",
+        "meaning": "to release\nto issue",
+        "tc_hanzi": "發布"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "则",
+        "pinyin": "zé",
+        "meaning": "classifier for written items",
+        "tc_hanzi": "則"
+      },
+      {
+        "hanzi": "通报",
+        "pinyin": "tōng bào",
+        "meaning": "to notify\nto announce\nbulletin",
+        "tc_hanzi": "通報"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "提到",
+        "pinyin": "tí dào",
+        "meaning": "to mention\nto raise (a subject)\nto refer to",
+        "tc_hanzi": "提到"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "滴滴出行",
+        "pinyin": "dī dī chū xíng",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴出行"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "App",
+        "pinyin": "3",
+        "tc_hanzi": "App"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "存在",
+        "pinyin": "cún zài",
+        "meaning": "to exist\nto be\nexistence",
+        "tc_hanzi": "存在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "严重",
+        "pinyin": "yán zhòng",
+        "meaning": "grave\nserious",
+        "tc_hanzi": "嚴重"
+      },
+      {
+        "hanzi": "违法",
+        "pinyin": "wéi fǎ",
+        "meaning": "illegal\nto break the law",
+        "tc_hanzi": "違法"
+      },
+      {
+        "hanzi": "违规",
+        "pinyin": "wéi guī",
+        "meaning": "to violate (rules)\nirregular\nillegal",
+        "tc_hanzi": "違規"
+      },
+      {
+        "hanzi": "收集",
+        "pinyin": "shōu jí",
+        "meaning": "to gather\nto collect",
+        "tc_hanzi": "收集"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "使用",
+        "pinyin": "shǐ yòng",
+        "meaning": "to use\nto employ",
+        "tc_hanzi": "使用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "个人",
+        "pinyin": "gè rén",
+        "meaning": "individual\npersonal\noneself",
+        "tc_hanzi": "個人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "信息",
+        "pinyin": "xìn xī",
+        "meaning": "information\nmessage",
+        "tc_hanzi": "信息"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "得知",
+        "pinyin": "dé zhī",
+        "meaning": "to find out\nto know\nto learn about",
+        "tc_hanzi": "得知"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "滴滴出行",
+        "pinyin": "dī dī chū xíng",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴出行"
+      },
+      {
+        "hanzi": "下架",
+        "pinyin": "xià jià",
+        "meaning": "to take down from the shelves (e.g. a contaminated product)",
+        "tc_hanzi": "下架"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "原因",
+        "pinyin": "yuán yīn",
+        "meaning": "cause\norigin\nreason",
+        "tc_hanzi": "原因"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "侵犯",
+        "pinyin": "qīn fàn",
+        "meaning": "to infringe on\nto encroach on\nto violate",
+        "tc_hanzi": "侵犯"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "个人",
+        "pinyin": "gè rén",
+        "meaning": "individual\npersonal\noneself",
+        "tc_hanzi": "個人"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "but (not)\nyet (not)",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "事件",
+        "pinyin": "shì jiàn",
+        "meaning": "event\nhappening\nincident",
+        "tc_hanzi": "事件"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "背后",
+        "pinyin": "bèi hòu",
+        "meaning": "behind\nat the back",
+        "tc_hanzi": "背後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "反映",
+        "pinyin": "fǎn yìng",
+        "meaning": "to mirror\nto reflect",
+        "tc_hanzi": "反映"
+      },
+      {
+        "g": "directional-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "(used after a verb to indicate an outward direction or a positive result)",
+        "tc_hanzi": "出"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "政府",
+        "pinyin": "zhèng fǔ",
+        "meaning": "government",
+        "tc_hanzi": "政府"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "互联网",
+        "pinyin": "hù lián wǎng",
+        "meaning": "internet",
+        "tc_hanzi": "互聯網"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "企业",
+        "pinyin": "qǐ yè",
+        "meaning": "company\nfirm\ncorporation",
+        "tc_hanzi": "企業"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "态度",
+        "pinyin": "tài du",
+        "meaning": "manner\nattitude\napproach",
+        "tc_hanzi": "態度"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变化",
+        "pinyin": "biàn huà",
+        "meaning": "change\nvariation",
+        "tc_hanzi": "變化"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "近",
+        "pinyin": "jìn",
+        "meaning": "near\nclose to\napproximately",
+        "tc_hanzi": "近"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "内",
+        "pinyin": "nèi",
+        "meaning": "inside\nwithin\ninternal",
+        "tc_hanzi": "內"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "互联网",
+        "pinyin": "hù lián wǎng",
+        "meaning": "internet",
+        "tc_hanzi": "互聯網"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "发展",
+        "pinyin": "fā zhǎn",
+        "meaning": "to develop\nto grow\ndevelopment",
+        "tc_hanzi": "發展"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "迅速",
+        "pinyin": "xùn sù",
+        "meaning": "rapid\nspeedy\nfast",
+        "tc_hanzi": "迅速"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "尤其",
+        "pinyin": "yóu qí",
+        "meaning": "especially\nparticularly",
+        "tc_hanzi": "尤其"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "移动",
+        "pinyin": "yí dòng",
+        "meaning": "to move\nmobile\nmovement",
+        "tc_hanzi": "移動"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "互联网",
+        "pinyin": "hù lián wǎng",
+        "meaning": "internet",
+        "tc_hanzi": "互聯網"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出现",
+        "pinyin": "chū xiàn",
+        "meaning": "to appear\nto emerge",
+        "tc_hanzi": "出現"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "批",
+        "pinyin": "pī",
+        "meaning": "classifier for batches, lots, military flights",
+        "tc_hanzi": "批"
+      },
+      {
+        "hanzi": "新兴",
+        "pinyin": "xīn xīng",
+        "meaning": "new\nup-and-coming\nnewly developing",
+        "tc_hanzi": "新興"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "wei-overview",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为了",
+        "pinyin": "wèi le",
+        "meaning": "for\nfor the sake of\nin order to",
+        "tc_hanzi": "為了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "打开",
+        "pinyin": "dǎ kāi",
+        "meaning": "to open up\nto widen",
+        "tc_hanzi": "打開"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "市场",
+        "pinyin": "shì chǎng",
+        "meaning": "market",
+        "tc_hanzi": "市場"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some (short for 一些)\na few",
+        "tc_hanzi": "些"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "往往",
+        "pinyin": "wǎng wǎng",
+        "meaning": "often\nfrequently",
+        "tc_hanzi": "往往"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "前期",
+        "pinyin": "qián qī",
+        "meaning": "preceding period\nearly stage",
+        "tc_hanzi": "前期"
+      },
+      {
+        "hanzi": "大量",
+        "pinyin": "dà liàng",
+        "meaning": "great amount\nlarge quantity",
+        "tc_hanzi": "大量"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "投入",
+        "pinyin": "tóu rù",
+        "meaning": "to throw into\nto put into",
+        "tc_hanzi": "投入"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "资金",
+        "pinyin": "zī jīn",
+        "meaning": "funding\ncapital",
+        "tc_hanzi": "資金"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "免费",
+        "pinyin": "miǎn fèi",
+        "meaning": "free (of charge)",
+        "tc_hanzi": "免費"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "低价",
+        "pinyin": "dī jià",
+        "meaning": "low price",
+        "tc_hanzi": "低價"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "形式",
+        "pinyin": "xíng shì",
+        "meaning": "form\nshape\nformality",
+        "tc_hanzi": "形式"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "吸引",
+        "pinyin": "xī yǐn",
+        "meaning": "to attract (interest, investment etc)",
+        "tc_hanzi": "吸引"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "并",
+        "pinyin": "bìng",
+        "meaning": "and\nfurthermore",
+        "tc_hanzi": "並"
+      },
+      {
+        "hanzi": "占有",
+        "pinyin": "zhàn yǒu",
+        "meaning": "to occupy\nto possess\nto account for (a high proportion etc)",
+        "tc_hanzi": "佔有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "市场",
+        "pinyin": "shì chǎng",
+        "meaning": "market",
+        "tc_hanzi": "市場"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "but (not)\nyet (not)",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "过程",
+        "pinyin": "guò chéng",
+        "meaning": "course of events\nprocess",
+        "tc_hanzi": "過程"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within \ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出现",
+        "pinyin": "chū xiàn",
+        "meaning": "to appear\nto emerge",
+        "tc_hanzi": "出現"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "大量",
+        "pinyin": "dà liàng",
+        "meaning": "great amount\nlarge quantity",
+        "tc_hanzi": "大量"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "过度",
+        "pinyin": "guò dù",
+        "meaning": "excessive\ngoing too far",
+        "tc_hanzi": "過度"
+      },
+      {
+        "hanzi": "收集",
+        "pinyin": "shōu jí",
+        "meaning": "to gather\nto collect",
+        "tc_hanzi": "收集"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "个人",
+        "pinyin": "gè rén",
+        "meaning": "individual\npersonal\noneself",
+        "tc_hanzi": "個人"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "情况",
+        "pinyin": "qíng kuàng",
+        "meaning": "circumstances\nstate of affairs\nsituation",
+        "tc_hanzi": "情況"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "互联网",
+        "pinyin": "hù lián wǎng",
+        "meaning": "internet",
+        "tc_hanzi": "互聯網"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "利用",
+        "pinyin": "lì yòng",
+        "meaning": "to make use of\nto take advantage of",
+        "tc_hanzi": "利用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some (short for 一些)\na few",
+        "tc_hanzi": "些"
+      },
+      {
+        "hanzi": "大数据",
+        "pinyin": "dà shù jù",
+        "meaning": "big data",
+        "tc_hanzi": "大數據"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进行",
+        "pinyin": "jìn xíng",
+        "meaning": "to conduct\nto carry out",
+        "tc_hanzi": "進行"
+      },
+      {
+        "hanzi": "精准",
+        "pinyin": "jīng zhǔn",
+        "meaning": "accurate\nexact\nprecise",
+        "tc_hanzi": "精準"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "广告",
+        "pinyin": "guǎng gào",
+        "meaning": "to advertise\na commercial\nadvertisement",
+        "tc_hanzi": "廣告"
+      },
+      {
+        "hanzi": "投放",
+        "pinyin": "tóu fàng",
+        "meaning": "to input\nto throw in\nto unload",
+        "tc_hanzi": "投放"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "创造",
+        "pinyin": "chuàng zào",
+        "meaning": "to create\nto bring about",
+        "tc_hanzi": "創造"
+      },
+      {
+        "hanzi": "二次",
+        "pinyin": "èr cì",
+        "meaning": "second (i.e. number two)\nsecond time\ntwice",
+        "tc_hanzi": "二次"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "利润",
+        "pinyin": "lì rùn",
+        "meaning": "profits",
+        "tc_hanzi": "利潤"
+      },
+      {
+        "hanzi": "收回",
+        "pinyin": "shōu huí",
+        "meaning": "to withdraw\nto retake\nto take back",
+        "tc_hanzi": "收回"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "成本",
+        "pinyin": "chéng běn",
+        "meaning": "(manufacturing, production etc) costs",
+        "tc_hanzi": "成本"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "but (not)\nyet (not)",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "则",
+        "pinyin": "zé",
+        "meaning": "(conjunction used to express contrast with a previous clause) but",
+        "tc_hanzi": "則"
+      },
+      {
+        "hanzi": "默认",
+        "pinyin": "mò rèn",
+        "meaning": "to agree tacitly\nto tacitly approve\nto acquiesce in",
+        "tc_hanzi": "默認"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "个人",
+        "pinyin": "gè rén",
+        "meaning": "individual\npersonal\noneself",
+        "tc_hanzi": "個人"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hanzi": "换取",
+        "pinyin": "huàn qǔ",
+        "meaning": "to obtain (sth) in exchange\nto exchange (sth) for (sth else)",
+        "tc_hanzi": "換取"
+      },
+      {
+        "hanzi": "低价",
+        "pinyin": "dī jià",
+        "meaning": "low price",
+        "tc_hanzi": "低價"
+      },
+      {
+        "hanzi": "优质",
+        "pinyin": "yōu zhì",
+        "meaning": "high (or top) quality\nhigh grade",
+        "tc_hanzi": "優質"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务",
+        "pinyin": "fú wù",
+        "meaning": "service",
+        "tc_hanzi": "服務"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "政府",
+        "pinyin": "zhèng fǔ",
+        "meaning": "government",
+        "tc_hanzi": "政府"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "则",
+        "pinyin": "zé",
+        "meaning": "(conjunction used to express contrast with a previous clause) but",
+        "tc_hanzi": "則"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "企业",
+        "pinyin": "qǐ yè",
+        "meaning": "company\nfirm\ncorporation",
+        "tc_hanzi": "企業"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "发展",
+        "pinyin": "fā zhǎn",
+        "meaning": "to develop\nto grow\ndevelopment",
+        "tc_hanzi": "發展"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "公民",
+        "pinyin": "gōng mín",
+        "meaning": "citizen",
+        "tc_hanzi": "公民"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "保护",
+        "pinyin": "bǎo hù",
+        "meaning": "to protect\nto defend\nto safeguard",
+        "tc_hanzi": "保護"
+      },
+      {
+        "hanzi": "之间",
+        "pinyin": "zhī jiān",
+        "meaning": "between\namong\ninter-",
+        "tc_hanzi": "之間"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进行",
+        "pinyin": "jìn xíng",
+        "meaning": "to conduct\nto carry out",
+        "tc_hanzi": "進行"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "平衡",
+        "pinyin": "píng héng",
+        "meaning": "balance\nequilibrium",
+        "tc_hanzi": "平衡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "管理",
+        "pinyin": "guǎn lǐ",
+        "meaning": "to supervise\nto manage\nadministration",
+        "tc_hanzi": "管理"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "ci",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "滴滴出行",
+        "pinyin": "dī dī chū xíng",
+        "meaning": "Didi Chuxing, Beijing based ride-sharing company founded in 2012",
+        "tc_hanzi": "滴滴出行"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hanzi": "下架",
+        "pinyin": "xià jià",
+        "meaning": "to take down from the shelves (e.g. a contaminated product)",
+        "tc_hanzi": "下架"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "背后",
+        "pinyin": "bèi hòu",
+        "meaning": "behind\nat the back",
+        "tc_hanzi": "背後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "标志",
+        "pinyin": "biāo zhì",
+        "meaning": "to symbolize\nto indicate\nto mark",
+        "tc_hanzi": "標誌"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "政府",
+        "pinyin": "zhèng fǔ",
+        "meaning": "government",
+        "tc_hanzi": "政府"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "场",
+        "pinyin": "cháng",
+        "meaning": "classifier for events and happenings: spell, episode, bout",
+        "tc_hanzi": "場"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "企业",
+        "pinyin": "qǐ yè",
+        "meaning": "company\nfirm\ncorporation",
+        "tc_hanzi": "企業"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "利润",
+        "pinyin": "lì rùn",
+        "meaning": "profits",
+        "tc_hanzi": "利潤"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "公民",
+        "pinyin": "gōng mín",
+        "meaning": "citizen",
+        "tc_hanzi": "公民"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之",
+        "pinyin": "zhī",
+        "meaning": "(possessive particle, literary equivalent of 的)",
+        "tc_hanzi": "之"
+      },
+      {
+        "hanzi": "争",
+        "pinyin": "zhēng",
+        "meaning": "to strive for\nto argue\nto dispute",
+        "tc_hanzi": "爭"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "天平",
+        "pinyin": "tiān píng",
+        "meaning": "scales (to weigh things)",
+        "tc_hanzi": "天平"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "逐渐",
+        "pinyin": "zhú jiàn",
+        "meaning": "gradually",
+        "tc_hanzi": "逐漸"
+      },
+      {
+        "hanzi": "偏向",
+        "pinyin": "piān xiàng",
+        "meaning": "partial towards sth\nto prefer\nto incline",
+        "tc_hanzi": "偏向"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "公民",
+        "pinyin": "gōng mín",
+        "meaning": "citizen",
+        "tc_hanzi": "公民"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "隐私",
+        "pinyin": "yǐn sī",
+        "meaning": "privacy",
+        "tc_hanzi": "隱私"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "保护",
+        "pinyin": "bǎo hù",
+        "meaning": "to protect\nto defend\nto safeguard",
+        "tc_hanzi": "保護"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "官方",
+        "pinyin": "guān fāng",
+        "meaning": "government\nofficial (approved or issued by an authority)",
+        "tc_hanzi": "官方"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "信号",
+        "pinyin": "xìn hào",
+        "meaning": "signal",
+        "tc_hanzi": "信號"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "(indicating scope, state, condition, etc.)",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "各",
+        "pinyin": "gè",
+        "meaning": "each\nevery",
+        "tc_hanzi": "各"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "互联网",
+        "pinyin": "hù lián wǎng",
+        "meaning": "internet",
+        "tc_hanzi": "互聯網"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "开始",
+        "pinyin": "kāi shǐ",
+        "meaning": "to begin\nto start",
+        "tc_hanzi": "開始"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "思考",
+        "pinyin": "sī kǎo",
+        "meaning": "to reflect on\nto ponder over\nto think deeply",
+        "tc_hanzi": "思考"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "步",
+        "pinyin": "bù",
+        "meaning": "a step\nstages in a process",
+        "tc_hanzi": "步"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路",
+        "pinyin": "lù",
+        "meaning": "road\npath\nway",
+        "tc_hanzi": "路"
+      },
+      {
+        "hanzi": "该",
+        "pinyin": "gāi",
+        "meaning": "should\nought to",
+        "tc_hanzi": "該"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk\nto go",
+        "tc_hanzi": "走"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Why has China removed the ride-hailing app Didi?",
+    "syllable_times": [
+      0.3798185941043084,
+      0.75,
+      1.2188208616780045,
+      1.46,
+      1.785,
+      2.56,
+      2.8684807256235825,
+      3.36,
+      3.696145124716553,
+      4.09297052154195,
+      4.37,
+      4.63718820861678,
+      6.61,
+      7.012471655328798,
+      7.3185941043083895,
+      7.66,
+      8.49,
+      8.77,
+      9.3,
+      9.67,
+      10.33,
+      10.56,
+      10.92,
+      11.2,
+      11.47,
+      11.850000000000001,
+      13.16,
+      13.343333333333334,
+      13.526666666666667,
+      13.71,
+      14.07,
+      14.83,
+      15.065000000000001,
+      15.5,
+      15.895691609977323,
+      16.15,
+      16.369999999999997,
+      16.59,
+      16.950113378684808,
+      17.24,
+      17.575,
+      18.42,
+      18.735,
+      19.31,
+      19.74,
+      20.209750566893423,
+      20.55,
+      22.08,
+      22.424999999999997,
+      23.17,
+      23.599773242630384,
+      23.73015873015873,
+      23.860544217687075,
+      24.15,
+      24.57,
+      24.954648526077097,
+      25.17,
+      25.33,
+      25.75,
+      26.96,
+      27.283333333333335,
+      27.606666666666666,
+      28.15,
+      28.41,
+      28.74716553287982,
+      28.95,
+      29.18,
+      29.58,
+      29.85,
+      30.05,
+      30.38548752834467,
+      31.14,
+      31.64,
+      32.03514739229025,
+      32.21655328798186,
+      32.42630385487528,
+      33.2,
+      33.48,
+      33.79818594104308,
+      33.95691609977324,
+      34.41,
+      34.88662131519274,
+      35.22108843537415,
+      35.44784580498866,
+      35.78,
+      36.94,
+      37.275,
+      37.69,
+      38.07256235827664,
+      38.23696145124716,
+      38.3843537414966,
+      38.69047619047619,
+      38.91,
+      39.245,
+      40.11904761904762,
+      40.39115646258503,
+      40.95,
+      41.25850340136054,
+      41.44,
+      41.78,
+      42.3,
+      42.72108843537415,
+      42.98,
+      44.23,
+      44.569160997732425,
+      45.03,
+      45.3125,
+      45.532879818594104,
+      45.78231292517007,
+      46.24,
+      46.615646258503396,
+      46.93877551020408,
+      47.239229024943306,
+      47.44,
+      47.71333333333333,
+      47.986666666666665,
+      48.35,
+      48.63,
+      48.91,
+      49.7,
+      50.028344671201815,
+      50.22675736961451,
+      50.56,
+      50.90702947845805,
+      51.162131519274375,
+      51.35,
+      51.635000000000005,
+      52.34,
+      52.565,
+      52.79,
+      53.19,
+      53.45,
+      53.71,
+      54.05,
+      55.23,
+      55.489999999999995,
+      56.2,
+      56.395,
+      56.59,
+      56.870000000000005,
+      57.25,
+      57.48,
+      57.69,
+      58.49,
+      58.835,
+      59.25,
+      59.62018140589569,
+      59.86,
+      60.198412698412696,
+      60.42,
+      60.745000000000005,
+      61.25,
+      61.621315192743765,
+      61.859410430839,
+      62.09,
+      62.46,
+      62.7437641723356,
+      63.021541950113374,
+      63.245000000000005,
+      63.58276643990929,
+      63.75850340136054,
+      65.18,
+      65.57256235827664,
+      65.72,
+      66.02,
+      66.8,
+      67.02,
+      67.24,
+      67.55,
+      67.97,
+      68.37,
+      68.55,
+      68.67,
+      68.965,
+      69.66,
+      69.91,
+      70.3061224489796,
+      70.53,
+      70.93,
+      71.34353741496598,
+      71.55,
+      71.95,
+      72.29024943310657,
+      72.56235827664399,
+      72.88499999999999,
+      74.2,
+      74.5,
+      74.64,
+      74.78,
+      75.03999999999999,
+      75.3,
+      75.63,
+      76.36,
+      76.60499999999999,
+      76.85,
+      77.11,
+      77.53,
+      77.86848072562358,
+      78.04,
+      78.37,
+      79.02,
+      79.28571428571428,
+      79.53514739229024,
+      79.69333333333334,
+      79.96031746031746,
+      80.25,
+      80.74,
+      81.1281179138322,
+      81.29,
+      81.46,
+      81.85,
+      83.35,
+      83.69,
+      83.89,
+      84.10430839002267,
+      84.83,
+      85.16,
+      85.60090702947845,
+      85.82766439909297,
+      86.00333333333333,
+      86.24,
+      86.57499999999999,
+      87.11,
+      87.36500000000001,
+      87.62,
+      87.95,
+      88.89,
+      89.265,
+      89.84,
+      90.1984126984127,
+      90.45918367346938,
+      90.70861678004535,
+      90.9750566893424,
+      91.16,
+      91.45,
+      91.725,
+      92.61,
+      92.99319727891157,
+      93.13,
+      93.29931972789116,
+      93.45238095238095,
+      94.04,
+      94.53514739229024,
+      94.84,
+      95.08,
+      96.42,
+      96.6609977324263,
+      96.82,
+      97.11451247165533,
+      97.66,
+      97.95351473922902,
+      98.23696145124717,
+      98.56575963718821,
+      99.68,
+      99.9546485260771,
+      100.18,
+      100.47619047619047,
+      101.23,
+      101.54761904761905,
+      101.92,
+      102.21088435374149,
+      102.37,
+      102.775,
+      103.48,
+      103.78999999999999,
+      104.1,
+      104.47845804988661,
+      104.7,
+      105.03,
+      106.18,
+      106.85,
+      107.275,
+      107.95,
+      108.24000000000001,
+      108.53,
+      108.68,
+      109.05895691609977,
+      109.84,
+      110.14172335600907,
+      110.32,
+      110.63499999999999,
+      111.26,
+      111.52,
+      111.89909297052154,
+      112.09,
+      112.52000000000001,
+      113.94,
+      114.28,
+      114.84,
+      115.015,
+      115.19,
+      115.52154195011337,
+      115.78798185941042,
+      116.63,
+      117.00680272108843,
+      117.21,
+      117.42,
+      117.73,
+      118.25,
+      118.62244897959184,
+      118.85,
+      119.22999999999999,
+      119.71,
+      120.17006802721087,
+      120.42,
+      120.655,
+      120.89,
+      121.25283446712018,
+      121.53,
+      121.7,
+      122.035,
+      123.22562358276643,
+      123.48072562358276,
+      123.66780045351473,
+      123.89,
+      124.17233560090702,
+      124.86,
+      125.05,
+      125.24,
+      125.46485260770974,
+      125.94104308390023,
+      126.21315192743764,
+      126.54761904761904,
+      127.1,
+      127.41496598639455,
+      127.92,
+      128.31632653061223,
+      128.62244897959184,
+      128.96825396825398,
+      129.16,
+      129.485,
+      130.42,
+      130.785,
+      131.2,
+      131.5,
+      131.72902494331066,
+      132.01,
+      132.59,
+      133.1122448979592,
+      133.37,
+      133.83219954648527,
+      135.02,
+      135.26,
+      135.54421768707482,
+      136.16,
+      136.37755102040816,
+      136.625,
+      137.05,
+      137.30725623582765,
+      137.5453514739229,
+      137.80045351473922,
+      138.06689342403627,
+      138.26530612244898,
+      138.56,
+      139.26,
+      139.58999999999997,
+      140.16,
+      140.48000000000002,
+      140.8390022675737,
+      141.14512471655328,
+      141.34,
+      141.675,
+      142.86,
+      143.14,
+      143.76,
+      143.96499999999997,
+      144.17,
+      144.45749999999998,
+      144.65986394557822,
+      144.97732426303855,
+      145.55,
+      145.85034013605443,
+      146.11111111111111,
+      146.38321995464852,
+      146.595,
+      146.87,
+      147.18820861678003,
+      147.34,
+      147.60000000000002,
+      148.2,
+      148.45238095238093,
+      148.99,
+      149.50680272108843,
+      149.8299319727891,
+      150.1530612244898,
+      151.24,
+      151.54195011337868,
+      151.74,
+      152.12,
+      152.42630385487527,
+      152.59,
+      152.9,
+      153.3,
+      153.70748299319726,
+      153.93,
+      154.18,
+      155.01700680272108,
+      155.31179138321994,
+      155.49333333333334,
+      155.89,
+      156.1,
+      156.31,
+      156.65532879818593,
+      157.29,
+      157.53,
+      157.72675736961452,
+      158.18,
+      158.52607709750566,
+      158.71,
+      158.985,
+      159.45,
+      159.71,
+      159.98000000000002,
+      160.34,
+      160.65759637188208,
+      160.84,
+      161.015,
+      161.19,
+      161.35,
+      161.7517006802721,
+      162.04648526077096,
+      162.81,
+      163.10500000000002,
+      163.51,
+      163.86054421768708,
+      164.05,
+      164.22,
+      164.54000000000002,
+      164.93,
+      165.28,
+      165.63,
+      165.95499999999998,
+      167.47,
+      167.92,
+      168.06666666666666,
+      168.21333333333334,
+      168.36,
+      168.67913832199545,
+      168.88,
+      169.17800453514738,
+      169.4671201814059,
+      170.38548752834467,
+      170.61,
+      170.8219954648526,
+      171.01473922902494,
+      171.19,
+      171.42290249433105,
+      171.73000000000002,
+      172.43,
+      172.67000000000002,
+      172.91,
+      173.16326530612244,
+      173.3390022675737,
+      173.61111111111111,
+      174.41,
+      174.7562358276644,
+      175.01700680272108,
+      175.24943310657596,
+      175.99,
+      176.3,
+      176.71768707482994,
+      176.93,
+      177.41,
+      178.3
+    ],
+    "sentence_indices": [
+      9,
+      12,
+      23,
+      40,
+      59,
+      70,
+      85,
+      87,
+      109,
+      124,
+      140,
+      158,
+      160,
+      171,
+      184,
+      201,
+      213,
+      220,
+      231,
+      248,
+      261,
+      275,
+      277,
+      304,
+      311,
+      336
+    ],
+    "sentence_translations": [
+      "The Profits vs. Privacy Battle Behind the Removal of Didi",
+      "",
+      "From startup to listing on the New York Stock Exchange in just a few short years, ..",
+      ".. this is an outstanding achievement for any company.",
+      "However, Didi Chuxing, which achieved these outstanding results and is known as the Chinese “Uber”, ..",
+      ".. experienced the removal of its app not long after listing.",
+      "What exactly are the stories behind this astonishing incident?",
+      "",
+      "Five days after Didi was listed, the Cyberspace Administration of China issued a notice saying:",
+      "“The Didi Chuxing app has serious problems involving the illegal collection and use of personal data.”",
+      "It can be seen that the reason Didi Chuxing was removed was due to violations of user privacy.",
+      "Behind this incident is a reflection of the change in the Chinese government’s attitude towards internet companies.",
+      "",
+      "Chinese internet companies have developed rapidly in recent years.",
+      "In particular, in the mobile internet, a wave of new companies has emerged.",
+      "In order to quickly penetrate the market, these companies often invest large amounts of capital in the early stage, ..",
+      ".. using free or low price models to attract users and occupy the market.",
+      "However, during this process, ..",
+      ".. there have been a large number of situations involving the excessive collection of users’ personal data.",
+      "Internet companies utilize this big data for precision advertising, creating additional profits to recover costs.",
+      "Meanwhile, users tacitly agree to exchange some of their personal privacy for low-cost and high-quality services, ..",
+      ".. while the government manages the balance between corporate development and the protection of citizens’ privacy.",
+      "",
+      "Didi’s Chuxing’s removal indicates that, on the scale between corporate profits and citizens’ personal privacy, the Chinese government ..",
+      ".. is gradually leaning towards the protection of citizens’ privacy.",
+      "In the context of such official signals, major internet companies must start to think about “how to take the next step”.",
+      ""
+    ]
+  }
+}

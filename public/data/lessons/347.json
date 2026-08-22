@@ -1,0 +1,1036 @@
+{
+  "id": "347",
+  "title": "What time is your flight?",
+  "level": "newbie",
+  "date": "2017-08-02",
+  "synopsis": "Ben is taking an early flight to Guangzhou.",
+  "audioUrl": "https://static.duchinese.net/documents/485/824c1cb0639ae2f6ca87cf40d7154eb17191c7b0.mp3?1698352604",
+  "series": null,
+  "fullText": {
+    "simplified": "飞机几点起飞？\n\n本：明天我要坐飞机去广州玩儿。\n丽丽：飞机几点起飞？\n本：早上7点20分。\n丽丽：那么早？我送你去吧！\n本：太好了！谢谢你！\n丽丽：我们要早一点去办登机。\n本：好的。\n丽丽：那我们明天早上5点见吧！\n本：好的。明天见！",
+    "traditional": "飛機幾點起飛？\n\n本：明天我要坐飛機去廣州玩兒。\n麗麗：飛機幾點起飛？\n本：早上7點20分。\n麗麗：那麼早？我送你去吧！\n本：太好了！謝謝你！\n麗麗：我們要早一點去辦登機。\n本：好的。\n麗麗：那我們明天早上5點見吧！\n本：好的。明天見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What time is your flight?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：明天我要坐飞机去广州玩儿。",
+      "traditional": "本：明天我要坐飛機去廣州玩兒。",
+      "pinyin": "běn míng tiān wǒ yào zuò fēi jī qù guǎng zhōu wán'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Tomorrow I'm taking a plane to Guangzhou for fun."
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：飞机几点起飞？",
+      "traditional": "麗麗：飛機幾點起飛？",
+      "pinyin": "lì lì fēi jī jǐ diǎn qǐ fēi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: What time does your flight leave?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：早上7点20分。",
+      "traditional": "本：早上7點20分。",
+      "pinyin": "běn zǎo shang 1 diǎn 2 fēn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: 7:20 in the morning."
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：那么早？我送你去吧！",
+      "traditional": "麗麗：那麼早？我送你去吧！",
+      "pinyin": "lì lì nà me zǎo wǒ sòng nǐ qù ba",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: That early? I'll give you a lift!"
+    },
+    {
+      "index": 10,
+      "simplified": "本：太好了！谢谢你！",
+      "traditional": "本：太好了！謝謝你！",
+      "pinyin": "běn tài hǎo le xiè xie nǐ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Great! Thank you!"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：我们要早一点去办登机。",
+      "traditional": "麗麗：我們要早一點去辦登機。",
+      "pinyin": "lì lì wǒ men yào zǎo yì diǎn qù bàn dēng jī",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: We should go a bit early to check in."
+    },
+    {
+      "index": 14,
+      "simplified": "本：好的。",
+      "traditional": "本：好的。",
+      "pinyin": "běn hǎo de",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok."
+    },
+    {
+      "index": 16,
+      "simplified": "丽丽：那我们明天早上5点见吧！",
+      "traditional": "麗麗：那我們明天早上5點見吧！",
+      "pinyin": "lì lì nà wǒ men míng tiān zǎo shang 1 diǎn jiàn ba",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Let's meet tomorrow morning at 5!"
+    },
+    {
+      "index": 18,
+      "simplified": "本：好的。明天见！",
+      "traditional": "本：好的。明天見！",
+      "pinyin": "běn hǎo de míng tiān jiàn",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Ok, see you tomorrow!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "meaning": "airplane",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几点",
+      "traditional": "幾點",
+      "pinyin": "jǐ diǎn",
+      "meaning": "what time?\nwhen?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "起飞",
+      "traditional": "起飛",
+      "pinyin": "qǐ fēi",
+      "meaning": "(of an aircraft) to take off",
+      "hsk": 3
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "广州",
+      "traditional": "廣州",
+      "pinyin": "guǎng zhōu",
+      "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+      "hsk": null
+    },
+    {
+      "hanzi": "玩儿",
+      "traditional": "玩兒",
+      "pinyin": "wán'r",
+      "meaning": "to play\nto have fun\nto hang out",
+      "hsk": null
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "meaning": "minute",
+      "hsk": 3
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "hsk": 2
+    },
+    {
+      "hanzi": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "meaning": "to deliver\nto send",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "办",
+      "traditional": "辦",
+      "pinyin": "bàn",
+      "meaning": "to do\nto manage\nto set up",
+      "hsk": 4
+    },
+    {
+      "hanzi": "登机",
+      "traditional": "登機",
+      "pinyin": "dēng jī",
+      "meaning": "to board a plane",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "meaning": "to see\nto meet",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几点",
+        "pinyin": "jǐ diǎn",
+        "meaning": "what time?\nwhen?",
+        "tc_hanzi": "幾點"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起飞",
+        "pinyin": "qǐ fēi",
+        "meaning": "(of an aircraft) to take off",
+        "tc_hanzi": "起飛"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "广州",
+        "pinyin": "guǎng zhōu",
+        "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+        "tc_hanzi": "廣州"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "玩儿",
+        "pinyin": "wán'r",
+        "meaning": "to play\nto have fun\nto hang out",
+        "tc_hanzi": "玩兒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几点",
+        "pinyin": "jǐ diǎn",
+        "meaning": "what time?\nwhen?",
+        "tc_hanzi": "幾點"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起飞",
+        "pinyin": "qǐ fēi",
+        "meaning": "(of an aircraft) to take off",
+        "tc_hanzi": "起飛"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "1",
+        "tc_hanzi": "7"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "20",
+        "pinyin": "2",
+        "tc_hanzi": "20"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "meaning": "minute",
+        "tc_hanzi": "分"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to deliver\nto send",
+        "tc_hanzi": "送"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "办",
+        "pinyin": "bàn",
+        "meaning": "to do\nto manage\nto set up",
+        "tc_hanzi": "辦"
+      },
+      {
+        "hanzi": "登机",
+        "pinyin": "dēng jī",
+        "meaning": "to board a plane",
+        "tc_hanzi": "登機"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben is taking an early flight to Guangzhou.",
+    "syllable_times": [
+      0.55,
+      1.1451247165532878,
+      1.5759637188208617,
+      2.0238095238095237,
+      2.5170068027210886,
+      4.65,
+      4.65,
+      5.090702947845805,
+      5.93,
+      6.303854875283447,
+      6.67,
+      7.023809523809524,
+      7.329931972789115,
+      8.05,
+      8.77,
+      9.3140589569161,
+      9.648526077097506,
+      11.69,
+      11.69,
+      11.69,
+      12.086167800453515,
+      12.511337868480725,
+      12.947845804988662,
+      13.26530612244898,
+      13.667800453514738,
+      15.52,
+      15.52,
+      15.94671201814059,
+      16.63,
+      17.125850340136054,
+      17.46,
+      17.885487528344672,
+      18.197278911564624,
+      20.130385487528343,
+      20.130385487528343,
+      20.130385487528343,
+      20.436507936507937,
+      20.640589569160998,
+      22.11,
+      22.494331065759635,
+      22.874149659863946,
+      23.140589569160998,
+      23.48639455782313,
+      25.24,
+      25.24,
+      25.668934240362812,
+      26.020408163265305,
+      26.7,
+      27.23922902494331,
+      27.534013605442176,
+      29.73,
+      29.73,
+      29.73,
+      30.07936507936508,
+      30.453514739229025,
+      30.833333333333332,
+      31.201814058956916,
+      31.45124716553288,
+      31.831065759637188,
+      32.19387755102041,
+      32.42063492063492,
+      32.749433106575964,
+      34.16,
+      34.16,
+      34.62018140589569,
+      36.88,
+      36.88,
+      36.88,
+      37.39795918367347,
+      37.73242630385487,
+      37.97052154195011,
+      38.35034013605442,
+      38.769841269841265,
+      39.08730158730159,
+      39.66,
+      40,
+      40.34013605442177,
+      40.60657596371882,
+      42.51,
+      42.51,
+      42.976190476190474,
+      44,
+      44.331065759637184,
+      44.631519274376416,
+      45.6
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      17,
+      18,
+      24,
+      25,
+      33,
+      34,
+      45,
+      46,
+      55,
+      56,
+      66,
+      67,
+      71,
+      72,
+      83,
+      84,
+      91
+    ],
+    "sentence_translations": [
+      "What time is your flight?",
+      "",
+      "Ben: Tomorrow I'm taking a plane to Guangzhou for fun.",
+      "",
+      "Lili: What time does your flight leave?",
+      "",
+      "Ben: 7:20 in the morning.",
+      "",
+      "Lili: That early? I'll give you a lift!",
+      "",
+      "Ben: Great! Thank you!",
+      "",
+      "Lili: We should go a bit early to check in.",
+      "",
+      "Ben: Ok.",
+      "",
+      "Lili: Let's meet tomorrow morning at 5!",
+      "",
+      "Ben: Ok, see you tomorrow!",
+      ""
+    ]
+  }
+}

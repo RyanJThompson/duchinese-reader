@@ -1,0 +1,793 @@
+{
+  "id": "774",
+  "title": "Have You Been to Sichuan?",
+  "level": "newbie",
+  "date": "2019-08-01",
+  "synopsis": "Ben is telling Lili when he is going to Sichuan.",
+  "audioUrl": "https://static.duchinese.net/documents/1110/72fdfc55323ed56188559c293a2fd964a3c78a8a.mp3?1564387601",
+  "series": null,
+  "fullText": {
+    "simplified": "你去四川了吗？\n\n丽丽：你去四川了吗？\n本：没有。我想今年10月去。\n丽丽：10月是秋天，天气很好。\n本：是啊。小雨说，4月和10月去四川最好。她去年8月去了四川，太热了。",
+    "traditional": "你去四川了嗎？\n\n麗麗：你去四川了嗎？\n本：沒有。我想今年10月去。\n麗麗：10月是秋天，天氣很好。\n本：是啊。小雨說，4月和10月去四川最好。她去年8月去了四川，太熱了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Have You Been to Sichuan?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：你去四川了吗？",
+      "traditional": "麗麗：你去四川了嗎？",
+      "pinyin": "lì lì nǐ qù sì chuān le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Have you been to Sichuan?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：没有。我想今年10月去。",
+      "traditional": "本：沒有。我想今年10月去。",
+      "pinyin": "běn méi yǒu wǒ xiǎng jīn nián 1 yuè qù",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: No. I want to go in October this year."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：10月是秋天，天气很好。",
+      "traditional": "麗麗：10月是秋天，天氣很好。",
+      "pinyin": "lì lì 1 yuè shì qiū tiān tiān qì hěn hǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: It’s fall in October, the weather will be very good."
+    },
+    {
+      "index": 8,
+      "simplified": "本：是啊。小雨说，4月和10月去四川最好。",
+      "traditional": "本：是啊。小雨說，4月和10月去四川最好。",
+      "pinyin": "běn shì a xiǎo yǔ shuō 1 yuè hé 1 yuè qù sì chuān zuì hǎo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "她去年8月去了四川，太热了。",
+      "traditional": "她去年8月去了四川，太熱了。",
+      "pinyin": "tā qù nián 1 yuè qù le sì chuān tài rè le",
+      "english": "Ben: Yes. Little Yu said that it’s best to go to Sichuan in April and October."
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "She went to Sichuan in August last year, and it was too hot."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "四川",
+      "traditional": "四川",
+      "pinyin": "sì chuān",
+      "meaning": "Sichuan province in southwest China",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "秋天",
+      "traditional": "秋天",
+      "pinyin": "qiū tiān",
+      "meaning": "autumn",
+      "hsk": 3
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去年",
+      "traditional": "去年",
+      "pinyin": "qù nián",
+      "meaning": "last year",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "秋天",
+        "pinyin": "qiū tiān",
+        "meaning": "autumn",
+        "tc_hanzi": "秋天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "1",
+        "tc_hanzi": "4"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "去年",
+        "pinyin": "qù nián",
+        "meaning": "last year",
+        "tc_hanzi": "去年"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben is telling Lili when he is going to Sichuan.",
+    "syllable_times": [
+      0.31,
+      0.54,
+      0.8,
+      1.06,
+      1.15,
+      2.679337938468448,
+      2.679337938468448,
+      2.679337938468448,
+      3.04,
+      3.53,
+      3.875,
+      4.22,
+      4.33,
+      5.793078042079475,
+      5.793078042079475,
+      6.11,
+      7,
+      7.245,
+      7.49,
+      7.705,
+      7.92,
+      8.18,
+      8.44,
+      10.202399661793356,
+      10.202399661793356,
+      10.202399661793356,
+      10.595,
+      11.25,
+      11.51,
+      11.94,
+      12.85,
+      13.305,
+      13.85,
+      14.26988281886672,
+      15.939176984439104,
+      15.939176984439104,
+      16.315904160618473,
+      17.31,
+      17.65,
+      17.86,
+      18.75,
+      19.115000000000002,
+      19.52,
+      19.71,
+      19.985,
+      20.46,
+      20.77,
+      21.005,
+      21.24,
+      21.53,
+      22.49,
+      22.72,
+      22.93,
+      23.14,
+      23.415,
+      23.86,
+      24.055,
+      24.25,
+      24.54,
+      25.23,
+      25.55,
+      25.87,
+      26.374649,
+      26.374649
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      16,
+      17,
+      28,
+      29,
+      40,
+      41,
+      59,
+      71
+    ],
+    "sentence_translations": [
+      "Have You Been to Sichuan?",
+      "",
+      "Lili: Have you been to Sichuan?",
+      "",
+      "Ben: No. I want to go in October this year.",
+      "",
+      "Lili: It’s fall in October, the weather will be very good.",
+      "",
+      "Ben: Yes. Little Yu said that it’s best to go to Sichuan in April and October.",
+      "She went to Sichuan in August last year, and it was too hot.",
+      ""
+    ]
+  }
+}

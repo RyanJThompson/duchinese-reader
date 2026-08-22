@@ -1,0 +1,800 @@
+{
+  "id": "E359",
+  "title": "Who is the pig?",
+  "level": "newbie",
+  "date": "2019-09-19",
+  "synopsis": "Paul did something wrong and Little Le is punishing him. Or is she?",
+  "audioUrl": "https://static.duchinese.net/documents/1156/a2d2e71d09115f8073e89c1f2c8b109c7c240f6e.mp3?1568623346",
+  "series": null,
+  "fullText": {
+    "simplified": "谁是猪？\n\n保罗：我错了，小乐！我再也不让你生气了。\n小乐：说，你是猪！\n保罗：你是猪！\n小乐：我是让你说：“我是猪！”\n保罗：你是猪！\n小乐：不是我，是你！说你是猪！\n保罗：你是猪！",
+    "traditional": "誰是豬？\n\n保羅：我錯了，小樂！我再也不讓你生氣了。\n小樂：說，你是豬！\n保羅：你是豬！\n小樂：我是讓你說：“我是豬！”\n保羅：你是豬！\n小樂：不是我，是你！說你是豬！\n保羅：你是豬！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Who is the pig?"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：我错了，小乐！我再也不让你生气了。",
+      "traditional": "保羅：我錯了，小樂！我再也不讓你生氣了。",
+      "pinyin": "bǎo luó wǒ cuò le xiǎo lè wǒ zài yě bú ràng nǐ shēng qì le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I was wrong, Little Le! I’ll never make you angry again."
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：说，你是猪！",
+      "traditional": "小樂：說，你是豬！",
+      "pinyin": "xiǎo lè shuō nǐ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Say you’re a pig!"
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：你是猪！",
+      "traditional": "保羅：你是豬！",
+      "pinyin": "bǎo luó nǐ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: You’re a pig!"
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：我是让你说：“我是猪！”",
+      "traditional": "小樂：我是讓你說：“我是豬！”",
+      "pinyin": "xiǎo lè wǒ shì ràng nǐ shuō wǒ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: I am asking you to say: \"I’m a pig!\""
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：你是猪！",
+      "traditional": "保羅：你是豬！",
+      "pinyin": "bǎo luó nǐ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: You’re a pig!"
+    },
+    {
+      "index": 12,
+      "simplified": "小乐：不是我，是你！说你是猪！",
+      "traditional": "小樂：不是我，是你！說你是豬！",
+      "pinyin": "xiǎo lè bú shì wǒ shì nǐ shuō nǐ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Not me, it’s you! Say you're a pig!"
+    },
+    {
+      "index": 14,
+      "simplified": "保罗：你是猪！",
+      "traditional": "保羅：你是豬！",
+      "pinyin": "bǎo luó nǐ shì zhū",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: You’re a pig!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猪",
+      "traditional": "豬",
+      "pinyin": "zhū",
+      "meaning": "pig\nhog\nswine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "meaning": "wrong\nerroneous\nincorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "再也",
+      "traditional": "再也",
+      "pinyin": "zài yě",
+      "meaning": "(not) any more",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong\nerroneous\nincorrect",
+        "tc_hanzi": "錯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "再也",
+        "pinyin": "zài yě",
+        "meaning": "(not) any more",
+        "tc_hanzi": "再也"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "rang",
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "rang",
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul did something wrong and Little Le is punishing him. Or is she?",
+    "syllable_times": [
+      0.55,
+      0.91,
+      3.109595814416575,
+      3.109595814416575,
+      3.109595814416575,
+      3.5,
+      3.925,
+      4.61,
+      5.03,
+      6.04,
+      6.49,
+      6.88,
+      7.17,
+      7.46,
+      7.725,
+      7.99,
+      8.375,
+      8.76,
+      10.194813066530365,
+      10.194813066530365,
+      10.194813066530365,
+      11.14,
+      11.38,
+      11.63,
+      13.284167807462604,
+      13.284167807462604,
+      13.284167807462604,
+      13.91,
+      14.59,
+      16.291037594538324,
+      16.291037594538324,
+      16.291037594538324,
+      16.5,
+      16.75,
+      17.02,
+      17.29,
+      18.26,
+      18.6,
+      19.04,
+      20.81104203922896,
+      20.81104203922896,
+      20.81104203922896,
+      21.43,
+      21.97,
+      23.573084891650794,
+      23.573084891650794,
+      23.573084891650794,
+      23.82,
+      24.16968721076245,
+      24.92,
+      25.332906713867832,
+      26.56,
+      26.89,
+      27.29,
+      27.57,
+      29.141299380465995,
+      29.141299380465995,
+      29.141299380465995,
+      29.630495565661857,
+      30.209381409076062,
+      31.203667,
+      31.203667
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      22,
+      23,
+      31,
+      32,
+      38,
+      39,
+      52,
+      53,
+      59,
+      60,
+      74,
+      75,
+      81
+    ],
+    "sentence_translations": [
+      "Who is the pig?",
+      "",
+      "Paul: I was wrong, Little Le! I’ll never make you angry again.",
+      "",
+      "Little Le: Say you’re a pig!",
+      "",
+      "Paul: You’re a pig!",
+      "",
+      "Little Le: I am asking you to say: \"I’m a pig!\"",
+      "",
+      "Paul: You’re a pig!",
+      "",
+      "Little Le: Not me, it’s you! Say you're a pig!",
+      "",
+      "Paul: You’re a pig!",
+      ""
+    ]
+  }
+}

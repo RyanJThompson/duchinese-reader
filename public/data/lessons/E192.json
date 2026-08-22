@@ -1,0 +1,1549 @@
+{
+  "id": "E192",
+  "title": "Calling the Estate Agent",
+  "level": "intermediate",
+  "date": "2018-01-31",
+  "synopsis": "How do you find a place to live in China? A good agent is helpful.",
+  "audioUrl": "https://static.duchinese.net/documents/648/f87823e9e48da75d2418c74cdfca05497f330296.mp3?1517217225",
+  "series": null,
+  "fullText": {
+    "simplified": "给租房中介打电话\n\n中介：你好，这里是“好租”公司，请问有什么可以帮助您的吗？\n客户：你好，我想找一套房子。\n中介：您是租房还是买房？\n客户：租房。\n中介：请问您要租什么价位的？\n客户：大概一个月2000到3000的。\n中介：好的，我们这里有一套，一个月2600。\n客户：房子多大？\n中介：两室一厅，一厨一卫。\n客户：我觉得不错。我可以去看看吗？\n中介：当然可以。",
+    "traditional": "給租房中介打電話\n\n中介：你好，這裡是“好租”公司，請問有什麼可以幫助您的嗎？\n客戶：你好，我想找一套房子。\n中介：您是租房還是買房？\n客戶：租房。\n中介：請問您要租什麼價位的？\n客戶：大概一個月2000到3000的。\n中介：好的，我們這裡有一套，一個月2600。\n客戶：房子多大？\n中介：兩室一廳，一廚一衛。\n客戶：我覺得不錯。我可以去看看嗎？\n中介：當然可以。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Calling the Estate Agent"
+    },
+    {
+      "index": 2,
+      "simplified": "中介：你好，这里是“好租”公司，请问有什么可以帮助您的吗？",
+      "traditional": "中介：你好，這裡是“好租”公司，請問有什麼可以幫助您的嗎？",
+      "pinyin": "zhōng jiè nǐ hǎo zhè lǐ shì hǎo zū gōng sī qǐng wèn yǒu shén me kě yǐ bāng zhù nín de ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Agent: Hello, this is Haozu company. How can I help you?"
+    },
+    {
+      "index": 4,
+      "simplified": "客户：你好，我想找一套房子。",
+      "traditional": "客戶：你好，我想找一套房子。",
+      "pinyin": "kè hù nǐ hǎo wǒ xiǎng zhǎo yí tào fáng zi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Client: Hi, I am looking for an apartment."
+    },
+    {
+      "index": 6,
+      "simplified": "中介：您是租房还是买房？",
+      "traditional": "中介：您是租房還是買房？",
+      "pinyin": "zhōng jiè nín shì zū fáng hái shi mǎi fáng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Agent: Would you like to buy or rent?"
+    },
+    {
+      "index": 8,
+      "simplified": "客户：租房。",
+      "traditional": "客戶：租房。",
+      "pinyin": "kè hù zū fáng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Client: Rent."
+    },
+    {
+      "index": 10,
+      "simplified": "中介：请问您要租什么价位的？",
+      "traditional": "中介：請問您要租什麼價位的？",
+      "pinyin": "zhōng jiè qǐng wèn nín yào zū shén me jià wèi de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Agent: May I ask how much you would like to pay?"
+    },
+    {
+      "index": 12,
+      "simplified": "客户：大概一个月2000到3000的。",
+      "traditional": "客戶：大概一個月2000到3000的。",
+      "pinyin": "kè hù dà gài yí ge yuè 2 dào 2 de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Client: About 2000 to 3000 yuan a month."
+    },
+    {
+      "index": 14,
+      "simplified": "中介：好的，我们这里有一套，一个月2600。",
+      "traditional": "中介：好的，我們這裡有一套，一個月2600。",
+      "pinyin": "zhōng jiè hǎo de wǒ men zhè lǐ yǒu yí tào yí ge yuè 3",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Agent: Well. Let me see. We have one here. It is 2600 a month."
+    },
+    {
+      "index": 16,
+      "simplified": "客户：房子多大？",
+      "traditional": "客戶：房子多大？",
+      "pinyin": "kè hù fáng zi duō dà",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Client: How big is it?"
+    },
+    {
+      "index": 18,
+      "simplified": "中介：两室一厅，一厨一卫。",
+      "traditional": "中介：兩室一廳，一廚一衛。",
+      "pinyin": "zhōng jiè liǎng shì yì tīng yì chú yí wèi",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Agent: It has two bedrooms, a living room, a kitchen and a bathroom."
+    },
+    {
+      "index": 20,
+      "simplified": "客户：我觉得不错。我可以去看看吗？",
+      "traditional": "客戶：我覺得不錯。我可以去看看嗎？",
+      "pinyin": "kè hù wǒ jué de bú cuò wǒ kě yǐ qù kàn kan ma",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Client: I think it’s good. Can I have a look?"
+    },
+    {
+      "index": 22,
+      "simplified": "中介：当然可以。",
+      "traditional": "中介：當然可以。",
+      "pinyin": "zhōng jiè dāng rán kě yǐ",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Agent: Of course."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "租",
+      "traditional": "租",
+      "pinyin": "zū",
+      "meaning": "to hire\nto rent",
+      "hsk": 4
+    },
+    {
+      "hanzi": "房",
+      "traditional": "房",
+      "pinyin": "fáng",
+      "meaning": "room\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "中介",
+      "traditional": "中介",
+      "pinyin": "zhōng jiè",
+      "meaning": "intermediate\nagency\nagent",
+      "hsk": 5
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make\nto issue",
+      "hsk": null
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "帮助",
+      "traditional": "幫助",
+      "pinyin": "bāng zhù",
+      "meaning": "assistance\nto help",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "客户",
+      "traditional": "客戶",
+      "pinyin": "kè hù",
+      "meaning": "client\ncustomer",
+      "hsk": 6
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to try to find\nto look for\nto call on sb",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "套",
+      "traditional": "套",
+      "pinyin": "tào",
+      "meaning": "classifier for sets, collections, apartments",
+      "hsk": 5
+    },
+    {
+      "hanzi": "房子",
+      "traditional": "房子",
+      "pinyin": "fáng zi",
+      "meaning": "apartment\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "价位",
+      "traditional": "價位",
+      "pinyin": "jià wèi",
+      "meaning": "price level",
+      "hsk": null
+    },
+    {
+      "hanzi": "大概",
+      "traditional": "大概",
+      "pinyin": "dà gài",
+      "meaning": "roughly\nprobably\napproximate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to\nup to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "how (to what extent)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "室",
+      "traditional": "室",
+      "pinyin": "shì",
+      "meaning": "room",
+      "hsk": null
+    },
+    {
+      "hanzi": "厅",
+      "traditional": "廳",
+      "pinyin": "tīng",
+      "meaning": "(reception) hall\nliving room",
+      "hsk": null
+    },
+    {
+      "hanzi": "厨",
+      "traditional": "廚",
+      "pinyin": "chú",
+      "meaning": "kitchen",
+      "hsk": null
+    },
+    {
+      "hanzi": "卫",
+      "traditional": "衛",
+      "pinyin": "wèi",
+      "meaning": "health\nabbr. for 卫生间|衛生間, toilet",
+      "hsk": null
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不错",
+      "traditional": "不錯",
+      "pinyin": "bú cuò",
+      "meaning": "right\nnot bad\npretty good",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "当然",
+      "traditional": "當然",
+      "pinyin": "dāng rán",
+      "meaning": "certainly\nof course",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮助",
+        "pinyin": "bāng zhù",
+        "meaning": "assistance\nto help",
+        "tc_hanzi": "幫助"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "客户",
+        "pinyin": "kè hù",
+        "meaning": "client\ncustomer",
+        "tc_hanzi": "客戶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "套",
+        "pinyin": "tào",
+        "meaning": "classifier for sets, collections, apartments",
+        "tc_hanzi": "套"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "客户",
+        "pinyin": "kè hù",
+        "meaning": "client\ncustomer",
+        "tc_hanzi": "客戶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "价位",
+        "pinyin": "jià wèi",
+        "meaning": "price level",
+        "tc_hanzi": "價位"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "客户",
+        "pinyin": "kè hù",
+        "meaning": "client\ncustomer",
+        "tc_hanzi": "客戶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "大概",
+        "pinyin": "dà gài",
+        "meaning": "roughly\nprobably\napproximate",
+        "tc_hanzi": "大概"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "2000",
+        "pinyin": "2",
+        "tc_hanzi": "2000"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to\nup to",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "3000",
+        "pinyin": "2",
+        "tc_hanzi": "3000"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "套",
+        "pinyin": "tào",
+        "meaning": "classifier for sets, collections, apartments",
+        "tc_hanzi": "套"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "2600",
+        "pinyin": "3",
+        "tc_hanzi": "2600"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "客户",
+        "pinyin": "kè hù",
+        "meaning": "client\ncustomer",
+        "tc_hanzi": "客戶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "g": "duo",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hanzi": "室",
+        "pinyin": "shì",
+        "meaning": "room",
+        "tc_hanzi": "室"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "厅",
+        "pinyin": "tīng",
+        "meaning": "(reception) hall\nliving room",
+        "tc_hanzi": "廳"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "厨",
+        "pinyin": "chú",
+        "meaning": "kitchen",
+        "tc_hanzi": "廚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "卫",
+        "pinyin": "wèi",
+        "meaning": "health\nabbr. for 卫生间|衛生間, toilet",
+        "tc_hanzi": "衛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "客户",
+        "pinyin": "kè hù",
+        "meaning": "client\ncustomer",
+        "tc_hanzi": "客戶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不错",
+        "pinyin": "bú cuò",
+        "meaning": "right\nnot bad\npretty good",
+        "tc_hanzi": "不錯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中介",
+        "pinyin": "zhōng jiè",
+        "meaning": "intermediate\nagency\nagent",
+        "tc_hanzi": "中介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "当然",
+        "pinyin": "dāng rán",
+        "meaning": "certainly\nof course",
+        "tc_hanzi": "當然"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you find a place to live in China? A good agent is helpful.",
+    "syllable_times": [
+      0.4988662131519274,
+      0.8163265306122449,
+      1.08843537414966,
+      1.360544217687075,
+      1.904761904761905,
+      2.17687074829932,
+      2.53968253968254,
+      4.905870323259844,
+      4.905870323259844,
+      4.905870323259844,
+      5.170068027210885,
+      6.349206349206349,
+      6.560526350015,
+      6.702026073980644,
+      7.028676391973366,
+      7.392290249433106,
+      7.619047619047619,
+      7.888930899214544,
+      9.342403628117914,
+      9.61451247165533,
+      9.977324263038549,
+      10.24999827681491,
+      10.43083900226757,
+      10.56689342403628,
+      10.79800503740343,
+      11.06575963718821,
+      11.33786848072562,
+      11.57552231174644,
+      11.79138321995465,
+      11.92743764172336,
+      14.10421499862512,
+      14.10421499862512,
+      14.10421499862512,
+      14.37641723356009,
+      15.23809523809524,
+      15.55555555555556,
+      15.87301587301587,
+      16.23582766439909,
+      16.3718820861678,
+      16.65736989897984,
+      17.05215419501134,
+      19.07460884148846,
+      19.07460884148846,
+      19.07460884148846,
+      19.40201252475128,
+      19.78317103581564,
+      20.18140589569161,
+      20.68027210884354,
+      20.90702947845805,
+      21.31519274376417,
+      21.67800453514739,
+      23.91327848949189,
+      23.91327848949189,
+      23.91327848949189,
+      24.26303854875284,
+      26.25580132344865,
+      26.25580132344865,
+      26.25580132344865,
+      26.57596371882086,
+      27.13626374617004,
+      27.39229024943311,
+      27.73412556139726,
+      28.01610575043372,
+      28.29931972789116,
+      28.48072562358277,
+      28.76517240692958,
+      29.0249433106576,
+      31.06471319221854,
+      31.06471319221854,
+      31.06471319221854,
+      31.33786848072562,
+      31.83673469387755,
+      32.06349206349206,
+      32.24489795918367,
+      32.67859886318028,
+      33.06122448979592,
+      33.60544217687075,
+      33.9915372665408,
+      34.33106575963719,
+      34.69387755102041,
+      36.8301289730536,
+      36.8301289730536,
+      36.8301289730536,
+      37.18820861678005,
+      38.14058956916099,
+      38.36734693877551,
+      38.50340136054422,
+      38.76691319763572,
+      39.04761904761905,
+      39.28088557425757,
+      39.45578231292517,
+      40.95238095238095,
+      41.13378684807256,
+      41.36054421768708,
+      41.67800453514739,
+      42.02060916797132,
+      42.36033258918041,
+      44.57597984853221,
+      44.57597984853221,
+      44.57597984853221,
+      44.98866213151928,
+      45.3968253968254,
+      45.66893424036281,
+      47.62090500784301,
+      47.62090500784301,
+      47.62090500784301,
+      47.98185941043084,
+      48.48072562358276,
+      48.74715302600659,
+      49.38775510204081,
+      49.70521541950114,
+      50.11337868480726,
+      50.43083900226758,
+      52.53595991613083,
+      52.53595991613083,
+      52.53595991613083,
+      53.06122448979592,
+      53.28798185941043,
+      53.51473922902494,
+      53.69614512471655,
+      55.19274376417233,
+      55.64625850340136,
+      56.01243042839416,
+      56.19047619047619,
+      56.64399092970522,
+      56.96145124716553,
+      57.23356009070294,
+      59.22846964483013,
+      59.22846964483013,
+      59.22846964483013,
+      59.50113378684807,
+      59.7961525336494,
+      60.09070294784581,
+      60.58117913832199,
+      60.58117913832199
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      29,
+      30,
+      41,
+      42,
+      52,
+      53,
+      58,
+      59,
+      69,
+      70,
+      81,
+      82,
+      97,
+      98,
+      104,
+      105,
+      117,
+      118,
+      130,
+      131,
+      136
+    ],
+    "sentence_translations": [
+      "Calling the Estate Agent",
+      "",
+      "Agent: Hello, this is Haozu company. How can I help you?",
+      "",
+      "Client: Hi, I am looking for an apartment.",
+      "",
+      "Agent: Would you like to buy or rent?",
+      "",
+      "Client: Rent.",
+      "",
+      "Agent: May I ask how much you would like to pay?",
+      "",
+      "Client: About 2000 to 3000 yuan a month.",
+      "",
+      "Agent: Well. Let me see. We have one here. It is 2600 a month.",
+      "",
+      "Client: How big is it?",
+      "",
+      "Agent: It has two bedrooms, a living room, a kitchen and a bathroom.",
+      "",
+      "Client: I think it’s good. Can I have a look?",
+      "",
+      "Agent: Of course.",
+      ""
+    ]
+  }
+}

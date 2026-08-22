@@ -1,0 +1,921 @@
+{
+  "id": "621",
+  "title": "Are You Using This Dumbbell?",
+  "level": "intermediate",
+  "date": "2018-11-21",
+  "synopsis": "Little Yu is at the gym trying to find a suitable weight to train with.",
+  "audioUrl": "https://static.duchinese.net/documents/900/014897040f45fbe925a36dfae3c32fc6de80f07f.mp3?1698350484",
+  "series": null,
+  "fullText": {
+    "simplified": "你在用这个哑铃吗\n\n小雨：你好！你在用这个哑铃吗？\n陌生人：是的。\n小雨：你这个是多少公斤的？\n陌生人：30公斤。\n小雨：你还剩几组？\n陌生人：两组，每组30次，很快就好了。\n小雨：好的，谢谢你。",
+    "traditional": "你在用這個啞鈴嗎\n\n小雨：你好！你在用這個啞鈴嗎？\n陌生人：是的。\n小雨：你這個是多少公斤的？\n陌生人：30公斤。\n小雨：你還剩幾組？\n陌生人：兩組，每組30次，很快就好了。\n小雨：好的，謝謝你。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Are You Using This Dumbbell?"
+    },
+    {
+      "index": 2,
+      "simplified": "小雨：你好！你在用这个哑铃吗？",
+      "traditional": "小雨：你好！你在用這個啞鈴嗎？",
+      "pinyin": "xiǎo yǔ nǐ hǎo nǐ zài yòng zhè ge yǎ líng ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Hello! Are you using this dumbbell?"
+    },
+    {
+      "index": 4,
+      "simplified": "陌生人：是的。",
+      "traditional": "陌生人：是的。",
+      "pinyin": "mò shēng rén shì de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Stranger: Yes."
+    },
+    {
+      "index": 6,
+      "simplified": "小雨：你这个是多少公斤的？",
+      "traditional": "小雨：你這個是多少公斤的？",
+      "pinyin": "xiǎo yǔ nǐ zhè ge shì duō shao gōng jīn de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: How many kilos is this one?"
+    },
+    {
+      "index": 8,
+      "simplified": "陌生人：30公斤。",
+      "traditional": "陌生人：30公斤。",
+      "pinyin": "mò shēng rén 2 gōng jīn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Stranger: 30 kilos."
+    },
+    {
+      "index": 10,
+      "simplified": "小雨：你还剩几组？",
+      "traditional": "小雨：你還剩幾組？",
+      "pinyin": "xiǎo yǔ nǐ hái shèng jǐ zǔ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: How many sets do you have left?"
+    },
+    {
+      "index": 12,
+      "simplified": "陌生人：两组，每组30次，很快就好了。",
+      "traditional": "陌生人：兩組，每組30次，很快就好了。",
+      "pinyin": "mò shēng rén liǎng zǔ měi zǔ 2 cì hěn kuài jiù hǎo le",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Stranger: 2 sets, each set 30 reps. I’ll be done soon."
+    },
+    {
+      "index": 14,
+      "simplified": "小雨：好的，谢谢你。",
+      "traditional": "小雨：好的，謝謝你。",
+      "pinyin": "xiǎo yǔ hǎo de xiè xie nǐ",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Yu: Ok, thank you."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哑铃",
+      "traditional": "啞鈴",
+      "pinyin": "yǎ líng",
+      "meaning": "dumbbell (weight)",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "陌生人",
+      "traditional": "陌生人",
+      "pinyin": "mò shēng rén",
+      "meaning": "stranger",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公斤",
+      "traditional": "公斤",
+      "pinyin": "gōng jīn",
+      "meaning": "kilogram (kg)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "剩",
+      "traditional": "剩",
+      "pinyin": "shèng",
+      "meaning": "to remain\nto be left",
+      "hsk": 4
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "组",
+      "traditional": "組",
+      "pinyin": "zǔ",
+      "meaning": "classifier for sets, series, groups of people, batteries",
+      "hsk": 5
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "哑铃",
+        "pinyin": "yǎ líng",
+        "meaning": "dumbbell (weight)",
+        "tc_hanzi": "啞鈴"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "哑铃",
+        "pinyin": "yǎ líng",
+        "meaning": "dumbbell (weight)",
+        "tc_hanzi": "啞鈴"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公斤",
+        "pinyin": "gōng jīn",
+        "meaning": "kilogram (kg)",
+        "tc_hanzi": "公斤"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公斤",
+        "pinyin": "gōng jīn",
+        "meaning": "kilogram (kg)",
+        "tc_hanzi": "公斤"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "剩",
+        "pinyin": "shèng",
+        "meaning": "to remain\nto be left",
+        "tc_hanzi": "剩"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "组",
+        "pinyin": "zǔ",
+        "meaning": "classifier for sets, series, groups of people, batteries",
+        "tc_hanzi": "組"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "组",
+        "pinyin": "zǔ",
+        "meaning": "classifier for sets, series, groups of people, batteries",
+        "tc_hanzi": "組"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "组",
+        "pinyin": "zǔ",
+        "meaning": "classifier for sets, series, groups of people, batteries",
+        "tc_hanzi": "組"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "g": "ci",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Yu is at the gym trying to find a suitable weight to train with.",
+    "syllable_times": [
+      0.391156462585034,
+      0.719954648526077,
+      1.42,
+      1.8027210884353742,
+      2.080498866213152,
+      2.375283446712018,
+      2.6700680272108843,
+      5.44,
+      5.44,
+      5.44,
+      5.839002267573696,
+      6.77,
+      7.199546485260771,
+      7.5,
+      7.840136054421769,
+      8.146258503401361,
+      8.526077097505668,
+      8.939909297052154,
+      9.229024943310657,
+      10.47,
+      10.47,
+      10.47,
+      10.47,
+      11.065759637188208,
+      12.41,
+      12.41,
+      12.41,
+      12.953514739229025,
+      13.293650793650793,
+      13.724489795918366,
+      14.27437641723356,
+      14.620181405895691,
+      14.988662131519273,
+      15.300453514739228,
+      15.617913832199546,
+      17.03,
+      17.03,
+      17.03,
+      17.03,
+      17.465986394557824,
+      17.687074829931973,
+      17.91950113378685,
+      19.68,
+      19.68,
+      19.68,
+      20.153061224489797,
+      20.493197278911563,
+      20.9,
+      21.235827664399093,
+      22.44331065759637,
+      22.44331065759637,
+      22.44331065759637,
+      22.44331065759637,
+      22.970521541950113,
+      24.22,
+      24.5124716553288,
+      24.99,
+      25.40249433106576,
+      25.60657596371882,
+      26.496598639455783,
+      26.972789115646258,
+      27.403628117913833,
+      27.658730158730158,
+      27.998866213151928,
+      29.08,
+      29.08,
+      29.08,
+      29.39342403628118,
+      30.04,
+      30.470521541950113,
+      30.70294784580499,
+      31.6
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      21,
+      22,
+      27,
+      28,
+      38,
+      39,
+      44,
+      45,
+      53,
+      54,
+      70,
+      71,
+      78
+    ],
+    "sentence_translations": [
+      "Are You Using This Dumbbell?",
+      "",
+      "Little Yu: Hello! Are you using this dumbbell?",
+      "",
+      "Stranger: Yes.",
+      "",
+      "Little Yu: How many kilos is this one?",
+      "",
+      "Stranger: 30 kilos.",
+      "",
+      "Little Yu: How many sets do you have left?",
+      "",
+      "Stranger: 2 sets, each set 30 reps. I’ll be done soon.",
+      "",
+      "Little Yu: Ok, thank you.",
+      ""
+    ]
+  }
+}

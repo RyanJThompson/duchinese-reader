@@ -1,0 +1,939 @@
+{
+  "id": "810",
+  "title": "How Tall Are You?",
+  "level": "newbie",
+  "date": "2019-10-17",
+  "synopsis": "Aunt Zhang meets Little Ming for the first time, and she has a lot of questions.",
+  "audioUrl": "https://static.duchinese.net/documents/810/792feb46e787fbff6f967fa9176b2e15530dca15.mp3?1571052727",
+  "series": null,
+  "fullText": {
+    "simplified": "你多高？\n\n张阿姨：好久不见！\n小明妈妈：好久不见！这是我的儿子，小明。\n张阿姨：小明，你好啊！\n小明：阿姨好！\n张阿姨：你多大了？\n小明：8岁。\n张阿姨：你多高？\n小明：1米3。\n张阿姨：真高！你多重？\n小明：60斤。",
+    "traditional": "你多高？\n\n張阿姨：好久不見！\n小明媽媽：好久不見！這是我的兒子，小明。\n張阿姨：小明，你好啊！\n小明：阿姨好！\n張阿姨：你多大了？\n小明：8歲。\n張阿姨：你多高？\n小明：1米3。\n張阿姨：真高！你多重？\n小明：60斤。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How tall are you?"
+    },
+    {
+      "index": 2,
+      "simplified": "张阿姨：好久不见！",
+      "traditional": "張阿姨：好久不見！",
+      "pinyin": "zhāng ā yí hǎo jiǔ bu jiàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Zhang: Long time no see!"
+    },
+    {
+      "index": 4,
+      "simplified": "小明妈妈：好久不见！这是我的儿子，小明。",
+      "traditional": "小明媽媽：好久不見！這是我的兒子，小明。",
+      "pinyin": "xiǎo míng mā ma hǎo jiǔ bu jiàn zhè shì wǒ de ér zi xiǎo míng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming's Mom: Long time no see! This is my son, Little Ming."
+    },
+    {
+      "index": 6,
+      "simplified": "张阿姨：小明，你好啊！",
+      "traditional": "張阿姨：小明，你好啊！",
+      "pinyin": "zhāng ā yí xiǎo míng nǐ hǎo a",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Zhang: Hello Little Ming!"
+    },
+    {
+      "index": 8,
+      "simplified": "小明：阿姨好！",
+      "traditional": "小明：阿姨好！",
+      "pinyin": "xiǎo míng ā yí hǎo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Hello Aunt!"
+    },
+    {
+      "index": 10,
+      "simplified": "张阿姨：你多大了？",
+      "traditional": "張阿姨：你多大了？",
+      "pinyin": "zhāng ā yí nǐ duō dà le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Zhang: How old are you?"
+    },
+    {
+      "index": 12,
+      "simplified": "小明：8岁。",
+      "traditional": "小明：8歲。",
+      "pinyin": "xiǎo míng 1 suì",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: 8 years old."
+    },
+    {
+      "index": 14,
+      "simplified": "张阿姨：你多高？",
+      "traditional": "張阿姨：你多高？",
+      "pinyin": "zhāng ā yí nǐ duō gāo",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Zhang: How tall are you?"
+    },
+    {
+      "index": 16,
+      "simplified": "小明：1米3。",
+      "traditional": "小明：1米3。",
+      "pinyin": "xiǎo míng 1 mǐ 1",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: 1.3 meters."
+    },
+    {
+      "index": 18,
+      "simplified": "张阿姨：真高！你多重？",
+      "traditional": "張阿姨：真高！你多重？",
+      "pinyin": "zhāng ā yí zhēn gāo nǐ duō zhòng",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Zhang: That’s really tall! How much do you weigh?"
+    },
+    {
+      "index": 20,
+      "simplified": "小明：60斤。",
+      "traditional": "小明：60斤。",
+      "pinyin": "xiǎo míng 2 jīn",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: 30 kilograms."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "how (to what extent)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "meaning": "high\ntall",
+      "hsk": 2
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "阿姨",
+      "traditional": "阿姨",
+      "pinyin": "ā yí",
+      "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好久不见",
+      "traditional": "好久不見",
+      "pinyin": "hǎo jiǔ bu jiàn",
+      "meaning": "long time no see",
+      "hsk": null
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "儿子",
+      "traditional": "兒子",
+      "pinyin": "ér zi",
+      "meaning": "son",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "米",
+      "traditional": "米",
+      "pinyin": "mǐ",
+      "meaning": "meter (colloquial)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "重",
+      "traditional": "重",
+      "pinyin": "zhòng",
+      "meaning": "serious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "斤",
+      "traditional": "斤",
+      "pinyin": "jīn",
+      "meaning": "weight equal to 0.5 kg",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "duo",
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall",
+        "tc_hanzi": "高"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "好久不见",
+        "pinyin": "hǎo jiǔ bu jiàn",
+        "meaning": "long time no see",
+        "tc_hanzi": "好久不見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "好久不见",
+        "pinyin": "hǎo jiǔ bu jiàn",
+        "meaning": "long time no see",
+        "tc_hanzi": "好久不見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "儿子",
+        "pinyin": "ér zi",
+        "meaning": "son",
+        "tc_hanzi": "兒子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "duo",
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "duo",
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall",
+        "tc_hanzi": "高"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "米",
+        "pinyin": "mǐ",
+        "meaning": "meter (colloquial)",
+        "tc_hanzi": "米"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall",
+        "tc_hanzi": "高"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "duo",
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "how (to what extent)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "重",
+        "pinyin": "zhòng",
+        "meaning": "serious",
+        "tc_hanzi": "重"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "60",
+        "pinyin": "2",
+        "tc_hanzi": "60"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "斤",
+        "pinyin": "jīn",
+        "meaning": "weight equal to 0.5 kg",
+        "tc_hanzi": "斤"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Aunt Zhang meets Little Ming for the first time, and she has a lot of questions.",
+    "syllable_times": [
+      0.54,
+      0.895,
+      2.9028963410445443,
+      2.9028963410445443,
+      2.9028963410445443,
+      2.9028963410445443,
+      3.311178498815421,
+      3.56,
+      3.9000000000000004,
+      5.573958303808851,
+      5.573958303808851,
+      5.573958303808851,
+      5.573958303808851,
+      5.573958303808851,
+      5.9125000000000005,
+      6.255000000000001,
+      6.465199186493664,
+      7.523398071134311,
+      7.835895558460407,
+      8.31,
+      8.510000000000002,
+      8.71,
+      8.97,
+      9.52,
+      9.885,
+      12.11611642225454,
+      12.11611642225454,
+      12.11611642225454,
+      12.11611642225454,
+      12.555,
+      13.497322501117308,
+      13.875,
+      14.14,
+      15.769237325606861,
+      15.769237325606861,
+      15.769237325606861,
+      16.15,
+      16.59240900961911,
+      18.391165300013384,
+      18.391165300013384,
+      18.391165300013384,
+      18.391165300013384,
+      19.13,
+      19.412469348630854,
+      19.8,
+      21.138899343888347,
+      21.138899343888347,
+      21.138899343888347,
+      21.52,
+      23.440817997405453,
+      23.440817997405453,
+      23.440817997405453,
+      23.440817997405453,
+      24.12,
+      24.410238682865334,
+      25.671181786614095,
+      25.671181786614095,
+      25.671181786614095,
+      26.05,
+      26.42,
+      28.194531371021203,
+      28.194531371021203,
+      28.194531371021203,
+      28.194531371021203,
+      28.74844170367201,
+      30.18,
+      30.78,
+      31.05414723134625,
+      32.90163840730479,
+      32.90163840730479,
+      32.90163840730479,
+      33.38490754550258,
+      33.76,
+      34.420045,
+      34.420045
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      11,
+      12,
+      25,
+      26,
+      34,
+      35,
+      40,
+      41,
+      49,
+      50,
+      55,
+      56,
+      63,
+      64,
+      70,
+      71,
+      81,
+      82,
+      87
+    ],
+    "sentence_translations": [
+      "How tall are you?",
+      "",
+      "Aunt Zhang: Long time no see!",
+      "",
+      "Little Ming's Mom: Long time no see! This is my son, Little Ming.",
+      "",
+      "Aunt Zhang: Hello Little Ming!",
+      "",
+      "Little Ming: Hello Aunt!",
+      "",
+      "Aunt Zhang: How old are you?",
+      "",
+      "Little Ming: 8 years old.",
+      "",
+      "Aunt Zhang: How tall are you?",
+      "",
+      "Little Ming: 1.3 meters.",
+      "",
+      "Aunt Zhang: That’s really tall! How much do you weigh?",
+      "",
+      "Little Ming: 30 kilograms.",
+      ""
+    ]
+  }
+}

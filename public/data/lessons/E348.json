@@ -1,0 +1,607 @@
+{
+  "id": "E348",
+  "title": "I Am Nine And You Are Three",
+  "level": "elementary",
+  "date": "2019-08-03",
+  "synopsis": "Why does Little Le say that she’s nine and Paul is three?",
+  "audioUrl": "https://static.duchinese.net/documents/1115/c6bfcc7ae083f0f8cc3b2228182dde4e60464c5b.mp3?1564388409",
+  "series": null,
+  "fullText": {
+    "simplified": "我是九，你是三\n\n小乐：保罗，我是九你是三\n保罗：为什么？\n小乐：九除三等于几？\n保罗：等于三。所以呢？\n小乐：所以，我除了你还是你。",
+    "traditional": "我是九，你是三\n\n小樂：保羅，我是九你是三\n保羅：為什麼？\n小樂：九除三等於幾？\n保羅：等於三。所以呢？\n小樂：所以，我除了你還是你。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Am Nine And You Are Three"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：保罗，我是九你是三",
+      "traditional": "小樂：保羅，我是九你是三",
+      "pinyin": "xiǎo lè bǎo luó wǒ shì jiǔ nǐ shì sān",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Paul, I am nine, and you are three."
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：为什么？",
+      "traditional": "保羅：為什麼？",
+      "pinyin": "bǎo luó wèi shén me",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Why?"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：九除三等于几？",
+      "traditional": "小樂：九除三等於幾？",
+      "pinyin": "xiǎo lè jiǔ chú sān děng yú jǐ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What is nine divided by three?"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：等于三。所以呢？",
+      "traditional": "保羅：等於三。所以呢？",
+      "pinyin": "bǎo luó děng yú sān suǒ yǐ ne",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Three. So?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：所以，我除了你还是你。",
+      "traditional": "小樂：所以，我除了你還是你。",
+      "pinyin": "xiǎo lè suǒ yǐ wǒ chú le nǐ hái shì nǐ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: So, you are my one and only."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "除",
+      "traditional": "除",
+      "pinyin": "chú",
+      "meaning": "to divide\nto perform division",
+      "hsk": 6
+    },
+    {
+      "hanzi": "等于",
+      "traditional": "等於",
+      "pinyin": "děng yú",
+      "meaning": "to equal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "除了",
+      "traditional": "除了",
+      "pinyin": "chú le",
+      "meaning": "apart from (... also...)\nin addition to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "除",
+        "pinyin": "chú",
+        "meaning": "to divide\nto perform division",
+        "tc_hanzi": "除"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "等于",
+        "pinyin": "děng yú",
+        "meaning": "to equal",
+        "tc_hanzi": "等於"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "等于",
+        "pinyin": "děng yú",
+        "meaning": "to equal",
+        "tc_hanzi": "等於"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "chule",
+        "hsk": 3,
+        "hanzi": "除了",
+        "pinyin": "chú le",
+        "meaning": "apart from (... also...)\nin addition to",
+        "tc_hanzi": "除了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Why does Little Le say that she’s nine and Paul is three?",
+    "syllable_times": [
+      0.27,
+      0.59,
+      1.62,
+      1.91,
+      2.35,
+      5.135967671954432,
+      5.135967671954432,
+      5.135967671954432,
+      5.368304846277616,
+      6.47,
+      6.65,
+      6.928017134023778,
+      7.59,
+      7.8,
+      8.019908794394418,
+      10.199615246923276,
+      10.199615246923276,
+      10.199615246923276,
+      10.463333333333333,
+      10.736666666666666,
+      12.720094705468782,
+      12.720094705468782,
+      12.720094705468782,
+      13.11,
+      13.36,
+      13.82,
+      14.02,
+      14.22,
+      16.483531517169162,
+      16.483531517169162,
+      16.483531517169162,
+      16.835,
+      17.242493711453577,
+      18.42181646946672,
+      18.77,
+      19.06,
+      21.114454982417257,
+      21.114454982417257,
+      21.114454982417257,
+      21.465,
+      22.09573943563347,
+      22.36,
+      22.59054715802383,
+      22.78623683222013,
+      23.21,
+      23.525213509506685,
+      23.798895445158028,
+      24.367604,
+      24.367604
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      19,
+      20,
+      24,
+      25,
+      33,
+      34,
+      42,
+      43,
+      54
+    ],
+    "sentence_translations": [
+      "I Am Nine And You Are Three",
+      "",
+      "Little Le: Paul, I am nine, and you are three.",
+      "",
+      "Paul: Why?",
+      "",
+      "Little Le: What is nine divided by three?",
+      "",
+      "Paul: Three. So?",
+      "",
+      "Little Le: So, you are my one and only.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,915 @@
+{
+  "id": "E043",
+  "title": "Chinese Wedding",
+  "level": "intermediate",
+  "date": "2016-08-24",
+  "synopsis": "Getting married in China often requires a lot of money and preparation, but it is all worth it when the red envelopes arrive.",
+  "audioUrl": "https://static.duchinese.net/documents/213/eb1708cf816e2221d56f922d6532ce27a56ab501.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "中国婚礼\n\n   在中国，如果你被邀请去参加婚礼，一定得准备红包。现在红包里的钱数越来越多，婚礼结束以后，新郎新娘差不多能得到几万元的红包！有的人开玩笑说：“我要多结几次婚，这样就能赚很多钱了！”",
+    "traditional": "中國婚禮\n\n   在中國，如果你被邀請去參加婚禮，一定得準備紅包。現在紅包裡的錢數越來越多，婚禮結束以後，新郎新娘差不多能得到幾萬元的紅包！有的人開玩笑說：“我要多結幾次婚，這樣就能賺很多錢了！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n   ",
+      "traditional": "\n\n   ",
+      "pinyin": "",
+      "english": "Chinese Wedding"
+    },
+    {
+      "index": 2,
+      "simplified": "在中国，如果你被邀请去参加婚礼，一定得准备红包。",
+      "traditional": "在中國，如果你被邀請去參加婚禮，一定得準備紅包。",
+      "pinyin": "zài zhōng guó rú guǒ nǐ bèi yāo qǐng qù cān jiā hūn lǐ yí dìng děi zhǔn bèi hóng bāo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "现在红包里的钱数越来越多，",
+      "traditional": "現在紅包裡的錢數越來越多，",
+      "pinyin": "xiàn zài hóng bāo lǐ de qián shù yuè lái yuè duō",
+      "english": "If you are invited to go to a wedding in China you have to prepare a red envelope."
+    },
+    {
+      "index": 4,
+      "simplified": "婚礼结束以后，新郎新娘差不多能得到几万元的红包！",
+      "traditional": "婚禮結束以後，新郎新娘差不多能得到幾萬元的紅包！",
+      "pinyin": "hūn lǐ jié shù yǐ hòu xīn láng xīn niáng chà bu duō néng dé dào jǐ wàn yuán de hóng bāo",
+      "english": "Nowadays the amount of money in the envelope is increasing."
+    },
+    {
+      "index": 5,
+      "simplified": "有的人开玩笑说：“我要多结几次婚，这样就能赚很多钱了！”",
+      "traditional": "有的人開玩笑說：“我要多結幾次婚，這樣就能賺很多錢了！”",
+      "pinyin": "yǒu de rén kāi wán xiào shuō wǒ yào duō jié jǐ cì hūn zhè yàng jiù néng zhuàn hěn duō qián le",
+      "english": "When the wedding is over, the groom and bride can have received almost tens of thousands yuan!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "婚礼",
+      "traditional": "婚禮",
+      "pinyin": "hūn lǐ",
+      "meaning": "wedding ceremony\nwedding",
+      "hsk": 5
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "邀请",
+      "traditional": "邀請",
+      "pinyin": "yāo qǐng",
+      "meaning": "to invite\ninvitation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "参加",
+      "traditional": "參加",
+      "pinyin": "cān jiā",
+      "meaning": "to participate\nto join",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "certainly\nnecessarily",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "děi",
+      "meaning": "to have to\nmust\nto need to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "meaning": "preparation\nto prepare\nto be about to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "红包",
+      "traditional": "紅包",
+      "pinyin": "hóng bāo",
+      "meaning": "money wrapped in red as a gift\nred envelope",
+      "hsk": null
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "数",
+      "traditional": "數",
+      "pinyin": "shù",
+      "meaning": "number\nfigure\ncount",
+      "hsk": 5
+    },
+    {
+      "hanzi": "越来越",
+      "traditional": "越來越",
+      "pinyin": "yuè lái yuè",
+      "meaning": "more and more",
+      "hsk": 3
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "结束",
+      "traditional": "結束",
+      "pinyin": "jié shù",
+      "meaning": "to finish\nto end",
+      "hsk": 3
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "新郎",
+      "traditional": "新郎",
+      "pinyin": "xīn láng",
+      "meaning": "bridegroom",
+      "hsk": 6
+    },
+    {
+      "hanzi": "新娘",
+      "traditional": "新娘",
+      "pinyin": "xīn niáng",
+      "meaning": "bride",
+      "hsk": 6
+    },
+    {
+      "hanzi": "差不多",
+      "traditional": "差不多",
+      "pinyin": "chà bu duō",
+      "meaning": "similar\nabout the same",
+      "hsk": 4
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得到",
+      "traditional": "得到",
+      "pinyin": "dé dào",
+      "meaning": "to get\nto obtain\nto receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "万",
+      "traditional": "萬",
+      "pinyin": "wàn",
+      "meaning": "ten thousand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "meaning": "Chinese yuan (currency)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有的",
+      "traditional": "有的",
+      "pinyin": "yǒu de",
+      "meaning": "(there are) some\nsome (exist)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开玩笑",
+      "traditional": "開玩笑",
+      "pinyin": "kāi wán xiào",
+      "meaning": "to joke",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "结",
+      "traditional": "結",
+      "pinyin": "jié",
+      "meaning": "to tie\nto bind",
+      "hsk": null
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "婚",
+      "traditional": "婚",
+      "pinyin": "hūn",
+      "meaning": "marriage\nwedding",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "meaning": "this kind of\nlike this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "赚",
+      "traditional": "賺",
+      "pinyin": "zhuàn",
+      "meaning": "to earn\nto make a profit",
+      "hsk": 4
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "婚礼",
+        "pinyin": "hūn lǐ",
+        "meaning": "wedding ceremony\nwedding",
+        "tc_hanzi": "婚禮"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "   ",
+        "tc_hanzi": "   "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "bei-passive",
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "邀请",
+        "pinyin": "yāo qǐng",
+        "meaning": "to invite\ninvitation",
+        "tc_hanzi": "邀請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "参加",
+        "pinyin": "cān jiā",
+        "meaning": "to participate\nto join",
+        "tc_hanzi": "參加"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "婚礼",
+        "pinyin": "hūn lǐ",
+        "meaning": "wedding ceremony\nwedding",
+        "tc_hanzi": "婚禮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "děi",
+        "meaning": "to have to\nmust\nto need to",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "准备",
+        "pinyin": "zhǔn bèi",
+        "meaning": "preparation\nto prepare\nto be about to",
+        "tc_hanzi": "準備"
+      },
+      {
+        "hanzi": "红包",
+        "pinyin": "hóng bāo",
+        "meaning": "money wrapped in red as a gift\nred envelope",
+        "tc_hanzi": "紅包"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hanzi": "红包",
+        "pinyin": "hóng bāo",
+        "meaning": "money wrapped in red as a gift\nred envelope",
+        "tc_hanzi": "紅包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数",
+        "pinyin": "shù",
+        "meaning": "number\nfigure\ncount",
+        "tc_hanzi": "數"
+      },
+      {
+        "g": "yuelaiyue",
+        "hsk": 3,
+        "hanzi": "越来越",
+        "pinyin": "yuè lái yuè",
+        "meaning": "more and more",
+        "tc_hanzi": "越來越"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "婚礼",
+        "pinyin": "hūn lǐ",
+        "meaning": "wedding ceremony\nwedding",
+        "tc_hanzi": "婚禮"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "结束",
+        "pinyin": "jié shù",
+        "meaning": "to finish\nto end",
+        "tc_hanzi": "結束"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "新郎",
+        "pinyin": "xīn láng",
+        "meaning": "bridegroom",
+        "tc_hanzi": "新郎"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "新娘",
+        "pinyin": "xīn niáng",
+        "meaning": "bride",
+        "tc_hanzi": "新娘"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "差不多",
+        "pinyin": "chà bu duō",
+        "meaning": "similar\nabout the same",
+        "tc_hanzi": "差不多"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 4,
+        "hanzi": "得到",
+        "pinyin": "dé dào",
+        "meaning": "to get\nto obtain\nto receive",
+        "tc_hanzi": "得到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "红包",
+        "pinyin": "hóng bāo",
+        "meaning": "money wrapped in red as a gift\nred envelope",
+        "tc_hanzi": "紅包"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有的",
+        "pinyin": "yǒu de",
+        "meaning": "(there are) some\nsome (exist)",
+        "tc_hanzi": "有的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "开玩笑",
+        "pinyin": "kāi wán xiào",
+        "meaning": "to joke",
+        "tc_hanzi": "開玩笑"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "结",
+        "pinyin": "jié",
+        "meaning": "to tie\nto bind",
+        "tc_hanzi": "結"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "ci",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "婚",
+        "pinyin": "hūn",
+        "meaning": "marriage\nwedding",
+        "tc_hanzi": "婚"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "赚",
+        "pinyin": "zhuàn",
+        "meaning": "to earn\nto make a profit",
+        "tc_hanzi": "賺"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Getting married in China often requires a lot of money and preparation, but it is all worth it when the red envelopes arrive.",
+    "syllable_times": [
+      0.3174603174603174,
+      0.6802721088435374,
+      0.9523809523809523,
+      2.35827664399093,
+      2.675736961451247,
+      2.993197278911565,
+      4.036281179138322,
+      4.263038548752834,
+      4.625850340136054,
+      4.852607709750567,
+      5.071636698684578,
+      5.306122448979592,
+      5.714285714285714,
+      6.031746031746032,
+      6.213151927437642,
+      6.530612244897959,
+      6.757369614512472,
+      7.755102040816326,
+      7.981859410430839,
+      8.344671201814059,
+      8.616780045351474,
+      8.88888888888889,
+      9.206349206349206,
+      9.45024701471412,
+      10.79365079365079,
+      11.11111111111111,
+      11.79138321995465,
+      12.06349206349206,
+      12.33560090702948,
+      12.47165532879819,
+      12.60770975056689,
+      12.98308277618599,
+      13.42403628117914,
+      13.62853723406974,
+      13.87755102040816,
+      14.10430839002268,
+      15.55555555555556,
+      15.73696145124716,
+      16.00907029478458,
+      16.281179138322,
+      16.50793650793651,
+      16.71313804333179,
+      17.59637188208617,
+      17.86848072562358,
+      18.140589569161,
+      18.45804988662131,
+      18.95691609977324,
+      19.25292071973836,
+      19.36507936507936,
+      19.70556271157984,
+      20,
+      20.22675736961451,
+      20.54421768707483,
+      20.81632653061224,
+      21.13378684807256,
+      21.31519274376417,
+      21.54195011337869,
+      21.7687074829932,
+      23.12925170068027,
+      23.31065759637188,
+      23.51424560093623,
+      23.79887985473536,
+      24.08163265306122,
+      24.24425760480544,
+      24.53514739229025,
+      25.71428571428572,
+      25.88460312627188,
+      26.12244897959184,
+      26.39455782312925,
+      26.71201814058957,
+      26.88011430805457,
+      27.21088435374149,
+      28.20861678004535,
+      28.49574368983536,
+      28.75283446712018,
+      28.97959183673469,
+      29.1609977324263,
+      29.53461885146078,
+      29.84126984126984,
+      30.11337868480726,
+      30.43083900226758,
+      31.16038548752834,
+      31.16038548752834
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      21,
+      30,
+      45
+    ],
+    "sentence_translations": [
+      "Chinese Wedding",
+      "",
+      "If you are invited to go to a wedding in China you have to prepare a red envelope.",
+      "Nowadays the amount of money in the envelope is increasing.",
+      "When the wedding is over, the groom and bride can have received almost tens of thousands yuan!",
+      "Some people make jokes: “I should get married several times, that way I will receive a lot of money!\""
+    ]
+  }
+}

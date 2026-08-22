@@ -1,0 +1,767 @@
+{
+  "id": "E219",
+  "title": "Paul’s Wi-Fi Password",
+  "level": "newbie",
+  "date": "2018-05-17",
+  "synopsis": "Paul’s Wi-Fi password is quite funny.",
+  "audioUrl": "https://static.duchinese.net/documents/736/3906f1bdf3bb3155ba4e86e16bb095a8f3f03ea9.mp3?1525687527",
+  "series": null,
+  "fullText": {
+    "simplified": "你家的Wi-Fi密码是多少？\n\n小乐：保罗，你家的Wi-Fi密码是多少？\n保罗：“不知道”。\n小乐：你怎么会不知道自己的Wi-Fi密码?\n保罗：密码就是“不知道”的拼音，哈哈！是不是很好玩儿？\n小乐：一点都不好玩……",
+    "traditional": "你家的Wi-Fi密碼是多少？\n\n小樂：保羅，你家的Wi-Fi密碼是多少？\n保羅：“不知道”。\n小樂：你怎麼會不知道自己的Wi-Fi密碼?\n保羅：密碼就是“不知道”的拼音，哈哈！是不是很好玩兒？\n小樂：一點都不好玩……"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What is the Wi-Fi password in your home?"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：保罗，你家的Wi-Fi密码是多少？",
+      "traditional": "小樂：保羅，你家的Wi-Fi密碼是多少？",
+      "pinyin": "xiǎo lè bǎo luó nǐ jiā de 2 mì mǎ shì duō shao",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Paul, what’s the Wi-Fi password in your home?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：“不知道”。",
+      "traditional": "保羅：“不知道”。",
+      "pinyin": "bǎo luó bù zhī dào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: “I don’t know”."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：你怎么会不知道自己的Wi-Fi密码?",
+      "traditional": "小樂：你怎麼會不知道自己的Wi-Fi密碼?",
+      "pinyin": "xiǎo lè nǐ zěn me huì bù zhī dào zì jǐ de 2 mì mǎ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: How can you not know your own Wi-Fi password?"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：密码就是“不知道”的拼音，哈哈！是不是很好玩儿？",
+      "traditional": "保羅：密碼就是“不知道”的拼音，哈哈！是不是很好玩兒？",
+      "pinyin": "bǎo luó mì mǎ jiù shì bù zhī dào de pīn yīn hā hā shì bú shì hěn hǎo wán‘r",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: The password is the pinyin for “buzhidao”, haha! Isn’t it funny?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：一点都不好玩……",
+      "traditional": "小樂：一點都不好玩……",
+      "pinyin": "xiǎo lè yì diǎn dōu bù hǎo wán",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "密码",
+      "traditional": "密碼",
+      "pinyin": "mì mǎ",
+      "meaning": "code\npassword",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "拼音",
+      "traditional": "拼音",
+      "pinyin": "pīn yīn",
+      "meaning": "pinyin (Chinese romanization)\nphonetic writing",
+      "hsk": 5
+    },
+    {
+      "hanzi": "哈哈",
+      "traditional": "哈哈",
+      "pinyin": "hā hā",
+      "meaning": "(onom.) laughing out loud",
+      "hsk": null
+    },
+    {
+      "hanzi": "不是",
+      "traditional": "不是",
+      "pinyin": "bú shì",
+      "meaning": "is not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好玩儿",
+      "traditional": "好玩兒",
+      "pinyin": "hǎo wán‘r",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "(not) at all",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好玩",
+      "traditional": "好玩",
+      "pinyin": "hǎo wán",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "Wi-Fi",
+        "pinyin": "2",
+        "tc_hanzi": "Wi-Fi"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "密码",
+        "pinyin": "mì mǎ",
+        "meaning": "code\npassword",
+        "tc_hanzi": "密碼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "Wi-Fi",
+        "pinyin": "2",
+        "tc_hanzi": "Wi-Fi"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "密码",
+        "pinyin": "mì mǎ",
+        "meaning": "code\npassword",
+        "tc_hanzi": "密碼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "Wi-Fi",
+        "pinyin": "2",
+        "tc_hanzi": "Wi-Fi"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "密码",
+        "pinyin": "mì mǎ",
+        "meaning": "code\npassword",
+        "tc_hanzi": "密碼"
+      },
+      {
+        "hanzi": "?",
+        "tc_hanzi": "?"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "密码",
+        "pinyin": "mì mǎ",
+        "meaning": "code\npassword",
+        "tc_hanzi": "密碼"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "拼音",
+        "pinyin": "pīn yīn",
+        "meaning": "pinyin (Chinese romanization)\nphonetic writing",
+        "tc_hanzi": "拼音"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不是",
+        "pinyin": "bú shì",
+        "meaning": "is not",
+        "tc_hanzi": "不是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "好玩儿",
+        "pinyin": "hǎo wán‘r",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(not) at all",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "好玩",
+        "pinyin": "hǎo wán",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul’s Wi-Fi password is quite funny.",
+    "syllable_times": [
+      0.3700894988186545,
+      0.6802721088435374,
+      0.9523809523809523,
+      1.3151927437641724,
+      1.6326530612244898,
+      1.8915685495175676,
+      2.17687074829932,
+      2.7210884353741496,
+      3.031880230863264,
+      5.579524584919745,
+      5.579524584919745,
+      5.579524584919745,
+      5.900118158189975,
+      7.029478458049887,
+      7.392290249433106,
+      7.709750566893424,
+      7.981859410430839,
+      8.344671201814059,
+      8.662131519274377,
+      8.925839093036023,
+      9.206349206349206,
+      9.705215419501133,
+      10.113378684807257,
+      12.73516220349251,
+      12.73516220349251,
+      12.73516220349251,
+      13.151927437641723,
+      13.605442176870747,
+      15.82079226218947,
+      15.82079226218947,
+      15.82079226218947,
+      16.281179138321995,
+      16.53438437054383,
+      16.73469387755102,
+      17.09750566893424,
+      17.369614512471657,
+      17.596371882086167,
+      18.095238095238095,
+      18.367346938775512,
+      18.54875283446712,
+      18.775510204081634,
+      19.09297052154195,
+      19.365079365079364,
+      19.60078324599279,
+      22.12618323601587,
+      22.12618323601587,
+      22.12618323601587,
+      22.403628117913833,
+      23.038548752834465,
+      23.26530612244898,
+      23.854875283446713,
+      24.308390022675738,
+      24.625850340136054,
+      24.988662131519273,
+      25.4421768707483,
+      25.80498866213152,
+      26.666666666666668,
+      26.89342403628118,
+      27.392290249433106,
+      27.755102040816325,
+      27.891156462585034,
+      28.299319727891156,
+      28.616780045351472,
+      28.843537414965986,
+      30.970269719029176,
+      30.970269719029176,
+      30.970269719029176,
+      31.337868480725625,
+      31.60997732426304,
+      31.882086167800452,
+      32.19954648526077,
+      32.471655328798185,
+      33.16907029478458,
+      33.16907029478458
+    ],
+    "sentence_indices": [
+      8,
+      10,
+      22,
+      23,
+      29,
+      30,
+      42,
+      43,
+      62,
+      63
+    ],
+    "sentence_translations": [
+      "What is the Wi-Fi password in your home?",
+      "",
+      "Little Le: Paul, what’s the Wi-Fi password in your home?",
+      "",
+      "Paul: “I don’t know”.",
+      "",
+      "Little Le: How can you not know your own Wi-Fi password?",
+      "",
+      "Paul: The password is the pinyin for “buzhidao”, haha! Isn’t it funny?",
+      "",
+      "Little Le: It’s not funny at all…"
+    ]
+  }
+}

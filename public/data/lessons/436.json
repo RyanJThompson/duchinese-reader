@@ -1,0 +1,932 @@
+{
+  "id": "436",
+  "title": "It's Snowing",
+  "level": "newbie",
+  "date": "2017-12-31",
+  "synopsis": "Lili sees snow for the first time.",
+  "audioUrl": "https://static.duchinese.net/documents/615/06298e3875e5ba57922737b659eeebd8f6d8b987.mp3?1554973320",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 28,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "下雪了\n\n本：下雪了！\n丽丽：什么？下雪了？我要去看看。\n本：下雪有什么好看的？\n丽丽：哇！！！真的下雪了！这是我第一次看到雪！太美了！\n本：第一次？你们那儿不下雪吗？\n丽丽：我家在南方，我们那儿不下雪。",
+    "traditional": "下雪了\n\n本：下雪了！\n麗麗：什麼？下雪了？我要去看看。\n本：下雪有什麼好看的？\n麗麗：哇！！！真的下雪了！這是我第一次看到雪！太美了！\n本：第一次？你們那兒不下雪嗎？\n麗麗：我家在南方，我們那兒不下雪。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "It's Snowing"
+    },
+    {
+      "index": 2,
+      "simplified": "本：下雪了！",
+      "traditional": "本：下雪了！",
+      "pinyin": "běn xià xuě le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: It's snowing!"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：什么？下雪了？我要去看看。",
+      "traditional": "麗麗：什麼？下雪了？我要去看看。",
+      "pinyin": "lì lì shén me xià xuě le wǒ yào qù kàn kan",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: What? Snowing? I have to go take a look."
+    },
+    {
+      "index": 6,
+      "simplified": "本：下雪有什么好看的？",
+      "traditional": "本：下雪有什麼好看的？",
+      "pinyin": "běn xià xuě yǒu shén me hǎo kàn de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What is there to see about snow?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：哇！！！真的下雪了！这是我第一次看到雪！太美了！",
+      "traditional": "麗麗：哇！！！真的下雪了！這是我第一次看到雪！太美了！",
+      "pinyin": "lì lì wā zhēn de xià xuě le zhè shì wǒ dì yī cì kàn dào xuě tài měi le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Wow!!! It's really snowing! This is the first time I see snow! It's so beautiful!"
+    },
+    {
+      "index": 10,
+      "simplified": "本：第一次？你们那儿不下雪吗？",
+      "traditional": "本：第一次？你們那兒不下雪嗎？",
+      "pinyin": "běn dì yī cì nǐ men nà'r bú xià xuě ma",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: The first time? You don't have snow where you're from?"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：我家在南方，我们那儿不下雪。",
+      "traditional": "麗麗：我家在南方，我們那兒不下雪。",
+      "pinyin": "lì lì wǒ jiā zài nán fāng wǒ men nà'r bú xià xuě",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: My home is in the south. It doesn't snow over there."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "下雪",
+      "traditional": "下雪",
+      "pinyin": "xià xuě",
+      "meaning": "to snow",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to look at\nto watch",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哇",
+      "traditional": "哇",
+      "pinyin": "wā",
+      "meaning": "wow",
+      "hsk": 6
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "雪",
+      "traditional": "雪",
+      "pinyin": "xuě",
+      "meaning": "snow\nsnowfall",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美",
+      "traditional": "美",
+      "pinyin": "měi",
+      "meaning": "beautiful\ngood",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "南方",
+      "traditional": "南方",
+      "pinyin": "nán fāng",
+      "meaning": "south\nthe southern part of the country",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to look at\nto watch",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哇",
+        "pinyin": "wā",
+        "meaning": "wow",
+        "tc_hanzi": "哇"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "雪",
+        "pinyin": "xuě",
+        "meaning": "snow\nsnowfall",
+        "tc_hanzi": "雪"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "美",
+        "pinyin": "měi",
+        "meaning": "beautiful\ngood",
+        "tc_hanzi": "美"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "南方",
+        "pinyin": "nán fāng",
+        "meaning": "south\nthe southern part of the country",
+        "tc_hanzi": "南方"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili sees snow for the first time.",
+    "syllable_times": [
+      0.72,
+      1.43,
+      4.238885404867042,
+      4.238885404867042,
+      4.760534405585128,
+      5.06,
+      7.769805938005447,
+      7.769805938005447,
+      7.769805938005447,
+      8.137830725536515,
+      9.01,
+      9.386891261647916,
+      9.83,
+      10.95,
+      11.2,
+      11.45,
+      11.72,
+      12.11,
+      13.729040360967002,
+      13.729040360967002,
+      14.1,
+      14.71,
+      14.97,
+      15.23,
+      15.49,
+      15.795000000000002,
+      16.1,
+      17.908744119692795,
+      17.908744119692795,
+      17.908744119692795,
+      19.5,
+      20.019400185738718,
+      20.3,
+      20.705,
+      21.11,
+      22.4,
+      22.674999999999997,
+      22.95,
+      23.51,
+      23.836666666666666,
+      24.163333333333334,
+      24.49,
+      24.755,
+      25.08031688360215,
+      26.3,
+      26.85,
+      27.33,
+      29.59959599595222,
+      29.59959599595222,
+      29.89,
+      30.2,
+      31.28525406527332,
+      31.465,
+      31.63,
+      32.25,
+      32.515,
+      32.83717756146535,
+      33.13348447092555,
+      34.49816184568116,
+      34.49816184568116,
+      34.49816184568116,
+      34.91,
+      35.34,
+      35.70666666666667,
+      36.07333333333333,
+      37.03,
+      37.265,
+      37.582693074578195,
+      38.15,
+      38.45371755667056,
+      38.83,
+      39.781406,
+      39.781406
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      9,
+      10,
+      22,
+      23,
+      31,
+      32,
+      55,
+      56,
+      68,
+      69,
+      81
+    ],
+    "sentence_translations": [
+      "It's Snowing",
+      "",
+      "Ben: It's snowing!",
+      "",
+      "Lili: What? Snowing? I have to go take a look.",
+      "",
+      "Ben: What is there to see about snow?",
+      "",
+      "Lili: Wow!!! It's really snowing! This is the first time I see snow! It's so beautiful!",
+      "",
+      "Ben: The first time? You don't have snow where you're from?",
+      "",
+      "Lili: My home is in the south. It doesn't snow over there.",
+      ""
+    ]
+  }
+}

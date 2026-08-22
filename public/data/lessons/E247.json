@@ -1,0 +1,519 @@
+{
+  "id": "E247",
+  "title": "I Want to Sit Over There",
+  "level": "newbie",
+  "date": "2018-08-16",
+  "synopsis": "Why does Little Le want to sit over there?",
+  "audioUrl": "https://static.duchinese.net/documents/817/130b1ebb6a642878ce7372e0d466c2d927000f9c.mp3?1534162993",
+  "series": null,
+  "fullText": {
+    "simplified": "我想坐那儿\n\n（在饭店）\n保罗：小乐，我们坐这儿吧。\n小乐：我想坐那儿。\n保罗：为什么？\n小乐：这儿空调太冷了。",
+    "traditional": "我想坐那兒\n\n（在飯店）\n保羅：小樂，我們坐這兒吧。\n小樂：我想坐那兒。\n保羅：為什麼？\n小樂：這兒空調太冷了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Want to Sit Over There"
+    },
+    {
+      "index": 2,
+      "simplified": "（在饭店）",
+      "traditional": "（在飯店）",
+      "pinyin": "zài fàn diàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(At the restaurant)"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：小乐，我们坐这儿吧。",
+      "traditional": "保羅：小樂，我們坐這兒吧。",
+      "pinyin": "bǎo luó xiǎo lè wǒ men zuò zhè‘r ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Little Le, let’s sit here."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：我想坐那儿。",
+      "traditional": "小樂：我想坐那兒。",
+      "pinyin": "xiǎo lè wǒ xiǎng zuò nà'r",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: I want to sit over there."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：为什么？",
+      "traditional": "保羅：為什麼？",
+      "pinyin": "bǎo luó wèi shén me",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Why?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：这儿空调太冷了。",
+      "traditional": "小樂：這兒空調太冷了。",
+      "pinyin": "xiǎo lè zhè‘r kōng tiáo tài lěng le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: The air conditioner here is too cold."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "空调",
+      "traditional": "空調",
+      "pinyin": "kōng tiáo",
+      "meaning": "air conditioning",
+      "hsk": 3
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "空调",
+        "pinyin": "kōng tiáo",
+        "meaning": "air conditioning",
+        "tc_hanzi": "空調"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Why does Little Le want to sit over there?",
+    "syllable_times": [
+      0.35348108101503123,
+      0.9070294784580499,
+      1.3151927437641724,
+      3.4467120181405897,
+      4.014145524074722,
+      4.399092970521542,
+      5.960131824049832,
+      5.960131824049832,
+      5.960131824049832,
+      6.303854875283447,
+      7.346938775510204,
+      7.619047619047619,
+      7.891156462585034,
+      8.117913832199546,
+      8.344671201814059,
+      9.804476939241534,
+      9.804476939241534,
+      9.804476939241534,
+      10.129133192423199,
+      10.657596371882086,
+      11.065759637188208,
+      12.6199974302269,
+      12.6199974302269,
+      12.6199974302269,
+      12.92517006802721,
+      13.197278911564625,
+      14.789930469522783,
+      14.789930469522783,
+      14.789930469522783,
+      15.419501133786849,
+      15.792324943900375,
+      16.3265306122449,
+      16.825396825396826,
+      17.188208616780045,
+      17.80077097505669,
+      17.80077097505669
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      10,
+      11,
+      20,
+      21,
+      28,
+      29,
+      33,
+      34,
+      42
+    ],
+    "sentence_translations": [
+      "I Want to Sit Over There",
+      "",
+      "(At the restaurant)",
+      "",
+      "Paul: Little Le, let’s sit here.",
+      "",
+      "Little Le: I want to sit over there.",
+      "",
+      "Paul: Why?",
+      "",
+      "Little Le: The air conditioner here is too cold.",
+      ""
+    ]
+  }
+}

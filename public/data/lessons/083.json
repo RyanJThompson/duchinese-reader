@@ -1,0 +1,802 @@
+{
+  "id": "083",
+  "title": "Withdrawing Money",
+  "level": "intermediate",
+  "date": "2016-03-01",
+  "synopsis": "Today’s lesson is a funny story about a man being laughed at when he tries to withdraw money at an ATM. But why is he being laughed at?",
+  "audioUrl": "https://static.duchinese.net/documents/75/c44ca003e2da06f22bee1a1dd3a6c58ac86db333.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "取钱\n\n    昨天，我去ATM取钱。站在我后面的人一直在看我。\n    我很生气地问他：“你看什么看呀！”\n    后面的人笑着说：“我只是想看看你不用银行卡，用身份证能取出什么钱来。”",
+    "traditional": "取錢\n\n    昨天，我去ATM取錢。站在我後面的人一直在看我。\n    我很生氣地問他：“你看什麼看呀！”\n    後面的人笑著說：“我只是想看看你不用銀行卡，用身份證能取出什麼錢來。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Withdrawing Money"
+    },
+    {
+      "index": 2,
+      "simplified": "昨天，我去ATM取钱。",
+      "traditional": "昨天，我去ATM取錢。",
+      "pinyin": "zuó tiān wǒ qù 3 qǔ qián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "站在我后面的人一直在看我。",
+      "traditional": "站在我後面的人一直在看我。",
+      "pinyin": "zhàn zài wǒ hòu miàn de rén yì zhí zài kàn wǒ",
+      "english": "Yesterday, I went to the ATM to withdraw money."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Standing behind me was a man who was constantly looking at me."
+    },
+    {
+      "index": 5,
+      "simplified": "我很生气地问他：“你看什么看呀！”",
+      "traditional": "我很生氣地問他：“你看什麼看呀！”",
+      "pinyin": "wǒ hěn shēng qì de wèn tā nǐ kàn shén me kàn ya",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "I asked him angrily: “What are you looking at!”"
+    },
+    {
+      "index": 7,
+      "simplified": "后面的人笑着说：“我只是想看看你不用银行卡，用身份证能取出什么钱来。”",
+      "traditional": "後面的人笑著說：“我只是想看看你不用銀行卡，用身份證能取出什麼錢來。”",
+      "pinyin": "hòu miàn de rén xiào zhe shuō wǒ zhǐ shì xiǎng kàn kan nǐ bú yòng yín háng kǎ yòng shēn fèn zhèng néng qǔ chū shén me qián lái",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "取钱",
+      "traditional": "取錢",
+      "pinyin": "qǔ qián",
+      "meaning": "withdraw money",
+      "hsk": null
+    },
+    {
+      "hanzi": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "meaning": "yesterday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "meaning": "to stand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后面",
+      "traditional": "後面",
+      "pinyin": "hòu miàn",
+      "meaning": "back\nbehind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一直",
+      "traditional": "一直",
+      "pinyin": "yì zhí",
+      "meaning": "continuously\nall along",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "meaning": "laugh\nsmile",
+      "hsk": 2
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只是",
+      "traditional": "只是",
+      "pinyin": "zhǐ shì",
+      "meaning": "merely\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "银行卡",
+      "traditional": "銀行卡",
+      "pinyin": "yín háng kǎ",
+      "meaning": "bank card\nATM card",
+      "hsk": 3
+    },
+    {
+      "hanzi": "身份证",
+      "traditional": "身份證",
+      "pinyin": "shēn fèn zhèng",
+      "meaning": "identity card\nID",
+      "hsk": 5
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "取出",
+      "traditional": "取出",
+      "pinyin": "qǔ chū",
+      "meaning": "to take out\nto withdraw",
+      "hsk": 4
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "取钱",
+        "pinyin": "qǔ qián",
+        "meaning": "withdraw money",
+        "tc_hanzi": "取錢"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "ATM",
+        "pinyin": "3",
+        "tc_hanzi": "ATM"
+      },
+      {
+        "hanzi": "取钱",
+        "pinyin": "qǔ qián",
+        "meaning": "withdraw money",
+        "tc_hanzi": "取錢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "站",
+        "pinyin": "zhàn",
+        "meaning": "to stand",
+        "tc_hanzi": "站"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "back\nbehind",
+        "tc_hanzi": "後面"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一直",
+        "pinyin": "yì zhí",
+        "meaning": "continuously\nall along",
+        "tc_hanzi": "一直"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "back\nbehind",
+        "tc_hanzi": "後面"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只是",
+        "pinyin": "zhǐ shì",
+        "meaning": "merely\nonly",
+        "tc_hanzi": "只是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "银行卡",
+        "pinyin": "yín háng kǎ",
+        "meaning": "bank card\nATM card",
+        "tc_hanzi": "銀行卡"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "身份证",
+        "pinyin": "shēn fèn zhèng",
+        "meaning": "identity card\nID",
+        "tc_hanzi": "身份證"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取出",
+        "pinyin": "qǔ chū",
+        "meaning": "to take out\nto withdraw",
+        "tc_hanzi": "取出"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Today’s lesson is a funny story about a man being laughed at when he tries to withdraw money at an ATM. But why is he being laughed at?",
+    "syllable_times": [
+      0.4081632653061225,
+      1.950113378684807,
+      2.448979591836735,
+      3.356009070294784,
+      3.6281179138322,
+      4.036281179138322,
+      4.308390022675737,
+      4.580498866213152,
+      5.124716553287982,
+      5.442176870748299,
+      6.666666666666667,
+      6.984126984126984,
+      7.392290249433106,
+      7.709750566893424,
+      7.981859410430839,
+      8.208616780045352,
+      8.435374149659864,
+      8.979591836734693,
+      9.387755102040817,
+      9.795918367346939,
+      10.06802721088435,
+      10.43083900226757,
+      11.70068027210884,
+      12.06349206349206,
+      12.33560090702948,
+      12.6530612244898,
+      13.01587301587302,
+      13.24263038548753,
+      13.51473922902494,
+      14.5578231292517,
+      14.92063492063492,
+      15.32879818594104,
+      15.55555555555556,
+      15.73696145124716,
+      16.14512471655329,
+      17.32426303854875,
+      17.64172335600907,
+      17.91383219954648,
+      18.140589569161,
+      18.54875283446712,
+      19.00226757369614,
+      19.18367346938776,
+      20.58956916099773,
+      20.99773242630386,
+      21.24980383190973,
+      21.52223721437011,
+      21.95011337868481,
+      22.35827664399093,
+      23.21995464852608,
+      23.5827664399093,
+      23.85487528344671,
+      24.17233560090703,
+      24.44444444444444,
+      24.67120181405896,
+      25.80498866213152,
+      26.12244897959184,
+      26.53061224489796,
+      26.80272108843537,
+      27.39229024943311,
+      27.66439909297052,
+      28.0719897843551,
+      28.39002267573696,
+      28.80983019518531,
+      29.0702947845805,
+      29.56916099773242,
+      30.28548752834467,
+      30.2855110168457
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      11,
+      22,
+      24,
+      37,
+      39
+    ],
+    "sentence_translations": [
+      "Withdrawing Money",
+      "",
+      "Yesterday, I went to the ATM to withdraw money.",
+      "Standing behind me was a man who was constantly looking at me.",
+      "",
+      "I asked him angrily: “What are you looking at!”",
+      "",
+      "The man behind me said laughing: “I just want to see what money you can withdraw using your ID card instead of your ATM card.”"
+    ]
+  }
+}

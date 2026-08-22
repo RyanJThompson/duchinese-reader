@@ -1,0 +1,2878 @@
+{
+  "id": "C007",
+  "title": "Guzheng: Chinese Zither",
+  "level": "master",
+  "date": "2018-06-12",
+  "synopsis": "Learn about the classic Chinese plucked instrument Guzheng.",
+  "audioUrl": "https://static.duchinese.net/documents/762/4cfca8f364e0867fb96618aeadf4f8fe3982c922.mp3?1528361760",
+  "series": null,
+  "fullText": {
+    "simplified": "古筝\n\n    古筝是中国传统乐器的一种，通过用手指划过琴弦来进行弹奏。它是能够代表中国特色的民族乐器之一。古筝能够演奏出非常动人的音乐，而且演奏形式多样。古筝表演富有感染力，因此深受中国人的欢迎与喜爱。\n    早在战国时代，古筝就开始在中国流传开来。如今这种乐器已经有2500 年以上的历史了。古筝既可以用于独奏、重奏，也可用来歌舞、戏曲伴奏，素有“东方钢琴”之称。古筝常见的演奏手法是通过右手的拇指、食指、中指和无名指拨弦，演奏出旋律、节奏。而左手则用于控制弦的张力和弦音的变化，从而调整音高，完善旋律。\n    古筝音乐在古代被广泛演奏，深受来自不同阶层人们的欢迎与喜爱，是一种通俗的艺术。到了现在，很多文艺演出也经常出现不同形式的古筝演奏。许多人受到古筝感染，都开始纷纷学习弹奏古筝，从而让自己的生活变得更加丰富多彩。",
+    "traditional": "古箏\n\n    古箏是中國傳統樂器的一種，通過用手指劃過琴弦來進行彈奏。它是能夠代表中國特色的民族樂器之一。古箏能夠演奏出非常動人的音樂，而且演奏形式多樣。古箏表演富有感染力，因此深受中國人的歡迎與喜愛。\n    早在戰國時代，古箏就開始在中國流傳開來。如今這種樂器已經有2500 年以上的歷史了。古箏既可以用于獨奏、重奏，也可用來歌舞、戲曲伴奏，素有“東方鋼琴”之稱。古箏常見的演奏手法是通過右手的拇指、食指、中指和無名指撥弦，演奏出旋律、節奏。而左手則用于控制弦的張力和弦音的變化，從而調整音高，完善旋律。\n    古箏音樂在古代被廣泛演奏，深受來自不同階層人們的歡迎與喜愛，是一種通俗的藝術。到了現在，很多文藝演出也經常出現不同形式的古箏演奏。許多人受到古箏感染，都開始紛紛學習彈奏古箏，從而讓自己的生活變得更加豐富多彩。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Chinese Zither"
+    },
+    {
+      "index": 2,
+      "simplified": "古筝是中国传统乐器的一种，通过用手指划过琴弦来进行弹奏。",
+      "traditional": "古箏是中國傳統樂器的一種，通過用手指劃過琴弦來進行彈奏。",
+      "pinyin": "gǔ zhēng shì zhōng guó chuán tǒng yuè qì de yì zhǒng tōng guò yòng shǒu zhǐ huá guò qín xián lái jìn xíng tán zòu",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "它是能够代表中国特色的民族乐器之一。",
+      "traditional": "它是能夠代表中國特色的民族樂器之一。",
+      "pinyin": "tā shì néng gòu dài biǎo zhōng guó tè sè de mín zú yuè qì zhī yī",
+      "english": "The zither is one of China’s traditional instruments, and is played by running your fingers over the strings."
+    },
+    {
+      "index": 4,
+      "simplified": "古筝能够演奏出非常动人的音乐，而且演奏形式多样。",
+      "traditional": "古箏能夠演奏出非常動人的音樂，而且演奏形式多樣。",
+      "pinyin": "gǔ zhēng néng gòu yǎn zòu chū fēi cháng dòng rén de yīn yuè ér qiě yǎn zòu xíng shì duō yàng",
+      "english": "It is one of the national instruments which represent China’s cultural characteristics."
+    },
+    {
+      "index": 5,
+      "simplified": "古筝表演富有感染力，因此深受中国人的欢迎与喜爱。",
+      "traditional": "古箏表演富有感染力，因此深受中國人的歡迎與喜愛。",
+      "pinyin": "gǔ zhēng biǎo yǎn fù yǒu gǎn rǎn lì yīn cǐ shēn shòu zhōng guó rén de huān yíng yǔ xǐ ài",
+      "english": "The zither can produce a beautiful sound, with a wide range of performance styles."
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "A zither performance is very expressive, and thus popular and deeply loved among Chinese people."
+    },
+    {
+      "index": 7,
+      "simplified": "早在战国时代，古筝就开始在中国流传开来。",
+      "traditional": "早在戰國時代，古箏就開始在中國流傳開來。",
+      "pinyin": "zǎo zài zhàn guó shí dài gǔ zhēng jiù kāi shǐ zài zhōng guó liú chuán kāi lái",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "如今这种乐器已经有2500 年以上的历史了。",
+      "traditional": "如今這種樂器已經有2500 年以上的歷史了。",
+      "pinyin": "rú jīn zhè zhǒng yuè qì yǐ jīng yǒu 4 nián yǐ shàng de lì shǐ le",
+      "english": "The zither started to spread in China as early as the Warring States period."
+    },
+    {
+      "index": 9,
+      "simplified": "古筝既可以用于独奏、重奏，也可用来歌舞、戏曲伴奏，",
+      "traditional": "古箏既可以用于獨奏、重奏，也可用來歌舞、戲曲伴奏，",
+      "pinyin": "gǔ zhēng jì kě yǐ yòng yú dú zòu chóng zòu yě kě yòng lái gē wǔ xì qǔ bàn zòu",
+      "english": "Up until now, it already has a history of over 2500 years."
+    },
+    {
+      "index": 10,
+      "simplified": "素有“东方钢琴”之称。",
+      "traditional": "素有“東方鋼琴”之稱。",
+      "pinyin": "sù yǒu dōng fāng gāng qín zhī chēng",
+      "english": "Not only for solo and duet, the zither can also be used for the accompaniment of dance and opera."
+    },
+    {
+      "index": 11,
+      "simplified": "古筝常见的演奏手法是通过右手的拇指、食指、中指和无名指拨弦，",
+      "traditional": "古箏常見的演奏手法是通過右手的拇指、食指、中指和無名指撥弦，",
+      "pinyin": "gǔ zhēng cháng jiàn de yǎn zòu shǒu fǎ shì tōng guò yòu shǒu de mǔ zhǐ shí zhǐ zhōng zhǐ hé wú míng zhǐ bō xián",
+      "english": "It is known as the oriental piano."
+    },
+    {
+      "index": 12,
+      "simplified": "演奏出旋律、节奏。",
+      "traditional": "演奏出旋律、節奏。",
+      "pinyin": "yǎn zòu chū xuán lǜ jié zòu",
+      "english": "The common playing technique is to pluck the strings with your right thumb, index, middle and ring finger, .."
+    },
+    {
+      "index": 13,
+      "simplified": "而左手则用于控制弦的张力和弦音的变化，从而调整音高，完善旋律。",
+      "traditional": "而左手則用于控制弦的張力和弦音的變化，從而調整音高，完善旋律。",
+      "pinyin": "ér zuǒ shǒu zé yòng yú kòng zhì xián de zhāng lì hé xián yīn de biàn huà cóng ér tiáo zhěng yīn gāo wán shàn xuán lǜ",
+      "english": ".. to play the melody and the rhythm."
+    },
+    {
+      "index": 14,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "While the left hand controls the string tension and sound, to control the pitch and perfect the melody."
+    },
+    {
+      "index": 15,
+      "simplified": "古筝音乐在古代被广泛演奏，深受来自不同阶层人们的欢迎与喜爱，",
+      "traditional": "古箏音樂在古代被廣泛演奏，深受來自不同階層人們的歡迎與喜愛，",
+      "pinyin": "gǔ zhēng yīn yuè zài gǔ dài bèi guǎng fàn yǎn zòu shēn shòu lái zì bù tóng jiē céng rén men de huān yíng yǔ xǐ ài",
+      "english": ""
+    },
+    {
+      "index": 16,
+      "simplified": "是一种通俗的艺术。",
+      "traditional": "是一種通俗的藝術。",
+      "pinyin": "shì yì zhǒng tōng sú de yì shù",
+      "english": "Zither music was played widely in ancient times, and welcomed and loved by people from all walks of life."
+    },
+    {
+      "index": 17,
+      "simplified": "到了现在，很多文艺演出也经常出现不同形式的古筝演奏。",
+      "traditional": "到了現在，很多文藝演出也經常出現不同形式的古箏演奏。",
+      "pinyin": "dào le xiàn zài hěn duō wén yì yǎn chū yě jīng cháng chū xiàn bù tóng xíng shì de gǔ zhēng yǎn zòu",
+      "english": "It is a form of popular art."
+    },
+    {
+      "index": 18,
+      "simplified": "许多人受到古筝感染，都开始纷纷学习弹奏古筝，",
+      "traditional": "許多人受到古箏感染，都開始紛紛學習彈奏古箏，",
+      "pinyin": "xǔ duō rén shòu dào gǔ zhēng gǎn rǎn dōu kāi shǐ fēn fēn xué xí tán zòu gǔ zhēng",
+      "english": "In modern society, many theatrical shows often incorporate zither performances of different forms."
+    },
+    {
+      "index": 19,
+      "simplified": "从而让自己的生活变得更加丰富多彩。",
+      "traditional": "從而讓自己的生活變得更加豐富多彩。",
+      "pinyin": "cóng ér ràng zì jǐ de shēng huó biàn de gèng jiā fēng fù duō cǎi",
+      "english": "Many people were influenced by the zither, and one by one they began to study the instrument."
+    },
+    {
+      "index": 20,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Thus making their life richer and more colorful."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "古筝",
+      "traditional": "古箏",
+      "pinyin": "gǔ zhēng",
+      "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "传统",
+      "traditional": "傳統",
+      "pinyin": "chuán tǒng",
+      "meaning": "tradition\ntraditional",
+      "hsk": 5
+    },
+    {
+      "hanzi": "乐器",
+      "traditional": "樂器",
+      "pinyin": "yuè qì",
+      "meaning": "musical instrument",
+      "hsk": 5
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "通过",
+      "traditional": "通過",
+      "pinyin": "tōng guò",
+      "meaning": "to pass through\nto get through\nto pass (a bill or inspection etc)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "手指",
+      "traditional": "手指",
+      "pinyin": "shǒu zhǐ",
+      "meaning": "finger",
+      "hsk": 5
+    },
+    {
+      "hanzi": "划过",
+      "traditional": "劃過",
+      "pinyin": "huá guò",
+      "meaning": "to streak across\nto play across",
+      "hsk": null
+    },
+    {
+      "hanzi": "琴弦",
+      "traditional": "琴弦",
+      "pinyin": "qín xián",
+      "meaning": "string (of a stringed instrument)",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    },
+    {
+      "hanzi": "进行",
+      "traditional": "進行",
+      "pinyin": "jìn xíng",
+      "meaning": "to conduct\nto carry out",
+      "hsk": 4
+    },
+    {
+      "hanzi": "弹奏",
+      "traditional": "彈奏",
+      "pinyin": "tán zòu",
+      "meaning": "to play (musical instrument, esp. string)",
+      "hsk": null
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "能够",
+      "traditional": "能夠",
+      "pinyin": "néng gòu",
+      "meaning": "to be capable of\ncan",
+      "hsk": null
+    },
+    {
+      "hanzi": "代表",
+      "traditional": "代表",
+      "pinyin": "dài biǎo",
+      "meaning": "to represent\nto stand for",
+      "hsk": 5
+    },
+    {
+      "hanzi": "特色",
+      "traditional": "特色",
+      "pinyin": "tè sè",
+      "meaning": "characteristic\ndistinguishing feature or quality",
+      "hsk": 5
+    },
+    {
+      "hanzi": "民族",
+      "traditional": "民族",
+      "pinyin": "mín zú",
+      "meaning": "nationality\nethnic group",
+      "hsk": 4
+    },
+    {
+      "hanzi": "之一",
+      "traditional": "之一",
+      "pinyin": "zhī yī",
+      "meaning": "one of (sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "演奏",
+      "traditional": "演奏",
+      "pinyin": "yǎn zòu",
+      "meaning": "to perform on a musical instrument",
+      "hsk": 6
+    },
+    {
+      "hanzi": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "meaning": "to produce\nto put forth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "动人",
+      "traditional": "動人",
+      "pinyin": "dòng rén",
+      "meaning": "touching\nmoving",
+      "hsk": null
+    },
+    {
+      "hanzi": "音乐",
+      "traditional": "音樂",
+      "pinyin": "yīn yuè",
+      "meaning": "music",
+      "hsk": 3
+    },
+    {
+      "hanzi": "而且",
+      "traditional": "而且",
+      "pinyin": "ér qiě",
+      "meaning": "(not only ...) but also",
+      "hsk": 3
+    },
+    {
+      "hanzi": "形式",
+      "traditional": "形式",
+      "pinyin": "xíng shì",
+      "meaning": "form\nshape\nformality",
+      "hsk": 5
+    },
+    {
+      "hanzi": "多样",
+      "traditional": "多樣",
+      "pinyin": "duō yàng",
+      "meaning": "diverse\nmanifold",
+      "hsk": null
+    },
+    {
+      "hanzi": "表演",
+      "traditional": "表演",
+      "pinyin": "biǎo yǎn",
+      "meaning": "to perform\nto act\nto demonstrate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "富有",
+      "traditional": "富有",
+      "pinyin": "fù yǒu",
+      "meaning": "rich\nfull of",
+      "hsk": null
+    },
+    {
+      "hanzi": "感染力",
+      "traditional": "感染力",
+      "pinyin": "gǎn rǎn lì",
+      "meaning": "inspiration\ninfectious (enthusiasm)",
+      "hsk": null
+    },
+    {
+      "hanzi": "因此",
+      "traditional": "因此",
+      "pinyin": "yīn cǐ",
+      "meaning": "thus\nconsequently\nas a result",
+      "hsk": 4
+    },
+    {
+      "hanzi": "深受",
+      "traditional": "深受",
+      "pinyin": "shēn shòu",
+      "meaning": "to receive in no small measure",
+      "hsk": null
+    },
+    {
+      "hanzi": "中国人",
+      "traditional": "中國人",
+      "pinyin": "zhōng guó rén",
+      "meaning": "Chinese person/people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "欢迎",
+      "traditional": "歡迎",
+      "pinyin": "huān yíng",
+      "meaning": "welcome\nto be well received",
+      "hsk": 3
+    },
+    {
+      "hanzi": "与",
+      "traditional": "與",
+      "pinyin": "yǔ",
+      "meaning": "and\ntogether with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "喜爱",
+      "traditional": "喜愛",
+      "pinyin": "xǐ ài",
+      "meaning": "to like\nto love\nto be fond of",
+      "hsk": null
+    },
+    {
+      "hanzi": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "战国",
+      "traditional": "戰國",
+      "pinyin": "zhàn guó",
+      "meaning": "the Warring States period (475-221 BC)",
+      "hsk": null
+    },
+    {
+      "hanzi": "时代",
+      "traditional": "時代",
+      "pinyin": "shí dài",
+      "meaning": "age\nera\nperiod",
+      "hsk": 5
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "开始",
+      "traditional": "開始",
+      "pinyin": "kāi shǐ",
+      "meaning": "to begin\nto start",
+      "hsk": 2
+    },
+    {
+      "hanzi": "流传",
+      "traditional": "流傳",
+      "pinyin": "liú chuán",
+      "meaning": "to spread\nto circulate\nto hand down",
+      "hsk": 5
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "(after verb) away",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如今",
+      "traditional": "如今",
+      "pinyin": "rú jīn",
+      "meaning": "nowadays\nnow",
+      "hsk": 5
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以上",
+      "traditional": "以上",
+      "pinyin": "yǐ shàng",
+      "meaning": "that level or higher\nthat amount or more",
+      "hsk": null
+    },
+    {
+      "hanzi": "历史",
+      "traditional": "歷史",
+      "pinyin": "lì shǐ",
+      "meaning": "history",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "既",
+      "traditional": "既",
+      "pinyin": "jì",
+      "meaning": "both... (and...)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "用于",
+      "traditional": "用于",
+      "pinyin": "yòng yú",
+      "meaning": "use in\nuse for",
+      "hsk": null
+    },
+    {
+      "hanzi": "独奏",
+      "traditional": "獨奏",
+      "pinyin": "dú zòu",
+      "meaning": "solo",
+      "hsk": null
+    },
+    {
+      "hanzi": "重奏",
+      "traditional": "重奏",
+      "pinyin": "chóng zòu",
+      "meaning": "musical ensemble of several instruments (e.g. duet or trio)",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可",
+      "traditional": "可",
+      "pinyin": "kě",
+      "meaning": "can\nmay",
+      "hsk": 2
+    },
+    {
+      "hanzi": "用来",
+      "traditional": "用來",
+      "pinyin": "yòng lái",
+      "meaning": "to be used for",
+      "hsk": null
+    },
+    {
+      "hanzi": "歌舞",
+      "traditional": "歌舞",
+      "pinyin": "gē wǔ",
+      "meaning": "singing and dancing",
+      "hsk": null
+    },
+    {
+      "hanzi": "戏曲",
+      "traditional": "戲曲",
+      "pinyin": "xì qǔ",
+      "meaning": "Chinese opera",
+      "hsk": null
+    },
+    {
+      "hanzi": "伴奏",
+      "traditional": "伴奏",
+      "pinyin": "bàn zòu",
+      "meaning": "to accompany (musically)",
+      "hsk": null
+    },
+    {
+      "hanzi": "素有",
+      "traditional": "素有",
+      "pinyin": "sù yǒu",
+      "meaning": "to have\nto have always had",
+      "hsk": null
+    },
+    {
+      "hanzi": "东方",
+      "traditional": "東方",
+      "pinyin": "dōng fāng",
+      "meaning": "the East\nthe Orient",
+      "hsk": null
+    },
+    {
+      "hanzi": "钢琴",
+      "traditional": "鋼琴",
+      "pinyin": "gāng qín",
+      "meaning": "piano",
+      "hsk": null
+    },
+    {
+      "hanzi": "之",
+      "traditional": "之",
+      "pinyin": "zhī",
+      "meaning": "(possessive particle, literary equivalent of 的)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "称",
+      "traditional": "稱",
+      "pinyin": "chēng",
+      "meaning": "to name",
+      "hsk": 5
+    },
+    {
+      "hanzi": "常见",
+      "traditional": "常見",
+      "pinyin": "cháng jiàn",
+      "meaning": "commonly seen\ncommon\nto see sth frequently",
+      "hsk": null
+    },
+    {
+      "hanzi": "手法",
+      "traditional": "手法",
+      "pinyin": "shǒu fǎ",
+      "meaning": "technique\ntrick\nskill",
+      "hsk": 6
+    },
+    {
+      "hanzi": "右手",
+      "traditional": "右手",
+      "pinyin": "yòu shǒu",
+      "meaning": "right hand\nright-hand side",
+      "hsk": null
+    },
+    {
+      "hanzi": "拇指",
+      "traditional": "拇指",
+      "pinyin": "mǔ zhǐ",
+      "meaning": "thumb\nbig toe",
+      "hsk": null
+    },
+    {
+      "hanzi": "食指",
+      "traditional": "食指",
+      "pinyin": "shí zhǐ",
+      "meaning": "index finger\nforefinger",
+      "hsk": null
+    },
+    {
+      "hanzi": "中指",
+      "traditional": "中指",
+      "pinyin": "zhōng zhǐ",
+      "meaning": "middle finger",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "无名指",
+      "traditional": "無名指",
+      "pinyin": "wú míng zhǐ",
+      "meaning": "ring finger",
+      "hsk": null
+    },
+    {
+      "hanzi": "拨",
+      "traditional": "撥",
+      "pinyin": "bō",
+      "meaning": "to poke\nto pluck (a string instrument)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "弦",
+      "traditional": "弦",
+      "pinyin": "xián",
+      "meaning": "bow string\nstring of musical instrument",
+      "hsk": 6
+    },
+    {
+      "hanzi": "旋律",
+      "traditional": "旋律",
+      "pinyin": "xuán lǜ",
+      "meaning": "melody\nrhythm",
+      "hsk": 6
+    },
+    {
+      "hanzi": "节奏",
+      "traditional": "節奏",
+      "pinyin": "jié zòu",
+      "meaning": "rhythm\ntempo",
+      "hsk": 6
+    },
+    {
+      "hanzi": "而",
+      "traditional": "而",
+      "pinyin": "ér",
+      "meaning": "and\nas well as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "左手",
+      "traditional": "左手",
+      "pinyin": "zuǒ shǒu",
+      "meaning": "left hand\nleft-hand side",
+      "hsk": null
+    },
+    {
+      "hanzi": "则",
+      "traditional": "則",
+      "pinyin": "zé",
+      "meaning": "(conjunction used to express contrast with a previous clause) but",
+      "hsk": 5
+    },
+    {
+      "hanzi": "控制",
+      "traditional": "控制",
+      "pinyin": "kòng zhì",
+      "meaning": "control\nto exercise control over\nto contain",
+      "hsk": 5
+    },
+    {
+      "hanzi": "张力",
+      "traditional": "張力",
+      "pinyin": "zhāng lì",
+      "meaning": "tension",
+      "hsk": null
+    },
+    {
+      "hanzi": "音",
+      "traditional": "音",
+      "pinyin": "yīn",
+      "meaning": "sound\nnoise\ntone",
+      "hsk": null
+    },
+    {
+      "hanzi": "变化",
+      "traditional": "變化",
+      "pinyin": "biàn huà",
+      "meaning": "change\nvariation",
+      "hsk": 3
+    },
+    {
+      "hanzi": "从而",
+      "traditional": "從而",
+      "pinyin": "cóng ér",
+      "meaning": "thus\nthereby",
+      "hsk": 5
+    },
+    {
+      "hanzi": "调整",
+      "traditional": "調整",
+      "pinyin": "tiáo zhěng",
+      "meaning": "to adjust\nadjustment\nrevision",
+      "hsk": 5
+    },
+    {
+      "hanzi": "音高",
+      "traditional": "音高",
+      "pinyin": "yīn gāo",
+      "meaning": "pitch (music)\ntone",
+      "hsk": null
+    },
+    {
+      "hanzi": "完善",
+      "traditional": "完善",
+      "pinyin": "wán shàn",
+      "meaning": "perfect\nto make perfect\nto improve",
+      "hsk": 5
+    },
+    {
+      "hanzi": "古代",
+      "traditional": "古代",
+      "pinyin": "gǔ dài",
+      "meaning": "ancient times\nolden times",
+      "hsk": 5
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "广泛",
+      "traditional": "廣泛",
+      "pinyin": "guǎng fàn",
+      "meaning": "extensive\nwide range",
+      "hsk": 5
+    },
+    {
+      "hanzi": "来自",
+      "traditional": "來自",
+      "pinyin": "lái zì",
+      "meaning": "to come from",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不同",
+      "traditional": "不同",
+      "pinyin": "bù tóng",
+      "meaning": "different\nnot the same",
+      "hsk": null
+    },
+    {
+      "hanzi": "阶层",
+      "traditional": "階層",
+      "pinyin": "jiē céng",
+      "meaning": "hierarchy\nstratum\nsocial class",
+      "hsk": 6
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "通俗",
+      "traditional": "通俗",
+      "pinyin": "tōng sú",
+      "meaning": "common\neveryday\naverage",
+      "hsk": 6
+    },
+    {
+      "hanzi": "艺术",
+      "traditional": "藝術",
+      "pinyin": "yì shù",
+      "meaning": "art",
+      "hsk": 4
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "文艺",
+      "traditional": "文藝",
+      "pinyin": "wén yì",
+      "meaning": "literature and art",
+      "hsk": 6
+    },
+    {
+      "hanzi": "演出",
+      "traditional": "演出",
+      "pinyin": "yǎn chū",
+      "meaning": "to act (in a play)\nto put on (a performance)\nperformance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "经常",
+      "traditional": "經常",
+      "pinyin": "jīng cháng",
+      "meaning": "frequently\noften",
+      "hsk": 3
+    },
+    {
+      "hanzi": "出现",
+      "traditional": "出現",
+      "pinyin": "chū xiàn",
+      "meaning": "to appear\nto emerge",
+      "hsk": 4
+    },
+    {
+      "hanzi": "许多",
+      "traditional": "許多",
+      "pinyin": "xǔ duō",
+      "meaning": "many\na lot of\nmuch",
+      "hsk": 4
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "受到",
+      "traditional": "受到",
+      "pinyin": "shòu dào",
+      "meaning": "to receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "感染",
+      "traditional": "感染",
+      "pinyin": "gǎn rǎn",
+      "meaning": "infection\nto infect\nto influence",
+      "hsk": 6
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "纷纷",
+      "traditional": "紛紛",
+      "pinyin": "fēn fēn",
+      "meaning": "one after another\nin succession\none by one",
+      "hsk": 5
+    },
+    {
+      "hanzi": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "meaning": "to learn\nto study",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "生活",
+      "traditional": "生活",
+      "pinyin": "shēng huó",
+      "meaning": "to live\nlife\nlivelihood",
+      "hsk": 4
+    },
+    {
+      "hanzi": "变",
+      "traditional": "變",
+      "pinyin": "biàn",
+      "meaning": "to become\nto change",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "更加",
+      "traditional": "更加",
+      "pinyin": "gèng jiā",
+      "meaning": "more (than sth else)\neven more",
+      "hsk": null
+    },
+    {
+      "hanzi": "丰富",
+      "traditional": "豐富",
+      "pinyin": "fēng fù",
+      "meaning": "rich\nplentiful\nabundant",
+      "hsk": 4
+    },
+    {
+      "hanzi": "多彩",
+      "traditional": "多彩",
+      "pinyin": "duō cǎi",
+      "meaning": "colorful\nflamboyant",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "传统",
+        "pinyin": "chuán tǒng",
+        "meaning": "tradition\ntraditional",
+        "tc_hanzi": "傳統"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "乐器",
+        "pinyin": "yuè qì",
+        "meaning": "musical instrument",
+        "tc_hanzi": "樂器"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "通过",
+        "pinyin": "tōng guò",
+        "meaning": "to pass through\nto get through\nto pass (a bill or inspection etc)",
+        "tc_hanzi": "通過"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "手指",
+        "pinyin": "shǒu zhǐ",
+        "meaning": "finger",
+        "tc_hanzi": "手指"
+      },
+      {
+        "hanzi": "划过",
+        "pinyin": "huá guò",
+        "meaning": "to streak across\nto play across",
+        "tc_hanzi": "劃過"
+      },
+      {
+        "hanzi": "琴弦",
+        "pinyin": "qín xián",
+        "meaning": "string (of a stringed instrument)",
+        "tc_hanzi": "琴弦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进行",
+        "pinyin": "jìn xíng",
+        "meaning": "to conduct\nto carry out",
+        "tc_hanzi": "進行"
+      },
+      {
+        "hanzi": "弹奏",
+        "pinyin": "tán zòu",
+        "meaning": "to play (musical instrument, esp. string)",
+        "tc_hanzi": "彈奏"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "能够",
+        "pinyin": "néng gòu",
+        "meaning": "to be capable of\ncan",
+        "tc_hanzi": "能夠"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "代表",
+        "pinyin": "dài biǎo",
+        "meaning": "to represent\nto stand for",
+        "tc_hanzi": "代表"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "特色",
+        "pinyin": "tè sè",
+        "meaning": "characteristic\ndistinguishing feature or quality",
+        "tc_hanzi": "特色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "民族",
+        "pinyin": "mín zú",
+        "meaning": "nationality\nethnic group",
+        "tc_hanzi": "民族"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "乐器",
+        "pinyin": "yuè qì",
+        "meaning": "musical instrument",
+        "tc_hanzi": "樂器"
+      },
+      {
+        "hanzi": "之一",
+        "pinyin": "zhī yī",
+        "meaning": "one of (sth)",
+        "tc_hanzi": "之一"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hanzi": "能够",
+        "pinyin": "néng gòu",
+        "meaning": "to be capable of\ncan",
+        "tc_hanzi": "能夠"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "to produce\nto put forth",
+        "tc_hanzi": "出"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hanzi": "动人",
+        "pinyin": "dòng rén",
+        "meaning": "touching\nmoving",
+        "tc_hanzi": "動人"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "音乐",
+        "pinyin": "yīn yuè",
+        "meaning": "music",
+        "tc_hanzi": "音樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "而且",
+        "pinyin": "ér qiě",
+        "meaning": "(not only ...) but also",
+        "tc_hanzi": "而且"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "形式",
+        "pinyin": "xíng shì",
+        "meaning": "form\nshape\nformality",
+        "tc_hanzi": "形式"
+      },
+      {
+        "hanzi": "多样",
+        "pinyin": "duō yàng",
+        "meaning": "diverse\nmanifold",
+        "tc_hanzi": "多樣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "表演",
+        "pinyin": "biǎo yǎn",
+        "meaning": "to perform\nto act\nto demonstrate",
+        "tc_hanzi": "表演"
+      },
+      {
+        "hanzi": "富有",
+        "pinyin": "fù yǒu",
+        "meaning": "rich\nfull of",
+        "tc_hanzi": "富有"
+      },
+      {
+        "hanzi": "感染力",
+        "pinyin": "gǎn rǎn lì",
+        "meaning": "inspiration\ninfectious (enthusiasm)",
+        "tc_hanzi": "感染力"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "因此",
+        "pinyin": "yīn cǐ",
+        "meaning": "thus\nconsequently\nas a result",
+        "tc_hanzi": "因此"
+      },
+      {
+        "hanzi": "深受",
+        "pinyin": "shēn shòu",
+        "meaning": "to receive in no small measure",
+        "tc_hanzi": "深受"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国人",
+        "pinyin": "zhōng guó rén",
+        "meaning": "Chinese person/people",
+        "tc_hanzi": "中國人"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "欢迎",
+        "pinyin": "huān yíng",
+        "meaning": "welcome\nto be well received",
+        "tc_hanzi": "歡迎"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hanzi": "喜爱",
+        "pinyin": "xǐ ài",
+        "meaning": "to like\nto love\nto be fond of",
+        "tc_hanzi": "喜愛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "战国",
+        "pinyin": "zhàn guó",
+        "meaning": "the Warring States period (475-221 BC)",
+        "tc_hanzi": "戰國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "时代",
+        "pinyin": "shí dài",
+        "meaning": "age\nera\nperiod",
+        "tc_hanzi": "時代"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "开始",
+        "pinyin": "kāi shǐ",
+        "meaning": "to begin\nto start",
+        "tc_hanzi": "開始"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "流传",
+        "pinyin": "liú chuán",
+        "meaning": "to spread\nto circulate\nto hand down",
+        "tc_hanzi": "流傳"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "(after verb) away",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "如今",
+        "pinyin": "rú jīn",
+        "meaning": "nowadays\nnow",
+        "tc_hanzi": "如今"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "乐器",
+        "pinyin": "yuè qì",
+        "meaning": "musical instrument",
+        "tc_hanzi": "樂器"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "2500",
+        "pinyin": "4",
+        "tc_hanzi": "2500"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "以上",
+        "pinyin": "yǐ shàng",
+        "meaning": "that level or higher\nthat amount or more",
+        "tc_hanzi": "以上"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "历史",
+        "pinyin": "lì shǐ",
+        "meaning": "history",
+        "tc_hanzi": "歷史"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "既",
+        "pinyin": "jì",
+        "meaning": "both... (and...)",
+        "tc_hanzi": "既"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "用于",
+        "pinyin": "yòng yú",
+        "meaning": "use in\nuse for",
+        "tc_hanzi": "用于"
+      },
+      {
+        "hanzi": "独奏",
+        "pinyin": "dú zòu",
+        "meaning": "solo",
+        "tc_hanzi": "獨奏"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "重奏",
+        "pinyin": "chóng zòu",
+        "meaning": "musical ensemble of several instruments (e.g. duet or trio)",
+        "tc_hanzi": "重奏"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可",
+        "pinyin": "kě",
+        "meaning": "can\nmay",
+        "tc_hanzi": "可"
+      },
+      {
+        "hanzi": "用来",
+        "pinyin": "yòng lái",
+        "meaning": "to be used for",
+        "tc_hanzi": "用來"
+      },
+      {
+        "hanzi": "歌舞",
+        "pinyin": "gē wǔ",
+        "meaning": "singing and dancing",
+        "tc_hanzi": "歌舞"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "戏曲",
+        "pinyin": "xì qǔ",
+        "meaning": "Chinese opera",
+        "tc_hanzi": "戲曲"
+      },
+      {
+        "hanzi": "伴奏",
+        "pinyin": "bàn zòu",
+        "meaning": "to accompany (musically)",
+        "tc_hanzi": "伴奏"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "素有",
+        "pinyin": "sù yǒu",
+        "meaning": "to have\nto have always had",
+        "tc_hanzi": "素有"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "东方",
+        "pinyin": "dōng fāng",
+        "meaning": "the East\nthe Orient",
+        "tc_hanzi": "東方"
+      },
+      {
+        "hanzi": "钢琴",
+        "pinyin": "gāng qín",
+        "meaning": "piano",
+        "tc_hanzi": "鋼琴"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之",
+        "pinyin": "zhī",
+        "meaning": "(possessive particle, literary equivalent of 的)",
+        "tc_hanzi": "之"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "称",
+        "pinyin": "chēng",
+        "meaning": "to name",
+        "tc_hanzi": "稱"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hanzi": "常见",
+        "pinyin": "cháng jiàn",
+        "meaning": "commonly seen\ncommon\nto see sth frequently",
+        "tc_hanzi": "常見"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "手法",
+        "pinyin": "shǒu fǎ",
+        "meaning": "technique\ntrick\nskill",
+        "tc_hanzi": "手法"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "通过",
+        "pinyin": "tōng guò",
+        "meaning": "through\nvia",
+        "tc_hanzi": "通過"
+      },
+      {
+        "hanzi": "右手",
+        "pinyin": "yòu shǒu",
+        "meaning": "right hand\nright-hand side",
+        "tc_hanzi": "右手"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "拇指",
+        "pinyin": "mǔ zhǐ",
+        "meaning": "thumb\nbig toe",
+        "tc_hanzi": "拇指"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "食指",
+        "pinyin": "shí zhǐ",
+        "meaning": "index finger\nforefinger",
+        "tc_hanzi": "食指"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "中指",
+        "pinyin": "zhōng zhǐ",
+        "meaning": "middle finger",
+        "tc_hanzi": "中指"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "无名指",
+        "pinyin": "wú míng zhǐ",
+        "meaning": "ring finger",
+        "tc_hanzi": "無名指"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "拨",
+        "pinyin": "bō",
+        "meaning": "to poke\nto pluck (a string instrument)",
+        "tc_hanzi": "撥"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "弦",
+        "pinyin": "xián",
+        "meaning": "bow string\nstring of musical instrument",
+        "tc_hanzi": "弦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "to produce\nto put forth",
+        "tc_hanzi": "出"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "旋律",
+        "pinyin": "xuán lǜ",
+        "meaning": "melody\nrhythm",
+        "tc_hanzi": "旋律"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "节奏",
+        "pinyin": "jié zòu",
+        "meaning": "rhythm\ntempo",
+        "tc_hanzi": "節奏"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hanzi": "左手",
+        "pinyin": "zuǒ shǒu",
+        "meaning": "left hand\nleft-hand side",
+        "tc_hanzi": "左手"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "则",
+        "pinyin": "zé",
+        "meaning": "(conjunction used to express contrast with a previous clause) but",
+        "tc_hanzi": "則"
+      },
+      {
+        "hanzi": "用于",
+        "pinyin": "yòng yú",
+        "meaning": "use in\nuse for",
+        "tc_hanzi": "用于"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "控制",
+        "pinyin": "kòng zhì",
+        "meaning": "control\nto exercise control over\nto contain",
+        "tc_hanzi": "控制"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "弦",
+        "pinyin": "xián",
+        "meaning": "bow string\nstring of musical instrument",
+        "tc_hanzi": "弦"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "张力",
+        "pinyin": "zhāng lì",
+        "meaning": "tension",
+        "tc_hanzi": "張力"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "弦",
+        "pinyin": "xián",
+        "meaning": "bow string\nstring of musical instrument",
+        "tc_hanzi": "弦"
+      },
+      {
+        "hanzi": "音",
+        "pinyin": "yīn",
+        "meaning": "sound\nnoise\ntone",
+        "tc_hanzi": "音"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变化",
+        "pinyin": "biàn huà",
+        "meaning": "change\nvariation",
+        "tc_hanzi": "變化"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "从而",
+        "pinyin": "cóng ér",
+        "meaning": "thus\nthereby",
+        "tc_hanzi": "從而"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "调整",
+        "pinyin": "tiáo zhěng",
+        "meaning": "to adjust\nadjustment\nrevision",
+        "tc_hanzi": "調整"
+      },
+      {
+        "hanzi": "音高",
+        "pinyin": "yīn gāo",
+        "meaning": "pitch (music)\ntone",
+        "tc_hanzi": "音高"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "完善",
+        "pinyin": "wán shàn",
+        "meaning": "perfect\nto make perfect\nto improve",
+        "tc_hanzi": "完善"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "旋律",
+        "pinyin": "xuán lǜ",
+        "meaning": "melody\nrhythm",
+        "tc_hanzi": "旋律"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "音乐",
+        "pinyin": "yīn yuè",
+        "meaning": "music",
+        "tc_hanzi": "音樂"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "古代",
+        "pinyin": "gǔ dài",
+        "meaning": "ancient times\nolden times",
+        "tc_hanzi": "古代"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "广泛",
+        "pinyin": "guǎng fàn",
+        "meaning": "extensive\nwide range",
+        "tc_hanzi": "廣泛"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "深受",
+        "pinyin": "shēn shòu",
+        "meaning": "to receive in no small measure",
+        "tc_hanzi": "深受"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "来自",
+        "pinyin": "lái zì",
+        "meaning": "to come from",
+        "tc_hanzi": "來自"
+      },
+      {
+        "hanzi": "不同",
+        "pinyin": "bù tóng",
+        "meaning": "different\nnot the same",
+        "tc_hanzi": "不同"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "阶层",
+        "pinyin": "jiē céng",
+        "meaning": "hierarchy\nstratum\nsocial class",
+        "tc_hanzi": "階層"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "欢迎",
+        "pinyin": "huān yíng",
+        "meaning": "welcome\nto be well received",
+        "tc_hanzi": "歡迎"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hanzi": "喜爱",
+        "pinyin": "xǐ ài",
+        "meaning": "to like\nto love\nto be fond of",
+        "tc_hanzi": "喜愛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "通俗",
+        "pinyin": "tōng sú",
+        "meaning": "common\neveryday\naverage",
+        "tc_hanzi": "通俗"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "艺术",
+        "pinyin": "yì shù",
+        "meaning": "art",
+        "tc_hanzi": "藝術"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "文艺",
+        "pinyin": "wén yì",
+        "meaning": "literature and art",
+        "tc_hanzi": "文藝"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "演出",
+        "pinyin": "yǎn chū",
+        "meaning": "to act (in a play)\nto put on (a performance)\nperformance",
+        "tc_hanzi": "演出"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经常",
+        "pinyin": "jīng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "經常"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出现",
+        "pinyin": "chū xiàn",
+        "meaning": "to appear\nto emerge",
+        "tc_hanzi": "出現"
+      },
+      {
+        "hanzi": "不同",
+        "pinyin": "bù tóng",
+        "meaning": "different\nnot the same",
+        "tc_hanzi": "不同"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "形式",
+        "pinyin": "xíng shì",
+        "meaning": "form\nshape\nformality",
+        "tc_hanzi": "形式"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "演奏",
+        "pinyin": "yǎn zòu",
+        "meaning": "to perform on a musical instrument",
+        "tc_hanzi": "演奏"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "许多",
+        "pinyin": "xǔ duō",
+        "meaning": "many\na lot of\nmuch",
+        "tc_hanzi": "許多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "受到",
+        "pinyin": "shòu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "受到"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "感染",
+        "pinyin": "gǎn rǎn",
+        "meaning": "infection\nto infect\nto influence",
+        "tc_hanzi": "感染"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "开始",
+        "pinyin": "kāi shǐ",
+        "meaning": "to begin\nto start",
+        "tc_hanzi": "開始"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "纷纷",
+        "pinyin": "fēn fēn",
+        "meaning": "one after another\nin succession\none by one",
+        "tc_hanzi": "紛紛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学习",
+        "pinyin": "xué xí",
+        "meaning": "to learn\nto study",
+        "tc_hanzi": "學習"
+      },
+      {
+        "hanzi": "弹奏",
+        "pinyin": "tán zòu",
+        "meaning": "to play (musical instrument, esp. string)",
+        "tc_hanzi": "彈奏"
+      },
+      {
+        "hanzi": "古筝",
+        "pinyin": "gǔ zhēng",
+        "meaning": "zither or guzheng\nlarge zither with 13 to 25 strings, developed from guqin during Tang and Song times",
+        "tc_hanzi": "古箏"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "从而",
+        "pinyin": "cóng ér",
+        "meaning": "thus\nthereby",
+        "tc_hanzi": "從而"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "生活",
+        "pinyin": "shēng huó",
+        "meaning": "to live\nlife\nlivelihood",
+        "tc_hanzi": "生活"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "meaning": "to become\nto change",
+        "tc_hanzi": "變"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hanzi": "更加",
+        "pinyin": "gèng jiā",
+        "meaning": "more (than sth else)\neven more",
+        "tc_hanzi": "更加"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "丰富",
+        "pinyin": "fēng fù",
+        "meaning": "rich\nplentiful\nabundant",
+        "tc_hanzi": "豐富"
+      },
+      {
+        "hanzi": "多彩",
+        "pinyin": "duō cǎi",
+        "meaning": "colorful\nflamboyant",
+        "tc_hanzi": "多彩"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.31746031746031744,
+      1.7233560090702948,
+      2.0408163265306123,
+      2.4036281179138324,
+      2.7210884353741496,
+      3.0385487528344672,
+      3.492063492063492,
+      3.764172335600907,
+      4.036281179138322,
+      4.263038548752834,
+      4.535147392290249,
+      4.671201814058957,
+      4.9433106575963714,
+      6.349206349206349,
+      6.712018140589569,
+      7.074829931972789,
+      7.346938775510204,
+      7.6643990929705215,
+      8.208616780045352,
+      8.435374149659864,
+      8.616780045351474,
+      8.999956273827335,
+      9.523809523809524,
+      9.795918367346939,
+      9.977324263038549,
+      10.249433106575964,
+      10.612244897959183,
+      12.653061224489797,
+      12.970508280737668,
+      13.197278911564625,
+      13.424036281179138,
+      13.65079365079365,
+      13.877551020408163,
+      14.19501133786848,
+      14.512471655328799,
+      14.875283446712018,
+      15.107974462431105,
+      15.464852607709751,
+      15.782312925170068,
+      16.145124716553287,
+      16.3265306122449,
+      16.598639455782312,
+      16.825396825396826,
+      17.006802721088434,
+      19.365079365079364,
+      19.682539682539684,
+      20.090702947845806,
+      20.272108843537413,
+      20.498866213151928,
+      20.72562358276644,
+      20.952380952380953,
+      21.360544217687075,
+      21.632653061224488,
+      21.950113378684808,
+      22.267573696145124,
+      22.487381339621034,
+      22.675736961451246,
+      22.90249433106576,
+      24.217687074829932,
+      24.478261025078076,
+      25.124716553287982,
+      25.396825396825395,
+      25.62539896279019,
+      25.86801845942478,
+      26.122448979591837,
+      26.39455782312925,
+      28.117913832199548,
+      28.39002267573696,
+      28.707482993197278,
+      29.024943310657598,
+      29.43310657596372,
+      29.569160997732425,
+      29.79591836734694,
+      30.068027210884352,
+      30.317341288265386,
+      31.383219954648528,
+      31.65532879818594,
+      32.244897959183675,
+      32.59491686238758,
+      32.925170068027214,
+      33.23626158984341,
+      33.42403628117914,
+      33.605442176870746,
+      33.96022186618064,
+      34.33106575963719,
+      34.69387755102041,
+      34.87528344671202,
+      35.14886691879993,
+      38.54875283446712,
+      38.82086167800453,
+      39.13832199546485,
+      39.50113378684807,
+      39.76102944045472,
+      39.9546485260771,
+      40.816326530612244,
+      41.13378684807256,
+      41.49659863945578,
+      41.723356009070294,
+      42.028903778542045,
+      42.40362811791383,
+      42.67573696145125,
+      42.94784580498866,
+      43.265306122448976,
+      43.5827664399093,
+      43.86293961305237,
+      44.12698412698413,
+      45.89569160997733,
+      46.16780045351474,
+      46.621315192743765,
+      46.848072562358276,
+      47.02947845804989,
+      47.301587301587304,
+      47.89115646258504,
+      48.07256235827664,
+      48.31718018738155,
+      48.75283446712018,
+      49.1156462585034,
+      49.61451247165533,
+      49.84126984126984,
+      50.02267573696145,
+      50.249433106575964,
+      50.42584793958159,
+      50.702947845804985,
+      50.9750566893424,
+      51.25036440678253,
+      51.519274376417236,
+      53.333333333333336,
+      53.605442176870746,
+      54.14965986394558,
+      54.42176870748299,
+      54.64852607709751,
+      54.78458049886621,
+      55.05668934240363,
+      55.28344671201814,
+      55.55555555555556,
+      56.281179138321995,
+      56.734693877551024,
+      57.73242630385487,
+      57.95918367346939,
+      58.1859410430839,
+      58.39796080292792,
+      58.775510204081634,
+      59.216851439186264,
+      59.909297052154194,
+      60.27210884353742,
+      60.49886621315193,
+      60.72562358276644,
+      61.859410430839006,
+      62.17687074829932,
+      62.53968253968254,
+      62.90249433106576,
+      63.265306122448976,
+      63.5827664399093,
+      63.900422145718714,
+      64.08163265306122,
+      65.53287981859411,
+      65.80498866213152,
+      66.16780045351474,
+      66.53061224489795,
+      66.80272108843538,
+      66.93877551020408,
+      67.1655328798186,
+      67.43764172335601,
+      67.70975056689342,
+      68.29931972789116,
+      68.57142857142857,
+      68.88888888888889,
+      69.38775510204081,
+      69.70713021424436,
+      69.93197278911565,
+      70.43083900226758,
+      70.7936507936508,
+      71.56462585034014,
+      72.06349206349206,
+      72.87981859410431,
+      73.28798185941044,
+      74.05514446888581,
+      74.33106575963718,
+      74.52239852229125,
+      74.78458049886622,
+      75.55555555555556,
+      75.7844451644529,
+      76.73469387755102,
+      76.96145124716553,
+      77.16910834243427,
+      77.54665918592826,
+      78.00453514739229,
+      78.54875283446712,
+      78.86621315192744,
+      80.58956916099773,
+      80.86167800453515,
+      81.17807200310615,
+      81.7233560090703,
+      81.99546485260771,
+      82.28768963524048,
+      82.49433106575964,
+      82.81179138321995,
+      83.21995464852608,
+      83.6281179138322,
+      83.80952380952381,
+      84.21768707482993,
+      84.76190476190476,
+      85.07936507936508,
+      85.3061224489796,
+      85.4875283446712,
+      85.66893424036282,
+      85.98639455782313,
+      86.80272108843538,
+      87.06552623347248,
+      87.48299319727892,
+      87.82926600734082,
+      88.07256235827664,
+      88.39002267573696,
+      89.1156462585034,
+      89.42381254757427,
+      89.70521541950113,
+      90.06802721088435,
+      92.51700680272108,
+      92.8344671201814,
+      93.0970371742744,
+      93.31374241026789,
+      93.69614512471655,
+      93.96825396825396,
+      94.19501133786848,
+      94.5578231292517,
+      94.73922902494331,
+      95.05668934240363,
+      95.32879818594104,
+      95.60090702947846,
+      96.64399092970521,
+      96.96145124716553,
+      97.25874341560902,
+      97.46031746031746,
+      97.82312925170068,
+      98.0498866213152,
+      98.3219954648526,
+      98.5848890922111,
+      98.91156462585035,
+      99.13832199546485,
+      99.31972789115646,
+      99.59183673469387,
+      99.81859410430839,
+      100.22675736961452,
+      100.45351473922902,
+      100.68027210884354,
+      101.8140589569161,
+      102.13151927437642,
+      102.31292517006803,
+      102.72108843537416,
+      103.09649542300218,
+      103.38965880235725,
+      103.4920634920635,
+      103.75077513183784,
+      105.71428571428571,
+      105.94104308390023,
+      106.0630359471258,
+      106.34920634920636,
+      107.1655328798186,
+      107.43764172335601,
+      107.66439909297053,
+      107.89115646258503,
+      108.02721088435374,
+      108.29931972789116,
+      109.16099773242631,
+      109.38775510204081,
+      109.64110894357533,
+      110.03017723624313,
+      110.2678353701567,
+      110.56689342403628,
+      110.74829931972789,
+      110.97505668934241,
+      111.28358579152443,
+      111.51927437641723,
+      111.88208616780045,
+      112.15419501133786,
+      112.42630385487529,
+      112.65306122448979,
+      114.28571428571429,
+      114.5124716553288,
+      114.73922902494331,
+      115.14739229024943,
+      115.37414965986395,
+      115.69160997732426,
+      115.96371882086167,
+      116.19047619047619,
+      116.41723356009071,
+      117.27891156462584,
+      117.46031746031746,
+      117.73783141488683,
+      118.0952380952381,
+      118.45804988662131,
+      118.63945578231292,
+      119.00226757369614,
+      119.45578231292517,
+      119.8639455782313,
+      120.18140589569161,
+      120.3660690184703,
+      121.63265306122449,
+      121.89066920391353,
+      122.49433106575964,
+      122.84108178071506,
+      122.99319727891157,
+      123.12925170068027,
+      123.31065759637188,
+      123.6734693877551,
+      124.03628117913833,
+      124.26303854875283,
+      124.39909297052154,
+      124.67120181405896,
+      125.17006802721089,
+      125.53287981859411,
+      125.75963718820861,
+      126.03174603174604,
+      126.7840589569161,
+      126.7840589569161
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      22,
+      33,
+      47,
+      60,
+      62,
+      76,
+      90,
+      106,
+      114,
+      133,
+      139,
+      160,
+      162,
+      180,
+      187,
+      204,
+      217,
+      228
+    ],
+    "sentence_translations": [
+      "Chinese Zither",
+      "",
+      "The zither is one of China’s traditional instruments, and is played by running your fingers over the strings.",
+      "It is one of the national instruments which represent China’s cultural characteristics.",
+      "The zither can produce a beautiful sound, with a wide range of performance styles.",
+      "A zither performance is very expressive, and thus popular and deeply loved among Chinese people.",
+      "",
+      "The zither started to spread in China as early as the Warring States period.",
+      "Up until now, it already has a history of over 2500 years.",
+      "Not only for solo and duet, the zither can also be used for the accompaniment of dance and opera.",
+      "It is known as the oriental piano.",
+      "The common playing technique is to pluck the strings with your right thumb, index, middle and ring finger, ..",
+      ".. to play the melody and the rhythm.",
+      "While the left hand controls the string tension and sound, to control the pitch and perfect the melody.",
+      "",
+      "Zither music was played widely in ancient times, and welcomed and loved by people from all walks of life.",
+      "It is a form of popular art.",
+      "In modern society, many theatrical shows often incorporate zither performances of different forms.",
+      "Many people were influenced by the zither, and one by one they began to study the instrument.",
+      "Thus making their life richer and more colorful.",
+      ""
+    ]
+  }
+}

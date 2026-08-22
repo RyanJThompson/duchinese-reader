@@ -1,0 +1,1203 @@
+{
+  "id": "E077",
+  "title": "Is Your Cat Happy?",
+  "level": "intermediate",
+  "date": "2016-12-28",
+  "synopsis": "Cats cannot speak, but their actions might tell you their feelings.",
+  "audioUrl": "https://static.duchinese.net/documents/307/8c62f8f375c736d186adb089d950e13afbfec0da.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "你的猫高兴吗？\n\n    怎么知道你的猫高兴不高兴？看看它的尾巴就知道了。如果猫的尾巴往上立得高高的，用身体蹭你，意思是它看见你很开心。如果猫的尾巴往下，那么它可能不太高兴，或者身体不舒服。如果猫的尾巴向上，尾巴尖弯弯的，像一个问号，意思就是“快来跟我一起玩吧！”",
+    "traditional": "你的貓高興嗎？\n\n    怎麼知道你的貓高興不高興？看看它的尾巴就知道了。如果貓的尾巴往上立得高高的，用身體蹭你，意思是它看見你很開心。如果貓的尾巴往下，那麼它可能不太高興，或者身體不舒服。如果貓的尾巴向上，尾巴尖彎彎的，像一個問號，意思就是“快來跟我一起玩吧！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Is your cat happy?"
+    },
+    {
+      "index": 2,
+      "simplified": "怎么知道你的猫高兴不高兴？",
+      "traditional": "怎麼知道你的貓高興不高興？",
+      "pinyin": "zěn me zhī dào nǐ de māo gāo xìng bù gāo xìng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "看看它的尾巴就知道了。",
+      "traditional": "看看它的尾巴就知道了。",
+      "pinyin": "kàn kan tā de wěi ba jiù zhī dào le",
+      "english": "How could you get to know if your cat is happy or not?"
+    },
+    {
+      "index": 4,
+      "simplified": "如果猫的尾巴往上立得高高的，用身体蹭你，意思是它看见你很开心。",
+      "traditional": "如果貓的尾巴往上立得高高的，用身體蹭你，意思是它看見你很開心。",
+      "pinyin": "rú guǒ māo de wěi ba wǎng shàng lì de gāo gāo de yòng shēn tǐ cèng nǐ yì si shì tā kàn jiàn nǐ hěn kāi xīn",
+      "english": "Look at its tail and you will know."
+    },
+    {
+      "index": 5,
+      "simplified": "如果猫的尾巴往下，那么它可能不太高兴，或者身体不舒服。",
+      "traditional": "如果貓的尾巴往下，那麼它可能不太高興，或者身體不舒服。",
+      "pinyin": "rú guǒ māo de wěi ba wǎng xià nà me tā kě néng bú tài gāo xìng huò zhě shēn tǐ bù shū fu",
+      "english": "If the cat puts its tail up high and straight or rubs you with its body, it means the cat is happy to see you."
+    },
+    {
+      "index": 6,
+      "simplified": "如果猫的尾巴向上，尾巴尖弯弯的，像一个问号，意思就是“快来跟我一起玩吧！”",
+      "traditional": "如果貓的尾巴向上，尾巴尖彎彎的，像一個問號，意思就是“快來跟我一起玩吧！”",
+      "pinyin": "rú guǒ māo de wěi ba xiàng shàng wěi ba jiān wān wān de xiàng yí ge wèn hào yì si jiù shì kuài lái gēn wǒ yì qǐ wán ba",
+      "english": "If the tail is downwards, the cat might be sad or feel uncomfortable."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猫",
+      "traditional": "貓",
+      "pinyin": "māo",
+      "meaning": "cat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "尾巴",
+      "traditional": "尾巴",
+      "pinyin": "wěi ba",
+      "meaning": "tail",
+      "hsk": 5
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "往",
+      "traditional": "往",
+      "pinyin": "wǎng",
+      "meaning": "to go (in a direction)\nto\ntowards",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "on top\nupon\nup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "立",
+      "traditional": "立",
+      "pinyin": "lì",
+      "meaning": "to stand\nto set up\nto establish",
+      "hsk": null
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "高高",
+      "traditional": "高高",
+      "pinyin": "gāo gāo",
+      "meaning": "high\ntall\nloud",
+      "hsk": null
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "身体",
+      "traditional": "身體",
+      "pinyin": "shēn tǐ",
+      "meaning": "the body\none's health",
+      "hsk": 2
+    },
+    {
+      "hanzi": "蹭",
+      "traditional": "蹭",
+      "pinyin": "cèng",
+      "meaning": "to rub against\nto walk slowly",
+      "hsk": null
+    },
+    {
+      "hanzi": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "meaning": "meaning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "meaning": "to see\nto catch sight of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开心",
+      "traditional": "開心",
+      "pinyin": "kāi xīn",
+      "meaning": "to feel happy\nto rejoice\nto have a great time",
+      "hsk": 4
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "down\nbelow\nunder",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "舒服",
+      "traditional": "舒服",
+      "pinyin": "shū fu",
+      "meaning": "comfortable\nfeeling well",
+      "hsk": 3
+    },
+    {
+      "hanzi": "向",
+      "traditional": "向",
+      "pinyin": "xiàng",
+      "meaning": "towards\nto face",
+      "hsk": 3
+    },
+    {
+      "hanzi": "尖",
+      "traditional": "尖",
+      "pinyin": "jiān",
+      "meaning": "point (of needle)\nsharp\npointed",
+      "hsk": null
+    },
+    {
+      "hanzi": "弯弯",
+      "traditional": "彎彎",
+      "pinyin": "wān wān",
+      "meaning": "to bend\nbent\na turn (in the road etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "像",
+      "traditional": "像",
+      "pinyin": "xiàng",
+      "meaning": "to resemble\nto be like",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问号",
+      "traditional": "問號",
+      "pinyin": "wèn hào",
+      "meaning": "question mark (punct.)\nunsolved problem",
+      "hsk": null
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "meaning": "with",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尾巴",
+        "pinyin": "wěi ba",
+        "meaning": "tail",
+        "tc_hanzi": "尾巴"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尾巴",
+        "pinyin": "wěi ba",
+        "meaning": "tail",
+        "tc_hanzi": "尾巴"
+      },
+      {
+        "g": "wang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "往",
+        "pinyin": "wǎng",
+        "meaning": "to go (in a direction)\nto\ntowards",
+        "tc_hanzi": "往"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "on top\nupon\nup",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "立",
+        "pinyin": "lì",
+        "meaning": "to stand\nto set up\nto establish",
+        "tc_hanzi": "立"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "aa",
+        "gh": true,
+        "hanzi": "高高",
+        "pinyin": "gāo gāo",
+        "meaning": "high\ntall\nloud",
+        "tc_hanzi": "高高"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "hanzi": "蹭",
+        "pinyin": "cèng",
+        "meaning": "to rub against\nto walk slowly",
+        "tc_hanzi": "蹭"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "to see\nto catch sight of",
+        "tc_hanzi": "看見"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "开心",
+        "pinyin": "kāi xīn",
+        "meaning": "to feel happy\nto rejoice\nto have a great time",
+        "tc_hanzi": "開心"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尾巴",
+        "pinyin": "wěi ba",
+        "meaning": "tail",
+        "tc_hanzi": "尾巴"
+      },
+      {
+        "g": "wang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "往",
+        "pinyin": "wǎng",
+        "meaning": "to go (in a direction)\nto\ntowards",
+        "tc_hanzi": "往"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "down\nbelow\nunder",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "舒服",
+        "pinyin": "shū fu",
+        "meaning": "comfortable\nfeeling well",
+        "tc_hanzi": "舒服"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尾巴",
+        "pinyin": "wěi ba",
+        "meaning": "tail",
+        "tc_hanzi": "尾巴"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "向",
+        "pinyin": "xiàng",
+        "meaning": "towards\nto face",
+        "tc_hanzi": "向"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "on top\nupon\nup",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "尾巴",
+        "pinyin": "wěi ba",
+        "meaning": "tail",
+        "tc_hanzi": "尾巴"
+      },
+      {
+        "hanzi": "尖",
+        "pinyin": "jiān",
+        "meaning": "point (of needle)\nsharp\npointed",
+        "tc_hanzi": "尖"
+      },
+      {
+        "hanzi": "弯弯",
+        "pinyin": "wān wān",
+        "meaning": "to bend\nbent\na turn (in the road etc)",
+        "tc_hanzi": "彎彎"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "meaning": "to resemble\nto be like",
+        "tc_hanzi": "像"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "问号",
+        "pinyin": "wèn hào",
+        "meaning": "question mark (punct.)\nunsolved problem",
+        "tc_hanzi": "問號"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Cats cannot speak, but their actions might tell you their feelings.",
+    "syllable_times": [
+      0.18140589569161,
+      0.4081632653061225,
+      1.043083900226757,
+      1.408070516154101,
+      1.859410430839002,
+      4.308390022675737,
+      4.580498866213152,
+      4.761904761904762,
+      5.079365079365079,
+      5.668934240362812,
+      5.941043083900227,
+      6.122448979591836,
+      6.712018140589569,
+      7.120181405895692,
+      7.573696145124717,
+      7.755102040816326,
+      8.072562358276643,
+      10.02267573696145,
+      10.34013605442177,
+      10.79365079365079,
+      11.06575963718821,
+      11.24716553287982,
+      11.65532879818594,
+      12.42630385487528,
+      12.7891156462585,
+      13.10657596371882,
+      13.42403628117914,
+      15.96371882086168,
+      16.23582766439909,
+      16.82539682539683,
+      17.09750566893424,
+      17.36961451247166,
+      17.73242630385488,
+      18.45804988662131,
+      18.77551020408163,
+      19.50113378684807,
+      19.86394557823129,
+      20.13605442176871,
+      20.49886621315193,
+      20.86167800453515,
+      22.13151927437642,
+      22.49433106575964,
+      22.89053589915157,
+      23.26530612244898,
+      23.6734693877551,
+      25.07936507936508,
+      25.35516873459062,
+      25.65298721065254,
+      26.43990929705215,
+      26.75736961451247,
+      27.1655328798186,
+      27.52791908620222,
+      27.98185941043084,
+      28.29931972789116,
+      28.67321119985755,
+      31.29251700680272,
+      31.56462585034014,
+      31.92743764172335,
+      32.19954648526077,
+      32.38095238095238,
+      32.6984126984127,
+      33.10657596371882,
+      33.41938928634804,
+      34.87528344671202,
+      35.14739229024944,
+      35.32879818594105,
+      35.87301587301587,
+      36.281179138322,
+      36.68934240362812,
+      36.96145124716553,
+      37.27891156462585,
+      37.63762054412637,
+      39.04761904761905,
+      39.27437641723356,
+      39.50113378684807,
+      39.8639455782313,
+      40.45351473922903,
+      40.68027210884354,
+      41.14154405998774,
+      43.6281179138322,
+      43.90022675736962,
+      44.26303854875283,
+      44.58049886621315,
+      44.80725623582767,
+      45.12471655328798,
+      45.66893424036281,
+      46.03174603174603,
+      47.61904761904762,
+      47.93650793650794,
+      48.16326530612245,
+      48.79818594104309,
+      49.1156462585034,
+      49.47845804988662,
+      50.47619047619047,
+      50.8390022675737,
+      51.06575963718821,
+      51.38321995464852,
+      51.74603174603175,
+      53.15192743764172,
+      53.42844855201953,
+      53.65079365079365,
+      54.01646617082748,
+      55.28344671201814,
+      55.64625850340136,
+      55.96371882086168,
+      56.27586428968245,
+      56.68934240362812,
+      56.96145124716553,
+      57.35842979883031,
+      57.74232016229194,
+      58.33501133786848,
+      58.33501133786848
+    ],
+    "sentence_indices": [
+      6,
+      9,
+      18,
+      26,
+      50,
+      69
+    ],
+    "sentence_translations": [
+      "Is your cat happy?",
+      "",
+      "How could you get to know if your cat is happy or not?",
+      "Look at its tail and you will know.",
+      "If the cat puts its tail up high and straight or rubs you with its body, it means the cat is happy to see you.",
+      "If the tail is downwards, the cat might be sad or feel uncomfortable.",
+      "If the tail is upwards while the end is curly, like a question mark, it means “come and play with me!”"
+    ]
+  }
+}

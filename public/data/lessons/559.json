@@ -1,0 +1,935 @@
+{
+  "id": "559",
+  "title": "Notice of Lost Dog",
+  "level": "intermediate",
+  "date": "2018-08-26",
+  "synopsis": "Aunt Li is looking for her yellow Pomeranian dog.",
+  "audioUrl": "https://static.duchinese.net/documents/807/193e5a7acacbfb343ae973d18ea754eff6a4b5c1.mp3?1532935057",
+  "series": null,
+  "fullText": {
+    "simplified": "寻狗启事\n\n    杰克，母，3岁。黄色博美，耳朵黑色，喊它名字它会看你。于2018年8月31日晚9点左右在南湖公园附近走失。希望好心人帮忙留意。能帮助将狗找回者，失主将不胜感激，必有重谢！\n    联系人：13759238606 李阿姨",
+    "traditional": "尋狗啟事\n\n    傑克，母，3歲。黃色博美，耳朵黑色，喊它名字它會看你。於2018年8月31日晚9點左右在南湖公園附近走失。希望好心人幫忙留意。能幫助將狗找回者，失主將不勝感激，必有重謝！\n    聯繫人：13759238606 李阿姨"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Notice of Lost Dog"
+    },
+    {
+      "index": 2,
+      "simplified": "杰克，母，3岁。",
+      "traditional": "傑克，母，3歲。",
+      "pinyin": "jié kè mǔ 1 suì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "黄色博美，耳朵黑色，喊它名字它会看你。",
+      "traditional": "黃色博美，耳朵黑色，喊它名字它會看你。",
+      "pinyin": "huáng sè bó měi ěr duo hēi sè hǎn tā míng zi tā huì kàn nǐ",
+      "english": "Jack, female, 3 years old."
+    },
+    {
+      "index": 4,
+      "simplified": "于2018年8月31日晚9点左右在南湖公园附近走失。",
+      "traditional": "於2018年8月31日晚9點左右在南湖公園附近走失。",
+      "pinyin": "yú 4 nián 1 yuè 3 rì wǎn 1 diǎn zuǒ yòu zài nán hú gōng yuán fù jìn zǒu shī",
+      "english": "Yellow Pomeranian, black ears. Will look at you if you call her name."
+    },
+    {
+      "index": 5,
+      "simplified": "希望好心人帮忙留意。",
+      "traditional": "希望好心人幫忙留意。",
+      "pinyin": "xī wàng hǎo xīn rén bāng máng liú yì",
+      "english": "Lost on 2018-08-31 around 9 p.m. in the Hunan Park area."
+    },
+    {
+      "index": 6,
+      "simplified": "能帮助将狗找回者，失主将不胜感激，必有重谢！",
+      "traditional": "能幫助將狗找回者，失主將不勝感激，必有重謝！",
+      "pinyin": "néng bāng zhù jiāng gǒu zhǎo huí zhě shī zhǔ jiāng bú shèng gǎn jī bì yǒu zhòng xiè",
+      "english": "Wish for someone kind to help keep this in mind."
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "If you can help retrieve the dog, the owner will be deeply appreciative and grateful!"
+    },
+    {
+      "index": 8,
+      "simplified": "联系人：13759238606 李阿姨",
+      "traditional": "聯繫人：13759238606 李阿姨",
+      "pinyin": "lián xì rén 11 lǐ ā yí",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "寻",
+      "traditional": "尋",
+      "pinyin": "xún",
+      "meaning": "to search\nto look for\nto seek",
+      "hsk": null
+    },
+    {
+      "hanzi": "狗",
+      "traditional": "狗",
+      "pinyin": "gǒu",
+      "meaning": "dog",
+      "hsk": 1
+    },
+    {
+      "hanzi": "启事",
+      "traditional": "啟事",
+      "pinyin": "qǐ shì",
+      "meaning": "announcement (written, on billboard, letter, newspaper or website)\nto post information",
+      "hsk": 6
+    },
+    {
+      "hanzi": "杰克",
+      "traditional": "傑克",
+      "pinyin": "jié kè",
+      "meaning": "Jack (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "母",
+      "traditional": "母",
+      "pinyin": "mǔ",
+      "meaning": "mother\n(of animals) female",
+      "hsk": null
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "黄色",
+      "traditional": "黃色",
+      "pinyin": "huáng sè",
+      "meaning": "yellow (color)",
+      "hsk": null
+    },
+    {
+      "hanzi": "博美",
+      "traditional": "博美",
+      "pinyin": "bó měi",
+      "meaning": "Pomeranian, dog breed",
+      "hsk": null
+    },
+    {
+      "hanzi": "耳朵",
+      "traditional": "耳朵",
+      "pinyin": "ěr duo",
+      "meaning": "ear",
+      "hsk": 3
+    },
+    {
+      "hanzi": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēi sè",
+      "meaning": "black",
+      "hsk": null
+    },
+    {
+      "hanzi": "喊",
+      "traditional": "喊",
+      "pinyin": "hǎn",
+      "meaning": "to yell\nto shout\nto call out for (a person)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "于",
+      "traditional": "於",
+      "pinyin": "yú",
+      "meaning": "at\non\nto",
+      "hsk": null
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "左右",
+      "traditional": "左右",
+      "pinyin": "zuǒ yòu",
+      "meaning": "nearby\napproximately",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "南湖",
+      "traditional": "南湖",
+      "pinyin": "nán hú",
+      "meaning": "Nanhu (place name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "公园",
+      "traditional": "公園",
+      "pinyin": "gōng yuán",
+      "meaning": "public park",
+      "hsk": 3
+    },
+    {
+      "hanzi": "附近",
+      "traditional": "附近",
+      "pinyin": "fù jìn",
+      "meaning": "(in the) vicinity\nnearby",
+      "hsk": 3
+    },
+    {
+      "hanzi": "走失",
+      "traditional": "走失",
+      "pinyin": "zǒu shī",
+      "meaning": "to lose (sb in one's charge)\nto get lost\nmissing",
+      "hsk": null
+    },
+    {
+      "hanzi": "希望",
+      "traditional": "希望",
+      "pinyin": "xī wàng",
+      "meaning": "to wish for\nto desire\nto hope",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好心",
+      "traditional": "好心",
+      "pinyin": "hǎo xīn",
+      "meaning": "kindness\ngood intentions",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮忙",
+      "traditional": "幫忙",
+      "pinyin": "bāng máng",
+      "meaning": "to help\nto lend a hand\nto do a favor",
+      "hsk": 3
+    },
+    {
+      "hanzi": "留意",
+      "traditional": "留意",
+      "pinyin": "liú yì",
+      "meaning": "to be mindful\nto pay attention to\nto take note of",
+      "hsk": null
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮助",
+      "traditional": "幫助",
+      "pinyin": "bāng zhù",
+      "meaning": "assistance\nto help",
+      "hsk": 2
+    },
+    {
+      "hanzi": "将",
+      "traditional": "將",
+      "pinyin": "jiāng",
+      "meaning": "(introduces object of main verb, used in the same way as 把)",
+      "hsk": null
+    },
+    {
+      "hanzi": "找回",
+      "traditional": "找回",
+      "pinyin": "zhǎo huí",
+      "meaning": "to retrieve",
+      "hsk": null
+    },
+    {
+      "hanzi": "者",
+      "traditional": "者",
+      "pinyin": "zhě",
+      "meaning": "(after a verb or adjective) one who (is) ...\n(after a noun) person involved in ...\n-er, -ist",
+      "hsk": null
+    },
+    {
+      "hanzi": "失主",
+      "traditional": "失主",
+      "pinyin": "shī zhǔ",
+      "meaning": "owner of lost property",
+      "hsk": null
+    },
+    {
+      "hanzi": "不胜",
+      "traditional": "不勝",
+      "pinyin": "bú shèng",
+      "meaning": "cannot bear or stand\nbe unequal to\nvery",
+      "hsk": null
+    },
+    {
+      "hanzi": "感激",
+      "traditional": "感激",
+      "pinyin": "gǎn jī",
+      "meaning": "to be grateful\nto appreciate\nthankful",
+      "hsk": 5
+    },
+    {
+      "hanzi": "必有重谢",
+      "traditional": "必有重謝",
+      "pinyin": "bì yǒu zhòng xiè",
+      "meaning": "(we) will be very grateful (if …)",
+      "hsk": null
+    },
+    {
+      "hanzi": "联系人",
+      "traditional": "聯繫人",
+      "pinyin": "lián xì rén",
+      "meaning": "contact person",
+      "hsk": 4
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "阿姨",
+      "traditional": "阿姨",
+      "pinyin": "ā yí",
+      "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "寻",
+        "pinyin": "xún",
+        "meaning": "to search\nto look for\nto seek",
+        "tc_hanzi": "尋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "启事",
+        "pinyin": "qǐ shì",
+        "meaning": "announcement (written, on billboard, letter, newspaper or website)\nto post information",
+        "tc_hanzi": "啟事"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "杰克",
+        "pinyin": "jié kè",
+        "meaning": "Jack (name)",
+        "tc_hanzi": "傑克"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "母",
+        "pinyin": "mǔ",
+        "meaning": "mother\n(of animals) female",
+        "tc_hanzi": "母"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "黄色",
+        "pinyin": "huáng sè",
+        "meaning": "yellow (color)",
+        "tc_hanzi": "黃色"
+      },
+      {
+        "hanzi": "博美",
+        "pinyin": "bó měi",
+        "meaning": "Pomeranian, dog breed",
+        "tc_hanzi": "博美"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "耳朵",
+        "pinyin": "ěr duo",
+        "meaning": "ear",
+        "tc_hanzi": "耳朵"
+      },
+      {
+        "hanzi": "黑色",
+        "pinyin": "hēi sè",
+        "meaning": "black",
+        "tc_hanzi": "黑色"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "喊",
+        "pinyin": "hǎn",
+        "meaning": "to yell\nto shout\nto call out for (a person)",
+        "tc_hanzi": "喊"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "于",
+        "pinyin": "yú",
+        "meaning": "at\non\nto",
+        "tc_hanzi": "於"
+      },
+      {
+        "hanzi": "2018",
+        "pinyin": "4",
+        "tc_hanzi": "2018"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "31",
+        "pinyin": "3",
+        "tc_hanzi": "31"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "1",
+        "tc_hanzi": "9"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "左右",
+        "pinyin": "zuǒ yòu",
+        "meaning": "nearby\napproximately",
+        "tc_hanzi": "左右"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "南湖",
+        "pinyin": "nán hú",
+        "meaning": "Nanhu (place name)",
+        "tc_hanzi": "南湖"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "附近",
+        "pinyin": "fù jìn",
+        "meaning": "(in the) vicinity\nnearby",
+        "tc_hanzi": "附近"
+      },
+      {
+        "hanzi": "走失",
+        "pinyin": "zǒu shī",
+        "meaning": "to lose (sb in one's charge)\nto get lost\nmissing",
+        "tc_hanzi": "走失"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "希望",
+        "pinyin": "xī wàng",
+        "meaning": "to wish for\nto desire\nto hope",
+        "tc_hanzi": "希望"
+      },
+      {
+        "hanzi": "好心",
+        "pinyin": "hǎo xīn",
+        "meaning": "kindness\ngood intentions",
+        "tc_hanzi": "好心"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "帮忙",
+        "pinyin": "bāng máng",
+        "meaning": "to help\nto lend a hand\nto do a favor",
+        "tc_hanzi": "幫忙"
+      },
+      {
+        "hanzi": "留意",
+        "pinyin": "liú yì",
+        "meaning": "to be mindful\nto pay attention to\nto take note of",
+        "tc_hanzi": "留意"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮助",
+        "pinyin": "bāng zhù",
+        "meaning": "assistance\nto help",
+        "tc_hanzi": "幫助"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "(introduces object of main verb, used in the same way as 把)",
+        "tc_hanzi": "將"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "hanzi": "找回",
+        "pinyin": "zhǎo huí",
+        "meaning": "to retrieve",
+        "tc_hanzi": "找回"
+      },
+      {
+        "hanzi": "者",
+        "pinyin": "zhě",
+        "meaning": "(after a verb or adjective) one who (is) ...\n(after a noun) person involved in ...\n-er, -ist",
+        "tc_hanzi": "者"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "失主",
+        "pinyin": "shī zhǔ",
+        "meaning": "owner of lost property",
+        "tc_hanzi": "失主"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "will\nshall",
+        "tc_hanzi": "將"
+      },
+      {
+        "hanzi": "不胜",
+        "pinyin": "bú shèng",
+        "meaning": "cannot bear or stand\nbe unequal to\nvery",
+        "tc_hanzi": "不勝"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "感激",
+        "pinyin": "gǎn jī",
+        "meaning": "to be grateful\nto appreciate\nthankful",
+        "tc_hanzi": "感激"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "必有重谢",
+        "pinyin": "bì yǒu zhòng xiè",
+        "meaning": "(we) will be very grateful (if …)",
+        "tc_hanzi": "必有重謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "联系人",
+        "pinyin": "lián xì rén",
+        "meaning": "contact person",
+        "tc_hanzi": "聯繫人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "13759238606",
+        "pinyin": "11",
+        "tc_hanzi": "13759238606"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Aunt Li is looking for her yellow Pomeranian dog.",
+    "syllable_times": [
+      0.5895691609977324,
+      0.9977324263038548,
+      1.4282982567012423,
+      3.2199546485260773,
+      3.582766439909297,
+      4.535147392290249,
+      5.487528344671202,
+      5.935016436516556,
+      7.18565221391405,
+      7.614061962063104,
+      7.936507936507937,
+      8.284448804312479,
+      9.297052154195011,
+      9.65986394557823,
+      10.113378684807257,
+      10.38548752834467,
+      11.564625850340136,
+      11.882086167800454,
+      12.135840037905163,
+      12.517006802721088,
+      13.106575963718821,
+      13.514739229024944,
+      13.786848072562359,
+      14.205379860547277,
+      15.600907029478458,
+      16.281179138321995,
+      16.643990929705215,
+      16.91609977324263,
+      17.188208616780045,
+      17.48126159685908,
+      18.231292517006803,
+      18.594104308390023,
+      19.002267573696145,
+      19.31972789115646,
+      19.591836734693878,
+      19.909297052154194,
+      20.453514739229025,
+      21.08843537414966,
+      21.496598639455783,
+      21.723356009070294,
+      22.040816326530614,
+      22.857142857142858,
+      23.310657596371883,
+      23.6734693877551,
+      23.854875283446713,
+      24.0670427169784,
+      24.308311110089225,
+      24.53514739229025,
+      24.897959183673468,
+      25.17635191896487,
+      26.575963718820862,
+      26.89342403628118,
+      27.3015873015873,
+      27.599127167422267,
+      27.88916304737264,
+      28.480725623582767,
+      28.707482993197278,
+      28.979591836734695,
+      29.206349206349206,
+      30.521541950113377,
+      31.020408163265305,
+      31.337868480725625,
+      31.65532879818594,
+      31.972789115646258,
+      32.426303854875286,
+      32.7891156462585,
+      33.01587301587302,
+      33.87755102040816,
+      34.240362811791385,
+      34.73922902494331,
+      35.23809523809524,
+      35.55555555555556,
+      35.87301587301587,
+      36.19047619047619,
+      37.09750566893424,
+      37.414965986394556,
+      37.75591233385129,
+      38.0273891066393,
+      39.59183673469388,
+      39.92666346467107,
+      40.178606666436146,
+      41.13378684807256,
+      41.45124716553288,
+      41.723356009070294,
+      42.53968253968254,
+      42.857142857142854,
+      43.17460317460318,
+      43.492063492063494,
+      44.21768707482993,
+      44.53514739229025,
+      44.89795918367347,
+      45.12471655328798,
+      46.21315192743764,
+      46.57596371882086,
+      46.90289453618968,
+      47.533968253968254,
+      47.533968253968254
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      13,
+      27,
+      44,
+      50,
+      64,
+      66
+    ],
+    "sentence_translations": [
+      "Notice of Lost Dog",
+      "",
+      "Jack, female, 3 years old.",
+      "Yellow Pomeranian, black ears. Will look at you if you call her name.",
+      "Lost on 2018-08-31 around 9 p.m. in the Hunan Park area.",
+      "Wish for someone kind to help keep this in mind.",
+      "If you can help retrieve the dog, the owner will be deeply appreciative and grateful!",
+      "",
+      "Contact person: 13759238606 Aunt Li"
+    ]
+  }
+}

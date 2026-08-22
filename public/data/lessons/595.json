@@ -1,0 +1,566 @@
+{
+  "id": "595",
+  "title": "Is Her Singing Any Good?",
+  "level": "elementary",
+  "date": "2018-12-29",
+  "synopsis": "Little Yu questions Lili’s singing abilities.",
+  "audioUrl": "https://static.duchinese.net/documents/906/aa15981baac6def852667cde5e67f0bc7126323d.mp3?1698350397",
+  "series": null,
+  "fullText": {
+    "simplified": "她的歌能听吗\n\n小雨：丽丽呢？\n林林：她去唱歌了。\n小雨：她？唱歌？她的歌能听吗？\n林林：她不行，你行你上啊！",
+    "traditional": "她的歌能聽嗎\n\n小雨：麗麗呢？\n林林：她去唱歌了。\n小雨：她？唱歌？她的歌能聽嗎？\n林林：她不行，你行你上啊！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Is Her Singing Any Good?"
+    },
+    {
+      "index": 2,
+      "simplified": "小雨：丽丽呢？",
+      "traditional": "小雨：麗麗呢？",
+      "pinyin": "xiǎo yǔ lì lì ne",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Where’s Lili?"
+    },
+    {
+      "index": 4,
+      "simplified": "林林：她去唱歌了。",
+      "traditional": "林林：她去唱歌了。",
+      "pinyin": "lín lín tā qù chàng gē le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Lin: She went to sing."
+    },
+    {
+      "index": 6,
+      "simplified": "小雨：她？唱歌？她的歌能听吗？",
+      "traditional": "小雨：她？唱歌？她的歌能聽嗎？",
+      "pinyin": "xiǎo yǔ tā chàng gē tā de gē néng tīng ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Her? Sing? Is her singing any good?"
+    },
+    {
+      "index": 8,
+      "simplified": "林林：她不行，你行你上啊！",
+      "traditional": "林林：她不行，你行你上啊！",
+      "pinyin": "lín lín tā bù xíng nǐ xíng nǐ shàng a",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lin Lin: If she’s no good, let’s see you do better!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "歌",
+      "traditional": "歌",
+      "pinyin": "gē",
+      "meaning": "song\nto sing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "林林",
+      "traditional": "林林",
+      "pinyin": "lín lín",
+      "meaning": "Lin Lin (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "唱歌",
+      "traditional": "唱歌",
+      "pinyin": "chàng gē",
+      "meaning": "to sing a song",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不行",
+      "traditional": "不行",
+      "pinyin": "bù xíng",
+      "meaning": "won't do\nbe out of the question\nbe no good",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "行",
+      "traditional": "行",
+      "pinyin": "xíng",
+      "meaning": "all right\nOK!",
+      "hsk": 4
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "to get onto\nto go up",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song\nto sing",
+        "tc_hanzi": "歌"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林林",
+        "pinyin": "lín lín",
+        "meaning": "Lin Lin (name)",
+        "tc_hanzi": "林林"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "唱歌",
+        "pinyin": "chàng gē",
+        "meaning": "to sing a song",
+        "tc_hanzi": "唱歌"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "唱歌",
+        "pinyin": "chàng gē",
+        "meaning": "to sing a song",
+        "tc_hanzi": "唱歌"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song\nto sing",
+        "tc_hanzi": "歌"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林林",
+        "pinyin": "lín lín",
+        "meaning": "Lin Lin (name)",
+        "tc_hanzi": "林林"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hanzi": "不行",
+        "pinyin": "bù xíng",
+        "meaning": "won't do\nbe out of the question\nbe no good",
+        "tc_hanzi": "不行"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "行",
+        "pinyin": "xíng",
+        "meaning": "all right\nOK!",
+        "tc_hanzi": "行"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Yu questions Lili’s singing abilities.",
+    "syllable_times": [
+      0.4365079365079365,
+      0.6235827664399093,
+      1.45,
+      1.9897959183673468,
+      2.4886621315192743,
+      4.56,
+      4.56,
+      4.56,
+      4.937641723356009,
+      5.136054421768708,
+      7,
+      7,
+      7,
+      7.409297052154195,
+      8.09,
+      8.639455782312925,
+      9.03061224489796,
+      10.640589569160998,
+      10.640589569160998,
+      10.640589569160998,
+      12.13,
+      12.488662131519273,
+      13.93,
+      14.33673469387755,
+      14.535147392290249,
+      15.13,
+      15.515873015873016,
+      15.873015873015872,
+      17.41,
+      17.41,
+      17.41,
+      17.885487528344672,
+      18.021541950113377,
+      18.88,
+      19.268707482993197,
+      19.86,
+      20.21,
+      20.674603174603174,
+      21.6
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      13,
+      14,
+      21,
+      22,
+      35,
+      36,
+      47
+    ],
+    "sentence_translations": [
+      "Is Her Singing Any Good?",
+      "",
+      "Little Yu: Where’s Lili?",
+      "",
+      "Lin Lin: She went to sing.",
+      "",
+      "Little Yu: Her? Sing? Is her singing any good?",
+      "",
+      "Lin Lin: If she’s no good, let’s see you do better!",
+      ""
+    ]
+  }
+}

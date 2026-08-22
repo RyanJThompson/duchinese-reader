@@ -1,0 +1,591 @@
+{
+  "id": "602",
+  "title": "A Note for Manager Wang",
+  "level": "intermediate",
+  "date": "2018-11-04",
+  "synopsis": "He Jing leaves a note for Manager Wang.",
+  "audioUrl": "https://static.duchinese.net/documents/879/3d5581cc0be4a841c9c2ad1fc0c09f3251ae9e45.mp3?1539498158",
+  "series": null,
+  "fullText": {
+    "simplified": "给王经理的便条\n\n王经理：\n    李冬女士让您今天下午3点前给她打电话。她的电话号码是：13877038906。\n    何京\n    2018年10月28日",
+    "traditional": "給王經理的便條\n\n王經理：\n    李冬女士讓您今天下午3點前給她打電話。她的電話號碼是：13877038906。\n    何京\n    2018年10月28日"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "A Note for Manager Wang"
+    },
+    {
+      "index": 2,
+      "simplified": "王经理：",
+      "traditional": "王經理：",
+      "pinyin": "wáng jīng lǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Manager Wang:"
+    },
+    {
+      "index": 4,
+      "simplified": "李冬女士让您今天下午3点前给她打电话。",
+      "traditional": "李冬女士讓您今天下午3點前給她打電話。",
+      "pinyin": "lǐ dōng nǚ shì ràng nín jīn tiān xià wǔ 1 diǎn qián gěi tā dǎ diàn huà",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "她的电话号码是：13877038906。",
+      "traditional": "她的電話號碼是：13877038906。",
+      "pinyin": "tā de diàn huà hào mǎ shì 11",
+      "english": "Ms. Li Dong asked you to call her before 3 o'clock this afternoon."
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Her phone number is: 13877038906."
+    },
+    {
+      "index": 7,
+      "simplified": "何京",
+      "traditional": "何京",
+      "pinyin": "hé jīng",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "He Jing"
+    },
+    {
+      "index": 9,
+      "simplified": "2018年10月28日",
+      "traditional": "2018年10月28日",
+      "pinyin": "4 nián 1 yuè 3 rì",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "经理",
+      "traditional": "經理",
+      "pinyin": "jīng lǐ",
+      "meaning": "manager\ndirector",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "便条",
+      "traditional": "便條",
+      "pinyin": "biàn tiáo",
+      "meaning": "(informal) note",
+      "hsk": 6
+    },
+    {
+      "hanzi": "李冬",
+      "traditional": "李冬",
+      "pinyin": "lǐ dōng",
+      "meaning": "Li Dong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "女士",
+      "traditional": "女士",
+      "pinyin": "nǚ shì",
+      "meaning": "lady\nmadam",
+      "hsk": 5
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "before\nago",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号码",
+      "traditional": "號碼",
+      "pinyin": "hào mǎ",
+      "meaning": "number",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "何京",
+      "traditional": "何京",
+      "pinyin": "hé jīng",
+      "meaning": "He Jing (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "便条",
+        "pinyin": "biàn tiáo",
+        "meaning": "(informal) note",
+        "tc_hanzi": "便條"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "李冬",
+        "pinyin": "lǐ dōng",
+        "meaning": "Li Dong (name)",
+        "tc_hanzi": "李冬"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "女士",
+        "pinyin": "nǚ shì",
+        "meaning": "lady\nmadam",
+        "tc_hanzi": "女士"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "before\nago",
+        "tc_hanzi": "前"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "号码",
+        "pinyin": "hào mǎ",
+        "meaning": "number",
+        "tc_hanzi": "號碼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "13877038906",
+        "pinyin": "11",
+        "tc_hanzi": "13877038906"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "何京",
+        "pinyin": "hé jīng",
+        "meaning": "He Jing (name)",
+        "tc_hanzi": "何京"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "2018",
+        "pinyin": "4",
+        "tc_hanzi": "2018"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "28",
+        "pinyin": "3",
+        "tc_hanzi": "28"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      }
+    ],
+    "version": 2,
+    "synopsis": "He Jing leaves a note for Manager Wang.",
+    "syllable_times": [
+      0.7256235827664399,
+      1.1337868480725624,
+      1.5419501133786848,
+      1.8140589569160999,
+      2.3582766439909295,
+      2.630385487528345,
+      4.580498866213152,
+      4.9433106575963714,
+      5.3061224489795915,
+      6.530612244897959,
+      6.893424036281179,
+      7.275663212940567,
+      7.619047619047619,
+      8.508077900827551,
+      8.888677206396446,
+      9.297052154195011,
+      9.750566893424036,
+      10.067182895381649,
+      10.447737867892238,
+      10.978493241948247,
+      11.473922902494332,
+      11.779414273329456,
+      12.607709750566894,
+      12.92517006802721,
+      13.560090702947846,
+      13.877551020408163,
+      14.285714285714286,
+      15.691609977324264,
+      16.009070294784582,
+      16.462585034013607,
+      16.87074829931973,
+      17.233560090702948,
+      17.551020408163264,
+      17.77777777777778,
+      19.09297052154195,
+      19.45578231292517,
+      19.81859410430839,
+      20.589569160997733,
+      20.997732426303855,
+      21.360544217687075,
+      22.17687074829932,
+      22.630385487528343,
+      23.12925170068027,
+      23.537414965986393,
+      23.914183459713822,
+      25.351473922902493,
+      25.759637188208618,
+      26.802721088435373,
+      27.158608851336993,
+      27.573696145124718,
+      27.891156462585034,
+      28.253968253968253,
+      29.024943310657598,
+      29.614512471655328,
+      30.249433106575964,
+      30.535236237318934,
+      30.975056689342402,
+      31.383219954648528,
+      31.914104308390023,
+      31.914104308390023
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      10,
+      12,
+      25,
+      33,
+      35,
+      36,
+      38
+    ],
+    "sentence_translations": [
+      "A Note for Manager Wang",
+      "",
+      "Manager Wang:",
+      "",
+      "Ms. Li Dong asked you to call her before 3 o'clock this afternoon.",
+      "Her phone number is: 13877038906.",
+      "",
+      "He Jing",
+      "",
+      "2018-10-28"
+    ]
+  }
+}

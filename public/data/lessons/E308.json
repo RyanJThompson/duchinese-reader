@@ -1,0 +1,912 @@
+{
+  "id": "E308",
+  "title": "Be More Buddha-Style",
+  "level": "intermediate",
+  "date": "2019-03-24",
+  "synopsis": "“Buddha-style” is the number one Chinese Buzzword of 2018.",
+  "audioUrl": "https://static.duchinese.net/documents/1000/094b25ed4431643bf1f0dad7800c5f62780aa6b3.mp3?1552124962",
+  "series": null,
+  "fullText": {
+    "simplified": "佛系一点吧\n\n小乐：保罗，明天的汉语考试你准备好了吗？\n保罗：还没有。\n小乐：那你还在玩游戏？你也太佛系了吧！\n保罗：没关系。不要着急，还有一个晚上呢。佛系一点！\n小乐：你自己去佛系吧。我去学习了！",
+    "traditional": "佛系一點吧\n\n小樂：保羅，明天的漢語考試你準備好了嗎？\n保羅：還沒有。\n小樂：那你還在玩遊戲？你也太佛系了吧！\n保羅：沒關係。不要著急，還有一個晚上呢。佛系一點！\n小樂：你自己去佛系吧。我去學習了！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Be More Buddha-Style"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：保罗，明天的汉语考试你准备好了吗？",
+      "traditional": "小樂：保羅，明天的漢語考試你準備好了嗎？",
+      "pinyin": "xiǎo lè bǎo luó míng tiān de hàn yǔ kǎo shì nǐ zhǔn bèi hǎo le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Paul, have you prepared for tomorrow’s Chinese test?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：还没有。",
+      "traditional": "保羅：還沒有。",
+      "pinyin": "bǎo luó hái méi yǒu",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Not yet."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：那你还在玩游戏？你也太佛系了吧！",
+      "traditional": "小樂：那你還在玩遊戲？你也太佛系了吧！",
+      "pinyin": "xiǎo lè nà nǐ hái zài wán yóu xì nǐ yě tài fó xì le ba",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Are you still playing games? You are too Buddha-style!"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：没关系。不要着急，还有一个晚上呢。佛系一点！",
+      "traditional": "保羅：沒關係。不要著急，還有一個晚上呢。佛系一點！",
+      "pinyin": "bǎo luó méi guān xi bú yào zháo jí hái yǒu yí ge wǎn shang ne fó xì yì diǎn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: It’s okay. Don't worry. I still have the entire night. Be more Buddha-style!"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：你自己去佛系吧。我去学习了！",
+      "traditional": "小樂：你自己去佛系吧。我去學習了！",
+      "pinyin": "xiǎo lè nǐ zì jǐ qù fó xì ba wǒ qù xué xí le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: You can be Buddha-style on your own. I will go to study!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "佛系",
+      "traditional": "佛系",
+      "pinyin": "fó xì",
+      "meaning": "lit. Buddha-style\ncalm and without desires",
+      "hsk": null
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "meaning": "to take an exam\nexam",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "meaning": "preparation\nto prepare\nto be about to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "游戏",
+      "traditional": "遊戲",
+      "pinyin": "yóu xì",
+      "meaning": "game",
+      "hsk": 3
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    },
+    {
+      "hanzi": "着急",
+      "traditional": "著急",
+      "pinyin": "zháo jí",
+      "meaning": "to worry\nto feel anxious",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "meaning": "to learn\nto study",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "佛系",
+        "pinyin": "fó xì",
+        "meaning": "lit. Buddha-style\ncalm and without desires",
+        "tc_hanzi": "佛系"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "考试",
+        "pinyin": "kǎo shì",
+        "meaning": "to take an exam\nexam",
+        "tc_hanzi": "考試"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "准备",
+        "pinyin": "zhǔn bèi",
+        "meaning": "preparation\nto prepare\nto be about to",
+        "tc_hanzi": "準備"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game",
+        "tc_hanzi": "遊戲"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "佛系",
+        "pinyin": "fó xì",
+        "meaning": "lit. Buddha-style\ncalm and without desires",
+        "tc_hanzi": "佛系"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "着急",
+        "pinyin": "zháo jí",
+        "meaning": "to worry\nto feel anxious",
+        "tc_hanzi": "著急"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "佛系",
+        "pinyin": "fó xì",
+        "meaning": "lit. Buddha-style\ncalm and without desires",
+        "tc_hanzi": "佛系"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "佛系",
+        "pinyin": "fó xì",
+        "meaning": "lit. Buddha-style\ncalm and without desires",
+        "tc_hanzi": "佛系"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学习",
+        "pinyin": "xué xí",
+        "meaning": "to learn\nto study",
+        "tc_hanzi": "學習"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "“Buddha-style” is the number one Chinese Buzzword of 2018.",
+    "syllable_times": [
+      0.4639225897744773,
+      0.9070294784580499,
+      1.1337868480725624,
+      1.4965986394557824,
+      3.8956459280718296,
+      3.8956459280718296,
+      3.8956459280718296,
+      4.173972873241949,
+      5.124716553287982,
+      5.477044994008938,
+      5.649291943505551,
+      5.804988662131519,
+      6.031746031746032,
+      6.227764963390674,
+      6.480813648722209,
+      7.041370147598931,
+      7.301587301587301,
+      7.5618362133281405,
+      7.785748378108882,
+      8.039994454695927,
+      8.208616780045352,
+      9.913758696074082,
+      9.913758696074082,
+      9.913758696074082,
+      10.430839002267573,
+      10.683149099476948,
+      12.188713385898298,
+      12.188713385898298,
+      12.188713385898298,
+      12.517006802721088,
+      12.702882060580002,
+      12.92517006802721,
+      13.151927437641723,
+      13.361092468517366,
+      13.591346372169893,
+      14.875703711091473,
+      15.073539355196619,
+      15.28344671201814,
+      15.691609977324264,
+      15.957435840885857,
+      16.19047619047619,
+      16.3718820861678,
+      18.24990792129997,
+      18.24990792129997,
+      18.24990792129997,
+      18.594104308390023,
+      18.941523917171764,
+      20.090702947845806,
+      20.372495163157144,
+      20.77097505668934,
+      21.179138321995463,
+      22.312925170068027,
+      22.675736961451246,
+      23.01904027260858,
+      23.26530612244898,
+      23.582766439909296,
+      23.990929705215418,
+      24.217687074829932,
+      25.306900179297767,
+      25.714285714285715,
+      25.990477542722275,
+      26.16780045351474,
+      28.204417980112,
+      28.204417980112,
+      28.204417980112,
+      28.435374149659864,
+      28.707482993197278,
+      29.024943310657598,
+      29.29705215419501,
+      29.583191836921916,
+      29.841269841269842,
+      31.065759637188208,
+      31.383219954648528,
+      31.662794360800568,
+      31.953804783714258,
+      32.23612303306942,
+      32.74215419501134,
+      32.74215419501134
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      19,
+      20,
+      25,
+      26,
+      42,
+      43,
+      60,
+      61,
+      74
+    ],
+    "sentence_translations": [
+      "Be More Buddha-Style",
+      "",
+      "Little Le: Paul, have you prepared for tomorrow’s Chinese test?",
+      "",
+      "Paul: Not yet.",
+      "",
+      "Little Le: Are you still playing games? You are too Buddha-style!",
+      "",
+      "Paul: It’s okay. Don't worry. I still have the entire night. Be more Buddha-style!",
+      "",
+      "Little Le: You can be Buddha-style on your own. I will go to study!",
+      ""
+    ]
+  }
+}

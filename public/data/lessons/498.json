@@ -1,0 +1,949 @@
+{
+  "id": "498",
+  "title": "Ben’s Diary – Spring Festival",
+  "level": "elementary",
+  "date": "2018-02-15",
+  "synopsis": "Ben spends Chinese New Year with his friends.",
+  "audioUrl": "https://static.duchinese.net/documents/662/6e2c8cceb93deafebe4f390c165887f487ddd30e.mp3?1589791651",
+  "series": {
+    "title": "Ben’s life in China 3: Who is Little Yu?",
+    "chapter": 19,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "本的日记—春节\n\n    过年了！今天是中国的除夕，我、麦克和露西一起包饺子吃。这是我第一次包饺子，包得不是很好看，但是很好吃。晚上，我们一边喝酒，一边看春晚。春晚里有的人唱歌，有的人跳舞。我觉得春晚很好看。",
+    "traditional": "本的日記—春節\n\n    過年了！今天是中國的除夕，我、麥克和露西一起包餃子吃。這是我第一次包餃子，包得不是很好看，但是很好吃。晚上，我們一邊喝酒，一邊看春晚。春晚裡有的人唱歌，有的人跳舞。我覺得春晚很好看。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ben’s Diary – Spring Festival"
+    },
+    {
+      "index": 2,
+      "simplified": "过年了！",
+      "traditional": "過年了！",
+      "pinyin": "guò nián le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "今天是中国的除夕，我、麦克和露西一起包饺子吃。",
+      "traditional": "今天是中國的除夕，我、麥克和露西一起包餃子吃。",
+      "pinyin": "jīn tiān shì zhōng guó de chú xī wǒ mài kè hé lù xī yì qǐ bāo jiǎo zi chī",
+      "english": "The New Year is here!"
+    },
+    {
+      "index": 4,
+      "simplified": "这是我第一次包饺子，包得不是很好看，但是很好吃。",
+      "traditional": "這是我第一次包餃子，包得不是很好看，但是很好吃。",
+      "pinyin": "zhè shì wǒ dì yī cì bāo jiǎo zi bāo de bú shì hěn hǎo kàn dàn shì hěn hǎo chī",
+      "english": "Today is the Chinese New Year’s Eve. Mike, Lucy, and I made dumplings and ate them together."
+    },
+    {
+      "index": 5,
+      "simplified": "晚上，我们一边喝酒，一边看春晚。",
+      "traditional": "晚上，我們一邊喝酒，一邊看春晚。",
+      "pinyin": "wǎn shang wǒ men yì biān hē jiǔ yì biān kàn chūn wǎn",
+      "english": "This was the first time I made dumplings. Although they didn’t look that good, they were delicious."
+    },
+    {
+      "index": 6,
+      "simplified": "春晚里有的人唱歌，有的人跳舞。",
+      "traditional": "春晚裡有的人唱歌，有的人跳舞。",
+      "pinyin": "chūn wǎn lǐ yǒu de rén chàng gē yǒu de rén tiào wǔ",
+      "english": "In the evening, we watched the Spring Festival Gala while drinking."
+    },
+    {
+      "index": 7,
+      "simplified": "我觉得春晚很好看。",
+      "traditional": "我覺得春晚很好看。",
+      "pinyin": "wǒ jué de chūn wǎn hěn hǎo kàn",
+      "english": "Some people in the Spring Festival Gala were singing, others were dancing."
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "I think the Spring Festival Gala was great."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "春节",
+      "traditional": "春節",
+      "pinyin": "chūn jié",
+      "meaning": "Spring Festival (Chinese New Year)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "过年",
+      "traditional": "過年",
+      "pinyin": "guò nián",
+      "meaning": "to celebrate the Chinese New Year",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "除夕",
+      "traditional": "除夕",
+      "pinyin": "chú xī",
+      "meaning": "lunar New Year's Eve",
+      "hsk": 5
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "麦克",
+      "traditional": "麥克",
+      "pinyin": "mài kè",
+      "meaning": "Mike (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "露西",
+      "traditional": "露西",
+      "pinyin": "lù xī",
+      "meaning": "Lucy (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "meaning": "to cover\nto wrap\nto hold",
+      "hsk": 3
+    },
+    {
+      "hanzi": "饺子",
+      "traditional": "餃子",
+      "pinyin": "jiǎo zi",
+      "meaning": "crescent-shaped dumpling\njiaozi",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一边",
+      "traditional": "一邊",
+      "pinyin": "yì biān",
+      "meaning": "on the one hand\ndoing while",
+      "hsk": 3
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "酒",
+      "traditional": "酒",
+      "pinyin": "jiǔ",
+      "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "春晚",
+      "traditional": "春晚",
+      "pinyin": "chūn wǎn",
+      "meaning": "Spring Festival Gala, annual TV show in China\nshort for 春节联欢晚会|春節聯歡晚會",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有的",
+      "traditional": "有的",
+      "pinyin": "yǒu de",
+      "meaning": "(there are) some\nsome (exist)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "唱歌",
+      "traditional": "唱歌",
+      "pinyin": "chàng gē",
+      "meaning": "to sing a song",
+      "hsk": 2
+    },
+    {
+      "hanzi": "跳舞",
+      "traditional": "跳舞",
+      "pinyin": "tiào wǔ",
+      "meaning": "to dance",
+      "hsk": 2
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "—",
+        "tc_hanzi": "—"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "春节",
+        "pinyin": "chūn jié",
+        "meaning": "Spring Festival (Chinese New Year)",
+        "tc_hanzi": "春節"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "过年",
+        "pinyin": "guò nián",
+        "meaning": "to celebrate the Chinese New Year",
+        "tc_hanzi": "過年"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "除夕",
+        "pinyin": "chú xī",
+        "meaning": "lunar New Year's Eve",
+        "tc_hanzi": "除夕"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "麦克",
+        "pinyin": "mài kè",
+        "meaning": "Mike (name)",
+        "tc_hanzi": "麥克"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "to cover\nto wrap\nto hold",
+        "tc_hanzi": "包"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "饺子",
+        "pinyin": "jiǎo zi",
+        "meaning": "crescent-shaped dumpling\njiaozi",
+        "tc_hanzi": "餃子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "to cover\nto wrap\nto hold",
+        "tc_hanzi": "包"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "饺子",
+        "pinyin": "jiǎo zi",
+        "meaning": "crescent-shaped dumpling\njiaozi",
+        "tc_hanzi": "餃子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "to cover\nto wrap\nto hold",
+        "tc_hanzi": "包"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+        "tc_hanzi": "酒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "春晚",
+        "pinyin": "chūn wǎn",
+        "meaning": "Spring Festival Gala, annual TV show in China\nshort for 春节联欢晚会|春節聯歡晚會",
+        "tc_hanzi": "春晚"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "春晚",
+        "pinyin": "chūn wǎn",
+        "meaning": "Spring Festival Gala, annual TV show in China\nshort for 春节联欢晚会|春節聯歡晚會",
+        "tc_hanzi": "春晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有的",
+        "pinyin": "yǒu de",
+        "meaning": "(there are) some\nsome (exist)",
+        "tc_hanzi": "有的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "唱歌",
+        "pinyin": "chàng gē",
+        "meaning": "to sing a song",
+        "tc_hanzi": "唱歌"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有的",
+        "pinyin": "yǒu de",
+        "meaning": "(there are) some\nsome (exist)",
+        "tc_hanzi": "有的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跳舞",
+        "pinyin": "tiào wǔ",
+        "meaning": "to dance",
+        "tc_hanzi": "跳舞"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hanzi": "春晚",
+        "pinyin": "chūn wǎn",
+        "meaning": "Spring Festival Gala, annual TV show in China\nshort for 春节联欢晚会|春節聯歡晚會",
+        "tc_hanzi": "春晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben spends Chinese New Year with his friends.",
+    "syllable_times": [
+      0.63,
+      1.22,
+      1.6723356009070294,
+      2.86,
+      3.38,
+      5.09,
+      5.359999999999999,
+      5.776643990929705,
+      7.14,
+      7.465986394557823,
+      8.07,
+      8.61,
+      9.047619047619047,
+      9.290000000000001,
+      9.7,
+      10.090702947845804,
+      11.53628117913832,
+      12.59,
+      13.00453514739229,
+      13.77,
+      14.44,
+      14.750566893424036,
+      15.62,
+      16.01,
+      16.71,
+      17.02,
+      17.52,
+      17.794784580498867,
+      19.19,
+      19.501133786848072,
+      20.034013605442176,
+      20.41,
+      20.742630385487526,
+      21.03174603174603,
+      21.55,
+      21.87074829931973,
+      22.32,
+      23.72,
+      24.1,
+      24.64,
+      24.97,
+      25.396825396825395,
+      25.665,
+      26.08,
+      27.56,
+      27.953514739229025,
+      28.65,
+      29.015,
+      29.38,
+      31.58,
+      31.989795918367346,
+      33.151927437641724,
+      33.497732426303855,
+      33.94,
+      34.3140589569161,
+      34.688208616780045,
+      35.08,
+      36.07,
+      36.48526077097505,
+      37.07,
+      37.48866213151927,
+      37.85,
+      39.99,
+      40.3,
+      40.68027210884354,
+      41.43,
+      41.91,
+      42.12,
+      42.64,
+      43.105000000000004,
+      44.04,
+      44.416666666666664,
+      44.739229024943306,
+      45.21,
+      45.697278911564624,
+      47.590702947845806,
+      47.89,
+      48.26,
+      48.84,
+      49.28,
+      49.95,
+      50.33,
+      50.75,
+      51.432948,
+      51.432948
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      11,
+      27,
+      47,
+      58,
+      68,
+      74
+    ],
+    "sentence_translations": [
+      "Ben’s Diary – Spring Festival",
+      "",
+      "The New Year is here!",
+      "Today is the Chinese New Year’s Eve. Mike, Lucy, and I made dumplings and ate them together.",
+      "This was the first time I made dumplings. Although they didn’t look that good, they were delicious.",
+      "In the evening, we watched the Spring Festival Gala while drinking.",
+      "Some people in the Spring Festival Gala were singing, others were dancing.",
+      "I think the Spring Festival Gala was great."
+    ]
+  }
+}

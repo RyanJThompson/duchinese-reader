@@ -1,0 +1,511 @@
+{
+  "id": "E159",
+  "title": "Can I Sit Here?",
+  "level": "newbie",
+  "date": "2017-10-21",
+  "synopsis": "Little Ming is looking for a seat in the library.",
+  "audioUrl": "https://static.duchinese.net/documents/555/b0b5e0577da5498bfeec153dbeda02478e70e1ad.mp3?1508044607",
+  "series": null,
+  "fullText": {
+    "simplified": "我可以坐这儿吗？\n\n小明: 不好意思，这儿有人吗？\n女生: 没有。\n小明: 我可以坐这儿吗？\n女生: 可以，请坐。\n小明: 谢谢。",
+    "traditional": "我可以坐這兒嗎？\n\n小明: 不好意思，這兒有人嗎？\n女生: 沒有。\n小明: 我可以坐這兒嗎？\n女生: 可以，請坐。\n小明: 謝謝。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can I sit here?"
+    },
+    {
+      "index": 2,
+      "simplified": "小明: 不好意思，这儿有人吗？",
+      "traditional": "小明: 不好意思，這兒有人嗎？",
+      "pinyin": "xiǎo míng bù hǎo yì si zhè‘r yǒu rén ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Littile Ming: Excuse me, is this seat taken?"
+    },
+    {
+      "index": 4,
+      "simplified": "女生: 没有。",
+      "traditional": "女生: 沒有。",
+      "pinyin": "nǚ shēng méi yǒu",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Girl: No."
+    },
+    {
+      "index": 6,
+      "simplified": "小明: 我可以坐这儿吗？",
+      "traditional": "小明: 我可以坐這兒嗎？",
+      "pinyin": "xiǎo míng wǒ kě yǐ zuò zhè‘r ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Littile Ming: Can I sit here?"
+    },
+    {
+      "index": 8,
+      "simplified": "女生: 可以，请坐。",
+      "traditional": "女生: 可以，請坐。",
+      "pinyin": "nǚ shēng kě yǐ qǐng zuò",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Girl: Yes, go ahead."
+    },
+    {
+      "index": 10,
+      "simplified": "小明: 谢谢。",
+      "traditional": "小明: 謝謝。",
+      "pinyin": "xiǎo míng xiè xie",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Littile Ming: Thanks."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女生",
+      "traditional": "女生",
+      "pinyin": "nǚ shēng",
+      "meaning": "schoolgirl\nfemale student\ngirl",
+      "hsk": null
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": ": ",
+        "tc_hanzi": ": "
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "女生",
+        "pinyin": "nǚ shēng",
+        "meaning": "schoolgirl\nfemale student\ngirl",
+        "tc_hanzi": "女生"
+      },
+      {
+        "hanzi": ": ",
+        "tc_hanzi": ": "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": ": ",
+        "tc_hanzi": ": "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "女生",
+        "pinyin": "nǚ shēng",
+        "meaning": "schoolgirl\nfemale student\ngirl",
+        "tc_hanzi": "女生"
+      },
+      {
+        "hanzi": ": ",
+        "tc_hanzi": ": "
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": ": ",
+        "tc_hanzi": ": "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is looking for a seat in the library.",
+    "syllable_times": [
+      0.4081632653061225,
+      0.6408306963842463,
+      0.8616780045351474,
+      1.08843537414966,
+      1.360544217687075,
+      3.030163072930599,
+      3.030163072930599,
+      3.030163072930599,
+      3.26530612244898,
+      3.492063492063492,
+      3.718820861678005,
+      4.897959183673469,
+      5.433278184371522,
+      5.714285714285714,
+      5.971691194770707,
+      8.474299038810706,
+      8.474299038810706,
+      8.474299038810706,
+      8.712727057244125,
+      11.30051308928209,
+      11.30051308928209,
+      11.30051308928209,
+      11.74603174603175,
+      12.032105975583,
+      12.29024943310658,
+      12.56235827664399,
+      12.83446712018141,
+      15.34102596969318,
+      15.34102596969318,
+      15.34102596969318,
+      15.61597158797589,
+      16.73469387755102,
+      17.09750566893424,
+      19.24233765941667,
+      19.24233765941667,
+      19.24233765941667,
+      19.6087988647003,
+      20.14918367346939,
+      20.14918367346939
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      17,
+      18,
+      22,
+      23,
+      31,
+      32,
+      39,
+      40,
+      44
+    ],
+    "sentence_translations": [
+      "Can I sit here?",
+      "",
+      "Littile Ming: Excuse me, is this seat taken?",
+      "",
+      "Girl: No.",
+      "",
+      "Littile Ming: Can I sit here?",
+      "",
+      "Girl: Yes, go ahead.",
+      "",
+      "Littile Ming: Thanks.",
+      ""
+    ]
+  }
+}

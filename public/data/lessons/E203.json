@@ -1,0 +1,923 @@
+{
+  "id": "E203",
+  "title": "My Computer is Broken",
+  "level": "elementary",
+  "date": "2018-03-24",
+  "synopsis": "Yuanyuan's computer is broken and she asks her colleague to help her.",
+  "audioUrl": "https://static.duchinese.net/documents/690/8f103ec250cab1e3b1daf3c2cd3c191590b38b52.mp3?1521037908",
+  "series": null,
+  "fullText": {
+    "simplified": "我的电脑坏了\n\n圆圆：方方，我的电脑好像坏了，你帮我看看吧？\n方方：我也不知道是什么问题。杰杰，你能过来一下吗？\n杰杰：什么事？\n方方：圆圆的电脑坏了，你能帮她看一下是什么问题吗？\n杰杰：好的，马上就来。",
+    "traditional": "我的電腦壞了\n\n圓圓：方方，我的電腦好像壞了，你幫我看看吧？\n方方：我也不知道是什麼問題。杰杰，你能過來一下嗎？\n杰杰：什麼事？\n方方：圓圓的電腦壞了，你能幫她看一下是什麼問題嗎？\n杰杰：好的，馬上就來。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "My Computer is Broken"
+    },
+    {
+      "index": 2,
+      "simplified": "圆圆：方方，我的电脑好像坏了，你帮我看看吧？",
+      "traditional": "圓圓：方方，我的電腦好像壞了，你幫我看看吧？",
+      "pinyin": "yuán yuán fāng fāng wǒ de diàn nǎo hǎo xiàng huài le nǐ bāng wǒ kàn kan ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Yuanyuan: Fangfang, it seems like my computer is broken. Could you help me to take a look?"
+    },
+    {
+      "index": 4,
+      "simplified": "方方：我也不知道是什么问题。杰杰，你能过来一下吗？",
+      "traditional": "方方：我也不知道是什麼問題。杰杰，你能過來一下嗎？",
+      "pinyin": "fāng fāng wǒ yě bù zhī dào shì shén me wèn tí jié jié nǐ néng guò lái yí xià ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Fangfang: I don't know what the problem is either. Jay, could you come here?"
+    },
+    {
+      "index": 6,
+      "simplified": "杰杰：什么事？",
+      "traditional": "杰杰：什麼事？",
+      "pinyin": "jié jié shén me shì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: What's up?"
+    },
+    {
+      "index": 8,
+      "simplified": "方方：圆圆的电脑坏了，你能帮她看一下是什么问题吗？",
+      "traditional": "方方：圓圓的電腦壞了，你能幫她看一下是什麼問題嗎？",
+      "pinyin": "fāng fāng yuán yuán de diàn nǎo huài le nǐ néng bāng tā kàn yí xià shì shén me wèn tí ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Fangfang: Yuanyuan's computer is broken. Could you help check what the problem is?"
+    },
+    {
+      "index": 10,
+      "simplified": "杰杰：好的，马上就来。",
+      "traditional": "杰杰：好的，馬上就來。",
+      "pinyin": "jié jié hǎo de mǎ shàng jiù lái",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Jay: Ok, I’ll be there soon."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diàn nǎo",
+      "meaning": "computer",
+      "hsk": 1
+    },
+    {
+      "hanzi": "坏",
+      "traditional": "壞",
+      "pinyin": "huài",
+      "meaning": "bad\nspoiled\nbroken",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "圆圆",
+      "traditional": "圓圓",
+      "pinyin": "yuán yuán",
+      "meaning": "Yuanyuan (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "方方",
+      "traditional": "方方",
+      "pinyin": "fāng fāng",
+      "meaning": "Fangfang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "杰杰",
+      "traditional": "杰杰",
+      "pinyin": "jié jié",
+      "meaning": "Jay Jay (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过来",
+      "traditional": "過來",
+      "pinyin": "guò lái",
+      "meaning": "to come over\nto come up",
+      "hsk": null
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "坏",
+        "pinyin": "huài",
+        "meaning": "bad\nspoiled\nbroken",
+        "tc_hanzi": "壞"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "Yuanyuan (name)",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "坏",
+        "pinyin": "huài",
+        "meaning": "bad\nspoiled\nbroken",
+        "tc_hanzi": "壞"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hanzi": "过来",
+        "pinyin": "guò lái",
+        "meaning": "to come over\nto come up",
+        "tc_hanzi": "過來"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "方方",
+        "pinyin": "fāng fāng",
+        "meaning": "Fangfang (name)",
+        "tc_hanzi": "方方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "Yuanyuan (name)",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "坏",
+        "pinyin": "huài",
+        "meaning": "bad\nspoiled\nbroken",
+        "tc_hanzi": "壞"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Yuanyuan's computer is broken and she asks her colleague to help her.",
+    "syllable_times": [
+      0.272108843537415,
+      0.45351473922902497,
+      0.7709750566893424,
+      1.1791383219954648,
+      1.5419501133786848,
+      3.6859842734333963,
+      3.6859842734333963,
+      3.6859842734333963,
+      4.081632653061225,
+      5.079365079365079,
+      5.351473922902494,
+      5.532879818594104,
+      5.804988662131519,
+      6.349206349206349,
+      6.666666666666667,
+      7.074829931972789,
+      7.437641723356009,
+      8.526077097505668,
+      8.843537414965986,
+      9.160997732426305,
+      9.52315683312549,
+      9.928103661463288,
+      10.158730158730158,
+      11.81057629464365,
+      11.81057629464365,
+      11.81057629464365,
+      12.154195011337869,
+      12.335600907029479,
+      12.517006802721088,
+      12.685886167391644,
+      13.015873015873016,
+      13.26082505356882,
+      13.46938775510204,
+      13.605442176870747,
+      13.922902494331066,
+      15.056689342403628,
+      15.419501133786849,
+      16.3265306122449,
+      16.643990929705215,
+      16.961451247165535,
+      17.233560090702948,
+      17.463092742296265,
+      17.64172335600907,
+      18.00453514739229,
+      19.690936591031853,
+      19.690936591031853,
+      19.690936591031853,
+      20,
+      20.225796455532276,
+      22.11869875826148,
+      22.11869875826148,
+      22.11869875826148,
+      22.49433106575964,
+      22.766439909297052,
+      22.993197278911566,
+      23.26530612244898,
+      23.6734693877551,
+      24.03628117913832,
+      24.897959183673468,
+      25.215419501133788,
+      25.532879818594104,
+      25.759637188208618,
+      25.941043083900226,
+      26.26523709936981,
+      26.58626828959258,
+      27.029478458049887,
+      27.43764172335601,
+      27.755102040816325,
+      27.98185941043084,
+      28.268390149590132,
+      28.52607709750567,
+      30.0330198185926,
+      30.0330198185926,
+      30.0330198185926,
+      30.385487528344672,
+      31.24716553287982,
+      31.546845255708554,
+      31.927437641723355,
+      32.19954648526077,
+      32.778231292517006,
+      32.778231292517006
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      24,
+      25,
+      43,
+      44,
+      49,
+      50,
+      69,
+      70,
+      78
+    ],
+    "sentence_translations": [
+      "My Computer is Broken",
+      "",
+      "Yuanyuan: Fangfang, it seems like my computer is broken. Could you help me to take a look?",
+      "",
+      "Fangfang: I don't know what the problem is either. Jay, could you come here?",
+      "",
+      "Jay: What's up?",
+      "",
+      "Fangfang: Yuanyuan's computer is broken. Could you help check what the problem is?",
+      "",
+      "Jay: Ok, I’ll be there soon.",
+      ""
+    ]
+  }
+}

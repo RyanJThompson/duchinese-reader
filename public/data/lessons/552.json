@@ -1,0 +1,448 @@
+{
+  "id": "552",
+  "title": "Does it Taste Good?",
+  "level": "newbie",
+  "date": "2018-08-02",
+  "synopsis": "Lili wants to know if Ben likes the food.",
+  "audioUrl": "https://static.duchinese.net/documents/801/140d61619a5af76c4c0d7fa3a308af5cec6161ca.mp3?1553269292",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 15,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "好吃吗？\n\n丽丽：本，这个菜好吃吗？\n本：好吃。\n丽丽：那个菜呢？\n本：那个菜也很好吃。",
+    "traditional": "好吃嗎？\n\n麗麗：本，這個菜好吃嗎？\n本：好吃。\n麗麗：那個菜呢？\n本：那個菜也很好吃。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Does it Taste Good?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：本，这个菜好吃吗？",
+      "traditional": "麗麗：本，這個菜好吃嗎？",
+      "pinyin": "lì lì běn zhè ge cài hǎo chī ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ben, does this dish taste good?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：好吃。",
+      "traditional": "本：好吃。",
+      "pinyin": "běn hǎo chī",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: It’s delicious."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：那个菜呢？",
+      "traditional": "麗麗：那個菜呢？",
+      "pinyin": "lì lì nà ge cài ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: What about that one?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：那个菜也很好吃。",
+      "traditional": "本：那個菜也很好吃。",
+      "pinyin": "běn nà ge cài yě hěn hǎo chī",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: That dish is also delicious."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili wants to know if Ben likes the food.",
+    "syllable_times": [
+      0.5,
+      0.91,
+      2.6218309951080405,
+      2.6218309951080405,
+      2.6218309951080405,
+      3.9121496895039587,
+      4.25,
+      4.48,
+      5.33,
+      5.79,
+      6.17,
+      7.625833200301292,
+      7.625833200301292,
+      8.065,
+      10.10113392121775,
+      10.10113392121775,
+      10.10113392121775,
+      10.5,
+      10.7,
+      11.133903796813437,
+      12.570752765400938,
+      12.570752765400938,
+      13.06,
+      13.279655667200265,
+      14.21,
+      14.59,
+      14.97,
+      15.355,
+      16.136553,
+      16.136553
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      15,
+      16,
+      20,
+      21,
+      28,
+      29,
+      38
+    ],
+    "sentence_translations": [
+      "Does it Taste Good?",
+      "",
+      "Lili: Ben, does this dish taste good?",
+      "",
+      "Ben: It’s delicious.",
+      "",
+      "Lili: What about that one?",
+      "",
+      "Ben: That dish is also delicious.",
+      ""
+    ]
+  }
+}

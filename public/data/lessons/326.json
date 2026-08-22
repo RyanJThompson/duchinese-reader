@@ -1,0 +1,919 @@
+{
+  "id": "326",
+  "title": "Little Ming the Manager",
+  "level": "elementary",
+  "date": "2017-05-20",
+  "synopsis": "The teacher asks the class to write an essay on the theme “If I was a manager”.",
+  "audioUrl": "https://static.duchinese.net/documents/423/a8787c7b59491ea78e159a0f814dcf3c245ab283.mp3?1494870436",
+  "series": null,
+  "fullText": {
+    "simplified": "小明的回答\n\n    一天，老师让大家写文章，文章是《如果我是一位经理》。\n    大家都开始写了，只有小明没有写，在那儿东看看西看看。老师问：“小明，你为什么不写？”小明说：“我在等我的秘书。因为经理的文章都是秘书帮写的。”",
+    "traditional": "小明的回答\n\n    一天，老師讓大家寫文章，文章是《如果我是一位經理》。\n    大家都開始寫了，只有小明沒有寫，在那兒東看看西看看。老師問：“小明，你為什麼不寫？”小明說：“我在等我的秘書。因為經理的文章都是秘書幫寫的。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Little Ming's reply"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，老师让大家写文章，文章是《如果我是一位经理》。",
+      "traditional": "一天，老師讓大家寫文章，文章是《如果我是一位經理》。",
+      "pinyin": "yì tiān lǎo shī ràng dà jiā xiě wén zhāng wén zhāng shì rú guǒ wǒ shì yí wèi jīng lǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day the teacher made everyone write an essay on the topic “If I was a manager”."
+    },
+    {
+      "index": 4,
+      "simplified": "大家都开始写了，只有小明没有写，在那儿东看看西看看。",
+      "traditional": "大家都開始寫了，只有小明沒有寫，在那兒東看看西看看。",
+      "pinyin": "dà jiā dōu kāi shǐ xiě le zhǐ yǒu xiǎo míng méi yǒu xiě zài nà'r dōng kàn kan xī kàn kan",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "老师问：“小明，你为什么不写？”",
+      "traditional": "老師問：“小明，你為什麼不寫？”",
+      "pinyin": "lǎo shī wèn xiǎo míng nǐ wèi shén me bù xiě",
+      "english": "Everyone started to write except for Little Ming. He just sat there looking around."
+    },
+    {
+      "index": 6,
+      "simplified": "小明说：“我在等我的秘书。因为经理的文章都是秘书帮写的。”",
+      "traditional": "小明說：“我在等我的秘書。因為經理的文章都是秘書幫寫的。”",
+      "pinyin": "xiǎo míng shuō wǒ zài děng wǒ de mì shū yīn wèi jīng lǐ de wén zhāng dōu shì mì shū bāng xiě de",
+      "english": "The teacher asked: “Little Ming, why aren't you writing?”"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回答",
+      "traditional": "回答",
+      "pinyin": "huí dá",
+      "meaning": "to reply\nto answer",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "文章",
+      "traditional": "文章",
+      "pinyin": "wén zhāng",
+      "meaning": "article\nessay\nliterary works",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "位",
+      "traditional": "位",
+      "pinyin": "wèi",
+      "meaning": "classifier for people (honorific)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "经理",
+      "traditional": "經理",
+      "pinyin": "jīng lǐ",
+      "meaning": "manager\ndirector",
+      "hsk": 3
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开始",
+      "traditional": "開始",
+      "pinyin": "kāi shǐ",
+      "meaning": "to begin\nto start",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "东",
+      "traditional": "東",
+      "pinyin": "dōng",
+      "meaning": "east",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to look at\nto watch",
+      "hsk": 1
+    },
+    {
+      "hanzi": "西",
+      "traditional": "西",
+      "pinyin": "xī",
+      "meaning": "west",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "秘书",
+      "traditional": "秘書",
+      "pinyin": "mì shū",
+      "meaning": "secretary",
+      "hsk": 5
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "回答",
+        "pinyin": "huí dá",
+        "meaning": "to reply\nto answer",
+        "tc_hanzi": "回答"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "g": "rang",
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "文章",
+        "pinyin": "wén zhāng",
+        "meaning": "article\nessay\nliterary works",
+        "tc_hanzi": "文章"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "文章",
+        "pinyin": "wén zhāng",
+        "meaning": "article\nessay\nliterary works",
+        "tc_hanzi": "文章"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "《",
+        "tc_hanzi": "《"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "位",
+        "pinyin": "wèi",
+        "meaning": "classifier for people (honorific)",
+        "tc_hanzi": "位"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "》。",
+        "tc_hanzi": "》。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "开始",
+        "pinyin": "kāi shǐ",
+        "meaning": "to begin\nto start",
+        "tc_hanzi": "開始"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "东",
+        "pinyin": "dōng",
+        "meaning": "east",
+        "tc_hanzi": "東"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to look at\nto watch",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "西",
+        "pinyin": "xī",
+        "meaning": "west",
+        "tc_hanzi": "西"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to look at\nto watch",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "秘书",
+        "pinyin": "mì shū",
+        "meaning": "secretary",
+        "tc_hanzi": "秘書"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "文章",
+        "pinyin": "wén zhāng",
+        "meaning": "article\nessay\nliterary works",
+        "tc_hanzi": "文章"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "秘书",
+        "pinyin": "mì shū",
+        "meaning": "secretary",
+        "tc_hanzi": "秘書"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "The teacher asks the class to write an essay on the theme “If I was a manager”.",
+    "syllable_times": [
+      0.4946628896562197,
+      0.9070294784580499,
+      1.319617789355995,
+      1.678004535147392,
+      3.26530612244898,
+      3.530364041909831,
+      4.625850340136054,
+      4.993667935675281,
+      5.714285714285714,
+      6.077097505668934,
+      6.349206349206349,
+      6.848072562358277,
+      7.256235827664399,
+      7.514508644755191,
+      9.160997732426305,
+      9.387755102040817,
+      9.69646452497051,
+      10.9297052154195,
+      11.38321995464853,
+      12.10884353741497,
+      12.42630385487528,
+      12.83446712018141,
+      13.15192743764172,
+      13.56009070294785,
+      13.96825396825397,
+      15.46485260770975,
+      15.78231292517007,
+      16.3265306122449,
+      16.64399092970521,
+      16.99598592266469,
+      17.3832828699385,
+      17.77777777777778,
+      19.22902494331066,
+      19.59183673469388,
+      19.86394557823129,
+      20.31746031746032,
+      20.95238095238095,
+      21.22448979591837,
+      21.53227972103755,
+      23.35600907029479,
+      23.6734693877551,
+      24.39909297052154,
+      24.67120181405896,
+      25.07936507936508,
+      25.80498866213152,
+      26.16780045351474,
+      26.50136510802379,
+      29.0249433106576,
+      29.34240362811791,
+      29.68434008800904,
+      30.8843537414966,
+      31.24716553287982,
+      32.19954648526077,
+      32.56235827664399,
+      32.8646162206986,
+      33.10657596371882,
+      33.37868480725623,
+      33.60873661344792,
+      35.73696145124717,
+      36.09977324263038,
+      36.41469059444019,
+      37.95918367346939,
+      38.32199546485261,
+      38.77551020408163,
+      39.09297052154195,
+      39.41043083900227,
+      39.77324263038549,
+      40.1360544217687,
+      41.54195011337868,
+      41.85941043083901,
+      42.53968253968254,
+      42.85714285714285,
+      43.17460317460318,
+      43.40136054421769,
+      43.718820861678,
+      44.58049886621315,
+      44.89795918367347,
+      45.5328798185941,
+      45.89569160997733,
+      46.34920634920635,
+      46.66666666666666,
+      46.98412698412698,
+      47.53297052154195,
+      47.53297052154195
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      25,
+      27,
+      46,
+      56
+    ],
+    "sentence_translations": [
+      "Little Ming's reply",
+      "",
+      "One day the teacher made everyone write an essay on the topic “If I was a manager”.",
+      "",
+      "Everyone started to write except for Little Ming. He just sat there looking around.",
+      "The teacher asked: “Little Ming, why aren't you writing?”",
+      "Little Ming said: “I'm waiting for my secretary. Because the manager's essays are all written by the secretary.”"
+    ]
+  }
+}

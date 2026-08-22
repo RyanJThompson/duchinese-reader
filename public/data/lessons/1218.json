@@ -1,0 +1,933 @@
+{
+  "id": "1218",
+  "title": "Can I Get Them for 10 Yuan?",
+  "level": "newbie",
+  "date": "2022-03-28",
+  "synopsis": "Ben tries to haggle for shoes …",
+  "audioUrl": "https://static.duchinese.net/documents/1218/0521fa1f9b406944222cf419381e2705ce730b8c.mp3?1615549391",
+  "series": null,
+  "fullText": {
+    "simplified": "十块钱可以吗？\n\n本：老板，你好！你这儿有鞋吗？\n老板：有。你看，都在这儿。\n本：这鞋多少钱？\n老板：二十块！\n本：有点儿贵呢，十块钱可以吗？\n老板：我想想……可以，那你是要左脚的还是要右脚的？",
+    "traditional": "十塊錢可以嗎？\n\n本：老闆，你好！你這兒有鞋嗎？\n老闆：有。你看，都在這兒。\n本：這鞋多少錢？\n老闆：二十塊！\n本：有點兒貴呢，十塊錢可以嗎？\n老闆：我想想……可以，那你是要左腳的還是要右腳的？"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can I Get Them for 10 Yuan?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：老板，你好！你这儿有鞋吗？",
+      "traditional": "本：老闆，你好！你這兒有鞋嗎？",
+      "pinyin": "běn lǎo bǎn nǐ hǎo nǐ zhè‘r yǒu xié ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Boss, hello! Do you have shoes here?"
+    },
+    {
+      "index": 4,
+      "simplified": "老板：有。你看，都在这儿。",
+      "traditional": "老闆：有。你看，都在這兒。",
+      "pinyin": "lǎo bǎn yǒu nǐ kàn dōu zài zhè‘r",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Owner: Yes. See, they are all here."
+    },
+    {
+      "index": 6,
+      "simplified": "本：这鞋多少钱？",
+      "traditional": "本：這鞋多少錢？",
+      "pinyin": "běn zhè xié duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How much are these shoes?"
+    },
+    {
+      "index": 8,
+      "simplified": "老板：二十块！",
+      "traditional": "老闆：二十塊！",
+      "pinyin": "lǎo bǎn èr shí kuài",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Owner: 20 yuan!"
+    },
+    {
+      "index": 10,
+      "simplified": "本：有点儿贵呢，十块钱可以吗？",
+      "traditional": "本：有點兒貴呢，十塊錢可以嗎？",
+      "pinyin": "běn yǒu diǎn'r guì ne shí kuài qián kě yǐ ma",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: That is a little bit expensive. Can I get them for 10 yuan?"
+    },
+    {
+      "index": 12,
+      "simplified": "老板：我想想……可以，那你是要左脚的还是要右脚的？",
+      "traditional": "老闆：我想想……可以，那你是要左腳的還是要右腳的？",
+      "pinyin": "lǎo bǎn wǒ xiǎng xiǎng kě yǐ nà nǐ shì yào zuǒ jiǎo de hái shi yào yòu jiǎo de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Shop Owner: Let me think … sure. So do you want the left shoe or the right shoe?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎo bǎn",
+      "meaning": "boss\nowner",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鞋",
+      "traditional": "鞋",
+      "pinyin": "xié",
+      "meaning": "shoe",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to see",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点儿",
+      "traditional": "點兒",
+      "pinyin": "diǎn'r",
+      "meaning": "a little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "meaning": "expensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating strong affirmation",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想想",
+      "traditional": "想想",
+      "pinyin": "xiǎng xiǎng",
+      "meaning": "to think",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "左",
+      "traditional": "左",
+      "pinyin": "zuǒ",
+      "meaning": "left",
+      "hsk": null
+    },
+    {
+      "hanzi": "脚",
+      "traditional": "腳",
+      "pinyin": "jiǎo",
+      "meaning": "foot\nleg (of an animal or an object)\nbase (of an object)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or\nnevertheless\nhad better",
+      "hsk": 3
+    },
+    {
+      "hanzi": "右",
+      "traditional": "右",
+      "pinyin": "yòu",
+      "meaning": "right (-hand)",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋",
+        "pinyin": "xié",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to see",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋",
+        "pinyin": "xié",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "erhua",
+        "hsk": 1,
+        "hanzi": "点儿",
+        "pinyin": "diǎn'r",
+        "meaning": "a little\nsome",
+        "tc_hanzi": "點兒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating strong affirmation",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hanzi": "想想",
+        "pinyin": "xiǎng xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想想"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "左",
+        "pinyin": "zuǒ",
+        "meaning": "left",
+        "tc_hanzi": "左"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "脚",
+        "pinyin": "jiǎo",
+        "meaning": "foot\nleg (of an animal or an object)\nbase (of an object)",
+        "tc_hanzi": "腳"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or\nnevertheless\nhad better",
+        "tc_hanzi": "還是"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "右",
+        "pinyin": "yòu",
+        "meaning": "right (-hand)",
+        "tc_hanzi": "右"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "脚",
+        "pinyin": "jiǎo",
+        "meaning": "foot\nleg (of an animal or an object)\nbase (of an object)",
+        "tc_hanzi": "腳"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben tries to haggle for shoes …",
+    "syllable_times": [
+      0.37,
+      0.6519274376417233,
+      1.29,
+      1.655328798185941,
+      1.83,
+      2.93,
+      2.93,
+      3.305,
+      4.54,
+      4.9350000000000005,
+      6.38,
+      6.83,
+      7.35,
+      7.7437641723356005,
+      8.197278911564625,
+      9.37641723356009,
+      9.37641723356009,
+      9.37641723356009,
+      10.595238095238095,
+      10.82,
+      11.74,
+      12.01814058956916,
+      12.278911564625849,
+      13.57,
+      13.57,
+      14.08,
+      15.04,
+      15.39,
+      15.74,
+      17.42063492063492,
+      17.42063492063492,
+      17.42063492063492,
+      17.653061224489797,
+      17.92,
+      19.5578231292517,
+      19.5578231292517,
+      20.051020408163264,
+      20.44,
+      20.92,
+      22.409297052154194,
+      22.9,
+      23.231292517006803,
+      23.905895691609977,
+      24.285714285714285,
+      24.523809523809522,
+      26.05,
+      26.05,
+      26.05,
+      26.33219954648526,
+      26.649659863945576,
+      28.497732426303855,
+      29.002267573696145,
+      29.98,
+      30.66,
+      30.92,
+      31.167800453514737,
+      31.5,
+      31.84,
+      32.16,
+      32.84013605442177,
+      33.13492063492063,
+      33.37,
+      33.96,
+      34.335,
+      34.71,
+      35.357959
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      20,
+      21,
+      32,
+      33,
+      40,
+      41,
+      47,
+      48,
+      61,
+      62,
+      82
+    ],
+    "sentence_translations": [
+      "Can I Get Them for 10 Yuan?",
+      "",
+      "Ben: Boss, hello! Do you have shoes here?",
+      "",
+      "Shop Owner: Yes. See, they are all here.",
+      "",
+      "Ben: How much are these shoes?",
+      "",
+      "Shop Owner: 20 yuan!",
+      "",
+      "Ben: That is a little bit expensive. Can I get them for 10 yuan?",
+      "",
+      "Shop Owner: Let me think … sure. So do you want the left shoe or the right shoe?",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "id": "E258",
+  "title": "Someone Is Sitting Here",
+  "level": "newbie",
+  "date": "2018-09-27",
+  "synopsis": "There are many people in the coffee shop and Ben can’t find a seat.",
+  "audioUrl": "https://static.duchinese.net/documents/850/1f9ff31cae1364da246cb710a00c03de284f54bd.mp3?1536666467",
+  "series": null,
+  "fullText": {
+    "simplified": "这里有人了\n\n本：不好意思，请问我可以坐这里吗？\n女生：不好意思，这里有人了。\n本：有人？他在哪儿？\n女生：就在你后面，拿着一杯咖啡。\n本：不好意思！你坐吧。",
+    "traditional": "這裡有人了\n\n本：不好意思，請問我可以坐這裡嗎？\n女生：不好意思，這裡有人了。\n本：有人？他在哪兒？\n女生：就在你後面，拿著一杯咖啡。\n本：不好意思！你坐吧。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Someone Is Sitting Here"
+    },
+    {
+      "index": 2,
+      "simplified": "本：不好意思，请问我可以坐这里吗？",
+      "traditional": "本：不好意思，請問我可以坐這裡嗎？",
+      "pinyin": "běn bù hǎo yì si qǐng wèn wǒ kě yǐ zuò zhè lǐ ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Excuse me, may I sit here?"
+    },
+    {
+      "index": 4,
+      "simplified": "女生：不好意思，这里有人了。",
+      "traditional": "女生：不好意思，這裡有人了。",
+      "pinyin": "nǚ shēng bù hǎo yì si zhè lǐ yǒu rén le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Girl: Sorry, there is someone sitting here."
+    },
+    {
+      "index": 6,
+      "simplified": "本：有人？他在哪儿？",
+      "traditional": "本：有人？他在哪兒？",
+      "pinyin": "běn yǒu rén tā zài nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Someone is sitting here? Where is he?"
+    },
+    {
+      "index": 8,
+      "simplified": "女生：就在你后面，拿着一杯咖啡。",
+      "traditional": "女生：就在你後面，拿著一杯咖啡。",
+      "pinyin": "nǚ shēng jiù zài nǐ hòu miàn ná zhe yì bēi kā fēi",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Girl: He is right behind you, holding a cup of coffee."
+    },
+    {
+      "index": 10,
+      "simplified": "本：不好意思！你坐吧。",
+      "traditional": "本：不好意思！你坐吧。",
+      "pinyin": "běn bù hǎo yì si nǐ zuò ba",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Sorry! Please sit."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女生",
+      "traditional": "女生",
+      "pinyin": "nǚ shēng",
+      "meaning": "schoolgirl\nfemale student\ngirl",
+      "hsk": null
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后面",
+      "traditional": "後面",
+      "pinyin": "hòu miàn",
+      "meaning": "back\nbehind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold\nto take",
+      "hsk": 3
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "咖啡",
+      "traditional": "咖啡",
+      "pinyin": "kā fēi",
+      "meaning": "coffee (loanword)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "女生",
+        "pinyin": "nǚ shēng",
+        "meaning": "schoolgirl\nfemale student\ngirl",
+        "tc_hanzi": "女生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "女生",
+        "pinyin": "nǚ shēng",
+        "meaning": "schoolgirl\nfemale student\ngirl",
+        "tc_hanzi": "女生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "back\nbehind",
+        "tc_hanzi": "後面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "咖啡",
+        "pinyin": "kā fēi",
+        "meaning": "coffee (loanword)",
+        "tc_hanzi": "咖啡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "There are many people in the coffee shop and Ben can’t find a seat.",
+    "syllable_times": [
+      0.36333389518161613,
+      0.8163265306122449,
+      1.3151927437641724,
+      1.6470841007928054,
+      4.142760117848714,
+      4.142760117848714,
+      4.35374149659864,
+      4.668585620820522,
+      4.873418152332306,
+      6.258503401360544,
+      6.621315192743764,
+      7.573696145124717,
+      7.891156462585034,
+      8.262598500028254,
+      8.526077097505668,
+      8.88888888888889,
+      9.180576327939828,
+      9.39365536396702,
+      11.584233596835313,
+      11.584233596835313,
+      11.584233596835313,
+      11.872905590920428,
+      12.199546485260772,
+      12.44789976866422,
+      13.424036281179138,
+      13.696145124716553,
+      14.058956916099774,
+      14.512471655328799,
+      14.789463690582691,
+      17.02705958514291,
+      17.02705958514291,
+      17.343796296207884,
+      18.33581532057502,
+      18.775510204081634,
+      19.047619047619047,
+      21.513856575524528,
+      21.513856575524528,
+      21.513856575524528,
+      21.950113378684808,
+      22.267573696145124,
+      22.6064740877705,
+      22.947845804988663,
+      23.900226757369616,
+      24.263038548752835,
+      24.671201814058957,
+      25.034013605442176,
+      25.351473922902493,
+      25.759637188208618,
+      28.119927397008457,
+      28.119927397008457,
+      28.359652396550494,
+      28.616780045351472,
+      28.811702719341433,
+      30.02267573696145,
+      30.385487528344672,
+      30.70294784580499,
+      31.326054421768706,
+      31.326054421768706
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      17,
+      18,
+      27,
+      28,
+      37,
+      38,
+      51,
+      52,
+      60
+    ],
+    "sentence_translations": [
+      "Someone Is Sitting Here",
+      "",
+      "Ben: Excuse me, may I sit here?",
+      "",
+      "Girl: Sorry, there is someone sitting here.",
+      "",
+      "Ben: Someone is sitting here? Where is he?",
+      "",
+      "Girl: He is right behind you, holding a cup of coffee.",
+      "",
+      "Ben: Sorry! Please sit.",
+      ""
+    ]
+  }
+}

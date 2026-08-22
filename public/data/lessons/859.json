@@ -1,0 +1,4514 @@
+{
+  "id": "859",
+  "title": "Rent a Car",
+  "level": "advanced",
+  "date": "2019-12-10",
+  "synopsis": "Paul wants to rent a car, and is discussing the details with a shop assistant.",
+  "audioUrl": "https://static.duchinese.net/documents/859/c1a398f987e5395ec35b90fd7f3a3899ee161bec.mp3?1575901963",
+  "series": null,
+  "fullText": {
+    "simplified": "我要租车\n\n保罗：您好！我要租车！\n店员：好的。请问您要短租还是长租？\n保罗：短租，租3天。从今天到后天。\n店员：请问您要几人座的车？\n保罗：就普通的，5人座的。\n店员：请问您要自动挡的还是手动挡的？\n保罗：自动挡的。\n店员：好的。请问您要经济型、商务型还是豪华型的？\n保罗：就普通的。经济型的吧。\n店员：好的。请问您要加上保险或道路救援服务吗？\n保罗：加上保险吧。\n店员：好的。您是回到这儿还车吗？我们还有异地还车、上门取车的服务，您看您需要吗？\n保罗：不用了。我开回这里就好。对了，你们这里是24小时营业的吗？\n店员：是的。您放心。\n保罗：我是第一次租车，请问有什么事需要我注意的吗？\n店员：嗯……请您在还车之前加满油。\n保罗：好的。明白了。\n店员：对了！我能看看您的驾照吗？\n保罗：好的。给！\n店员：不好意思，先生！您这是国际驾照，在中国不能用。您有中国驾照吗？\n保罗：啊？国际驾照在中国不能开车吗？\n店员：不能。没有中国驾照，在中国开车相当于无证驾驶，后果很严重。\n保罗：啊？那我该怎么办？\n店员：您可以去车管所申请把国际驾照换成中国驾照，只要您理论考试合格就能拿到中国驾照了。但是，这不可能一天办得下来。\n保罗：唉，怎么会这样！看来我今天不能租车了。\n店员：欢迎您拿到中国驾照后再次光临！",
+    "traditional": "我要租車\n\n保羅：您好！我要租車！\n店員：好的。請問您要短租還是長租？\n保羅：短租，租3天。從今天到後天。\n店員：請問您要幾人座的車？\n保羅：就普通的，5人座的。\n店員：請問您要自動擋的還是手動擋的？\n保羅：自動擋的。\n店員：好的。請問您要經濟型、商務型還是豪華型的？\n保羅：就普通的。經濟型的吧。\n店員：好的。請問您要加上保險或道路救援服務嗎？\n保羅：加上保險吧。\n店員：好的。您是回到這兒還車嗎？我們還有異地還車、上門取車的服務，您看您需要嗎？\n保羅：不用了。我開回這裡就好。對了，你們這裡是24小時營業的嗎？\n店員：是的。您放心。\n保羅：我是第一次租車，請問有什麼事需要我注意的嗎？\n店員：嗯……請您在還車之前加滿油。\n保羅：好的。明白了。\n店員：對了！我能看看您的駕照嗎？\n保羅：好的。給！\n店員：不好意思，先生！您這是國際駕照，在中國不能用。您有中國駕照嗎？\n保羅：啊？國際駕照在中國不能開車嗎？\n店員：不能。沒有中國駕照，在中國開車相當於無證駕駛，後果很嚴重。\n保羅：啊？那我該怎麼辦？\n店員：您可以去車管所申請把國際駕照換成中國駕照，只要您理論考試合格就能拿到中國駕照了。但是，這不可能一天辦得下來。\n保羅：唉，怎麼會這樣！看來我今天不能租車了。\n店員：歡迎您拿到中國駕照後再次光臨！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Want to Rent a Car"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：您好！我要租车！",
+      "traditional": "保羅：您好！我要租車！",
+      "pinyin": "bǎo luó nín hǎo wǒ yào zū chē",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Hello! I want to rent a car!"
+    },
+    {
+      "index": 4,
+      "simplified": "店员：好的。请问您要短租还是长租？",
+      "traditional": "店員：好的。請問您要短租還是長租？",
+      "pinyin": "diàn yuán hǎo de qǐng wèn nín yào duǎn zū hái shi cháng zū",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Ok. May I ask if you want a short term rental or a long term rental?"
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：短租，租3天。从今天到后天。",
+      "traditional": "保羅：短租，租3天。從今天到後天。",
+      "pinyin": "bǎo luó duǎn zū zū 1 tiān cóng jīn tiān dào hòu tiān",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: A short term rental, to rent for 3 days. From today until the day after tomorrow."
+    },
+    {
+      "index": 8,
+      "simplified": "店员：请问您要几人座的车？",
+      "traditional": "店員：請問您要幾人座的車？",
+      "pinyin": "diàn yuán qǐng wèn nín yào jǐ rén zuò de chē",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: May I ask how many seats you would like the car to have?"
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：就普通的，5人座的。",
+      "traditional": "保羅：就普通的，5人座的。",
+      "pinyin": "bǎo luó jiù pǔ tōng de 1 rén zuò de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Just the ordinary, a 5 seater."
+    },
+    {
+      "index": 12,
+      "simplified": "店员：请问您要自动挡的还是手动挡的？",
+      "traditional": "店員：請問您要自動擋的還是手動擋的？",
+      "pinyin": "diàn yuán qǐng wèn nín yào zì dòng dǎng de hái shi shǒu dòng dǎng de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: May I ask if you want one with automatic transmission or manual transmission?"
+    },
+    {
+      "index": 14,
+      "simplified": "保罗：自动挡的。",
+      "traditional": "保羅：自動擋的。",
+      "pinyin": "bǎo luó zì dòng dǎng de",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Automatic transmission."
+    },
+    {
+      "index": 16,
+      "simplified": "店员：好的。请问您要经济型、商务型还是豪华型的？",
+      "traditional": "店員：好的。請問您要經濟型、商務型還是豪華型的？",
+      "pinyin": "diàn yuán hǎo de qǐng wèn nín yào jīng jì xíng shāng wù xíng hái shi háo huá xíng de",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Ok. May I ask if you want an economy model, business model or luxury model?"
+    },
+    {
+      "index": 18,
+      "simplified": "保罗：就普通的。经济型的吧。",
+      "traditional": "保羅：就普通的。經濟型的吧。",
+      "pinyin": "bǎo luó jiù pǔ tōng de jīng jì xíng de ba",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Just an ordinary one. An economy model."
+    },
+    {
+      "index": 20,
+      "simplified": "店员：好的。请问您要加上保险或道路救援服务吗？",
+      "traditional": "店員：好的。請問您要加上保險或道路救援服務嗎？",
+      "pinyin": "diàn yuán hǎo de qǐng wèn nín yào jiā shàng bǎo xiǎn huò dào lù jiù yuán fú wù ma",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Ok. May I ask if you would like to add insurance or road rescue services?"
+    },
+    {
+      "index": 22,
+      "simplified": "保罗：加上保险吧。",
+      "traditional": "保羅：加上保險吧。",
+      "pinyin": "bǎo luó jiā shàng bǎo xiǎn ba",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Add the insurance."
+    },
+    {
+      "index": 24,
+      "simplified": "店员：好的。您是回到这儿还车吗？",
+      "traditional": "店員：好的。您是回到這兒還車嗎？",
+      "pinyin": "diàn yuán hǎo de nín shì huí dào zhè‘r huán chē ma",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "我们还有异地还车、上门取车的服务，",
+      "traditional": "我們還有異地還車、上門取車的服務，",
+      "pinyin": "wǒ men hái yǒu yì dì huán chē shàng mén qǔ chē de fú wù",
+      "english": "Shop Assistant: Ok. Are you returning the car here?"
+    },
+    {
+      "index": 26,
+      "simplified": "您看您需要吗？",
+      "traditional": "您看您需要嗎？",
+      "pinyin": "nín kàn nín xū yào ma",
+      "english": "We also have the service of returning the car from somewhere else, or we pick it up at your door."
+    },
+    {
+      "index": 27,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Do you think you need that?"
+    },
+    {
+      "index": 28,
+      "simplified": "保罗：不用了。我开回这里就好。",
+      "traditional": "保羅：不用了。我開回這裡就好。",
+      "pinyin": "bǎo luó bú yòng le wǒ kāi huí zhè lǐ jiù hǎo",
+      "english": ""
+    },
+    {
+      "index": 29,
+      "simplified": "对了，你们这里是24小时营业的吗？",
+      "traditional": "對了，你們這裡是24小時營業的嗎？",
+      "pinyin": "duì le nǐ men zhè lǐ shì 3 xiǎo shí yíng yè de ma",
+      "english": "Paul: There’s no need. I might as well drive it back here."
+    },
+    {
+      "index": 30,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Oh, that’s right, are you open 24 hours here?"
+    },
+    {
+      "index": 31,
+      "simplified": "店员：是的。您放心。",
+      "traditional": "店員：是的。您放心。",
+      "pinyin": "diàn yuán shì de nín fàng xīn",
+      "english": ""
+    },
+    {
+      "index": 32,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Yes, that’s right. Don’t you worry."
+    },
+    {
+      "index": 33,
+      "simplified": "保罗：我是第一次租车，请问有什么事需要我注意的吗？",
+      "traditional": "保羅：我是第一次租車，請問有什麼事需要我注意的嗎？",
+      "pinyin": "bǎo luó wǒ shì dì yī cì zū chē qǐng wèn yǒu shén me shì xū yào wǒ zhù yì de ma",
+      "english": ""
+    },
+    {
+      "index": 34,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: This is the first time I rent a car, may I ask if there is anything I need to take note of?"
+    },
+    {
+      "index": 35,
+      "simplified": "店员：嗯……请您在还车之前加满油。",
+      "traditional": "店員：嗯……請您在還車之前加滿油。",
+      "pinyin": "diàn yuán èn qǐng nín zài huán chē zhī qián jiā mǎn yóu",
+      "english": ""
+    },
+    {
+      "index": 36,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Umm… Please fill up the car with gas before you return it."
+    },
+    {
+      "index": 37,
+      "simplified": "保罗：好的。明白了。",
+      "traditional": "保羅：好的。明白了。",
+      "pinyin": "bǎo luó hǎo de míng bai le",
+      "english": ""
+    },
+    {
+      "index": 38,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Ok. I understand."
+    },
+    {
+      "index": 39,
+      "simplified": "店员：对了！我能看看您的驾照吗？",
+      "traditional": "店員：對了！我能看看您的駕照嗎？",
+      "pinyin": "diàn yuán duì le wǒ néng kàn kan nín de jià zhào ma",
+      "english": ""
+    },
+    {
+      "index": 40,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop Assistant: Oh, that’s right! Can I have a look at your driver’s license?"
+    },
+    {
+      "index": 41,
+      "simplified": "保罗：好的。给！",
+      "traditional": "保羅：好的。給！",
+      "pinyin": "bǎo luó hǎo de gěi",
+      "english": ""
+    },
+    {
+      "index": 42,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Ok. Here it is!"
+    },
+    {
+      "index": 43,
+      "simplified": "店员：不好意思，先生！",
+      "traditional": "店員：不好意思，先生！",
+      "pinyin": "diàn yuán bù hǎo yì si xiān sheng",
+      "english": ""
+    },
+    {
+      "index": 44,
+      "simplified": "您这是国际驾照，在中国不能用。",
+      "traditional": "您這是國際駕照，在中國不能用。",
+      "pinyin": "nín zhè shì guó jì jià zhào zài zhōng guó bù néng yòng",
+      "english": "Shop Assistant: I’m sorry, Mister!"
+    },
+    {
+      "index": 45,
+      "simplified": "您有中国驾照吗？",
+      "traditional": "您有中國駕照嗎？",
+      "pinyin": "nín yǒu zhōng guó jià zhào ma",
+      "english": "This is an international driver’s license, and can’t be used in China."
+    },
+    {
+      "index": 46,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Do you have a Chinese driver’s license?"
+    },
+    {
+      "index": 47,
+      "simplified": "保罗：啊？国际驾照在中国不能开车吗？",
+      "traditional": "保羅：啊？國際駕照在中國不能開車嗎？",
+      "pinyin": "bǎo luó a guó jì jià zhào zài zhōng guó bù néng kāi chē ma",
+      "english": ""
+    },
+    {
+      "index": 48,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Ah? You can’t drive in China with an international driver’s license?"
+    },
+    {
+      "index": 49,
+      "simplified": "店员：不能。",
+      "traditional": "店員：不能。",
+      "pinyin": "diàn yuán bù néng",
+      "english": ""
+    },
+    {
+      "index": 50,
+      "simplified": "没有中国驾照，在中国开车相当于无证驾驶，后果很严重。",
+      "traditional": "沒有中國駕照，在中國開車相當於無證駕駛，後果很嚴重。",
+      "pinyin": "méi yǒu zhōng guó jià zhào zài zhōng guó kāi chē xiāng dāng yú wú zhèng jià shǐ hòu guǒ hěn yán zhòng",
+      "english": "Shop Assistant: No, you can’t."
+    },
+    {
+      "index": 51,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Driving in China without a Chinese driver’s license is equivalent to uncertified driving, and has serious consequences."
+    },
+    {
+      "index": 52,
+      "simplified": "保罗：啊？那我该怎么办？",
+      "traditional": "保羅：啊？那我該怎麼辦？",
+      "pinyin": "bǎo luó a nà wǒ gāi zěn me bàn",
+      "english": ""
+    },
+    {
+      "index": 53,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Ah? Then what should I do?"
+    },
+    {
+      "index": 54,
+      "simplified": "店员：您可以去车管所申请把国际驾照换成中国驾照，",
+      "traditional": "店員：您可以去車管所申請把國際駕照換成中國駕照，",
+      "pinyin": "diàn yuán nín kě yǐ qù chē guǎn suǒ shēn qǐng bǎ guó jì jià zhào huàn chéng zhōng guó jià zhào",
+      "english": ""
+    },
+    {
+      "index": 55,
+      "simplified": "只要您理论考试合格就能拿到中国驾照了。",
+      "traditional": "只要您理論考試合格就能拿到中國駕照了。",
+      "pinyin": "zhǐ yào nín lǐ lùn kǎo shì hé gé jiù néng ná dào zhōng guó jià zhào le",
+      "english": "Shop Assistant: You can go to the Vehicle Administration and apply for having your international driver’s license converted into a Chinese one."
+    },
+    {
+      "index": 56,
+      "simplified": "但是，这不可能一天办得下来。",
+      "traditional": "但是，這不可能一天辦得下來。",
+      "pinyin": "dàn shì zhè bù kě néng yì tiān bàn de xia lai",
+      "english": "As long as you pass the theoretical exam, you can get hold of a Chinese driver’s license."
+    },
+    {
+      "index": 57,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "But, this isn’t possible to manage to do in a day."
+    },
+    {
+      "index": 58,
+      "simplified": "保罗：唉，怎么会这样！看来我今天不能租车了。",
+      "traditional": "保羅：唉，怎麼會這樣！看來我今天不能租車了。",
+      "pinyin": "bǎo luó ài zěn me huì zhè yàng kàn lái wǒ jīn tiān bù néng zū chē le",
+      "english": ""
+    },
+    {
+      "index": 59,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Oh, how can it be this way! It seems that I won’t be able to rent a car today."
+    },
+    {
+      "index": 60,
+      "simplified": "店员：欢迎您拿到中国驾照后再次光临！",
+      "traditional": "店員：歡迎您拿到中國駕照後再次光臨！",
+      "pinyin": "diàn yuán huān yíng nín ná dào zhōng guó jià zhào hòu zài cì guāng lín",
+      "english": ""
+    },
+    {
+      "index": 61,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Shop Assistant: Welcome back another time when you’ve gotten a Chinese driver’s license!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "租",
+      "traditional": "租",
+      "pinyin": "zū",
+      "meaning": "to hire\nto rent",
+      "hsk": 4
+    },
+    {
+      "hanzi": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "meaning": "car\nvehicle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "短",
+      "traditional": "短",
+      "pinyin": "duǎn",
+      "meaning": "short\nbrief",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "meaning": "length\nlong",
+      "hsk": 3
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "until (a time)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "后天",
+      "traditional": "後天",
+      "pinyin": "hòu tiān",
+      "meaning": "the day after tomorrow",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "座",
+      "traditional": "座",
+      "pinyin": "zuò",
+      "meaning": "seat",
+      "hsk": 4
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "普通",
+      "traditional": "普通",
+      "pinyin": "pǔ tōng",
+      "meaning": "common\nordinary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "自动",
+      "traditional": "自動",
+      "pinyin": "zì dòng",
+      "meaning": "automatic\nvoluntarily",
+      "hsk": 5
+    },
+    {
+      "hanzi": "挡",
+      "traditional": "擋",
+      "pinyin": "dǎng",
+      "meaning": "gear (e.g. in a car's transmission)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "手动",
+      "traditional": "手動",
+      "pinyin": "shǒu dòng",
+      "meaning": "manual\nmanually operated",
+      "hsk": null
+    },
+    {
+      "hanzi": "经济",
+      "traditional": "經濟",
+      "pinyin": "jīng jì",
+      "meaning": "economy\neconomic",
+      "hsk": 4
+    },
+    {
+      "hanzi": "型",
+      "traditional": "型",
+      "pinyin": "xíng",
+      "meaning": "type\nstyle\nmodel",
+      "hsk": null
+    },
+    {
+      "hanzi": "商务",
+      "traditional": "商務",
+      "pinyin": "shāng wù",
+      "meaning": "commercial affairs\ncommerce\nbusiness",
+      "hsk": 5
+    },
+    {
+      "hanzi": "豪华",
+      "traditional": "豪華",
+      "pinyin": "háo huá",
+      "meaning": "luxurious",
+      "hsk": 5
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "加上",
+      "traditional": "加上",
+      "pinyin": "jiā shàng",
+      "meaning": "to put in\nto add\non top of that",
+      "hsk": null
+    },
+    {
+      "hanzi": "保险",
+      "traditional": "保險",
+      "pinyin": "bǎo xiǎn",
+      "meaning": "insurance",
+      "hsk": 5
+    },
+    {
+      "hanzi": "或",
+      "traditional": "或",
+      "pinyin": "huò",
+      "meaning": "or\neither ... or ... (used to list alternatives)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "道路",
+      "traditional": "道路",
+      "pinyin": "dào lù",
+      "meaning": "road\npath\nway",
+      "hsk": null
+    },
+    {
+      "hanzi": "救援",
+      "traditional": "救援",
+      "pinyin": "jiù yuán",
+      "meaning": "to save\nto support\nto help",
+      "hsk": null
+    },
+    {
+      "hanzi": "服务",
+      "traditional": "服務",
+      "pinyin": "fú wù",
+      "meaning": "service",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回到",
+      "traditional": "回到",
+      "pinyin": "huí dào",
+      "meaning": "to return to",
+      "hsk": null
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "huán",
+      "meaning": "to return\nto pay back",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "异地",
+      "traditional": "異地",
+      "pinyin": "yì dì",
+      "meaning": "different place\nabroad",
+      "hsk": null
+    },
+    {
+      "hanzi": "上门",
+      "traditional": "上門",
+      "pinyin": "shàng mén",
+      "meaning": "to drop in\nto visit",
+      "hsk": null
+    },
+    {
+      "hanzi": "取",
+      "traditional": "取",
+      "pinyin": "qǔ",
+      "meaning": "to take\nto get\nto fetch",
+      "hsk": 4
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不用",
+      "traditional": "不用",
+      "pinyin": "bú yòng",
+      "meaning": "need not",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to drive\nto operate (vehicle)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回",
+      "traditional": "回",
+      "pinyin": "huí",
+      "meaning": "to go back\nto return",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对了",
+      "traditional": "對了",
+      "pinyin": "duì le",
+      "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "营业",
+      "traditional": "營業",
+      "pinyin": "yíng yè",
+      "meaning": "to do business\nto trade\nto be open for business",
+      "hsk": 5
+    },
+    {
+      "hanzi": "是的",
+      "traditional": "是的",
+      "pinyin": "shì de",
+      "meaning": "yes, that's right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "放心",
+      "traditional": "放心",
+      "pinyin": "fàng xīn",
+      "meaning": "to feel relieved\nto feel reassured\nto be at ease",
+      "hsk": 3
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "注意",
+      "traditional": "注意",
+      "pinyin": "zhù yì",
+      "meaning": "to take note of\nto pay attention to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "嗯",
+      "traditional": "嗯",
+      "pinyin": "èn",
+      "meaning": "(nonverbal grunt as interjection)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "之前",
+      "traditional": "之前",
+      "pinyin": "zhī qián",
+      "meaning": "before\nprior to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "加",
+      "traditional": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "hsk": null
+    },
+    {
+      "hanzi": "满",
+      "traditional": "滿",
+      "pinyin": "mǎn",
+      "meaning": "fully\ncompletely",
+      "hsk": 4
+    },
+    {
+      "hanzi": "油",
+      "traditional": "油",
+      "pinyin": "yóu",
+      "meaning": "petroleum\noil",
+      "hsk": null
+    },
+    {
+      "hanzi": "明白",
+      "traditional": "明白",
+      "pinyin": "míng bai",
+      "meaning": "clear\nobvious\nto understand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "驾照",
+      "traditional": "駕照",
+      "pinyin": "jià zhào",
+      "meaning": "driver's license",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "先生",
+      "traditional": "先生",
+      "pinyin": "xiān sheng",
+      "meaning": "Mister (Mr.)\ngentleman\nsir",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "国际",
+      "traditional": "國際",
+      "pinyin": "guó jì",
+      "meaning": "international",
+      "hsk": 4
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "开车",
+      "traditional": "開車",
+      "pinyin": "kāi chē",
+      "meaning": "to drive a car",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "相当",
+      "traditional": "相當",
+      "pinyin": "xiāng dāng",
+      "meaning": "equivalent to",
+      "hsk": 5
+    },
+    {
+      "hanzi": "于",
+      "traditional": "於",
+      "pinyin": "yú",
+      "meaning": "at\non\nto",
+      "hsk": null
+    },
+    {
+      "hanzi": "无",
+      "traditional": "無",
+      "pinyin": "wú",
+      "meaning": "no\nnone",
+      "hsk": 4
+    },
+    {
+      "hanzi": "证",
+      "traditional": "證",
+      "pinyin": "zhèng",
+      "meaning": "certificate\nproof",
+      "hsk": 5
+    },
+    {
+      "hanzi": "驾驶",
+      "traditional": "駕駛",
+      "pinyin": "jià shǐ",
+      "meaning": "to drive\nto pilot (ship, airplane etc)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "后果",
+      "traditional": "後果",
+      "pinyin": "hòu guǒ",
+      "meaning": "consequences\naftermath",
+      "hsk": 5
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "严重",
+      "traditional": "嚴重",
+      "pinyin": "yán zhòng",
+      "meaning": "grave\nserious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "该",
+      "traditional": "該",
+      "pinyin": "gāi",
+      "meaning": "should\nought to",
+      "hsk": null
+    },
+    {
+      "hanzi": "怎么办",
+      "traditional": "怎麼辦",
+      "pinyin": "zěn me bàn",
+      "meaning": "what to do\nwhat should we do",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "车管所",
+      "traditional": "車管所",
+      "pinyin": "chē guǎn suǒ",
+      "meaning": "vehicle administration office",
+      "hsk": null
+    },
+    {
+      "hanzi": "申请",
+      "traditional": "申請",
+      "pinyin": "shēn qǐng",
+      "meaning": "to apply for sth\napplication (form etc)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "换成",
+      "traditional": "換成",
+      "pinyin": "huàn chéng",
+      "meaning": "to exchange (sth) for (sth else)\nto replace with\nto convert into",
+      "hsk": null
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "理论",
+      "traditional": "理論",
+      "pinyin": "lǐ lùn",
+      "meaning": "theory",
+      "hsk": 5
+    },
+    {
+      "hanzi": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "meaning": "to take an exam\nexam",
+      "hsk": 2
+    },
+    {
+      "hanzi": "合格",
+      "traditional": "合格",
+      "pinyin": "hé gé",
+      "meaning": "to meet the standard required\nqualified",
+      "hsk": 4
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to seize\nto catch",
+      "hsk": 3
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "办",
+      "traditional": "辦",
+      "pinyin": "bàn",
+      "meaning": "to do\nto manage\nto set up",
+      "hsk": 4
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "下来",
+      "traditional": "下來",
+      "pinyin": "xia lai",
+      "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "唉",
+      "traditional": "唉",
+      "pinyin": "ài",
+      "meaning": "alas\noh dear",
+      "hsk": 5
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "manner\nway\nappearance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "看来",
+      "traditional": "看來",
+      "pinyin": "kàn lái",
+      "meaning": "in the view of sb.\napparently\nit seems that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "欢迎",
+      "traditional": "歡迎",
+      "pinyin": "huān yíng",
+      "meaning": "welcome\nto be well received",
+      "hsk": 3
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再次",
+      "traditional": "再次",
+      "pinyin": "zài cì",
+      "meaning": "one more time\nagain",
+      "hsk": null
+    },
+    {
+      "hanzi": "光临",
+      "traditional": "光臨",
+      "pinyin": "guāng lín",
+      "meaning": "(formal) to honor with one's presence\nto attend",
+      "hsk": 5
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "meaning": "short\nbrief",
+        "tc_hanzi": "短"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "短",
+        "pinyin": "duǎn",
+        "meaning": "short\nbrief",
+        "tc_hanzi": "短"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "until (a time)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后天",
+        "pinyin": "hòu tiān",
+        "meaning": "the day after tomorrow",
+        "tc_hanzi": "後天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "座",
+        "pinyin": "zuò",
+        "meaning": "seat",
+        "tc_hanzi": "座"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普通",
+        "pinyin": "pǔ tōng",
+        "meaning": "common\nordinary",
+        "tc_hanzi": "普通"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "座",
+        "pinyin": "zuò",
+        "meaning": "seat",
+        "tc_hanzi": "座"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "自动",
+        "pinyin": "zì dòng",
+        "meaning": "automatic\nvoluntarily",
+        "tc_hanzi": "自動"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "挡",
+        "pinyin": "dǎng",
+        "meaning": "gear (e.g. in a car's transmission)",
+        "tc_hanzi": "擋"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "手动",
+        "pinyin": "shǒu dòng",
+        "meaning": "manual\nmanually operated",
+        "tc_hanzi": "手動"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "挡",
+        "pinyin": "dǎng",
+        "meaning": "gear (e.g. in a car's transmission)",
+        "tc_hanzi": "擋"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "自动",
+        "pinyin": "zì dòng",
+        "meaning": "automatic\nvoluntarily",
+        "tc_hanzi": "自動"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "挡",
+        "pinyin": "dǎng",
+        "meaning": "gear (e.g. in a car's transmission)",
+        "tc_hanzi": "擋"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "经济",
+        "pinyin": "jīng jì",
+        "meaning": "economy\neconomic",
+        "tc_hanzi": "經濟"
+      },
+      {
+        "hanzi": "型",
+        "pinyin": "xíng",
+        "meaning": "type\nstyle\nmodel",
+        "tc_hanzi": "型"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "商务",
+        "pinyin": "shāng wù",
+        "meaning": "commercial affairs\ncommerce\nbusiness",
+        "tc_hanzi": "商務"
+      },
+      {
+        "hanzi": "型",
+        "pinyin": "xíng",
+        "meaning": "type\nstyle\nmodel",
+        "tc_hanzi": "型"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "豪华",
+        "pinyin": "háo huá",
+        "meaning": "luxurious",
+        "tc_hanzi": "豪華"
+      },
+      {
+        "hanzi": "型",
+        "pinyin": "xíng",
+        "meaning": "type\nstyle\nmodel",
+        "tc_hanzi": "型"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普通",
+        "pinyin": "pǔ tōng",
+        "meaning": "common\nordinary",
+        "tc_hanzi": "普通"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "经济",
+        "pinyin": "jīng jì",
+        "meaning": "economy\neconomic",
+        "tc_hanzi": "經濟"
+      },
+      {
+        "hanzi": "型",
+        "pinyin": "xíng",
+        "meaning": "type\nstyle\nmodel",
+        "tc_hanzi": "型"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "加上",
+        "pinyin": "jiā shàng",
+        "meaning": "to put in\nto add\non top of that",
+        "tc_hanzi": "加上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "保险",
+        "pinyin": "bǎo xiǎn",
+        "meaning": "insurance",
+        "tc_hanzi": "保險"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或",
+        "pinyin": "huò",
+        "meaning": "or\neither ... or ... (used to list alternatives)",
+        "tc_hanzi": "或"
+      },
+      {
+        "hanzi": "道路",
+        "pinyin": "dào lù",
+        "meaning": "road\npath\nway",
+        "tc_hanzi": "道路"
+      },
+      {
+        "hanzi": "救援",
+        "pinyin": "jiù yuán",
+        "meaning": "to save\nto support\nto help",
+        "tc_hanzi": "救援"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务",
+        "pinyin": "fú wù",
+        "meaning": "service",
+        "tc_hanzi": "服務"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "加上",
+        "pinyin": "jiā shàng",
+        "meaning": "to put in\nto add\non top of that",
+        "tc_hanzi": "加上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "保险",
+        "pinyin": "bǎo xiǎn",
+        "meaning": "insurance",
+        "tc_hanzi": "保險"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "回到",
+        "pinyin": "huí dào",
+        "meaning": "to return to",
+        "tc_hanzi": "回到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "huán",
+        "meaning": "to return\nto pay back",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "异地",
+        "pinyin": "yì dì",
+        "meaning": "different place\nabroad",
+        "tc_hanzi": "異地"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "huán",
+        "meaning": "to return\nto pay back",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "上门",
+        "pinyin": "shàng mén",
+        "meaning": "to drop in\nto visit",
+        "tc_hanzi": "上門"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务",
+        "pinyin": "fú wù",
+        "meaning": "service",
+        "tc_hanzi": "服務"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不用",
+        "pinyin": "bú yòng",
+        "meaning": "need not",
+        "tc_hanzi": "不用"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to drive\nto operate (vehicle)",
+        "tc_hanzi": "開"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回",
+        "pinyin": "huí",
+        "meaning": "to go back\nto return",
+        "tc_hanzi": "回"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "对了",
+        "pinyin": "duì le",
+        "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+        "tc_hanzi": "對了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "24",
+        "pinyin": "3",
+        "tc_hanzi": "24"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "营业",
+        "pinyin": "yíng yè",
+        "meaning": "to do business\nto trade\nto be open for business",
+        "tc_hanzi": "營業"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是的",
+        "pinyin": "shì de",
+        "meaning": "yes, that's right",
+        "tc_hanzi": "是的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放心",
+        "pinyin": "fàng xīn",
+        "meaning": "to feel relieved\nto feel reassured\nto be at ease",
+        "tc_hanzi": "放心"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "注意",
+        "pinyin": "zhù yì",
+        "meaning": "to take note of\nto pay attention to",
+        "tc_hanzi": "注意"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗯",
+        "pinyin": "èn",
+        "meaning": "(nonverbal grunt as interjection)",
+        "tc_hanzi": "嗯"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "huán",
+        "meaning": "to return\nto pay back",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之前",
+        "pinyin": "zhī qián",
+        "meaning": "before\nprior to",
+        "tc_hanzi": "之前"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "满",
+        "pinyin": "mǎn",
+        "meaning": "fully\ncompletely",
+        "tc_hanzi": "滿"
+      },
+      {
+        "hanzi": "油",
+        "pinyin": "yóu",
+        "meaning": "petroleum\noil",
+        "tc_hanzi": "油"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "明白",
+        "pinyin": "míng bai",
+        "meaning": "clear\nobvious\nto understand",
+        "tc_hanzi": "明白"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "对了",
+        "pinyin": "duì le",
+        "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+        "tc_hanzi": "對了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "先生",
+        "pinyin": "xiān sheng",
+        "meaning": "Mister (Mr.)\ngentleman\nsir",
+        "tc_hanzi": "先生"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "国际",
+        "pinyin": "guó jì",
+        "meaning": "international",
+        "tc_hanzi": "國際"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "国际",
+        "pinyin": "guó jì",
+        "meaning": "international",
+        "tc_hanzi": "國際"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开车",
+        "pinyin": "kāi chē",
+        "meaning": "to drive a car",
+        "tc_hanzi": "開車"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开车",
+        "pinyin": "kāi chē",
+        "meaning": "to drive a car",
+        "tc_hanzi": "開車"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "相当",
+        "pinyin": "xiāng dāng",
+        "meaning": "equivalent to",
+        "tc_hanzi": "相當"
+      },
+      {
+        "hanzi": "于",
+        "pinyin": "yú",
+        "meaning": "at\non\nto",
+        "tc_hanzi": "於"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "无",
+        "pinyin": "wú",
+        "meaning": "no\nnone",
+        "tc_hanzi": "無"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "证",
+        "pinyin": "zhèng",
+        "meaning": "certificate\nproof",
+        "tc_hanzi": "證"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "驾驶",
+        "pinyin": "jià shǐ",
+        "meaning": "to drive\nto pilot (ship, airplane etc)",
+        "tc_hanzi": "駕駛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "后果",
+        "pinyin": "hòu guǒ",
+        "meaning": "consequences\naftermath",
+        "tc_hanzi": "後果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "严重",
+        "pinyin": "yán zhòng",
+        "meaning": "grave\nserious",
+        "tc_hanzi": "嚴重"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "该",
+        "pinyin": "gāi",
+        "meaning": "should\nought to",
+        "tc_hanzi": "該"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "车管所",
+        "pinyin": "chē guǎn suǒ",
+        "meaning": "vehicle administration office",
+        "tc_hanzi": "車管所"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "申请",
+        "pinyin": "shēn qǐng",
+        "meaning": "to apply for sth\napplication (form etc)",
+        "tc_hanzi": "申請"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "国际",
+        "pinyin": "guó jì",
+        "meaning": "international",
+        "tc_hanzi": "國際"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "换成",
+        "pinyin": "huàn chéng",
+        "meaning": "to exchange (sth) for (sth else)\nto replace with\nto convert into",
+        "tc_hanzi": "換成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "理论",
+        "pinyin": "lǐ lùn",
+        "meaning": "theory",
+        "tc_hanzi": "理論"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "考试",
+        "pinyin": "kǎo shì",
+        "meaning": "to take an exam\nexam",
+        "tc_hanzi": "考試"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "合格",
+        "pinyin": "hé gé",
+        "meaning": "to meet the standard required\nqualified",
+        "tc_hanzi": "合格"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to seize\nto catch",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "办",
+        "pinyin": "bàn",
+        "meaning": "to do\nto manage\nto set up",
+        "tc_hanzi": "辦"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "compound-directional-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "下来",
+        "pinyin": "xia lai",
+        "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+        "tc_hanzi": "下來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "唉",
+        "pinyin": "ài",
+        "meaning": "alas\noh dear",
+        "tc_hanzi": "唉"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "manner\nway\nappearance",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "看来",
+        "pinyin": "kàn lái",
+        "meaning": "in the view of sb.\napparently\nit seems that",
+        "tc_hanzi": "看來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "租",
+        "pinyin": "zū",
+        "meaning": "to hire\nto rent",
+        "tc_hanzi": "租"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "欢迎",
+        "pinyin": "huān yíng",
+        "meaning": "welcome\nto be well received",
+        "tc_hanzi": "歡迎"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to seize\nto catch",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "再次",
+        "pinyin": "zài cì",
+        "meaning": "one more time\nagain",
+        "tc_hanzi": "再次"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "光临",
+        "pinyin": "guāng lín",
+        "meaning": "(formal) to honor with one's presence\nto attend",
+        "tc_hanzi": "光臨"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul wants to rent a car, and is discussing the details with a shop assistant.",
+    "syllable_times": [
+      0.39999999999999997,
+      0.76,
+      1.0609842459192205,
+      2.955269912773326,
+      2.955269912773326,
+      2.955269912773326,
+      3.34,
+      4.125754536778398,
+      4.535,
+      4.84,
+      5.15502265376984,
+      6.708891489883749,
+      6.708891489883749,
+      6.708891489883749,
+      7.07,
+      7.84,
+      8.18,
+      8.7,
+      8.88,
+      9.09,
+      9.45,
+      9.94,
+      10.29,
+      10.68,
+      11.02,
+      12.860053614513333,
+      12.860053614513333,
+      12.860053614513333,
+      13.25,
+      14.22,
+      14.53,
+      14.91,
+      15.92,
+      16.31,
+      16.665,
+      17.41,
+      17.66,
+      18.025,
+      19.74528855308631,
+      19.74528855308631,
+      19.74528855308631,
+      20.106879000624662,
+      20.6,
+      20.81,
+      21.04,
+      21.32,
+      21.58,
+      21.84,
+      22.01,
+      23.903290774025912,
+      23.903290774025912,
+      23.903290774025912,
+      24.28,
+      24.605,
+      24.93,
+      25.81,
+      26.11,
+      26.41,
+      26.74,
+      28.449391107972673,
+      28.449391107972673,
+      28.449391107972673,
+      28.79321875146069,
+      29.3,
+      29.56,
+      29.81,
+      30.03,
+      30.25,
+      30.577162411109352,
+      31.096669059244814,
+      31.38229140467264,
+      31.83,
+      32.15,
+      32.47,
+      32.73,
+      34.08742028384936,
+      34.08742028384936,
+      34.08742028384936,
+      34.46,
+      34.725,
+      35.04,
+      36.49899778536631,
+      36.49899778536631,
+      36.49899778536631,
+      36.77801998664576,
+      37.61,
+      37.94,
+      38.39,
+      38.6,
+      38.84,
+      39.17666666666667,
+      39.37603865203406,
+      39.97,
+      40.269999999999996,
+      40.57,
+      41.15,
+      41.525,
+      42.01,
+      42.31666666666666,
+      42.623333333333335,
+      42.93,
+      45.03262796481122,
+      45.03262796481122,
+      45.03262796481122,
+      45.36,
+      45.74345020071076,
+      46,
+      46.66,
+      46.989999999999995,
+      47.32,
+      47.65,
+      47.81,
+      49.51296797175305,
+      49.51296797175305,
+      49.51296797175305,
+      49.84368391948322,
+      50.62320966930313,
+      50.93,
+      51.26,
+      51.4,
+      51.58,
+      51.795,
+      52.01,
+      52.394999999999996,
+      52.95,
+      53.32,
+      53.515,
+      53.71,
+      53.915,
+      54.12,
+      54.32,
+      54.52,
+      56.14159462138941,
+      56.14159462138941,
+      56.14159462138941,
+      56.51,
+      56.77,
+      57.05500000000001,
+      57.34,
+      59.30319655727111,
+      59.30319655727111,
+      59.30319655727111,
+      59.625,
+      60.48,
+      60.805,
+      61.18014472762459,
+      61.40601140556138,
+      61.59,
+      61.9,
+      62.17,
+      62.39,
+      63.23,
+      63.39,
+      63.55,
+      63.83,
+      64.31,
+      64.535,
+      64.76,
+      65.03,
+      65.65,
+      65.89,
+      66.13,
+      66.44,
+      66.67,
+      66.81,
+      67.075,
+      67.74,
+      67.96,
+      68.38,
+      68.53,
+      68.735,
+      68.94,
+      70.83668717193588,
+      70.83668717193588,
+      70.83668717193588,
+      71.095,
+      71.35,
+      72.33,
+      72.59,
+      72.91499999999999,
+      73.24,
+      73.5,
+      73.76,
+      73.97,
+      75.32365356936697,
+      75.59,
+      76.44,
+      76.66499999999999,
+      76.89,
+      77.17,
+      77.6,
+      78.15,
+      78.38333333333334,
+      78.61666666666666,
+      78.85,
+      79.16499999999999,
+      79.51,
+      79.795,
+      80.08,
+      80.19,
+      82.08623213782678,
+      82.08623213782678,
+      82.08623213782678,
+      82.435,
+      82.98,
+      83.21,
+      83.54499999999999,
+      85.25286572459656,
+      85.25286572459656,
+      85.25286572459656,
+      85.48,
+      85.89998992502383,
+      86.03333333333333,
+      86.22666666666667,
+      86.42,
+      86.7,
+      87.6,
+      87.875,
+      88.46,
+      88.71333333333332,
+      88.96666666666667,
+      89.29,
+      89.58,
+      89.775,
+      89.97,
+      90.2,
+      90.48,
+      90.72,
+      90.82,
+      92.33681372793212,
+      92.33681372793212,
+      92.33681372793212,
+      93.54,
+      93.86000000000001,
+      94.23,
+      94.41,
+      94.65,
+      94.9,
+      95.19,
+      95.48,
+      95.73,
+      95.96,
+      97.69284381080416,
+      97.69284381080416,
+      97.69284381080416,
+      98.01695961438595,
+      98.70811430664872,
+      99.08,
+      99.28,
+      100.8874021711583,
+      100.8874021711583,
+      100.8874021711583,
+      101.1215965477521,
+      101.7,
+      101.875,
+      102.05,
+      102.34,
+      102.73,
+      102.905,
+      103.08,
+      103.3,
+      103.57,
+      105.84158553923186,
+      105.84158553923186,
+      105.84158553923186,
+      106.11,
+      106.93787391190449,
+      109.33262748498814,
+      109.33262748498814,
+      109.33262748498814,
+      109.55000000000001,
+      109.76,
+      109.97,
+      110.18,
+      110.49279107821084,
+      111.42,
+      111.71,
+      111.99,
+      112.27,
+      112.61,
+      112.86,
+      113.11,
+      113.76,
+      114.00666666666667,
+      114.25333333333333,
+      114.5,
+      114.725,
+      114.95,
+      115.9201029003034,
+      116.17,
+      116.43,
+      116.70500000000001,
+      116.98,
+      117.20500000000001,
+      117.43,
+      119.07209254571397,
+      119.07209254571397,
+      119.07209254571397,
+      121,
+      121.22999999999999,
+      121.46,
+      121.74,
+      122.16,
+      122.44,
+      122.72,
+      123.06,
+      123.215,
+      123.37,
+      123.655,
+      123.94,
+      126.45881795419118,
+      126.45881795419118,
+      126.45881795419118,
+      126.74275704137982,
+      127.45,
+      127.64,
+      127.83,
+      128.08,
+      128.33,
+      128.675,
+      129.17,
+      129.38666666666666,
+      129.60333333333332,
+      129.82,
+      130.17000000000002,
+      130.55,
+      130.82333333333335,
+      131.09666666666666,
+      131.47,
+      131.76,
+      132.05,
+      132.39,
+      133.03,
+      133.35,
+      133.67,
+      133.98,
+      134.345,
+      136.15760123864726,
+      136.15760123864726,
+      136.15760123864726,
+      137.31063313248816,
+      137.745,
+      138.07,
+      138.28,
+      138.49333333333334,
+      138.70666666666665,
+      140.61097098429417,
+      140.61097098429417,
+      140.61097098429417,
+      140.86,
+      141.025,
+      141.19,
+      141.64,
+      141.87,
+      142.05,
+      142.51,
+      142.83499999999998,
+      143.39,
+      143.59,
+      143.84,
+      144.09,
+      144.4,
+      144.74,
+      145.06,
+      145.41,
+      145.62,
+      145.83,
+      146.125,
+      147.03,
+      147.19,
+      147.35,
+      147.71,
+      147.92000000000002,
+      148.13,
+      148.35500000000002,
+      148.58,
+      148.89,
+      149.46,
+      149.63,
+      149.8,
+      150.06,
+      150.36,
+      150.575,
+      150.79,
+      151.035,
+      151.28,
+      152.94,
+      153.275,
+      153.85,
+      154.04,
+      154.23666666666665,
+      154.43333333333334,
+      154.66,
+      154.94,
+      155.3,
+      155.48,
+      155.61,
+      155.905,
+      157.71474534349892,
+      157.71474534349892,
+      157.71474534349892,
+      158.79,
+      159.04666666666665,
+      159.30333333333334,
+      159.56,
+      159.85500000000002,
+      161.06,
+      161.375,
+      162.05,
+      162.28,
+      162.61,
+      163.07,
+      163.33499999999998,
+      163.6,
+      163.89499999999998,
+      164.19,
+      167.02962648166957,
+      167.02962648166957,
+      167.02962648166957,
+      167.27333333333334,
+      167.51666666666665,
+      167.82,
+      168.04500000000002,
+      168.27,
+      168.495,
+      168.72,
+      168.94,
+      169.16,
+      169.59,
+      169.86,
+      170.13,
+      170.465,
+      171.095578,
+      171.095578
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      15,
+      16,
+      29,
+      30,
+      44,
+      45,
+      56,
+      57,
+      68,
+      69,
+      82,
+      83,
+      89,
+      90,
+      107,
+      108,
+      119,
+      120,
+      135,
+      136,
+      142,
+      143,
+      155,
+      168,
+      174,
+      175,
+      187,
+      198,
+      199,
+      206,
+      207,
+      227,
+      228,
+      242,
+      243,
+      250,
+      251,
+      263,
+      264,
+      270,
+      271,
+      277,
+      289,
+      295,
+      296,
+      309,
+      310,
+      315,
+      332,
+      333,
+      342,
+      343,
+      357,
+      371,
+      382,
+      383,
+      401,
+      402,
+      414
+    ],
+    "sentence_translations": [
+      "I Want to Rent a Car",
+      "",
+      "Paul: Hello! I want to rent a car!",
+      "",
+      "Shop Assistant: Ok. May I ask if you want a short term rental or a long term rental?",
+      "",
+      "Paul: A short term rental, to rent for 3 days. From today until the day after tomorrow.",
+      "",
+      "Shop Assistant: May I ask how many seats you would like the car to have?",
+      "",
+      "Paul: Just the ordinary, a 5 seater.",
+      "",
+      "Shop Assistant: May I ask if you want one with automatic transmission or manual transmission?",
+      "",
+      "Paul: Automatic transmission.",
+      "",
+      "Shop Assistant: Ok. May I ask if you want an economy model, business model or luxury model?",
+      "",
+      "Paul: Just an ordinary one. An economy model.",
+      "",
+      "Shop Assistant: Ok. May I ask if you would like to add insurance or road rescue services?",
+      "",
+      "Paul: Add the insurance.",
+      "",
+      "Shop Assistant: Ok. Are you returning the car here?",
+      "We also have the service of returning the car from somewhere else, or we pick it up at your door.",
+      "Do you think you need that?",
+      "",
+      "Paul: There’s no need. I might as well drive it back here.",
+      "Oh, that’s right, are you open 24 hours here?",
+      "",
+      "Shop Assistant: Yes, that’s right. Don’t you worry.",
+      "",
+      "Paul: This is the first time I rent a car, may I ask if there is anything I need to take note of?",
+      "",
+      "Shop Assistant: Umm… Please fill up the car with gas before you return it.",
+      "",
+      "Paul: Ok. I understand.",
+      "",
+      "Shop Assistant: Oh, that’s right! Can I have a look at your driver’s license?",
+      "",
+      "Paul: Ok. Here it is!",
+      "",
+      "Shop Assistant: I’m sorry, Mister!",
+      "This is an international driver’s license, and can’t be used in China.",
+      "Do you have a Chinese driver’s license?",
+      "",
+      "Paul: Ah? You can’t drive in China with an international driver’s license?",
+      "",
+      "Shop Assistant: No, you can’t.",
+      "Driving in China without a Chinese driver’s license is equivalent to uncertified driving, and has serious consequences.",
+      "",
+      "Paul: Ah? Then what should I do?",
+      "",
+      "Shop Assistant: You can go to the Vehicle Administration and apply for having your international driver’s license converted into a Chinese one.",
+      "As long as you pass the theoretical exam, you can get hold of a Chinese driver’s license.",
+      "But, this isn’t possible to manage to do in a day.",
+      "",
+      "Paul: Oh, how can it be this way! It seems that I won’t be able to rent a car today.",
+      "",
+      "Shop Assistant: Welcome back another time when you’ve gotten a Chinese driver’s license!",
+      ""
+    ]
+  }
+}

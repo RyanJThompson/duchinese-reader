@@ -1,0 +1,662 @@
+{
+  "id": "295",
+  "title": "Where Did He Go?",
+  "level": "newbie",
+  "date": "2017-04-29",
+  "synopsis": "Lucy is asking around where Ben went.",
+  "audioUrl": "https://static.duchinese.net/documents/403/5cfac86e2c06a8dad5eb4cb7df7f877ad681adeb.mp3?1554973278",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 24,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "他去哪儿了？\n\n露西：王平，本呢？他去哪儿了？\n王平：他去医院了。\n露西：他怎么了？\n王平：他肚子疼。\n露西：他什么时候能回来？\n王平：我不知道。",
+    "traditional": "他去哪兒了？\n\n露西：王平，本呢？他去哪兒了？\n王平：他去醫院了。\n露西：他怎麼了？\n王平：他肚子疼。\n露西：他什麼時候能回來？\n王平：我不知道。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where did he go?"
+    },
+    {
+      "index": 2,
+      "simplified": "露西：王平，本呢？他去哪儿了？",
+      "traditional": "露西：王平，本呢？他去哪兒了？",
+      "pinyin": "lù xī wáng píng běn ne tā qù nǎ'r le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: Wang Ping, what about Ben? Where did he go?"
+    },
+    {
+      "index": 4,
+      "simplified": "王平：他去医院了。",
+      "traditional": "王平：他去醫院了。",
+      "pinyin": "wáng píng tā qù yī yuàn le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: He went to the hospital."
+    },
+    {
+      "index": 6,
+      "simplified": "露西：他怎么了？",
+      "traditional": "露西：他怎麼了？",
+      "pinyin": "lù xī tā zěn me le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: What's wrong with him?"
+    },
+    {
+      "index": 8,
+      "simplified": "王平：他肚子疼。",
+      "traditional": "王平：他肚子疼。",
+      "pinyin": "wáng píng tā dù zi téng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Wang Ping: His stomach hurt."
+    },
+    {
+      "index": 10,
+      "simplified": "露西：他什么时候能回来？",
+      "traditional": "露西：他什麼時候能回來？",
+      "pinyin": "lù xī tā shén me shí hou néng huí lái",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: When can he come back?"
+    },
+    {
+      "index": 12,
+      "simplified": "王平：我不知道。",
+      "traditional": "王平：我不知道。",
+      "pinyin": "wáng píng wǒ bù zhī dào",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Wang Ping: I don't know."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "露西",
+      "traditional": "露西",
+      "pinyin": "lù xī",
+      "meaning": "Lucy (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "王平",
+      "traditional": "王平",
+      "pinyin": "wáng píng",
+      "meaning": "Wang Ping (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么了",
+      "traditional": "怎麼了",
+      "pinyin": "zěn me le",
+      "meaning": "What's up?\nWhat happened?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "肚子",
+      "traditional": "肚子",
+      "pinyin": "dù zi",
+      "meaning": "stomach\nabdomen\nbelly",
+      "hsk": 4
+    },
+    {
+      "hanzi": "疼",
+      "traditional": "疼",
+      "pinyin": "téng",
+      "meaning": "(it) hurts\nsore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lái",
+      "meaning": "to return\nto come back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "王平",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王平"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王平",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王平"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么了",
+        "pinyin": "zěn me le",
+        "meaning": "What's up?\nWhat happened?",
+        "tc_hanzi": "怎麼了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王平",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王平"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "肚子",
+        "pinyin": "dù zi",
+        "meaning": "stomach\nabdomen\nbelly",
+        "tc_hanzi": "肚子"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "疼",
+        "pinyin": "téng",
+        "meaning": "(it) hurts\nsore",
+        "tc_hanzi": "疼"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王平",
+        "pinyin": "wáng píng",
+        "meaning": "Wang Ping (name)",
+        "tc_hanzi": "王平"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lucy is asking around where Ben went.",
+    "syllable_times": [
+      0.4,
+      1.2,
+      1.72,
+      3.3637083053642662,
+      3.3637083053642662,
+      3.3637083053642662,
+      3.68,
+      4.96,
+      5.23,
+      6.32,
+      6.74,
+      7.33,
+      7.74,
+      9.206270679682627,
+      9.206270679682627,
+      9.206270679682627,
+      9.54,
+      9.98,
+      10.26,
+      10.54,
+      12.53758322252438,
+      12.53758322252438,
+      12.53758322252438,
+      13.14,
+      13.54,
+      13.735,
+      15.035735251791237,
+      15.035735251791237,
+      15.035735251791237,
+      15.81,
+      16.12666666666667,
+      16.38255040274953,
+      18.864393758133644,
+      18.864393758133644,
+      18.864393758133644,
+      19.34,
+      19.655,
+      19.97,
+      20.4,
+      21.03,
+      21.308877841552672,
+      21.65,
+      23.146971749054394,
+      23.146971749054394,
+      23.146971749054394,
+      23.73,
+      24.085,
+      24.44,
+      25.140884,
+      25.140884
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      19,
+      20,
+      27,
+      28,
+      33,
+      34,
+      40,
+      41,
+      49,
+      50,
+      56
+    ],
+    "sentence_translations": [
+      "Where did he go?",
+      "",
+      "Lucy: Wang Ping, what about Ben? Where did he go?",
+      "",
+      "Wang Ping: He went to the hospital.",
+      "",
+      "Lucy: What's wrong with him?",
+      "",
+      "Wang Ping: His stomach hurt.",
+      "",
+      "Lucy: When can he come back?",
+      "",
+      "Wang Ping: I don't know.",
+      ""
+    ]
+  }
+}

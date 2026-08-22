@@ -1,0 +1,951 @@
+{
+  "id": "516",
+  "title": "Her Wish Came True",
+  "level": "elementary",
+  "date": "2018-06-16",
+  "synopsis": "Meeting an old friend for the first time in a long while.",
+  "audioUrl": "https://static.duchinese.net/documents/753/4de2d44fd58acbf80bfb4b69b22393ef94300796.mp3?1527744183",
+  "series": null,
+  "fullText": {
+    "simplified": "她的愿望实现了\n\n    去年，我和很久不见的小学同学小新见了一面，小新胖了很多。她看到我还是那么瘦，就对我说：“如果我能和你一样重就好了！”\n    今年，她的愿望实现了。因为我胖了二十多斤。",
+    "traditional": "她的願望實現了\n\n    去年，我和很久不見的小學同學小新見了一面，小新胖了很多。她看到我還是那麼瘦，就對我說：“如果我能和你一樣重就好了！”\n    今年，她的願望實現了。因為我胖了二十多斤。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Her Wish Came True"
+    },
+    {
+      "index": 2,
+      "simplified": "去年，我和很久不见的小学同学小新见了一面，",
+      "traditional": "去年，我和很久不見的小學同學小新見了一面，",
+      "pinyin": "qù nián wǒ hé hěn jiǔ bú jiàn de xiǎo xué tóng xué xiǎo xīn jiàn le yí miàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "小新胖了很多。",
+      "traditional": "小新胖了很多。",
+      "pinyin": "xiǎo xīn pàng le hěn duō",
+      "english": "Last year, I met my elementary school classmate Little Xin who I hadn’t seen in a long time."
+    },
+    {
+      "index": 4,
+      "simplified": "她看到我还是那么瘦，就对我说：“如果我能和你一样重就好了！”",
+      "traditional": "她看到我還是那麼瘦，就對我說：“如果我能和你一樣重就好了！”",
+      "pinyin": "tā kàn dào wǒ hái shì nà me shòu jiù duì wǒ shuō rú guǒ wǒ néng hé nǐ yí yàng zhòng jiù hǎo le",
+      "english": "Little Xin had gained a lot of weight."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "She saw that I was still thin and said to me: “If only I could be the same weight as you!”"
+    },
+    {
+      "index": 6,
+      "simplified": "今年，她的愿望实现了。",
+      "traditional": "今年，她的願望實現了。",
+      "pinyin": "jīn nián tā de yuàn wàng shí xiàn le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "因为我胖了二十多斤。",
+      "traditional": "因為我胖了二十多斤。",
+      "pinyin": "yīn wèi wǒ pàng le èr shí duō jīn",
+      "english": "This year her wish came true."
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Because I gained over 10 kilos."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "愿望",
+      "traditional": "願望",
+      "pinyin": "yuàn wàng",
+      "meaning": "desire\nwish",
+      "hsk": 5
+    },
+    {
+      "hanzi": "实现",
+      "traditional": "實現",
+      "pinyin": "shí xiàn",
+      "meaning": "to achieve\nto implement\nto realize",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去年",
+      "traditional": "去年",
+      "pinyin": "qù nián",
+      "meaning": "last year",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "久",
+      "traditional": "久",
+      "pinyin": "jiǔ",
+      "meaning": "(long) time\n(long) duration of time",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不见",
+      "traditional": "不見",
+      "pinyin": "bú jiàn",
+      "meaning": "not to see\nto have disappeared\nto be missing",
+      "hsk": null
+    },
+    {
+      "hanzi": "小学",
+      "traditional": "小學",
+      "pinyin": "xiǎo xué",
+      "meaning": "elementary school\nprimary school",
+      "hsk": null
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "surname Xin",
+      "hsk": 2
+    },
+    {
+      "hanzi": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "meaning": "to see\nto meet",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "面",
+      "traditional": "面",
+      "pinyin": "miàn",
+      "meaning": "face\nside\nsurface",
+      "hsk": 5
+    },
+    {
+      "hanzi": "胖",
+      "traditional": "胖",
+      "pinyin": "pàng",
+      "meaning": "fat\nplump",
+      "hsk": 3
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "瘦",
+      "traditional": "瘦",
+      "pinyin": "shòu",
+      "meaning": "thin\nto lose weight",
+      "hsk": 3
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "重",
+      "traditional": "重",
+      "pinyin": "zhòng",
+      "meaning": "serious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "斤",
+      "traditional": "斤",
+      "pinyin": "jīn",
+      "meaning": "weight equal to 0.5 kg",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "愿望",
+        "pinyin": "yuàn wàng",
+        "meaning": "desire\nwish",
+        "tc_hanzi": "願望"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "实现",
+        "pinyin": "shí xiàn",
+        "meaning": "to achieve\nto implement\nto realize",
+        "tc_hanzi": "實現"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "去年",
+        "pinyin": "qù nián",
+        "meaning": "last year",
+        "tc_hanzi": "去年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "久",
+        "pinyin": "jiǔ",
+        "meaning": "(long) time\n(long) duration of time",
+        "tc_hanzi": "久"
+      },
+      {
+        "hanzi": "不见",
+        "pinyin": "bú jiàn",
+        "meaning": "not to see\nto have disappeared\nto be missing",
+        "tc_hanzi": "不見"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "小学",
+        "pinyin": "xiǎo xué",
+        "meaning": "elementary school\nprimary school",
+        "tc_hanzi": "小學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "surname Xin",
+        "tc_hanzi": "新"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面",
+        "pinyin": "miàn",
+        "meaning": "face\nside\nsurface",
+        "tc_hanzi": "面"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "surname Xin",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "胖",
+        "pinyin": "pàng",
+        "meaning": "fat\nplump",
+        "tc_hanzi": "胖"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "瘦",
+        "pinyin": "shòu",
+        "meaning": "thin\nto lose weight",
+        "tc_hanzi": "瘦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "重",
+        "pinyin": "zhòng",
+        "meaning": "serious",
+        "tc_hanzi": "重"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "愿望",
+        "pinyin": "yuàn wàng",
+        "meaning": "desire\nwish",
+        "tc_hanzi": "願望"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "实现",
+        "pinyin": "shí xiàn",
+        "meaning": "to achieve\nto implement\nto realize",
+        "tc_hanzi": "實現"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "胖",
+        "pinyin": "pàng",
+        "meaning": "fat\nplump",
+        "tc_hanzi": "胖"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "have (a specified amount) more or too much (opp. 少)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "斤",
+        "pinyin": "jīn",
+        "meaning": "weight equal to 0.5 kg",
+        "tc_hanzi": "斤"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Meeting an old friend for the first time in a long while.",
+    "syllable_times": [
+      0.36281179138321995,
+      0.7709750566893424,
+      1.08843537414966,
+      1.4512471655328798,
+      1.864364643463997,
+      2.287409344798879,
+      4.126984126984127,
+      4.534064645071256,
+      5.578231292517007,
+      5.941043083900227,
+      6.394557823129252,
+      6.666666666666667,
+      6.984126984126984,
+      7.210884353741497,
+      7.573696145124717,
+      7.981859410430839,
+      8.362331255967781,
+      8.662131519274377,
+      9.014661755638722,
+      9.65986394557823,
+      10.068027210884354,
+      10.708789667455605,
+      11.065759637188208,
+      11.227163394682911,
+      11.428571428571429,
+      13.061224489795919,
+      13.46938775510204,
+      14.013605442176871,
+      14.467120181405896,
+      14.684213817392388,
+      15.011337868480725,
+      17.09750566893424,
+      17.551020408163264,
+      17.868480725623584,
+      18.1859410430839,
+      18.672017987532268,
+      19.047619047619047,
+      19.364216574240004,
+      19.591836734693878,
+      19.77534514733833,
+      21.31519274376417,
+      21.58730158730159,
+      21.859410430839002,
+      22.106166409132832,
+      24.489795918367346,
+      24.807256235827666,
+      25.26077097505669,
+      25.532879818594104,
+      25.85034013605442,
+      26.122448979591837,
+      26.53061224489796,
+      26.843646893840713,
+      27.165532879818596,
+      27.528344671201815,
+      27.853018261863397,
+      28.193536023032113,
+      30.612244897959183,
+      30.975056689342402,
+      32.018140589569164,
+      32.33560090702948,
+      32.51700680272109,
+      32.7891156462585,
+      33.23448033261729,
+      33.64184358638436,
+      34.10430839002267,
+      35.55555555555556,
+      35.82766439909297,
+      36.64399092970522,
+      37.09750566893424,
+      37.53748726437307,
+      38.140589569160994,
+      38.3909301142074,
+      38.68480725623583,
+      38.956916099773245,
+      39.64551020408163,
+      39.64551020408163
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      25,
+      32,
+      56,
+      58,
+      66,
+      75
+    ],
+    "sentence_translations": [
+      "Her Wish Came True",
+      "",
+      "Last year, I met my elementary school classmate Little Xin who I hadn’t seen in a long time.",
+      "Little Xin had gained a lot of weight.",
+      "She saw that I was still thin and said to me: “If only I could be the same weight as you!”",
+      "",
+      "This year her wish came true.",
+      "Because I gained over 10 kilos.",
+      ""
+    ]
+  }
+}

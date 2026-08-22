@@ -1,0 +1,672 @@
+{
+  "id": "1051",
+  "title": "Scrambled Eggs",
+  "level": "elementary",
+  "date": "2020-08-29",
+  "synopsis": "Ben confuses scrambled eggs with Michael Jordan.",
+  "audioUrl": "https://static.duchinese.net/documents/1051/1c6a94fda6fb8e52d0bba7510517a2121318b46a.mp3?1595859399",
+  "series": null,
+  "fullText": {
+    "simplified": "炒蛋\n\n本：老师，你知道炒蛋吗？\n老师：知道啊，你喜欢吃吗？\n本：炒蛋不可以吃，他是美国人，篮球打得很好！\n老师：哦……你说的是“乔丹”吧？",
+    "traditional": "炒蛋\n\n本：老師，你知道炒蛋嗎？\n老師：知道啊，你喜歡吃嗎？\n本：炒蛋不可以吃，他是美國人，籃球打得很好！\n老師：哦……你說的是“喬丹”吧？"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Scrambled Eggs"
+    },
+    {
+      "index": 2,
+      "simplified": "本：老师，你知道炒蛋吗？",
+      "traditional": "本：老師，你知道炒蛋嗎？",
+      "pinyin": "běn lǎo shī nǐ zhī dào chǎo dàn ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Teacher, do you know “chaodan”?"
+    },
+    {
+      "index": 4,
+      "simplified": "老师：知道啊，你喜欢吃吗？",
+      "traditional": "老師：知道啊，你喜歡吃嗎？",
+      "pinyin": "lǎo shī zhī dào a nǐ xǐ huan chī ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: I do know “chaodan”. Do you like eating them?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：炒蛋不可以吃，他是美国人，篮球打得很好！",
+      "traditional": "本：炒蛋不可以吃，他是美國人，籃球打得很好！",
+      "pinyin": "běn chǎo dàn bù kě yǐ chī tā shì měi guó rén lán qiú dǎ de hěn hǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: You can’t eat “chaodan”. He is American and plays basketball very well!"
+    },
+    {
+      "index": 8,
+      "simplified": "老师：哦……你说的是“乔丹”吧？",
+      "traditional": "老師：哦……你說的是“喬丹”吧？",
+      "pinyin": "lǎo shī ò nǐ shuō de shì qiáo dān ba",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Teacher: Oh…are you talking about “Qiaodan” (Jordan)?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "炒蛋",
+      "traditional": "炒蛋",
+      "pinyin": "chǎo dàn",
+      "meaning": "scrambled eggs",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "篮球",
+      "traditional": "籃球",
+      "pinyin": "lán qiú",
+      "meaning": "basketball (sport)\nbasketball (ball used in this sport)",
+      "hsk": null
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to play (a game)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "ò",
+      "meaning": "oh (interjection indicating that one has just learned sth)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "乔丹",
+      "traditional": "喬丹",
+      "pinyin": "qiáo dān",
+      "meaning": "Jordan (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "炒蛋",
+        "pinyin": "chǎo dàn",
+        "meaning": "scrambled eggs",
+        "tc_hanzi": "炒蛋"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "炒蛋",
+        "pinyin": "chǎo dàn",
+        "meaning": "scrambled eggs",
+        "tc_hanzi": "炒蛋"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "炒蛋",
+        "pinyin": "chǎo dàn",
+        "meaning": "scrambled eggs",
+        "tc_hanzi": "炒蛋"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "篮球",
+        "pinyin": "lán qiú",
+        "meaning": "basketball (sport)\nbasketball (ball used in this sport)",
+        "tc_hanzi": "籃球"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to play (a game)",
+        "tc_hanzi": "打"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "oh (interjection indicating that one has just learned sth)",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "乔丹",
+        "pinyin": "qiáo dān",
+        "meaning": "Jordan (name)",
+        "tc_hanzi": "喬丹"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben confuses scrambled eggs with Michael Jordan.",
+    "syllable_times": [
+      0.51,
+      1.97,
+      1.97,
+      2.335,
+      3.45,
+      3.69,
+      3.9050000000000002,
+      4.12,
+      4.49,
+      4.784580498866213,
+      5.92,
+      5.92,
+      5.92,
+      6.1899999999999995,
+      6.519274376417234,
+      7.21,
+      7.69,
+      8.089569160997732,
+      8.30498866213152,
+      8.61111111111111,
+      10.26,
+      10.26,
+      10.6,
+      11.003401360544217,
+      11.281179138321995,
+      11.507936507936508,
+      11.71,
+      12.94,
+      13.24,
+      13.52,
+      13.79,
+      14.06,
+      15.07,
+      15.425,
+      15.78,
+      16.003401360544217,
+      16.1734693877551,
+      16.46,
+      18.16,
+      18.16,
+      18.16,
+      19.82,
+      20.22,
+      20.626666666666665,
+      21.033333333333335,
+      21.44,
+      21.93877551020408,
+      22.29,
+      22.958005
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      12,
+      13,
+      23,
+      24,
+      42,
+      43,
+      56
+    ],
+    "sentence_translations": [
+      "Scrambled Eggs",
+      "",
+      "Ben: Teacher, do you know “chaodan”?",
+      "",
+      "Teacher: I do know “chaodan”. Do you like eating them?",
+      "",
+      "Ben: You can’t eat “chaodan”. He is American and plays basketball very well!",
+      "",
+      "Teacher: Oh…are you talking about “Qiaodan” (Jordan)?",
+      ""
+    ]
+  }
+}

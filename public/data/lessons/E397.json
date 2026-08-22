@@ -1,0 +1,839 @@
+{
+  "id": "E397",
+  "title": "Drink More Water",
+  "level": "newbie",
+  "date": "2020-01-23",
+  "synopsis": "Little Ming’s mother wants Little Ming to drink more water. Will he agree?",
+  "audioUrl": "https://static.duchinese.net/documents/50397/59cdce1e7180a6102f29b98b5f4e13a91cb8f928.mp3?1579527469",
+  "series": null,
+  "fullText": {
+    "simplified": "多喝水\n\n妈妈：多喝水对身体好。\n小明：但是水不好喝啊。\n妈妈：好喝的东西对身体不好。\n小明：啤酒很好喝，对身体也不好吗？\n妈妈：啊？你什么时候喝过啤酒？\n小明：我是听爷爷说的。\n",
+    "traditional": "多喝水\n\n媽媽：多喝水對身體好。\n小明：但是水不好喝啊。\n媽媽：好喝的東西對身體不好。\n小明：啤酒很好喝，對身體也不好嗎？\n媽媽：啊？你什麼時候喝過啤酒？\n小明：我是聽爺爺說的。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Drink More Water"
+    },
+    {
+      "index": 2,
+      "simplified": "妈妈：多喝水对身体好。",
+      "traditional": "媽媽：多喝水對身體好。",
+      "pinyin": "mā ma duō hē shuǐ duì shēn tǐ hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: It’s good for your health to drink more water."
+    },
+    {
+      "index": 4,
+      "simplified": "小明：但是水不好喝啊。",
+      "traditional": "小明：但是水不好喝啊。",
+      "pinyin": "xiǎo míng dàn shì shuǐ bù hǎo hē a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: But water isn’t tasty."
+    },
+    {
+      "index": 6,
+      "simplified": "妈妈：好喝的东西对身体不好。",
+      "traditional": "媽媽：好喝的東西對身體不好。",
+      "pinyin": "mā ma hǎo hē de dōng xi duì shēn tǐ bù hǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Tasty things are not good for your health."
+    },
+    {
+      "index": 8,
+      "simplified": "小明：啤酒很好喝，对身体也不好吗？",
+      "traditional": "小明：啤酒很好喝，對身體也不好嗎？",
+      "pinyin": "xiǎo míng pí jiǔ hěn hǎo hē duì shēn tǐ yě bù hǎo ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Beer is very tasty, is that also bad for your health?"
+    },
+    {
+      "index": 10,
+      "simplified": "妈妈：啊？你什么时候喝过啤酒？",
+      "traditional": "媽媽：啊？你什麼時候喝過啤酒？",
+      "pinyin": "mā ma a nǐ shén me shí hou hē guò pí jiǔ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Huh? When did you drink beer?"
+    },
+    {
+      "index": 12,
+      "simplified": "小明：我是听爷爷说的。",
+      "traditional": "小明：我是聽爺爺說的。",
+      "pinyin": "xiǎo míng wǒ shì tīng yé ye shuō de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: I heard Grandpa say so."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "have (a specified amount) more or too much (opp. 少)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "身体",
+      "traditional": "身體",
+      "pinyin": "shēn tǐ",
+      "meaning": "the body\none's health",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好喝",
+      "traditional": "好喝",
+      "pinyin": "hǎo hē",
+      "meaning": "tasty (drinks)",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啤酒",
+      "traditional": "啤酒",
+      "pinyin": "pí jiǔ",
+      "meaning": "beer (loanword)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爷爷",
+      "traditional": "爺爺",
+      "pinyin": "yé ye",
+      "meaning": "paternal grandfather\nold man",
+      "hsk": 3
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "have (a specified amount) more or too much (opp. 少)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "have (a specified amount) more or too much (opp. 少)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "好喝",
+        "pinyin": "hǎo hē",
+        "meaning": "tasty (drinks)",
+        "tc_hanzi": "好喝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "好喝",
+        "pinyin": "hǎo hē",
+        "meaning": "tasty (drinks)",
+        "tc_hanzi": "好喝"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啤酒",
+        "pinyin": "pí jiǔ",
+        "meaning": "beer (loanword)",
+        "tc_hanzi": "啤酒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "好喝",
+        "pinyin": "hǎo hē",
+        "meaning": "tasty (drinks)",
+        "tc_hanzi": "好喝"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身体",
+        "pinyin": "shēn tǐ",
+        "meaning": "the body\none's health",
+        "tc_hanzi": "身體"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啤酒",
+        "pinyin": "pí jiǔ",
+        "meaning": "beer (loanword)",
+        "tc_hanzi": "啤酒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "爷爷",
+        "pinyin": "yé ye",
+        "meaning": "paternal grandfather\nold man",
+        "tc_hanzi": "爺爺"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming’s mother wants Little Ming to drink more water. Will he agree?",
+    "syllable_times": [
+      0.4823944767286617,
+      0.855,
+      3.9906534348185807,
+      3.9906534348185807,
+      3.9906534348185807,
+      4.262208218399495,
+      4.540992044888082,
+      5.16,
+      5.396059205992118,
+      5.672315084960844,
+      5.88,
+      7.051199582154079,
+      7.051199582154079,
+      7.051199582154079,
+      7.4,
+      7.95,
+      8.41,
+      8.71,
+      9.01,
+      9.47,
+      10.881777378339287,
+      10.881777378339287,
+      10.881777378339287,
+      11.225,
+      11.53,
+      11.68,
+      12.01,
+      12.71,
+      12.89,
+      13.17,
+      13.45,
+      13.87,
+      15.694812056329658,
+      15.694812056329658,
+      15.694812056329658,
+      16.11227819675872,
+      16.41,
+      16.7,
+      16.99,
+      18.06,
+      18.27,
+      18.585,
+      18.9,
+      19.13,
+      19.395,
+      19.69,
+      21.440282018221584,
+      21.440282018221584,
+      21.440282018221584,
+      22.63866219250541,
+      22.95,
+      23.13,
+      23.31,
+      23.56,
+      23.81,
+      24.045,
+      24.28,
+      24.68,
+      26.418914280725375,
+      26.418914280725375,
+      26.418914280725375,
+      26.76,
+      26.95,
+      27.26187390370797,
+      27.557732463444747,
+      27.74,
+      28.12,
+      28.611042,
+      28.611042
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      23,
+      24,
+      34,
+      35,
+      48,
+      49,
+      60,
+      61,
+      70
+    ],
+    "sentence_translations": [
+      "Drink More Water",
+      "",
+      "Mom: It’s good for your health to drink more water.",
+      "",
+      "Little Ming: But water isn’t tasty.",
+      "",
+      "Mom: Tasty things are not good for your health.",
+      "",
+      "Little Ming: Beer is very tasty, is that also bad for your health?",
+      "",
+      "Mom: Huh? When did you drink beer?",
+      "",
+      "Little Ming: I heard Grandpa say so.",
+      ""
+    ]
+  }
+}

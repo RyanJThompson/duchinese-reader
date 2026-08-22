@@ -1,0 +1,632 @@
+{
+  "id": "399",
+  "title": "We Already Decided",
+  "level": "newbie",
+  "date": "2017-10-11",
+  "synopsis": "Lili has made a promise with Little Le to go running.",
+  "audioUrl": "https://static.duchinese.net/documents/548/8dd555c2313ba8283e8b8a45049b7755ab25e8ca.mp3?1698352254",
+  "series": null,
+  "fullText": {
+    "simplified": "我们说好了\n\n本：丽丽，你去哪儿？\n丽丽：我和小乐去跑步。\n本：啊？外面正在下雨呢。\n丽丽：我知道，但是我们说好了要一起去的。",
+    "traditional": "我們說好了\n\n本：麗麗，你去哪兒？\n麗麗：我和小樂去跑步。\n本：啊？外面正在下雨呢。\n麗麗：我知道，但是我們說好了要一起去的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "We Already Decided"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，你去哪儿？",
+      "traditional": "本：麗麗，你去哪兒？",
+      "pinyin": "běn lì lì nǐ qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, where are you going?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：我和小乐去跑步。",
+      "traditional": "麗麗：我和小樂去跑步。",
+      "pinyin": "lì lì wǒ hé xiǎo lè qù pǎo bù",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Me and Little Le are going for a run."
+    },
+    {
+      "index": 6,
+      "simplified": "本：啊？外面正在下雨呢。",
+      "traditional": "本：啊？外面正在下雨呢。",
+      "pinyin": "běn a wài miàn zhèng zài xià yǔ ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What? It's raining outside."
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：我知道，但是我们说好了要一起去的。",
+      "traditional": "麗麗：我知道，但是我們說好了要一起去的。",
+      "pinyin": "lì lì wǒ zhī dào dàn shì wǒ men shuō hǎo le yào yì qǐ qù de",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: I know, but we already decided to go together."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "跑步",
+      "traditional": "跑步",
+      "pinyin": "pǎo bù",
+      "meaning": "to run\nto jog",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "外面",
+      "traditional": "外面",
+      "pinyin": "wài miàn",
+      "meaning": "outside\nexterior",
+      "hsk": null
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "separable-verbs",
+        "hsk": 2,
+        "hanzi": "跑步",
+        "pinyin": "pǎo bù",
+        "meaning": "to run\nto jog",
+        "tc_hanzi": "跑步"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "外面",
+        "pinyin": "wài miàn",
+        "meaning": "outside\nexterior",
+        "tc_hanzi": "外面"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili has made a promise with Little Le to go running.",
+    "syllable_times": [
+      0.4988662131519274,
+      0.9183673469387755,
+      1.3151927437641724,
+      1.7517006802721087,
+      3.2,
+      3.2,
+      3.560090702947846,
+      4.52,
+      4.801587301587301,
+      5.198412698412699,
+      7.12,
+      7.12,
+      7.12,
+      7.579365079365079,
+      7.953514739229025,
+      8.361678004535147,
+      8.798185941043084,
+      9.143990929705215,
+      9.586167800453515,
+      10.96,
+      10.96,
+      12.41,
+      12.879818594104307,
+      13.68,
+      14.047619047619047,
+      14.325396825396824,
+      14.693877551020408,
+      15.096371882086167,
+      16.22,
+      16.22,
+      16.22,
+      16.547619047619047,
+      16.93877551020408,
+      17.91,
+      18.321995464852606,
+      19.1,
+      19.416099773242628,
+      19.693877551020407,
+      20.039682539682538,
+      20.46485260770975,
+      21.13,
+      21.524943310657594,
+      21.81972789115646,
+      22.17687074829932,
+      22.58503401360544,
+      23.4
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      15,
+      16,
+      24,
+      25,
+      34,
+      35,
+      50
+    ],
+    "sentence_translations": [
+      "We Already Decided",
+      "",
+      "Ben: Lili, where are you going?",
+      "",
+      "Lili: Me and Little Le are going for a run.",
+      "",
+      "Ben: What? It's raining outside.",
+      "",
+      "Lili: I know, but we already decided to go together.",
+      ""
+    ]
+  }
+}

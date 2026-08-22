@@ -1,0 +1,612 @@
+{
+  "id": "E235",
+  "title": "Mobile Payment",
+  "level": "elementary",
+  "date": "2018-07-14",
+  "synopsis": "You don’t need a wallet in China, just bring your phone.",
+  "audioUrl": "https://static.duchinese.net/documents/786/351156ebd76b7daa552cd77e8edd7e1f0b7ce923.mp3?1530694263",
+  "series": null,
+  "fullText": {
+    "simplified": "移动支付\n\n保罗：你好，买单。\n服务员：一共30块。你怎么付？微信还是支付宝？\n保罗：支付宝。\n服务员：我扫一下你。\n保罗：付好了。\n服务员：谢谢。",
+    "traditional": "移動支付\n\n保羅：你好，買單。\n服務員：一共30塊。你怎麼付？微信還是支付寶？\n保羅：支付寶。\n服務員：我掃一下你。\n保羅：付好了。\n服務員：謝謝。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Mobile Payment"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：你好，买单。",
+      "traditional": "保羅：你好，買單。",
+      "pinyin": "bǎo luó nǐ hǎo mǎi dān",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Hello, I want to pay the bill."
+    },
+    {
+      "index": 4,
+      "simplified": "服务员：一共30块。你怎么付？微信还是支付宝？",
+      "traditional": "服務員：一共30塊。你怎麼付？微信還是支付寶？",
+      "pinyin": "fú wù yuán yí gòng 2 kuài nǐ zěn me fù wēi xìn hái shi zhī fù bǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: 30 yuan in total. How would you like to pay? WeChat or Alipay?"
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：支付宝。",
+      "traditional": "保羅：支付寶。",
+      "pinyin": "bǎo luó zhī fù bǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Alipay."
+    },
+    {
+      "index": 8,
+      "simplified": "服务员：我扫一下你。",
+      "traditional": "服務員：我掃一下你。",
+      "pinyin": "fú wù yuán wǒ sǎo yí xià nǐ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Let me scan you."
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：付好了。",
+      "traditional": "保羅：付好了。",
+      "pinyin": "bǎo luó fù hǎo le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Paid."
+    },
+    {
+      "index": 12,
+      "simplified": "服务员：谢谢。",
+      "traditional": "服務員：謝謝。",
+      "pinyin": "fú wù yuán xiè xie",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Waiter: Thanks."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "移动",
+      "traditional": "移動",
+      "pinyin": "yí dòng",
+      "meaning": "to move\nmobile\nmovement",
+      "hsk": 5
+    },
+    {
+      "hanzi": "支付",
+      "traditional": "支付",
+      "pinyin": "zhī fù",
+      "meaning": "to pay (money)",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "买单",
+      "traditional": "買單",
+      "pinyin": "mǎi dān",
+      "meaning": "to pay the restaurant bill",
+      "hsk": null
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一共",
+      "traditional": "一共",
+      "pinyin": "yí gòng",
+      "meaning": "altogether",
+      "hsk": 3
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "付",
+      "traditional": "付",
+      "pinyin": "fù",
+      "meaning": "to pay\nto hand over to",
+      "hsk": null
+    },
+    {
+      "hanzi": "微信",
+      "traditional": "微信",
+      "pinyin": "wēi xìn",
+      "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "支付宝",
+      "traditional": "支付寶",
+      "pinyin": "zhī fù bǎo",
+      "meaning": "Alipay, online payment platform",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "扫",
+      "traditional": "掃",
+      "pinyin": "sǎo",
+      "meaning": "to sweep",
+      "hsk": null
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 5,
+        "hanzi": "移动",
+        "pinyin": "yí dòng",
+        "meaning": "to move\nmobile\nmovement",
+        "tc_hanzi": "移動"
+      },
+      {
+        "hanzi": "支付",
+        "pinyin": "zhī fù",
+        "meaning": "to pay (money)",
+        "tc_hanzi": "支付"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "买单",
+        "pinyin": "mǎi dān",
+        "meaning": "to pay the restaurant bill",
+        "tc_hanzi": "買單"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一共",
+        "pinyin": "yí gòng",
+        "meaning": "altogether",
+        "tc_hanzi": "一共"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "meaning": "to pay\nto hand over to",
+        "tc_hanzi": "付"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "微信",
+        "pinyin": "wēi xìn",
+        "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+        "tc_hanzi": "微信"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "扫",
+        "pinyin": "sǎo",
+        "meaning": "to sweep",
+        "tc_hanzi": "掃"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "meaning": "to pay\nto hand over to",
+        "tc_hanzi": "付"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "You don’t need a wallet in China, just bring your phone.",
+    "syllable_times": [
+      0.36281179138321995,
+      0.7256235827664399,
+      1.08843537414966,
+      3.239819964477021,
+      3.239819964477021,
+      3.239819964477021,
+      3.492063492063492,
+      4.716553287981859,
+      4.9433106575963714,
+      7.224769694789959,
+      7.224769694789959,
+      7.224769694789959,
+      7.224769694789959,
+      7.528344671201814,
+      7.90195881062822,
+      8.208616780045352,
+      8.508945544647753,
+      10.249433106575964,
+      10.748299319727892,
+      11.029357399293191,
+      11.199519458066696,
+      13.015873015873016,
+      13.242630385487528,
+      14.149659863945578,
+      14.467120181405896,
+      14.965986394557824,
+      15.238095238095237,
+      15.464852607709751,
+      17.992914396448274,
+      17.992914396448274,
+      17.992914396448274,
+      18.32199546485261,
+      18.503401360544217,
+      21.04567583501791,
+      21.04567583501791,
+      21.04567583501791,
+      21.04567583501791,
+      21.47921878173925,
+      21.820208114527748,
+      22.077469022253858,
+      22.304179222696714,
+      24.835456259619846,
+      24.835456259619846,
+      24.835456259619846,
+      25.170068027210885,
+      25.532879818594104,
+      27.573696145124718,
+      27.969950477527394,
+      28.518730158730158,
+      28.518730158730158
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      10,
+      11,
+      25,
+      26,
+      30,
+      31,
+      38,
+      39,
+      45,
+      46,
+      50
+    ],
+    "sentence_translations": [
+      "Mobile Payment",
+      "",
+      "Paul: Hello, I want to pay the bill.",
+      "",
+      "Waiter: 30 yuan in total. How would you like to pay? WeChat or Alipay?",
+      "",
+      "Paul: Alipay.",
+      "",
+      "Waiter: Let me scan you.",
+      "",
+      "Paul: Paid.",
+      "",
+      "Waiter: Thanks.",
+      ""
+    ]
+  }
+}

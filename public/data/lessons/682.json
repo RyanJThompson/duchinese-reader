@@ -1,0 +1,659 @@
+{
+  "id": "682",
+  "title": "I Want To Make Hamburgers",
+  "level": "newbie",
+  "date": "2019-03-06",
+  "synopsis": "Hearing the word hamburger seems to have an effect on Little Ming.",
+  "audioUrl": "https://static.duchinese.net/documents/986/d3cfe7a447f2b6ba74bfcdbd9c630d682ea8c51a.mp3?1698350018",
+  "series": null,
+  "fullText": {
+    "simplified": "我想做汉堡\n\n妈妈：小明，你去哪儿？\n小明：买书。\n妈妈：你帮我买鸡蛋，好吗？\n小明：不好。\n妈妈：我想做汉堡，没有鸡蛋……\n小明：汉堡？好！我去买。",
+    "traditional": "我想做漢堡\n\n媽媽：小明，你去哪兒？\n小明：買書。\n媽媽：你幫我買雞蛋，好嗎？\n小明：不好。\n媽媽：我想做漢堡，沒有雞蛋……\n小明：漢堡？好！我去買。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Want To Make Hamburgers"
+    },
+    {
+      "index": 2,
+      "simplified": "妈妈：小明，你去哪儿？",
+      "traditional": "媽媽：小明，你去哪兒？",
+      "pinyin": "mā ma xiǎo míng nǐ qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: Little Ming, where are you going?"
+    },
+    {
+      "index": 4,
+      "simplified": "小明：买书。",
+      "traditional": "小明：買書。",
+      "pinyin": "xiǎo míng mǎi shū",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: To buy a book."
+    },
+    {
+      "index": 6,
+      "simplified": "妈妈：你帮我买鸡蛋，好吗？",
+      "traditional": "媽媽：你幫我買雞蛋，好嗎？",
+      "pinyin": "mā ma nǐ bāng wǒ mǎi jī dàn hǎo ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mama: Can you help me buy some eggs?"
+    },
+    {
+      "index": 8,
+      "simplified": "小明：不好。",
+      "traditional": "小明：不好。",
+      "pinyin": "xiǎo míng bù hǎo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: No."
+    },
+    {
+      "index": 10,
+      "simplified": "妈妈：我想做汉堡，没有鸡蛋……",
+      "traditional": "媽媽：我想做漢堡，沒有雞蛋……",
+      "pinyin": "mā ma wǒ xiǎng zuò hàn bǎo méi yǒu jī dàn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mom: I want to make hamburgers, but we have no eggs…"
+    },
+    {
+      "index": 12,
+      "simplified": "小明：汉堡？好！我去买。",
+      "traditional": "小明：漢堡？好！我去買。",
+      "pinyin": "xiǎo míng hàn bǎo hǎo wǒ qù mǎi",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: Hamburgers? Ok! I'll go buy some."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉堡",
+      "traditional": "漢堡",
+      "pinyin": "hàn bǎo",
+      "meaning": "hamburger (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "书",
+      "traditional": "書",
+      "pinyin": "shū",
+      "meaning": "book",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "汉堡",
+        "pinyin": "hàn bǎo",
+        "meaning": "hamburger (loanword)",
+        "tc_hanzi": "漢堡"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "汉堡",
+        "pinyin": "hàn bǎo",
+        "meaning": "hamburger (loanword)",
+        "tc_hanzi": "漢堡"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "汉堡",
+        "pinyin": "hàn bǎo",
+        "meaning": "hamburger (loanword)",
+        "tc_hanzi": "漢堡"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Hearing the word hamburger seems to have an effect on Little Ming.",
+    "syllable_times": [
+      0.47619047619047616,
+      1.21,
+      1.6609977324263039,
+      2.1825396825396823,
+      4.37,
+      4.37,
+      4.37,
+      4.812925170068027,
+      5.76,
+      6.1281179138322,
+      6.41156462585034,
+      8.28,
+      8.28,
+      8.28,
+      8.837868480725623,
+      10.5,
+      10.5,
+      10.5,
+      11.128117913832199,
+      11.479591836734693,
+      11.92,
+      12.284580498866212,
+      12.573696145124716,
+      12.851473922902494,
+      13.095238095238095,
+      14.74,
+      14.74,
+      14.74,
+      15.056689342403628,
+      17.51,
+      17.51,
+      17.51,
+      17.936507936507937,
+      18.299319727891156,
+      18.71315192743764,
+      19.1156462585034,
+      20.27,
+      20.612244897959183,
+      20.895691609977323,
+      21.19614512471655,
+      22.38,
+      22.38,
+      22.38,
+      22.91950113378685,
+      24.2,
+      25.09,
+      25.436507936507937,
+      25.719954648526077,
+      26.8
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      14,
+      15,
+      20,
+      21,
+      32,
+      33,
+      38,
+      39,
+      49,
+      50,
+      60
+    ],
+    "sentence_translations": [
+      "I Want To Make Hamburgers",
+      "",
+      "Mom: Little Ming, where are you going?",
+      "",
+      "Little Ming: To buy a book.",
+      "",
+      "Mama: Can you help me buy some eggs?",
+      "",
+      "Little Ming: No.",
+      "",
+      "Mom: I want to make hamburgers, but we have no eggs…",
+      "",
+      "Little Ming: Hamburgers? Ok! I'll go buy some.",
+      ""
+    ]
+  }
+}

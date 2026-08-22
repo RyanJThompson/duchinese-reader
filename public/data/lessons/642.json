@@ -1,0 +1,929 @@
+{
+  "id": "642",
+  "title": "One Cup Per Person",
+  "level": "elementary",
+  "date": "2019-01-10",
+  "synopsis": "Little Yu wants to share a cup of milk tea with Lili.",
+  "audioUrl": "https://static.duchinese.net/documents/938/53664d45b3d7ddd5952bb68716f29ceec7b24c1d.mp3?1545123589",
+  "series": {
+    "title": "Ben’s life in China 6: Maybe I Like Him",
+    "chapter": 25,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "一人一杯\n\n    丽丽和小雨在逛街。\n    丽丽口渴了，对小雨说：“我们一人买一杯奶茶喝吧！”\n    小雨想了想，说：“我们买一杯吧！我减肥，喝一口就好了。”\n    丽丽说：“我们还是一人一杯吧！上次你喝了一口，就已经没有奶茶了。”",
+    "traditional": "一人一杯\n\n    麗麗和小雨在逛街。\n    麗麗口渴了，對小雨說：“我們一人買一杯奶茶喝吧！”\n    小雨想了想，說：“我們買一杯吧！我減肥，喝一口就好了。”\n    麗麗說：“我們還是一人一杯吧！上次你喝了一口，就已經沒有奶茶了。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "One Cup Per Person"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽和小雨在逛街。",
+      "traditional": "麗麗和小雨在逛街。",
+      "pinyin": "lì lì hé xiǎo yǔ zài guàng jiē",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Lili and Little Yu were out shopping."
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽口渴了，对小雨说：“我们一人买一杯奶茶喝吧！”",
+      "traditional": "麗麗口渴了，對小雨說：“我們一人買一杯奶茶喝吧！”",
+      "pinyin": "lì lì kǒu kě le duì xiǎo yǔ shuō wǒ men yì rén mǎi yì bēi nǎi chá hē ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Lili got thirsty, and said to Little Yu: “Let’s each buy a cup of milk tea!”"
+    },
+    {
+      "index": 6,
+      "simplified": "小雨想了想，说：“我们买一杯吧！我减肥，喝一口就好了。”",
+      "traditional": "小雨想了想，說：“我們買一杯吧！我減肥，喝一口就好了。”",
+      "pinyin": "xiǎo yǔ xiǎng le xiǎng shuō wǒ men mǎi yì bēi ba wǒ jiǎn féi hē yì kǒu jiù hǎo le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Yu thought for a bit, and said: “Let’s just get one cup! I’m on a diet, and only need one mouthful.”"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽说：“我们还是一人一杯吧！上次你喝了一口，就已经没有奶茶了。”",
+      "traditional": "麗麗說：“我們還是一人一杯吧！上次你喝了一口，就已經沒有奶茶了。”",
+      "pinyin": "lì lì shuō wǒ men hái shi yì rén yì bēi ba shàng cì nǐ hē le yì kǒu jiù yǐ jīng méi yǒu nǎi chá le",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "逛街",
+      "traditional": "逛街",
+      "pinyin": "guàng jiē",
+      "meaning": "to take a walk\nto window-shop\nto stroll down the street",
+      "hsk": null
+    },
+    {
+      "hanzi": "口渴",
+      "traditional": "口渴",
+      "pinyin": "kǒu kě",
+      "meaning": "thirsty",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "奶茶",
+      "traditional": "奶茶",
+      "pinyin": "nǎi chá",
+      "meaning": "milk tea",
+      "hsk": null
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "减肥",
+      "traditional": "減肥",
+      "pinyin": "jiǎn féi",
+      "meaning": "to lose weight",
+      "hsk": 4
+    },
+    {
+      "hanzi": "口",
+      "traditional": "口",
+      "pinyin": "kǒu",
+      "meaning": "classifier for bites or mouthfuls",
+      "hsk": 3
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上次",
+      "traditional": "上次",
+      "pinyin": "shàng cì",
+      "meaning": "last time",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "逛街",
+        "pinyin": "guàng jiē",
+        "meaning": "to take a walk\nto window-shop\nto stroll down the street",
+        "tc_hanzi": "逛街"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "口渴",
+        "pinyin": "kǒu kě",
+        "meaning": "thirsty",
+        "tc_hanzi": "口渴"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "减肥",
+        "pinyin": "jiǎn féi",
+        "meaning": "to lose weight",
+        "tc_hanzi": "減肥"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "口",
+        "pinyin": "kǒu",
+        "meaning": "classifier for bites or mouthfuls",
+        "tc_hanzi": "口"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "上次",
+        "pinyin": "shàng cì",
+        "meaning": "last time",
+        "tc_hanzi": "上次"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "口",
+        "pinyin": "kǒu",
+        "meaning": "classifier for bites or mouthfuls",
+        "tc_hanzi": "口"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Yu wants to share a cup of milk tea with Lili.",
+    "syllable_times": [
+      0.54421768707483,
+      0.9070294784580499,
+      1.2244897959183674,
+      2.811791383219955,
+      3.129251700680272,
+      3.5185721479911662,
+      3.754389978389879,
+      4.081632653061225,
+      4.535147392290249,
+      4.716553287981859,
+      4.974458182256224,
+      6.4852607709750565,
+      6.802721088435374,
+      7.074829931972789,
+      7.37011570557781,
+      7.709750566893424,
+      8.798185941043084,
+      9.024943310657596,
+      9.306807847924258,
+      9.47845804988662,
+      10.704481477691116,
+      11.020408163265307,
+      11.473922902494332,
+      11.791383219954648,
+      12.244897959183673,
+      12.517006802721088,
+      12.7437641723356,
+      12.950576537096481,
+      13.151927437641723,
+      13.503682983184763,
+      13.741496598639456,
+      15.82766439909297,
+      16.25124533197598,
+      16.58067260735543,
+      17.09750566893424,
+      17.272709114711866,
+      18.049886621315192,
+      19.365079365079364,
+      19.727891156462587,
+      20.226757369614514,
+      20.589569160997733,
+      20.952380952380953,
+      21.224489795918366,
+      22.22222222222222,
+      22.53968253968254,
+      22.90249433106576,
+      23.876007080975132,
+      24.263038548752835,
+      24.53514739229025,
+      25.034013605442176,
+      25.31009668981164,
+      25.62432848973989,
+      27.573696145124718,
+      27.84580498866213,
+      28.072562358276645,
+      29.25170068027211,
+      29.614512471655328,
+      29.886621315192745,
+      30.25671681897595,
+      30.8843537414966,
+      31.292517006802722,
+      31.746031746031747,
+      32.06349206349206,
+      32.38095238095238,
+      33.560090702947846,
+      33.992012774277,
+      34.64852607709751,
+      35.01133786848072,
+      35.28344671201814,
+      35.51020408163265,
+      35.69160997732426,
+      36.68934240362812,
+      37.006802721088434,
+      37.233560090702944,
+      37.68707482993197,
+      38.095238095238095,
+      38.321995464852606,
+      38.59410430839002,
+      39.002267573696145,
+      39.558185941043085,
+      39.558185941043085
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      13,
+      15,
+      34,
+      36,
+      60,
+      62
+    ],
+    "sentence_translations": [
+      "One Cup Per Person",
+      "",
+      "Lili and Little Yu were out shopping.",
+      "",
+      "Lili got thirsty, and said to Little Yu: “Let’s each buy a cup of milk tea!”",
+      "",
+      "Little Yu thought for a bit, and said: “Let’s just get one cup! I’m on a diet, and only need one mouthful.”",
+      "",
+      "Lili said: “Let’s get one cup each after all. Last time you drank a mouthful, there was no milk tea left.”"
+    ]
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "id": "379",
+  "title": "Stopped by the Police",
+  "level": "intermediate",
+  "date": "2017-10-24",
+  "synopsis": "A taxi driver is flagged down by a police officer even though he has seemingly done nothing wrong.",
+  "audioUrl": "https://static.duchinese.net/documents/557/56ab0e5343c4f887c155967a80da6c6e60a63fc2.mp3?1508683700",
+  "series": null,
+  "fullText": {
+    "simplified": "你为什么拦我？\n\n    小王是一个出租车司机。一天，他开着出租车走在路上，被一个警察拦下来了。\n    小王很生气，说：“我没有喝酒，也没有闯红灯，你为什么拦我？”\n    警察说：“我打车！”",
+    "traditional": "你為什麼攔我？\n\n    小王是一個出租車司機。一天，他開著出租車走在路上，被一個警察攔下來了。\n    小王很生氣，說：“我沒有喝酒，也沒有闖紅燈，你為什麼攔我？”\n    警察說：“我打車！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Why did you stop me?"
+    },
+    {
+      "index": 2,
+      "simplified": "小王是一个出租车司机。",
+      "traditional": "小王是一個出租車司機。",
+      "pinyin": "xiǎo wáng shì yí ge chū zū chē sī jī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "一天，他开着出租车走在路上，被一个警察拦下来了。",
+      "traditional": "一天，他開著出租車走在路上，被一個警察攔下來了。",
+      "pinyin": "yì tiān tā kāi zhe chū zū chē zǒu zài lù shang bèi yí ge jǐng chá lán xia lai le",
+      "english": "Little Wang is a taxi driver."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day, he was driving his taxi on the road when he was stopped by a police officer."
+    },
+    {
+      "index": 5,
+      "simplified": "小王很生气，说：“我没有喝酒，也没有闯红灯，你为什么拦我？”",
+      "traditional": "小王很生氣，說：“我沒有喝酒，也沒有闖紅燈，你為什麼攔我？”",
+      "pinyin": "xiǎo wáng hěn shēng qì shuō wǒ méi yǒu hē jiǔ yě méi yǒu chuǎng hóng dēng nǐ wèi shén me lán wǒ",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Wang said angrily: “I haven't had any alcohol, and I haven't run any red light. Why are you stopping me?”"
+    },
+    {
+      "index": 7,
+      "simplified": "警察说：“我打车！”",
+      "traditional": "警察說：“我打車！”",
+      "pinyin": "jǐng chá shuō wǒ dǎ chē",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "拦",
+      "traditional": "攔",
+      "pinyin": "lán",
+      "meaning": "to block sb's path\nto obstruct\nto flag down (a taxi)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小王",
+      "traditional": "小王",
+      "pinyin": "xiǎo wáng",
+      "meaning": "Little Wang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出租车",
+      "traditional": "出租車",
+      "pinyin": "chū zū chē",
+      "meaning": "taxi",
+      "hsk": 1
+    },
+    {
+      "hanzi": "司机",
+      "traditional": "司機",
+      "pinyin": "sī jī",
+      "meaning": "chauffeur\ndriver",
+      "hsk": 3
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to drive\nto operate (vehicle)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "to walk\nto go",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "路上",
+      "traditional": "路上",
+      "pinyin": "lù shang",
+      "meaning": "on the road\non a journey",
+      "hsk": 2
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "警察",
+      "traditional": "警察",
+      "pinyin": "jǐng chá",
+      "meaning": "police\npolice officer",
+      "hsk": 4
+    },
+    {
+      "hanzi": "下来",
+      "traditional": "下來",
+      "pinyin": "xia lai",
+      "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "酒",
+      "traditional": "酒",
+      "pinyin": "jiǔ",
+      "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "闯",
+      "traditional": "闖",
+      "pinyin": "chuǎng",
+      "meaning": "to rush\nto charge\nto dash",
+      "hsk": 5
+    },
+    {
+      "hanzi": "红灯",
+      "traditional": "紅燈",
+      "pinyin": "hóng dēng",
+      "meaning": "red light",
+      "hsk": null
+    },
+    {
+      "hanzi": "打车",
+      "traditional": "打車",
+      "pinyin": "dǎ chē",
+      "meaning": "to take a taxi (in town)\nto hitch a lift",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "拦",
+        "pinyin": "lán",
+        "meaning": "to block sb's path\nto obstruct\nto flag down (a taxi)",
+        "tc_hanzi": "攔"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "司机",
+        "pinyin": "sī jī",
+        "meaning": "chauffeur\ndriver",
+        "tc_hanzi": "司機"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to drive\nto operate (vehicle)",
+        "tc_hanzi": "開"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk\nto go",
+        "tc_hanzi": "走"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路上",
+        "pinyin": "lù shang",
+        "meaning": "on the road\non a journey",
+        "tc_hanzi": "路上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bei-passive",
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "警察",
+        "pinyin": "jǐng chá",
+        "meaning": "police\npolice officer",
+        "tc_hanzi": "警察"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "拦",
+        "pinyin": "lán",
+        "meaning": "to block sb's path\nto obstruct\nto flag down (a taxi)",
+        "tc_hanzi": "攔"
+      },
+      {
+        "g": "compound-directional-complements",
+        "hsk": 1,
+        "hanzi": "下来",
+        "pinyin": "xia lai",
+        "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+        "tc_hanzi": "下來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+        "tc_hanzi": "酒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "闯",
+        "pinyin": "chuǎng",
+        "meaning": "to rush\nto charge\nto dash",
+        "tc_hanzi": "闖"
+      },
+      {
+        "hanzi": "红灯",
+        "pinyin": "hóng dēng",
+        "meaning": "red light",
+        "tc_hanzi": "紅燈"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "拦",
+        "pinyin": "lán",
+        "meaning": "to block sb's path\nto obstruct\nto flag down (a taxi)",
+        "tc_hanzi": "攔"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "警察",
+        "pinyin": "jǐng chá",
+        "meaning": "police\npolice officer",
+        "tc_hanzi": "警察"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "打车",
+        "pinyin": "dǎ chē",
+        "meaning": "to take a taxi (in town)\nto hitch a lift",
+        "tc_hanzi": "打車"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A taxi driver is flagged down by a police officer even though he has seemingly done nothing wrong.",
+    "syllable_times": [
+      0.453514739229025,
+      0.7709750566893424,
+      1.179138321995465,
+      1.678004535147392,
+      2.146985689670809,
+      4.217687074829932,
+      4.580498866213152,
+      4.988662131519274,
+      5.270087374410322,
+      5.532879818594104,
+      5.98639455782313,
+      6.303854875283447,
+      6.555364348042396,
+      6.89770033705619,
+      7.13625922395337,
+      8.798185941043084,
+      9.032904247314699,
+      10.15873015873016,
+      10.43083900226757,
+      10.79365079365079,
+      11.29251700680272,
+      11.60997732426304,
+      11.92743764172336,
+      12.56235827664399,
+      12.83446712018141,
+      13.06122448979592,
+      13.28798185941043,
+      14.87528344671202,
+      15.06012036274794,
+      15.23809523809524,
+      15.46485260770975,
+      15.78231292517007,
+      16.55328798185941,
+      16.78004535147392,
+      17.05215419501134,
+      17.27891156462585,
+      19.45578231292517,
+      19.86394557823129,
+      20.21055099142948,
+      20.54421768707483,
+      20.90702947845805,
+      21.90476190476191,
+      23.5827664399093,
+      23.80952380952381,
+      24.12698412698413,
+      24.44444444444444,
+      24.71655328798186,
+      25.66893424036281,
+      25.98639455782313,
+      26.25850340136055,
+      26.57596371882086,
+      26.89342403628118,
+      27.14736152104605,
+      28.25396825396825,
+      28.61678004535147,
+      28.97959183673469,
+      29.1609977324263,
+      29.38775510204082,
+      29.70521541950113,
+      31.60997732426304,
+      31.88208616780045,
+      32.24489795918367,
+      33.83219954648526,
+      34.10430839002267,
+      34.37641723356009,
+      35.15043083900227,
+      35.15043083900227
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      15,
+      34,
+      36,
+      57,
+      59
+    ],
+    "sentence_translations": [
+      "Why did you stop me?",
+      "",
+      "Little Wang is a taxi driver.",
+      "One day, he was driving his taxi on the road when he was stopped by a police officer.",
+      "",
+      "Little Wang said angrily: “I haven't had any alcohol, and I haven't run any red light. Why are you stopping me?”",
+      "",
+      "The police officer said: “I'm hailing a taxi!”"
+    ]
+  }
+}

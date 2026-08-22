@@ -1,0 +1,843 @@
+{
+  "id": "154",
+  "title": "Little Ming is Late for Class",
+  "level": "elementary",
+  "date": "2016-08-31",
+  "synopsis": "Little Ming and Little Fang are late for class. They both have excuses for being late, but what does the teacher think of them?",
+  "audioUrl": "https://static.duchinese.net/documents/226/a4357675b5ba6d2286154b8ac866b1e8049229c3.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "上课迟到\n\n小明和小方上课迟到了。\n老师问：“你们为什么迟到？”\n小方说：“闹钟没响，睡过头了。”\n小明说：“做梦梦见老师讲课，没忍住，多听了一会儿，然后起来晚了。”\n老师说：“小明进来，小方在外面站着。”",
+    "traditional": "上課遲到\n\n小明和小方上課遲到了。\n老師問：“你們為什麼遲到？”\n小方說：“鬧鐘沒響，睡過頭了。”\n小明說：“做夢夢見老師講課，沒忍住，多聽了一會兒，然後起來晚了。”\n老師說：“小明進來，小方在外面站著。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Late for Class"
+    },
+    {
+      "index": 2,
+      "simplified": "小明和小方上课迟到了。",
+      "traditional": "小明和小方上課遲到了。",
+      "pinyin": "xiǎo míng hé xiǎo fāng shàng kè chí dào le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming and Little Fang arrived late for class."
+    },
+    {
+      "index": 4,
+      "simplified": "老师问：“你们为什么迟到？”",
+      "traditional": "老師問：“你們為什麼遲到？”",
+      "pinyin": "lǎo shī wèn nǐ men wèi shén me chí dào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "The teacher asked: “Why are you late?”"
+    },
+    {
+      "index": 6,
+      "simplified": "小方说：“闹钟没响，睡过头了。”",
+      "traditional": "小方說：“鬧鐘沒響，睡過頭了。”",
+      "pinyin": "xiǎo fāng shuō nào zhōng méi xiǎng shuì guò tóu le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang said: “The alarm clock didn't ring, so I overslept.”"
+    },
+    {
+      "index": 8,
+      "simplified": "小明说：“做梦梦见老师讲课，没忍住，多听了一会儿，然后起来晚了。”",
+      "traditional": "小明說：“做夢夢見老師講課，沒忍住，多聽了一會兒，然後起來晚了。”",
+      "pinyin": "xiǎo míng shuō zuò mèng mèng jiàn lǎo shī jiǎng kè méi rěn zhù duō tīng le yí huì'r rán hòu qǐ lai wǎn le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming said: “I dreamt that teacher was giving a lecture and I couldn't help but keep listening, so I got up late.”"
+    },
+    {
+      "index": 10,
+      "simplified": "老师说：“小明进来，小方在外面站着。”",
+      "traditional": "老師說：“小明進來，小方在外面站著。”",
+      "pinyin": "lǎo shī shuō xiǎo míng jìn lái xiǎo fāng zài wài miàn zhàn zhe",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "meaning": "to attend class",
+      "hsk": 2
+    },
+    {
+      "hanzi": "迟到",
+      "traditional": "遲到",
+      "pinyin": "chí dào",
+      "meaning": "to arrive late",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "方",
+      "traditional": "方",
+      "pinyin": "fāng",
+      "meaning": "surname Fang",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "闹钟",
+      "traditional": "鬧鐘",
+      "pinyin": "nào zhōng",
+      "meaning": "alarm clock",
+      "hsk": null
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "响",
+      "traditional": "響",
+      "pinyin": "xiǎng",
+      "meaning": "to make a sound\nto ring",
+      "hsk": 4
+    },
+    {
+      "hanzi": "睡过头",
+      "traditional": "睡過頭",
+      "pinyin": "shuì guò tóu",
+      "meaning": "to oversleep",
+      "hsk": null
+    },
+    {
+      "hanzi": "做梦",
+      "traditional": "做夢",
+      "pinyin": "zuò mèng",
+      "meaning": "to dream\nto have a dream\nfig. illusion",
+      "hsk": null
+    },
+    {
+      "hanzi": "梦见",
+      "traditional": "夢見",
+      "pinyin": "mèng jiàn",
+      "meaning": "to dream about (sth or sb)\nto see in a dream",
+      "hsk": null
+    },
+    {
+      "hanzi": "讲课",
+      "traditional": "講課",
+      "pinyin": "jiǎng kè",
+      "meaning": "to teach\nto lecture",
+      "hsk": null
+    },
+    {
+      "hanzi": "忍",
+      "traditional": "忍",
+      "pinyin": "rěn",
+      "meaning": "to bear\nto endure\nto tolerate",
+      "hsk": null
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一会儿",
+      "traditional": "一會兒",
+      "pinyin": "yí huì'r",
+      "meaning": "a moment\na while\ncoll. also pronounced yì huǐ'r",
+      "hsk": 3
+    },
+    {
+      "hanzi": "然后",
+      "traditional": "然後",
+      "pinyin": "rán hòu",
+      "meaning": "then (afterwards)\nafter that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐ lai",
+      "meaning": "to stand up\nto get up",
+      "hsk": 3
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "进来",
+      "traditional": "進來",
+      "pinyin": "jìn lái",
+      "meaning": "to come in",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "外面",
+      "traditional": "外面",
+      "pinyin": "wài miàn",
+      "meaning": "outside\nexterior",
+      "hsk": null
+    },
+    {
+      "hanzi": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "meaning": "to stand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "迟到",
+        "pinyin": "chí dào",
+        "meaning": "to arrive late",
+        "tc_hanzi": "遲到"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方",
+        "pinyin": "fāng",
+        "meaning": "surname Fang",
+        "tc_hanzi": "方"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "迟到",
+        "pinyin": "chí dào",
+        "meaning": "to arrive late",
+        "tc_hanzi": "遲到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "迟到",
+        "pinyin": "chí dào",
+        "meaning": "to arrive late",
+        "tc_hanzi": "遲到"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方",
+        "pinyin": "fāng",
+        "meaning": "surname Fang",
+        "tc_hanzi": "方"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "闹钟",
+        "pinyin": "nào zhōng",
+        "meaning": "alarm clock",
+        "tc_hanzi": "鬧鐘"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "meaning": "to make a sound\nto ring",
+        "tc_hanzi": "響"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "睡过头",
+        "pinyin": "shuì guò tóu",
+        "meaning": "to oversleep",
+        "tc_hanzi": "睡過頭"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "做梦",
+        "pinyin": "zuò mèng",
+        "meaning": "to dream\nto have a dream\nfig. illusion",
+        "tc_hanzi": "做夢"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "梦见",
+        "pinyin": "mèng jiàn",
+        "meaning": "to dream about (sth or sb)\nto see in a dream",
+        "tc_hanzi": "夢見"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "讲课",
+        "pinyin": "jiǎng kè",
+        "meaning": "to teach\nto lecture",
+        "tc_hanzi": "講課"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hanzi": "忍",
+        "pinyin": "rěn",
+        "meaning": "to bear\nto endure\nto tolerate",
+        "tc_hanzi": "忍"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+        "tc_hanzi": "住"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "erhua",
+        "hsk": 3,
+        "hanzi": "一会儿",
+        "pinyin": "yí huì'r",
+        "meaning": "a moment\na while\ncoll. also pronounced yì huǐ'r",
+        "tc_hanzi": "一會兒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qǐ lai",
+        "meaning": "to stand up\nto get up",
+        "tc_hanzi": "起來"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "进来",
+        "pinyin": "jìn lái",
+        "meaning": "to come in",
+        "tc_hanzi": "進來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方",
+        "pinyin": "fāng",
+        "meaning": "surname Fang",
+        "tc_hanzi": "方"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "外面",
+        "pinyin": "wài miàn",
+        "meaning": "outside\nexterior",
+        "tc_hanzi": "外面"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "站",
+        "pinyin": "zhàn",
+        "meaning": "to stand",
+        "tc_hanzi": "站"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming and Little Fang are late for class. They both have excuses for being late, but what does the teacher think of them?",
+    "syllable_times": [
+      0.4085228082534408,
+      0.8616780045351474,
+      1.26984126984127,
+      3.08390022675737,
+      3.582766439909297,
+      4.036281179138322,
+      4.263038548752834,
+      4.618577304420844,
+      5.26077097505669,
+      5.668934240362812,
+      6.127842123801612,
+      6.485260770975056,
+      6.876800605599587,
+      8.480725623582767,
+      8.88888888888889,
+      9.160997732426305,
+      10.43083900226757,
+      10.70294784580499,
+      11.06575963718821,
+      11.33786848072562,
+      11.74603174603175,
+      11.97278911564626,
+      12.33560090702948,
+      14.33106575963719,
+      14.73922902494331,
+      15.03501840889285,
+      16.50793650793651,
+      16.87074829931973,
+      17.14285714285714,
+      17.41496598639456,
+      18.54875283446712,
+      18.95691609977324,
+      19.23372504927544,
+      19.59183673469388,
+      21.7687074829932,
+      22.17687074829932,
+      22.46922449964115,
+      23.85487528344671,
+      24.26303854875284,
+      24.67120181405896,
+      24.98866213151927,
+      25.3968253968254,
+      25.71428571428572,
+      26.12244897959184,
+      26.48526077097506,
+      27.57369614512472,
+      27.89115646258503,
+      28.16326530612245,
+      29.0249433106576,
+      29.34240362811791,
+      29.70521541950113,
+      29.93197278911565,
+      30.24943310657596,
+      31.29251700680272,
+      31.70068027210884,
+      32.06349206349206,
+      32.42630385487529,
+      32.7437641723356,
+      33.10657596371882,
+      35.01133786848072,
+      35.28344671201814,
+      35.60090702947846,
+      37.09750566893424,
+      37.50566893424036,
+      37.82312925170068,
+      38.14058956916099,
+      39.00226757369614,
+      39.45578231292517,
+      39.8639455782313,
+      40.1360544217687,
+      40.36281179138322,
+      40.72562358276644,
+      41.08843537414966,
+      41.71469387755102,
+      41.71469387755102
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      12,
+      13,
+      20,
+      21,
+      32,
+      33,
+      55,
+      56
+    ],
+    "sentence_translations": [
+      "Late for Class",
+      "",
+      "Little Ming and Little Fang arrived late for class.",
+      "",
+      "The teacher asked: “Why are you late?”",
+      "",
+      "Little Fang said: “The alarm clock didn't ring, so I overslept.”",
+      "",
+      "Little Ming said: “I dreamt that teacher was giving a lecture and I couldn't help but keep listening, so I got up late.”",
+      "",
+      "The teacher said: “Little Ming, come on in. Little Fang you stand outside.”"
+    ]
+  }
+}

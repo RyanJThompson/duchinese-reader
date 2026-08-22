@@ -1,0 +1,656 @@
+{
+  "id": "E275",
+  "title": "Steamed Buns for Breakfast",
+  "level": "newbie",
+  "date": "2018-11-22",
+  "synopsis": "Steamed buns are probably the most popular breakfast choice in China.",
+  "audioUrl": "https://static.duchinese.net/documents/913/311ee2d2434fd29ec75035ea0226bb4c2dbcc29b.mp3?1542078297",
+  "series": null,
+  "fullText": {
+    "simplified": "我要两个包子\n\n本：老板你好！我要两个包子。\n老板：没问题，要什么馅儿的？\n本：要一个肉包和一个菜包吧。多少钱？\n老板：3块钱。",
+    "traditional": "我要兩個包子\n\n本：老闆你好！我要兩個包子。\n老闆：沒問題，要什麼餡兒的？\n本：要一個肉包和一個菜包吧。多少錢？\n老闆：3塊錢。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Want Two Steamed Buns"
+    },
+    {
+      "index": 2,
+      "simplified": "本：老板你好！我要两个包子。",
+      "traditional": "本：老闆你好！我要兩個包子。",
+      "pinyin": "běn lǎo bǎn nǐ hǎo wǒ yào liǎng ge bāo zi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Hello, shop owner! Please give me two steamed buns."
+    },
+    {
+      "index": 4,
+      "simplified": "老板：没问题，要什么馅儿的？",
+      "traditional": "老闆：沒問題，要什麼餡兒的？",
+      "pinyin": "lǎo bǎn méi wèn tí yào shén me xiàn'r de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop owner: No problem. What filling do you want?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：要一个肉包和一个菜包吧。多少钱？",
+      "traditional": "本：要一個肉包和一個菜包吧。多少錢？",
+      "pinyin": "běn yào yí ge ròu bāo hé yí ge cài bāo ba duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: One with meat and one with vegetables. How much is it?"
+    },
+    {
+      "index": 8,
+      "simplified": "老板：3块钱。",
+      "traditional": "老闆：3塊錢。",
+      "pinyin": "lǎo bǎn 1 kuài qián",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Shop owner: 3 yuan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "包子",
+      "traditional": "包子",
+      "pinyin": "bāo zi",
+      "meaning": "steamed stuffed bun",
+      "hsk": 4
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎo bǎn",
+      "meaning": "boss\nowner",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "馅儿",
+      "traditional": "餡兒",
+      "pinyin": "xiàn'r",
+      "meaning": "stuffing\nfilling",
+      "hsk": 6
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "肉",
+      "traditional": "肉",
+      "pinyin": "ròu",
+      "meaning": "meat\nflesh",
+      "hsk": 2
+    },
+    {
+      "hanzi": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "meaning": "stuffed bun",
+      "hsk": 3
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "vegetable\ngroceries",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "包子",
+        "pinyin": "bāo zi",
+        "meaning": "steamed stuffed bun",
+        "tc_hanzi": "包子"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "包子",
+        "pinyin": "bāo zi",
+        "meaning": "steamed stuffed bun",
+        "tc_hanzi": "包子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "erhua",
+        "hsk": 6,
+        "hanzi": "馅儿",
+        "pinyin": "xiàn'r",
+        "meaning": "stuffing\nfilling",
+        "tc_hanzi": "餡兒"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "肉",
+        "pinyin": "ròu",
+        "meaning": "meat\nflesh",
+        "tc_hanzi": "肉"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "stuffed bun",
+        "tc_hanzi": "包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "vegetable\ngroceries",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "stuffed bun",
+        "tc_hanzi": "包"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Steamed buns are probably the most popular breakfast choice in China.",
+    "syllable_times": [
+      0.36281179138321995,
+      0.8163265306122449,
+      1.1337868480725624,
+      1.4058956916099774,
+      1.8140589569160999,
+      4.613044173439795,
+      4.613044173439795,
+      5.034013605442177,
+      5.759637188208616,
+      6.0770975056689345,
+      7.301587301587301,
+      7.482993197278912,
+      8.02721088435374,
+      8.390022675736962,
+      8.70748299319728,
+      9.070294784580499,
+      10.865064324066044,
+      10.865064324066044,
+      10.865064324066044,
+      11.24716553287982,
+      11.655328798185941,
+      12.653061224489797,
+      13.015873015873016,
+      13.287981859410431,
+      13.460586519146506,
+      13.786848072562359,
+      15.486138126734984,
+      15.486138126734984,
+      16.145124716553287,
+      16.417233560090704,
+      16.73469387755102,
+      17.006802721088434,
+      17.732426303854876,
+      18.32199546485261,
+      18.594104308390023,
+      18.956224468905816,
+      19.365079365079364,
+      19.63718820861678,
+      21.179138321995463,
+      21.45124716553288,
+      21.723356009070294,
+      23.60183078518645,
+      23.60183078518645,
+      23.60183078518645,
+      23.94557823129252,
+      24.263038548752835,
+      24.98498866213152,
+      24.98498866213152
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      18,
+      19,
+      29,
+      30,
+      47,
+      48,
+      54
+    ],
+    "sentence_translations": [
+      "I Want Two Steamed Buns",
+      "",
+      "Ben: Hello, shop owner! Please give me two steamed buns.",
+      "",
+      "Shop owner: No problem. What filling do you want?",
+      "",
+      "Ben: One with meat and one with vegetables. How much is it?",
+      "",
+      "Shop owner: 3 yuan.",
+      ""
+    ]
+  }
+}

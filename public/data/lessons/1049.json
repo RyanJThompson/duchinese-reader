@@ -1,0 +1,719 @@
+{
+  "id": "1049",
+  "title": "Soaking Books",
+  "level": "newbie",
+  "date": "2020-09-02",
+  "synopsis": "According to Little Ming, some books needs soaking!",
+  "audioUrl": "https://static.duchinese.net/documents/1049/311c644ebbb8642d7e22bee68dcb356523e05708.mp3?1595237748",
+  "series": null,
+  "fullText": {
+    "simplified": "泡书\n\n    有一天，小明的妈妈看见小明把一本很贵的书泡在水里。她很生气。\n    她问小明：“小明，你为什么这么做？”\n    小明说：“爸爸说这本书干巴巴的，不好看。”",
+    "traditional": "泡書\n\n    有一天，小明的媽媽看見小明把一本很貴的書泡在水裡。她很生氣。\n    她問小明：“小明，你為什麼這麼做？”\n    小明說：“爸爸說這本書乾巴巴的，不好看。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Soaking Books"
+    },
+    {
+      "index": 2,
+      "simplified": "有一天，小明的妈妈看见小明把一本很贵的书泡在水里。她很生气。",
+      "traditional": "有一天，小明的媽媽看見小明把一本很貴的書泡在水裡。她很生氣。",
+      "pinyin": "yǒu yì tiān xiǎo míng de mā ma kàn jiàn xiǎo míng bǎ yì běn hěn guì de shū pào zài shuǐ lǐ tā hěn shēng qì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day, Little Ming’s mom caught sight of Little Ming soaking a very expensive book in water. She got very angry."
+    },
+    {
+      "index": 4,
+      "simplified": "她问小明：“小明，你为什么这么做？”",
+      "traditional": "她問小明：“小明，你為什麼這麼做？”",
+      "pinyin": "tā wèn xiǎo míng xiǎo míng nǐ wèi shén me zhè me zuò",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "She asked Little Ming, “Little Ming, why are you doing this?”"
+    },
+    {
+      "index": 6,
+      "simplified": "小明说：“爸爸说这本书干巴巴的，不好看。”",
+      "traditional": "小明說：“爸爸說這本書乾巴巴的，不好看。”",
+      "pinyin": "xiǎo míng shuō bà ba shuō zhè běn shū gān bā bā de bù hǎo kàn",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "泡",
+      "traditional": "泡",
+      "pinyin": "pào",
+      "meaning": "to soak\nto steep",
+      "hsk": null
+    },
+    {
+      "hanzi": "书",
+      "traditional": "書",
+      "pinyin": "shū",
+      "meaning": "book",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "meaning": "to see\nto catch sight of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "classifier for books, periodicals, files etc",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "meaning": "expensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "meaning": "this way\nlike this",
+      "hsk": 3
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "干巴巴",
+      "traditional": "乾巴巴",
+      "pinyin": "gān bā bā",
+      "meaning": "dry\nparched\ndull",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "泡",
+        "pinyin": "pào",
+        "meaning": "to soak\nto steep",
+        "tc_hanzi": "泡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "to see\nto catch sight of",
+        "tc_hanzi": "看見"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "classifier for books, periodicals, files etc",
+        "tc_hanzi": "本"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "泡",
+        "pinyin": "pào",
+        "meaning": "to soak\nto steep",
+        "tc_hanzi": "泡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "classifier for books, periodicals, files etc",
+        "tc_hanzi": "本"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "干巴巴",
+        "pinyin": "gān bā bā",
+        "meaning": "dry\nparched\ndull",
+        "tc_hanzi": "乾巴巴"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "According to Little Ming, some books needs soaking!",
+    "syllable_times": [
+      0.34,
+      1.73,
+      1.95,
+      2.142857142857143,
+      3.01,
+      3.34,
+      3.5941043083900226,
+      3.73,
+      4.095,
+      4.74,
+      5.115,
+      5.49,
+      5.88,
+      6.27,
+      6.51,
+      6.68,
+      6.85,
+      7.352607709750567,
+      7.67,
+      7.82,
+      8.56,
+      8.83,
+      8.97,
+      9.342403628117914,
+      10.379818594104307,
+      10.600907029478458,
+      10.76,
+      11.16,
+      12.68,
+      12.95,
+      13.09,
+      13.455,
+      14.6,
+      14.945,
+      15.9,
+      16.08,
+      16.366666666666667,
+      16.653333333333332,
+      16.94,
+      17.114512471655328,
+      17.261904761904763,
+      19.07,
+      19.404761904761905,
+      19.64,
+      21.33,
+      21.666666666666664,
+      21.882086167800452,
+      22.74,
+      22.976190476190474,
+      23.242630385487526,
+      23.77,
+      24.083333333333332,
+      24.39666666666667,
+      24.71,
+      25.3,
+      25.555,
+      25.81,
+      26.677755
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      30,
+      32,
+      44,
+      46
+    ],
+    "sentence_translations": [
+      "Soaking Books",
+      "",
+      "One day, Little Ming’s mom caught sight of Little Ming soaking a very expensive book in water. She got very angry.",
+      "",
+      "She asked Little Ming, “Little Ming, why are you doing this?”",
+      "",
+      "Little Ming said, “Dad said this book is very dry, and not a good read.”"
+    ]
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "id": "676",
+  "title": "Help Me Grab That",
+  "level": "intermediate",
+  "date": "2019-10-06",
+  "synopsis": "Little He needs help grabbing something at the office.",
+  "audioUrl": "https://static.duchinese.net/documents/1164/13409af3350bc0991ac37c786e87fb24fa55cbe3.mp3?1569841372",
+  "series": null,
+  "fullText": {
+    "simplified": "帮我拿一下那个\n\n小何：帮我拿一下那个。\n小张：哪个？订书机？\n小何：不是。\n小张：文件夹？\n小何：不是。\n小张：透明胶？\n小何：不是。\n小张：马克笔？\n小何：不是。\n小张：这里就这些东西，你想拿什么？\n小何：那个回形针。",
+    "traditional": "幫我拿一下那個\n\n小何：幫我拿一下那個。\n小張：哪個？訂書機？\n小何：不是。\n小張：文件夾？\n小何：不是。\n小張：透明膠？\n小何：不是。\n小張：馬克筆？\n小何：不是。\n小張：這裡就這些東西，你想拿什麼？\n小何：那個回形針。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Help Me Grab That"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：帮我拿一下那个。",
+      "traditional": "小何：幫我拿一下那個。",
+      "pinyin": "xiǎo hé bāng wǒ ná yí xià nà ge",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Help me grab that."
+    },
+    {
+      "index": 4,
+      "simplified": "小张：哪个？订书机？",
+      "traditional": "小張：哪個？訂書機？",
+      "pinyin": "xiǎo zhāng nǎ ge dìng shū jī",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Which one? The stapler?"
+    },
+    {
+      "index": 6,
+      "simplified": "小何：不是。",
+      "traditional": "小何：不是。",
+      "pinyin": "xiǎo hé bú shì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: No."
+    },
+    {
+      "index": 8,
+      "simplified": "小张：文件夹？",
+      "traditional": "小張：文件夾？",
+      "pinyin": "xiǎo zhāng wén jiàn jiā",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: The folder?"
+    },
+    {
+      "index": 10,
+      "simplified": "小何：不是。",
+      "traditional": "小何：不是。",
+      "pinyin": "xiǎo hé bú shì",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: No."
+    },
+    {
+      "index": 12,
+      "simplified": "小张：透明胶？",
+      "traditional": "小張：透明膠？",
+      "pinyin": "xiǎo zhāng tòu míng jiāo",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: The tape?"
+    },
+    {
+      "index": 14,
+      "simplified": "小何：不是。",
+      "traditional": "小何：不是。",
+      "pinyin": "xiǎo hé bú shì",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: No."
+    },
+    {
+      "index": 16,
+      "simplified": "小张：马克笔？",
+      "traditional": "小張：馬克筆？",
+      "pinyin": "xiǎo zhāng mǎ kè bǐ",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: The marker?"
+    },
+    {
+      "index": 18,
+      "simplified": "小何：不是。",
+      "traditional": "小何：不是。",
+      "pinyin": "xiǎo hé bú shì",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: No."
+    },
+    {
+      "index": 20,
+      "simplified": "小张：这里就这些东西，你想拿什么？",
+      "traditional": "小張：這裡就這些東西，你想拿什麼？",
+      "pinyin": "xiǎo zhāng zhè lǐ jiù zhè xiē dōng xi nǐ xiǎng ná shén me",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Those are all the things that are here. What do you want?"
+    },
+    {
+      "index": 22,
+      "simplified": "小何：那个回形针。",
+      "traditional": "小何：那個回形針。",
+      "pinyin": "xiǎo hé nà ge huí xíng zhēn",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little He: That paper clip."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold\nto take",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "订书机",
+      "traditional": "訂書機",
+      "pinyin": "dìng shū jī",
+      "meaning": "stapler\nstapling machine",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "文件夹",
+      "traditional": "文件夾",
+      "pinyin": "wén jiàn jiā",
+      "meaning": "folder\nfile (paper)",
+      "hsk": null
+    },
+    {
+      "hanzi": "透明胶",
+      "traditional": "透明膠",
+      "pinyin": "tòu míng jiāo",
+      "meaning": "sticky tape\nScotch tape",
+      "hsk": null
+    },
+    {
+      "hanzi": "马克笔",
+      "traditional": "馬克筆",
+      "pinyin": "mǎ kè bǐ",
+      "meaning": "marker (loanword)\nfelt marker",
+      "hsk": null
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这些",
+      "traditional": "這些",
+      "pinyin": "zhè xiē",
+      "meaning": "these",
+      "hsk": null
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回形针",
+      "traditional": "回形針",
+      "pinyin": "huí xíng zhēn",
+      "meaning": "paper clip",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "na",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "订书机",
+        "pinyin": "dìng shū jī",
+        "meaning": "stapler\nstapling machine",
+        "tc_hanzi": "訂書機"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "文件夹",
+        "pinyin": "wén jiàn jiā",
+        "meaning": "folder\nfile (paper)",
+        "tc_hanzi": "文件夾"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "透明胶",
+        "pinyin": "tòu míng jiāo",
+        "meaning": "sticky tape\nScotch tape",
+        "tc_hanzi": "透明膠"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "马克笔",
+        "pinyin": "mǎ kè bǐ",
+        "meaning": "marker (loanword)\nfelt marker",
+        "tc_hanzi": "馬克筆"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "这些",
+        "pinyin": "zhè xiē",
+        "meaning": "these",
+        "tc_hanzi": "這些"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "回形针",
+        "pinyin": "huí xíng zhēn",
+        "meaning": "paper clip",
+        "tc_hanzi": "回形針"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little He needs help grabbing something at the office.",
+    "syllable_times": [
+      0.4287795031939572,
+      0.82,
+      1.15,
+      1.495,
+      1.94,
+      2.33,
+      3.7676944007015156,
+      3.7676944007015156,
+      3.7676944007015156,
+      4.292713345968148,
+      4.62,
+      4.97,
+      5.33,
+      5.77,
+      6.16,
+      7.243878999655275,
+      7.243878999655275,
+      7.243878999655275,
+      7.675,
+      8.83,
+      9.176666666666666,
+      9.523333333333333,
+      10.997660331843521,
+      10.997660331843521,
+      10.997660331843521,
+      11.385,
+      12.640246207704473,
+      12.640246207704473,
+      12.640246207704473,
+      13.073333333333334,
+      13.426666666666666,
+      14.690784375402101,
+      14.690784375402101,
+      14.690784375402101,
+      15.114999999999998,
+      16.41658088980754,
+      16.41658088980754,
+      16.41658088980754,
+      16.8,
+      17.15,
+      18.361751933541623,
+      18.361751933541623,
+      18.361751933541623,
+      18.744999999999997,
+      19.909381414533513,
+      19.909381414533513,
+      19.909381414533513,
+      20.255,
+      20.54,
+      21.743691001515373,
+      21.743691001515373,
+      21.743691001515373,
+      22.095,
+      23.328717392778604,
+      23.328717392778604,
+      23.328717392778604,
+      23.63,
+      23.93,
+      24.21,
+      24.42,
+      24.63,
+      24.924999999999997,
+      25.86,
+      26.119999999999997,
+      26.38,
+      26.663333333333334,
+      26.946666666666665,
+      27.94045459585052,
+      27.94045459585052,
+      27.94045459585052,
+      28.345,
+      28.71,
+      29.150000000000002,
+      29.59,
+      30.308889,
+      30.308889
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      17,
+      18,
+      25,
+      26,
+      31,
+      32,
+      36,
+      37,
+      42,
+      43,
+      47,
+      48,
+      53,
+      54,
+      58,
+      59,
+      64,
+      65,
+      77,
+      78,
+      84
+    ],
+    "sentence_translations": [
+      "Help Me Grab That",
+      "",
+      "Little He: Help me grab that.",
+      "",
+      "Little Zhang: Which one? The stapler?",
+      "",
+      "Little He: No.",
+      "",
+      "Little Zhang: The folder?",
+      "",
+      "Little He: No.",
+      "",
+      "Little Zhang: The tape?",
+      "",
+      "Little He: No.",
+      "",
+      "Little Zhang: The marker?",
+      "",
+      "Little He: No.",
+      "",
+      "Little Zhang: Those are all the things that are here. What do you want?",
+      "",
+      "Little He: That paper clip.",
+      ""
+    ]
+  }
+}

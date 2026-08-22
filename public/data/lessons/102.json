@@ -1,0 +1,807 @@
+{
+  "id": "102",
+  "title": "Is that my Dad?",
+  "level": "elementary",
+  "date": "2016-03-23",
+  "synopsis": "The word 爸爸 means father, but also sounds a bit like “88” in Chinese. In this funny story, we see how Little Ming uses this to get out of an embarrassing situation.",
+  "audioUrl": "https://static.duchinese.net/documents/92/db3309acb512a541e21404fdd8e6fd3d20121a3d.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "是爸爸？还是……？\n\n    一天，小明在街上看到前面有一个人很像他的爸爸，他很高兴，大叫“爸爸，爸爸…”\n    后来，那个人回头，小明发现那个人不是他的爸爸，他有点不好意思，又连忙说：“88、89、90……”",
+    "traditional": "是爸爸？還是……？\n\n    一天，小明在街上看到前面有一個人很像他的爸爸，他很高興，大叫“爸爸，爸爸…”\n    後來，那個人回頭，小明發現那個人不是他的爸爸，他有點不好意思，又連忙說：“88、89、90……”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Is that my dad, or…?"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小明在街上看到前面有一个人很像他的爸爸，",
+      "traditional": "一天，小明在街上看到前面有一個人很像他的爸爸，",
+      "pinyin": "yì tiān xiǎo míng zài jiē shang kàn dào qián miàn yǒu yí ge rén hěn xiàng tā de bà ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "他很高兴，大叫“爸爸，爸爸…”",
+      "traditional": "他很高興，大叫“爸爸，爸爸…”",
+      "pinyin": "tā hěn gāo xìng dà jiào bà ba bà ba",
+      "english": "One day, Little Ming noticed the man in front of him on the street looked a lot like his father."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Excited, he yelled “Daddy, daddy…”"
+    },
+    {
+      "index": 5,
+      "simplified": "后来，那个人回头，小明发现那个人不是他的爸爸，",
+      "traditional": "後來，那個人回頭，小明發現那個人不是他的爸爸，",
+      "pinyin": "hòu lái nà ge rén huí tóu xiǎo míng fā xiàn nà ge rén bú shì tā de bà ba",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "他有点不好意思，又连忙说：“88、89、90……”",
+      "traditional": "他有點不好意思，又連忙說：“88、89、90……”",
+      "pinyin": "tā yǒu diǎn bù hǎo yì si yòu lián máng shuō bā bā bā jiǔ jiǔ shí",
+      "english": "Then the person turned around, and Little Ming discovered that it wasn’t his dad."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "街",
+      "traditional": "街",
+      "pinyin": "jiē",
+      "meaning": "street",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "前面",
+      "traditional": "前面",
+      "pinyin": "qián miàn",
+      "meaning": "ahead\nin front",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "像",
+      "traditional": "像",
+      "pinyin": "xiàng",
+      "meaning": "to resemble\nto be like",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大叫",
+      "traditional": "大叫",
+      "pinyin": "dà jiào",
+      "meaning": "to yell\nto shout",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后来",
+      "traditional": "後來",
+      "pinyin": "hòu lái",
+      "meaning": "afterwards\nlater",
+      "hsk": 3
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回头",
+      "traditional": "回頭",
+      "pinyin": "huí tóu",
+      "meaning": "to turn around\nto turn one's head",
+      "hsk": 3
+    },
+    {
+      "hanzi": "发现",
+      "traditional": "發現",
+      "pinyin": "fā xiàn",
+      "meaning": "to find\nto discover",
+      "hsk": 3
+    },
+    {
+      "hanzi": "那个",
+      "traditional": "那個",
+      "pinyin": "nà ge",
+      "meaning": "that",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有点",
+      "traditional": "有點",
+      "pinyin": "yǒu diǎn",
+      "meaning": "a little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "连忙",
+      "traditional": "連忙",
+      "pinyin": "lián máng",
+      "meaning": "promptly\nat once",
+      "hsk": 5
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "……？",
+        "tc_hanzi": "……？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "街",
+        "pinyin": "jiē",
+        "meaning": "street",
+        "tc_hanzi": "街"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前面",
+        "pinyin": "qián miàn",
+        "meaning": "ahead\nin front",
+        "tc_hanzi": "前面"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "meaning": "to resemble\nto be like",
+        "tc_hanzi": "像"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大叫",
+        "pinyin": "dà jiào",
+        "meaning": "to yell\nto shout",
+        "tc_hanzi": "大叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "…”",
+        "tc_hanzi": "…”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "后来",
+        "pinyin": "hòu lái",
+        "meaning": "afterwards\nlater",
+        "tc_hanzi": "後來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "回头",
+        "pinyin": "huí tóu",
+        "meaning": "to turn around\nto turn one's head",
+        "tc_hanzi": "回頭"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发现",
+        "pinyin": "fā xiàn",
+        "meaning": "to find\nto discover",
+        "tc_hanzi": "發現"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那个",
+        "pinyin": "nà ge",
+        "meaning": "that",
+        "tc_hanzi": "那個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有点",
+        "pinyin": "yǒu diǎn",
+        "meaning": "a little",
+        "tc_hanzi": "有點"
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "连忙",
+        "pinyin": "lián máng",
+        "meaning": "promptly\nat once",
+        "tc_hanzi": "連忙"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "88",
+        "pinyin": "bā bā",
+        "tc_hanzi": "88"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "89",
+        "pinyin": "bā jiǔ",
+        "tc_hanzi": "89"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "90",
+        "pinyin": "jiǔ shí",
+        "tc_hanzi": "90"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.4988662131519274,
+      0.9523809523809523,
+      1.678004535147392,
+      2.040816326530612,
+      4.036281179138322,
+      4.444444444444445,
+      5.578231292517007,
+      6.122448979591836,
+      6.575963718820861,
+      6.938775510204081,
+      7.301587301587301,
+      7.845804988662132,
+      8.253968253968255,
+      8.616780045351474,
+      9.115646258503402,
+      9.569160997732427,
+      9.951913366751747,
+      10.15873015873016,
+      10.56689342403628,
+      11.24716553287982,
+      11.51927437641723,
+      12.01814058956916,
+      12.33560090702948,
+      12.6530612244898,
+      13.10657596371882,
+      14.82993197278912,
+      15.32879818594104,
+      15.60090702947846,
+      16.14512471655329,
+      17.18820861678005,
+      17.55537740144285,
+      18.59410430839002,
+      19.00226757369614,
+      19.81859410430839,
+      20.18140589569161,
+      22.08616780045352,
+      22.44897959183674,
+      23.31065759637188,
+      23.5827664399093,
+      23.85487528344671,
+      24.30839002267574,
+      24.62585034013605,
+      26.21315192743764,
+      26.66666666666667,
+      26.98412698412698,
+      27.2562358276644,
+      28.11791383219955,
+      28.48072562358277,
+      28.75283446712018,
+      29.25170068027211,
+      29.56916099773242,
+      30.06802721088435,
+      30.43083900226758,
+      30.79365079365079,
+      31.15646258503401,
+      32.7891156462585,
+      33.24263038548753,
+      33.56009070294785,
+      34.01360544217687,
+      34.37641723356009,
+      34.69387755102041,
+      35.10204081632653,
+      36.281179138322,
+      36.68934240362812,
+      36.96145124716553,
+      37.46031746031746,
+      38.77551020408163,
+      39.09297052154195,
+      39.90929705215419,
+      40.22675736961451,
+      41.04308390022675,
+      41.49659863945578,
+      42.39780045351474,
+      42.39782333374023
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      27,
+      37,
+      39,
+      56
+    ],
+    "sentence_translations": [
+      "Is that my dad, or…?",
+      "",
+      "One day, Little Ming noticed the man in front of him on the street looked a lot like his father.",
+      "Excited, he yelled “Daddy, daddy…”",
+      "",
+      "Then the person turned around, and Little Ming discovered that it wasn’t his dad.",
+      "He felt a bit embarrassed, and promptly said: “88, 89, 90…”"
+    ]
+  }
+}

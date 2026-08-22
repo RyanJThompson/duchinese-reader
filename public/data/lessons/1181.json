@@ -1,0 +1,5461 @@
+{
+  "id": "1181",
+  "title": "Ant Forest",
+  "level": "master",
+  "date": "2021-04-02",
+  "synopsis": "Have you planted any trees in Ant Forest?",
+  "audioUrl": "https://static.duchinese.net/documents/1181/e1e748deec7ee230e6c58389de0e7e31bb53f376.mp3?1609857489",
+  "series": null,
+  "fullText": {
+    "simplified": "蚂蚁森林\n\n    环保这一话题已经被谈论了很多年，似乎已经变成了明日黄花。然而事实上，这个老生常谈的话题依然具有现实意义。据相关统计和测算表明：仅就森林面积来说，2010年以来，全球森林资源总面积呈现线性下滑趋势，预计从今年到2025年这个数值将继续下降1千万公顷。\n    面对这样一种一直在重视却一直在变糟的现实，我们依旧需要探寻具有可行性的解决之道。蚂蚁森林的出现给这一困局提出了一套有参考价值的方案。\n    在中国政府大力推行封山育林和退耕还林等生态工程的同时，2016年阿里巴巴在国民级手机应用“支付宝”上推出了蚂蚁森林公益项目。项目的运作方式是：用户通过步行、地铁出行、在线缴纳水电煤气费、网上缴交通罚单、网络挂号、网络购票等行为，就会减少相应的碳排放量，可以用来在支付宝里养一棵虚拟的树。这棵树长大后，公益组织、环保企业等蚂蚁生态伙伴们，可以“买走”用户在蚂蚁森林里种植的虚拟“树”，而在现实某个地域种下一棵实体的树。而截至2020年3月，支付宝公布蚂蚁森林的最新数据：已有四成中国人用手机种树，参与者达到5.5亿，累积碳减排1100万吨。至今已种下1.22亿棵真树，种植面积达168万亩。\n    这样一种非官方运作模式，让人们在日常生活中感受到退耕还林等庙堂之上的政策，降低了环保的门槛和成本。而在网友们见到自己积累的碳排放量变成一棵一棵真实的树时，所获得的成就感并不亚于亲自奔波几千里亲手栽下一棵树。而项目背后的逻辑和中国传统文化中的日行一善是不谋而合的。\n    蚂蚁也许很小，但众多蚂蚁最终造就了一片片绿洲。环保这件事，同样需要众多的蚂蚁，去日积跬步以致千里。",
+    "traditional": "螞蟻森林\n\n    環保這一話題已經被談論了很多年，似乎已經變成了明日黃花。然而事實上，這個老生常談的話題依然具有現實意義。據相關統計和測算表明：僅就森林面積來說，2010年以來，全球森林資源總面積呈現線性下滑趨勢，預計從今年到2025年這個數值將繼續下降1千萬公頃。\n    面對這樣一種一直在重視卻一直在變糟的現實，我們依舊需要探尋具有可行性的解決之道。螞蟻森林的出現給這一困局提出了一套有參考價值的方案。\n    在中國政府大力推行封山育林和退耕還林等生態工程的同時，2016年阿里巴巴在國民級手機應用“支付寶”上推出了螞蟻森林公益項目。項目的運作方式是：用戶通過步行、地鐵出行、在線繳納水電煤氣費、網上繳交通罰單、網絡掛號、網絡購票等行為，就會減少相應的碳排放量，可以用來在支付寶裡養一棵虛擬的樹。這棵樹長大後，公益組織、環保企業等螞蟻生態伙伴們，可以“買走”用戶在螞蟻森林裡種植的虛擬“樹”，而在現實某個地域種下一棵實體的樹。而截至2020年3月，支付寶公佈螞蟻森林的最新數據：已有四成中國人用手機種樹，參與者達到5.5億，累積碳減排1100萬噸。至今已種下1.22億棵真樹，種植面積達168萬畝。\n    這樣一種非官方運作模式，讓人們在日常生活中感受到退耕還林等廟堂之上的政策，降低了環保的門檻和成本。而在網友們見到自己積累的碳排放量變成一棵一棵真實的樹時，所獲得的成就感並不亞於親自奔波幾千里親手栽下一棵樹。而項目背後的邏輯和中國傳統文化中的日行一善是不謀而合的。\n    螞蟻也許很小，但眾多螞蟻最終造就了一片片綠洲。環保這件事，同樣需要眾多的螞蟻，去日積跬步以致千里。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ant Forest"
+    },
+    {
+      "index": 2,
+      "simplified": "环保这一话题已经被谈论了很多年，",
+      "traditional": "環保這一話題已經被談論了很多年，",
+      "pinyin": "huán bǎo zhè yí huà tí yǐ jīng bèi tán lùn le hěn duō nián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "似乎已经变成了明日黄花。",
+      "traditional": "似乎已經變成了明日黃花。",
+      "pinyin": "sì hū yǐ jīng biàn chéng le míng rì huáng huā",
+      "english": "The topic of environmental protection has been discussed for many years, .."
+    },
+    {
+      "index": 4,
+      "simplified": "然而事实上，这个老生常谈的话题依然具有现实意义。",
+      "traditional": "然而事實上，這個老生常談的話題依然具有現實意義。",
+      "pinyin": "rán ér shì shí shang zhè ge lǎo shēng cháng tán de huà tí yī rán jù yǒu xiàn shí yì yì",
+      "english": ".. and seems to have already become a thing of the past."
+    },
+    {
+      "index": 5,
+      "simplified": "据相关统计和测算表明：仅就森林面积来说",
+      "traditional": "據相關統計和測算表明：僅就森林面積來說",
+      "pinyin": "jù xiāng guān tǒng jì hé cè suàn biǎo míng jǐn jiù sēn lín miàn jī lái shuō",
+      "english": "But in fact, this old observation still has real meaning."
+    },
+    {
+      "index": 6,
+      "simplified": "，2010年以来，全球森林资源总面积呈现线性下滑趋势，",
+      "traditional": "，2010年以來，全球森林資源總面積呈現線性下滑趨勢，",
+      "pinyin": "4 nián yǐ lái quán qiú sēn lín zī yuán zǒng miàn jī chéng xiàn xiàn xìng xià huá qū shì",
+      "english": "According to relevant statistics and calculations, just in terms of forest area, .."
+    },
+    {
+      "index": 7,
+      "simplified": "预计从今年到2025年这个数值将继续下降1千万公顷。",
+      "traditional": "預計從今年到2025年這個數值將繼續下降1千萬公頃。",
+      "pinyin": "yù jì cóng jīn nián dào 4 nián zhè ge shù zhí jiāng jì xù xià jiàng 1 qiān wàn gōng qǐng",
+      "english": ".. the total area of global forest resources has shown a linear downward trend since 2010."
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "It is estimated that from this year until 2025, this figure will fall by another 10 million hectares."
+    },
+    {
+      "index": 9,
+      "simplified": "面对这样一种一直在重视却一直在变糟的现实，",
+      "traditional": "面對這樣一種一直在重視卻一直在變糟的現實，",
+      "pinyin": "miàn duì zhè yàng yì zhǒng yì zhí zài zhòng shì què yì zhí zài biàn zāo de xiàn shí",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "我们依旧需要探寻具有可行性的解决之道。",
+      "traditional": "我們依舊需要探尋具有可行性的解決之道。",
+      "pinyin": "wǒ men yī jiù xū yào tàn xún jù yǒu kě xíng xìng de jiě jué zhī dào",
+      "english": "Facing this reality that has always been considered important yet continues to get worse, .."
+    },
+    {
+      "index": 11,
+      "simplified": "蚂蚁森林的出现给这一困局提出了一套有参考价值的方案。",
+      "traditional": "螞蟻森林的出現給這一困局提出了一套有參考價值的方案。",
+      "pinyin": "mǎ yǐ sēn lín de chū xiàn gěi zhè yí kùn jú tí chū le yí tào yǒu cān kǎo jià zhí de fāng àn",
+      "english": ".. we still need to look for feasible solutions."
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "The appearance of Ant Forest provides several proposals that have reference value."
+    },
+    {
+      "index": 13,
+      "simplified": "在中国政府大力推行封山育林",
+      "traditional": "在中國政府大力推行封山育林",
+      "pinyin": "zài zhōng guó zhèng fǔ dà lì tuī xíng fēng shān yù lín",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "和退耕还林等生态工程的同时，",
+      "traditional": "和退耕還林等生態工程的同時，",
+      "pinyin": "hé tuì gēng huán lín děng shēng tài gōng chéng de tóng shí",
+      "english": "At the same time as the Chinese government vigorously implemented “closing hillsides to facilitate afforestation”, .."
+    },
+    {
+      "index": 15,
+      "simplified": "2016年阿里巴巴在国民级手机应用“支付宝”上推出了蚂蚁森林公益项目。",
+      "traditional": "2016年阿里巴巴在國民級手機應用“支付寶”上推出了螞蟻森林公益項目。",
+      "pinyin": "4 nián ā lǐ bā bā zài guó mín jí shǒu jī yìng yòng zhī fù bǎo shang tuī chū le mǎ yǐ sēn lín gōng yì xiàng mù",
+      "english": ".. “returning farmland to forest”, and other ecological projects, .."
+    },
+    {
+      "index": 16,
+      "simplified": "项目的运作方式是：用户通过步行、地铁出行、在线缴纳水电煤气费、",
+      "traditional": "項目的運作方式是：用戶通過步行、地鐵出行、在線繳納水電煤氣費、",
+      "pinyin": "xiàng mù de yùn zuò fāng shì shì yòng hù tōng guò bù xíng dì tiě chū xíng zài xiàn jiǎo nà shuǐ diàn méi qì fèi",
+      "english": ".. Alibaba released the Ant Forest public welfare project on the nationally popular phone app Alipay in 2016."
+    },
+    {
+      "index": 17,
+      "simplified": "网上缴交通罚单、网络挂号、网络购票等行为，",
+      "traditional": "網上繳交通罰單、網絡掛號、網絡購票等行為，",
+      "pinyin": "wǎng shang jiǎo jiāo tōng fá dān wǎng luò guà hào wǎng luò gòu piào děng xíng wéi",
+      "english": "The project works like this: users can walk, take the subway, pay utility bills online, .."
+    },
+    {
+      "index": 18,
+      "simplified": "就会减少相应的碳排放量，可以用来在支付宝里养一棵虚拟的树。",
+      "traditional": "就會減少相應的碳排放量，可以用來在支付寶裡養一棵虛擬的樹。",
+      "pinyin": "jiù huì jiǎn shǎo xiāng yìng de tàn pái fàng liàng kě yǐ yòng lái zài zhī fù bǎo lǐ yǎng yì kē xū nǐ de shù",
+      "english": ".. pay tickets for traffic violations online, register at hospitals online, buy tickets online, etc., .."
+    },
+    {
+      "index": 19,
+      "simplified": "这棵树长大后，公益组织、环保企业等蚂蚁生态伙伴们，",
+      "traditional": "這棵樹長大後，公益組織、環保企業等螞蟻生態伙伴們，",
+      "pinyin": "zhè kē shù zhǎng dà hòu gōng yì zǔ zhī huán bǎo qǐ yè děng mǎ yǐ shēng tài huǒ bàn men",
+      "english": ".. and the corresponding amount of reduced carbon emission can be used to grow a virtual tree in Alipay."
+    },
+    {
+      "index": 20,
+      "simplified": "可以“买走”用户在蚂蚁森林里种植的虚拟“树”，而在现实某个地域种下一棵实体的树。",
+      "traditional": "可以“買走”用戶在螞蟻森林裡種植的虛擬“樹”，而在現實某個地域種下一棵實體的樹。",
+      "pinyin": "kě yǐ mǎi zǒu yòng hù zài mǎ yǐ sēn lín lǐ zhòng zhí de xū nǐ shù ér zài xiàn shí mǒu ge dì yù zhòng xià yì kē shí tǐ de shù",
+      "english": "After the tree has grown, Ant ecological partners such as public welfare organizations or environmentally friendly companies, .."
+    },
+    {
+      "index": 21,
+      "simplified": "而截至2020年3月，支付宝公布蚂蚁森林的最新数据：",
+      "traditional": "而截至2020年3月，支付寶公佈螞蟻森林的最新數據：",
+      "pinyin": "ér jié zhì 4 nián 1 yuè zhī fù bǎo gōng bù mǎ yǐ sēn lín de zuì xīn shù jù",
+      "english": ".. can “buy” the virtual “tree” planted by the user in the Ant Forest, and plant an actual tree somewhere in the real world."
+    },
+    {
+      "index": 22,
+      "simplified": "已有四成中国人用手机种树，参与者达到5.5亿，",
+      "traditional": "已有四成中國人用手機種樹，參與者達到5.5億，",
+      "pinyin": "yǐ yǒu sì chéng zhōng guó rén yòng shǒu jī zhòng shù cān yù zhě dá dào 3 yì",
+      "english": "In March 2020, Alipay published Ant Forest’s latest data:"
+    },
+    {
+      "index": 23,
+      "simplified": "累积碳减排1100万吨。",
+      "traditional": "累積碳減排1100萬噸。",
+      "pinyin": "lěi jī tàn jiǎn pái 4 wàn dūn",
+      "english": "40% of Chinese people had planted trees with their phones and the number of participants had reached 550 million, .."
+    },
+    {
+      "index": 24,
+      "simplified": "至今已种下1.22亿棵真树，种植面积达168万亩。",
+      "traditional": "至今已種下1.22億棵真樹，種植面積達168萬畝。",
+      "pinyin": "zhì jīn yǐ zhòng xià 4 yì kē zhēn shù zhòng zhí miàn jī dá 5 wàn mǔ",
+      "english": ".. accumulating 11 million tons of reduced carbon emissions."
+    },
+    {
+      "index": 25,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "To date, 122 million real trees have been planted, and the planted area has reached 1.68 million mu."
+    },
+    {
+      "index": 26,
+      "simplified": "这样一种非官方运作模式，",
+      "traditional": "這樣一種非官方運作模式，",
+      "pinyin": "zhè yàng yì zhǒng fēi guān fāng yùn zuò mó shì",
+      "english": ""
+    },
+    {
+      "index": 27,
+      "simplified": "让人们在日常生活中感受到退耕还林等庙堂之上的政策，",
+      "traditional": "讓人們在日常生活中感受到退耕還林等廟堂之上的政策，",
+      "pinyin": "ràng rén men zài rì cháng shēng huó zhōng gǎn shòu dào tuì gēng huán lín děng miào táng zhī shàng de zhèng cè",
+      "english": "This method of non-governmental operations, .."
+    },
+    {
+      "index": 28,
+      "simplified": "降低了环保的门槛和成本。",
+      "traditional": "降低了環保的門檻和成本。",
+      "pinyin": "jiàng dī le huán bǎo de mén kǎn hé chéng běn",
+      "english": ".. allows people to experience government policies such as “returning farmland to forest” in their daily lives, .."
+    },
+    {
+      "index": 29,
+      "simplified": "而在网友们见到自己积累的碳排放量变成一棵一棵真实的树时，",
+      "traditional": "而在網友們見到自己積累的碳排放量變成一棵一棵真實的樹時，",
+      "pinyin": "ér zài wǎng yǒu men jiàn dào zì jǐ jī lěi de tàn pái fàng liàng biàn chéng yì kē yì kē zhēn shí de shù shí",
+      "english": ".. lowering the threshold and cost of environmental protection."
+    },
+    {
+      "index": 30,
+      "simplified": "所获得的成就感并不亚于亲自奔波几千里亲手栽下一棵树。",
+      "traditional": "所獲得的成就感並不亞於親自奔波幾千里親手栽下一棵樹。",
+      "pinyin": "suǒ huò dé de chéng jiù gǎn bìng bù yà yú qīn zì bēn bō jǐ qiān lǐ qīn shǒu zāi xià yì kē shù",
+      "english": "When internet users see the amount of carbon emissions they have accumulated turn into actual trees, .."
+    },
+    {
+      "index": 31,
+      "simplified": "而项目背后的逻辑和中国传统文化中的日行一善是不谋而合的。",
+      "traditional": "而項目背後的邏輯和中國傳統文化中的日行一善是不謀而合的。",
+      "pinyin": "ér xiàng mù bèi hòu de luó ji hé zhōng guó chuán tǒng wén huà zhōng de rì xíng yí shàn shì bù móu ér hé de",
+      "english": ".. their sense of accomplishment is no less than if they had personally rushed several thousand li to plant a tree with their own hands."
+    },
+    {
+      "index": 32,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "The project’s logic coincides with “do one good deed every day” in traditional Chinese culture."
+    },
+    {
+      "index": 33,
+      "simplified": "蚂蚁也许很小，但众多蚂蚁最终造就了一片片绿洲。",
+      "traditional": "螞蟻也許很小，但眾多螞蟻最終造就了一片片綠洲。",
+      "pinyin": "mǎ yǐ yě xǔ hěn xiǎo dàn zhòng duō mǎ yǐ zuì zhōng zào jiù le yí piàn piàn lǜ zhōu",
+      "english": ""
+    },
+    {
+      "index": 34,
+      "simplified": "环保这件事，同样需要众多的蚂蚁，去日积跬步以致千里。",
+      "traditional": "環保這件事，同樣需要眾多的螞蟻，去日積跬步以致千里。",
+      "pinyin": "huán bǎo zhè jiàn shì tóng yàng xū yào zhòng duō de mǎ yǐ qù rì jī kuǐ bù yǐ zhì qiān lǐ",
+      "english": "Ants may be tiny, but many ants can eventually create a large oasis."
+    },
+    {
+      "index": 35,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Environmental protection also needs many ants, accumulating tiny steps every day to reach a thousand li."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "蚂蚁森林",
+      "traditional": "螞蟻森林",
+      "pinyin": "mǎ yǐ sēn lín",
+      "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+      "hsk": null
+    },
+    {
+      "hanzi": "环保",
+      "traditional": "環保",
+      "pinyin": "huán bǎo",
+      "meaning": "environmental protection\nenvironmentally friendly",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "话题",
+      "traditional": "話題",
+      "pinyin": "huà tí",
+      "meaning": "subject (of a talk or conversation)\ntopic",
+      "hsk": 5
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "谈论",
+      "traditional": "談論",
+      "pinyin": "tán lùn",
+      "meaning": "to discuss\nto talk about",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "似乎",
+      "traditional": "似乎",
+      "pinyin": "sì hū",
+      "meaning": "apparently\nto seem\nto appear",
+      "hsk": 5
+    },
+    {
+      "hanzi": "变成",
+      "traditional": "變成",
+      "pinyin": "biàn chéng",
+      "meaning": "to change into\nto turn into",
+      "hsk": 3
+    },
+    {
+      "hanzi": "明日黄花",
+      "traditional": "明日黃花",
+      "pinyin": "míng rì huáng huā",
+      "meaning": "lit. chrysanthemums after the Double Ninth Festival (idiom)\nfig. outdated\nthing of the past",
+      "hsk": null
+    },
+    {
+      "hanzi": "然而",
+      "traditional": "然而",
+      "pinyin": "rán ér",
+      "meaning": "however\nyet\nbut",
+      "hsk": 4
+    },
+    {
+      "hanzi": "事实",
+      "traditional": "事實",
+      "pinyin": "shì shí",
+      "meaning": "fact\nreality",
+      "hsk": 5
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老生常谈",
+      "traditional": "老生常談",
+      "pinyin": "lǎo shēng cháng tán",
+      "meaning": "an old observation (idiom)\na truism\nbanal comments",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "依然",
+      "traditional": "依然",
+      "pinyin": "yī rán",
+      "meaning": "still\nas before",
+      "hsk": 5
+    },
+    {
+      "hanzi": "具有",
+      "traditional": "具有",
+      "pinyin": "jù yǒu",
+      "meaning": "to have\nto possess",
+      "hsk": null
+    },
+    {
+      "hanzi": "现实",
+      "traditional": "現實",
+      "pinyin": "xiàn shí",
+      "meaning": "reality\nactuality\nreal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "意义",
+      "traditional": "意義",
+      "pinyin": "yì yì",
+      "meaning": "sense\nmeaning\nsignificance",
+      "hsk": 5
+    },
+    {
+      "hanzi": "据",
+      "traditional": "據",
+      "pinyin": "jù",
+      "meaning": "according to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "相关",
+      "traditional": "相關",
+      "pinyin": "xiāng guān",
+      "meaning": "related\nrelevant",
+      "hsk": 5
+    },
+    {
+      "hanzi": "统计",
+      "traditional": "統計",
+      "pinyin": "tǒng jì",
+      "meaning": "statistics",
+      "hsk": 6
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "测算",
+      "traditional": "測算",
+      "pinyin": "cè suàn",
+      "meaning": "to take measurements and calculate",
+      "hsk": null
+    },
+    {
+      "hanzi": "表明",
+      "traditional": "表明",
+      "pinyin": "biǎo míng",
+      "meaning": "to make clear\nto state clearly\nto indicate",
+      "hsk": 5
+    },
+    {
+      "hanzi": "仅",
+      "traditional": "僅",
+      "pinyin": "jǐn",
+      "meaning": "barely\nonly\nmerely",
+      "hsk": null
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "森林",
+      "traditional": "森林",
+      "pinyin": "sēn lín",
+      "meaning": "forest",
+      "hsk": 4
+    },
+    {
+      "hanzi": "面积",
+      "traditional": "面積",
+      "pinyin": "miàn jī",
+      "meaning": "area (of a floor, piece of land etc)\nsurface area",
+      "hsk": 5
+    },
+    {
+      "hanzi": "来说",
+      "traditional": "來說",
+      "pinyin": "lái shuō",
+      "meaning": "as for\n(对 ... 来说 / 對 ... 來說)",
+      "hsk": null
+    },
+    {
+      "hanzi": "以来",
+      "traditional": "以來",
+      "pinyin": "yǐ lái",
+      "meaning": "since (a previous event)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "全球",
+      "traditional": "全球",
+      "pinyin": "quán qiú",
+      "meaning": "global\nworldwide",
+      "hsk": null
+    },
+    {
+      "hanzi": "资源",
+      "traditional": "資源",
+      "pinyin": "zī yuán",
+      "meaning": "natural resource (such as water or minerals)\nresource (such as manpower or tourism)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "总",
+      "traditional": "總",
+      "pinyin": "zǒng",
+      "meaning": "total\noverall",
+      "hsk": null
+    },
+    {
+      "hanzi": "呈现",
+      "traditional": "呈現",
+      "pinyin": "chéng xiàn",
+      "meaning": "to appear\nto present\nto demonstrate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "线性",
+      "traditional": "線性",
+      "pinyin": "xiàn xìng",
+      "meaning": "linear\nlinearity",
+      "hsk": null
+    },
+    {
+      "hanzi": "下滑",
+      "traditional": "下滑",
+      "pinyin": "xià huá",
+      "meaning": "sliding\nslide",
+      "hsk": null
+    },
+    {
+      "hanzi": "趋势",
+      "traditional": "趨勢",
+      "pinyin": "qū shì",
+      "meaning": "trend\ntendency",
+      "hsk": 5
+    },
+    {
+      "hanzi": "预计",
+      "traditional": "預計",
+      "pinyin": "yù jì",
+      "meaning": "to forecast\nto predict\nto estimate",
+      "hsk": null
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今",
+      "traditional": "今",
+      "pinyin": "jīn",
+      "meaning": "today\npresent\nnow",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "until (a time)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "数值",
+      "traditional": "數值",
+      "pinyin": "shù zhí",
+      "meaning": "numerical value",
+      "hsk": null
+    },
+    {
+      "hanzi": "将",
+      "traditional": "將",
+      "pinyin": "jiāng",
+      "meaning": "will\nshall",
+      "hsk": null
+    },
+    {
+      "hanzi": "继续",
+      "traditional": "繼續",
+      "pinyin": "jì xù",
+      "meaning": "to continue\nto proceed with\nto go on with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "下降",
+      "traditional": "下降",
+      "pinyin": "xià jiàng",
+      "meaning": "to decline\nto drop\nto fall",
+      "hsk": null
+    },
+    {
+      "hanzi": "千万",
+      "traditional": "千萬",
+      "pinyin": "qiān wàn",
+      "meaning": "ten million\ncountless",
+      "hsk": 4
+    },
+    {
+      "hanzi": "公顷",
+      "traditional": "公頃",
+      "pinyin": "gōng qǐng",
+      "meaning": "hectare",
+      "hsk": null
+    },
+    {
+      "hanzi": "面对",
+      "traditional": "面對",
+      "pinyin": "miàn duì",
+      "meaning": "to confront\nto face",
+      "hsk": 5
+    },
+    {
+      "hanzi": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "meaning": "this kind of\nlike this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一直",
+      "traditional": "一直",
+      "pinyin": "yì zhí",
+      "meaning": "continuously\nall along",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "重视",
+      "traditional": "重視",
+      "pinyin": "zhòng shì",
+      "meaning": "to attach importance to sth\nto value",
+      "hsk": 4
+    },
+    {
+      "hanzi": "却",
+      "traditional": "卻",
+      "pinyin": "què",
+      "meaning": "but\nyet\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "变",
+      "traditional": "變",
+      "pinyin": "biàn",
+      "meaning": "to become\nto change",
+      "hsk": 3
+    },
+    {
+      "hanzi": "糟",
+      "traditional": "糟",
+      "pinyin": "zāo",
+      "meaning": "in a wretched (or terrible) state\nin a mess",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "依旧",
+      "traditional": "依舊",
+      "pinyin": "yī jiù",
+      "meaning": "as before\nstill",
+      "hsk": 6
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "探寻",
+      "traditional": "探尋",
+      "pinyin": "tàn xún",
+      "meaning": "to search\nto seek\nto explore",
+      "hsk": null
+    },
+    {
+      "hanzi": "可行性",
+      "traditional": "可行性",
+      "pinyin": "kě xíng xìng",
+      "meaning": "feasibility",
+      "hsk": null
+    },
+    {
+      "hanzi": "解决",
+      "traditional": "解決",
+      "pinyin": "jiě jué",
+      "meaning": "to settle (a dispute)\nto resolve\nto solve",
+      "hsk": 3
+    },
+    {
+      "hanzi": "之",
+      "traditional": "之",
+      "pinyin": "zhī",
+      "meaning": "(possessive particle, literary equivalent of 的)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "道",
+      "traditional": "道",
+      "pinyin": "dào",
+      "meaning": "way\nroad\npath",
+      "hsk": null
+    },
+    {
+      "hanzi": "出现",
+      "traditional": "出現",
+      "pinyin": "chū xiàn",
+      "meaning": "to appear\nto emerge",
+      "hsk": 4
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "困局",
+      "traditional": "困局",
+      "pinyin": "kùn jú",
+      "meaning": "dilemma\npredicament\ndifficult situation",
+      "hsk": null
+    },
+    {
+      "hanzi": "提出",
+      "traditional": "提出",
+      "pinyin": "tí chū",
+      "meaning": "to propose\nto suggest",
+      "hsk": 4
+    },
+    {
+      "hanzi": "套",
+      "traditional": "套",
+      "pinyin": "tào",
+      "meaning": "classifier for sets, collections, apartments",
+      "hsk": 5
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "参考",
+      "traditional": "參考",
+      "pinyin": "cān kǎo",
+      "meaning": "consultation\nreference\nto refer",
+      "hsk": 5
+    },
+    {
+      "hanzi": "价值",
+      "traditional": "價值",
+      "pinyin": "jià zhí",
+      "meaning": "value\nworth",
+      "hsk": 5
+    },
+    {
+      "hanzi": "方案",
+      "traditional": "方案",
+      "pinyin": "fāng àn",
+      "meaning": "plan\nproposal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "政府",
+      "traditional": "政府",
+      "pinyin": "zhèng fǔ",
+      "meaning": "government",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大力",
+      "traditional": "大力",
+      "pinyin": "dà lì",
+      "meaning": "energetically\nvigorously",
+      "hsk": null
+    },
+    {
+      "hanzi": "推行",
+      "traditional": "推行",
+      "pinyin": "tuī xíng",
+      "meaning": "to put into effect\nto carry out",
+      "hsk": null
+    },
+    {
+      "hanzi": "封山育林",
+      "traditional": "封山育林",
+      "pinyin": "fēng shān yù lín",
+      "meaning": "to close off hillsides to facilitate afforestation",
+      "hsk": null
+    },
+    {
+      "hanzi": "退耕还林",
+      "traditional": "退耕還林",
+      "pinyin": "tuì gēng huán lín",
+      "meaning": "restoring agricultural land to forest",
+      "hsk": null
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "et cetera\nand so on",
+      "hsk": 4
+    },
+    {
+      "hanzi": "生态",
+      "traditional": "生態",
+      "pinyin": "shēng tài",
+      "meaning": "ecology",
+      "hsk": 6
+    },
+    {
+      "hanzi": "工程",
+      "traditional": "工程",
+      "pinyin": "gōng chéng",
+      "meaning": "engineering\nan engineering project\nundertaking",
+      "hsk": null
+    },
+    {
+      "hanzi": "同时",
+      "traditional": "同時",
+      "pinyin": "tóng shí",
+      "meaning": "at the same time\nsimultaneously",
+      "hsk": 4
+    },
+    {
+      "hanzi": "阿里巴巴",
+      "traditional": "阿里巴巴",
+      "pinyin": "ā lǐ bā bā",
+      "meaning": "Alibaba, Chinese e-commerce company",
+      "hsk": null
+    },
+    {
+      "hanzi": "国民",
+      "traditional": "國民",
+      "pinyin": "guó mín",
+      "meaning": "nationals\ncitizens\npeople of a nation",
+      "hsk": null
+    },
+    {
+      "hanzi": "级",
+      "traditional": "級",
+      "pinyin": "jí",
+      "meaning": "level\ngrade\nrank",
+      "hsk": null
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "应用",
+      "traditional": "應用",
+      "pinyin": "yìng yòng",
+      "meaning": "application\napp",
+      "hsk": 5
+    },
+    {
+      "hanzi": "支付宝",
+      "traditional": "支付寶",
+      "pinyin": "zhī fù bǎo",
+      "meaning": "Alipay, online payment platform",
+      "hsk": null
+    },
+    {
+      "hanzi": "推出",
+      "traditional": "推出",
+      "pinyin": "tuī chū",
+      "meaning": "to push out\nto release",
+      "hsk": 4
+    },
+    {
+      "hanzi": "公益",
+      "traditional": "公益",
+      "pinyin": "gōng yì",
+      "meaning": "public good\npublic welfare",
+      "hsk": null
+    },
+    {
+      "hanzi": "项目",
+      "traditional": "項目",
+      "pinyin": "xiàng mù",
+      "meaning": "item\nproject\nevent",
+      "hsk": 5
+    },
+    {
+      "hanzi": "运作",
+      "traditional": "運作",
+      "pinyin": "yùn zuò",
+      "meaning": "to operate\nworkings\nactivities (usu. of an organization)",
+      "hsk": null
+    },
+    {
+      "hanzi": "方式",
+      "traditional": "方式",
+      "pinyin": "fāng shì",
+      "meaning": "way\nmanner\nstyle",
+      "hsk": 5
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用户",
+      "traditional": "用戶",
+      "pinyin": "yòng hù",
+      "meaning": "user\nconsumer\ncustomer",
+      "hsk": 6
+    },
+    {
+      "hanzi": "通过",
+      "traditional": "通過",
+      "pinyin": "tōng guò",
+      "meaning": "through\nvia",
+      "hsk": 4
+    },
+    {
+      "hanzi": "步行",
+      "traditional": "步行",
+      "pinyin": "bù xíng",
+      "meaning": "to go on foot\nto walk",
+      "hsk": null
+    },
+    {
+      "hanzi": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dì tiě",
+      "meaning": "subway\nmetro",
+      "hsk": 3
+    },
+    {
+      "hanzi": "出行",
+      "traditional": "出行",
+      "pinyin": "chū xíng",
+      "meaning": "to set out on a long journey\nto travel afar",
+      "hsk": null
+    },
+    {
+      "hanzi": "在线",
+      "traditional": "在線",
+      "pinyin": "zài xiàn",
+      "meaning": "online",
+      "hsk": null
+    },
+    {
+      "hanzi": "缴纳",
+      "traditional": "繳納",
+      "pinyin": "jiǎo nà",
+      "meaning": "to pay (taxes etc)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "水电",
+      "traditional": "水電",
+      "pinyin": "shuǐ diàn",
+      "meaning": "hydroelectric power\nplumbing and electricity",
+      "hsk": null
+    },
+    {
+      "hanzi": "煤气",
+      "traditional": "煤氣",
+      "pinyin": "méi qì",
+      "meaning": "coal gas\ngas (fuel)",
+      "hsk": null
+    },
+    {
+      "hanzi": "费",
+      "traditional": "費",
+      "pinyin": "fèi",
+      "meaning": "fee\nexpenses",
+      "hsk": 4
+    },
+    {
+      "hanzi": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shang",
+      "meaning": "online",
+      "hsk": null
+    },
+    {
+      "hanzi": "缴",
+      "traditional": "繳",
+      "pinyin": "jiǎo",
+      "meaning": "to hand in\nto hand over\nto seize",
+      "hsk": null
+    },
+    {
+      "hanzi": "交通",
+      "traditional": "交通",
+      "pinyin": "jiāo tōng",
+      "meaning": "traffic\ntransportation\ncommunications",
+      "hsk": 4
+    },
+    {
+      "hanzi": "罚单",
+      "traditional": "罰單",
+      "pinyin": "fá dān",
+      "meaning": "violation ticket\ninfringement notice",
+      "hsk": null
+    },
+    {
+      "hanzi": "网络",
+      "traditional": "網絡",
+      "pinyin": "wǎng luò",
+      "meaning": "internet",
+      "hsk": 5
+    },
+    {
+      "hanzi": "挂号",
+      "traditional": "掛號",
+      "pinyin": "guà hào",
+      "meaning": "to register (at a hospital etc)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "购",
+      "traditional": "購",
+      "pinyin": "gòu",
+      "meaning": "to buy\nto purchase",
+      "hsk": null
+    },
+    {
+      "hanzi": "票",
+      "traditional": "票",
+      "pinyin": "piào",
+      "meaning": "ticket\nballot",
+      "hsk": 2
+    },
+    {
+      "hanzi": "行为",
+      "traditional": "行為",
+      "pinyin": "xíng wéi",
+      "meaning": "action\nconduct\nbehavior",
+      "hsk": 5
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "减少",
+      "traditional": "減少",
+      "pinyin": "jiǎn shǎo",
+      "meaning": "to lessen\nto decrease\nto reduce",
+      "hsk": 4
+    },
+    {
+      "hanzi": "相应",
+      "traditional": "相應",
+      "pinyin": "xiāng yìng",
+      "meaning": "corresponding\nappropriate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "碳",
+      "traditional": "碳",
+      "pinyin": "tàn",
+      "meaning": "carbon (chemistry)",
+      "hsk": null
+    },
+    {
+      "hanzi": "排放",
+      "traditional": "排放",
+      "pinyin": "pái fàng",
+      "meaning": "emission\ndischarge\nexhaust (gas etc)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "量",
+      "traditional": "量",
+      "pinyin": "liàng",
+      "meaning": "quantity\namount",
+      "hsk": 4
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "用来",
+      "traditional": "用來",
+      "pinyin": "yòng lái",
+      "meaning": "to be used for",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "养",
+      "traditional": "養",
+      "pinyin": "yǎng",
+      "meaning": "to raise (animals)\nto bring up (children)\nto keep (pets)",
+      "hsk": null
+    },
+    {
+      "hanzi": "棵",
+      "traditional": "棵",
+      "pinyin": "kē",
+      "meaning": "classifier for trees, cabbages, plants etc",
+      "hsk": 4
+    },
+    {
+      "hanzi": "虚拟",
+      "traditional": "虛擬",
+      "pinyin": "xū nǐ",
+      "meaning": "(computing) to emulate\nvirtual",
+      "hsk": null
+    },
+    {
+      "hanzi": "树",
+      "traditional": "樹",
+      "pinyin": "shù",
+      "meaning": "tree",
+      "hsk": 3
+    },
+    {
+      "hanzi": "长大",
+      "traditional": "長大",
+      "pinyin": "zhǎng dà",
+      "meaning": "to grow up",
+      "hsk": null
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "组织",
+      "traditional": "組織",
+      "pinyin": "zǔ zhī",
+      "meaning": "organization\norganized system",
+      "hsk": 5
+    },
+    {
+      "hanzi": "企业",
+      "traditional": "企業",
+      "pinyin": "qǐ yè",
+      "meaning": "company\nfirm\ncorporation",
+      "hsk": 5
+    },
+    {
+      "hanzi": "蚂蚁",
+      "traditional": "螞蟻",
+      "pinyin": "mǎ yǐ",
+      "meaning": "ant",
+      "hsk": 6
+    },
+    {
+      "hanzi": "伙伴",
+      "traditional": "伙伴",
+      "pinyin": "huǒ bàn",
+      "meaning": "partner\ncompanion",
+      "hsk": 5
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "away (in compound verbs)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "种植",
+      "traditional": "種植",
+      "pinyin": "zhòng zhí",
+      "meaning": "to plant\nto grow",
+      "hsk": 6
+    },
+    {
+      "hanzi": "而",
+      "traditional": "而",
+      "pinyin": "ér",
+      "meaning": "and\nas well as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "某",
+      "traditional": "某",
+      "pinyin": "mǒu",
+      "meaning": "some\na certain",
+      "hsk": 5
+    },
+    {
+      "hanzi": "地域",
+      "traditional": "地域",
+      "pinyin": "dì yù",
+      "meaning": "area\ndistrict",
+      "hsk": null
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "(used after a verb to indicate completion or result of an action)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "实体",
+      "traditional": "實體",
+      "pinyin": "shí tǐ",
+      "meaning": "entity\nthing that has a material existence (as opposed to a conceptual, virtual or online existence)",
+      "hsk": null
+    },
+    {
+      "hanzi": "截至",
+      "traditional": "截至",
+      "pinyin": "jié zhì",
+      "meaning": "up to (a time)\nby (a time)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公布",
+      "traditional": "公佈",
+      "pinyin": "gōng bù",
+      "meaning": "to announce\nto make public\nto publish",
+      "hsk": 5
+    },
+    {
+      "hanzi": "最新",
+      "traditional": "最新",
+      "pinyin": "zuì xīn",
+      "meaning": "latest\nnewest",
+      "hsk": null
+    },
+    {
+      "hanzi": "数据",
+      "traditional": "數據",
+      "pinyin": "shù jù",
+      "meaning": "data\nnumbers",
+      "hsk": 5
+    },
+    {
+      "hanzi": "已",
+      "traditional": "已",
+      "pinyin": "yǐ",
+      "meaning": "already",
+      "hsk": null
+    },
+    {
+      "hanzi": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "hsk": 1
+    },
+    {
+      "hanzi": "成",
+      "traditional": "成",
+      "pinyin": "chéng",
+      "meaning": "one tenth",
+      "hsk": null
+    },
+    {
+      "hanzi": "中国人",
+      "traditional": "中國人",
+      "pinyin": "zhōng guó rén",
+      "meaning": "Chinese person/people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "种树",
+      "traditional": "種樹",
+      "pinyin": "zhòng shù",
+      "meaning": "to plant trees",
+      "hsk": null
+    },
+    {
+      "hanzi": "参与",
+      "traditional": "參與",
+      "pinyin": "cān yù",
+      "meaning": "to participate (in sth)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "者",
+      "traditional": "者",
+      "pinyin": "zhě",
+      "meaning": "(after a verb or adjective) one who (is) ...\n(after a noun) person involved in ...\n-er, -ist",
+      "hsk": null
+    },
+    {
+      "hanzi": "达到",
+      "traditional": "達到",
+      "pinyin": "dá dào",
+      "meaning": "to reach\nto achieve",
+      "hsk": 5
+    },
+    {
+      "hanzi": "亿",
+      "traditional": "億",
+      "pinyin": "yì",
+      "meaning": "100 million",
+      "hsk": 5
+    },
+    {
+      "hanzi": "累积",
+      "traditional": "累積",
+      "pinyin": "lěi jī",
+      "meaning": "to accumulate",
+      "hsk": null
+    },
+    {
+      "hanzi": "减排",
+      "traditional": "減排",
+      "pinyin": "jiǎn pái",
+      "meaning": "to reduce emissions",
+      "hsk": null
+    },
+    {
+      "hanzi": "万",
+      "traditional": "萬",
+      "pinyin": "wàn",
+      "meaning": "ten thousand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吨",
+      "traditional": "噸",
+      "pinyin": "dūn",
+      "meaning": "ton (loanword)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "至今",
+      "traditional": "至今",
+      "pinyin": "zhì jīn",
+      "meaning": "so far\nto this day\nuntil now",
+      "hsk": 5
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "real\ntrue",
+      "hsk": 2
+    },
+    {
+      "hanzi": "达",
+      "traditional": "達",
+      "pinyin": "dá",
+      "meaning": "to attain\nto reach\nto amount to",
+      "hsk": null
+    },
+    {
+      "hanzi": "亩",
+      "traditional": "畝",
+      "pinyin": "mǔ",
+      "meaning": "classifier for fields\nunit of area equal to one fifteenth of a hectare",
+      "hsk": null
+    },
+    {
+      "hanzi": "非",
+      "traditional": "非",
+      "pinyin": "fēi",
+      "meaning": "to not be\nnot",
+      "hsk": 5
+    },
+    {
+      "hanzi": "官方",
+      "traditional": "官方",
+      "pinyin": "guān fāng",
+      "meaning": "government\nofficial (approved or issued by an authority)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "模式",
+      "traditional": "模式",
+      "pinyin": "mó shì",
+      "meaning": "mode\nmethod\npattern",
+      "hsk": 6
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to let sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日常",
+      "traditional": "日常",
+      "pinyin": "rì cháng",
+      "meaning": "daily\neveryday",
+      "hsk": 5
+    },
+    {
+      "hanzi": "生活",
+      "traditional": "生活",
+      "pinyin": "shēng huó",
+      "meaning": "to live\nlife\nlivelihood",
+      "hsk": 4
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "感",
+      "traditional": "感",
+      "pinyin": "gǎn",
+      "meaning": "to feel\nto move\nfeeling",
+      "hsk": null
+    },
+    {
+      "hanzi": "受到",
+      "traditional": "受到",
+      "pinyin": "shòu dào",
+      "meaning": "to receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "庙堂",
+      "traditional": "廟堂",
+      "pinyin": "miào táng",
+      "meaning": "imperial ancestral temple\nimperial court\ntemple",
+      "hsk": null
+    },
+    {
+      "hanzi": "之上",
+      "traditional": "之上",
+      "pinyin": "zhī shàng",
+      "meaning": "above\non\nover",
+      "hsk": null
+    },
+    {
+      "hanzi": "政策",
+      "traditional": "政策",
+      "pinyin": "zhèng cè",
+      "meaning": "policy",
+      "hsk": 6
+    },
+    {
+      "hanzi": "降低",
+      "traditional": "降低",
+      "pinyin": "jiàng dī",
+      "meaning": "to reduce\nto lower\nto bring down",
+      "hsk": 4
+    },
+    {
+      "hanzi": "门槛",
+      "traditional": "門檻",
+      "pinyin": "mén kǎn",
+      "meaning": "threshold",
+      "hsk": null
+    },
+    {
+      "hanzi": "成本",
+      "traditional": "成本",
+      "pinyin": "chéng běn",
+      "meaning": "(manufacturing, production etc) costs",
+      "hsk": 6
+    },
+    {
+      "hanzi": "网友",
+      "traditional": "網友",
+      "pinyin": "wǎng yǒu",
+      "meaning": "online friend\ninternet user\nnetizen",
+      "hsk": null
+    },
+    {
+      "hanzi": "见到",
+      "traditional": "見到",
+      "pinyin": "jiàn dào",
+      "meaning": "to see\nto notice",
+      "hsk": null
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "积累",
+      "traditional": "積累",
+      "pinyin": "jī lěi",
+      "meaning": "to accumulate\naccumulation\ncumulative",
+      "hsk": 4
+    },
+    {
+      "hanzi": "真实",
+      "traditional": "真實",
+      "pinyin": "zhēn shí",
+      "meaning": "true\nreal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所",
+      "traditional": "所",
+      "pinyin": "suǒ",
+      "meaning": "all",
+      "hsk": 5
+    },
+    {
+      "hanzi": "获得",
+      "traditional": "獲得",
+      "pinyin": "huò dé",
+      "meaning": "to obtain\nto receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "成就",
+      "traditional": "成就",
+      "pinyin": "chéng jiù",
+      "meaning": "accomplishment\nsuccess\nachievement",
+      "hsk": 5
+    },
+    {
+      "hanzi": "并不",
+      "traditional": "並不",
+      "pinyin": "bìng bù",
+      "meaning": "not at all\nemphatically not",
+      "hsk": null
+    },
+    {
+      "hanzi": "亚",
+      "traditional": "亞",
+      "pinyin": "yà",
+      "meaning": "second\ninferior\nsub-",
+      "hsk": null
+    },
+    {
+      "hanzi": "于",
+      "traditional": "於",
+      "pinyin": "yú",
+      "meaning": "at\non\nto",
+      "hsk": null
+    },
+    {
+      "hanzi": "亲自",
+      "traditional": "親自",
+      "pinyin": "qīn zì",
+      "meaning": "personally\nin person",
+      "hsk": 5
+    },
+    {
+      "hanzi": "奔波",
+      "traditional": "奔波",
+      "pinyin": "bēn bō",
+      "meaning": "to rush about\nto be constantly on the move",
+      "hsk": 6
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "千",
+      "traditional": "千",
+      "pinyin": "qiān",
+      "meaning": "thousand",
+      "hsk": 2
+    },
+    {
+      "hanzi": "亲手",
+      "traditional": "親手",
+      "pinyin": "qīn shǒu",
+      "meaning": "personally\nwith one's own hands",
+      "hsk": null
+    },
+    {
+      "hanzi": "栽",
+      "traditional": "栽",
+      "pinyin": "zāi",
+      "meaning": "to grow\nto plant\nto force on sb",
+      "hsk": null
+    },
+    {
+      "hanzi": "背后",
+      "traditional": "背後",
+      "pinyin": "bèi hòu",
+      "meaning": "behind\nat the back",
+      "hsk": 5
+    },
+    {
+      "hanzi": "逻辑",
+      "traditional": "邏輯",
+      "pinyin": "luó ji",
+      "meaning": "logic (loanword)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "传统",
+      "traditional": "傳統",
+      "pinyin": "chuán tǒng",
+      "meaning": "tradition\ntraditional",
+      "hsk": 5
+    },
+    {
+      "hanzi": "文化",
+      "traditional": "文化",
+      "pinyin": "wén huà",
+      "meaning": "culture\ncivilization\ncultural",
+      "hsk": 3
+    },
+    {
+      "hanzi": "日行一善",
+      "traditional": "日行一善",
+      "pinyin": "rì xíng yí shàn",
+      "meaning": "to do a good deed every day",
+      "hsk": null
+    },
+    {
+      "hanzi": "不谋而合",
+      "traditional": "不謀而合",
+      "pinyin": "bù móu ér hé",
+      "meaning": "to agree without prior consultation\nto happen to hold the same view",
+      "hsk": null
+    },
+    {
+      "hanzi": "也许",
+      "traditional": "也許",
+      "pinyin": "yě xǔ",
+      "meaning": "perhaps\nmaybe",
+      "hsk": 4
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "众多",
+      "traditional": "眾多",
+      "pinyin": "zhòng duō",
+      "meaning": "numerous",
+      "hsk": null
+    },
+    {
+      "hanzi": "最终",
+      "traditional": "最終",
+      "pinyin": "zuì zhōng",
+      "meaning": "final\nultimate",
+      "hsk": null
+    },
+    {
+      "hanzi": "造就",
+      "traditional": "造就",
+      "pinyin": "zào jiù",
+      "meaning": "to bring up\nto train\nto contribute to",
+      "hsk": null
+    },
+    {
+      "hanzi": "片",
+      "traditional": "片",
+      "pinyin": "piàn",
+      "meaning": "classifier for slices, tablets, tract of land, area of water",
+      "hsk": 5
+    },
+    {
+      "hanzi": "绿洲",
+      "traditional": "綠洲",
+      "pinyin": "lǜ zhōu",
+      "meaning": "oasis",
+      "hsk": null
+    },
+    {
+      "hanzi": "件",
+      "traditional": "件",
+      "pinyin": "jiàn",
+      "meaning": "classifier for events, things, clothes etc",
+      "hsk": 2
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "同样",
+      "traditional": "同樣",
+      "pinyin": "tóng yàng",
+      "meaning": "same\nequal\nequivalent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "积",
+      "traditional": "積",
+      "pinyin": "jī",
+      "meaning": "to amass\nto accumulate\nto store",
+      "hsk": null
+    },
+    {
+      "hanzi": "跬",
+      "traditional": "跬",
+      "pinyin": "kuǐ",
+      "meaning": "brief\nshort step",
+      "hsk": null
+    },
+    {
+      "hanzi": "步",
+      "traditional": "步",
+      "pinyin": "bù",
+      "meaning": "a step\na pace",
+      "hsk": null
+    },
+    {
+      "hanzi": "以致",
+      "traditional": "以致",
+      "pinyin": "yǐ zhì",
+      "meaning": "to such an extent as to\ndown to\nup to",
+      "hsk": 6
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "蚂蚁森林",
+        "pinyin": "mǎ yǐ sēn lín",
+        "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+        "tc_hanzi": "螞蟻森林"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "环保",
+        "pinyin": "huán bǎo",
+        "meaning": "environmental protection\nenvironmentally friendly",
+        "tc_hanzi": "環保"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "话题",
+        "pinyin": "huà tí",
+        "meaning": "subject (of a talk or conversation)\ntopic",
+        "tc_hanzi": "話題"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hanzi": "谈论",
+        "pinyin": "tán lùn",
+        "meaning": "to discuss\nto talk about",
+        "tc_hanzi": "談論"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "似乎",
+        "pinyin": "sì hū",
+        "meaning": "apparently\nto seem\nto appear",
+        "tc_hanzi": "似乎"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变成",
+        "pinyin": "biàn chéng",
+        "meaning": "to change into\nto turn into",
+        "tc_hanzi": "變成"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "明日黄花",
+        "pinyin": "míng rì huáng huā",
+        "meaning": "lit. chrysanthemums after the Double Ninth Festival (idiom)\nfig. outdated\nthing of the past",
+        "tc_hanzi": "明日黃花"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "然而",
+        "pinyin": "rán ér",
+        "meaning": "however\nyet\nbut",
+        "tc_hanzi": "然而"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "事实",
+        "pinyin": "shì shí",
+        "meaning": "fact\nreality",
+        "tc_hanzi": "事實"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "老生常谈",
+        "pinyin": "lǎo shēng cháng tán",
+        "meaning": "an old observation (idiom)\na truism\nbanal comments",
+        "tc_hanzi": "老生常談"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "话题",
+        "pinyin": "huà tí",
+        "meaning": "subject (of a talk or conversation)\ntopic",
+        "tc_hanzi": "話題"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "依然",
+        "pinyin": "yī rán",
+        "meaning": "still\nas before",
+        "tc_hanzi": "依然"
+      },
+      {
+        "hanzi": "具有",
+        "pinyin": "jù yǒu",
+        "meaning": "to have\nto possess",
+        "tc_hanzi": "具有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "现实",
+        "pinyin": "xiàn shí",
+        "meaning": "reality\nactuality\nreal",
+        "tc_hanzi": "現實"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "意义",
+        "pinyin": "yì yì",
+        "meaning": "sense\nmeaning\nsignificance",
+        "tc_hanzi": "意義"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "据",
+        "pinyin": "jù",
+        "meaning": "according to",
+        "tc_hanzi": "據"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "相关",
+        "pinyin": "xiāng guān",
+        "meaning": "related\nrelevant",
+        "tc_hanzi": "相關"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "统计",
+        "pinyin": "tǒng jì",
+        "meaning": "statistics",
+        "tc_hanzi": "統計"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "测算",
+        "pinyin": "cè suàn",
+        "meaning": "to take measurements and calculate",
+        "tc_hanzi": "測算"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "表明",
+        "pinyin": "biǎo míng",
+        "meaning": "to make clear\nto state clearly\nto indicate",
+        "tc_hanzi": "表明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "仅",
+        "pinyin": "jǐn",
+        "meaning": "barely\nonly\nmerely",
+        "tc_hanzi": "僅"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "森林",
+        "pinyin": "sēn lín",
+        "meaning": "forest",
+        "tc_hanzi": "森林"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面积",
+        "pinyin": "miàn jī",
+        "meaning": "area (of a floor, piece of land etc)\nsurface area",
+        "tc_hanzi": "面積"
+      },
+      {
+        "hanzi": "来说",
+        "pinyin": "lái shuō",
+        "meaning": "as for\n(对 ... 来说 / 對 ... 來說)",
+        "tc_hanzi": "來說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "2010",
+        "pinyin": "4",
+        "tc_hanzi": "2010"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "以来",
+        "pinyin": "yǐ lái",
+        "meaning": "since (a previous event)",
+        "tc_hanzi": "以來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "全球",
+        "pinyin": "quán qiú",
+        "meaning": "global\nworldwide",
+        "tc_hanzi": "全球"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "森林",
+        "pinyin": "sēn lín",
+        "meaning": "forest",
+        "tc_hanzi": "森林"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "资源",
+        "pinyin": "zī yuán",
+        "meaning": "natural resource (such as water or minerals)\nresource (such as manpower or tourism)",
+        "tc_hanzi": "資源"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "total\noverall",
+        "tc_hanzi": "總"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面积",
+        "pinyin": "miàn jī",
+        "meaning": "area (of a floor, piece of land etc)\nsurface area",
+        "tc_hanzi": "面積"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "呈现",
+        "pinyin": "chéng xiàn",
+        "meaning": "to appear\nto present\nto demonstrate",
+        "tc_hanzi": "呈現"
+      },
+      {
+        "hanzi": "线性",
+        "pinyin": "xiàn xìng",
+        "meaning": "linear\nlinearity",
+        "tc_hanzi": "線性"
+      },
+      {
+        "hanzi": "下滑",
+        "pinyin": "xià huá",
+        "meaning": "sliding\nslide",
+        "tc_hanzi": "下滑"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "趋势",
+        "pinyin": "qū shì",
+        "meaning": "trend\ntendency",
+        "tc_hanzi": "趨勢"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "预计",
+        "pinyin": "yù jì",
+        "meaning": "to forecast\nto predict\nto estimate",
+        "tc_hanzi": "預計"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "今",
+        "pinyin": "jīn",
+        "meaning": "today\npresent\nnow",
+        "tc_hanzi": "今"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "until (a time)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "2025",
+        "pinyin": "4",
+        "tc_hanzi": "2025"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "数值",
+        "pinyin": "shù zhí",
+        "meaning": "numerical value",
+        "tc_hanzi": "數值"
+      },
+      {
+        "hanzi": "将",
+        "pinyin": "jiāng",
+        "meaning": "will\nshall",
+        "tc_hanzi": "將"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "继续",
+        "pinyin": "jì xù",
+        "meaning": "to continue\nto proceed with\nto go on with",
+        "tc_hanzi": "繼續"
+      },
+      {
+        "hanzi": "下降",
+        "pinyin": "xià jiàng",
+        "meaning": "to decline\nto drop\nto fall",
+        "tc_hanzi": "下降"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "千万",
+        "pinyin": "qiān wàn",
+        "meaning": "ten million\ncountless",
+        "tc_hanzi": "千萬"
+      },
+      {
+        "hanzi": "公顷",
+        "pinyin": "gōng qǐng",
+        "meaning": "hectare",
+        "tc_hanzi": "公頃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面对",
+        "pinyin": "miàn duì",
+        "meaning": "to confront\nto face",
+        "tc_hanzi": "面對"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一直",
+        "pinyin": "yì zhí",
+        "meaning": "continuously\nall along",
+        "tc_hanzi": "一直"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "重视",
+        "pinyin": "zhòng shì",
+        "meaning": "to attach importance to sth\nto value",
+        "tc_hanzi": "重視"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "却",
+        "pinyin": "què",
+        "meaning": "but\nyet\nhowever",
+        "tc_hanzi": "卻"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一直",
+        "pinyin": "yì zhí",
+        "meaning": "continuously\nall along",
+        "tc_hanzi": "一直"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "meaning": "to become\nto change",
+        "tc_hanzi": "變"
+      },
+      {
+        "hanzi": "糟",
+        "pinyin": "zāo",
+        "meaning": "in a wretched (or terrible) state\nin a mess",
+        "tc_hanzi": "糟"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "现实",
+        "pinyin": "xiàn shí",
+        "meaning": "reality\nactuality\nreal",
+        "tc_hanzi": "現實"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "依旧",
+        "pinyin": "yī jiù",
+        "meaning": "as before\nstill",
+        "tc_hanzi": "依舊"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hanzi": "探寻",
+        "pinyin": "tàn xún",
+        "meaning": "to search\nto seek\nto explore",
+        "tc_hanzi": "探尋"
+      },
+      {
+        "hanzi": "具有",
+        "pinyin": "jù yǒu",
+        "meaning": "to have\nto possess",
+        "tc_hanzi": "具有"
+      },
+      {
+        "hanzi": "可行性",
+        "pinyin": "kě xíng xìng",
+        "meaning": "feasibility",
+        "tc_hanzi": "可行性"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "解决",
+        "pinyin": "jiě jué",
+        "meaning": "to settle (a dispute)\nto resolve\nto solve",
+        "tc_hanzi": "解決"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之",
+        "pinyin": "zhī",
+        "meaning": "(possessive particle, literary equivalent of 的)",
+        "tc_hanzi": "之"
+      },
+      {
+        "hanzi": "道",
+        "pinyin": "dào",
+        "meaning": "way\nroad\npath",
+        "tc_hanzi": "道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "蚂蚁森林",
+        "pinyin": "mǎ yǐ sēn lín",
+        "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+        "tc_hanzi": "螞蟻森林"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出现",
+        "pinyin": "chū xiàn",
+        "meaning": "to appear\nto emerge",
+        "tc_hanzi": "出現"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "困局",
+        "pinyin": "kùn jú",
+        "meaning": "dilemma\npredicament\ndifficult situation",
+        "tc_hanzi": "困局"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "提出",
+        "pinyin": "tí chū",
+        "meaning": "to propose\nto suggest",
+        "tc_hanzi": "提出"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "套",
+        "pinyin": "tào",
+        "meaning": "classifier for sets, collections, apartments",
+        "tc_hanzi": "套"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "参考",
+        "pinyin": "cān kǎo",
+        "meaning": "consultation\nreference\nto refer",
+        "tc_hanzi": "參考"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "价值",
+        "pinyin": "jià zhí",
+        "meaning": "value\nworth",
+        "tc_hanzi": "價值"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方案",
+        "pinyin": "fāng àn",
+        "meaning": "plan\nproposal",
+        "tc_hanzi": "方案"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "政府",
+        "pinyin": "zhèng fǔ",
+        "meaning": "government",
+        "tc_hanzi": "政府"
+      },
+      {
+        "hanzi": "大力",
+        "pinyin": "dà lì",
+        "meaning": "energetically\nvigorously",
+        "tc_hanzi": "大力"
+      },
+      {
+        "hanzi": "推行",
+        "pinyin": "tuī xíng",
+        "meaning": "to put into effect\nto carry out",
+        "tc_hanzi": "推行"
+      },
+      {
+        "hanzi": "封山育林",
+        "pinyin": "fēng shān yù lín",
+        "meaning": "to close off hillsides to facilitate afforestation",
+        "tc_hanzi": "封山育林"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "退耕还林",
+        "pinyin": "tuì gēng huán lín",
+        "meaning": "restoring agricultural land to forest",
+        "tc_hanzi": "退耕還林"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "生态",
+        "pinyin": "shēng tài",
+        "meaning": "ecology",
+        "tc_hanzi": "生態"
+      },
+      {
+        "hanzi": "工程",
+        "pinyin": "gōng chéng",
+        "meaning": "engineering\nan engineering project\nundertaking",
+        "tc_hanzi": "工程"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "同时",
+        "pinyin": "tóng shí",
+        "meaning": "at the same time\nsimultaneously",
+        "tc_hanzi": "同時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "2016",
+        "pinyin": "4",
+        "tc_hanzi": "2016"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "阿里巴巴",
+        "pinyin": "ā lǐ bā bā",
+        "meaning": "Alibaba, Chinese e-commerce company",
+        "tc_hanzi": "阿里巴巴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "国民",
+        "pinyin": "guó mín",
+        "meaning": "nationals\ncitizens\npeople of a nation",
+        "tc_hanzi": "國民"
+      },
+      {
+        "hanzi": "级",
+        "pinyin": "jí",
+        "meaning": "level\ngrade\nrank",
+        "tc_hanzi": "級"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "应用",
+        "pinyin": "yìng yòng",
+        "meaning": "application\napp",
+        "tc_hanzi": "應用"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "推出",
+        "pinyin": "tuī chū",
+        "meaning": "to push out\nto release",
+        "tc_hanzi": "推出"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "蚂蚁森林",
+        "pinyin": "mǎ yǐ sēn lín",
+        "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+        "tc_hanzi": "螞蟻森林"
+      },
+      {
+        "hanzi": "公益",
+        "pinyin": "gōng yì",
+        "meaning": "public good\npublic welfare",
+        "tc_hanzi": "公益"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "项目",
+        "pinyin": "xiàng mù",
+        "meaning": "item\nproject\nevent",
+        "tc_hanzi": "項目"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "项目",
+        "pinyin": "xiàng mù",
+        "meaning": "item\nproject\nevent",
+        "tc_hanzi": "項目"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "运作",
+        "pinyin": "yùn zuò",
+        "meaning": "to operate\nworkings\nactivities (usu. of an organization)",
+        "tc_hanzi": "運作"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方式",
+        "pinyin": "fāng shì",
+        "meaning": "way\nmanner\nstyle",
+        "tc_hanzi": "方式"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "通过",
+        "pinyin": "tōng guò",
+        "meaning": "through\nvia",
+        "tc_hanzi": "通過"
+      },
+      {
+        "hanzi": "步行",
+        "pinyin": "bù xíng",
+        "meaning": "to go on foot\nto walk",
+        "tc_hanzi": "步行"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "地铁",
+        "pinyin": "dì tiě",
+        "meaning": "subway\nmetro",
+        "tc_hanzi": "地鐵"
+      },
+      {
+        "hanzi": "出行",
+        "pinyin": "chū xíng",
+        "meaning": "to set out on a long journey\nto travel afar",
+        "tc_hanzi": "出行"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "在线",
+        "pinyin": "zài xiàn",
+        "meaning": "online",
+        "tc_hanzi": "在線"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "缴纳",
+        "pinyin": "jiǎo nà",
+        "meaning": "to pay (taxes etc)",
+        "tc_hanzi": "繳納"
+      },
+      {
+        "hanzi": "水电",
+        "pinyin": "shuǐ diàn",
+        "meaning": "hydroelectric power\nplumbing and electricity",
+        "tc_hanzi": "水電"
+      },
+      {
+        "hanzi": "煤气",
+        "pinyin": "méi qì",
+        "meaning": "coal gas\ngas (fuel)",
+        "tc_hanzi": "煤氣"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "费",
+        "pinyin": "fèi",
+        "meaning": "fee\nexpenses",
+        "tc_hanzi": "費"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hanzi": "缴",
+        "pinyin": "jiǎo",
+        "meaning": "to hand in\nto hand over\nto seize",
+        "tc_hanzi": "繳"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "交通",
+        "pinyin": "jiāo tōng",
+        "meaning": "traffic\ntransportation\ncommunications",
+        "tc_hanzi": "交通"
+      },
+      {
+        "hanzi": "罚单",
+        "pinyin": "fá dān",
+        "meaning": "violation ticket\ninfringement notice",
+        "tc_hanzi": "罰單"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "网络",
+        "pinyin": "wǎng luò",
+        "meaning": "internet",
+        "tc_hanzi": "網絡"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "挂号",
+        "pinyin": "guà hào",
+        "meaning": "to register (at a hospital etc)",
+        "tc_hanzi": "掛號"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "网络",
+        "pinyin": "wǎng luò",
+        "meaning": "internet",
+        "tc_hanzi": "網絡"
+      },
+      {
+        "hanzi": "购",
+        "pinyin": "gòu",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "購"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "行为",
+        "pinyin": "xíng wéi",
+        "meaning": "action\nconduct\nbehavior",
+        "tc_hanzi": "行為"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "减少",
+        "pinyin": "jiǎn shǎo",
+        "meaning": "to lessen\nto decrease\nto reduce",
+        "tc_hanzi": "減少"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "相应",
+        "pinyin": "xiāng yìng",
+        "meaning": "corresponding\nappropriate",
+        "tc_hanzi": "相應"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "碳",
+        "pinyin": "tàn",
+        "meaning": "carbon (chemistry)",
+        "tc_hanzi": "碳"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "排放",
+        "pinyin": "pái fàng",
+        "meaning": "emission\ndischarge\nexhaust (gas etc)",
+        "tc_hanzi": "排放"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "量",
+        "pinyin": "liàng",
+        "meaning": "quantity\namount",
+        "tc_hanzi": "量"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "用来",
+        "pinyin": "yòng lái",
+        "meaning": "to be used for",
+        "tc_hanzi": "用來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "养",
+        "pinyin": "yǎng",
+        "meaning": "to raise (animals)\nto bring up (children)\nto keep (pets)",
+        "tc_hanzi": "養"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hanzi": "虚拟",
+        "pinyin": "xū nǐ",
+        "meaning": "(computing) to emulate\nvirtual",
+        "tc_hanzi": "虛擬"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "长大",
+        "pinyin": "zhǎng dà",
+        "meaning": "to grow up",
+        "tc_hanzi": "長大"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "公益",
+        "pinyin": "gōng yì",
+        "meaning": "public good\npublic welfare",
+        "tc_hanzi": "公益"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "组织",
+        "pinyin": "zǔ zhī",
+        "meaning": "organization\norganized system",
+        "tc_hanzi": "組織"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "环保",
+        "pinyin": "huán bǎo",
+        "meaning": "environmental protection\nenvironmentally friendly",
+        "tc_hanzi": "環保"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "企业",
+        "pinyin": "qǐ yè",
+        "meaning": "company\nfirm\ncorporation",
+        "tc_hanzi": "企業"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ",
+        "meaning": "ant",
+        "tc_hanzi": "螞蟻"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "生态",
+        "pinyin": "shēng tài",
+        "meaning": "ecology",
+        "tc_hanzi": "生態"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "伙伴",
+        "pinyin": "huǒ bàn",
+        "meaning": "partner\ncompanion",
+        "tc_hanzi": "伙伴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "away (in compound verbs)",
+        "tc_hanzi": "走"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "用户",
+        "pinyin": "yòng hù",
+        "meaning": "user\nconsumer\ncustomer",
+        "tc_hanzi": "用戶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "蚂蚁森林",
+        "pinyin": "mǎ yǐ sēn lín",
+        "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+        "tc_hanzi": "螞蟻森林"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "种植",
+        "pinyin": "zhòng zhí",
+        "meaning": "to plant\nto grow",
+        "tc_hanzi": "種植"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "虚拟",
+        "pinyin": "xū nǐ",
+        "meaning": "(computing) to emulate\nvirtual",
+        "tc_hanzi": "虛擬"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "现实",
+        "pinyin": "xiàn shí",
+        "meaning": "reality\nactuality\nreal",
+        "tc_hanzi": "現實"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "某",
+        "pinyin": "mǒu",
+        "meaning": "some\na certain",
+        "tc_hanzi": "某"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "地域",
+        "pinyin": "dì yù",
+        "meaning": "area\ndistrict",
+        "tc_hanzi": "地域"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhòng",
+        "meaning": "to plant\nto grow\nto cultivate",
+        "tc_hanzi": "種"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "(used after a verb to indicate completion or result of an action)",
+        "tc_hanzi": "下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hanzi": "实体",
+        "pinyin": "shí tǐ",
+        "meaning": "entity\nthing that has a material existence (as opposed to a conceptual, virtual or online existence)",
+        "tc_hanzi": "實體"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "截至",
+        "pinyin": "jié zhì",
+        "meaning": "up to (a time)\nby (a time)",
+        "tc_hanzi": "截至"
+      },
+      {
+        "hanzi": "2020",
+        "pinyin": "4",
+        "tc_hanzi": "2020"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "公布",
+        "pinyin": "gōng bù",
+        "meaning": "to announce\nto make public\nto publish",
+        "tc_hanzi": "公佈"
+      },
+      {
+        "hanzi": "蚂蚁森林",
+        "pinyin": "mǎ yǐ sēn lín",
+        "meaning": "Ant Forest, a project by Ant Group to promote a low-carbon lifestyle",
+        "tc_hanzi": "螞蟻森林"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "最新",
+        "pinyin": "zuì xīn",
+        "meaning": "latest\nnewest",
+        "tc_hanzi": "最新"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数据",
+        "pinyin": "shù jù",
+        "meaning": "data\nnumbers",
+        "tc_hanzi": "數據"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "meaning": "already",
+        "tc_hanzi": "已"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "四",
+        "pinyin": "sì",
+        "meaning": "four",
+        "tc_hanzi": "四"
+      },
+      {
+        "hanzi": "成",
+        "pinyin": "chéng",
+        "meaning": "one tenth",
+        "tc_hanzi": "成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国人",
+        "pinyin": "zhōng guó rén",
+        "meaning": "Chinese person/people",
+        "tc_hanzi": "中國人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "种树",
+        "pinyin": "zhòng shù",
+        "meaning": "to plant trees",
+        "tc_hanzi": "種樹"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "参与",
+        "pinyin": "cān yù",
+        "meaning": "to participate (in sth)",
+        "tc_hanzi": "參與"
+      },
+      {
+        "hanzi": "者",
+        "pinyin": "zhě",
+        "meaning": "(after a verb or adjective) one who (is) ...\n(after a noun) person involved in ...\n-er, -ist",
+        "tc_hanzi": "者"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "达到",
+        "pinyin": "dá dào",
+        "meaning": "to reach\nto achieve",
+        "tc_hanzi": "達到"
+      },
+      {
+        "hanzi": "5.5",
+        "pinyin": "3",
+        "tc_hanzi": "5.5"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "亿",
+        "pinyin": "yì",
+        "meaning": "100 million",
+        "tc_hanzi": "億"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "累积",
+        "pinyin": "lěi jī",
+        "meaning": "to accumulate",
+        "tc_hanzi": "累積"
+      },
+      {
+        "hanzi": "碳",
+        "pinyin": "tàn",
+        "meaning": "carbon (chemistry)",
+        "tc_hanzi": "碳"
+      },
+      {
+        "hanzi": "减排",
+        "pinyin": "jiǎn pái",
+        "meaning": "to reduce emissions",
+        "tc_hanzi": "減排"
+      },
+      {
+        "hanzi": "1100",
+        "pinyin": "4",
+        "tc_hanzi": "1100"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吨",
+        "pinyin": "dūn",
+        "meaning": "ton (loanword)",
+        "tc_hanzi": "噸"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "至今",
+        "pinyin": "zhì jīn",
+        "meaning": "so far\nto this day\nuntil now",
+        "tc_hanzi": "至今"
+      },
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "meaning": "already",
+        "tc_hanzi": "已"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhòng",
+        "meaning": "to plant\nto grow\nto cultivate",
+        "tc_hanzi": "種"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "(used after a verb to indicate completion or result of an action)",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "1.22",
+        "pinyin": "4",
+        "tc_hanzi": "1.22"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "亿",
+        "pinyin": "yì",
+        "meaning": "100 million",
+        "tc_hanzi": "億"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "real\ntrue",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "种植",
+        "pinyin": "zhòng zhí",
+        "meaning": "to plant\nto grow",
+        "tc_hanzi": "種植"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面积",
+        "pinyin": "miàn jī",
+        "meaning": "area (of a floor, piece of land etc)\nsurface area",
+        "tc_hanzi": "面積"
+      },
+      {
+        "hanzi": "达",
+        "pinyin": "dá",
+        "meaning": "to attain\nto reach\nto amount to",
+        "tc_hanzi": "達"
+      },
+      {
+        "hanzi": "168",
+        "pinyin": "5",
+        "tc_hanzi": "168"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "hanzi": "亩",
+        "pinyin": "mǔ",
+        "meaning": "classifier for fields\nunit of area equal to one fifteenth of a hectare",
+        "tc_hanzi": "畝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "非",
+        "pinyin": "fēi",
+        "meaning": "to not be\nnot",
+        "tc_hanzi": "非"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "官方",
+        "pinyin": "guān fāng",
+        "meaning": "government\nofficial (approved or issued by an authority)",
+        "tc_hanzi": "官方"
+      },
+      {
+        "hanzi": "运作",
+        "pinyin": "yùn zuò",
+        "meaning": "to operate\nworkings\nactivities (usu. of an organization)",
+        "tc_hanzi": "運作"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "模式",
+        "pinyin": "mó shì",
+        "meaning": "mode\nmethod\npattern",
+        "tc_hanzi": "模式"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to let sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "日常",
+        "pinyin": "rì cháng",
+        "meaning": "daily\neveryday",
+        "tc_hanzi": "日常"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "生活",
+        "pinyin": "shēng huó",
+        "meaning": "to live\nlife\nlivelihood",
+        "tc_hanzi": "生活"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "感",
+        "pinyin": "gǎn",
+        "meaning": "to feel\nto move\nfeeling",
+        "tc_hanzi": "感"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "受到",
+        "pinyin": "shòu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "受到"
+      },
+      {
+        "hanzi": "退耕还林",
+        "pinyin": "tuì gēng huán lín",
+        "meaning": "restoring agricultural land to forest",
+        "tc_hanzi": "退耕還林"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hanzi": "庙堂",
+        "pinyin": "miào táng",
+        "meaning": "imperial ancestral temple\nimperial court\ntemple",
+        "tc_hanzi": "廟堂"
+      },
+      {
+        "hanzi": "之上",
+        "pinyin": "zhī shàng",
+        "meaning": "above\non\nover",
+        "tc_hanzi": "之上"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "政策",
+        "pinyin": "zhèng cè",
+        "meaning": "policy",
+        "tc_hanzi": "政策"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "降低",
+        "pinyin": "jiàng dī",
+        "meaning": "to reduce\nto lower\nto bring down",
+        "tc_hanzi": "降低"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "环保",
+        "pinyin": "huán bǎo",
+        "meaning": "environmental protection\nenvironmentally friendly",
+        "tc_hanzi": "環保"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "门槛",
+        "pinyin": "mén kǎn",
+        "meaning": "threshold",
+        "tc_hanzi": "門檻"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "成本",
+        "pinyin": "chéng běn",
+        "meaning": "(manufacturing, production etc) costs",
+        "tc_hanzi": "成本"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网友",
+        "pinyin": "wǎng yǒu",
+        "meaning": "online friend\ninternet user\nnetizen",
+        "tc_hanzi": "網友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "见到",
+        "pinyin": "jiàn dào",
+        "meaning": "to see\nto notice",
+        "tc_hanzi": "見到"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "积累",
+        "pinyin": "jī lěi",
+        "meaning": "to accumulate\naccumulation\ncumulative",
+        "tc_hanzi": "積累"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "碳",
+        "pinyin": "tàn",
+        "meaning": "carbon (chemistry)",
+        "tc_hanzi": "碳"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "排放",
+        "pinyin": "pái fàng",
+        "meaning": "emission\ndischarge\nexhaust (gas etc)",
+        "tc_hanzi": "排放"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "量",
+        "pinyin": "liàng",
+        "meaning": "quantity\namount",
+        "tc_hanzi": "量"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变成",
+        "pinyin": "biàn chéng",
+        "meaning": "to change into\nto turn into",
+        "tc_hanzi": "變成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "真实",
+        "pinyin": "zhēn shí",
+        "meaning": "true\nreal",
+        "tc_hanzi": "真實"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "所",
+        "pinyin": "suǒ",
+        "meaning": "all",
+        "tc_hanzi": "所"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "获得",
+        "pinyin": "huò dé",
+        "meaning": "to obtain\nto receive",
+        "tc_hanzi": "獲得"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "成就",
+        "pinyin": "chéng jiù",
+        "meaning": "accomplishment\nsuccess\nachievement",
+        "tc_hanzi": "成就"
+      },
+      {
+        "hanzi": "感",
+        "pinyin": "gǎn",
+        "meaning": "feeling\nemotion\n(suffix) sense of ~",
+        "tc_hanzi": "感"
+      },
+      {
+        "hanzi": "并不",
+        "pinyin": "bìng bù",
+        "meaning": "not at all\nemphatically not",
+        "tc_hanzi": "並不"
+      },
+      {
+        "hanzi": "亚",
+        "pinyin": "yà",
+        "meaning": "second\ninferior\nsub-",
+        "tc_hanzi": "亞"
+      },
+      {
+        "hanzi": "于",
+        "pinyin": "yú",
+        "meaning": "at\non\nto",
+        "tc_hanzi": "於"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "亲自",
+        "pinyin": "qīn zì",
+        "meaning": "personally\nin person",
+        "tc_hanzi": "親自"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "奔波",
+        "pinyin": "bēn bō",
+        "meaning": "to rush about\nto be constantly on the move",
+        "tc_hanzi": "奔波"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "千",
+        "pinyin": "qiān",
+        "meaning": "thousand",
+        "tc_hanzi": "千"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "li, ancient measure of length, approx. 500 m",
+        "tc_hanzi": "里"
+      },
+      {
+        "hanzi": "亲手",
+        "pinyin": "qīn shǒu",
+        "meaning": "personally\nwith one's own hands",
+        "tc_hanzi": "親手"
+      },
+      {
+        "hanzi": "栽",
+        "pinyin": "zāi",
+        "meaning": "to grow\nto plant\nto force on sb",
+        "tc_hanzi": "栽"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "(used after a verb to indicate completion or result of an action)",
+        "tc_hanzi": "下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "棵",
+        "pinyin": "kē",
+        "meaning": "classifier for trees, cabbages, plants etc",
+        "tc_hanzi": "棵"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "树",
+        "pinyin": "shù",
+        "meaning": "tree",
+        "tc_hanzi": "樹"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "(indicates causal relation)\n(indicates change of state)",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "项目",
+        "pinyin": "xiàng mù",
+        "meaning": "item\nproject\nevent",
+        "tc_hanzi": "項目"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "背后",
+        "pinyin": "bèi hòu",
+        "meaning": "behind\nat the back",
+        "tc_hanzi": "背後"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "逻辑",
+        "pinyin": "luó ji",
+        "meaning": "logic (loanword)",
+        "tc_hanzi": "邏輯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "传统",
+        "pinyin": "chuán tǒng",
+        "meaning": "tradition\ntraditional",
+        "tc_hanzi": "傳統"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "文化",
+        "pinyin": "wén huà",
+        "meaning": "culture\ncivilization\ncultural",
+        "tc_hanzi": "文化"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "日行一善",
+        "pinyin": "rì xíng yí shàn",
+        "meaning": "to do a good deed every day",
+        "tc_hanzi": "日行一善"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "不谋而合",
+        "pinyin": "bù móu ér hé",
+        "meaning": "to agree without prior consultation\nto happen to hold the same view",
+        "tc_hanzi": "不謀而合"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ",
+        "meaning": "ant",
+        "tc_hanzi": "螞蟻"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "也许",
+        "pinyin": "yě xǔ",
+        "meaning": "perhaps\nmaybe",
+        "tc_hanzi": "也許"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "hanzi": "众多",
+        "pinyin": "zhòng duō",
+        "meaning": "numerous",
+        "tc_hanzi": "眾多"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ",
+        "meaning": "ant",
+        "tc_hanzi": "螞蟻"
+      },
+      {
+        "hanzi": "最终",
+        "pinyin": "zuì zhōng",
+        "meaning": "final\nultimate",
+        "tc_hanzi": "最終"
+      },
+      {
+        "hanzi": "造就",
+        "pinyin": "zào jiù",
+        "meaning": "to bring up\nto train\nto contribute to",
+        "tc_hanzi": "造就"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "meaning": "classifier for slices, tablets, tract of land, area of water",
+        "tc_hanzi": "片"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "片",
+        "pinyin": "piàn",
+        "meaning": "classifier for slices, tablets, tract of land, area of water",
+        "tc_hanzi": "片"
+      },
+      {
+        "hanzi": "绿洲",
+        "pinyin": "lǜ zhōu",
+        "meaning": "oasis",
+        "tc_hanzi": "綠洲"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "环保",
+        "pinyin": "huán bǎo",
+        "meaning": "environmental protection\nenvironmentally friendly",
+        "tc_hanzi": "環保"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同样",
+        "pinyin": "tóng yàng",
+        "meaning": "same\nequal\nequivalent",
+        "tc_hanzi": "同樣"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hanzi": "众多",
+        "pinyin": "zhòng duō",
+        "meaning": "numerous",
+        "tc_hanzi": "眾多"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蚂蚁",
+        "pinyin": "mǎ yǐ",
+        "meaning": "ant",
+        "tc_hanzi": "螞蟻"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hanzi": "积",
+        "pinyin": "jī",
+        "meaning": "to amass\nto accumulate\nto store",
+        "tc_hanzi": "積"
+      },
+      {
+        "hanzi": "跬",
+        "pinyin": "kuǐ",
+        "meaning": "brief\nshort step",
+        "tc_hanzi": "跬"
+      },
+      {
+        "hanzi": "步",
+        "pinyin": "bù",
+        "meaning": "a step\na pace",
+        "tc_hanzi": "步"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "以致",
+        "pinyin": "yǐ zhì",
+        "meaning": "to such an extent as to\ndown to\nup to",
+        "tc_hanzi": "以致"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "千",
+        "pinyin": "qiān",
+        "meaning": "thousand",
+        "tc_hanzi": "千"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "li, ancient measure of length, approx. 500 m",
+        "tc_hanzi": "里"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Have you planted any trees in Ant Forest?",
+    "syllable_times": [
+      0.235,
+      0.47,
+      0.8099999999999999,
+      2.26,
+      2.63,
+      3,
+      3.145,
+      3.29,
+      3.68,
+      4.1,
+      4.38,
+      4.66,
+      4.82,
+      5.045,
+      5.27,
+      5.4,
+      5.635,
+      5.87,
+      6.88,
+      7.24,
+      7.65,
+      7.945,
+      8.27,
+      8.49,
+      8.71,
+      8.97,
+      9.365079365079366,
+      9.615,
+      9.9375,
+      11.02,
+      11.36,
+      11.74,
+      12.073333333333334,
+      12.375283446712018,
+      13.21,
+      13.41,
+      13.62,
+      13.9125,
+      14.204999999999998,
+      14.497499999999999,
+      14.79,
+      14.9,
+      15.153061224489795,
+      15.75,
+      16.04,
+      16.33,
+      16.49,
+      16.65,
+      16.9,
+      17.15,
+      17.435,
+      18.4,
+      18.75,
+      18.990000000000002,
+      19.23,
+      19.57,
+      19.94,
+      20.17,
+      20.43,
+      20.69,
+      20.975,
+      21.98,
+      22.2,
+      22.56,
+      22.79,
+      23.02,
+      23.255,
+      23.537414965986393,
+      23.718820861678005,
+      24.76,
+      24.93,
+      25.09,
+      25.25,
+      25.41,
+      25.64625850340136,
+      25.804988662131517,
+      26.53,
+      26.875,
+      27.22,
+      27.4625,
+      27.705,
+      27.9475,
+      28.242630385487526,
+      28.54,
+      28.8265306122449,
+      29.48,
+      29.8,
+      30.23,
+      30.564999999999998,
+      30.9,
+      31.095,
+      31.29,
+      31.524943310657594,
+      32.51,
+      32.738095238095234,
+      33.06,
+      33.37301587301587,
+      33.63378684807256,
+      34.08,
+      34.41,
+      34.64,
+      34.78,
+      34.98,
+      35.18140589569161,
+      35.79,
+      35.92,
+      36.05,
+      36.364999999999995,
+      36.73,
+      37.01,
+      37.25,
+      37.49,
+      37.74,
+      38.22,
+      38.51,
+      38.86054421768707,
+      39.06,
+      39.335,
+      40.98,
+      41.275,
+      41.57,
+      41.72,
+      41.87,
+      42.12,
+      42.48,
+      42.769999999999996,
+      43.16326530612245,
+      43.35,
+      43.605442176870746,
+      44.18,
+      44.45,
+      44.775000000000006,
+      45.13,
+      45.34,
+      45.55,
+      45.84,
+      45.96,
+      46.207482993197274,
+      47.32,
+      47.595,
+      47.9,
+      48.129999999999995,
+      48.36,
+      48.545,
+      48.73,
+      49.05,
+      49.4,
+      49.57,
+      49.74,
+      50.02333333333333,
+      50.30666666666667,
+      50.59,
+      50.79,
+      51.055,
+      51.32,
+      51.53061224489796,
+      52.53,
+      52.754999999999995,
+      52.98,
+      53.23,
+      53.48,
+      53.62,
+      53.935,
+      54.61,
+      54.79,
+      54.935,
+      55.08,
+      55.36,
+      55.81,
+      56.025000000000006,
+      56.24,
+      56.38,
+      56.53061224489796,
+      56.91,
+      57.22,
+      57.46,
+      57.7,
+      57.965,
+      58.23,
+      58.35,
+      58.615,
+      60.3,
+      60.62925170068027,
+      60.83333333333333,
+      60.94,
+      61.25,
+      61.62,
+      61.825,
+      62.03,
+      62.315,
+      62.65,
+      63.015,
+      63.42,
+      63.745,
+      64.27,
+      64.79,
+      65.10000000000001,
+      65.41,
+      65.66893424036282,
+      66.06,
+      66.51,
+      66.84807256235827,
+      67.06916099773242,
+      67.2825,
+      67.54,
+      67.64,
+      67.90249433106575,
+      68.73,
+      68.95,
+      69.16,
+      69.37,
+      69.59,
+      70.2,
+      70.4375,
+      70.67500000000001,
+      70.91250000000001,
+      71.18,
+      71.47,
+      71.74000000000001,
+      72.01,
+      72.32,
+      72.6,
+      72.88,
+      73.13499999999999,
+      73.61,
+      73.88,
+      74.15,
+      74.39,
+      74.87,
+      75.11,
+      75.35,
+      75.7,
+      75.92,
+      76.14,
+      76.35499999999999,
+      76.57,
+      76.705,
+      76.84,
+      77.08500000000001,
+      77.97,
+      78.25,
+      78.53,
+      78.79,
+      78.98500000000001,
+      79.18,
+      79.42500000000001,
+      79.67,
+      80.55,
+      80.875,
+      81.2,
+      81.375,
+      81.55,
+      81.92,
+      82.41,
+      82.715,
+      83.05,
+      83.405,
+      84.19,
+      84.505,
+      84.82,
+      85.11,
+      85.43,
+      85.75,
+      86.07,
+      86.335,
+      86.6,
+      87.51,
+      87.815,
+      88.17,
+      88.59,
+      88.805,
+      89.02,
+      89.32499999999999,
+      90.04,
+      90.315,
+      90.59,
+      90.9,
+      91.47,
+      91.755,
+      92.04,
+      92.25,
+      92.46,
+      92.61,
+      92.89,
+      93.55,
+      93.75,
+      93.95,
+      94.235,
+      94.56,
+      94.83500000000001,
+      95.11,
+      95.43,
+      95.76,
+      95.98666666666666,
+      96.21333333333334,
+      97.05,
+      97.295,
+      97.54,
+      97.785,
+      98.03,
+      98.29,
+      98.495,
+      98.7,
+      98.95,
+      99.34,
+      99.53514739229024,
+      99.75056689342404,
+      100.15,
+      100.42500000000001,
+      100.74,
+      100.86,
+      102.28,
+      102.46,
+      102.725,
+      103.02,
+      103.25999999999999,
+      103.5,
+      104.17,
+      104.345,
+      104.52,
+      104.82499999999999,
+      105.33,
+      105.59,
+      105.85,
+      106.07499999999999,
+      106.3,
+      106.63,
+      106.88499999999999,
+      107.17,
+      107.405,
+      107.64,
+      107.91499999999999,
+      108.19,
+      108.85,
+      109.055,
+      109.26,
+      109.69,
+      110.03,
+      110.27,
+      110.67,
+      110.97,
+      111.185,
+      111.4,
+      111.635,
+      111.87,
+      112.27,
+      112.515,
+      112.76,
+      113.04,
+      113.33000000000001,
+      113.62,
+      114.74,
+      114.99,
+      115.24,
+      115.565,
+      115.92,
+      116.12,
+      116.32,
+      116.615,
+      117.14,
+      117.34,
+      117.515,
+      117.69,
+      118.1,
+      118.41,
+      118.72,
+      118.85,
+      120.49,
+      120.82,
+      121.00999999999999,
+      121.2,
+      121.42,
+      121.55,
+      121.73,
+      121.88,
+      122.08616780045351,
+      122.42063492063491,
+      123.09,
+      123.345,
+      123.6,
+      123.94,
+      124.175,
+      124.45,
+      124.63499999999999,
+      124.82,
+      125.025,
+      125.23,
+      125.44,
+      125.675,
+      125.91,
+      126.185,
+      127.1,
+      127.32,
+      127.54,
+      127.9,
+      128.22,
+      128.45,
+      128.68,
+      129.11,
+      129.32,
+      129.625,
+      129.93,
+      130.23000000000002,
+      130.89,
+      131.16333333333333,
+      131.43666666666667,
+      131.74,
+      131.95499999999998,
+      132.17,
+      132.48333333333332,
+      132.79666666666668,
+      133.14,
+      134.35,
+      134.64999999999998,
+      134.98,
+      135.22,
+      135.42,
+      136.06,
+      136.34,
+      136.65,
+      136.85500000000002,
+      137.06,
+      137.26,
+      138.45,
+      138.67,
+      138.89,
+      139.11,
+      139.31405895691609,
+      139.72,
+      139.975,
+      140.27,
+      140.578231292517,
+      140.74,
+      140.94,
+      141.36,
+      141.63832199546485,
+      142.57,
+      142.735,
+      142.9,
+      143.20499999999998,
+      143.54,
+      144.05,
+      144.32,
+      144.59,
+      144.83,
+      145.07,
+      145.31,
+      145.51,
+      147.01,
+      147.22222222222223,
+      147.35,
+      147.565,
+      147.84580498866214,
+      148.15192743764172,
+      148.37333333333333,
+      148.7,
+      148.87,
+      149.04,
+      149.365,
+      150.3,
+      150.57,
+      150.85,
+      151.16,
+      151.36,
+      151.54000000000002,
+      151.72000000000003,
+      151.9,
+      152.08,
+      152.46,
+      152.69,
+      152.92000000000002,
+      153.37,
+      153.66,
+      153.95,
+      154.24,
+      154.53,
+      155.12,
+      155.41,
+      155.7,
+      155.91,
+      156.12,
+      156.35,
+      156.63,
+      157.81,
+      158.01999999999998,
+      158.23,
+      158.37,
+      158.64,
+      158.91,
+      159.03,
+      159.26,
+      159.49,
+      159.64,
+      159.885,
+      161.08,
+      161.35000000000002,
+      161.62,
+      161.84240362811792,
+      162.07333333333335,
+      162.3,
+      162.49,
+      162.68,
+      162.89,
+      163.1,
+      163.29,
+      163.48,
+      163.69,
+      163.97,
+      164.23333333333332,
+      164.4331065759637,
+      164.99,
+      165.28500000000003,
+      165.76,
+      166.04,
+      166.49,
+      166.65,
+      167.15,
+      167.44,
+      167.73,
+      167.86,
+      168.185,
+      169.12,
+      169.3075,
+      169.495,
+      169.6825,
+      169.87,
+      170.07999999999998,
+      170.29,
+      170.89,
+      171.156462585034,
+      171.2925170068027,
+      171.5532879818594,
+      172.03,
+      172.34,
+      172.65,
+      172.89,
+      173.13,
+      173.39999999999998,
+      173.67,
+      174.16,
+      174.535,
+      174.94,
+      175.17,
+      175.315,
+      175.46,
+      175.755,
+      176.92,
+      177.21,
+      177.41500000000002,
+      177.62,
+      177.79000000000002,
+      177.96,
+      178.07,
+      178.33,
+      178.88,
+      179.23,
+      179.45,
+      179.67,
+      179.95,
+      180.26,
+      180.445,
+      180.63,
+      180.85,
+      181.38321995464852,
+      181.63,
+      182.04648526077096,
+      182.29,
+      182.95,
+      183.38,
+      183.6825,
+      183.985,
+      184.2875,
+      184.59,
+      186.56,
+      186.95,
+      187.37,
+      187.55,
+      187.73,
+      188.0045351473923,
+      188.9,
+      189.22,
+      189.425,
+      189.63,
+      189.97,
+      190.48,
+      190.825,
+      191.2,
+      191.38,
+      191.6156462585034,
+      191.74,
+      191.92743764172334,
+      192.15986394557822,
+      192.52,
+      192.815,
+      193.9,
+      194.18,
+      194.46,
+      194.5861678004535,
+      194.76190476190476,
+      195.49,
+      195.66500000000002,
+      195.84,
+      196.07999999999998,
+      196.4,
+      196.65,
+      196.9,
+      197.02,
+      197.325,
+      197.85,
+      198.45,
+      198.73,
+      199.09,
+      199.49,
+      200.05,
+      200.39,
+      200.73,
+      201.12,
+      201.818503
+    ],
+    "sentence_indices": [
+      1,
+      4,
+      16,
+      22,
+      36,
+      48,
+      63,
+      80,
+      82,
+      97,
+      108,
+      125,
+      127,
+      133,
+      141,
+      159,
+      178,
+      192,
+      213,
+      230,
+      259,
+      273,
+      288,
+      295,
+      312,
+      314,
+      322,
+      337,
+      345,
+      366,
+      386,
+      402,
+      404,
+      420,
+      440
+    ],
+    "sentence_translations": [
+      "Ant Forest",
+      "",
+      "The topic of environmental protection has been discussed for many years, ..",
+      ".. and seems to have already become a thing of the past.",
+      "But in fact, this old observation still has real meaning.",
+      "According to relevant statistics and calculations, just in terms of forest area, ..",
+      ".. the total area of global forest resources has shown a linear downward trend since 2010.",
+      "It is estimated that from this year until 2025, this figure will fall by another 10 million hectares.",
+      "",
+      "Facing this reality that has always been considered important yet continues to get worse, ..",
+      ".. we still need to look for feasible solutions.",
+      "The appearance of Ant Forest provides several proposals that have reference value.",
+      "",
+      "At the same time as the Chinese government vigorously implemented “closing hillsides to facilitate afforestation”, ..",
+      ".. “returning farmland to forest”, and other ecological projects, ..",
+      ".. Alibaba released the Ant Forest public welfare project on the nationally popular phone app Alipay in 2016.",
+      "The project works like this: users can walk, take the subway, pay utility bills online, ..",
+      ".. pay tickets for traffic violations online, register at hospitals online, buy tickets online, etc., ..",
+      ".. and the corresponding amount of reduced carbon emission can be used to grow a virtual tree in Alipay.",
+      "After the tree has grown, Ant ecological partners such as public welfare organizations or environmentally friendly companies, ..",
+      ".. can “buy” the virtual “tree” planted by the user in the Ant Forest, and plant an actual tree somewhere in the real world.",
+      "In March 2020, Alipay published Ant Forest’s latest data:",
+      "40% of Chinese people had planted trees with their phones and the number of participants had reached 550 million, ..",
+      ".. accumulating 11 million tons of reduced carbon emissions.",
+      "To date, 122 million real trees have been planted, and the planted area has reached 1.68 million mu.",
+      "",
+      "This method of non-governmental operations, ..",
+      ".. allows people to experience government policies such as “returning farmland to forest” in their daily lives, ..",
+      ".. lowering the threshold and cost of environmental protection.",
+      "When internet users see the amount of carbon emissions they have accumulated turn into actual trees, ..",
+      ".. their sense of accomplishment is no less than if they had personally rushed several thousand li to plant a tree with their own hands.",
+      "The project’s logic coincides with “do one good deed every day” in traditional Chinese culture.",
+      "",
+      "Ants may be tiny, but many ants can eventually create a large oasis.",
+      "Environmental protection also needs many ants, accumulating tiny steps every day to reach a thousand li.",
+      ""
+    ]
+  }
+}

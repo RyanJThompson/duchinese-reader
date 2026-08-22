@@ -1,0 +1,718 @@
+{
+  "id": "279",
+  "title": "The Panda's Regret",
+  "level": "intermediate",
+  "date": "2017-04-01",
+  "synopsis": "Do you know what the giant panda's biggest regret in life is?",
+  "audioUrl": "https://static.duchinese.net/documents/380/b0b4e510c791a5ba52f12410c23058efeb3c55f8.mp3?1489606883",
+  "series": null,
+  "fullText": {
+    "simplified": "熊猫的遗憾\n\n    你知道大熊猫一生中最大的遗憾是什么吗？\n    这是一个脑筋急转弯，你知道答案吗？\n    答案是：它没有彩色相片。因为大熊猫身上只有黑色和白色。",
+    "traditional": "熊貓的遺憾\n\n    你知道大熊貓一生中最大的遺憾是什麼嗎？\n    這是一個腦筋急轉彎，你知道答案嗎？\n    答案是：它沒有彩色相片。因為大熊貓身上只有黑色和白色。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Panda's Regret"
+    },
+    {
+      "index": 2,
+      "simplified": "你知道大熊猫一生中最大的遗憾是什么吗？",
+      "traditional": "你知道大熊貓一生中最大的遺憾是什麼嗎？",
+      "pinyin": "nǐ zhī dào dà xióng māo yì shēng zhōng zuì dà de yí hàn shì shén me ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Do you know what the giant panda's biggest regret in life is?"
+    },
+    {
+      "index": 4,
+      "simplified": "这是一个脑筋急转弯，你知道答案吗？",
+      "traditional": "這是一個腦筋急轉彎，你知道答案嗎？",
+      "pinyin": "zhè shì yí ge nǎo jīn jí zhuǎn wān nǐ zhī dào dá àn ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "This is a brain teaser. Do you know the answer?"
+    },
+    {
+      "index": 6,
+      "simplified": "答案是：它没有彩色相片。",
+      "traditional": "答案是：它沒有彩色相片。",
+      "pinyin": "dá àn shì tā méi yǒu cǎi sè xiàng piàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "因为大熊猫身上只有黑色和白色。",
+      "traditional": "因為大熊貓身上只有黑色和白色。",
+      "pinyin": "yīn wèi dà xióng māo shēn shang zhǐ yǒu hēi sè hé bái sè",
+      "english": "The answer is: It doesn't have any color photos."
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Because the giant panda only has black and white on its body."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "熊猫",
+      "traditional": "熊貓",
+      "pinyin": "xióng māo",
+      "meaning": "panda",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "遗憾",
+      "traditional": "遺憾",
+      "pinyin": "yí hàn",
+      "meaning": "to regret\nto be sorry that\nregret",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大熊猫",
+      "traditional": "大熊貓",
+      "pinyin": "dà xióng māo",
+      "meaning": "giant panda",
+      "hsk": null
+    },
+    {
+      "hanzi": "一生",
+      "traditional": "一生",
+      "pinyin": "yì shēng",
+      "meaning": "lifetime\nall one’s life\nthroughout one’s life",
+      "hsk": null
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "脑筋",
+      "traditional": "腦筋",
+      "pinyin": "nǎo jīn",
+      "meaning": "brains\nmind\nhead",
+      "hsk": null
+    },
+    {
+      "hanzi": "急转弯",
+      "traditional": "急轉彎",
+      "pinyin": "jí zhuǎn wān",
+      "meaning": "to make a sudden turn",
+      "hsk": null
+    },
+    {
+      "hanzi": "答案",
+      "traditional": "答案",
+      "pinyin": "dá àn",
+      "meaning": "answer\nsolution",
+      "hsk": 4
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "彩色",
+      "traditional": "彩色",
+      "pinyin": "cǎi sè",
+      "meaning": "color\nmulti-colored",
+      "hsk": null
+    },
+    {
+      "hanzi": "相片",
+      "traditional": "相片",
+      "pinyin": "xiàng piàn",
+      "meaning": "image\nphotograph",
+      "hsk": null
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "身",
+      "traditional": "身",
+      "pinyin": "shēn",
+      "meaning": "body\nlife",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēi sè",
+      "meaning": "black",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "白色",
+      "traditional": "白色",
+      "pinyin": "bái sè",
+      "meaning": "white",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "遗憾",
+        "pinyin": "yí hàn",
+        "meaning": "to regret\nto be sorry that\nregret",
+        "tc_hanzi": "遺憾"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hanzi": "一生",
+        "pinyin": "yì shēng",
+        "meaning": "lifetime\nall one’s life\nthroughout one’s life",
+        "tc_hanzi": "一生"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "遗憾",
+        "pinyin": "yí hàn",
+        "meaning": "to regret\nto be sorry that\nregret",
+        "tc_hanzi": "遺憾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "脑筋",
+        "pinyin": "nǎo jīn",
+        "meaning": "brains\nmind\nhead",
+        "tc_hanzi": "腦筋"
+      },
+      {
+        "hanzi": "急转弯",
+        "pinyin": "jí zhuǎn wān",
+        "meaning": "to make a sudden turn",
+        "tc_hanzi": "急轉彎"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "答案",
+        "pinyin": "dá àn",
+        "meaning": "answer\nsolution",
+        "tc_hanzi": "答案"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "答案",
+        "pinyin": "dá àn",
+        "meaning": "answer\nsolution",
+        "tc_hanzi": "答案"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "彩色",
+        "pinyin": "cǎi sè",
+        "meaning": "color\nmulti-colored",
+        "tc_hanzi": "彩色"
+      },
+      {
+        "hanzi": "相片",
+        "pinyin": "xiàng piàn",
+        "meaning": "image\nphotograph",
+        "tc_hanzi": "相片"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "身",
+        "pinyin": "shēn",
+        "meaning": "body\nlife",
+        "tc_hanzi": "身"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "黑色",
+        "pinyin": "hēi sè",
+        "meaning": "black",
+        "tc_hanzi": "黑色"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "白色",
+        "pinyin": "bái sè",
+        "meaning": "white",
+        "tc_hanzi": "白色"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Do you know what the giant panda's biggest regret in life is?",
+    "syllable_times": [
+      0.6198000095045912,
+      1.043083900226757,
+      1.678004535147392,
+      2.131519274376417,
+      4.489795918367347,
+      4.897959183673469,
+      5.26077097505669,
+      5.98639455782313,
+      6.257830628677032,
+      6.666666666666667,
+      7.573696145124717,
+      7.891156462585034,
+      8.299319727891156,
+      8.934240362811792,
+      9.387755102040817,
+      9.795918367346939,
+      10.34013605442177,
+      10.70294784580499,
+      11.29251700680272,
+      11.74603174603175,
+      12.19954648526077,
+      12.42630385487528,
+      14.96598639455782,
+      15.32879818594104,
+      15.91836734693878,
+      16.23582766439909,
+      16.78004535147392,
+      17.18820861678005,
+      17.55102040816326,
+      17.91383219954648,
+      18.2312925170068,
+      19.72789115646259,
+      20.22675736961451,
+      20.54421768707483,
+      20.99773242630386,
+      21.31519274376417,
+      21.67800453514739,
+      23.90022675736962,
+      24.19174698236844,
+      24.44444444444444,
+      25.98639455782313,
+      26.30385487528345,
+      26.62131519274377,
+      27.1655328798186,
+      27.66439909297052,
+      28.07256235827665,
+      28.48072562358277,
+      30.38548752834467,
+      30.70294784580499,
+      31.51927437641723,
+      31.83673469387755,
+      32.24489795918367,
+      32.56235827664399,
+      32.92517006802721,
+      33.83219954648526,
+      34.20449561211748,
+      34.82993197278912,
+      35.23809523809524,
+      35.86827195511439,
+      36.46258503401361,
+      36.91609977324263,
+      37.53136054421768,
+      37.53136054421768
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      19,
+      21,
+      33,
+      35,
+      43,
+      53
+    ],
+    "sentence_translations": [
+      "The Panda's Regret",
+      "",
+      "Do you know what the giant panda's biggest regret in life is?",
+      "",
+      "This is a brain teaser. Do you know the answer?",
+      "",
+      "The answer is: It doesn't have any color photos.",
+      "Because the giant panda only has black and white on its body.",
+      ""
+    ]
+  }
+}

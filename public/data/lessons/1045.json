@@ -1,0 +1,922 @@
+{
+  "id": "1045",
+  "title": "Our Romance",
+  "level": "newbie",
+  "date": "2020-08-26",
+  "synopsis": "Read about a romance between former high school classmates.",
+  "audioUrl": "https://static.duchinese.net/documents/1045/1ecb320e9f823962433431e4ecc64d3d306f5abb.mp3?1595237389",
+  "series": null,
+  "fullText": {
+    "simplified": "我们的爱情\n\n    以前我们是高中同学，后来我们是朋友。我们认识了六年后在一起了。现在我们是夫妻。他很爱我，对我很好。我也很爱他。\n    现在我在医院，他也在医院。因为他做爸爸了，我做妈妈了。我们有了自己的孩子。",
+    "traditional": "我們的愛情\n\n    以前我們是高中同學，後來我們是朋友。我們認識了六年後在一起了。現在我們是夫妻。他很愛我，對我很好。我也很愛他。\n    現在我在醫院，他也在醫院。因為他做爸爸了，我做媽媽了。我們有了自己的孩子。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Our Romance"
+    },
+    {
+      "index": 2,
+      "simplified": "以前我们是高中同学，后来我们是朋友。",
+      "traditional": "以前我們是高中同學，後來我們是朋友。",
+      "pinyin": "yǐ qián wǒ men shì gāo zhōng tóng xué hòu lái wǒ men shì péng you",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "我们认识了六年后在一起了。",
+      "traditional": "我們認識了六年後在一起了。",
+      "pinyin": "wǒ men rèn shi le liù nián hòu zài yì qǐ le",
+      "english": "Previously, we were senior high school classmates, and later we were friends."
+    },
+    {
+      "index": 4,
+      "simplified": "现在我们是夫妻。他很爱我，对我很好。我也很爱他。",
+      "traditional": "現在我們是夫妻。他很愛我，對我很好。我也很愛他。",
+      "pinyin": "xiàn zài wǒ men shì fū qī tā hěn ài wǒ duì wǒ hěn hǎo wǒ yě hěn ài tā",
+      "english": "After we had known each other for six years we started dating."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Now we are husband and wife. He really loves me, and treats me very well. I also really love him."
+    },
+    {
+      "index": 6,
+      "simplified": "现在我在医院，他也在医院。",
+      "traditional": "現在我在醫院，他也在醫院。",
+      "pinyin": "xiàn zài wǒ zài yī yuàn tā yě zài yī yuàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "因为他做爸爸了，我做妈妈了。我们有了自己的孩子。",
+      "traditional": "因為他做爸爸了，我做媽媽了。我們有了自己的孩子。",
+      "pinyin": "yīn wèi tā zuò bà ba le wǒ zuò mā ma le wǒ men yǒu le zì jǐ de hái zi",
+      "english": "Now I am at the hospital. He is also at the hospital."
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Because he has become a father, and I have become a mother. We have our own child."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱情",
+      "traditional": "愛情",
+      "pinyin": "ài qíng",
+      "meaning": "romance\nlove (romantic)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "以前",
+      "traditional": "以前",
+      "pinyin": "yǐ qián",
+      "meaning": "before\nformerly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高中",
+      "traditional": "高中",
+      "pinyin": "gāo zhōng",
+      "meaning": "senior high school",
+      "hsk": null
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后来",
+      "traditional": "後來",
+      "pinyin": "hòu lái",
+      "meaning": "afterwards\nlater",
+      "hsk": 3
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "认识",
+      "traditional": "認識",
+      "pinyin": "rèn shi",
+      "meaning": "to know\nto recognize\nto be familiar with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "夫妻",
+      "traditional": "夫妻",
+      "pinyin": "fū qī",
+      "meaning": "husband and wife\nmarried couple",
+      "hsk": null
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "meaning": "to love\nto like",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to act as\nto be\nto become",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "meaning": "child",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "爱情",
+        "pinyin": "ài qíng",
+        "meaning": "romance\nlove (romantic)",
+        "tc_hanzi": "愛情"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以前",
+        "pinyin": "yǐ qián",
+        "meaning": "before\nformerly",
+        "tc_hanzi": "以前"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "高中",
+        "pinyin": "gāo zhōng",
+        "meaning": "senior high school",
+        "tc_hanzi": "高中"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "后来",
+        "pinyin": "hòu lái",
+        "meaning": "afterwards\nlater",
+        "tc_hanzi": "後來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "to know\nto recognize\nto be familiar with",
+        "tc_hanzi": "認識"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "tc_hanzi": "六"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "夫妻",
+        "pinyin": "fū qī",
+        "meaning": "husband and wife\nmarried couple",
+        "tc_hanzi": "夫妻"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "meaning": "to love\nto like",
+        "tc_hanzi": "愛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "meaning": "to love\nto like",
+        "tc_hanzi": "愛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to act as\nto be\nto become",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to act as\nto be\nto become",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Read about a romance between former high school classmates.",
+    "syllable_times": [
+      0.38,
+      0.6235827664399093,
+      0.8843537414965986,
+      1.24,
+      2.86,
+      3.123582766439909,
+      3.89,
+      4.19,
+      4.64,
+      4.91,
+      5.221088435374149,
+      5.425170068027211,
+      5.795,
+      7.12,
+      7.484999999999999,
+      8.17,
+      8.32,
+      8.47,
+      8.71,
+      9.06,
+      10.48,
+      10.65,
+      10.82,
+      11.05,
+      11.28,
+      11.76,
+      11.99,
+      12.2,
+      12.84,
+      13.056666666666667,
+      13.273333333333333,
+      13.49,
+      14.75,
+      15.155000000000001,
+      15.9,
+      16.16,
+      16.45,
+      16.69,
+      17.001133786848072,
+      18.25,
+      18.67,
+      18.92,
+      19.185000000000002,
+      20.22,
+      20.42517006802721,
+      20.55,
+      20.810000000000002,
+      22.32,
+      22.46,
+      22.665,
+      22.87,
+      23.15,
+      24.72,
+      25.14,
+      25.91,
+      26.37,
+      26.56,
+      26.865000000000002,
+      27.95,
+      28.49,
+      28.89,
+      29.11,
+      29.331065759637188,
+      30.56,
+      30.793650793650794,
+      31.49,
+      31.74,
+      31.94,
+      32.195,
+      32.45,
+      33.42,
+      33.61,
+      34.15,
+      34.415,
+      34.68,
+      35.87,
+      36.03,
+      36.19,
+      36.545,
+      36.94,
+      37.215,
+      37.49,
+      37.6,
+      37.915,
+      38.579478
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      17,
+      27,
+      48,
+      50,
+      60,
+      78
+    ],
+    "sentence_translations": [
+      "Our Romance",
+      "",
+      "Previously, we were senior high school classmates, and later we were friends.",
+      "After we had known each other for six years we started dating.",
+      "Now we are husband and wife. He really loves me, and treats me very well. I also really love him.",
+      "",
+      "Now I am at the hospital. He is also at the hospital.",
+      "Because he has become a father, and I have become a mother. We have our own child.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,3475 @@
+{
+  "id": "T103",
+  "title": "House Prices in China",
+  "level": "advanced",
+  "date": "2021-04-13",
+  "synopsis": "High house prices have not dampened the enthusiasm of Chinese people to own their own home.",
+  "audioUrl": "https://static.duchinese.net/documents/60103/3bd79ba0e2abc4acc59d00be6fe2fda2a24b3749.mp3?1617370815",
+  "series": null,
+  "fullText": {
+    "simplified": "中国的房价\n\n    房子，在中国人心中是个特别重要的存在。人们普遍认为有了自己的房子才是真正有了家。所以在中国很多地方，想结婚就要先买房。\n    但是房价的快速增长已经远远超过了老百姓的收入水平。大部分人要用几十年的时间节衣缩食还房贷。\n    从2009年至今，居高不下的房价已经维持了整整10年。一线城市价格高得让人发抖，二三线城市房价只涨不降，其他城市盖房子、卖房子也在继续。\n    刚进入2021年，一线城市北京1月房子的均价为每平米66493元。深圳1月均价达到了每平米90049元。二三线城市中，厦门1月均价高达每平米为50097元。其他城市也都在每平米两万元左右。\n    但即使如此，也并不影响老百姓们买房的热情！因为货币贬值和通货膨胀，与存钱相比，人们更愿意把钱花在购买房产上，毕竟房子是看得见，摸得着的财产。\n    房价那么高，还是有那么多人愿意为它疯狂，真是件不可思议的事情！你呢？如果你有一大笔钱，你会买房还是会有其他选择呢？",
+    "traditional": "中國的房價\n\n    房子，在中國人心中是個特別重要的存在。人們普遍認為有了自己的房子才是真正有了家。所以在中國很多地方，想結婚就要先買房。\n    但是房價的快速增長已經遠遠超過了老百姓的收入水平。大部分人要用幾十年的時間節衣縮食還房貸。\n    從2009年至今，居高不下的房價已經維持了整整10年。一線城市價格高得讓人發抖，二三線城市房價只漲不降，其他城市蓋房子、賣房子也在繼續。\n    剛進入2021年，一線城市北京1月房子的均價為每平米66493元。深圳1月均價達到了每平米90049元。二三線城市中，廈門1月均價高達每平米為50097元。其他城市也都在每平米兩萬元左右。\n    但即使如此，也並不影響老百姓們買房的熱情！因為貨幣貶值和通貨膨脹，與存錢相比，人們更願意把錢花在購買房產上，畢竟房子是看得見，摸得著的財產。\n    房價那麼高，還是有那麼多人願意為它瘋狂，真是件不可思議的事情！你呢？如果你有一大筆錢，你會買房還是會有其他選擇呢？"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "House Prices in China"
+    },
+    {
+      "index": 2,
+      "simplified": "房子，在中国人心中是个特别重要的存在。",
+      "traditional": "房子，在中國人心中是個特別重要的存在。",
+      "pinyin": "fáng zi zài zhōng guó rén xīn zhōng shì ge tè bié zhòng yào de cún zài",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "人们普遍认为有了自己的房子才是真正有了家。",
+      "traditional": "人們普遍認為有了自己的房子才是真正有了家。",
+      "pinyin": "rén men pǔ biàn rèn wéi yǒu le zì jǐ de fáng zi cái shì zhēn zhèng yǒu le jiā",
+      "english": "Houses hold a particularly important place in the hearts of Chinese people."
+    },
+    {
+      "index": 4,
+      "simplified": "所以在中国很多地方，想结婚就要先买房。",
+      "traditional": "所以在中國很多地方，想結婚就要先買房。",
+      "pinyin": "suǒ yǐ zài zhōng guó hěn duō dì fang xiǎng jié hūn jiù yào xiān mǎi fáng",
+      "english": "It is widely believed that you need to own your own house in order to truly start a family."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "So in many parts of China, if you want to get married, you first need to buy a house."
+    },
+    {
+      "index": 6,
+      "simplified": "但是房价的快速增长已经远远超过了老百姓的收入水平。",
+      "traditional": "但是房價的快速增長已經遠遠超過了老百姓的收入水平。",
+      "pinyin": "dàn shì fáng jià de kuài sù zēng zhǎng yǐ jīng yuǎn yuǎn chāo guò le lǎo bǎi xìng de shōu rù shuǐ píng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "大部分人要用几十年的时间节衣缩食还房贷。",
+      "traditional": "大部分人要用幾十年的時間節衣縮食還房貸。",
+      "pinyin": "dà bù fen rén yào yòng jǐ shí nián de shí jiān jié yī suō shí huán fáng dài",
+      "english": "However, the rapid rise in house prices has far exceeded the income levels of ordinary people."
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Most people have to live frugally for decades in order to pay off their mortgages."
+    },
+    {
+      "index": 9,
+      "simplified": "从2009年至今，居高不下的房价已经维持了整整10年。",
+      "traditional": "從2009年至今，居高不下的房價已經維持了整整10年。",
+      "pinyin": "cóng 4 nián zhì jīn jū gāo bú xià de fáng jià yǐ jīng wéi chí le zhěng zhěng 1 nián",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "一线城市价格高得让人发抖，",
+      "traditional": "一線城市價格高得讓人發抖，",
+      "pinyin": "yī xiàn chéng shì jià gé gāo de ràng rén fā dǒu",
+      "english": "Since 2009, house prices have remained high for a full decade."
+    },
+    {
+      "index": 11,
+      "simplified": "二三线城市房价只涨不降，",
+      "traditional": "二三線城市房價只漲不降，",
+      "pinyin": "èr sān xiàn chéng shì fáng jià zhǐ zhǎng bú jiàng",
+      "english": "In first-tier cities, house prices are so high they make people tremble."
+    },
+    {
+      "index": 12,
+      "simplified": "其他城市盖房子、卖房子也在继续。",
+      "traditional": "其他城市蓋房子、賣房子也在繼續。",
+      "pinyin": "qí tā chéng shì gài fáng zi mài fáng zi yě zài jì xù",
+      "english": "In second and third-tier cities, house prices only go up and never come down."
+    },
+    {
+      "index": 13,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "In other cities, the construction and sale of houses also continues."
+    },
+    {
+      "index": 14,
+      "simplified": "刚进入2021年，一线城市北京1月房子的均价为每平米66493元。",
+      "traditional": "剛進入2021年，一線城市北京1月房子的均價為每平米66493元。",
+      "pinyin": "gāng jìn rù 4 nián yī xiàn chéng shì běi jīng 1 yuè fáng zi de jūn jià wéi měi píng mǐ 9 yuán",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "深圳1月均价达到了每平米90049元。",
+      "traditional": "深圳1月均價達到了每平米90049元。",
+      "pinyin": "shēn zhèn 1 yuè jūn jià dá dào le měi píng mǐ 6 yuán",
+      "english": "Entering 2021, the average house price in January in the first-tier city Beijing was 66,493 yuan per square meter."
+    },
+    {
+      "index": 16,
+      "simplified": "二三线城市中，厦门1月均价高达每平米为50097元。",
+      "traditional": "二三線城市中，廈門1月均價高達每平米為50097元。",
+      "pinyin": "èr sān xiàn chéng shì zhōng xià mén 1 yuè jūn jià gāo dá měi píng mǐ wéi 6 yuán",
+      "english": "In Shenzhen, the average price in January reached 90,049 yuan per square meter."
+    },
+    {
+      "index": 17,
+      "simplified": "其他城市也都在每平米两万元左右。",
+      "traditional": "其他城市也都在每平米兩萬元左右。",
+      "pinyin": "qí tā chéng shì yě dōu zài měi píng mǐ liǎng wàn yuán zuǒ yòu",
+      "english": "Among second and third-tier cities, in Xiamen, the average price in January reached as high as 50,097 yuan per square meter."
+    },
+    {
+      "index": 18,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "In other cities, house prices were around 20,000 yuan per square meter."
+    },
+    {
+      "index": 19,
+      "simplified": "但即使如此，也并不影响老百姓们买房的热情！",
+      "traditional": "但即使如此，也並不影響老百姓們買房的熱情！",
+      "pinyin": "dàn jí shǐ rú cǐ yě bìng bù yǐng xiǎng lǎo bǎi xìng men mǎi fáng de rè qíng",
+      "english": ""
+    },
+    {
+      "index": 20,
+      "simplified": "因为货币贬值和通货膨胀，与存钱相比，",
+      "traditional": "因為貨幣貶值和通貨膨脹，與存錢相比，",
+      "pinyin": "yīn wèi huò bì biǎn zhí hé tōng huò péng zhàng yǔ cún qián xiāng bǐ",
+      "english": "But even so, ordinary people’s enthusiasm for buying houses remained unaffected!"
+    },
+    {
+      "index": 21,
+      "simplified": "人们更愿意把钱花在购买房产上，",
+      "traditional": "人們更願意把錢花在購買房產上，",
+      "pinyin": "rén men gèng yuàn yì bǎ qián huā zài gòu mǎi fáng chǎn shang",
+      "english": "Because of depreciation of money and inflation, when compared to saving money, .."
+    },
+    {
+      "index": 22,
+      "simplified": "毕竟房子是看得见，摸得着的财产。",
+      "traditional": "畢竟房子是看得見，摸得著的財產。",
+      "pinyin": "bì jìng fáng zi shì kàn de jiàn mō de zháo de cái chǎn",
+      "english": ".. people are more willing to spend their money on real estate."
+    },
+    {
+      "index": 23,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "After all, houses are visible and tangible assets."
+    },
+    {
+      "index": 24,
+      "simplified": "房价那么高，还是有那么多人愿意为它疯狂，",
+      "traditional": "房價那麼高，還是有那麼多人願意為它瘋狂，",
+      "pinyin": "fáng jià nà me gāo hái shi yǒu nà me duō rén yuàn yì wèi tā fēng kuáng",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "真是件不可思议的事情！",
+      "traditional": "真是件不可思議的事情！",
+      "pinyin": "zhēn shì jiàn bù kě sī yì de shì qing",
+      "english": "There are still so many people who are crazy about buying houses even though house prices are so high."
+    },
+    {
+      "index": 26,
+      "simplified": "你呢？如果你有一大笔钱，你会买房还是会有其他选择呢？",
+      "traditional": "你呢？如果你有一大筆錢，你會買房還是會有其他選擇呢？",
+      "pinyin": "nǐ ne rú guǒ nǐ yǒu yí dà bǐ qián nǐ huì mǎi fáng hái shi huì yǒu qí tā xuǎn zé ne",
+      "english": "This is an extraordinary phenomenon!"
+    },
+    {
+      "index": 27,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "What about you? If you had a large sum of money, would you buy a house or would you make a different choice?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房价",
+      "traditional": "房價",
+      "pinyin": "fáng jià",
+      "meaning": "house price\ncost of housing",
+      "hsk": null
+    },
+    {
+      "hanzi": "房子",
+      "traditional": "房子",
+      "pinyin": "fáng zi",
+      "meaning": "apartment\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "心中",
+      "traditional": "心中",
+      "pinyin": "xīn zhōng",
+      "meaning": "in one's thoughts\nin one's heart",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "特别",
+      "traditional": "特別",
+      "pinyin": "tè bié",
+      "meaning": "especially\nspecial\nunusual",
+      "hsk": 3
+    },
+    {
+      "hanzi": "重要",
+      "traditional": "重要",
+      "pinyin": "zhòng yào",
+      "meaning": "important",
+      "hsk": 3
+    },
+    {
+      "hanzi": "存在",
+      "traditional": "存在",
+      "pinyin": "cún zài",
+      "meaning": "to exist\nto be\nexistence",
+      "hsk": 5
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "普遍",
+      "traditional": "普遍",
+      "pinyin": "pǔ biàn",
+      "meaning": "general\ncommon",
+      "hsk": 4
+    },
+    {
+      "hanzi": "认为",
+      "traditional": "認為",
+      "pinyin": "rèn wéi",
+      "meaning": "to believe\nto consider",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "真正",
+      "traditional": "真正",
+      "pinyin": "zhēn zhèng",
+      "meaning": "genuine\nreal",
+      "hsk": 4
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "地方",
+      "traditional": "地方",
+      "pinyin": "dì fang",
+      "meaning": "area\nplace\nterritory",
+      "hsk": 3
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "结婚",
+      "traditional": "結婚",
+      "pinyin": "jié hūn",
+      "meaning": "to get married",
+      "hsk": 3
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "(if ...) then\nin that case",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房",
+      "traditional": "房",
+      "pinyin": "fáng",
+      "meaning": "room\nhouse",
+      "hsk": null
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "快速",
+      "traditional": "快速",
+      "pinyin": "kuài sù",
+      "meaning": "fast\nhigh-speed\nrapid",
+      "hsk": null
+    },
+    {
+      "hanzi": "增长",
+      "traditional": "增長",
+      "pinyin": "zēng zhǎng",
+      "meaning": "to grow\nto increase",
+      "hsk": null
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "远远",
+      "traditional": "遠遠",
+      "pinyin": "yuǎn yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "超过",
+      "traditional": "超過",
+      "pinyin": "chāo guò",
+      "meaning": "to surpass\nto exceed\nto outstrip",
+      "hsk": 4
+    },
+    {
+      "hanzi": "老百姓",
+      "traditional": "老百姓",
+      "pinyin": "lǎo bǎi xìng",
+      "meaning": "ordinary people\nthe \"person in the street\"",
+      "hsk": 5
+    },
+    {
+      "hanzi": "收入",
+      "traditional": "收入",
+      "pinyin": "shōu rù",
+      "meaning": "income\nrevenue",
+      "hsk": 4
+    },
+    {
+      "hanzi": "水平",
+      "traditional": "水平",
+      "pinyin": "shuǐ píng",
+      "meaning": "level (of achievement etc)\nstandard",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大部分",
+      "traditional": "大部分",
+      "pinyin": "dà bù fen",
+      "meaning": "in large part\nthe greater part\nthe majority",
+      "hsk": null
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "节衣缩食",
+      "traditional": "節衣縮食",
+      "pinyin": "jié yī suō shí",
+      "meaning": "to save on food and clothing (idiom); to live frugally",
+      "hsk": null
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "huán",
+      "meaning": "to return\nto pay back",
+      "hsk": 3
+    },
+    {
+      "hanzi": "房贷",
+      "traditional": "房貸",
+      "pinyin": "fáng dài",
+      "meaning": "home loan",
+      "hsk": null
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "至今",
+      "traditional": "至今",
+      "pinyin": "zhì jīn",
+      "meaning": "so far\nto this day\nuntil now",
+      "hsk": 5
+    },
+    {
+      "hanzi": "居高不下",
+      "traditional": "居高不下",
+      "pinyin": "jū gāo bú xià",
+      "meaning": "(of prices, rates etc) to remain high",
+      "hsk": null
+    },
+    {
+      "hanzi": "维持",
+      "traditional": "維持",
+      "pinyin": "wéi chí",
+      "meaning": "to keep\nto maintain\nto preserve",
+      "hsk": 6
+    },
+    {
+      "hanzi": "整整",
+      "traditional": "整整",
+      "pinyin": "zhěng zhěng",
+      "meaning": "whole\nfull",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "线",
+      "traditional": "線",
+      "pinyin": "xiàn",
+      "meaning": "(after a number) tier (unofficial ranking of a Chinese city)",
+      "hsk": null
+    },
+    {
+      "hanzi": "城市",
+      "traditional": "城市",
+      "pinyin": "chéng shì",
+      "meaning": "city\ntown",
+      "hsk": 3
+    },
+    {
+      "hanzi": "价格",
+      "traditional": "價格",
+      "pinyin": "jià gé",
+      "meaning": "price",
+      "hsk": 4
+    },
+    {
+      "hanzi": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "meaning": "high\ntall\nabove average",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to make\nto cause",
+      "hsk": 2
+    },
+    {
+      "hanzi": "发抖",
+      "traditional": "發抖",
+      "pinyin": "fā dǒu",
+      "meaning": "to tremble\nto shake\nto shiver",
+      "hsk": 5
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "涨",
+      "traditional": "漲",
+      "pinyin": "zhǎng",
+      "meaning": "to rise (of prices, rivers)\nto go up",
+      "hsk": 5
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "降",
+      "traditional": "降",
+      "pinyin": "jiàng",
+      "meaning": "to drop\nto fall\nto come down",
+      "hsk": null
+    },
+    {
+      "hanzi": "其他",
+      "traditional": "其他",
+      "pinyin": "qí tā",
+      "meaning": "other\nthe rest",
+      "hsk": 3
+    },
+    {
+      "hanzi": "盖",
+      "traditional": "蓋",
+      "pinyin": "gài",
+      "meaning": "to cover\nto build",
+      "hsk": 5
+    },
+    {
+      "hanzi": "卖",
+      "traditional": "賣",
+      "pinyin": "mài",
+      "meaning": "to sell",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "继续",
+      "traditional": "繼續",
+      "pinyin": "jì xù",
+      "meaning": "to continue\nto proceed with\nto go on with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "刚",
+      "traditional": "剛",
+      "pinyin": "gāng",
+      "meaning": "just\nas soon as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "进入",
+      "traditional": "進入",
+      "pinyin": "jìn rù",
+      "meaning": "to enter\nto join\nto go into",
+      "hsk": 4
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "均价",
+      "traditional": "均價",
+      "pinyin": "jūn jià",
+      "meaning": "average price",
+      "hsk": null
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wéi",
+      "meaning": "as (in the capacity of)\nto take sth as\nto be",
+      "hsk": 3
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "平米",
+      "traditional": "平米",
+      "pinyin": "píng mǐ",
+      "meaning": "square meter",
+      "hsk": null
+    },
+    {
+      "hanzi": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "meaning": "Chinese yuan (currency)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "深圳",
+      "traditional": "深圳",
+      "pinyin": "shēn zhèn",
+      "meaning": "Shenzhen subprovincial city in Guangdong",
+      "hsk": null
+    },
+    {
+      "hanzi": "达到",
+      "traditional": "達到",
+      "pinyin": "dá dào",
+      "meaning": "to reach\nto achieve",
+      "hsk": 5
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "厦门",
+      "traditional": "廈門",
+      "pinyin": "xià mén",
+      "meaning": "Xiamen or Amoy, subprovincial city in Fujian, abbr. 廈|厦[Xia4]",
+      "hsk": null
+    },
+    {
+      "hanzi": "高达",
+      "traditional": "高達",
+      "pinyin": "gāo dá",
+      "meaning": "to attain\nto reach up to",
+      "hsk": 6
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "万",
+      "traditional": "萬",
+      "pinyin": "wàn",
+      "meaning": "ten thousand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "左右",
+      "traditional": "左右",
+      "pinyin": "zuǒ yòu",
+      "meaning": "nearby\napproximately",
+      "hsk": 4
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "即使",
+      "traditional": "即使",
+      "pinyin": "jí shǐ",
+      "meaning": "even if\neven though",
+      "hsk": 4
+    },
+    {
+      "hanzi": "如此",
+      "traditional": "如此",
+      "pinyin": "rú cǐ",
+      "meaning": "in this way\nso",
+      "hsk": null
+    },
+    {
+      "hanzi": "并不",
+      "traditional": "並不",
+      "pinyin": "bìng bù",
+      "meaning": "not at all\nemphatically not",
+      "hsk": null
+    },
+    {
+      "hanzi": "影响",
+      "traditional": "影響",
+      "pinyin": "yǐng xiǎng",
+      "meaning": "influence\neffect\nimpact",
+      "hsk": 3
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热情",
+      "traditional": "熱情",
+      "pinyin": "rè qíng",
+      "meaning": "cordial\nenthusiastic\npassionate",
+      "hsk": 3
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "货币",
+      "traditional": "貨幣",
+      "pinyin": "huò bì",
+      "meaning": "currency\nmonetary\nmoney",
+      "hsk": 6
+    },
+    {
+      "hanzi": "贬值",
+      "traditional": "貶值",
+      "pinyin": "biǎn zhí",
+      "meaning": "to become devaluated\nto devaluate\nto depreciate",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "通货膨胀",
+      "traditional": "通貨膨脹",
+      "pinyin": "tōng huò péng zhàng",
+      "meaning": "inflation",
+      "hsk": 6
+    },
+    {
+      "hanzi": "与",
+      "traditional": "與",
+      "pinyin": "yǔ",
+      "meaning": "and\ntogether with",
+      "hsk": 4
+    },
+    {
+      "hanzi": "存钱",
+      "traditional": "存錢",
+      "pinyin": "cún qián",
+      "meaning": "to deposit money\nto save money",
+      "hsk": null
+    },
+    {
+      "hanzi": "相比",
+      "traditional": "相比",
+      "pinyin": "xiāng bǐ",
+      "meaning": "to compare",
+      "hsk": null
+    },
+    {
+      "hanzi": "更",
+      "traditional": "更",
+      "pinyin": "gèng",
+      "meaning": "even more\nfurther\nfurthermore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "愿意",
+      "traditional": "願意",
+      "pinyin": "yuàn yì",
+      "meaning": "willing (to do sth)\nto wish\nto want",
+      "hsk": 3
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "花",
+      "traditional": "花",
+      "pinyin": "huā",
+      "meaning": "to spend (money, time)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "购买",
+      "traditional": "購買",
+      "pinyin": "gòu mǎi",
+      "meaning": "to purchase\nto buy",
+      "hsk": null
+    },
+    {
+      "hanzi": "房产",
+      "traditional": "房產",
+      "pinyin": "fáng chǎn",
+      "meaning": "real estate\nthe property market (e.g. houses)",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "毕竟",
+      "traditional": "畢竟",
+      "pinyin": "bì jìng",
+      "meaning": "after all\nwhen all is said and done",
+      "hsk": 5
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to see",
+      "hsk": 1
+    },
+    {
+      "hanzi": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "meaning": "to see\nto catch sight of",
+      "hsk": null
+    },
+    {
+      "hanzi": "摸",
+      "traditional": "摸",
+      "pinyin": "mō",
+      "meaning": "to find out\nto feel out\nto sound out",
+      "hsk": 5
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zháo",
+      "meaning": "(after a verb) succeeding in",
+      "hsk": 2
+    },
+    {
+      "hanzi": "财产",
+      "traditional": "財產",
+      "pinyin": "cái chǎn",
+      "meaning": "property\nassets",
+      "hsk": 5
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "still",
+      "hsk": 3
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "疯狂",
+      "traditional": "瘋狂",
+      "pinyin": "fēng kuáng",
+      "meaning": "crazy\nfrantic",
+      "hsk": 5
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "件",
+      "traditional": "件",
+      "pinyin": "jiàn",
+      "meaning": "classifier for events, things, clothes etc",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不可思议",
+      "traditional": "不可思議",
+      "pinyin": "bù kě sī yì",
+      "meaning": "inconceivable (idiom); unimaginable\nunfathomable",
+      "hsk": 6
+    },
+    {
+      "hanzi": "事情",
+      "traditional": "事情",
+      "pinyin": "shì qing",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "笔",
+      "traditional": "筆",
+      "pinyin": "bǐ",
+      "meaning": "classifier for sums of money, deals",
+      "hsk": null
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "选择",
+      "traditional": "選擇",
+      "pinyin": "xuǎn zé",
+      "meaning": "choice\noption",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "房价",
+        "pinyin": "fáng jià",
+        "meaning": "house price\ncost of housing",
+        "tc_hanzi": "房價"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "心中",
+        "pinyin": "xīn zhōng",
+        "meaning": "in one's thoughts\nin one's heart",
+        "tc_hanzi": "心中"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "特别",
+        "pinyin": "tè bié",
+        "meaning": "especially\nspecial\nunusual",
+        "tc_hanzi": "特別"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "重要",
+        "pinyin": "zhòng yào",
+        "meaning": "important",
+        "tc_hanzi": "重要"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "存在",
+        "pinyin": "cún zài",
+        "meaning": "to exist\nto be\nexistence",
+        "tc_hanzi": "存在"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普遍",
+        "pinyin": "pǔ biàn",
+        "meaning": "general\ncommon",
+        "tc_hanzi": "普遍"
+      },
+      {
+        "g": "renwei",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "认为",
+        "pinyin": "rèn wéi",
+        "meaning": "to believe\nto consider",
+        "tc_hanzi": "認為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "g": "cai-lateness",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "真正",
+        "pinyin": "zhēn zhèng",
+        "meaning": "genuine\nreal",
+        "tc_hanzi": "真正"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "地方",
+        "pinyin": "dì fang",
+        "meaning": "area\nplace\nterritory",
+        "tc_hanzi": "地方"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "结婚",
+        "pinyin": "jié hūn",
+        "meaning": "to get married",
+        "tc_hanzi": "結婚"
+      },
+      {
+        "g": "jiu",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "(if ...) then\nin that case",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "房价",
+        "pinyin": "fáng jià",
+        "meaning": "house price\ncost of housing",
+        "tc_hanzi": "房價"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "快速",
+        "pinyin": "kuài sù",
+        "meaning": "fast\nhigh-speed\nrapid",
+        "tc_hanzi": "快速"
+      },
+      {
+        "hanzi": "增长",
+        "pinyin": "zēng zhǎng",
+        "meaning": "to grow\nto increase",
+        "tc_hanzi": "增長"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "g": "aa",
+        "gh": true,
+        "hanzi": "远远",
+        "pinyin": "yuǎn yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠遠"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "超过",
+        "pinyin": "chāo guò",
+        "meaning": "to surpass\nto exceed\nto outstrip",
+        "tc_hanzi": "超過"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老百姓",
+        "pinyin": "lǎo bǎi xìng",
+        "meaning": "ordinary people\nthe \"person in the street\"",
+        "tc_hanzi": "老百姓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收入",
+        "pinyin": "shōu rù",
+        "meaning": "income\nrevenue",
+        "tc_hanzi": "收入"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "水平",
+        "pinyin": "shuǐ píng",
+        "meaning": "level (of achievement etc)\nstandard",
+        "tc_hanzi": "水平"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "大部分",
+        "pinyin": "dà bù fen",
+        "meaning": "in large part\nthe greater part\nthe majority",
+        "tc_hanzi": "大部分"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hanzi": "节衣缩食",
+        "pinyin": "jié yī suō shí",
+        "meaning": "to save on food and clothing (idiom); to live frugally",
+        "tc_hanzi": "節衣縮食"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "huán",
+        "meaning": "to return\nto pay back",
+        "tc_hanzi": "還"
+      },
+      {
+        "hanzi": "房贷",
+        "pinyin": "fáng dài",
+        "meaning": "home loan",
+        "tc_hanzi": "房貸"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "2009",
+        "pinyin": "4",
+        "tc_hanzi": "2009"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "至今",
+        "pinyin": "zhì jīn",
+        "meaning": "so far\nto this day\nuntil now",
+        "tc_hanzi": "至今"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "居高不下",
+        "pinyin": "jū gāo bú xià",
+        "meaning": "(of prices, rates etc) to remain high",
+        "tc_hanzi": "居高不下"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "房价",
+        "pinyin": "fáng jià",
+        "meaning": "house price\ncost of housing",
+        "tc_hanzi": "房價"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "维持",
+        "pinyin": "wéi chí",
+        "meaning": "to keep\nto maintain\nto preserve",
+        "tc_hanzi": "維持"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "整整",
+        "pinyin": "zhěng zhěng",
+        "meaning": "whole\nfull",
+        "tc_hanzi": "整整"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "线",
+        "pinyin": "xiàn",
+        "meaning": "(after a number) tier (unofficial ranking of a Chinese city)",
+        "tc_hanzi": "線"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "价格",
+        "pinyin": "jià gé",
+        "meaning": "price",
+        "tc_hanzi": "價格"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall\nabove average",
+        "tc_hanzi": "高"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to make\nto cause",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "发抖",
+        "pinyin": "fā dǒu",
+        "meaning": "to tremble\nto shake\nto shiver",
+        "tc_hanzi": "發抖"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hanzi": "线",
+        "pinyin": "xiàn",
+        "meaning": "(after a number) tier (unofficial ranking of a Chinese city)",
+        "tc_hanzi": "線"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hanzi": "房价",
+        "pinyin": "fáng jià",
+        "meaning": "house price\ncost of housing",
+        "tc_hanzi": "房價"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "涨",
+        "pinyin": "zhǎng",
+        "meaning": "to rise (of prices, rivers)\nto go up",
+        "tc_hanzi": "漲"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "降",
+        "pinyin": "jiàng",
+        "meaning": "to drop\nto fall\nto come down",
+        "tc_hanzi": "降"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "其他",
+        "pinyin": "qí tā",
+        "meaning": "other\nthe rest",
+        "tc_hanzi": "其他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "盖",
+        "pinyin": "gài",
+        "meaning": "to cover\nto build",
+        "tc_hanzi": "蓋"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "继续",
+        "pinyin": "jì xù",
+        "meaning": "to continue\nto proceed with\nto go on with",
+        "tc_hanzi": "繼續"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进入",
+        "pinyin": "jìn rù",
+        "meaning": "to enter\nto join\nto go into",
+        "tc_hanzi": "進入"
+      },
+      {
+        "hanzi": "2021",
+        "pinyin": "4",
+        "tc_hanzi": "2021"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "线",
+        "pinyin": "xiàn",
+        "meaning": "(after a number) tier (unofficial ranking of a Chinese city)",
+        "tc_hanzi": "線"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "均价",
+        "pinyin": "jūn jià",
+        "meaning": "average price",
+        "tc_hanzi": "均價"
+      },
+      {
+        "g": "wei-to-act-as",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wéi",
+        "meaning": "as (in the capacity of)\nto take sth as\nto be",
+        "tc_hanzi": "為"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hanzi": "平米",
+        "pinyin": "píng mǐ",
+        "meaning": "square meter",
+        "tc_hanzi": "平米"
+      },
+      {
+        "hanzi": "66493",
+        "pinyin": "9",
+        "tc_hanzi": "66493"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "深圳",
+        "pinyin": "shēn zhèn",
+        "meaning": "Shenzhen subprovincial city in Guangdong",
+        "tc_hanzi": "深圳"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "均价",
+        "pinyin": "jūn jià",
+        "meaning": "average price",
+        "tc_hanzi": "均價"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "达到",
+        "pinyin": "dá dào",
+        "meaning": "to reach\nto achieve",
+        "tc_hanzi": "達到"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hanzi": "平米",
+        "pinyin": "píng mǐ",
+        "meaning": "square meter",
+        "tc_hanzi": "平米"
+      },
+      {
+        "hanzi": "90049",
+        "pinyin": "6",
+        "tc_hanzi": "90049"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hanzi": "线",
+        "pinyin": "xiàn",
+        "meaning": "(after a number) tier (unofficial ranking of a Chinese city)",
+        "tc_hanzi": "線"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "厦门",
+        "pinyin": "xià mén",
+        "meaning": "Xiamen or Amoy, subprovincial city in Fujian, abbr. 廈|厦[Xia4]",
+        "tc_hanzi": "廈門"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "均价",
+        "pinyin": "jūn jià",
+        "meaning": "average price",
+        "tc_hanzi": "均價"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "高达",
+        "pinyin": "gāo dá",
+        "meaning": "to attain\nto reach up to",
+        "tc_hanzi": "高達"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hanzi": "平米",
+        "pinyin": "píng mǐ",
+        "meaning": "square meter",
+        "tc_hanzi": "平米"
+      },
+      {
+        "g": "wei-to-act-as",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wéi",
+        "meaning": "as (in the capacity of)\nto take sth as\nto be",
+        "tc_hanzi": "為"
+      },
+      {
+        "hanzi": "50097",
+        "pinyin": "6",
+        "tc_hanzi": "50097"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "其他",
+        "pinyin": "qí tā",
+        "meaning": "other\nthe rest",
+        "tc_hanzi": "其他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hanzi": "平米",
+        "pinyin": "píng mǐ",
+        "meaning": "square meter",
+        "tc_hanzi": "平米"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "左右",
+        "pinyin": "zuǒ yòu",
+        "meaning": "nearby\napproximately",
+        "tc_hanzi": "左右"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "g": "jishi",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "即使",
+        "pinyin": "jí shǐ",
+        "meaning": "even if\neven though",
+        "tc_hanzi": "即使"
+      },
+      {
+        "hanzi": "如此",
+        "pinyin": "rú cǐ",
+        "meaning": "in this way\nso",
+        "tc_hanzi": "如此"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hanzi": "并不",
+        "pinyin": "bìng bù",
+        "meaning": "not at all\nemphatically not",
+        "tc_hanzi": "並不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "影响",
+        "pinyin": "yǐng xiǎng",
+        "meaning": "influence\neffect\nimpact",
+        "tc_hanzi": "影響"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老百姓",
+        "pinyin": "lǎo bǎi xìng",
+        "meaning": "ordinary people\nthe \"person in the street\"",
+        "tc_hanzi": "老百姓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "热情",
+        "pinyin": "rè qíng",
+        "meaning": "cordial\nenthusiastic\npassionate",
+        "tc_hanzi": "熱情"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "货币",
+        "pinyin": "huò bì",
+        "meaning": "currency\nmonetary\nmoney",
+        "tc_hanzi": "貨幣"
+      },
+      {
+        "hanzi": "贬值",
+        "pinyin": "biǎn zhí",
+        "meaning": "to become devaluated\nto devaluate\nto depreciate",
+        "tc_hanzi": "貶值"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "通货膨胀",
+        "pinyin": "tōng huò péng zhàng",
+        "meaning": "inflation",
+        "tc_hanzi": "通貨膨脹"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "与",
+        "pinyin": "yǔ",
+        "meaning": "and\ntogether with",
+        "tc_hanzi": "與"
+      },
+      {
+        "hanzi": "存钱",
+        "pinyin": "cún qián",
+        "meaning": "to deposit money\nto save money",
+        "tc_hanzi": "存錢"
+      },
+      {
+        "hanzi": "相比",
+        "pinyin": "xiāng bǐ",
+        "meaning": "to compare",
+        "tc_hanzi": "相比"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "愿意",
+        "pinyin": "yuàn yì",
+        "meaning": "willing (to do sth)\nto wish\nto want",
+        "tc_hanzi": "願意"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "to spend (money, time)",
+        "tc_hanzi": "花"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "购买",
+        "pinyin": "gòu mǎi",
+        "meaning": "to purchase\nto buy",
+        "tc_hanzi": "購買"
+      },
+      {
+        "hanzi": "房产",
+        "pinyin": "fáng chǎn",
+        "meaning": "real estate\nthe property market (e.g. houses)",
+        "tc_hanzi": "房產"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "毕竟",
+        "pinyin": "bì jìng",
+        "meaning": "after all\nwhen all is said and done",
+        "tc_hanzi": "畢竟"
+      },
+      {
+        "hanzi": "房子",
+        "pinyin": "fáng zi",
+        "meaning": "apartment\nhouse",
+        "tc_hanzi": "房子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to see",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto catch sight of",
+        "tc_hanzi": "見"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "摸",
+        "pinyin": "mō",
+        "meaning": "to find out\nto feel out\nto sound out",
+        "tc_hanzi": "摸"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zháo",
+        "meaning": "(after a verb) succeeding in",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "财产",
+        "pinyin": "cái chǎn",
+        "meaning": "property\nassets",
+        "tc_hanzi": "財產"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "房价",
+        "pinyin": "fáng jià",
+        "meaning": "house price\ncost of housing",
+        "tc_hanzi": "房價"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall\nabove average",
+        "tc_hanzi": "高"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "still",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "愿意",
+        "pinyin": "yuàn yì",
+        "meaning": "willing (to do sth)\nto wish\nto want",
+        "tc_hanzi": "願意"
+      },
+      {
+        "g": "wei-overview",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wèi",
+        "meaning": "on behalf of\nfor the sake of\nbecause of",
+        "tc_hanzi": "為"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "疯狂",
+        "pinyin": "fēng kuáng",
+        "meaning": "crazy\nfrantic",
+        "tc_hanzi": "瘋狂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "不可思议",
+        "pinyin": "bù kě sī yì",
+        "meaning": "inconceivable (idiom); unimaginable\nunfathomable",
+        "tc_hanzi": "不可思議"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事情",
+        "pinyin": "shì qing",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事情"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "meaning": "classifier for sums of money, deals",
+        "tc_hanzi": "筆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "房",
+        "pinyin": "fáng",
+        "meaning": "room\nhouse",
+        "tc_hanzi": "房"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or\nnevertheless\nhad better",
+        "tc_hanzi": "還是"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "其他",
+        "pinyin": "qí tā",
+        "meaning": "other\nthe rest",
+        "tc_hanzi": "其他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "选择",
+        "pinyin": "xuǎn zé",
+        "meaning": "choice\noption",
+        "tc_hanzi": "選擇"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      }
+    ],
+    "version": 2,
+    "synopsis": "High house prices have not dampened the enthusiasm of Chinese people to own their own home.",
+    "syllable_times": [
+      0.32312925170068024,
+      0.5102040816326531,
+      0.64,
+      0.9850000000000001,
+      3.21,
+      3.6621315192743764,
+      4.41,
+      4.76,
+      4.96,
+      5.16,
+      5.36,
+      5.675000000000001,
+      6.02,
+      6.21,
+      6.4,
+      6.635,
+      6.87,
+      7.043333333333333,
+      7.216666666666667,
+      7.39,
+      7.6850000000000005,
+      8.59,
+      8.74,
+      8.89,
+      9.100000000000001,
+      9.31,
+      9.605,
+      10.22,
+      10.385000000000002,
+      10.55,
+      10.73,
+      10.91,
+      11.04,
+      11.329999999999998,
+      11.8,
+      12.103174603174603,
+      12.24,
+      12.45,
+      12.66,
+      12.83,
+      13,
+      14.14,
+      14.42,
+      14.7,
+      14.92,
+      15.139999999999999,
+      15.36,
+      15.57,
+      15.78,
+      16.05,
+      16.8,
+      17.11,
+      17.42,
+      17.92,
+      18.065,
+      18.21,
+      18.43,
+      18.662131519274375,
+      20.4,
+      20.65,
+      21,
+      21.235,
+      21.47,
+      21.59,
+      21.82,
+      22.05,
+      22.32,
+      22.62,
+      22.765,
+      22.91,
+      23.145,
+      23.38,
+      23.6,
+      23.82,
+      23.99,
+      24.18,
+      24.369999999999997,
+      24.56,
+      24.67,
+      24.85,
+      25.03,
+      25.335,
+      26.25,
+      26.490929705215418,
+      26.649659863945576,
+      26.808390022675734,
+      27.08049886621315,
+      27.235,
+      27.44,
+      27.687074829931973,
+      27.85333333333333,
+      28.06,
+      28.19,
+      28.465,
+      28.95,
+      29.215,
+      29.48,
+      29.745,
+      30.04,
+      30.32,
+      30.57,
+      32.68,
+      33.14625850340136,
+      33.37,
+      33.52,
+      33.769841269841265,
+      33.94,
+      34.25,
+      34.506802721088434,
+      35.28,
+      35.5125,
+      35.745000000000005,
+      35.9775,
+      36.21,
+      36.33,
+      36.614999999999995,
+      36.9,
+      37.155,
+      37.41,
+      37.625,
+      37.84,
+      38.02,
+      38.205,
+      38.39,
+      38.74149659863946,
+      39.78,
+      40.004999999999995,
+      40.23,
+      40.525,
+      40.82,
+      41.07,
+      41.32,
+      41.53,
+      41.64,
+      41.79,
+      41.99546485260771,
+      42.22222222222222,
+      43.54,
+      43.77,
+      44.015,
+      44.26,
+      44.525,
+      44.79,
+      45.095,
+      45.4,
+      45.7,
+      46,
+      46.17,
+      47.6,
+      47.875,
+      48.15,
+      48.425,
+      48.7,
+      48.98666666666667,
+      49.27333333333333,
+      49.61,
+      49.87,
+      50.18,
+      50.53,
+      50.75,
+      50.97,
+      51.269999999999996,
+      52.89,
+      53.14,
+      53.370000000000005,
+      53.6,
+      53.82,
+      53.99,
+      54.24,
+      54.467120181405896,
+      55.27,
+      55.495000000000005,
+      55.72,
+      56.004999999999995,
+      56.29,
+      56.620000000000005,
+      56.99,
+      57.19,
+      57.39,
+      57.605000000000004,
+      57.82,
+      57.98,
+      58.224999999999994,
+      58.47,
+      58.83,
+      59.09,
+      59.385000000000005,
+      59.77,
+      60.035,
+      60.3,
+      60.584999999999994,
+      60.87,
+      61.114999999999995,
+      61.36,
+      61.525,
+      61.69,
+      62.015,
+      63.37,
+      63.685,
+      64,
+      64.31,
+      64.62,
+      64.92500000000001,
+      65.23,
+      65.44,
+      65.65,
+      65.85,
+      66.1,
+      66.41,
+      66.75,
+      67.045,
+      67.34,
+      67.61,
+      67.81666666666666,
+      68.02333333333334,
+      68.23,
+      69.66,
+      69.89,
+      70.14,
+      70.39,
+      70.62,
+      70.85,
+      71.63,
+      72,
+      72.4,
+      72.66,
+      72.92,
+      73.25999999999999,
+      73.63,
+      73.945,
+      74.29,
+      74.54,
+      74.79,
+      75.04,
+      75.47,
+      75.72999999999999,
+      75.99,
+      76.28,
+      76.49666666666667,
+      76.71333333333334,
+      76.93,
+      77.94,
+      78.215,
+      78.49,
+      78.81,
+      79.16,
+      79.4,
+      79.65,
+      79.9,
+      80.13,
+      80.37,
+      80.61,
+      80.84,
+      81.05000000000001,
+      81.26,
+      81.505,
+      82.95,
+      83.26,
+      83.5275,
+      83.795,
+      83.99659863945578,
+      84.83,
+      85.07,
+      85.24,
+      85.41,
+      85.675,
+      85.94,
+      86.14333333333333,
+      86.34666666666666,
+      86.55,
+      86.79,
+      87.06,
+      87.33,
+      87.46,
+      87.745,
+      88.77,
+      88.96000000000001,
+      89.15,
+      89.385,
+      89.62,
+      89.94,
+      90.31,
+      90.52,
+      90.77,
+      91.02,
+      91.27,
+      91.98,
+      92.18,
+      92.415,
+      92.65,
+      92.93,
+      93.62,
+      93.765,
+      93.91,
+      94.11,
+      94.315,
+      94.52,
+      94.72,
+      95.10204081632652,
+      95.31,
+      95.54,
+      95.73500000000001,
+      95.93,
+      96.17,
+      96.41,
+      97.37,
+      97.635,
+      98.15,
+      98.42,
+      98.69,
+      98.86,
+      99.07333333333334,
+      99.28666666666666,
+      99.5,
+      99.72,
+      99.94,
+      100.16,
+      100.27,
+      100.54499999999999,
+      101.87,
+      102.125,
+      102.38,
+      102.535,
+      102.69,
+      103.24,
+      103.505,
+      103.77,
+      103.94,
+      104.09,
+      104.24,
+      104.46000000000001,
+      104.68,
+      104.87,
+      105.06,
+      105.225,
+      105.39,
+      105.715,
+      106.34,
+      106.55000000000001,
+      106.76,
+      106.97,
+      107.18,
+      107.39,
+      107.6,
+      107.81,
+      107.92,
+      108.18,
+      109.61,
+      109.87,
+      110.86,
+      111.03999999999999,
+      111.22,
+      111.48,
+      111.63,
+      111.805,
+      111.98,
+      112.26,
+      112.96,
+      113.1,
+      113.25,
+      113.58,
+      114.15,
+      114.36,
+      114.57,
+      114.75999999999999,
+      114.95,
+      115.16499999999999,
+      115.38,
+      115.615,
+      115.85,
+      116.433288
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      19,
+      34,
+      49,
+      51,
+      65,
+      78,
+      80,
+      95,
+      105,
+      115,
+      126,
+      128,
+      148,
+      159,
+      176,
+      188,
+      190,
+      204,
+      214,
+      225,
+      238,
+      240,
+      254,
+      261,
+      283
+    ],
+    "sentence_translations": [
+      "House Prices in China",
+      "",
+      "Houses hold a particularly important place in the hearts of Chinese people.",
+      "It is widely believed that you need to own your own house in order to truly start a family.",
+      "So in many parts of China, if you want to get married, you first need to buy a house.",
+      "",
+      "However, the rapid rise in house prices has far exceeded the income levels of ordinary people.",
+      "Most people have to live frugally for decades in order to pay off their mortgages.",
+      "",
+      "Since 2009, house prices have remained high for a full decade.",
+      "In first-tier cities, house prices are so high they make people tremble.",
+      "In second and third-tier cities, house prices only go up and never come down.",
+      "In other cities, the construction and sale of houses also continues.",
+      "",
+      "Entering 2021, the average house price in January in the first-tier city Beijing was 66,493 yuan per square meter.",
+      "In Shenzhen, the average price in January reached 90,049 yuan per square meter.",
+      "Among second and third-tier cities, in Xiamen, the average price in January reached as high as 50,097 yuan per square meter.",
+      "In other cities, house prices were around 20,000 yuan per square meter.",
+      "",
+      "But even so, ordinary people’s enthusiasm for buying houses remained unaffected!",
+      "Because of depreciation of money and inflation, when compared to saving money, ..",
+      ".. people are more willing to spend their money on real estate.",
+      "After all, houses are visible and tangible assets.",
+      "",
+      "There are still so many people who are crazy about buying houses even though house prices are so high.",
+      "This is an extraordinary phenomenon!",
+      "What about you? If you had a large sum of money, would you buy a house or would you make a different choice?",
+      ""
+    ]
+  }
+}

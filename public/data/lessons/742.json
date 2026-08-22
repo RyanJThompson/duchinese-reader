@@ -1,0 +1,413 @@
+{
+  "id": "742",
+  "title": "Don’t Run",
+  "level": "newbie",
+  "date": "2019-06-08",
+  "synopsis": "Ben runs away as soon as he sees Little Yu.",
+  "audioUrl": "https://static.duchinese.net/documents/1064/00ebffa3d23520b3ca912bdfadc8f37785f45b34.mp3?1559200075",
+  "series": {
+    "title": "Ben’s life in China 5: You’re my best friend",
+    "chapter": 28,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "别跑\n\n小雨：本，早啊！\n本：早！\n小雨：本，别跑啊！\n本：我要上课了，再见！",
+    "traditional": "別跑\n\n小雨：本，早啊！\n本：早！\n小雨：本，別跑啊！\n本：我要上課了，再見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Don’t Run"
+    },
+    {
+      "index": 2,
+      "simplified": "小雨：本，早啊！",
+      "traditional": "小雨：本，早啊！",
+      "pinyin": "xiǎo yǔ běn zǎo a",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Ben, morning!"
+    },
+    {
+      "index": 4,
+      "simplified": "本：早！",
+      "traditional": "本：早！",
+      "pinyin": "běn zǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Morning!"
+    },
+    {
+      "index": 6,
+      "simplified": "小雨：本，别跑啊！",
+      "traditional": "小雨：本，別跑啊！",
+      "pinyin": "xiǎo yǔ běn bié pǎo a",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Ben, don’t run!"
+    },
+    {
+      "index": 8,
+      "simplified": "本：我要上课了，再见！",
+      "traditional": "本：我要上課了，再見！",
+      "pinyin": "běn wǒ yào shàng kè le zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: I have to attend class, see you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "meaning": "to attend class",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早",
+        "pinyin": "zǎo",
+        "meaning": "early",
+        "tc_hanzi": "早"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben runs away as soon as he sees Little Yu.",
+    "syllable_times": [
+      0.4,
+      2.4523603389133437,
+      2.4523603389133437,
+      2.4523603389133437,
+      3.23,
+      3.630673475362521,
+      5.1288828129659025,
+      5.1288828129659025,
+      6.792555702890423,
+      6.792555702890423,
+      6.792555702890423,
+      7.21,
+      7.430133064337772,
+      7.797386839101427,
+      9.442231881706942,
+      9.442231881706942,
+      9.73842714564781,
+      10.067360713515136,
+      10.429830000018903,
+      10.73,
+      11.66,
+      11.99,
+      12.611202,
+      12.611202
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      11,
+      12,
+      16,
+      17,
+      25,
+      26,
+      35
+    ],
+    "sentence_translations": [
+      "Don’t Run",
+      "",
+      "Little Yu: Ben, morning!",
+      "",
+      "Ben: Morning!",
+      "",
+      "Little Yu: Ben, don’t run!",
+      "",
+      "Ben: I have to attend class, see you!",
+      ""
+    ]
+  }
+}

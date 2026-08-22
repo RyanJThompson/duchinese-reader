@@ -1,0 +1,449 @@
+{
+  "id": "915",
+  "title": "Called What?",
+  "level": "newbie",
+  "date": "2020-06-09",
+  "synopsis": "Have you tasted Oriental melon?",
+  "audioUrl": "https://static.duchinese.net/documents/915/9d5fb8b6c441a48ca7e5f8e3203735ce26e0684f.mp3?1588494383",
+  "series": null,
+  "fullText": {
+    "simplified": "这个汉语叫什么？\n\n安：我很喜欢这个水果。这个汉语叫什么？\n李现：香瓜。\n安：在美国没有香瓜。",
+    "traditional": "這個漢語叫什麼？\n\n安：我很喜歡這個水果。這個漢語叫什麼？\n李現：香瓜。\n安：在美國沒有香瓜。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What is it called in Chinese?"
+    },
+    {
+      "index": 2,
+      "simplified": "安：我很喜欢这个水果。这个汉语叫什么？",
+      "traditional": "安：我很喜歡這個水果。這個漢語叫什麼？",
+      "pinyin": "ān wǒ hěn xǐ huan zhè ge shuǐ guǒ zhè ge hàn yǔ jiào shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I really like this fruit. What is it called in Chinese?"
+    },
+    {
+      "index": 4,
+      "simplified": "李现：香瓜。",
+      "traditional": "李現：香瓜。",
+      "pinyin": "lǐ xiàn xiāng guā",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li Xian: Oriental melon."
+    },
+    {
+      "index": 6,
+      "simplified": "安：在美国没有香瓜。",
+      "traditional": "安：在美國沒有香瓜。",
+      "pinyin": "ān zài měi guó méi yǒu xiāng guā",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Anne: We don’t have Oriental melons in America."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "安",
+      "traditional": "安",
+      "pinyin": "ān",
+      "meaning": "Anne (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李现",
+      "traditional": "李現",
+      "pinyin": "lǐ xiàn",
+      "meaning": "Li Xian (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "香瓜",
+      "traditional": "香瓜",
+      "pinyin": "xiāng guā",
+      "meaning": "Oriental melon",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李现",
+        "pinyin": "lǐ xiàn",
+        "meaning": "Li Xian (name)",
+        "tc_hanzi": "李現"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "香瓜",
+        "pinyin": "xiāng guā",
+        "meaning": "Oriental melon",
+        "tc_hanzi": "香瓜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "香瓜",
+        "pinyin": "xiāng guā",
+        "meaning": "Oriental melon",
+        "tc_hanzi": "香瓜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Have you tasted Oriental melon?",
+    "syllable_times": [
+      0.3,
+      0.5324264162982052,
+      0.835,
+      1.25,
+      1.5533333333333335,
+      1.856666666666667,
+      3.7646388332032927,
+      3.7646388332032927,
+      4.159296204265836,
+      4.518780385001333,
+      4.925,
+      5.38,
+      5.6,
+      5.831750395207049,
+      6.204612791910768,
+      7.54,
+      7.82,
+      8.48,
+      8.85,
+      9.32,
+      9.598205476273575,
+      9.95,
+      11.471820192750204,
+      11.471820192750204,
+      11.471820192750204,
+      11.915,
+      14.053328588604927,
+      14.053328588604927,
+      14.36,
+      14.785,
+      15.51,
+      15.850000000000001,
+      16.19,
+      16.592265906494546,
+      17.464354,
+      17.464354
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      23,
+      24,
+      28,
+      29,
+      36
+    ],
+    "sentence_translations": [
+      "What is it called in Chinese?",
+      "",
+      "Anne: I really like this fruit. What is it called in Chinese?",
+      "",
+      "Li Xian: Oriental melon.",
+      "",
+      "Anne: We don’t have Oriental melons in America.",
+      ""
+    ]
+  }
+}

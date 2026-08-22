@@ -1,0 +1,1777 @@
+{
+  "id": "1948",
+  "title": "How Much Is That Cup?",
+  "level": "newbie",
+  "date": "2023-04-03",
+  "synopsis": "Come with Anne to a store!",
+  "audioUrl": "https://static.duchinese.net/documents/1948/717e768e3a334c42c2966e4853ee3a5079a42003.mp3?1677751235",
+  "series": {
+    "title": "Newbie Course 3: Who Is Gao Tian?",
+    "chapter": 5,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "那个杯子多少钱？\n\nSalesperson：您好！您想买什么？\nAnne：你好！我想买水果。请问，水果在哪儿？\nSalesperson：您想买什么水果？\nAnne：苹果。\nSalesperson：苹果在那儿。\nAnne：苹果多少钱？\nSalesperson：十八块。\nAnne：那是什么？\nSalesperson：那是杯子。\nAnne：那个杯子多少钱？\nSalesperson：九十八块。\nAnne：太贵了。这个杯子呢？这个杯子贵吗？\nSalesperson：这个杯子三十九块。\nAnne：这个杯子不贵，我买这个杯子。苹果和杯子多少钱？\nSalesperson：苹果十八块，杯子三十九块，苹果和杯子五十七块。\nAnne：这是五十七块。\nSalesperson：谢谢！",
+    "traditional": "那個杯子多少錢？\n\nSalesperson：您好！您想買什麼？\nAnne：你好！我想買水果。請問，水果在哪兒？\nSalesperson：您想買什麼水果？\nAnne：蘋果。\nSalesperson：蘋果在那兒。\nAnne：蘋果多少錢？\nSalesperson：十八塊。\nAnne：那是什麼？\nSalesperson：那是杯子。\nAnne：那個杯子多少錢？\nSalesperson：九十八塊。\nAnne：太貴了。這個杯子呢？這個杯子貴嗎？\nSalesperson：這個杯子三十九塊。\nAnne：這個杯子不貴，我買這個杯子。蘋果和杯子多少錢？\nSalesperson：蘋果十八塊，杯子三十九塊，蘋果和杯子五十七塊。\nAnne：這是五十七塊。\nSalesperson：謝謝！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How Much Is That Cup?"
+    },
+    {
+      "index": 2,
+      "simplified": "Salesperson：您好！您想买什么？",
+      "traditional": "Salesperson：您好！您想買什麼？",
+      "pinyin": "2 nín hǎo nín xiǎng mǎi shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: Hello! What do you want to buy?"
+    },
+    {
+      "index": 4,
+      "simplified": "Anne：你好！我想买水果。请问，水果在哪儿？",
+      "traditional": "Anne：你好！我想買水果。請問，水果在哪兒？",
+      "pinyin": "1 nǐ hǎo wǒ xiǎng mǎi shuǐ guǒ qǐng wèn shuǐ guǒ zài nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Hello! I want to buy fruit. Excuse me, where is the fruit?"
+    },
+    {
+      "index": 6,
+      "simplified": "Salesperson：您想买什么水果？",
+      "traditional": "Salesperson：您想買什麼水果？",
+      "pinyin": "2 nín xiǎng mǎi shén me shuǐ guǒ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: What kind of fruit do you want to buy?"
+    },
+    {
+      "index": 8,
+      "simplified": "Anne：苹果。",
+      "traditional": "Anne：蘋果。",
+      "pinyin": "1 píng guǒ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Apples."
+    },
+    {
+      "index": 10,
+      "simplified": "Salesperson：苹果在那儿。",
+      "traditional": "Salesperson：蘋果在那兒。",
+      "pinyin": "2 píng guǒ zài nà'r",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: The apples are there."
+    },
+    {
+      "index": 12,
+      "simplified": "Anne：苹果多少钱？",
+      "traditional": "Anne：蘋果多少錢？",
+      "pinyin": "1 píng guǒ duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: How much are the apples?"
+    },
+    {
+      "index": 14,
+      "simplified": "Salesperson：十八块。",
+      "traditional": "Salesperson：十八塊。",
+      "pinyin": "2 shí bā kuài",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: 18 yuan."
+    },
+    {
+      "index": 16,
+      "simplified": "Anne：那是什么？",
+      "traditional": "Anne：那是什麼？",
+      "pinyin": "1 nà shì shén me",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: What is that?"
+    },
+    {
+      "index": 18,
+      "simplified": "Salesperson：那是杯子。",
+      "traditional": "Salesperson：那是杯子。",
+      "pinyin": "2 nà shì bēi zi",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: That is a cup."
+    },
+    {
+      "index": 20,
+      "simplified": "Anne：那个杯子多少钱？",
+      "traditional": "Anne：那個杯子多少錢？",
+      "pinyin": "1 nà ge bēi zi duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: How much is that cup?"
+    },
+    {
+      "index": 22,
+      "simplified": "Salesperson：九十八块。",
+      "traditional": "Salesperson：九十八塊。",
+      "pinyin": "2 jiǔ shí bā kuài",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: 98 yuan."
+    },
+    {
+      "index": 24,
+      "simplified": "Anne：太贵了。这个杯子呢？这个杯子贵吗？",
+      "traditional": "Anne：太貴了。這個杯子呢？這個杯子貴嗎？",
+      "pinyin": "1 tài guì le zhè ge bēi zi ne zhè ge bēi zi guì ma",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: It’s too expensive. And this cup? Is this cup expensive?"
+    },
+    {
+      "index": 26,
+      "simplified": "Salesperson：这个杯子三十九块。",
+      "traditional": "Salesperson：這個杯子三十九塊。",
+      "pinyin": "2 zhè ge bēi zi sān shí jiǔ kuài",
+      "english": ""
+    },
+    {
+      "index": 27,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: This cup is 39 yuan."
+    },
+    {
+      "index": 28,
+      "simplified": "Anne：这个杯子不贵，我买这个杯子。苹果和杯子多少钱？",
+      "traditional": "Anne：這個杯子不貴，我買這個杯子。蘋果和杯子多少錢？",
+      "pinyin": "1 zhè ge bēi zi bú guì wǒ mǎi zhè ge bēi zi píng guǒ hé bēi zi duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 29,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: This cup is not expensive. I will buy this cup. How much are the apple and the cup?"
+    },
+    {
+      "index": 30,
+      "simplified": "Salesperson：苹果十八块，杯子三十九块，苹果和杯子五十七块。",
+      "traditional": "Salesperson：蘋果十八塊，杯子三十九塊，蘋果和杯子五十七塊。",
+      "pinyin": "2 píng guǒ shí bā kuài bēi zi sān shí jiǔ kuài píng guǒ hé bēi zi wǔ shí qī kuài",
+      "english": ""
+    },
+    {
+      "index": 31,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Salesman: The apple is 18 yuan, and the cup is 39 yuan. The apple and the cup are 57 yuan."
+    },
+    {
+      "index": 32,
+      "simplified": "Anne：这是五十七块。",
+      "traditional": "Anne：這是五十七塊。",
+      "pinyin": "1 zhè shì wǔ shí qī kuài",
+      "english": ""
+    },
+    {
+      "index": 33,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: This is 57 yuan."
+    },
+    {
+      "index": 34,
+      "simplified": "Salesperson：谢谢！",
+      "traditional": "Salesperson：謝謝！",
+      "pinyin": "2 xiè xie",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯子",
+      "traditional": "杯子",
+      "pinyin": "bēi zi",
+      "meaning": "cup\nglass",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "meaning": "apple",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà'r",
+      "meaning": "there\nover there",
+      "hsk": null
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "meaning": "eight",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "meaning": "expensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "七",
+      "traditional": "七",
+      "pinyin": "qī",
+      "meaning": "seven",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "那儿",
+        "pinyin": "nà'r",
+        "meaning": "there\nover there",
+        "tc_hanzi": "那兒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup\nglass",
+        "tc_hanzi": "杯子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "七",
+        "pinyin": "qī",
+        "meaning": "seven",
+        "tc_hanzi": "七"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "七",
+        "pinyin": "qī",
+        "meaning": "seven",
+        "tc_hanzi": "七"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Salesperson：",
+        "pinyin": "2",
+        "tc_hanzi": "Salesperson："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.36281179138321995,
+      0.6122448979591837,
+      0.9637188208616779,
+      1.64,
+      1.9331065759637187,
+      2.193877551020408,
+      4.03,
+      4.03,
+      4.03,
+      4.365079365079365,
+      5.77,
+      6.037414965986394,
+      6.241496598639456,
+      6.451247165532879,
+      6.700680272108843,
+      7.98,
+      7.98,
+      8.350340136054422,
+      9.62,
+      9.920634920634921,
+      10.2437641723356,
+      10.71,
+      11.241496598639456,
+      12.43,
+      12.777777777777777,
+      13.62,
+      14.055,
+      14.57,
+      14.886621315192743,
+      16.4,
+      16.4,
+      16.4,
+      16.69501133786848,
+      16.904761904761905,
+      17.08049886621315,
+      17.273242630385486,
+      17.482993197278912,
+      17.766439909297052,
+      18.91,
+      18.91,
+      19.37641723356009,
+      21,
+      21,
+      21,
+      21.343537414965986,
+      21.55328798185941,
+      21.768707482993197,
+      22.91,
+      22.91,
+      23.33,
+      23.88,
+      24.166666666666664,
+      24.472789115646258,
+      25.980725623582767,
+      25.980725623582767,
+      25.980725623582767,
+      26.33219954648526,
+      26.558956916099774,
+      27.72,
+      27.72,
+      28.48639455782313,
+      28.8718820861678,
+      29.17800453514739,
+      30.64,
+      30.64,
+      30.64,
+      30.895691609977323,
+      31.116780045351472,
+      31.405895691609977,
+      32.49433106575964,
+      32.49433106575964,
+      32.82879818594104,
+      32.993197278911566,
+      33.35034013605442,
+      34.05,
+      34.342403628117914,
+      34.59750566893424,
+      35.95,
+      35.95,
+      35.95,
+      36.264172335600904,
+      36.46258503401361,
+      36.70068027210884,
+      37.74,
+      37.74,
+      38.16326530612245,
+      38.52607709750567,
+      39.59,
+      40,
+      40.20408163265306,
+      40.493197278911566,
+      40.6859410430839,
+      41.73,
+      42.0578231292517,
+      42.239229024943306,
+      42.590702947845806,
+      43.24,
+      43.56575963718821,
+      45.05,
+      45.05,
+      45.05,
+      45.32312925170068,
+      45.538548752834465,
+      45.80498866213152,
+      46.12244897959184,
+      46.383219954648524,
+      46.59297052154195,
+      46.81972789115646,
+      48.03,
+      48.03,
+      48.37301587301587,
+      48.560090702947846,
+      48.86621315192743,
+      49.57,
+      49.94331065759637,
+      51.01,
+      51.34920634920635,
+      51.96,
+      52.295918367346935,
+      52.50566893424036,
+      52.76643990929705,
+      53.57709750566893,
+      53.93424036281179,
+      54.45,
+      54.78458049886621,
+      55.11904761904762,
+      55.79,
+      56.060090702947846,
+      56.343537414965986,
+      57.96,
+      57.96,
+      57.96,
+      58.29365079365079,
+      58.497732426303855,
+      58.75283446712018,
+      58.96825396825397,
+      59.94331065759637,
+      60.18707482993197,
+      60.357142857142854,
+      60.62358276643991,
+      60.816326530612244,
+      61.105442176870746,
+      62.14,
+      62.44331065759637,
+      62.6530612244898,
+      62.87981859410431,
+      63.157596371882086,
+      63.424036281179134,
+      63.63378684807256,
+      63.79251700680272,
+      64.05895691609977,
+      65.31,
+      65.31,
+      65.58390022675736,
+      66.26,
+      66.56462585034014,
+      66.82539682539682,
+      67.14285714285714,
+      68.34,
+      68.34,
+      68.34,
+      68.77551020408163,
+      69.7
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      16,
+      17,
+      31,
+      32,
+      39,
+      40,
+      43,
+      44,
+      49,
+      50,
+      55,
+      56,
+      61,
+      62,
+      67,
+      68,
+      73,
+      74,
+      81,
+      82,
+      88,
+      89,
+      105,
+      106,
+      115,
+      116,
+      135,
+      136,
+      156,
+      157,
+      165,
+      166
+    ],
+    "sentence_translations": [
+      "How Much Is That Cup?",
+      "",
+      "Salesman: Hello! What do you want to buy?",
+      "",
+      "Anne: Hello! I want to buy fruit. Excuse me, where is the fruit?",
+      "",
+      "Salesman: What kind of fruit do you want to buy?",
+      "",
+      "Anne: Apples.",
+      "",
+      "Salesman: The apples are there.",
+      "",
+      "Anne: How much are the apples?",
+      "",
+      "Salesman: 18 yuan.",
+      "",
+      "Anne: What is that?",
+      "",
+      "Salesman: That is a cup.",
+      "",
+      "Anne: How much is that cup?",
+      "",
+      "Salesman: 98 yuan.",
+      "",
+      "Anne: It’s too expensive. And this cup? Is this cup expensive?",
+      "",
+      "Salesman: This cup is 39 yuan.",
+      "",
+      "Anne: This cup is not expensive. I will buy this cup. How much are the apple and the cup?",
+      "",
+      "Salesman: The apple is 18 yuan, and the cup is 39 yuan. The apple and the cup are 57 yuan.",
+      "",
+      "Anne: This is 57 yuan.",
+      "",
+      "Salesman: Thank you!"
+    ]
+  }
+}

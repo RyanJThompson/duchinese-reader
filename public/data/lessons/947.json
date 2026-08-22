@@ -1,0 +1,138 @@
+{
+  "id": "947",
+  "title": "Hello",
+  "level": "newbie",
+  "date": "2019-06-05",
+  "synopsis": "Anne has just arrived in China to study. She is at the airport waiting for her school’s car to pick her up and strikes up a conversation with another airport visitor.",
+  "audioUrl": "https://static.duchinese.net/documents/947/aadd1a8c60791a67b9c0597cb53578d16c5c1710.mp3?1591186035",
+  "series": {
+    "title": "Newbie Course 1: Anne Arrives in China",
+    "chapter": 0,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你好\n\nAnne：你好！\nLi：你好！",
+    "traditional": "你好\n\nAnne：你好！\nLi：你好！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Hello"
+    },
+    {
+      "index": 2,
+      "simplified": "Anne：你好！",
+      "traditional": "Anne：你好！",
+      "pinyin": "nǐ hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Hello!"
+    },
+    {
+      "index": 4,
+      "simplified": "Li：你好！",
+      "traditional": "Li：你好！",
+      "pinyin": "nǐ hǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Li: Hello!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne has just arrived in China to study. She is at the airport waiting for her school’s car to pick her up and strikes up a conversation with another airport visitor.",
+    "syllable_times": [
+      0.22675736961451246,
+      1.32,
+      1.8140589569160996,
+      3.06,
+      3.35,
+      3.936984
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      6,
+      7,
+      10
+    ],
+    "sentence_translations": [
+      "Hello",
+      "",
+      "Anne: Hello!",
+      "",
+      "Li: Hello!",
+      ""
+    ]
+  }
+}

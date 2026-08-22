@@ -1,0 +1,741 @@
+{
+  "id": "E300",
+  "title": "Let's Go To The Beach",
+  "level": "intermediate",
+  "date": "2019-02-20",
+  "synopsis": "Here are some things you might want to bring to the beach.",
+  "audioUrl": "https://static.duchinese.net/documents/976/7aab75208eabe90a39b49056744729721356c64e.mp3?1549096648",
+  "series": null,
+  "fullText": {
+    "simplified": "我们一起去海边吧\n\n丽丽：周末天气很好，我们一起去海边玩吧！\n本：好啊，吹吹海风，喝喝啤酒，一定很舒服！\n丽丽：那我们带什么呢？\n本：泳衣、泳镜、墨镜、书，还有啤酒！",
+    "traditional": "我們一起去海邊吧\n\n麗麗：週末天氣很好，我們一起去海邊玩吧！\n本：好啊，吹吹海風，喝喝啤酒，一定很舒服！\n麗麗：那我們帶什麼呢？\n本：泳衣、泳鏡、墨鏡、書，還有啤酒！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Let's Go To The Beach Together"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：周末天气很好，我们一起去海边玩吧！",
+      "traditional": "麗麗：週末天氣很好，我們一起去海邊玩吧！",
+      "pinyin": "lì lì zhōu mò tiān qì hěn hǎo wǒ men yì qǐ qù hǎi biān wán ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: This weekend the weather will be really good. Let’s go to the beach to have fun!"
+    },
+    {
+      "index": 4,
+      "simplified": "本：好啊，吹吹海风，喝喝啤酒，一定很舒服！",
+      "traditional": "本：好啊，吹吹海風，喝喝啤酒，一定很舒服！",
+      "pinyin": "běn hǎo a chuī chuī hǎi fēng hē hē pí jiǔ yí dìng hěn shū fu",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Nice! Enjoy the breeze and drink some beer. It will be really relaxing for sure!"
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：那我们带什么呢？",
+      "traditional": "麗麗：那我們帶什麼呢？",
+      "pinyin": "lì lì nà wǒ men dài shén me ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: So what should we bring?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：泳衣、泳镜、墨镜、书，还有啤酒！",
+      "traditional": "本：泳衣、泳鏡、墨鏡、書，還有啤酒！",
+      "pinyin": "běn yǒng yī yǒng jìng mò jìng shū hái yǒu pí jiǔ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Swimwear, swim goggles, sunglasses, books, and beer!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "海边",
+      "traditional": "海邊",
+      "pinyin": "hǎi biān",
+      "meaning": "seaside\ncoast\nbeach",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "周末",
+      "traditional": "週末",
+      "pinyin": "zhōu mò",
+      "meaning": "weekend",
+      "hsk": 3
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吹",
+      "traditional": "吹",
+      "pinyin": "chuī",
+      "meaning": "to blow\nto puff\nto play a wind instrument",
+      "hsk": 5
+    },
+    {
+      "hanzi": "海风",
+      "traditional": "海風",
+      "pinyin": "hǎi fēng",
+      "meaning": "sea breeze\nsea wind (i.e. from the sea)",
+      "hsk": null
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啤酒",
+      "traditional": "啤酒",
+      "pinyin": "pí jiǔ",
+      "meaning": "beer (loanword)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "certainly\nnecessarily",
+      "hsk": 3
+    },
+    {
+      "hanzi": "舒服",
+      "traditional": "舒服",
+      "pinyin": "shū fu",
+      "meaning": "comfortable\nfeeling well",
+      "hsk": 3
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "泳衣",
+      "traditional": "泳衣",
+      "pinyin": "yǒng yī",
+      "meaning": "swimsuit\nbathing suit",
+      "hsk": null
+    },
+    {
+      "hanzi": "泳镜",
+      "traditional": "泳鏡",
+      "pinyin": "yǒng jìng",
+      "meaning": "swimming goggles",
+      "hsk": null
+    },
+    {
+      "hanzi": "墨镜",
+      "traditional": "墨鏡",
+      "pinyin": "mò jìng",
+      "meaning": "sunglasses",
+      "hsk": null
+    },
+    {
+      "hanzi": "书",
+      "traditional": "書",
+      "pinyin": "shū",
+      "meaning": "book",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "海边",
+        "pinyin": "hǎi biān",
+        "meaning": "seaside\ncoast\nbeach",
+        "tc_hanzi": "海邊"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "周末",
+        "pinyin": "zhōu mò",
+        "meaning": "weekend",
+        "tc_hanzi": "週末"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "海边",
+        "pinyin": "hǎi biān",
+        "meaning": "seaside\ncoast\nbeach",
+        "tc_hanzi": "海邊"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吹",
+        "pinyin": "chuī",
+        "meaning": "to blow\nto puff\nto play a wind instrument",
+        "tc_hanzi": "吹"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吹",
+        "pinyin": "chuī",
+        "meaning": "to blow\nto puff\nto play a wind instrument",
+        "tc_hanzi": "吹"
+      },
+      {
+        "hanzi": "海风",
+        "pinyin": "hǎi fēng",
+        "meaning": "sea breeze\nsea wind (i.e. from the sea)",
+        "tc_hanzi": "海風"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啤酒",
+        "pinyin": "pí jiǔ",
+        "meaning": "beer (loanword)",
+        "tc_hanzi": "啤酒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "舒服",
+        "pinyin": "shū fu",
+        "meaning": "comfortable\nfeeling well",
+        "tc_hanzi": "舒服"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "泳衣",
+        "pinyin": "yǒng yī",
+        "meaning": "swimsuit\nbathing suit",
+        "tc_hanzi": "泳衣"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "泳镜",
+        "pinyin": "yǒng jìng",
+        "meaning": "swimming goggles",
+        "tc_hanzi": "泳鏡"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "墨镜",
+        "pinyin": "mò jìng",
+        "meaning": "sunglasses",
+        "tc_hanzi": "墨鏡"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啤酒",
+        "pinyin": "pí jiǔ",
+        "meaning": "beer (loanword)",
+        "tc_hanzi": "啤酒"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Here are some things you might want to bring to the beach.",
+    "syllable_times": [
+      0.23580933246732685,
+      0.40816326530612246,
+      0.6802721088435374,
+      1.1337868480725624,
+      1.5873015873015872,
+      1.8594104308390023,
+      2.17687074829932,
+      4.696495217408321,
+      4.696495217408321,
+      4.696495217408321,
+      4.988662131519274,
+      5.351473922902494,
+      5.62358276643991,
+      5.8765619313994115,
+      6.213151927437642,
+      6.8480725623582765,
+      7.029478458049887,
+      7.210884353741497,
+      7.437641723356009,
+      7.891156462585034,
+      8.258116444125195,
+      8.526077097505668,
+      8.798185941043084,
+      9.070294784580499,
+      10.695426827532858,
+      10.695426827532858,
+      11.020408163265307,
+      12.199546485260772,
+      12.526132294622832,
+      12.789115646258503,
+      13.061224489795919,
+      13.869540323542862,
+      14.285714285714286,
+      14.438507396370271,
+      14.784580498866212,
+      15.736961451247165,
+      16.009070294784582,
+      16.417233560090704,
+      16.655079641505598,
+      16.961451247165535,
+      18.476834681277804,
+      18.476834681277804,
+      18.476834681277804,
+      18.68480725623583,
+      18.866213151927436,
+      19.22902494331066,
+      19.45578231292517,
+      19.624215392254335,
+      19.751278348342144,
+      21.6974925549744,
+      21.6974925549744,
+      22.086167800453516,
+      23.356009070294785,
+      23.764172335600907,
+      24.761904761904763,
+      25.170068027210885,
+      26.39455782312925,
+      27.482993197278912,
+      27.800453514739228,
+      28.20861678004535,
+      28.616780045351472,
+      29.29231292517007,
+      29.29231292517007
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      21,
+      22,
+      39,
+      40,
+      48,
+      49,
+      62
+    ],
+    "sentence_translations": [
+      "Let's Go To The Beach Together",
+      "",
+      "Lili: This weekend the weather will be really good. Let’s go to the beach to have fun!",
+      "",
+      "Ben: Nice! Enjoy the breeze and drink some beer. It will be really relaxing for sure!",
+      "",
+      "Lili: So what should we bring?",
+      "",
+      "Ben: Swimwear, swim goggles, sunglasses, books, and beer!",
+      ""
+    ]
+  }
+}

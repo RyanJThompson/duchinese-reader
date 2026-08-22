@@ -1,0 +1,905 @@
+{
+  "id": "884",
+  "title": "Air China",
+  "level": "elementary",
+  "date": "2020-05-02",
+  "synopsis": "What is China’s largest airline called in Chinese?",
+  "audioUrl": "https://static.duchinese.net/documents/884/a415f9e72d1697490375504b961c078fd852dff1.mp3?1587289673",
+  "series": null,
+  "fullText": {
+    "simplified": "空气中国\n\n小乐：上次你去日本，坐的是哪个航空公司的飞机？\n保罗：空气中国。\n小乐：空气中国？没听过这个航空公司。\n保罗：不可能吧？Air China不是中国最大的航空公司吗？你没听说过吗？\n小乐：保罗！那叫“中国航空”……",
+    "traditional": "空氣中國\n\n小樂：上次你去日本，坐的是哪個航空公司的飛機？\n保羅：空氣中國。\n小樂：空氣中國？沒聽過這個航空公司。\n保羅：不可能吧？Air China不是中國最大的航空公司嗎？你沒聽說過嗎？\n小樂：保羅！那叫“中國航空”……"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Air China"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：上次你去日本，坐的是哪个航空公司的飞机？",
+      "traditional": "小樂：上次你去日本，坐的是哪個航空公司的飛機？",
+      "pinyin": "xiǎo lè shàng cì nǐ qù rì běn zuò de shì nǎ ge háng kōng gōng sī de fēi jī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Last time you went to Japan, which airline did you fly with?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：空气中国。",
+      "traditional": "保羅：空氣中國。",
+      "pinyin": "bǎo luó kōng qì zhōng guó",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Air China."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：空气中国？没听过这个航空公司。",
+      "traditional": "小樂：空氣中國？沒聽過這個航空公司。",
+      "pinyin": "xiǎo lè kōng qì zhōng guó méi tīng guò zhè ge háng kōng gōng sī",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Air China? I haven’t heard of this airline."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：不可能吧？Air China不是中国最大的航空公司吗？你没听说过吗？",
+      "traditional": "保羅：不可能吧？Air China不是中國最大的航空公司嗎？你沒聽說過嗎？",
+      "pinyin": "bǎo luó bù kě néng ba 3 bú shì zhōng guó zuì dà de háng kōng gōng sī ma nǐ méi tīng shuō guò ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: It can’t be? Isn’t Air China the largest airline in China? You haven’t heard about it?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：保罗！那叫“中国航空”……",
+      "traditional": "小樂：保羅！那叫“中國航空”……",
+      "pinyin": "xiǎo lè bǎo luó nà jiào zhōng guó háng kōng",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "空气",
+      "traditional": "空氣",
+      "pinyin": "kōng qì",
+      "meaning": "air\natmosphere",
+      "hsk": 4
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "previous\nfirst (of multiple parts)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日本",
+      "traditional": "日本",
+      "pinyin": "rì běn",
+      "meaning": "Japan",
+      "hsk": null
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "航空",
+      "traditional": "航空",
+      "pinyin": "háng kōng",
+      "meaning": "aviation",
+      "hsk": 6
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "meaning": "airplane",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听说",
+      "traditional": "聽說",
+      "pinyin": "tīng shuō",
+      "meaning": "to hear (sth said)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "空气",
+        "pinyin": "kōng qì",
+        "meaning": "air\natmosphere",
+        "tc_hanzi": "空氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "previous\nfirst (of multiple parts)",
+        "tc_hanzi": "上"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "日本",
+        "pinyin": "rì běn",
+        "meaning": "Japan",
+        "tc_hanzi": "日本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "na",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "航空",
+        "pinyin": "háng kōng",
+        "meaning": "aviation",
+        "tc_hanzi": "航空"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "空气",
+        "pinyin": "kōng qì",
+        "meaning": "air\natmosphere",
+        "tc_hanzi": "空氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "空气",
+        "pinyin": "kōng qì",
+        "meaning": "air\natmosphere",
+        "tc_hanzi": "空氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "航空",
+        "pinyin": "háng kōng",
+        "meaning": "aviation",
+        "tc_hanzi": "航空"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "Air China",
+        "pinyin": "3",
+        "tc_hanzi": "Air China"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "航空",
+        "pinyin": "háng kōng",
+        "meaning": "aviation",
+        "tc_hanzi": "航空"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听说",
+        "pinyin": "tīng shuō",
+        "meaning": "to hear (sth said)",
+        "tc_hanzi": "聽說"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "航空",
+        "pinyin": "háng kōng",
+        "meaning": "aviation",
+        "tc_hanzi": "航空"
+      },
+      {
+        "hanzi": "”……",
+        "tc_hanzi": "”……"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What is China’s largest airline called in Chinese?",
+    "syllable_times": [
+      0.355,
+      0.71,
+      1.0899999999999999,
+      4.028235545586818,
+      4.028235545586818,
+      4.028235545586818,
+      4.4,
+      4.77,
+      5.02,
+      5.21,
+      5.465,
+      6.35,
+      6.65,
+      7.02,
+      7.3,
+      7.68,
+      7.82,
+      8.0625,
+      8.34013467083129,
+      8.5475,
+      8.79,
+      8.92,
+      9.265,
+      10.561095086657367,
+      10.561095086657367,
+      10.561095086657367,
+      10.925,
+      11.27,
+      11.649999999999999,
+      13.188053699880665,
+      13.188053699880665,
+      13.188053699880665,
+      13.779311234608432,
+      14.46,
+      14.95,
+      16.28,
+      16.665358824860707,
+      16.9894381496594,
+      17.29,
+      17.5,
+      17.65,
+      17.974999999999998,
+      18.241174045770965,
+      18.523774053188067,
+      20.688531137701915,
+      20.688531137701915,
+      20.688531137701915,
+      20.993333333333336,
+      21.296666666666667,
+      21.6,
+      22.76896707124484,
+      23.06,
+      23.38,
+      24.02,
+      24.23,
+      24.47,
+      24.77,
+      25.23,
+      25.555,
+      25.88,
+      26.02,
+      26.2875,
+      26.555,
+      26.822499999999998,
+      27.09,
+      28.09,
+      28.39,
+      28.68,
+      28.983333333333334,
+      29.286666666666665,
+      29.59,
+      31.75303787274841,
+      31.75303787274841,
+      31.75303787274841,
+      32.11,
+      33.21261351086816,
+      33.55,
+      34.29,
+      34.765,
+      35.27,
+      35.81,
+      36.711655,
+      36.711655
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      22,
+      23,
+      28,
+      29,
+      42,
+      43,
+      66,
+      67
+    ],
+    "sentence_translations": [
+      "Air China",
+      "",
+      "Little Le: Last time you went to Japan, which airline did you fly with?",
+      "",
+      "Paul: Air China.",
+      "",
+      "Little Le: Air China? I haven’t heard of this airline.",
+      "",
+      "Paul: It can’t be? Isn’t Air China the largest airline in China? You haven’t heard about it?",
+      "",
+      "Little Le: Paul! That’s ”Air China″…"
+    ]
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "id": "006",
+  "title": "My Friend",
+  "level": "newbie",
+  "date": "2015-11-13",
+  "synopsis": "In this lesson we see how you can describe a friend by explaining their personality and interests.",
+  "audioUrl": "https://static.duchinese.net/documents/6/95dd71a9d6c08e9bb61bbb28ca183e42f32619ec.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "我的朋友\n\n    我有一个中国朋友，她的名字叫李丽。我们是在北京认识的。她很漂亮，也很温柔。她和我一样，很喜欢猫，不喜欢狗。我喜欢和她在一起玩儿，因为她经常教我说汉语。",
+    "traditional": "我的朋友\n\n    我有一個中國朋友，她的名字叫李麗。我們是在北京認識的。她很漂亮，也很溫柔。她和我一樣，很喜歡貓，不喜歡狗。我喜歡和她在一起玩兒，因為她經常教我說漢語。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "My Friend"
+    },
+    {
+      "index": 2,
+      "simplified": "我有一个中国朋友，她的名字叫李丽。",
+      "traditional": "我有一個中國朋友，她的名字叫李麗。",
+      "pinyin": "wǒ yǒu yí ge zhōng guó péng you tā de míng zi jiào lǐ lì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "我们是在北京认识的。",
+      "traditional": "我們是在北京認識的。",
+      "pinyin": "wǒ men shì zài běi jīng rèn shi de",
+      "english": "I have a Chinese friend, her name is Li Li."
+    },
+    {
+      "index": 4,
+      "simplified": "她很漂亮，也很温柔。",
+      "traditional": "她很漂亮，也很溫柔。",
+      "pinyin": "tā hěn piào liang yě hěn wēn róu",
+      "english": "We got to know each other in Beijing."
+    },
+    {
+      "index": 5,
+      "simplified": "她和我一样，很喜欢猫，不喜欢狗。",
+      "traditional": "她和我一樣，很喜歡貓，不喜歡狗。",
+      "pinyin": "tā hé wǒ yí yàng hěn xǐ huan māo bù xǐ huan gǒu",
+      "english": "She is very beautiful and kind."
+    },
+    {
+      "index": 6,
+      "simplified": "我喜欢和她在一起玩儿，因为她经常教我说汉语。",
+      "traditional": "我喜歡和她在一起玩兒，因為她經常教我說漢語。",
+      "pinyin": "wǒ xǐ huan hé tā zài yì qǐ wán'r yīn wèi tā jīng cháng jiāo wǒ shuō hàn yǔ",
+      "english": "She is just like me, she likes cats and dislikes dogs."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李丽",
+      "traditional": "李麗",
+      "pinyin": "lǐ lì",
+      "meaning": "Li Li (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "认识",
+      "traditional": "認識",
+      "pinyin": "rèn shi",
+      "meaning": "to know\nto recognize\nto be familiar with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "温柔",
+      "traditional": "溫柔",
+      "pinyin": "wēn róu",
+      "meaning": "gentle and soft\ntender",
+      "hsk": 5
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猫",
+      "traditional": "貓",
+      "pinyin": "māo",
+      "meaning": "cat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "狗",
+      "traditional": "狗",
+      "pinyin": "gǒu",
+      "meaning": "dog",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "玩儿",
+      "traditional": "玩兒",
+      "pinyin": "wán'r",
+      "meaning": "to play\nto have fun\nto hang out",
+      "hsk": null
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "经常",
+      "traditional": "經常",
+      "pinyin": "jīng cháng",
+      "meaning": "frequently\noften",
+      "hsk": 3
+    },
+    {
+      "hanzi": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "meaning": "to teach",
+      "hsk": 3
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "李丽",
+        "pinyin": "lǐ lì",
+        "meaning": "Li Li (name)",
+        "tc_hanzi": "李麗"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "to know\nto recognize\nto be familiar with",
+        "tc_hanzi": "認識"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "温柔",
+        "pinyin": "wēn róu",
+        "meaning": "gentle and soft\ntender",
+        "tc_hanzi": "溫柔"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog",
+        "tc_hanzi": "狗"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "玩儿",
+        "pinyin": "wán'r",
+        "meaning": "to play\nto have fun\nto hang out",
+        "tc_hanzi": "玩兒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经常",
+        "pinyin": "jīng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "經常"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "In this lesson we see how you can describe a friend by explaining their personality and interests.",
+    "syllable_times": [
+      0.4081632653061225,
+      0.7256235827664399,
+      1.167986978775811,
+      3.219954648526077,
+      3.718820861678005,
+      4.126984126984127,
+      4.263038548752834,
+      4.761904761904762,
+      5.170068027210885,
+      5.532879818594104,
+      5.850340136054422,
+      7.664399092970521,
+      8.16326530612245,
+      8.480725623582767,
+      8.79959121873815,
+      9.115646258503402,
+      9.65986394557823,
+      10.15873015873016,
+      12.60770975056689,
+      12.97052154195011,
+      13.19727891156463,
+      13.74149659863946,
+      14.05895691609977,
+      14.42176870748299,
+      14.82993197278912,
+      15.20145569527795,
+      15.46485260770975,
+      17.36961451247166,
+      18.140589569161,
+      18.45804988662131,
+      18.91156462585034,
+      20.50842565709426,
+      21.03005090975142,
+      21.45124716553288,
+      21.7687074829932,
+      24.26303854875284,
+      24.77028348283526,
+      25.17006802721088,
+      25.4421768707483,
+      25.71428571428572,
+      27.3015873015873,
+      27.66439909297052,
+      28.16326530612245,
+      28.48072562358277,
+      30.24943310657596,
+      30.56689342403628,
+      30.9750566893424,
+      31.33786848072562,
+      34.19501133786848,
+      34.6031746031746,
+      35.05668934240363,
+      35.46201479212547,
+      35.87301587301587,
+      36.32653061224489,
+      36.68670016792923,
+      36.91609977324263,
+      37.32172221464229,
+      39.8639455782313,
+      40.1360544217687,
+      40.68027210884354,
+      41.08843537414966,
+      41.40589569160998,
+      41.99546485260771,
+      42.40189858834679,
+      42.76643990929706,
+      43.40136054421769,
+      43.718820861678,
+      44.85977172851562
+    ],
+    "sentence_indices": [
+      3,
+      4,
+      17,
+      24,
+      32,
+      45
+    ],
+    "sentence_translations": [
+      "My Friend",
+      "",
+      "I have a Chinese friend, her name is Li Li.",
+      "We got to know each other in Beijing.",
+      "She is very beautiful and kind.",
+      "She is just like me, she likes cats and dislikes dogs.",
+      "I like playing together with her, because she always teaches me how to speak Chinese."
+    ]
+  }
+}

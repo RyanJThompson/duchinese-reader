@@ -1,0 +1,897 @@
+{
+  "id": "192",
+  "title": "Who is Picasso?",
+  "level": "intermediate",
+  "date": "2016-09-28",
+  "synopsis": "In English class, the teacher asks the students who Picasso is. Almost everyone gets the answer right.",
+  "audioUrl": "https://static.duchinese.net/documents/243/44a4dddf3f3063696fbc2319064a8e674737c442.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "Picasso是谁？\n\n    笑笑很喜欢玩游戏。有一天英语老师带着大家读短文，遇到了一个生词。\n    老师问：“这个Picasso是谁呀？”\n    全班同学都回答：“是毕加索！”\n    只有正在课上偷偷玩游戏的笑笑喊了一句：“是皮卡丘！”",
+    "traditional": "Picasso是誰？\n\n    笑笑很喜歡玩遊戲。有一天英語老師帶著大家讀短文，遇到了一個生詞。\n    老師問：“這個Picasso是誰呀？”\n    全班同學都回答：“是畢加索！”\n    只有正在課上偷偷玩遊戲的笑笑喊了一句：“是皮卡丘！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Who is Picasso?"
+    },
+    {
+      "index": 2,
+      "simplified": "笑笑很喜欢玩游戏。",
+      "traditional": "笑笑很喜歡玩遊戲。",
+      "pinyin": "xiào xiào hěn xǐ huan wán yóu xì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "有一天英语老师带着大家读短文，遇到了一个生词。",
+      "traditional": "有一天英語老師帶著大家讀短文，遇到了一個生詞。",
+      "pinyin": "yǒu yì tiān yīng yǔ lǎo shī dài zhe dà jiā dú duǎn wén yù dào le yí ge shēng cí",
+      "english": "Xiao Xiao loves to play games."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day the English teacher had the class read a short essay, and they encountered a new word."
+    },
+    {
+      "index": 5,
+      "simplified": "老师问：“这个Picasso是谁呀？”",
+      "traditional": "老師問：“這個Picasso是誰呀？”",
+      "pinyin": "lǎo shī wèn zhè ge 3 shì shéi ya",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "The teacher asked: “Who is this Picasso?”"
+    },
+    {
+      "index": 7,
+      "simplified": "全班同学都回答：“是毕加索！”",
+      "traditional": "全班同學都回答：“是畢加索！”",
+      "pinyin": "quán bān tóng xué dōu huí dá shì bì jiā suǒ",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "The entire class replied: “It's Picasso!”"
+    },
+    {
+      "index": 9,
+      "simplified": "只有正在课上偷偷玩游戏的笑笑喊了一句：“是皮卡丘！”",
+      "traditional": "只有正在課上偷偷玩遊戲的笑笑喊了一句：“是皮卡丘！”",
+      "pinyin": "zhǐ yǒu zhèng zài kè shang tōu tōu wán yóu xì de xiào xiào hǎn le yí jù shì pí kǎ qiū",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "笑笑",
+      "traditional": "笑笑",
+      "pinyin": "xiào xiào",
+      "meaning": "Xiao Xiao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "游戏",
+      "traditional": "遊戲",
+      "pinyin": "yóu xì",
+      "meaning": "game",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "英语",
+      "traditional": "英語",
+      "pinyin": "yīng yǔ",
+      "meaning": "English (language)",
+      "hsk": null
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "读",
+      "traditional": "讀",
+      "pinyin": "dú",
+      "meaning": "to read\nto study\nreading of word (i.e. pronunciation)\nthe character for Du Chinese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "短文",
+      "traditional": "短文",
+      "pinyin": "duǎn wén",
+      "meaning": "short essay",
+      "hsk": null
+    },
+    {
+      "hanzi": "遇到",
+      "traditional": "遇到",
+      "pinyin": "yù dào",
+      "meaning": "to meet\nto run into\nto come across",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生词",
+      "traditional": "生詞",
+      "pinyin": "shēng cí",
+      "meaning": "new word (in textbook)\nword that is unfamiliar or not yet studied",
+      "hsk": null
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "全班",
+      "traditional": "全班",
+      "pinyin": "quán bān",
+      "meaning": "the whole class",
+      "hsk": 4
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回答",
+      "traditional": "回答",
+      "pinyin": "huí dá",
+      "meaning": "to reply\nto answer",
+      "hsk": 3
+    },
+    {
+      "hanzi": "毕加索",
+      "traditional": "畢加索",
+      "pinyin": "bì jiā suǒ",
+      "meaning": "Picasso",
+      "hsk": null
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "课上",
+      "traditional": "課上",
+      "pinyin": "kè shang",
+      "meaning": "in class\nduring class",
+      "hsk": null
+    },
+    {
+      "hanzi": "偷偷",
+      "traditional": "偷偷",
+      "pinyin": "tōu tōu",
+      "meaning": "stealthily\nsecretly\ncovertly",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喊",
+      "traditional": "喊",
+      "pinyin": "hǎn",
+      "meaning": "to yell\nto shout\nto call out for (a person)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "句",
+      "traditional": "句",
+      "pinyin": "jù",
+      "meaning": "classifier for phrases or lines of verse",
+      "hsk": 3
+    },
+    {
+      "hanzi": "皮卡丘",
+      "traditional": "皮卡丘",
+      "pinyin": "pí kǎ qiū",
+      "meaning": "Pikachu, character of the Pokémon series",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "Picasso",
+        "pinyin": "3",
+        "tc_hanzi": "Picasso"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "笑笑",
+        "pinyin": "xiào xiào",
+        "meaning": "Xiao Xiao (name)",
+        "tc_hanzi": "笑笑"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game",
+        "tc_hanzi": "遊戲"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "英语",
+        "pinyin": "yīng yǔ",
+        "meaning": "English (language)",
+        "tc_hanzi": "英語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "读",
+        "pinyin": "dú",
+        "meaning": "to read\nto study\nreading of word (i.e. pronunciation)\nthe character for Du Chinese",
+        "tc_hanzi": "讀"
+      },
+      {
+        "hanzi": "短文",
+        "pinyin": "duǎn wén",
+        "meaning": "short essay",
+        "tc_hanzi": "短文"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 3,
+        "hanzi": "遇到",
+        "pinyin": "yù dào",
+        "meaning": "to meet\nto run into\nto come across",
+        "tc_hanzi": "遇到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "生词",
+        "pinyin": "shēng cí",
+        "meaning": "new word (in textbook)\nword that is unfamiliar or not yet studied",
+        "tc_hanzi": "生詞"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "Picasso",
+        "pinyin": "3",
+        "tc_hanzi": "Picasso"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "全班",
+        "pinyin": "quán bān",
+        "meaning": "the whole class",
+        "tc_hanzi": "全班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "回答",
+        "pinyin": "huí dá",
+        "meaning": "to reply\nto answer",
+        "tc_hanzi": "回答"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "毕加索",
+        "pinyin": "bì jiā suǒ",
+        "meaning": "Picasso",
+        "tc_hanzi": "畢加索"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hanzi": "课上",
+        "pinyin": "kè shang",
+        "meaning": "in class\nduring class",
+        "tc_hanzi": "課上"
+      },
+      {
+        "hanzi": "偷偷",
+        "pinyin": "tōu tōu",
+        "meaning": "stealthily\nsecretly\ncovertly",
+        "tc_hanzi": "偷偷"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game",
+        "tc_hanzi": "遊戲"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "笑笑",
+        "pinyin": "xiào xiào",
+        "meaning": "Xiao Xiao (name)",
+        "tc_hanzi": "笑笑"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "喊",
+        "pinyin": "hǎn",
+        "meaning": "to yell\nto shout\nto call out for (a person)",
+        "tc_hanzi": "喊"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "句",
+        "pinyin": "jù",
+        "meaning": "classifier for phrases or lines of verse",
+        "tc_hanzi": "句"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "皮卡丘",
+        "pinyin": "pí kǎ qiū",
+        "meaning": "Pikachu, character of the Pokémon series",
+        "tc_hanzi": "皮卡丘"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "In English class, the teacher asks the students who Picasso is. Almost everyone gets the answer right.",
+    "syllable_times": [
+      0.1838990915800978,
+      0.5241412075365302,
+      0.9977324263038548,
+      1.315192743764172,
+      3.129251700680272,
+      3.537414965986394,
+      4.126984126984127,
+      4.399092970521542,
+      4.852607709750567,
+      5.170068027210885,
+      5.532879818594104,
+      5.819602160696995,
+      7.619047619047619,
+      7.936507936507937,
+      8.16326530612245,
+      9.387755102040817,
+      9.65986394557823,
+      9.977324263038549,
+      10.24943310657596,
+      11.02040816326531,
+      11.42857142857143,
+      11.70068027210884,
+      11.97278911564626,
+      12.56235827664399,
+      12.83446712018141,
+      13.15192743764172,
+      15.10204081632653,
+      15.37414965986395,
+      15.64625850340136,
+      16.00907029478458,
+      16.281179138322,
+      16.66301786337441,
+      17.09750566893424,
+      19.00226757369614,
+      19.36507936507936,
+      19.68253968253968,
+      21.08843537414966,
+      21.45124716553288,
+      22.13151927437642,
+      22.44897959183674,
+      22.77219855135034,
+      23.49206349206349,
+      23.81126607578291,
+      24.25876420251155,
+      26.34920634920635,
+      26.80272108843537,
+      27.07482993197279,
+      27.44760369006728,
+      28.02721088435374,
+      28.39002267573696,
+      28.66213151927438,
+      29.70521541950113,
+      30.56689342403628,
+      30.9750566893424,
+      31.45056538915808,
+      33.60544217687075,
+      34.01360544217687,
+      34.42176870748299,
+      34.73922902494331,
+      35.01133786848072,
+      35.41950113378685,
+      36.00907029478458,
+      36.3718820861678,
+      36.82539682539682,
+      37.09750566893424,
+      37.43957977009171,
+      37.77777777777778,
+      38.00749170817056,
+      38.44728122445955,
+      39.22902494331066,
+      39.68253968253968,
+      40,
+      40.27013535553929,
+      41.08843537414966,
+      41.8140589569161,
+      42.13151927437642,
+      42.44897959183673,
+      43.27877551020408,
+      43.27877551020408
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      13,
+      30,
+      32,
+      42,
+      44,
+      52,
+      54
+    ],
+    "sentence_translations": [
+      "Who is Picasso?",
+      "",
+      "Xiao Xiao loves to play games.",
+      "One day the English teacher had the class read a short essay, and they encountered a new word.",
+      "",
+      "The teacher asked: “Who is this Picasso?”",
+      "",
+      "The entire class replied: “It's Picasso!”",
+      "",
+      "Only Xiao Xiao who was secretly playing games during class yelled: “It's Pikachu!”"
+    ]
+  }
+}

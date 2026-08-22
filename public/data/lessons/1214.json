@@ -1,0 +1,2691 @@
+{
+  "id": "1214",
+  "title": "Ordering Fruit Online",
+  "level": "intermediate",
+  "date": "2021-04-03",
+  "synopsis": "Paul orders watermelon online, and it arrives in record speed.",
+  "audioUrl": "https://static.duchinese.net/documents/1214/07e44808a0ac1bbd4dc0ba7a9eee75fca17b8def.mp3?1614334679",
+  "series": null,
+  "fullText": {
+    "simplified": "网上订水果\n\n小乐：你想不想吃水果？\n保罗：好呀！不过现在家里好像没有水果了，要出去买吗？\n小乐：不用，在网上订就可以了。\n保罗：在网上买？那不是得两三天才能到吗？\n小乐：水果的话可以马上送。\n保罗：这么方便？这个是不是也要用微信订呢？\n小乐：不是。这个是京东的一个服务，叫7FRESH。\n保罗：那你快教教我！\n小乐：好！你看，我们先在手机里面下载一个APP，然后在上面挑选你需要的水果，写好地址，就可以了。\n（30分钟后）\n外卖员：您好，7FRESH，您买的东西到了。\n小乐：谢谢！\n保罗：哇，这么快，才半个小时就到了！让我来看看西瓜怎么样？都没问题，真好！\n小乐：怎么样，在中国的生活很方便吧？\n保罗：太方便了，我爱中国！",
+    "traditional": "網上訂水果\n\n小樂：你想不想吃水果？\n保羅：好呀！不過現在家裡好像沒有水果了，要出去買嗎？\n小樂：不用，在網上訂就可以了。\n保羅：在網上買？那不是得兩三天才能到嗎？\n小樂：水果的話可以馬上送。\n保羅：這麼方便？這個是不是也要用微信訂呢？\n小樂：不是。這個是京東的一個服務，叫7FRESH。\n保羅：那你快教教我！\n小樂：好！你看，我們先在手機裡面下載一個APP，然後在上面挑選你需要的水果，寫好地址，就可以了。\n（30分鐘後）\n外賣員：您好，7FRESH，您買的東西到了。\n小樂：謝謝！\n保羅：哇，這麼快，才半個小時就到了！讓我來看看西瓜怎麼樣？都沒問題，真好！\n小樂：怎麼樣，在中國的生活很方便吧？\n保羅：太方便了，我愛中國！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Ordering Fruit Online"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：你想不想吃水果？",
+      "traditional": "小樂：你想不想吃水果？",
+      "pinyin": "xiǎo lè nǐ xiǎng bù xiǎng chī shuǐ guǒ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Do you want to eat fruit?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：好呀！不过现在家里好像没有水果了，要出去买吗？",
+      "traditional": "保羅：好呀！不過現在家裡好像沒有水果了，要出去買嗎？",
+      "pinyin": "bǎo luó hǎo ya bú guò xiàn zài jiā lǐ hǎo xiàng méi yǒu shuǐ guǒ le yào chū qù mǎi ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Sure! But I think we’re out of fruit at home. Shall we go out to buy some?"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：不用，在网上订就可以了。",
+      "traditional": "小樂：不用，在網上訂就可以了。",
+      "pinyin": "xiǎo lè bú yòng zài wǎng shang dìng jiù kě yǐ le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: There’s no need. We can just order online."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：在网上买？那不是得两三天才能到吗？",
+      "traditional": "保羅：在網上買？那不是得兩三天才能到嗎？",
+      "pinyin": "bǎo luó zài wǎng shang mǎi nà bú shì děi liǎng sān tiān cái néng dào ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Order online? Then won’t it take two or three days to arrive?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：水果的话可以马上送。",
+      "traditional": "小樂：水果的話可以馬上送。",
+      "pinyin": "xiǎo lè shuǐ guǒ de huà kě yǐ mǎ shàng sòng",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Fruit can be delivered immediately."
+    },
+    {
+      "index": 12,
+      "simplified": "保罗：这么方便？这个是不是也要用微信订呢？",
+      "traditional": "保羅：這麼方便？這個是不是也要用微信訂呢？",
+      "pinyin": "bǎo luó zhè me fāng biàn zhè ge shì bú shì yě yào yòng wēi xìn dìng ne",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Is it really this convenient? Do we also order using WeChat?"
+    },
+    {
+      "index": 14,
+      "simplified": "小乐：不是。这个是京东的一个服务，叫7FRESH。",
+      "traditional": "小樂：不是。這個是京東的一個服務，叫7FRESH。",
+      "pinyin": "xiǎo lè bú shì zhè ge shì jīng dōng de yí ge fú wù jiào 3",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: No. This is a service of JD.com, called 7FRESH."
+    },
+    {
+      "index": 16,
+      "simplified": "保罗：那你快教教我！",
+      "traditional": "保羅：那你快教教我！",
+      "pinyin": "bǎo luó nà nǐ kuài jiāo jiāo wǒ",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Please teach me!"
+    },
+    {
+      "index": 18,
+      "simplified": "小乐：好！你看，我们先在手机里面下载一个APP，",
+      "traditional": "小樂：好！你看，我們先在手機裡面下載一個APP，",
+      "pinyin": "xiǎo lè hǎo nǐ kàn wǒ men xiān zài shǒu jī lǐ miàn xià zǎi yí ge 3",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "然后在上面挑选你需要的水果，写好地址，就可以了。",
+      "traditional": "然後在上面挑選你需要的水果，寫好地址，就可以了。",
+      "pinyin": "rán hòu zài shàng miàn tiāo xuǎn nǐ xū yào de shuǐ guǒ xiě hǎo dì zhǐ jiù kě yǐ le",
+      "english": "Little Le: Okay! You see here, we first download a mobile app, .."
+    },
+    {
+      "index": 20,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": ".. then choose what fruit you want, enter your address, and that’s it."
+    },
+    {
+      "index": 21,
+      "simplified": "（30分钟后）",
+      "traditional": "（30分鐘後）",
+      "pinyin": "2 fēn zhōng hòu",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(30 minutes later)"
+    },
+    {
+      "index": 23,
+      "simplified": "外卖员：您好，7FRESH，您买的东西到了。",
+      "traditional": "外賣員：您好，7FRESH，您買的東西到了。",
+      "pinyin": "wài mài yuán nín hǎo 3 nín mǎi de dōng xi dào le",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery person: Hello, this is 7FRESH. Your order has arrived."
+    },
+    {
+      "index": 25,
+      "simplified": "小乐：谢谢！",
+      "traditional": "小樂：謝謝！",
+      "pinyin": "xiǎo lè xiè xie",
+      "english": ""
+    },
+    {
+      "index": 26,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Thank you!"
+    },
+    {
+      "index": 27,
+      "simplified": "保罗：哇，这么快，才半个小时就到了！",
+      "traditional": "保羅：哇，這麼快，才半個小時就到了！",
+      "pinyin": "bǎo luó wā zhè me kuài cái bàn ge xiǎo shí jiù dào le",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "让我来看看西瓜怎么样？都没问题，真好！",
+      "traditional": "讓我來看看西瓜怎麼樣？都沒問題，真好！",
+      "pinyin": "ràng wǒ lái kàn kan xī guā zěn me yàng dōu méi wèn tí zhēn hǎo",
+      "english": "Paul: Wow, that was so fast. Our order arrived in just half an hour!"
+    },
+    {
+      "index": 29,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Let me see how the watermelon is? No problem at all, excellent!"
+    },
+    {
+      "index": 30,
+      "simplified": "小乐：怎么样，在中国的生活很方便吧？",
+      "traditional": "小樂：怎麼樣，在中國的生活很方便吧？",
+      "pinyin": "xiǎo lè zěn me yàng zài zhōng guó de shēng huó hěn fāng biàn ba",
+      "english": ""
+    },
+    {
+      "index": 31,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: How about that? Isn’t living in China so convenient?"
+    },
+    {
+      "index": 32,
+      "simplified": "保罗：太方便了，我爱中国！",
+      "traditional": "保羅：太方便了，我愛中國！",
+      "pinyin": "bǎo luó tài fāng biàn le wǒ ài zhōng guó",
+      "english": ""
+    },
+    {
+      "index": 33,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: Yes, it really is convenient. I love China!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shang",
+      "meaning": "online",
+      "hsk": null
+    },
+    {
+      "hanzi": "订",
+      "traditional": "訂",
+      "pinyin": "dìng",
+      "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "meaning": "fruit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(to express agreement)\nokay\nall right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不过",
+      "traditional": "不過",
+      "pinyin": "bú guò",
+      "meaning": "but\nhowever\nanyway (to get back to a previous topic)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "meaning": "to go out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to have to\nto need",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "děi",
+      "meaning": "to have to\nmust\nto need to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的话",
+      "traditional": "的話",
+      "pinyin": "de huà",
+      "meaning": "if (coming after a conditional clause)",
+      "hsk": null
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "meaning": "to deliver\nto send",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "meaning": "this way\nlike this",
+      "hsk": 3
+    },
+    {
+      "hanzi": "方便",
+      "traditional": "方便",
+      "pinyin": "fāng biàn",
+      "meaning": "convenient\nsuitable",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这个",
+      "traditional": "這個",
+      "pinyin": "zhè ge",
+      "meaning": "this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "微信",
+      "traditional": "微信",
+      "pinyin": "wēi xìn",
+      "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "京东",
+      "traditional": "京東",
+      "pinyin": "jīng dōng",
+      "meaning": "JD.com, Chinese e-commerce company",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务",
+      "traditional": "服務",
+      "pinyin": "fú wù",
+      "meaning": "service",
+      "hsk": 2
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "meaning": "to teach",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐ miàn",
+      "meaning": "inside\ninterior",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下载",
+      "traditional": "下載",
+      "pinyin": "xià zǎi",
+      "meaning": "to download\nalso pr. xià zài",
+      "hsk": 5
+    },
+    {
+      "hanzi": "然后",
+      "traditional": "然後",
+      "pinyin": "rán hòu",
+      "meaning": "then (afterwards)\nafter that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上面",
+      "traditional": "上面",
+      "pinyin": "shàng miàn",
+      "meaning": "on top of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "挑选",
+      "traditional": "挑選",
+      "pinyin": "tiāo xuǎn",
+      "meaning": "to choose\nto select",
+      "hsk": null
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "地址",
+      "traditional": "地址",
+      "pinyin": "dì zhǐ",
+      "meaning": "address",
+      "hsk": 4
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "外卖",
+      "traditional": "外賣",
+      "pinyin": "wài mài",
+      "meaning": "delivery (of food from a restaurant)\ntakeout",
+      "hsk": null
+    },
+    {
+      "hanzi": "员",
+      "traditional": "員",
+      "pinyin": "yuán",
+      "meaning": "person\nemployee\nmember",
+      "hsk": null
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哇",
+      "traditional": "哇",
+      "pinyin": "wā",
+      "meaning": "wow",
+      "hsk": 6
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to let sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "(before a verb, indicating an intended or suggested action)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "西瓜",
+      "traditional": "西瓜",
+      "pinyin": "xī guā",
+      "meaning": "watermelon",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生活",
+      "traditional": "生活",
+      "pinyin": "shēng huó",
+      "meaning": "to live\nlife\nlivelihood",
+      "hsk": 4
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "meaning": "to love\nto like",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "不过",
+        "pinyin": "bú guò",
+        "meaning": "but\nhowever\nanyway (to get back to a previous topic)",
+        "tc_hanzi": "不過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出去",
+        "pinyin": "chū qù",
+        "meaning": "to go out",
+        "tc_hanzi": "出去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to have to\nto need",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "děi",
+        "meaning": "to have to\nmust\nto need to",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "cai-lateness",
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "的话",
+        "pinyin": "de huà",
+        "meaning": "if (coming after a conditional clause)",
+        "tc_hanzi": "的話"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to deliver\nto send",
+        "tc_hanzi": "送"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "微信",
+        "pinyin": "wēi xìn",
+        "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+        "tc_hanzi": "微信"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "京东",
+        "pinyin": "jīng dōng",
+        "meaning": "JD.com, Chinese e-commerce company",
+        "tc_hanzi": "京東"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务",
+        "pinyin": "fú wù",
+        "meaning": "service",
+        "tc_hanzi": "服務"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "7FRESH",
+        "pinyin": "3",
+        "tc_hanzi": "7FRESH"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里面",
+        "pinyin": "lǐ miàn",
+        "meaning": "inside\ninterior",
+        "tc_hanzi": "裡面"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "下载",
+        "pinyin": "xià zǎi",
+        "meaning": "to download\nalso pr. xià zài",
+        "tc_hanzi": "下載"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "APP",
+        "pinyin": "3",
+        "tc_hanzi": "APP"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上面",
+        "pinyin": "shàng miàn",
+        "meaning": "on top of",
+        "tc_hanzi": "上面"
+      },
+      {
+        "hanzi": "挑选",
+        "pinyin": "tiāo xuǎn",
+        "meaning": "to choose\nto select",
+        "tc_hanzi": "挑選"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit",
+        "tc_hanzi": "水果"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "地址",
+        "pinyin": "dì zhǐ",
+        "meaning": "address",
+        "tc_hanzi": "地址"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "(if ...) then\nin that case",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hanzi": "员",
+        "pinyin": "yuán",
+        "meaning": "person\nemployee\nmember",
+        "tc_hanzi": "員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "7FRESH",
+        "pinyin": "3",
+        "tc_hanzi": "7FRESH"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哇",
+        "pinyin": "wā",
+        "meaning": "wow",
+        "tc_hanzi": "哇"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "cai-lateness",
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "g": "jiu-promptness",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to let sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "(before a verb, indicating an intended or suggested action)",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "西瓜",
+        "pinyin": "xī guā",
+        "meaning": "watermelon",
+        "tc_hanzi": "西瓜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about\nwhat",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about\nwhat",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "生活",
+        "pinyin": "shēng huó",
+        "meaning": "to live\nlife\nlivelihood",
+        "tc_hanzi": "生活"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "meaning": "to love\nto like",
+        "tc_hanzi": "愛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.34,
+      0.61,
+      0.8900226757369615,
+      1.14,
+      2.8,
+      2.8,
+      2.8,
+      3.11,
+      3.41,
+      3.5700000000000003,
+      3.73,
+      4.04,
+      4.246031746031746,
+      5.91,
+      5.91,
+      5.91,
+      6.275510204081632,
+      7.34,
+      7.52,
+      7.7,
+      7.915000000000001,
+      8.13,
+      8.39,
+      8.65,
+      8.865,
+      9.08,
+      9.24,
+      9.4,
+      9.68,
+      9.895,
+      10.72,
+      10.97,
+      11.16,
+      11.35,
+      11.58,
+      13.45,
+      13.45,
+      13.45,
+      13.805,
+      14.65,
+      14.91,
+      15.225,
+      15.54,
+      15.92,
+      16.17,
+      16.42,
+      16.67,
+      18.21,
+      18.21,
+      18.21,
+      18.47,
+      18.72,
+      18.97,
+      20.18,
+      20.44,
+      20.59,
+      20.74,
+      21.2,
+      21.53,
+      21.86,
+      22.14,
+      22.314999999999998,
+      22.49,
+      22.7,
+      24.1,
+      24.1,
+      24.1,
+      24.47,
+      24.84,
+      24.99,
+      25.68,
+      25.95,
+      26.286848072562357,
+      26.59297052154195,
+      26.93877551020408,
+      28.51,
+      28.51,
+      28.51,
+      28.700000000000003,
+      28.89,
+      29.134999999999998,
+      29.99,
+      30.25,
+      30.395,
+      30.54,
+      30.78,
+      31.24,
+      31.445,
+      31.65,
+      31.85,
+      32.125,
+      32.4,
+      32.64,
+      33.95,
+      33.95,
+      33.95,
+      34.305,
+      35.06,
+      35.3,
+      35.59,
+      35.95,
+      36.230000000000004,
+      36.51,
+      36.666666666666664,
+      36.82333333333333,
+      37.06349206349206,
+      37.269999999999996,
+      37.83,
+      38.36,
+      38.66,
+      38.888888888888886,
+      41.44,
+      41.44,
+      41.44,
+      41.59,
+      41.76,
+      42.0578231292517,
+      42.307256235827666,
+      42.46,
+      44.109977324263035,
+      44.109977324263035,
+      44.109977324263035,
+      45.18,
+      45.38,
+      46.27,
+      46.625,
+      47.03,
+      47.245000000000005,
+      47.46,
+      47.72,
+      47.98,
+      48.269999999999996,
+      48.656462585034014,
+      48.945578231292515,
+      49.16,
+      49.334999999999994,
+      49.51,
+      49.69,
+      49.88,
+      50.95,
+      51.34,
+      51.89,
+      52.11,
+      52.375,
+      52.70408163265306,
+      52.97,
+      53.53,
+      53.74,
+      53.925,
+      54.11,
+      54.23,
+      54.599999999999994,
+      55.58,
+      55.878684807256235,
+      56.08,
+      56.326530612244895,
+      56.91,
+      57.135,
+      57.31859410430839,
+      57.528344671201815,
+      59.54,
+      59.79,
+      60.04,
+      60.224999999999994,
+      60.41,
+      62.16,
+      62.16,
+      62.16,
+      62.16,
+      62.485,
+      63.42,
+      63.72,
+      63.93424036281179,
+      65.21,
+      65.40249433106575,
+      65.62358276643991,
+      65.76,
+      65.965,
+      66.17,
+      66.39500000000001,
+      67.78,
+      67.78,
+      67.78,
+      68.20294784580499,
+      69.78,
+      69.78,
+      69.78,
+      70.76530612244898,
+      70.97,
+      71.12,
+      71.93,
+      72.19,
+      72.37,
+      72.55,
+      72.775,
+      73,
+      73.17,
+      73.405,
+      74.41,
+      74.57,
+      74.73,
+      74.87,
+      75.11,
+      75.56,
+      75.9126984126984,
+      76.14,
+      76.32666666666667,
+      76.51333333333334,
+      77.7,
+      77.93,
+      78.17666666666668,
+      78.42333333333333,
+      79.21201814058956,
+      79.5124716553288,
+      81.48,
+      81.48,
+      81.48,
+      81.625,
+      81.77,
+      82.58,
+      83.05,
+      83.37301587301587,
+      83.53741496598639,
+      83.7,
+      84.05000000000001,
+      84.45,
+      84.77,
+      85.095,
+      85.42,
+      87.02,
+      87.02,
+      87.02,
+      87.37,
+      87.58500000000001,
+      87.8,
+      88.66213151927437,
+      88.965,
+      89.24,
+      89.53,
+      90.229637
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      34,
+      35,
+      47,
+      48,
+      66,
+      67,
+      75,
+      76,
+      92,
+      93,
+      110,
+      111,
+      120,
+      121,
+      138,
+      155,
+      156,
+      161,
+      162,
+      176,
+      177,
+      181,
+      182,
+      197,
+      211,
+      212,
+      224,
+      225,
+      235
+    ],
+    "sentence_translations": [
+      "Ordering Fruit Online",
+      "",
+      "Little Le: Do you want to eat fruit?",
+      "",
+      "Paul: Sure! But I think we’re out of fruit at home. Shall we go out to buy some?",
+      "",
+      "Little Le: There’s no need. We can just order online.",
+      "",
+      "Paul: Order online? Then won’t it take two or three days to arrive?",
+      "",
+      "Little Le: Fruit can be delivered immediately.",
+      "",
+      "Paul: Is it really this convenient? Do we also order using WeChat?",
+      "",
+      "Little Le: No. This is a service of JD.com, called 7FRESH.",
+      "",
+      "Paul: Please teach me!",
+      "",
+      "Little Le: Okay! You see here, we first download a mobile app, ..",
+      ".. then choose what fruit you want, enter your address, and that’s it.",
+      "",
+      "(30 minutes later)",
+      "",
+      "Delivery person: Hello, this is 7FRESH. Your order has arrived.",
+      "",
+      "Little Le: Thank you!",
+      "",
+      "Paul: Wow, that was so fast. Our order arrived in just half an hour!",
+      "Let me see how the watermelon is? No problem at all, excellent!",
+      "",
+      "Little Le: How about that? Isn’t living in China so convenient?",
+      "",
+      "Paul: Yes, it really is convenient. I love China!",
+      ""
+    ]
+  }
+}

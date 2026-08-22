@@ -1,0 +1,924 @@
+{
+  "id": "387",
+  "title": "Ben is Back Home",
+  "level": "newbie",
+  "date": "2017-09-23",
+  "synopsis": "Ben meets Lili after coming back from his trip to Guangzhou.",
+  "audioUrl": "https://static.duchinese.net/documents/530/4f2869da4a8b91500285ee389dd26476fa152840.mp3?1698352353",
+  "series": null,
+  "fullText": {
+    "simplified": "我回来了\n\n丽丽：本！你从广州回来啦？\n本：嗯。我昨天回来的。\n丽丽：广州好玩吗？\n本：太好玩了！\n丽丽：广州不热吗？\n本：太热了！\n本：这是给你的。\n丽丽：这是什么？\n本：我在广州给你买的东西。",
+    "traditional": "我回來了\n\n麗麗：本！你從廣州回來啦？\n本：嗯。我昨天回來的。\n麗麗：廣州好玩嗎？\n本：太好玩了！\n麗麗：廣州不熱嗎？\n本：太熱了！\n本：這是給你的。\n麗麗：這是什麼？\n本：我在廣州給你買的東西。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I'm back"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：本！你从广州回来啦？",
+      "traditional": "麗麗：本！你從廣州回來啦？",
+      "pinyin": "lì lì běn nǐ cóng guǎng zhōu huí lái la",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ben! You're back from Guangzhou?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：嗯。我昨天回来的。",
+      "traditional": "本：嗯。我昨天回來的。",
+      "pinyin": "běn èn wǒ zuó tiān huí lái de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Yes. I came back yesterday."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：广州好玩吗？",
+      "traditional": "麗麗：廣州好玩嗎？",
+      "pinyin": "lì lì guǎng zhōu hǎo wán ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Was Guangzhou fun?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：太好玩了！",
+      "traditional": "本：太好玩了！",
+      "pinyin": "běn tài hǎo wán le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: A lot of fun!"
+    },
+    {
+      "index": 10,
+      "simplified": "丽丽：广州不热吗？",
+      "traditional": "麗麗：廣州不熱嗎？",
+      "pinyin": "lì lì guǎng zhōu bú rè ma",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Wasn't it hot in Guangzhou?"
+    },
+    {
+      "index": 12,
+      "simplified": "本：太热了！",
+      "traditional": "本：太熱了！",
+      "pinyin": "běn tài rè le",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Yes, too hot!"
+    },
+    {
+      "index": 14,
+      "simplified": "本：这是给你的。",
+      "traditional": "本：這是給你的。",
+      "pinyin": "běn zhè shì gěi nǐ de",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Here's something for you."
+    },
+    {
+      "index": 16,
+      "simplified": "丽丽：这是什么？",
+      "traditional": "麗麗：這是什麼？",
+      "pinyin": "lì lì zhè shì shén me",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: What's this?"
+    },
+    {
+      "index": 18,
+      "simplified": "本：我在广州给你买的东西。",
+      "traditional": "本：我在廣州給你買的東西。",
+      "pinyin": "běn wǒ zài guǎng zhōu gěi nǐ mǎi de dōng xi",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: It's something I bought for you in Guangzhou."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lái",
+      "meaning": "to return\nto come back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "广州",
+      "traditional": "廣州",
+      "pinyin": "guǎng zhōu",
+      "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+      "hsk": null
+    },
+    {
+      "hanzi": "啦",
+      "traditional": "啦",
+      "pinyin": "la",
+      "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+      "hsk": 6
+    },
+    {
+      "hanzi": "嗯",
+      "traditional": "嗯",
+      "pinyin": "èn",
+      "meaning": "(nonverbal grunt as interjection)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "meaning": "yesterday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好玩",
+      "traditional": "好玩",
+      "pinyin": "hǎo wán",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "广州",
+        "pinyin": "guǎng zhōu",
+        "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+        "tc_hanzi": "廣州"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "啦",
+        "pinyin": "la",
+        "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+        "tc_hanzi": "啦"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗯",
+        "pinyin": "èn",
+        "meaning": "(nonverbal grunt as interjection)",
+        "tc_hanzi": "嗯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "广州",
+        "pinyin": "guǎng zhōu",
+        "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+        "tc_hanzi": "廣州"
+      },
+      {
+        "hanzi": "好玩",
+        "pinyin": "hǎo wán",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "好玩",
+        "pinyin": "hǎo wán",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "广州",
+        "pinyin": "guǎng zhōu",
+        "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+        "tc_hanzi": "廣州"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "广州",
+        "pinyin": "guǎng zhōu",
+        "meaning": "Guangzhou subprovincial city and capital of Guangdong",
+        "tc_hanzi": "廣州"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben meets Lili after coming back from his trip to Guangzhou.",
+    "syllable_times": [
+      0.89,
+      1.5589569160997732,
+      1.9444444444444444,
+      3.55,
+      3.55,
+      3.55,
+      4.79,
+      5.08,
+      5.6,
+      6.037414965986394,
+      6.65,
+      6.904761904761904,
+      7.148526077097506,
+      8.503401360544217,
+      8.503401360544217,
+      9.46,
+      9.744897959183673,
+      10.056689342403628,
+      10.345804988662131,
+      10.702947845804989,
+      10.952380952380953,
+      12.11,
+      12.11,
+      12.11,
+      12.556689342403628,
+      12.970521541950113,
+      13.373015873015873,
+      13.718820861678005,
+      15.07,
+      15.07,
+      15.62358276643991,
+      15.952380952380953,
+      16.24716553287982,
+      17.33,
+      17.33,
+      17.33,
+      17.709750566893423,
+      18.09,
+      18.441043083900226,
+      18.77551020408163,
+      20.13,
+      20.13,
+      20.821995464852606,
+      21.292517006802722,
+      22.26,
+      22.26,
+      22.60204081632653,
+      23.15,
+      23.514739229024944,
+      23.83219954648526,
+      25.55,
+      25.55,
+      25.55,
+      25.98639455782313,
+      26.35487528344671,
+      26.75170068027211,
+      28.2,
+      28.2,
+      28.543083900226755,
+      28.8718820861678,
+      29.268707482993197,
+      30,
+      30.2891156462585,
+      30.578231292517007,
+      30.878684807256235,
+      31.1281179138322,
+      31.490929705215418,
+      32.6
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      15,
+      16,
+      25,
+      26,
+      32,
+      33,
+      39,
+      40,
+      47,
+      48,
+      54,
+      55,
+      63,
+      64,
+      70,
+      71,
+      82
+    ],
+    "sentence_translations": [
+      "I'm back",
+      "",
+      "Lili: Ben! You're back from Guangzhou?",
+      "",
+      "Ben: Yes. I came back yesterday.",
+      "",
+      "Lili: Was Guangzhou fun?",
+      "",
+      "Ben: A lot of fun!",
+      "",
+      "Lili: Wasn't it hot in Guangzhou?",
+      "",
+      "Ben: Yes, too hot!",
+      "",
+      "Ben: Here's something for you.",
+      "",
+      "Lili: What's this?",
+      "",
+      "Ben: It's something I bought for you in Guangzhou.",
+      ""
+    ]
+  }
+}

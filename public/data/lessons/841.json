@@ -1,0 +1,2419 @@
+{
+  "id": "841",
+  "title": "Piece of Good",
+  "level": "intermediate",
+  "date": "2020-01-19",
+  "synopsis": "A piece of something, and a type of thing… look out for the classifiers!",
+  "audioUrl": "https://static.duchinese.net/documents/841/cf633ac014208c557244c76eca9a9fb167d8dab6.mp3?1578921336",
+  "series": null,
+  "fullText": {
+    "simplified": "件件和样样\n\n店员：大减价！大减价！件件10元，样样10元，走过路过，千万不要错过！\n保罗：好便宜！我们去看看吧！\n小乐：好啊！\n（几分钟后）\n保罗：怎么没有……在哪儿呢？\n小乐：你在找什么？\n保罗：我在找件件和样样。\n小乐：“件件”“样样”是什么东西？\n保罗：我也不知道是什么东西，所以在找呀。店员不是说了吗？“件件10元，样样10元”，所以我想买件件和样样呀！\n小乐：哈哈哈！保罗，店员的“件件10元，样样10元”意思是说“店里的每一件商品都是10元，每一样东西都是10元。店里的所有东西都是10元”。\n保罗：啊？“件件”是“每一件”的意思，“样样”是“每一样”的意思啊？我还以为是什么东西的名字呢。",
+    "traditional": "件件和樣樣\n\n店員：大減價！大減價！件件10元，樣樣10元，走過路過，千萬不要錯過！\n保羅：好便宜！我們去看看吧！\n小樂：好啊！\n（幾分鐘後）\n保羅：怎麼沒有……在哪兒呢？\n小樂：你在找什麼？\n保羅：我在找件件和樣樣。\n小樂：“件件”“樣樣”是什麼東西？\n保羅：我也不知道是什麼東西，所以在找呀。店員不是說了嗎？“件件10元，樣樣10元”，所以我想買件件和樣樣呀！\n小樂：哈哈哈！保羅，店員的“件件10元，樣樣10元”意思是說“店裡的每一件商品都是10元，每一樣東西都是10元。店裡的所有東西都是10元”。\n保羅：啊？“件件”是“每一件”的意思，“樣樣”是“每一樣”的意思啊？我還以為是什麼東西的名字呢。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Pieces and Types"
+    },
+    {
+      "index": 2,
+      "simplified": "店员：大减价！大减价！件件10元，样样10元，",
+      "traditional": "店員：大減價！大減價！件件10元，樣樣10元，",
+      "pinyin": "diàn yuán dà jiǎn jià dà jiǎn jià jiàn jiàn 1 yuán yàng yàng 1 yuán",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "走过路过，千万不要错过！",
+      "traditional": "走過路過，千萬不要錯過！",
+      "pinyin": "zǒu guò lù guò qiān wàn bú yào cuò guò",
+      "english": "Shop Assistant: Big discount! Big discount! 10 yuan for every piece, 10 yuan for every type."
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Make sure not to pass by and miss out!"
+    },
+    {
+      "index": 5,
+      "simplified": "保罗：好便宜！我们去看看吧！",
+      "traditional": "保羅：好便宜！我們去看看吧！",
+      "pinyin": "bǎo luó hǎo pián yi wǒ men qù kàn kan ba",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: So cheap! Let’s go have a look!"
+    },
+    {
+      "index": 7,
+      "simplified": "小乐：好啊！",
+      "traditional": "小樂：好啊！",
+      "pinyin": "xiǎo lè hǎo a",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Ok!"
+    },
+    {
+      "index": 9,
+      "simplified": "（几分钟后）",
+      "traditional": "（幾分鐘後）",
+      "pinyin": "jǐ fēn zhōng hòu",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(A few minutes later)"
+    },
+    {
+      "index": 11,
+      "simplified": "保罗：怎么没有……在哪儿呢？",
+      "traditional": "保羅：怎麼沒有……在哪兒呢？",
+      "pinyin": "bǎo luó zěn me méi yǒu zài nǎ'r ne",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: How come they don’t have… Where are they then?"
+    },
+    {
+      "index": 13,
+      "simplified": "小乐：你在找什么？",
+      "traditional": "小樂：你在找什麼？",
+      "pinyin": "xiǎo lè nǐ zài zhǎo shén me",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What are you looking for?"
+    },
+    {
+      "index": 15,
+      "simplified": "保罗：我在找件件和样样。",
+      "traditional": "保羅：我在找件件和樣樣。",
+      "pinyin": "bǎo luó wǒ zài zhǎo jiàn jiàn hé yàng yàng",
+      "english": ""
+    },
+    {
+      "index": 16,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I’m looking for pieces and types."
+    },
+    {
+      "index": 17,
+      "simplified": "小乐：“件件”“样样”是什么东西？",
+      "traditional": "小樂：“件件”“樣樣”是什麼東西？",
+      "pinyin": "xiǎo lè jiàn jiàn yàng yàng shì shén me dōng xi",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What things are “pieces” and “types”?"
+    },
+    {
+      "index": 19,
+      "simplified": "保罗：我也不知道是什么东西，所以在找呀。店员不是说了吗？",
+      "traditional": "保羅：我也不知道是什麼東西，所以在找呀。店員不是說了嗎？",
+      "pinyin": "bǎo luó wǒ yě bù zhī dào shì shén me dōng xi suǒ yǐ zài zhǎo ya diàn yuán bú shì shuō le ma",
+      "english": ""
+    },
+    {
+      "index": 20,
+      "simplified": "“",
+      "traditional": "“",
+      "pinyin": "",
+      "english": "Paul: I also don’t know what they are, that’s why I’m looking for them. Isn’t that what the shop assistant said?"
+    },
+    {
+      "index": 21,
+      "simplified": "件件10元，样样10元”，所以我想买件件和样样呀！",
+      "traditional": "件件10元，樣樣10元”，所以我想買件件和樣樣呀！",
+      "pinyin": "jiàn jiàn 1 yuán yàng yàng 1 yuán suǒ yǐ wǒ xiǎng mǎi jiàn jiàn hé yàng yàng ya",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "“10 yuan for every piece, 10 yuan for every type”. Therefore I want to buy pieces and types!"
+    },
+    {
+      "index": 23,
+      "simplified": "小乐：哈哈哈！",
+      "traditional": "小樂：哈哈哈！",
+      "pinyin": "xiǎo lè hā hā hā",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "保罗，店员的“件件10元，样样10元”意思是说",
+      "traditional": "保羅，店員的“件件10元，樣樣10元”意思是說",
+      "pinyin": "bǎo luó diàn yuán de jiàn jiàn 1 yuán yàng yàng 1 yuán yì si shì shuō",
+      "english": "Little Le: Hahaha!"
+    },
+    {
+      "index": 25,
+      "simplified": "“店里的每一件商品都是10元，每一样东西都是10元。店里的所有东西都是10元”。",
+      "traditional": "“店裡的每一件商品都是10元，每一樣東西都是10元。店裡的所有東西都是10元”。",
+      "pinyin": "diàn lǐ de měi yí jiàn shāng pǐn dōu shì 1 yuán měi yí yàng dōng xi dōu shì 1 yuán diàn lǐ de suǒ yǒu dōng xi dōu shì 1 yuán",
+      "english": "Paul, the meaning of the shop assistant’s “10 yuan for every piece, 10 yuan for every type” is to say .."
+    },
+    {
+      "index": 26,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": ".. “Every piece of good inside the store is 10 yuan, every type of thing is 10 yuan. All the things in the store are 10 yuan.”"
+    },
+    {
+      "index": 27,
+      "simplified": "保罗：啊？“件件”是“每一件”的意思，“样样”是“每一样”的意思啊？",
+      "traditional": "保羅：啊？“件件”是“每一件”的意思，“樣樣”是“每一樣”的意思啊？",
+      "pinyin": "bǎo luó a jiàn jiàn shì měi yí jiàn de yì si yàng yàng shì měi yí yàng de yì si a",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "我还以为是什么东西的名字呢。",
+      "traditional": "我還以為是什麼東西的名字呢。",
+      "pinyin": "wǒ hái yǐ wéi shì shén me dōng xi de míng zi ne",
+      "english": "Paul: Ah? So “piece piece” means “every piece”, and “type type” means “every type”?"
+    },
+    {
+      "index": 29,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "I was under the impression that they were names for something."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "件",
+      "traditional": "件",
+      "pinyin": "jiàn",
+      "meaning": "classifier for events, things, clothes etc",
+      "hsk": 2
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样样",
+      "traditional": "樣樣",
+      "pinyin": "yàng yàng",
+      "meaning": "all kinds\neach and every",
+      "hsk": null
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "减价",
+      "traditional": "減價",
+      "pinyin": "jiǎn jià",
+      "meaning": "to cut prices\nto discount\nto mark down",
+      "hsk": null
+    },
+    {
+      "hanzi": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "meaning": "Chinese yuan (currency)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "走过",
+      "traditional": "走過",
+      "pinyin": "zǒu guò",
+      "meaning": "to walk past\nto pass by",
+      "hsk": 3
+    },
+    {
+      "hanzi": "路过",
+      "traditional": "路過",
+      "pinyin": "lù guò",
+      "meaning": "to pass by or through",
+      "hsk": null
+    },
+    {
+      "hanzi": "千万",
+      "traditional": "千萬",
+      "pinyin": "qiān wàn",
+      "meaning": "by all means\nmake sure to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    },
+    {
+      "hanzi": "错过",
+      "traditional": "錯過",
+      "pinyin": "cuò guò",
+      "meaning": "to miss (train, opportunity etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "便宜",
+      "traditional": "便宜",
+      "pinyin": "pián yi",
+      "meaning": "cheap\ninexpensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to try to find\nto look for\nto call on sb",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哈",
+      "traditional": "哈",
+      "pinyin": "hā",
+      "meaning": "(onom. for laughter)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "meaning": "meaning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "店",
+      "traditional": "店",
+      "pinyin": "diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "商品",
+      "traditional": "商品",
+      "pinyin": "shāng pǐn",
+      "meaning": "good\ncommodity\nmerchandise",
+      "hsk": 5
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "classifier: kind, type",
+      "hsk": null
+    },
+    {
+      "hanzi": "所有",
+      "traditional": "所有",
+      "pinyin": "suǒ yǒu",
+      "meaning": "all\nevery",
+      "hsk": 4
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "以为",
+      "traditional": "以為",
+      "pinyin": "yǐ wéi",
+      "meaning": "to believe\nto be under the impression",
+      "hsk": 4
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "减价",
+        "pinyin": "jiǎn jià",
+        "meaning": "to cut prices\nto discount\nto mark down",
+        "tc_hanzi": "減價"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "减价",
+        "pinyin": "jiǎn jià",
+        "meaning": "to cut prices\nto discount\nto mark down",
+        "tc_hanzi": "減價"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "走过",
+        "pinyin": "zǒu guò",
+        "meaning": "to walk past\nto pass by",
+        "tc_hanzi": "走過"
+      },
+      {
+        "hanzi": "路过",
+        "pinyin": "lù guò",
+        "meaning": "to pass by or through",
+        "tc_hanzi": "路過"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "千万",
+        "pinyin": "qiān wàn",
+        "meaning": "by all means\nmake sure to",
+        "tc_hanzi": "千萬"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hanzi": "错过",
+        "pinyin": "cuò guò",
+        "meaning": "to miss (train, opportunity etc)",
+        "tc_hanzi": "錯過"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap\ninexpensive",
+        "tc_hanzi": "便宜"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "哈",
+        "pinyin": "hā",
+        "meaning": "(onom. for laughter)",
+        "tc_hanzi": "哈"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "哈",
+        "pinyin": "hā",
+        "meaning": "(onom. for laughter)",
+        "tc_hanzi": "哈"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "哈",
+        "pinyin": "hā",
+        "meaning": "(onom. for laughter)",
+        "tc_hanzi": "哈"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "商品",
+        "pinyin": "shāng pǐn",
+        "meaning": "good\ncommodity\nmerchandise",
+        "tc_hanzi": "商品"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "classifier: kind, type",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "所有",
+        "pinyin": "suǒ yǒu",
+        "meaning": "all\nevery",
+        "tc_hanzi": "所有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "样样",
+        "pinyin": "yàng yàng",
+        "meaning": "all kinds\neach and every",
+        "tc_hanzi": "樣樣"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "classifier: kind, type",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "yiwei",
+        "hsk": 4,
+        "hanzi": "以为",
+        "pinyin": "yǐ wéi",
+        "meaning": "to believe\nto be under the impression",
+        "tc_hanzi": "以為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A piece of something, and a type of thing… look out for the classifiers!",
+    "syllable_times": [
+      0.37,
+      0.84,
+      1.34,
+      1.63,
+      3.3831155623964198,
+      3.3831155623964198,
+      3.3831155623964198,
+      3.7,
+      3.96,
+      4.21,
+      4.513333333333334,
+      4.7180219963004895,
+      5.17,
+      5.57,
+      5.844900268871395,
+      6.096208565132687,
+      6.5,
+      6.795,
+      7.09,
+      7.294408247359981,
+      7.69,
+      8.121648001349646,
+      8.35993238802151,
+      8.575,
+      8.88,
+      9.25,
+      9.59,
+      9.76,
+      9.93,
+      10.225,
+      12.060494671907165,
+      12.060494671907165,
+      12.060494671907165,
+      12.46,
+      12.837056355929807,
+      13.68,
+      14.05,
+      14.51,
+      14.79,
+      15.094999999999999,
+      15.4,
+      16.897990349361365,
+      16.897990349361365,
+      16.909685288584523,
+      17.208482125933795,
+      19.12,
+      19.426666666666666,
+      19.733333333333334,
+      20.04,
+      22.004780476807472,
+      22.004780476807472,
+      22.004780476807472,
+      22.37,
+      22.56,
+      22.96,
+      24.02,
+      24.45,
+      24.81,
+      26.547068291675114,
+      26.547068291675114,
+      26.547068291675114,
+      26.81,
+      27.39,
+      27.613333333333333,
+      27.836666666666666,
+      29.736862964791737,
+      29.736862964791737,
+      29.736862964791737,
+      30.07,
+      30.33,
+      30.94,
+      31.33,
+      31.76,
+      32.05,
+      32.364999999999995,
+      34.60074183770065,
+      34.60074183770065,
+      34.60074183770065,
+      35.041517009179564,
+      35.65,
+      36.045,
+      36.66,
+      36.88333333333333,
+      37.19183536081351,
+      37.33,
+      37.605000000000004,
+      39.95179671846684,
+      39.95179671846684,
+      39.95179671846684,
+      40.21,
+      40.46,
+      40.71666666666667,
+      40.97333333333333,
+      41.47,
+      41.74333333333333,
+      42.016666666666666,
+      42.29,
+      42.57,
+      43.364193927933364,
+      43.825,
+      44.22,
+      44.49,
+      44.82,
+      45.97783564826057,
+      46.33,
+      46.67284285080656,
+      46.92184759843299,
+      47.13,
+      47.50983177040504,
+      47.68915417182681,
+      48.43080823422881,
+      48.81,
+      49.08,
+      49.4024184690074,
+      50.06,
+      50.51312760212204,
+      50.81254462564224,
+      51.103101846720655,
+      51.89,
+      52.25,
+      52.93,
+      53.22,
+      53.495000000000005,
+      53.77,
+      54.105000000000004,
+      54.51,
+      54.84,
+      55.14,
+      55.44,
+      57.30261570832458,
+      57.30261570832458,
+      57.30261570832458,
+      57.62077121400915,
+      57.786493818682786,
+      58.56,
+      59.019999999999996,
+      59.85,
+      60.105000000000004,
+      60.36,
+      60.85,
+      61.2,
+      61.55,
+      61.87,
+      62.53,
+      62.855000000000004,
+      63.18,
+      63.43,
+      64.17,
+      64.35,
+      64.57,
+      64.78246501173868,
+      65.73,
+      65.945,
+      66.16,
+      66.49,
+      66.96,
+      67.175,
+      67.39,
+      67.745,
+      68.23,
+      68.465,
+      68.7,
+      68.94,
+      69.9,
+      70.14,
+      70.41499999999999,
+      70.69,
+      71.02,
+      71.53,
+      71.88200190439156,
+      72.11,
+      72.32,
+      73.13,
+      73.32499999999999,
+      73.52,
+      73.93,
+      74.34,
+      74.75,
+      75.07,
+      75.67,
+      76.00999999999999,
+      76.35,
+      76.71870095439978,
+      78.57944841472295,
+      78.57944841472295,
+      78.57944841472295,
+      79.74,
+      80.14692466272392,
+      80.53,
+      80.77,
+      81,
+      81.23,
+      81.47,
+      81.61685448584083,
+      81.84,
+      82.56,
+      82.88,
+      83.38,
+      83.595,
+      83.81,
+      84.065,
+      84.32,
+      84.42,
+      84.66675287840162,
+      84.85,
+      85.91,
+      86.31,
+      86.54,
+      86.83000000000001,
+      87.26,
+      87.50333333333333,
+      87.74666666666667,
+      87.99,
+      88.25999999999999,
+      88.53,
+      88.66,
+      88.975,
+      89.29,
+      89.862517,
+      89.862517
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      23,
+      30,
+      31,
+      41,
+      42,
+      47,
+      48,
+      53,
+      54,
+      63,
+      64,
+      71,
+      72,
+      82,
+      83,
+      96,
+      97,
+      119,
+      120,
+      139,
+      140,
+      146,
+      163,
+      195,
+      196,
+      226,
+      236
+    ],
+    "sentence_translations": [
+      "Pieces and Types",
+      "",
+      "Shop Assistant: Big discount! Big discount! 10 yuan for every piece, 10 yuan for every type.",
+      "Make sure not to pass by and miss out!",
+      "",
+      "Paul: So cheap! Let’s go have a look!",
+      "",
+      "Little Le: Ok!",
+      "",
+      "(A few minutes later)",
+      "",
+      "Paul: How come they don’t have… Where are they then?",
+      "",
+      "Little Le: What are you looking for?",
+      "",
+      "Paul: I’m looking for pieces and types.",
+      "",
+      "Little Le: What things are “pieces” and “types”?",
+      "",
+      "Paul: I also don’t know what they are, that’s why I’m looking for them. Isn’t that what the shop assistant said?",
+      "",
+      "“10 yuan for every piece, 10 yuan for every type”. Therefore I want to buy pieces and types!",
+      "",
+      "Little Le: Hahaha!",
+      "Paul, the meaning of the shop assistant’s “10 yuan for every piece, 10 yuan for every type” is to say ..",
+      ".. “Every piece of good inside the store is 10 yuan, every type of thing is 10 yuan. All the things in the store are 10 yuan.”",
+      "",
+      "Paul: Ah? So “piece piece” means “every piece”, and “type type” means “every type”?",
+      "I was under the impression that they were names for something.",
+      ""
+    ]
+  }
+}

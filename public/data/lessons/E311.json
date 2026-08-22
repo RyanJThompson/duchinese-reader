@@ -1,0 +1,776 @@
+{
+  "id": "E311",
+  "title": "I’m Done For",
+  "level": "elementary",
+  "date": "2019-04-06",
+  "synopsis": "A popular new way to say “I’m done for”.",
+  "audioUrl": "https://static.duchinese.net/documents/1012/8a41186ec9e4dd234779caa2fd1267c115a730c2.mp3?1553506574",
+  "series": null,
+  "fullText": {
+    "simplified": "凉凉\n\n保罗：明天的考试你复习好了吗？\n小乐：还没有，感觉我要凉凉了。\n保罗：那你还不好好复习？如果真的凉凉了，你又要哭了。\n小乐：好吧，我去复习了。希望这次不要凉凉！",
+    "traditional": "涼涼\n\n保羅：明天的考試你復習好了嗎？\n小樂：還沒有，感覺我要涼涼了。\n保羅：那你還不好好復習？如果真的涼涼了，你又要哭了。\n小樂：好吧，我去復習了。希望這次不要涼涼！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I’m Done For"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：明天的考试你复习好了吗？",
+      "traditional": "保羅：明天的考試你復習好了嗎？",
+      "pinyin": "bǎo luó míng tiān de kǎo shì nǐ fù xí hǎo le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Have you prepared for tomorrow’s test?"
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：还没有，感觉我要凉凉了。",
+      "traditional": "小樂：還沒有，感覺我要涼涼了。",
+      "pinyin": "xiǎo lè hái méi yǒu gǎn jué wǒ yào liáng liáng le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Not yet. I feel like I’m done for."
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：那你还不好好复习？如果真的凉凉了，你又要哭了。",
+      "traditional": "保羅：那你還不好好復習？如果真的涼涼了，你又要哭了。",
+      "pinyin": "bǎo luó nà nǐ hái bù hǎo hǎo fù xí rú guǒ zhēn de liáng liáng le nǐ yòu yào kū le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Then why don’t you start reviewing? If you really fail, you will cry again."
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：好吧，我去复习了。希望这次不要凉凉！",
+      "traditional": "小樂：好吧，我去復習了。希望這次不要涼涼！",
+      "pinyin": "xiǎo lè hǎo ba wǒ qù fù xí le xī wàng zhè cì bú yào liáng liáng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: Fine, I’ll go review. Let’s hope I won’t fail this time!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "凉凉",
+      "traditional": "涼涼",
+      "pinyin": "liáng liáng",
+      "meaning": "be done for\nbe finished",
+      "hsk": null
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "meaning": "to take an exam\nexam",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "复习",
+      "traditional": "復習",
+      "pinyin": "fù xí",
+      "meaning": "to review\nto go over",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "感觉",
+      "traditional": "感覺",
+      "pinyin": "gǎn jué",
+      "meaning": "feeling\nsense\nperception",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好好",
+      "traditional": "好好",
+      "pinyin": "hǎo hǎo",
+      "meaning": "well\ncarefully\nproperly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "哭",
+      "traditional": "哭",
+      "pinyin": "kū",
+      "meaning": "to cry\nto weep",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好吧",
+      "traditional": "好吧",
+      "pinyin": "hǎo ba",
+      "meaning": "OK (reluctantly)\nalright...",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "希望",
+      "traditional": "希望",
+      "pinyin": "xī wàng",
+      "meaning": "to wish for\nto desire\nto hope",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "凉凉",
+        "pinyin": "liáng liáng",
+        "meaning": "be done for\nbe finished",
+        "tc_hanzi": "涼涼"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "考试",
+        "pinyin": "kǎo shì",
+        "meaning": "to take an exam\nexam",
+        "tc_hanzi": "考試"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "复习",
+        "pinyin": "fù xí",
+        "meaning": "to review\nto go over",
+        "tc_hanzi": "復習"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "感觉",
+        "pinyin": "gǎn jué",
+        "meaning": "feeling\nsense\nperception",
+        "tc_hanzi": "感覺"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "凉凉",
+        "pinyin": "liáng liáng",
+        "meaning": "be done for\nbe finished",
+        "tc_hanzi": "涼涼"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "aa",
+        "hsk": 1,
+        "hanzi": "好好",
+        "pinyin": "hǎo hǎo",
+        "meaning": "well\ncarefully\nproperly",
+        "tc_hanzi": "好好"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "复习",
+        "pinyin": "fù xí",
+        "meaning": "to review\nto go over",
+        "tc_hanzi": "復習"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "hanzi": "凉凉",
+        "pinyin": "liáng liáng",
+        "meaning": "be done for\nbe finished",
+        "tc_hanzi": "涼涼"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "哭",
+        "pinyin": "kū",
+        "meaning": "to cry\nto weep",
+        "tc_hanzi": "哭"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吧",
+        "pinyin": "hǎo ba",
+        "meaning": "OK (reluctantly)\nalright...",
+        "tc_hanzi": "好吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "复习",
+        "pinyin": "fù xí",
+        "meaning": "to review\nto go over",
+        "tc_hanzi": "復習"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "希望",
+        "pinyin": "xī wàng",
+        "meaning": "to wish for\nto desire\nto hope",
+        "tc_hanzi": "希望"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hanzi": "凉凉",
+        "pinyin": "liáng liáng",
+        "meaning": "be done for\nbe finished",
+        "tc_hanzi": "涼涼"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A popular new way to say “I’m done for”.",
+    "syllable_times": [
+      0.46,
+      2.6694201531416035,
+      2.6694201531416035,
+      2.6694201531416035,
+      3.02,
+      3.32,
+      3.46,
+      3.87,
+      4.72,
+      5.08,
+      5.470000000000001,
+      5.86,
+      6.135,
+      6.41,
+      8.898457274234975,
+      8.898457274234975,
+      8.898457274234975,
+      9.246666666666666,
+      9.593333333333334,
+      11.15,
+      11.565000000000001,
+      12.31,
+      12.5,
+      12.69,
+      12.975,
+      13.38,
+      15.42059897573655,
+      15.42059897573655,
+      15.42059897573655,
+      16.15,
+      16.42,
+      16.705,
+      16.99,
+      17.299999999999997,
+      17.61,
+      17.945,
+      19.49,
+      19.84,
+      20.37,
+      20.59,
+      20.81,
+      21.12,
+      21.36,
+      22.56,
+      23.06,
+      23.32,
+      23.59,
+      23.95093861974599,
+      25.72502640657636,
+      25.72502640657636,
+      25.72502640657636,
+      26.21,
+      27.23,
+      27.41,
+      27.6,
+      27.905,
+      28.21,
+      29.49,
+      29.755,
+      30.02,
+      30.25,
+      31.06,
+      31.314999999999998,
+      31.57,
+      31.85,
+      32.542563,
+      32.542563
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      14,
+      15,
+      26,
+      27,
+      47,
+      48,
+      63
+    ],
+    "sentence_translations": [
+      "I’m Done For",
+      "",
+      "Paul: Have you prepared for tomorrow’s test?",
+      "",
+      "Little Le: Not yet. I feel like I’m done for.",
+      "",
+      "Paul: Then why don’t you start reviewing? If you really fail, you will cry again.",
+      "",
+      "Little Le: Fine, I’ll go review. Let’s hope I won’t fail this time!",
+      ""
+    ]
+  }
+}

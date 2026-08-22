@@ -1,0 +1,766 @@
+{
+  "id": "E407",
+  "title": "Trading Stocks",
+  "level": "elementary",
+  "date": "2020-03-07",
+  "synopsis": "Little Zhang’s friend has two million now through trading stocks! Does that mean he’s really successful?",
+  "audioUrl": "https://static.duchinese.net/documents/50407/028e98bec1995dcbdc0277f501b375e3a205e7d1.mp3?1582295789",
+  "series": null,
+  "fullText": {
+    "simplified": "炒股票\n\n小张：我朋友喜欢炒股票。现在他有两百万了。\n小何：这么厉害！他是不是很会炒股票？\n小张：我想他不太会。\n小何：为什么？\n小张：一个月前，他有五百万。\n",
+    "traditional": "炒股票\n\n小張：我朋友喜歡炒股票。現在他有兩百萬了。\n小何：這麼厲害！他是不是很會炒股票？\n小張：我想他不太會。\n小何：為什麼？\n小張：一個月前，他有五百萬。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Trading Stocks"
+    },
+    {
+      "index": 2,
+      "simplified": "小张：我朋友喜欢炒股票。现在他有两百万了。",
+      "traditional": "小張：我朋友喜歡炒股票。現在他有兩百萬了。",
+      "pinyin": "xiǎo zhāng wǒ péng you xǐ huan chǎo gǔ piào xiàn zài tā yǒu liǎng bǎi wàn le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: My friend likes trading stocks. Now he has two million."
+    },
+    {
+      "index": 4,
+      "simplified": "小何：这么厉害！他是不是很会炒股票？",
+      "traditional": "小何：這麼厲害！他是不是很會炒股票？",
+      "pinyin": "xiǎo hé zhè me lì hai tā shì bú shì hěn huì chǎo gǔ piào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: That’s so awesome! Does he know well how to trade stocks?"
+    },
+    {
+      "index": 6,
+      "simplified": "小张：我想他不太会。",
+      "traditional": "小張：我想他不太會。",
+      "pinyin": "xiǎo zhāng wǒ xiǎng tā bú tài huì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: I don’t think he’s that good at it."
+    },
+    {
+      "index": 8,
+      "simplified": "小何：为什么？",
+      "traditional": "小何：為什麼？",
+      "pinyin": "xiǎo hé wèi shén me",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Why?"
+    },
+    {
+      "index": 10,
+      "simplified": "小张：一个月前，他有五百万。",
+      "traditional": "小張：一個月前，他有五百萬。",
+      "pinyin": "xiǎo zhāng yí ge yuè qián tā yǒu wǔ bǎi wàn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: A month ago, he had five million."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "炒股票",
+      "traditional": "炒股票",
+      "pinyin": "chǎo gǔ piào",
+      "meaning": "to speculate in stocks",
+      "hsk": null
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "百",
+      "traditional": "百",
+      "pinyin": "bǎi",
+      "meaning": "hundred",
+      "hsk": 2
+    },
+    {
+      "hanzi": "万",
+      "traditional": "萬",
+      "pinyin": "wàn",
+      "meaning": "ten thousand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "meaning": "this way\nlike this",
+      "hsk": 3
+    },
+    {
+      "hanzi": "厉害",
+      "traditional": "厲害",
+      "pinyin": "lì hai",
+      "meaning": "formidable\ntremendous\nawesome",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "before\nago",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "炒股票",
+        "pinyin": "chǎo gǔ piào",
+        "meaning": "to speculate in stocks",
+        "tc_hanzi": "炒股票"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "炒股票",
+        "pinyin": "chǎo gǔ piào",
+        "meaning": "to speculate in stocks",
+        "tc_hanzi": "炒股票"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "numbers",
+        "hsk": 2,
+        "hanzi": "百",
+        "pinyin": "bǎi",
+        "meaning": "hundred",
+        "tc_hanzi": "百"
+      },
+      {
+        "g": "numbers",
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "厉害",
+        "pinyin": "lì hai",
+        "meaning": "formidable\ntremendous\nawesome",
+        "tc_hanzi": "厲害"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hanzi": "炒股票",
+        "pinyin": "chǎo gǔ piào",
+        "meaning": "to speculate in stocks",
+        "tc_hanzi": "炒股票"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "before\nago",
+        "tc_hanzi": "前"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "g": "numbers",
+        "hsk": 2,
+        "hanzi": "百",
+        "pinyin": "bǎi",
+        "meaning": "hundred",
+        "tc_hanzi": "百"
+      },
+      {
+        "g": "numbers",
+        "hsk": 3,
+        "hanzi": "万",
+        "pinyin": "wàn",
+        "meaning": "ten thousand",
+        "tc_hanzi": "萬"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Zhang’s friend has two million now through trading stocks! Does that mean he’s really successful?",
+    "syllable_times": [
+      0.4566666666666667,
+      0.8199671701179055,
+      4.35389270567687,
+      4.35389270567687,
+      4.35389270567687,
+      4.68,
+      5.045,
+      5.53,
+      5.890000000000001,
+      6.25,
+      6.6033333333333335,
+      6.956666666666666,
+      8,
+      8.385,
+      8.97,
+      9.30067440159784,
+      9.57,
+      9.875,
+      10.18,
+      10.46,
+      12.834180175710237,
+      12.834180175710237,
+      12.834180175710237,
+      13.215,
+      13.55,
+      13.850363273509869,
+      15.12,
+      15.68,
+      16.053333333333335,
+      16.426666666666666,
+      16.94,
+      17.38,
+      17.83,
+      18.216666666666665,
+      18.60333333333333,
+      20.928907994565304,
+      20.928907994565304,
+      20.928907994565304,
+      21.295,
+      21.91,
+      22.35,
+      22.615000000000002,
+      22.88,
+      25.084102709775223,
+      25.084102709775223,
+      25.084102709775223,
+      25.41926983087963,
+      25.703333333333333,
+      27.428034808093145,
+      27.428034808093145,
+      27.428034808093145,
+      27.73346149832463,
+      27.95250353912045,
+      28.211036971731144,
+      29.44,
+      29.75,
+      30.11,
+      30.430089746818872,
+      30.576841708995108,
+      30.68,
+      31.361917,
+      31.361917
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      18,
+      19,
+      32,
+      33,
+      42,
+      43,
+      47,
+      48,
+      61
+    ],
+    "sentence_translations": [
+      "Trading Stocks",
+      "",
+      "Little Zhang: My friend likes trading stocks. Now he has two million.",
+      "",
+      "Little He: That’s so awesome! Does he know well how to trade stocks?",
+      "",
+      "Little Zhang: I don’t think he’s that good at it.",
+      "",
+      "Little He: Why?",
+      "",
+      "Little Zhang: A month ago, he had five million.",
+      ""
+    ]
+  }
+}

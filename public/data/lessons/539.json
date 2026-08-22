@@ -1,0 +1,917 @@
+{
+  "id": "539",
+  "title": "Ben's Diary – My Sunday",
+  "level": "elementary",
+  "date": "2018-08-22",
+  "synopsis": "Ben enjoys his Sunday having no classes to attend.",
+  "audioUrl": "https://static.duchinese.net/documents/800/d93b33d4043dcf93be279459e38bd9fdf97dd975.mp3?1532935030",
+  "series": null,
+  "fullText": {
+    "simplified": "本的日记—我的星期天\n\n2018年7月1日 晴\n    今天是星期天，我没有课。早上，我吃了早餐，游了泳。下午，我打扫了房间，我把我的房间打扫得干干净净。晚上，我和朋友去吃了烤鸭。我没吃过烤鸭，我觉得很好吃。",
+    "traditional": "本的日記—我的星期天\n\n2018年7月1日 晴\n    今天是星期天，我沒有課。早上，我吃了早餐，游了泳。下午，我打掃了房間，我把我的房間打掃得乾乾淨淨。晚上，我和朋友去吃了烤鴨。我沒吃過烤鴨，我覺得很好吃。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Ben’s Diary – My Sunday"
+    },
+    {
+      "index": 2,
+      "simplified": "2018年7月1日 晴",
+      "traditional": "2018年7月1日 晴",
+      "pinyin": "4 nián 1 yuè 1 rì qíng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "2018-07-01 Clear skies"
+    },
+    {
+      "index": 4,
+      "simplified": "今天是星期天，我没有课。",
+      "traditional": "今天是星期天，我沒有課。",
+      "pinyin": "jīn tiān shì xīng qī tiān wǒ méi yǒu kè",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "早上，我吃了早餐，游了泳。",
+      "traditional": "早上，我吃了早餐，游了泳。",
+      "pinyin": "zǎo shang wǒ chī le zǎo cān yóu le yǒng",
+      "english": "Today is Sunday. I don’t have any classes."
+    },
+    {
+      "index": 6,
+      "simplified": "下午，我打扫了房间，我把我的房间打扫得干干净净。",
+      "traditional": "下午，我打掃了房間，我把我的房間打掃得乾乾淨淨。",
+      "pinyin": "xià wǔ wǒ dǎ sǎo le fáng jiān wǒ bǎ wǒ de fáng jiān dǎ sǎo de gān gān jìng jìng",
+      "english": "In the morning, I had breakfast and went for a swim."
+    },
+    {
+      "index": 7,
+      "simplified": "晚上，我和朋友去吃了烤鸭。",
+      "traditional": "晚上，我和朋友去吃了烤鴨。",
+      "pinyin": "wǎn shang wǒ hé péng you qù chī le kǎo yā",
+      "english": "In the afternoon I cleaned my room, and swept the entire room squeaky clean."
+    },
+    {
+      "index": 8,
+      "simplified": "我没吃过烤鸭，我觉得很好吃。",
+      "traditional": "我沒吃過烤鴨，我覺得很好吃。",
+      "pinyin": "wǒ méi chī guò kǎo yā wǒ jué de hěn hǎo chī",
+      "english": "In the evening, I went with a friend to eat Peking Duck."
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "I haven’t had Peking Duck before. I think it was delicious."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晴",
+      "traditional": "晴",
+      "pinyin": "qíng",
+      "meaning": "clear\nfine (weather)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "meaning": "class\nlesson",
+      "hsk": 2
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早餐",
+      "traditional": "早餐",
+      "pinyin": "zǎo cān",
+      "meaning": "breakfast",
+      "hsk": null
+    },
+    {
+      "hanzi": "游",
+      "traditional": "游",
+      "pinyin": "yóu",
+      "meaning": "to swim",
+      "hsk": null
+    },
+    {
+      "hanzi": "泳",
+      "traditional": "泳",
+      "pinyin": "yǒng",
+      "meaning": "swimming",
+      "hsk": null
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打扫",
+      "traditional": "打掃",
+      "pinyin": "dǎ sǎo",
+      "meaning": "to clean\nto sweep",
+      "hsk": 3
+    },
+    {
+      "hanzi": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "meaning": "room",
+      "hsk": 2
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "干干净净",
+      "traditional": "乾乾淨淨",
+      "pinyin": "gān gān jìng jìng",
+      "meaning": "clean\nneat",
+      "hsk": null
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "烤鸭",
+      "traditional": "烤鴨",
+      "pinyin": "kǎo yā",
+      "meaning": "roast duck\nPeking Duck, famous duck dish from Beijing",
+      "hsk": 4
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "—",
+        "tc_hanzi": "—"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2018",
+        "pinyin": "4",
+        "tc_hanzi": "2018"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "1",
+        "tc_hanzi": "7"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晴",
+        "pinyin": "qíng",
+        "meaning": "clear\nfine (weather)",
+        "tc_hanzi": "晴"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "早餐",
+        "pinyin": "zǎo cān",
+        "meaning": "breakfast",
+        "tc_hanzi": "早餐"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "游",
+        "pinyin": "yóu",
+        "meaning": "to swim",
+        "tc_hanzi": "游"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "泳",
+        "pinyin": "yǒng",
+        "meaning": "swimming",
+        "tc_hanzi": "泳"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "aabb",
+        "hanzi": "干干净净",
+        "pinyin": "gān gān jìng jìng",
+        "meaning": "clean\nneat",
+        "tc_hanzi": "乾乾淨淨"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "烤鸭",
+        "pinyin": "kǎo yā",
+        "meaning": "roast duck\nPeking Duck, famous duck dish from Beijing",
+        "tc_hanzi": "烤鴨"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "guo",
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "烤鸭",
+        "pinyin": "kǎo yā",
+        "meaning": "roast duck\nPeking Duck, famous duck dish from Beijing",
+        "tc_hanzi": "烤鴨"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben enjoys his Sunday having no classes to attend.",
+    "syllable_times": [
+      0.7256235827664399,
+      1.2244897959183674,
+      1.5873015873015872,
+      2.857142857142857,
+      3.2199546485260773,
+      3.8095238095238093,
+      4.212722380393889,
+      4.57448608369362,
+      6.213151927437642,
+      6.575963718820861,
+      6.984126984126984,
+      7.2562358276643995,
+      7.596993478929124,
+      8.435374149659864,
+      8.934240362811792,
+      9.433106575963718,
+      9.795918367346939,
+      10.657596371882086,
+      13.333333333333334,
+      13.660050882305645,
+      14.19501133786848,
+      14.784580498866212,
+      15.128365070820912,
+      15.434588656106703,
+      16.780045351473923,
+      17.324263038548754,
+      17.551020408163264,
+      17.82312925170068,
+      19.410430839002267,
+      19.773242630385486,
+      20.77097505668934,
+      21.04308390022676,
+      21.31519274376417,
+      21.541950113378686,
+      21.8140589569161,
+      23.038548752834465,
+      23.339633692524938,
+      23.537414965986393,
+      25.306122448979593,
+      25.738864497041043,
+      26.802721088435373,
+      27.029478458049887,
+      27.3015873015873,
+      27.61904761904762,
+      27.84580498866213,
+      28.15574543795229,
+      29.160997732426303,
+      29.523809523809526,
+      30.068027210884352,
+      30.294784580498867,
+      30.476190476190474,
+      30.836729826803833,
+      31.700680272108844,
+      31.972789115646258,
+      32.19954648526077,
+      32.6530612244898,
+      33.01587301587302,
+      33.42403628117914,
+      33.69614512471655,
+      35.23809523809524,
+      35.55555555555556,
+      36.78004535147392,
+      37.32426303854875,
+      37.55102040816327,
+      37.91383219954648,
+      38.45804988662132,
+      38.73015873015873,
+      38.995222933991855,
+      39.183673469387756,
+      39.54648526077097,
+      41.31519274376417,
+      41.58730158730159,
+      41.859410430839006,
+      42.17687074829932,
+      42.358276643990926,
+      42.67573696145125,
+      43.80952380952381,
+      44.08163265306123,
+      44.44444444444444,
+      45.12471655328798,
+      45.497720598883745,
+      45.80498866213152,
+      46.48714285714286,
+      46.48714285714286
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      17,
+      19,
+      27,
+      38,
+      54,
+      64,
+      75
+    ],
+    "sentence_translations": [
+      "Ben’s Diary – My Sunday",
+      "",
+      "2018-07-01 Clear skies",
+      "",
+      "Today is Sunday. I don’t have any classes.",
+      "In the morning, I had breakfast and went for a swim.",
+      "In the afternoon I cleaned my room, and swept the entire room squeaky clean.",
+      "In the evening, I went with a friend to eat Peking Duck.",
+      "I haven’t had Peking Duck before. I think it was delicious.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "E163",
+  "title": "Where is Shanghai Hotel?",
+  "level": "newbie",
+  "date": "2017-10-25",
+  "synopsis": "What do you need to say when you meet an inexperienced taxi driver?",
+  "audioUrl": "https://static.duchinese.net/documents/561/53a492a33cf0d35a3a5c2b8c08d1089888ff6e48.mp3?1508747712",
+  "series": null,
+  "fullText": {
+    "simplified": "上海酒店在哪儿\n\n司机：请问，你去哪儿？\n杰杰：我去上海酒店。\n司机：不好意思，我不知道上海酒店在哪儿。\n杰杰：上海酒店在中山北路 150号。\n司机：在什么路口附近？\n杰杰：在中山北路和南京路的路口附近。",
+    "traditional": "上海酒店在哪兒\n\n司機：請問，你去哪兒？\n杰杰：我去上海酒店。\n司機：不好意思，我不知道上海酒店在哪兒。\n杰杰：上海酒店在中山北路 150號。\n司機：在什麼路口附近？\n杰杰：在中山北路和南京路的路口附近。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Where is Shanghai Hotel?"
+    },
+    {
+      "index": 2,
+      "simplified": "司机：请问，你去哪儿？",
+      "traditional": "司機：請問，你去哪兒？",
+      "pinyin": "sī jī qǐng wèn nǐ qù nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Driver: May I ask, where are you headed?"
+    },
+    {
+      "index": 4,
+      "simplified": "杰杰：我去上海酒店。",
+      "traditional": "杰杰：我去上海酒店。",
+      "pinyin": "jié jié wǒ qù shàng hǎi jiǔ diàn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: I'm going to Shanghai Hotel."
+    },
+    {
+      "index": 6,
+      "simplified": "司机：不好意思，我不知道上海酒店在哪儿。",
+      "traditional": "司機：不好意思，我不知道上海酒店在哪兒。",
+      "pinyin": "sī jī bù hǎo yì si wǒ bù zhī dào shàng hǎi jiǔ diàn zài nǎ'r",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Driver: Sorry, I don’t know where Shanghai Hotel is."
+    },
+    {
+      "index": 8,
+      "simplified": "杰杰：上海酒店在中山北路 150号。",
+      "traditional": "杰杰：上海酒店在中山北路 150號。",
+      "pinyin": "jié jié shàng hǎi jiǔ diàn zài zhōng shān běi lù 4 hào",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: Shanghai Hotel is at No. 150 Zhongshan North Road."
+    },
+    {
+      "index": 10,
+      "simplified": "司机：在什么路口附近？",
+      "traditional": "司機：在什麼路口附近？",
+      "pinyin": "sī jī zài shén me lù kǒu fù jìn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Driver: Which intersection is that close to?"
+    },
+    {
+      "index": 12,
+      "simplified": "杰杰：在中山北路和南京路的路口附近。",
+      "traditional": "杰杰：在中山北路和南京路的路口附近。",
+      "pinyin": "jié jié zài zhōng shān běi lù hé nán jīng lù de lù kǒu fù jìn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Jay: It is close to the intersection of Zhongshan North Road and Nanjing Road."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "上海",
+      "traditional": "上海",
+      "pinyin": "shàng hǎi",
+      "meaning": "Shanghai",
+      "hsk": null
+    },
+    {
+      "hanzi": "酒店",
+      "traditional": "酒店",
+      "pinyin": "jiǔ diàn",
+      "meaning": "hotel\nrestaurant",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "司机",
+      "traditional": "司機",
+      "pinyin": "sī jī",
+      "meaning": "chauffeur\ndriver",
+      "hsk": 3
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杰杰",
+      "traditional": "杰杰",
+      "pinyin": "jié jié",
+      "meaning": "Jay Jay (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "中山北路",
+      "traditional": "中山北路",
+      "pinyin": "zhōng shān běi lù",
+      "meaning": "Zhongshan North Road",
+      "hsk": null
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "ordinal number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "路口",
+      "traditional": "路口",
+      "pinyin": "lù kǒu",
+      "meaning": "crossing\nintersection (of roads)",
+      "hsk": null
+    },
+    {
+      "hanzi": "附近",
+      "traditional": "附近",
+      "pinyin": "fù jìn",
+      "meaning": "(in the) vicinity\nnearby",
+      "hsk": 3
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "南京路",
+      "traditional": "南京路",
+      "pinyin": "nán jīng lù",
+      "meaning": "Nanjing Road",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "司机",
+        "pinyin": "sī jī",
+        "meaning": "chauffeur\ndriver",
+        "tc_hanzi": "司機"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "司机",
+        "pinyin": "sī jī",
+        "meaning": "chauffeur\ndriver",
+        "tc_hanzi": "司機"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "中山北路",
+        "pinyin": "zhōng shān běi lù",
+        "meaning": "Zhongshan North Road",
+        "tc_hanzi": "中山北路"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "150",
+        "pinyin": "4",
+        "tc_hanzi": "150"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "ordinal number",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "司机",
+        "pinyin": "sī jī",
+        "meaning": "chauffeur\ndriver",
+        "tc_hanzi": "司機"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "路口",
+        "pinyin": "lù kǒu",
+        "meaning": "crossing\nintersection (of roads)",
+        "tc_hanzi": "路口"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "附近",
+        "pinyin": "fù jìn",
+        "meaning": "(in the) vicinity\nnearby",
+        "tc_hanzi": "附近"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "中山北路",
+        "pinyin": "zhōng shān běi lù",
+        "meaning": "Zhongshan North Road",
+        "tc_hanzi": "中山北路"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "南京路",
+        "pinyin": "nán jīng lù",
+        "meaning": "Nanjing Road",
+        "tc_hanzi": "南京路"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "路口",
+        "pinyin": "lù kǒu",
+        "meaning": "crossing\nintersection (of roads)",
+        "tc_hanzi": "路口"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "附近",
+        "pinyin": "fù jìn",
+        "meaning": "(in the) vicinity\nnearby",
+        "tc_hanzi": "附近"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What do you need to say when you meet an inexperienced taxi driver?",
+    "syllable_times": [
+      0.4081632653061225,
+      0.7709750566893424,
+      1.043083900226757,
+      1.507708604808545,
+      1.883383653588779,
+      5.234763212162236,
+      5.234763212162236,
+      5.234763212162236,
+      5.578231292517007,
+      6.848072562358277,
+      7.210884353741497,
+      7.437641723356009,
+      10.48507453768539,
+      10.48507453768539,
+      10.48507453768539,
+      10.98383236259384,
+      11.53923397140284,
+      11.8482484169073,
+      12.24489795918367,
+      12.56235827664399,
+      15.23903041983725,
+      15.23903041983725,
+      15.23903041983725,
+      15.46485260770975,
+      15.64625850340136,
+      15.89030096806481,
+      17.27891156462585,
+      17.73242630385488,
+      18.00453514739229,
+      18.18521633802033,
+      18.59410430839002,
+      19.00819112633455,
+      19.31972789115646,
+      19.68253968253968,
+      20.0453514739229,
+      20.31746031746032,
+      23.40362553973194,
+      23.40362553973194,
+      23.40362553973194,
+      23.85487528344671,
+      24.12698412698413,
+      24.44444444444444,
+      25.07936507936508,
+      25.62358276643991,
+      25.93779219724239,
+      26.25850340136055,
+      26.48526077097506,
+      27.12018140589569,
+      27.39229024943311,
+      27.89115646258503,
+      28.1622352538944,
+      28.34467120181406,
+      31.26068346133588,
+      31.26068346133588,
+      31.26068346133588,
+      31.74603174603175,
+      32.06349206349206,
+      32.24489795918367,
+      32.47165532879819,
+      32.92517006802721,
+      33.24263038548753,
+      36.07061829424392,
+      36.07061829424392,
+      36.07061829424392,
+      36.55328798185941,
+      36.91609977324263,
+      37.23356009070294,
+      37.49353111015954,
+      38.13088448456489,
+      38.86621315192744,
+      39.24434703476039,
+      39.59183673469388,
+      39.81859410430839,
+      40.09070294784581,
+      40.36281179138322,
+      40.82319278601683,
+      41.17913832199547,
+      41.80043083900227,
+      41.80043083900227
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      14,
+      15,
+      22,
+      23,
+      35,
+      36,
+      46,
+      47,
+      54,
+      55,
+      65
+    ],
+    "sentence_translations": [
+      "Where is Shanghai Hotel?",
+      "",
+      "Driver: May I ask, where are you headed?",
+      "",
+      "Jay: I'm going to Shanghai Hotel.",
+      "",
+      "Driver: Sorry, I don’t know where Shanghai Hotel is.",
+      "",
+      "Jay: Shanghai Hotel is at No. 150 Zhongshan North Road.",
+      "",
+      "Driver: Which intersection is that close to?",
+      "",
+      "Jay: It is close to the intersection of Zhongshan North Road and Nanjing Road.",
+      ""
+    ]
+  }
+}

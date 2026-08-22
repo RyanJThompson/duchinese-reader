@@ -1,0 +1,490 @@
+{
+  "id": "966",
+  "title": "I want rice",
+  "level": "newbie",
+  "date": "2020-02-26",
+  "synopsis": "Li wants to have some rice and orders it from the waiter.",
+  "audioUrl": "https://static.duchinese.net/documents/966/ba11f3442986fd6d9679961f2ec1f8adec255b14.mp3?1591186093",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 9,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我要米饭\n\nLi：你好！请问你们有米饭吗？\nWaiter：有。你们要多少米饭？\nLi：一个。我要米饭，她不要米饭。\nWaiter：好！",
+    "traditional": "我要米飯\n\nLi：你好！請問你們有米飯嗎？\nWaiter：有。你們要多少米飯？\nLi：一個。我要米飯，她不要米飯。\nWaiter：好！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I want rice"
+    },
+    {
+      "index": 2,
+      "simplified": "Li：你好！请问你们有米饭吗？",
+      "traditional": "Li：你好！請問你們有米飯嗎？",
+      "pinyin": "nǐ hǎo qǐng wèn nǐ men yǒu mǐ fàn ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Hello! Excuse me, do you have rice?"
+    },
+    {
+      "index": 4,
+      "simplified": "Waiter：有。你们要多少米饭？",
+      "traditional": "Waiter：有。你們要多少米飯？",
+      "pinyin": "yǒu nǐ men yào duō shao mǐ fàn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Yes. How much rice do you want?"
+    },
+    {
+      "index": 6,
+      "simplified": "Li：一个。我要米饭，她不要米饭。",
+      "traditional": "Li：一個。我要米飯，她不要米飯。",
+      "pinyin": "yí ge wǒ yào mǐ fàn tā bú yào mǐ fàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: One. I want rice, she doesn’t want rice."
+    },
+    {
+      "index": 8,
+      "simplified": "Waiter：好！",
+      "traditional": "Waiter：好！",
+      "pinyin": "hǎo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Waiter: Ok!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "米饭",
+      "traditional": "米飯",
+      "pinyin": "mǐ fàn",
+      "meaning": "(cooked) rice",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Li wants to have some rice and orders it from the waiter.",
+    "syllable_times": [
+      0.29999999999999993,
+      0.57,
+      0.885,
+      2.59,
+      2.91,
+      3.69,
+      4.025,
+      4.43,
+      4.659863945578231,
+      4.852607709750567,
+      5.051020408163265,
+      5.425170068027211,
+      5.63,
+      7.7437641723356005,
+      8.81,
+      9.075963718820862,
+      9.54,
+      9.863945578231291,
+      10.07,
+      10.32,
+      10.561224489795919,
+      12.75,
+      13.061224489795919,
+      13.84,
+      14.178004535147393,
+      14.41609977324263,
+      14.665,
+      15.57,
+      15.935374149659863,
+      16.139455782312925,
+      16.33219954648526,
+      16.595,
+      18.41,
+      19.247483
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      23,
+      24,
+      37,
+      38,
+      41
+    ],
+    "sentence_translations": [
+      "I want rice",
+      "",
+      "Li: Hello! Excuse me, do you have rice?",
+      "",
+      "Waiter: Yes. How much rice do you want?",
+      "",
+      "Li: One. I want rice, she doesn’t want rice.",
+      "",
+      "Waiter: Ok!",
+      ""
+    ]
+  }
+}

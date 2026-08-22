@@ -1,0 +1,1106 @@
+{
+  "id": "390",
+  "title": "Lili's Birthday",
+  "level": "intermediate",
+  "date": "2017-10-12",
+  "synopsis": "Lili celebrates her birthday at home together with her friends.",
+  "audioUrl": "https://static.duchinese.net/documents/547/9f189e40ab0d0ac9a8ac44762b4c482e263e80ad.mp3?1507447360",
+  "series": null,
+  "fullText": {
+    "simplified": "丽丽的生日\n\n    今天是丽丽的生日，朋友们来到她的家里和她一起庆祝。她和大家一起包饺子，喝酒，聊天。晚上，大家一边唱着“祝你生日快乐，祝你生日快乐……”的歌曲，一边把蛋糕推了出来。丽丽许了愿，吹了蜡烛，把蛋糕分给了大家。丽丽还收到了很多生日礼物，她非常开心。",
+    "traditional": "麗麗的生日\n\n    今天是麗麗的生日，朋友們來到她的家裡和她一起慶祝。她和大家一起包餃子，喝酒，聊天。晚上，大家一邊唱著“祝你生日快樂，祝你生日快樂……”的歌曲，一邊把蛋糕推了出來。麗麗許了願，吹了蠟燭，把蛋糕分給了大家。麗麗還收到了很多生日禮物，她非常開心。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Lili's Birthday"
+    },
+    {
+      "index": 2,
+      "simplified": "今天是丽丽的生日，朋友们来到她的家里和她一起庆祝。",
+      "traditional": "今天是麗麗的生日，朋友們來到她的家裡和她一起慶祝。",
+      "pinyin": "jīn tiān shì lì lì de shēng rì péng you men lái dào tā de jiā lǐ hé tā yì qǐ qìng zhù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "她和大家一起包饺子，喝酒，聊天。",
+      "traditional": "她和大家一起包餃子，喝酒，聊天。",
+      "pinyin": "tā hé dà jiā yì qǐ bāo jiǎo zi hē jiǔ liáo tiān",
+      "english": "Today is Lili's birthday. Her friends came to her house to celebrate together with her."
+    },
+    {
+      "index": 4,
+      "simplified": "晚上，大家一边唱着“祝你生日快乐，祝你生日快乐……”的歌曲，一边把蛋糕推了出来。",
+      "traditional": "晚上，大家一邊唱著“祝你生日快樂，祝你生日快樂……”的歌曲，一邊把蛋糕推了出來。",
+      "pinyin": "wǎn shang dà jiā yì biān chàng zhe zhù nǐ shēng rì kuài lè zhù nǐ shēng rì kuài lè de gē qǔ yì biān bǎ dàn gāo tuī le chū lái",
+      "english": "Together they made dumplings, drank, and chatted."
+    },
+    {
+      "index": 5,
+      "simplified": "丽丽许了愿，吹了蜡烛，把蛋糕分给了大家。",
+      "traditional": "麗麗許了願，吹了蠟燭，把蛋糕分給了大家。",
+      "pinyin": "lì lì xǔ le yuàn chuī le là zhú bǎ dàn gāo fēn gěi le dà jiā",
+      "english": "In the evening, everyone sang the song “Happy birthday to you, happy birthday to you”, while bringing out the cake."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽还收到了很多生日礼物，她非常开心。",
+      "traditional": "麗麗還收到了很多生日禮物，她非常開心。",
+      "pinyin": "lì lì hái shōu dào le hěn duō shēng rì lǐ wù tā fēi cháng kāi xīn",
+      "english": "Lili made a wish, blew out the candles, and cut everyone a piece of the cake."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili also received a lot of birthday presents. She was very happy."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生日",
+      "traditional": "生日",
+      "pinyin": "shēng rì",
+      "meaning": "birthday",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来到",
+      "traditional": "來到",
+      "pinyin": "lái dào",
+      "meaning": "to come\nto arrive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "庆祝",
+      "traditional": "慶祝",
+      "pinyin": "qìng zhù",
+      "meaning": "to celebrate",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "meaning": "to cover\nto wrap\nto hold",
+      "hsk": 3
+    },
+    {
+      "hanzi": "饺子",
+      "traditional": "餃子",
+      "pinyin": "jiǎo zi",
+      "meaning": "crescent-shaped dumpling\njiaozi",
+      "hsk": 4
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "酒",
+      "traditional": "酒",
+      "pinyin": "jiǔ",
+      "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+      "hsk": null
+    },
+    {
+      "hanzi": "聊天",
+      "traditional": "聊天",
+      "pinyin": "liáo tiān",
+      "meaning": "to chat\nto gossip",
+      "hsk": 3
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一边",
+      "traditional": "一邊",
+      "pinyin": "yì biān",
+      "meaning": "on the one hand\ndoing while",
+      "hsk": 3
+    },
+    {
+      "hanzi": "唱",
+      "traditional": "唱",
+      "pinyin": "chàng",
+      "meaning": "to sing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "祝",
+      "traditional": "祝",
+      "pinyin": "zhù",
+      "meaning": "to wish\nto express good wishes\nto pray",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快乐",
+      "traditional": "快樂",
+      "pinyin": "kuài lè",
+      "meaning": "happy\nmerry",
+      "hsk": 2
+    },
+    {
+      "hanzi": "歌曲",
+      "traditional": "歌曲",
+      "pinyin": "gē qǔ",
+      "meaning": "song",
+      "hsk": null
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "蛋糕",
+      "traditional": "蛋糕",
+      "pinyin": "dàn gāo",
+      "meaning": "cake",
+      "hsk": 3
+    },
+    {
+      "hanzi": "推",
+      "traditional": "推",
+      "pinyin": "tuī",
+      "meaning": "to push\nto push forward",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "to come out\nto appear",
+      "hsk": 2
+    },
+    {
+      "hanzi": "许",
+      "traditional": "許",
+      "pinyin": "xǔ",
+      "meaning": "to allow\nto permit\nto promise",
+      "hsk": null
+    },
+    {
+      "hanzi": "愿",
+      "traditional": "願",
+      "pinyin": "yuàn",
+      "meaning": "to hope\nto wish",
+      "hsk": null
+    },
+    {
+      "hanzi": "吹",
+      "traditional": "吹",
+      "pinyin": "chuī",
+      "meaning": "to blow\nto puff\nto play a wind instrument",
+      "hsk": 5
+    },
+    {
+      "hanzi": "蜡烛",
+      "traditional": "蠟燭",
+      "pinyin": "là zhú",
+      "meaning": "candle",
+      "hsk": 6
+    },
+    {
+      "hanzi": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "meaning": "to divide\nto separate\nto distribute",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "收到",
+      "traditional": "收到",
+      "pinyin": "shōu dào",
+      "meaning": "to receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "礼物",
+      "traditional": "禮物",
+      "pinyin": "lǐ wù",
+      "meaning": "gift\npresent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "开心",
+      "traditional": "開心",
+      "pinyin": "kāi xīn",
+      "meaning": "to feel happy\nto rejoice\nto have a great time",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生日",
+        "pinyin": "shēng rì",
+        "meaning": "birthday",
+        "tc_hanzi": "生日"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生日",
+        "pinyin": "shēng rì",
+        "meaning": "birthday",
+        "tc_hanzi": "生日"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "来到",
+        "pinyin": "lái dào",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "庆祝",
+        "pinyin": "qìng zhù",
+        "meaning": "to celebrate",
+        "tc_hanzi": "慶祝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "to cover\nto wrap\nto hold",
+        "tc_hanzi": "包"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "饺子",
+        "pinyin": "jiǎo zi",
+        "meaning": "crescent-shaped dumpling\njiaozi",
+        "tc_hanzi": "餃子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "酒",
+        "pinyin": "jiǔ",
+        "meaning": "wine (esp. rice wine)\nliquor\nalcoholic beverage",
+        "tc_hanzi": "酒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "聊天",
+        "pinyin": "liáo tiān",
+        "meaning": "to chat\nto gossip",
+        "tc_hanzi": "聊天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "唱",
+        "pinyin": "chàng",
+        "meaning": "to sing",
+        "tc_hanzi": "唱"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "祝",
+        "pinyin": "zhù",
+        "meaning": "to wish\nto express good wishes\nto pray",
+        "tc_hanzi": "祝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生日",
+        "pinyin": "shēng rì",
+        "meaning": "birthday",
+        "tc_hanzi": "生日"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快乐",
+        "pinyin": "kuài lè",
+        "meaning": "happy\nmerry",
+        "tc_hanzi": "快樂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "祝",
+        "pinyin": "zhù",
+        "meaning": "to wish\nto express good wishes\nto pray",
+        "tc_hanzi": "祝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生日",
+        "pinyin": "shēng rì",
+        "meaning": "birthday",
+        "tc_hanzi": "生日"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快乐",
+        "pinyin": "kuài lè",
+        "meaning": "happy\nmerry",
+        "tc_hanzi": "快樂"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "歌曲",
+        "pinyin": "gē qǔ",
+        "meaning": "song",
+        "tc_hanzi": "歌曲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蛋糕",
+        "pinyin": "dàn gāo",
+        "meaning": "cake",
+        "tc_hanzi": "蛋糕"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "推",
+        "pinyin": "tuī",
+        "meaning": "to push\nto push forward",
+        "tc_hanzi": "推"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "to come out\nto appear",
+        "tc_hanzi": "出來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "许",
+        "pinyin": "xǔ",
+        "meaning": "to allow\nto permit\nto promise",
+        "tc_hanzi": "許"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "愿",
+        "pinyin": "yuàn",
+        "meaning": "to hope\nto wish",
+        "tc_hanzi": "願"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吹",
+        "pinyin": "chuī",
+        "meaning": "to blow\nto puff\nto play a wind instrument",
+        "tc_hanzi": "吹"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "蜡烛",
+        "pinyin": "là zhú",
+        "meaning": "candle",
+        "tc_hanzi": "蠟燭"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蛋糕",
+        "pinyin": "dàn gāo",
+        "meaning": "cake",
+        "tc_hanzi": "蛋糕"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "meaning": "to divide\nto separate\nto distribute",
+        "tc_hanzi": "分"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 4,
+        "hanzi": "收到",
+        "pinyin": "shōu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "收到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生日",
+        "pinyin": "shēng rì",
+        "meaning": "birthday",
+        "tc_hanzi": "生日"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "开心",
+        "pinyin": "kāi xīn",
+        "meaning": "to feel happy\nto rejoice\nto have a great time",
+        "tc_hanzi": "開心"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili celebrates her birthday at home together with her friends.",
+    "syllable_times": [
+      0.453514739229025,
+      0.7256235827664399,
+      1.08843537414966,
+      1.587301587301587,
+      3.310657596371882,
+      3.670730696959132,
+      4.444444444444445,
+      5.170068027210885,
+      5.532879818594104,
+      5.759637188208616,
+      6.031746031746032,
+      6.439909297052155,
+      7.891156462585034,
+      8.253968253968255,
+      8.435374149659864,
+      8.979591836734693,
+      9.297052154195011,
+      9.65986394557823,
+      9.931972789115646,
+      10.15873015873016,
+      10.56689342403628,
+      11.2282970874266,
+      11.51927437641723,
+      12.10884353741497,
+      12.47165532879819,
+      12.83446712018141,
+      13.24263038548753,
+      15.32879818594104,
+      15.69160997732426,
+      15.91836734693878,
+      16.23582766439909,
+      16.73469387755102,
+      17.05215419501134,
+      17.64172335600907,
+      17.91383219954648,
+      18.32199546485261,
+      19.34395969064592,
+      19.68253968253968,
+      20.68027210884354,
+      21.10531478222237,
+      22.85714285714286,
+      23.17460317460317,
+      24.39909297052154,
+      24.67120181405896,
+      25.04051046493857,
+      25.35147392290249,
+      25.57823129251701,
+      25.98639455782313,
+      26.98412698412698,
+      27.3015873015873,
+      27.57369614512472,
+      27.98185941043084,
+      28.25396825396825,
+      28.61678004535147,
+      29.52380952380953,
+      29.91024091967073,
+      30.20408163265306,
+      30.56689342403628,
+      30.8390022675737,
+      31.17425240765231,
+      32.15419501133787,
+      32.42630385487529,
+      32.69865237632178,
+      34.69387755102041,
+      35.01133786848072,
+      35.46485260770975,
+      35.73696145124717,
+      36.05442176870748,
+      36.46258503401361,
+      36.78004535147392,
+      36.91609977324263,
+      37.18820861678005,
+      40.1360544217687,
+      40.49886621315193,
+      40.90702947845805,
+      41.22448979591837,
+      41.45124716553288,
+      42.35827664399093,
+      42.72108843537415,
+      42.90349493618539,
+      43.26530612244898,
+      44.44444444444444,
+      44.67120181405895,
+      44.98866213151928,
+      45.41201771738988,
+      45.76479396802392,
+      45.94104308390023,
+      46.16780045351474,
+      46.39455782312925,
+      48.48072562358276,
+      48.79818594104309,
+      49.15122438098842,
+      49.38775510204081,
+      49.65986394557823,
+      49.93197278911565,
+      50.15873015873016,
+      50.52154195011338,
+      50.9750566893424,
+      51.24716553287982,
+      51.51927437641724,
+      51.70068027210884,
+      52.92517006802721,
+      53.45167362260648,
+      53.83219954648526,
+      54.24036281179139,
+      54.60559764745049,
+      55.36634920634921,
+      55.36634920634921
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      23,
+      35,
+      62,
+      78,
+      91
+    ],
+    "sentence_translations": [
+      "Lili's Birthday",
+      "",
+      "Today is Lili's birthday. Her friends came to her house to celebrate together with her.",
+      "Together they made dumplings, drank, and chatted.",
+      "In the evening, everyone sang the song “Happy birthday to you, happy birthday to you”, while bringing out the cake.",
+      "Lili made a wish, blew out the candles, and cut everyone a piece of the cake.",
+      "Lili also received a lot of birthday presents. She was very happy.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "id": "E135",
+  "title": "I’m going to swim",
+  "level": "newbie",
+  "date": "2017-07-22",
+  "synopsis": "Why does Little Ming go swimming everyday?",
+  "audioUrl": "https://static.duchinese.net/documents/477/a5bff3d7c148faa6fd0692134ef241ec1ae8dee3.mp3?1500312702",
+  "series": null,
+  "fullText": {
+    "simplified": "我去游泳\n\n妈妈：小明，你去干什么？\n小明：我去游泳。\n妈妈：你为什么每天去游泳？\n小明：天气太热了，水里凉快。",
+    "traditional": "我去游泳\n\n媽媽：小明，你去幹什麼？\n小明：我去游泳。\n媽媽：你為什麼每天去游泳？\n小明：天氣太熱了，水裡涼快。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I’m going to swim"
+    },
+    {
+      "index": 2,
+      "simplified": "妈妈：小明，你去干什么？",
+      "traditional": "媽媽：小明，你去幹什麼？",
+      "pinyin": "mā ma xiǎo míng nǐ qù gàn shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mother: Little Ming, what are you going to do?"
+    },
+    {
+      "index": 4,
+      "simplified": "小明：我去游泳。",
+      "traditional": "小明：我去游泳。",
+      "pinyin": "xiǎo míng wǒ qù yóu yǒng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: I’m going to swim."
+    },
+    {
+      "index": 6,
+      "simplified": "妈妈：你为什么每天去游泳？",
+      "traditional": "媽媽：你為什麼每天去游泳？",
+      "pinyin": "mā ma nǐ wèi shén me měi tiān qù yóu yǒng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Mother: Why do you go to swim everyday?"
+    },
+    {
+      "index": 8,
+      "simplified": "小明：天气太热了，水里凉快。",
+      "traditional": "小明：天氣太熱了，水裡涼快。",
+      "pinyin": "xiǎo míng tiān qì tài rè le shuǐ lǐ liáng kuai",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: The weather is too warm. It’s cooler in the water."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "游泳",
+      "traditional": "游泳",
+      "pinyin": "yóu yǒng",
+      "meaning": "swimming\nto swim",
+      "hsk": 2
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "干",
+      "traditional": "幹",
+      "pinyin": "gàn",
+      "meaning": "to do\nto manage\nto work",
+      "hsk": 4
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "凉快",
+      "traditional": "涼快",
+      "pinyin": "liáng kuai",
+      "meaning": "nice and cold\npleasantly cool",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "游泳",
+        "pinyin": "yóu yǒng",
+        "meaning": "swimming\nto swim",
+        "tc_hanzi": "游泳"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "凉快",
+        "pinyin": "liáng kuai",
+        "meaning": "nice and cold\npleasantly cool",
+        "tc_hanzi": "涼快"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Why does Little Ming go swimming everyday?",
+    "syllable_times": [
+      0.272108843537415,
+      0.4988662131519274,
+      0.8163265306122449,
+      2.942826337099337,
+      2.942826337099337,
+      2.942826337099337,
+      3.174603174603174,
+      3.945578231292517,
+      4.141575105455622,
+      4.267563335211915,
+      4.489795918367347,
+      4.683138434840529,
+      5.476855422373403,
+      5.476855422373403,
+      5.476855422373403,
+      5.759637188208616,
+      6.047922324549341,
+      6.309821907643294,
+      7.5708559963362,
+      7.5708559963362,
+      7.5708559963362,
+      7.755102040816326,
+      7.981859410430839,
+      8.117913832199546,
+      8.253968253968255,
+      8.4863970456939,
+      8.843537414965986,
+      9.070294784580499,
+      9.342403628117914,
+      10.1674804995588,
+      10.1674804995588,
+      10.1674804995588,
+      10.44820743766205,
+      10.61224489795918,
+      10.8390022675737,
+      11.11500590260288,
+      11.62458487830141,
+      11.9418590349521,
+      12.12437362939511,
+      12.38095238095238,
+      12.92839002267574,
+      12.92839002267574
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      14,
+      15,
+      21,
+      22,
+      31,
+      32,
+      43
+    ],
+    "sentence_translations": [
+      "I’m going to swim",
+      "",
+      "Mother: Little Ming, what are you going to do?",
+      "",
+      "Little Ming: I’m going to swim.",
+      "",
+      "Mother: Why do you go to swim everyday?",
+      "",
+      "Little Ming: The weather is too warm. It’s cooler in the water.",
+      ""
+    ]
+  }
+}

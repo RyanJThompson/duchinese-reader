@@ -1,0 +1,680 @@
+{
+  "id": "E339",
+  "title": "Please Give Me a Bag",
+  "level": "newbie",
+  "date": "2019-07-04",
+  "synopsis": "How do you ask for a bag when you go shopping?",
+  "audioUrl": "https://static.duchinese.net/documents/1089/380488ac148493ae6abaf49bcb9ee44f1b60f5fd.mp3?1561665482",
+  "series": null,
+  "fullText": {
+    "simplified": "请给我一个袋子\n\n售货员：你好，一共二十块。微信还是支付宝？\n本：支付宝，谢谢！可以给我一个袋子吗？\n售货员：袋子五毛钱一个。\n本：好的，没问题。谢谢！",
+    "traditional": "請給我一個袋子\n\n售貨員：你好，一共二十塊。微信還是支付寶？\n本：支付寶，謝謝！可以給我一個袋子嗎？\n售貨員：袋子五毛錢一個。\n本：好的，沒問題。謝謝！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Please Give Me a Bag"
+    },
+    {
+      "index": 2,
+      "simplified": "售货员：你好，一共二十块。微信还是支付宝？",
+      "traditional": "售貨員：你好，一共二十塊。微信還是支付寶？",
+      "pinyin": "shòu huò yuán nǐ hǎo yí gòng èr shí kuài wēi xìn hái shi zhī fù bǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: Hello, 20 kuai altogether. WeChat or Alipay?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：支付宝，谢谢！可以给我一个袋子吗？",
+      "traditional": "本：支付寶，謝謝！可以給我一個袋子嗎？",
+      "pinyin": "běn zhī fù bǎo xiè xie kě yǐ gěi wǒ yí ge dài zi ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Alipay, thank you! Can I have a bag, please?"
+    },
+    {
+      "index": 6,
+      "simplified": "售货员：袋子五毛钱一个。",
+      "traditional": "售貨員：袋子五毛錢一個。",
+      "pinyin": "shòu huò yuán dài zi wǔ máo qián yí ge",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 5 mao for a bag."
+    },
+    {
+      "index": 8,
+      "simplified": "本：好的，没问题。谢谢！",
+      "traditional": "本：好的，沒問題。謝謝！",
+      "pinyin": "běn hǎo de méi wèn tí xiè xie",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Ok, no problem. Thank you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to treat (to a meal etc)\nto invite",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "袋子",
+      "traditional": "袋子",
+      "pinyin": "dài zi",
+      "meaning": "bag",
+      "hsk": null
+    },
+    {
+      "hanzi": "售货员",
+      "traditional": "售貨員",
+      "pinyin": "shòu huò yuán",
+      "meaning": "shop assistant\nsalesperson",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "一共",
+      "traditional": "一共",
+      "pinyin": "yí gòng",
+      "meaning": "altogether",
+      "hsk": 3
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "微信",
+      "traditional": "微信",
+      "pinyin": "wēi xìn",
+      "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "支付宝",
+      "traditional": "支付寶",
+      "pinyin": "zhī fù bǎo",
+      "meaning": "Alipay, online payment platform",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "毛",
+      "traditional": "毛",
+      "pinyin": "máo",
+      "meaning": "classifier for Chinese fractional monetary unit\none-tenth of a yuan",
+      "hsk": 4
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to treat (to a meal etc)\nto invite",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "袋子",
+        "pinyin": "dài zi",
+        "meaning": "bag",
+        "tc_hanzi": "袋子"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "售货员",
+        "pinyin": "shòu huò yuán",
+        "meaning": "shop assistant\nsalesperson",
+        "tc_hanzi": "售貨員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一共",
+        "pinyin": "yí gòng",
+        "meaning": "altogether",
+        "tc_hanzi": "一共"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "微信",
+        "pinyin": "wēi xìn",
+        "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+        "tc_hanzi": "微信"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "袋子",
+        "pinyin": "dài zi",
+        "meaning": "bag",
+        "tc_hanzi": "袋子"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "售货员",
+        "pinyin": "shòu huò yuán",
+        "meaning": "shop assistant\nsalesperson",
+        "tc_hanzi": "售貨員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "袋子",
+        "pinyin": "dài zi",
+        "meaning": "bag",
+        "tc_hanzi": "袋子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "classifier for Chinese fractional monetary unit\none-tenth of a yuan",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you ask for a bag when you go shopping?",
+    "syllable_times": [
+      0.65,
+      1.010781710407646,
+      1.319515869518994,
+      1.488851743601328,
+      1.65,
+      1.9749999999999999,
+      4.399761143227243,
+      4.399761143227243,
+      4.399761143227243,
+      4.399761143227243,
+      4.75,
+      5.69,
+      5.985,
+      6.32,
+      6.545,
+      6.77,
+      8.01,
+      8.287922153521087,
+      8.86,
+      9.09,
+      9.32,
+      9.55,
+      9.78,
+      11.611970282082817,
+      11.611970282082817,
+      11.995000000000001,
+      12.33,
+      13.47,
+      13.805,
+      14.71,
+      15.010000000000002,
+      15.31,
+      15.58,
+      15.89,
+      16.185000000000002,
+      16.52,
+      16.855882732646116,
+      17.01,
+      18.658923929364065,
+      18.658923929364065,
+      18.658923929364065,
+      18.658923929364065,
+      18.985,
+      19.37,
+      19.62,
+      19.96003372561324,
+      20.196208039256096,
+      20.42,
+      22.16281935216463,
+      22.16281935216463,
+      22.534400272296057,
+      23.32,
+      23.64666666666667,
+      23.954994312855817,
+      24.89,
+      25.276594725612597,
+      25.841958,
+      25.841958
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      21,
+      22,
+      36,
+      37,
+      46,
+      47,
+      56
+    ],
+    "sentence_translations": [
+      "Please Give Me a Bag",
+      "",
+      "Shop assistant: Hello, 20 kuai altogether. WeChat or Alipay?",
+      "",
+      "Ben: Alipay, thank you! Can I have a bag, please?",
+      "",
+      "Shop assistant: 5 mao for a bag.",
+      "",
+      "Ben: Ok, no problem. Thank you!",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "id": "E393",
+  "title": "What’s In My Hand?",
+  "level": "newbie",
+  "date": "2020-01-09",
+  "synopsis": "Little Fang is playing a game with Little Hong. Or is he?",
+  "audioUrl": "https://static.duchinese.net/documents/50393/56d2e8c707ab261d444c7cf6d584eaa373a4e53d.mp3?1578130603",
+  "series": null,
+  "fullText": {
+    "simplified": "我的手里有什么？\n\n小方：我的手里有什么？\n小红：我不知道。\n小方：你说吧。说对了，那两块糖都是你的。\n小红：是两块糖吗？\n小方：对，送给你！\n",
+    "traditional": "我的手裡有什麼？\n\n小方：我的手裡有什麼？\n小紅：我不知道。\n小方：你說吧。說對了，那兩塊糖都是你的。\n小紅：是兩塊糖嗎？\n小方：對，送給你！\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What’s in my hand?"
+    },
+    {
+      "index": 2,
+      "simplified": "小方：我的手里有什么？",
+      "traditional": "小方：我的手裡有什麼？",
+      "pinyin": "xiǎo fāng wǒ de shǒu lǐ yǒu shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: What’s in my hand?"
+    },
+    {
+      "index": 4,
+      "simplified": "小红：我不知道。",
+      "traditional": "小紅：我不知道。",
+      "pinyin": "xiǎo hóng wǒ bù zhī dào",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: I don’t know."
+    },
+    {
+      "index": 6,
+      "simplified": "小方：你说吧。说对了，那两块糖都是你的。",
+      "traditional": "小方：你說吧。說對了，那兩塊糖都是你的。",
+      "pinyin": "xiǎo fāng nǐ shuō ba shuō duì le nà liǎng kuài táng dōu shì nǐ de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: Just say something. If you are right, these two candies will be all yours."
+    },
+    {
+      "index": 8,
+      "simplified": "小红：是两块糖吗？",
+      "traditional": "小紅：是兩塊糖嗎？",
+      "pinyin": "xiǎo hóng shì liǎng kuài táng ma",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: Is it two candies?"
+    },
+    {
+      "index": 10,
+      "simplified": "小方：对，送给你！",
+      "traditional": "小方：對，送給你！",
+      "pinyin": "xiǎo fāng duì sòng gěi nǐ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Fang: Yes! I’ll give them to you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "手",
+      "traditional": "手",
+      "pinyin": "shǒu",
+      "meaning": "hand",
+      "hsk": 2
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小方",
+      "traditional": "小方",
+      "pinyin": "xiǎo fāng",
+      "meaning": "Little Fang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小红",
+      "traditional": "小紅",
+      "pinyin": "xiǎo hóng",
+      "meaning": "Little Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "classifier for lumps and flat items",
+      "hsk": 1
+    },
+    {
+      "hanzi": "糖",
+      "traditional": "糖",
+      "pinyin": "táng",
+      "meaning": "sugar\nsweets\ncandy",
+      "hsk": 4
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "送给",
+      "traditional": "送給",
+      "pinyin": "sòng gěi",
+      "meaning": "to send\nto give as a present",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "meaning": "hand",
+        "tc_hanzi": "手"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "meaning": "hand",
+        "tc_hanzi": "手"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "classifier for lumps and flat items",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "糖",
+        "pinyin": "táng",
+        "meaning": "sugar\nsweets\ncandy",
+        "tc_hanzi": "糖"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "classifier for lumps and flat items",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "糖",
+        "pinyin": "táng",
+        "meaning": "sugar\nsweets\ncandy",
+        "tc_hanzi": "糖"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小方",
+        "pinyin": "xiǎo fāng",
+        "meaning": "Little Fang (name)",
+        "tc_hanzi": "小方"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送给",
+        "pinyin": "sòng gěi",
+        "meaning": "to send\nto give as a present",
+        "tc_hanzi": "送給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Fang is playing a game with Little Hong. Or is he?",
+    "syllable_times": [
+      0.3414516895245283,
+      0.52,
+      0.9439039236459977,
+      1.43,
+      1.73,
+      2.0300000000000002,
+      5.5582250216068365,
+      5.5582250216068365,
+      5.5582250216068365,
+      5.775,
+      6.04,
+      6.34,
+      6.64,
+      6.953333333333333,
+      7.266666666666667,
+      9.41402576030829,
+      9.41402576030829,
+      9.41402576030829,
+      9.830961379638085,
+      10.061271630800686,
+      10.305,
+      12.486477021713258,
+      12.486477021713258,
+      12.486477021713258,
+      12.835,
+      13.22,
+      14.22,
+      14.67,
+      15.04,
+      15.73,
+      16.09,
+      16.415,
+      16.74,
+      17.46,
+      17.82,
+      18.18,
+      18.48,
+      20.34580498866213,
+      20.34580498866213,
+      20.34580498866213,
+      20.72,
+      21.035,
+      21.35,
+      21.74,
+      24.09910941796425,
+      24.09910941796425,
+      24.09910941796425,
+      25.2,
+      25.60617135610336,
+      25.83,
+      26.567479
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      18,
+      19,
+      25,
+      26,
+      45,
+      46,
+      54,
+      55,
+      62
+    ],
+    "sentence_translations": [
+      "What’s in my hand?",
+      "",
+      "Little Fang: What’s in my hand?",
+      "",
+      "Little Hong: I don’t know.",
+      "",
+      "Little Fang: Just say something. If you are right, these two candies will be all yours.",
+      "",
+      "Little Hong: Is it two candies?",
+      "",
+      "Little Fang: Yes! I’ll give them to you!",
+      ""
+    ]
+  }
+}

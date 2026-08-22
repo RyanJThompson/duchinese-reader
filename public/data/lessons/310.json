@@ -1,0 +1,728 @@
+{
+  "id": "310",
+  "title": "Can't Go to the Movies",
+  "level": "newbie",
+  "date": "2017-05-26",
+  "synopsis": "Lili forgets that she's going to the movies with Ben.",
+  "audioUrl": "https://static.duchinese.net/documents/428/a670f02a984c9b6513a7a65eb13be7852ead19b2.mp3?1553269264",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 20,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "不能看电影\n\n丽丽：我今天8点半去学校，晚上9点45分前回来。\n本：今天我们要去看电影。\n丽丽：啊！我忘了。对不起，我今天不能和你去看电影了。\n本：没关系。",
+    "traditional": "不能看電影\n\n麗麗：我今天8點半去學校，晚上9點45分前回來。\n本：今天我們要去看電影。\n麗麗：啊！我忘了。對不起，我今天不能和你去看電影了。\n本：沒關係。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can't Go to the Movies"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：我今天8点半去学校，晚上9点45分前回来。",
+      "traditional": "麗麗：我今天8點半去學校，晚上9點45分前回來。",
+      "pinyin": "lì lì wǒ jīn tiān bā diǎn bàn qù xué xiào wǎn shang jiǔ diǎn sì shí wǔ fēn qián huí lái",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I'm going to school at 8:30 today and will be back before 9:45 in the evening."
+    },
+    {
+      "index": 4,
+      "simplified": "本：今天我们要去看电影。",
+      "traditional": "本：今天我們要去看電影。",
+      "pinyin": "běn jīn tiān wǒ men yào qù kàn diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: We're going to the movies today."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：啊！我忘了。对不起，我今天不能和你去看电影了。",
+      "traditional": "麗麗：啊！我忘了。對不起，我今天不能和你去看電影了。",
+      "pinyin": "lì lì a wǒ wàng le duì bu qǐ wǒ jīn tiān bù néng hé nǐ qù kàn diàn yǐng le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ah! I forgot. Sorry, I can't go with you to the movies today."
+    },
+    {
+      "index": 8,
+      "simplified": "本：没关系。",
+      "traditional": "本：沒關係。",
+      "pinyin": "běn méi guān xi",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: That's alright."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "meaning": "minute",
+      "hsk": 3
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "before\nago",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lái",
+      "meaning": "to return\nto come back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "meaning": "to forget",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "meaning": "I'm sorry",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "bā",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "jiǔ",
+        "tc_hanzi": "9"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "45",
+        "pinyin": "sì shí wǔ",
+        "tc_hanzi": "45"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "meaning": "minute",
+        "tc_hanzi": "分"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "before\nago",
+        "tc_hanzi": "前"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "忘",
+        "pinyin": "wàng",
+        "meaning": "to forget",
+        "tc_hanzi": "忘"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "I'm sorry",
+        "tc_hanzi": "對不起"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili forgets that she's going to the movies with Ben.",
+    "syllable_times": [
+      0.3600223251805682,
+      1.08,
+      1.48,
+      2.01,
+      4.401815020778355,
+      4.401815020778355,
+      4.401815020778355,
+      4.83376199326067,
+      5.166601945570726,
+      6.11,
+      6.46,
+      6.890000000000001,
+      7.5,
+      7.89,
+      8.31288400475743,
+      9.73,
+      10.06,
+      11.03,
+      11.465,
+      11.93,
+      12.34,
+      12.84,
+      13.15524977063067,
+      13.496958360092608,
+      14.26,
+      14.55,
+      16.44675576317941,
+      16.44675576317941,
+      16.835,
+      17.59,
+      17.915,
+      18.37,
+      18.69,
+      18.95,
+      19.296666666666667,
+      19.64333333333333,
+      21.26480017055146,
+      21.26480017055146,
+      21.26480017055146,
+      22.237024518326304,
+      22.66,
+      23.07,
+      24.27,
+      24.66601120466895,
+      24.908346714844075,
+      26.37,
+      26.85,
+      27.250332070726785,
+      28.02,
+      28.38161542582059,
+      28.88,
+      29.29,
+      29.79,
+      30.15,
+      30.62,
+      31.005000000000003,
+      31.43,
+      33.51981229287409,
+      33.51981229287409,
+      33.86666666666667,
+      34.20333333333333,
+      34.782109,
+      34.782109
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      24,
+      25,
+      34,
+      35,
+      56,
+      57,
+      61
+    ],
+    "sentence_translations": [
+      "Can't Go to the Movies",
+      "",
+      "Lili: I'm going to school at 8:30 today and will be back before 9:45 in the evening.",
+      "",
+      "Ben: We're going to the movies today.",
+      "",
+      "Lili: Ah! I forgot. Sorry, I can't go with you to the movies today.",
+      "",
+      "Ben: That's alright.",
+      ""
+    ]
+  }
+}

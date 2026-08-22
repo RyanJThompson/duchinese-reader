@@ -1,0 +1,763 @@
+{
+  "id": "E279",
+  "title": "I Came By Plane",
+  "level": "newbie",
+  "date": "2018-12-06",
+  "synopsis": "Here’s how you can start a conversation when meeting a business partner for the first time.",
+  "audioUrl": "https://static.duchinese.net/documents/918/0a2e8c4f2587e9d62e5a9e07a8acfa5dd77bb3e1.mp3?1543807882",
+  "series": null,
+  "fullText": {
+    "simplified": "我是坐飞机来的\n\n王总：你好，李总。欢迎来上海！\n李总：你好，王总。很高兴认识你！\n王总：我也很高兴认识你！你是坐飞机来的吗？路上怎么样？\n李总：对，我是坐飞机来的，很顺利。",
+    "traditional": "我是坐飛機來的\n\n王總：你好，李總。歡迎來上海！\n李總：你好，王總。很高興認識你！\n王總：我也很高興認識你！你是坐飛機來的嗎？路上怎麼樣？\n李總：對，我是坐飛機來的，很順利。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Came Here By Plane"
+    },
+    {
+      "index": 2,
+      "simplified": "王总：你好，李总。欢迎来上海！",
+      "traditional": "王總：你好，李總。歡迎來上海！",
+      "pinyin": "wáng zǒng nǐ hǎo lǐ zǒng huān yíng lái shàng hǎi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Hello, manager Li. Welcome to Shanghai!"
+    },
+    {
+      "index": 4,
+      "simplified": "李总：你好，王总。很高兴认识你！",
+      "traditional": "李總：你好，王總。很高興認識你！",
+      "pinyin": "lǐ zǒng nǐ hǎo wáng zǒng hěn gāo xìng rèn shi nǐ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Li: Hello, manager Wang. Nice to meet you!"
+    },
+    {
+      "index": 6,
+      "simplified": "王总：我也很高兴认识你！你是坐飞机来的吗？路上怎么样？",
+      "traditional": "王總：我也很高興認識你！你是坐飛機來的嗎？路上怎麼樣？",
+      "pinyin": "wáng zǒng wǒ yě hěn gāo xìng rèn shi nǐ nǐ shì zuò fēi jī lái de ma lù shang zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Nice to meet you too! Did you come here by plane? How was the trip?"
+    },
+    {
+      "index": 8,
+      "simplified": "李总：对，我是坐飞机来的，很顺利。",
+      "traditional": "李總：對，我是坐飛機來的，很順利。",
+      "pinyin": "lǐ zǒng duì wǒ shì zuò fēi jī lái de hěn shùn lì",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Manager Li: Yes, I came here by plane. Everything went well."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "meaning": "airplane",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "总",
+      "traditional": "總",
+      "pinyin": "zǒng",
+      "meaning": "head\nchief",
+      "hsk": null
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "欢迎",
+      "traditional": "歡迎",
+      "pinyin": "huān yíng",
+      "meaning": "welcome\nto be well received",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上海",
+      "traditional": "上海",
+      "pinyin": "shàng hǎi",
+      "meaning": "Shanghai",
+      "hsk": null
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "认识",
+      "traditional": "認識",
+      "pinyin": "rèn shi",
+      "meaning": "to know\nto recognize\nto be familiar with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "路上",
+      "traditional": "路上",
+      "pinyin": "lù shang",
+      "meaning": "on the road\non a journey",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "顺利",
+      "traditional": "順利",
+      "pinyin": "shùn lì",
+      "meaning": "smoothly\nwithout a hitch",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "欢迎",
+        "pinyin": "huān yíng",
+        "meaning": "welcome\nto be well received",
+        "tc_hanzi": "歡迎"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "to know\nto recognize\nto be familiar with",
+        "tc_hanzi": "認識"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "to know\nto recognize\nto be familiar with",
+        "tc_hanzi": "認識"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路上",
+        "pinyin": "lù shang",
+        "meaning": "on the road\non a journey",
+        "tc_hanzi": "路上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "顺利",
+        "pinyin": "shùn lì",
+        "meaning": "smoothly\nwithout a hitch",
+        "tc_hanzi": "順利"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Here’s how you can start a conversation when meeting a business partner for the first time.",
+    "syllable_times": [
+      0.41068319517047436,
+      1.2244897959183674,
+      1.6824320085244637,
+      2.131519274376417,
+      2.5396825396825395,
+      2.9024943310657596,
+      4.350654329849433,
+      4.350654329849433,
+      4.350654329849433,
+      4.687920537815518,
+      5.396825396825397,
+      5.714285714285714,
+      6.621315192743764,
+      6.938775510204081,
+      7.392290249433106,
+      7.755102040816326,
+      8.117913832199546,
+      10.177712309442153,
+      10.177712309442153,
+      10.177712309442153,
+      10.476190476190476,
+      11.24716553287982,
+      11.655328798185941,
+      12.605568212189086,
+      13.015873015873016,
+      13.333333333333334,
+      13.832199546485262,
+      14.251402495046184,
+      14.467120181405896,
+      16.37179987633807,
+      16.37179987633807,
+      16.37179987633807,
+      16.73469387755102,
+      17.109470015122536,
+      17.551020408163264,
+      17.848956748038194,
+      18.367346938775512,
+      18.68480725623583,
+      19.002267573696145,
+      20.453514739229025,
+      20.952380952380953,
+      21.496598639455783,
+      21.950113378684808,
+      22.267573696145124,
+      22.675736961451246,
+      22.993197278911566,
+      23.174603174603174,
+      24.444444444444443,
+      24.71655328798186,
+      25.26077097505669,
+      25.532879818594104,
+      25.668934240362812,
+      27.396488122653547,
+      27.396488122653547,
+      27.396488122653547,
+      28.39002267573696,
+      28.707482993197278,
+      29.29705215419501,
+      29.65986394557823,
+      29.931972789115648,
+      30.20760107990739,
+      30.52639119634407,
+      31.746031746031747,
+      32.244897959183675,
+      32.56235827664399,
+      33.12047619047619,
+      33.12047619047619
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      20,
+      21,
+      34,
+      35,
+      56,
+      57,
+      72
+    ],
+    "sentence_translations": [
+      "I Came Here By Plane",
+      "",
+      "Manager Wang: Hello, manager Li. Welcome to Shanghai!",
+      "",
+      "Manager Li: Hello, manager Wang. Nice to meet you!",
+      "",
+      "Manager Wang: Nice to meet you too! Did you come here by plane? How was the trip?",
+      "",
+      "Manager Li: Yes, I came here by plane. Everything went well.",
+      ""
+    ]
+  }
+}

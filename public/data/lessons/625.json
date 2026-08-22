@@ -1,0 +1,1012 @@
+{
+  "id": "625",
+  "title": "Ben Tries Mobile Payment",
+  "level": "elementary",
+  "date": "2018-12-15",
+  "synopsis": "Ben uses his mobile phone to pay at the convenience store.",
+  "audioUrl": "https://static.duchinese.net/documents/908/38dd3de7f33088e83ab37f4e049fd19180b9a904.mp3?1635865126",
+  "series": {
+    "title": "Ben’s life in China 6: Maybe I Like Him",
+    "chapter": 17,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "手机付钱\n\n（在便利店里）\n店员：您好，一共15块。\n本：我用手机付。\n店员：好的。微信请扫这个码。\n本：可以用支付宝吗？\n店员：可以。我扫您。\n本：好的，这个。\n（机器音，滴！）\n本：您看，付好了。\n店员：好的。谢谢您！",
+    "traditional": "手機付錢\n\n（在便利店裡）\n店員：您好，一共15塊。\n本：我用手機付。\n店員：好的。微信請掃這個碼。\n本：可以用支付寶嗎？\n店員：可以。我掃您。\n本：好的，這個。\n（機器音，滴！）\n本：您看，付好了。\n店員：好的。謝謝您！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Mobile Payment"
+    },
+    {
+      "index": 2,
+      "simplified": "（在便利店里）",
+      "traditional": "（在便利店裡）",
+      "pinyin": "zài biàn lì diàn lǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(At the convenience store)"
+    },
+    {
+      "index": 4,
+      "simplified": "店员：您好，一共15块。",
+      "traditional": "店員：您好，一共15塊。",
+      "pinyin": "diàn yuán nín hǎo yí gòng 2 kuài",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: Hello. 15 yuan altogether."
+    },
+    {
+      "index": 6,
+      "simplified": "本：我用手机付。",
+      "traditional": "本：我用手機付。",
+      "pinyin": "běn wǒ yòng shǒu jī fù",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I’ll pay with my phone."
+    },
+    {
+      "index": 8,
+      "simplified": "店员：好的。微信请扫这个码。",
+      "traditional": "店員：好的。微信請掃這個碼。",
+      "pinyin": "diàn yuán hǎo de wēi xìn qǐng sǎo zhè ge mǎ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: Ok. Please scan this code using WeChat."
+    },
+    {
+      "index": 10,
+      "simplified": "本：可以用支付宝吗？",
+      "traditional": "本：可以用支付寶嗎？",
+      "pinyin": "běn kě yǐ yòng zhī fù bǎo ma",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Can I use AliPay?"
+    },
+    {
+      "index": 12,
+      "simplified": "店员：可以。我扫您。",
+      "traditional": "店員：可以。我掃您。",
+      "pinyin": "diàn yuán kě yǐ wǒ sǎo nín",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: Yes. I’ll scan you."
+    },
+    {
+      "index": 14,
+      "simplified": "本：好的，这个。",
+      "traditional": "本：好的，這個。",
+      "pinyin": "běn hǎo de zhè ge",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok, here."
+    },
+    {
+      "index": 16,
+      "simplified": "（机器音，滴！）",
+      "traditional": "（機器音，滴！）",
+      "pinyin": "jī qì yīn dī",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(Machine sound, beep!)"
+    },
+    {
+      "index": 18,
+      "simplified": "本：您看，付好了。",
+      "traditional": "本：您看，付好了。",
+      "pinyin": "běn nín kàn fù hǎo le",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Look, it’s paid."
+    },
+    {
+      "index": 20,
+      "simplified": "店员：好的。谢谢您！",
+      "traditional": "店員：好的。謝謝您！",
+      "pinyin": "diàn yuán hǎo de xiè xie nín",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Shop assistant: Ok. Thank you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "付钱",
+      "traditional": "付錢",
+      "pinyin": "fù qián",
+      "meaning": "to pay money",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "便利店",
+      "traditional": "便利店",
+      "pinyin": "biàn lì diàn",
+      "meaning": "convenience store",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一共",
+      "traditional": "一共",
+      "pinyin": "yí gòng",
+      "meaning": "altogether",
+      "hsk": 3
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "付",
+      "traditional": "付",
+      "pinyin": "fù",
+      "meaning": "to pay\nto hand over to",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "微信",
+      "traditional": "微信",
+      "pinyin": "wēi xìn",
+      "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "扫",
+      "traditional": "掃",
+      "pinyin": "sǎo",
+      "meaning": "to sweep",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "码",
+      "traditional": "碼",
+      "pinyin": "mǎ",
+      "meaning": "number\ncode",
+      "hsk": null
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "支付宝",
+      "traditional": "支付寶",
+      "pinyin": "zhī fù bǎo",
+      "meaning": "Alipay, online payment platform",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "机器",
+      "traditional": "機器",
+      "pinyin": "jī qì",
+      "meaning": "machine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "音",
+      "traditional": "音",
+      "pinyin": "yīn",
+      "meaning": "sound\nnoise\ntone",
+      "hsk": null
+    },
+    {
+      "hanzi": "滴",
+      "traditional": "滴",
+      "pinyin": "dī",
+      "meaning": "beep (sound)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "付钱",
+        "pinyin": "fù qián",
+        "meaning": "to pay money",
+        "tc_hanzi": "付錢"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "便利店",
+        "pinyin": "biàn lì diàn",
+        "meaning": "convenience store",
+        "tc_hanzi": "便利店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一共",
+        "pinyin": "yí gòng",
+        "meaning": "altogether",
+        "tc_hanzi": "一共"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "meaning": "to pay\nto hand over to",
+        "tc_hanzi": "付"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "微信",
+        "pinyin": "wēi xìn",
+        "meaning": "Weixin or WeChat (mobile text and voice messaging service)",
+        "tc_hanzi": "微信"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "扫",
+        "pinyin": "sǎo",
+        "meaning": "to sweep",
+        "tc_hanzi": "掃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "码",
+        "pinyin": "mǎ",
+        "meaning": "number\ncode",
+        "tc_hanzi": "碼"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "支付宝",
+        "pinyin": "zhī fù bǎo",
+        "meaning": "Alipay, online payment platform",
+        "tc_hanzi": "支付寶"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "扫",
+        "pinyin": "sǎo",
+        "meaning": "to sweep",
+        "tc_hanzi": "掃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "机器",
+        "pinyin": "jī qì",
+        "meaning": "machine",
+        "tc_hanzi": "機器"
+      },
+      {
+        "hanzi": "音",
+        "pinyin": "yīn",
+        "meaning": "sound\nnoise\ntone",
+        "tc_hanzi": "音"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "滴",
+        "pinyin": "dī",
+        "meaning": "beep (sound)",
+        "tc_hanzi": "滴"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "meaning": "to pay\nto hand over to",
+        "tc_hanzi": "付"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.605,
+      1.14,
+      1.4795918367346939,
+      2.99,
+      3.68,
+      4.04,
+      4.4,
+      4.86,
+      6.87,
+      6.87,
+      6.87,
+      7.205,
+      8.44671201814059,
+      8.75283446712018,
+      9.29,
+      9.77891156462585,
+      10.02,
+      11.98,
+      11.98,
+      12.3015873015873,
+      12.71,
+      13.191609977324262,
+      13.622448979591836,
+      15.65,
+      15.65,
+      15.65,
+      16.07142857142857,
+      17.03514739229025,
+      17.352607709750565,
+      17.91,
+      18.27,
+      18.9,
+      19.26,
+      19.506802721088434,
+      21.4,
+      21.4,
+      21.716666666666665,
+      21.967120181405896,
+      22.52,
+      22.851473922902493,
+      23.14,
+      23.51,
+      25.11,
+      25.11,
+      25.11,
+      25.57256235827664,
+      26.55,
+      26.79705215419501,
+      27.13,
+      28.68,
+      28.68,
+      29.246031746031743,
+      30.76,
+      31.21315192743764,
+      33.15,
+      33.46,
+      33.77,
+      34.98,
+      36.4,
+      36.4,
+      36.7,
+      37.45,
+      37.91383219954648,
+      38.36,
+      40.32312925170068,
+      40.32312925170068,
+      40.32312925170068,
+      40.702947845804985,
+      41.36054421768707,
+      41.80839002267574,
+      42.135,
+      42.7
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      9,
+      10,
+      18,
+      19,
+      26,
+      27,
+      38,
+      39,
+      46,
+      47,
+      55,
+      56,
+      63,
+      64,
+      71,
+      72,
+      81,
+      82,
+      89
+    ],
+    "sentence_translations": [
+      "Mobile Payment",
+      "",
+      "(At the convenience store)",
+      "",
+      "Shop assistant: Hello. 15 yuan altogether.",
+      "",
+      "Ben: I’ll pay with my phone.",
+      "",
+      "Shop assistant: Ok. Please scan this code using WeChat.",
+      "",
+      "Ben: Can I use AliPay?",
+      "",
+      "Shop assistant: Yes. I’ll scan you.",
+      "",
+      "Ben: Ok, here.",
+      "",
+      "(Machine sound, beep!)",
+      "",
+      "Ben: Look, it’s paid.",
+      "",
+      "Shop assistant: Ok. Thank you!",
+      ""
+    ]
+  }
+}

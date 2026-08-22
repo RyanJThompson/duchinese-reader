@@ -1,0 +1,629 @@
+{
+  "id": "E303",
+  "title": "Pass By or Pass Away",
+  "level": "elementary",
+  "date": "2019-03-08",
+  "synopsis": "Watch out! Direct translations sometimes cause misunderstandings.",
+  "audioUrl": "https://static.duchinese.net/documents/987/9a6755f643d61c26a2ddd1fc3e4a0595056db83f.mp3?1550313318",
+  "series": null,
+  "fullText": {
+    "simplified": "他刚过去了\n\n本：你看见保罗了吗？\n丽丽：哦，他刚过去了。\n本：什么？他去世了？什么时候的事？\n丽丽：不是，我的意思是他刚路过这儿……",
+    "traditional": "他剛過去了\n\n本：你看見保羅了嗎？\n麗麗：哦，他剛過去了。\n本：什麼？他去世了？什麼時候的事？\n麗麗：不是，我的意思是他剛路過這兒……"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "He Just Passed By"
+    },
+    {
+      "index": 2,
+      "simplified": "本：你看见保罗了吗？",
+      "traditional": "本：你看見保羅了嗎？",
+      "pinyin": "běn nǐ kàn jiàn bǎo luó le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Have you seen Paul?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：哦，他刚过去了。",
+      "traditional": "麗麗：哦，他剛過去了。",
+      "pinyin": "lì lì ò tā gāng guò qù le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Oh, he just passed by."
+    },
+    {
+      "index": 6,
+      "simplified": "本：什么？他去世了？什么时候的事？",
+      "traditional": "本：什麼？他去世了？什麼時候的事？",
+      "pinyin": "běn shén me tā qù shì le shén me shí hou de shì",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What? He passed away? When did this happen?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：不是，我的意思是他刚路过这儿……",
+      "traditional": "麗麗：不是，我的意思是他剛路過這兒……",
+      "pinyin": "lì lì bú shì wǒ de yì si shì tā gāng lù guò zhè‘r",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "刚",
+      "traditional": "剛",
+      "pinyin": "gāng",
+      "meaning": "just\nas soon as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "过去",
+      "traditional": "過去",
+      "pinyin": "guò qù",
+      "meaning": "to go over\nto pass by",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "meaning": "to see\nto catch sight of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "ò",
+      "meaning": "oh (interjection indicating that one has just learned sth)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去世",
+      "traditional": "去世",
+      "pinyin": "qù shì",
+      "meaning": "to pass away\nto die",
+      "hsk": 5
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不是",
+      "traditional": "不是",
+      "pinyin": "bú shì",
+      "meaning": "is not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "meaning": "meaning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "路过",
+      "traditional": "路過",
+      "pinyin": "lù guò",
+      "meaning": "to pass by or through",
+      "hsk": null
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "过去",
+        "pinyin": "guò qù",
+        "meaning": "to go over\nto pass by",
+        "tc_hanzi": "過去"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "to see\nto catch sight of",
+        "tc_hanzi": "看見"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "oh (interjection indicating that one has just learned sth)",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "过去",
+        "pinyin": "guò qù",
+        "meaning": "to go over\nto pass by",
+        "tc_hanzi": "過去"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "去世",
+        "pinyin": "qù shì",
+        "meaning": "to pass away\nto die",
+        "tc_hanzi": "去世"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不是",
+        "pinyin": "bú shì",
+        "meaning": "is not",
+        "tc_hanzi": "不是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hanzi": "路过",
+        "pinyin": "lù guò",
+        "meaning": "to pass by or through",
+        "tc_hanzi": "路過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Watch out! Direct translations sometimes cause misunderstandings.",
+    "syllable_times": [
+      0.45351473922902497,
+      0.8163265306122449,
+      1.0879194280488895,
+      1.3149094685830705,
+      4.0859538355811695,
+      4.0859538355811695,
+      4.489795918367347,
+      4.8979591836734695,
+      5.26077097505669,
+      5.62358276643991,
+      5.895691609977324,
+      6.0770975056689345,
+      8.294010210558366,
+      8.294010210558366,
+      8.294010210558366,
+      9.297052154195011,
+      9.569160997732427,
+      9.931972789115646,
+      10.204081632653061,
+      10.52154195011338,
+      12.521387557328755,
+      12.521387557328755,
+      12.869282183565756,
+      13.696145124716553,
+      14.19501133786848,
+      14.523301284635682,
+      14.875283446712018,
+      16.009070294784582,
+      16.417233560090704,
+      16.600375514027228,
+      16.87074829931973,
+      17.142857142857142,
+      17.371103425309336,
+      19.450662299397894,
+      19.450662299397894,
+      19.450662299397894,
+      19.82881634855208,
+      21.08843537414966,
+      21.405895691609977,
+      21.58730158730159,
+      21.904761904761905,
+      22.17687074829932,
+      22.74785394290757,
+      23.038548752834465,
+      23.537414965986393,
+      23.900226757369616,
+      24.17233560090703,
+      24.94297052154195,
+      24.94297052154195
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      14,
+      15,
+      24,
+      25,
+      38,
+      39
+    ],
+    "sentence_translations": [
+      "He Just Passed By",
+      "",
+      "Ben: Have you seen Paul?",
+      "",
+      "Lili: Oh, he just passed by.",
+      "",
+      "Ben: What? He passed away? When did this happen?",
+      "",
+      "Lili: No, I mean he just walked by here…"
+    ]
+  }
+}

@@ -1,0 +1,949 @@
+{
+  "id": "068",
+  "title": "Goldfish Tea",
+  "level": "intermediate",
+  "date": "2016-01-20",
+  "synopsis": "Don’t worry, there’s no actual goldfish in the tea, but in Taiwan there’s a type of teabag which turns into a goldfish when put into hot water.",
+  "audioUrl": "https://static.duchinese.net/documents/43/cc63fc3cc3ad173a07947442237f893a4090e992.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "有金鱼的茶，你喝吗？\n\n   在台湾，有一种茶包，把茶包放进热水里它就会变大成一只金鱼的样子，你动一动那根连着茶包的线，还可以让“金鱼”在茶里游来游去，非常好玩。\n   这种茶包在台湾12个卖35美元。",
+    "traditional": "有金魚的茶，你喝嗎？\n\n   在臺灣，有一種茶包，把茶包放進熱水裡它就會變大成一隻金魚的樣子，你動一動那根連著茶包的線，還可以讓“金魚”在茶裡游來游去，非常好玩。\n   這種茶包在臺灣12個賣35美元。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n   ",
+      "traditional": "\n\n   ",
+      "pinyin": "",
+      "english": "Would you like some goldfish tea?"
+    },
+    {
+      "index": 2,
+      "simplified": "在台湾，有一种茶包，把茶包放进热水里它就会变大成一只金鱼的样子，",
+      "traditional": "在臺灣，有一種茶包，把茶包放進熱水裡它就會變大成一隻金魚的樣子，",
+      "pinyin": "zài tái wān yǒu yì zhǒng chá bāo bǎ chá bāo fàng jìn rè shuǐ lǐ tā jiù huì biàn dà chéng yì zhī jīn yú de yàng zi",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "你动一动那根连着茶包的线，还可以让“金鱼”在茶里游来游去，非常好玩。",
+      "traditional": "你動一動那根連著茶包的線，還可以讓“金魚”在茶裡游來游去，非常好玩。",
+      "pinyin": "nǐ dòng yī dòng nà gēn lián zhe chá bāo de xiàn hái kě yǐ ràng jīn yú zài chá lǐ yóu lái yóu qù fēi cháng hǎo wán",
+      "english": "In Taiwan, there's a type of tea bag, which when put in hot water will transform into the shape of a goldfish."
+    },
+    {
+      "index": 4,
+      "simplified": "\n   ",
+      "traditional": "\n   ",
+      "pinyin": "",
+      "english": "By moving about the string attached to the tea bag, you can make the \"goldfish\" swim back and forth in an amusing way."
+    },
+    {
+      "index": 5,
+      "simplified": "这种茶包在台湾12个卖35美元。",
+      "traditional": "這種茶包在臺灣12個賣35美元。",
+      "pinyin": "zhè zhǒng chá bāo zài tái wān 2 ge mài 3 měi yuán",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "金鱼",
+      "traditional": "金魚",
+      "pinyin": "jīn yú",
+      "meaning": "goldfish",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "meaning": "tea\ntea plant",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "台湾",
+      "traditional": "臺灣",
+      "pinyin": "tái wān",
+      "meaning": "Taiwan",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "茶包",
+      "traditional": "茶包",
+      "pinyin": "chá bāo",
+      "meaning": "tea bag",
+      "hsk": null
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "放进",
+      "traditional": "放進",
+      "pinyin": "fàng jìn",
+      "meaning": "to put into",
+      "hsk": null
+    },
+    {
+      "hanzi": "热水",
+      "traditional": "熱水",
+      "pinyin": "rè shuǐ",
+      "meaning": "hot water",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "变",
+      "traditional": "變",
+      "pinyin": "biàn",
+      "meaning": "to become\nto change",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "成",
+      "traditional": "成",
+      "pinyin": "chéng",
+      "meaning": "to become\nto turn into",
+      "hsk": 4
+    },
+    {
+      "hanzi": "只",
+      "traditional": "隻",
+      "pinyin": "zhī",
+      "meaning": "classifier for birds and certain animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "样子",
+      "traditional": "樣子",
+      "pinyin": "yàng zi",
+      "meaning": "appearance\nmanner",
+      "hsk": 4
+    },
+    {
+      "hanzi": "动",
+      "traditional": "動",
+      "pinyin": "dòng",
+      "meaning": "to move\nto touch\nto stir (emotions)",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "根",
+      "traditional": "根",
+      "pinyin": "gēn",
+      "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+      "hsk": 5
+    },
+    {
+      "hanzi": "连",
+      "traditional": "連",
+      "pinyin": "lián",
+      "meaning": "to link\nto connect",
+      "hsk": 4
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "线",
+      "traditional": "線",
+      "pinyin": "xiàn",
+      "meaning": "thread\nstring",
+      "hsk": null
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "游",
+      "traditional": "游",
+      "pinyin": "yóu",
+      "meaning": "to swim",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好玩",
+      "traditional": "好玩",
+      "pinyin": "hǎo wán",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "卖",
+      "traditional": "賣",
+      "pinyin": "mài",
+      "meaning": "to sell",
+      "hsk": 2
+    },
+    {
+      "hanzi": "美元",
+      "traditional": "美元",
+      "pinyin": "měi yuán",
+      "meaning": "US dollar",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "金鱼",
+        "pinyin": "jīn yú",
+        "meaning": "goldfish",
+        "tc_hanzi": "金魚"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea\ntea plant",
+        "tc_hanzi": "茶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n\n   ",
+        "tc_hanzi": "\n\n   "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "台湾",
+        "pinyin": "tái wān",
+        "meaning": "Taiwan",
+        "tc_hanzi": "臺灣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hanzi": "茶包",
+        "pinyin": "chá bāo",
+        "meaning": "tea bag",
+        "tc_hanzi": "茶包"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hanzi": "茶包",
+        "pinyin": "chá bāo",
+        "meaning": "tea bag",
+        "tc_hanzi": "茶包"
+      },
+      {
+        "hanzi": "放进",
+        "pinyin": "fàng jìn",
+        "meaning": "to put into",
+        "tc_hanzi": "放進"
+      },
+      {
+        "hanzi": "热水",
+        "pinyin": "rè shuǐ",
+        "meaning": "hot water",
+        "tc_hanzi": "熱水"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "meaning": "to become\nto change",
+        "tc_hanzi": "變"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "成",
+        "pinyin": "chéng",
+        "meaning": "to become\nto turn into",
+        "tc_hanzi": "成"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhī",
+        "meaning": "classifier for birds and certain animals",
+        "tc_hanzi": "隻"
+      },
+      {
+        "hanzi": "金鱼",
+        "pinyin": "jīn yú",
+        "meaning": "goldfish",
+        "tc_hanzi": "金魚"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样子",
+        "pinyin": "yàng zi",
+        "meaning": "appearance\nmanner",
+        "tc_hanzi": "樣子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "动",
+        "pinyin": "dòng",
+        "meaning": "to move\nto touch\nto stir (emotions)",
+        "tc_hanzi": "動"
+      },
+      {
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "(used between verbs to lessen seriousness)",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "动",
+        "pinyin": "dòng",
+        "meaning": "to move\nto touch\nto stir (emotions)",
+        "tc_hanzi": "動"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+        "tc_hanzi": "根"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "连",
+        "pinyin": "lián",
+        "meaning": "to link\nto connect",
+        "tc_hanzi": "連"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "茶包",
+        "pinyin": "chá bāo",
+        "meaning": "tea bag",
+        "tc_hanzi": "茶包"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "线",
+        "pinyin": "xiàn",
+        "meaning": "thread\nstring",
+        "tc_hanzi": "線"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "金鱼",
+        "pinyin": "jīn yú",
+        "meaning": "goldfish",
+        "tc_hanzi": "金魚"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea\ntea plant",
+        "tc_hanzi": "茶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "游",
+        "pinyin": "yóu",
+        "meaning": "to swim",
+        "tc_hanzi": "游"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "游",
+        "pinyin": "yóu",
+        "meaning": "to swim",
+        "tc_hanzi": "游"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hanzi": "好玩",
+        "pinyin": "hǎo wán",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n   ",
+        "tc_hanzi": "\n   "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hanzi": "茶包",
+        "pinyin": "chá bāo",
+        "meaning": "tea bag",
+        "tc_hanzi": "茶包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "台湾",
+        "pinyin": "tái wān",
+        "meaning": "Taiwan",
+        "tc_hanzi": "臺灣"
+      },
+      {
+        "hanzi": "12",
+        "pinyin": "2",
+        "tc_hanzi": "12"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "hanzi": "35",
+        "pinyin": "3",
+        "tc_hanzi": "35"
+      },
+      {
+        "hanzi": "美元",
+        "pinyin": "měi yuán",
+        "meaning": "US dollar",
+        "tc_hanzi": "美元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Don’t worry, there’s no actual goldfish in the tea, but in Taiwan there’s a type of teabag which turns into a goldfish when put into hot water.",
+    "syllable_times": [
+      0.3174603174603174,
+      0.7256235827664399,
+      0.9070294784580499,
+      1.179138321995465,
+      2.086167800453515,
+      2.494331065759637,
+      2.72108843537415,
+      4.036281179138322,
+      4.399092970521542,
+      4.625850340136054,
+      5.442176870748299,
+      5.759637188208616,
+      5.98639455782313,
+      6.303854875283447,
+      6.712018140589569,
+      7.619047619047619,
+      8.02721088435374,
+      8.344671201814059,
+      8.70748299319728,
+      8.979591836734693,
+      9.342403628117914,
+      9.705215419501133,
+      9.977324263038549,
+      10.8390022675737,
+      11.15646258503401,
+      11.42857142857143,
+      11.79138321995465,
+      12.06349206349206,
+      12.33560090702948,
+      12.6984126984127,
+      12.97052154195011,
+      13.24263038548753,
+      13.56009070294785,
+      13.83219954648526,
+      14.01360544217687,
+      14.37641723356009,
+      15.78231292517007,
+      16.09977324263038,
+      16.34863335251291,
+      16.55328798185941,
+      16.96145124716553,
+      17.23356009070295,
+      17.59637188208617,
+      17.91383219954648,
+      18.2312925170068,
+      18.59410430839002,
+      18.82086167800454,
+      19.00226757369614,
+      20.13605442176871,
+      20.45351473922902,
+      20.68027210884354,
+      20.86167800453515,
+      21.17913832199546,
+      21.58730158730159,
+      21.90476190476191,
+      22.25427586608482,
+      22.63038548752834,
+      23.03854875283447,
+      23.35600907029479,
+      23.6734693877551,
+      23.99092970521542,
+      24.78351187206937,
+      25.17006802721088,
+      25.62358276643991,
+      25.85034013605442,
+      26.93877551020408,
+      27.2562358276644,
+      27.61904761904762,
+      27.98185941043084,
+      28.48072562358277,
+      28.79818594104308,
+      29.1156462585034,
+      29.47845804988662,
+      29.70521541950113,
+      30.11337868480726,
+      30.65759637188209,
+      30.9750566893424,
+      31.29251700680272,
+      31.58709541106257,
+      31.83673469387755,
+      32.10884353741496,
+      33.07285714285715,
+      33.07287979125977
+    ],
+    "sentence_indices": [
+      9,
+      10,
+      35,
+      64,
+      65
+    ],
+    "sentence_translations": [
+      "Would you like some goldfish tea?",
+      "",
+      "In Taiwan, there's a type of tea bag, which when put in hot water will transform into the shape of a goldfish.",
+      "By moving about the string attached to the tea bag, you can make the \"goldfish\" swim back and forth in an amusing way.",
+      "",
+      "This type of tea bag is sold for 35 USD for 12 bags in Taiwan."
+    ]
+  }
+}

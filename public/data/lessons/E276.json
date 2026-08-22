@@ -1,0 +1,797 @@
+{
+  "id": "E276",
+  "title": "Ordering and Paying at the Restaurant",
+  "level": "newbie",
+  "date": "2018-11-29",
+  "synopsis": "Ordering food and paying the bill are probably the most important survival skills in China.",
+  "audioUrl": "https://static.duchinese.net/documents/914/e145d0bd34d70ad7aa3b0f712c0cb1181b3b3c2a.mp3?1542078302",
+  "series": null,
+  "fullText": {
+    "simplified": "点菜和买单\n\n本：服务员，点菜。\n服务员：您好，请问要点什么？\n本：要这两个菜，再要一个米饭。\n服务员：好的，请稍等！\n（吃完饭后……）\n本：服务员，买单。\n服务员：您好，一共80块。",
+    "traditional": "點菜和買單\n\n本：服務員，點菜。\n服務員：您好，請問要點什麼？\n本：要這兩個菜，再要一個米飯。\n服務員：好的，請稍等！\n（吃完飯後……）\n本：服務員，買單。\n服務員：您好，一共80塊。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Ordering Food and Paying the Bill"
+    },
+    {
+      "index": 2,
+      "simplified": "本：服务员，点菜。",
+      "traditional": "本：服務員，點菜。",
+      "pinyin": "běn fú wù yuán diǎn cài",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Waiter, I want to order."
+    },
+    {
+      "index": 4,
+      "simplified": "服务员：您好，请问要点什么？",
+      "traditional": "服務員：您好，請問要點什麼？",
+      "pinyin": "fú wù yuán nín hǎo qǐng wèn yào diǎn shén me",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Hello. What would you like to order?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：要这两个菜，再要一个米饭。",
+      "traditional": "本：要這兩個菜，再要一個米飯。",
+      "pinyin": "běn yào zhè liǎng ge cài zài yào yí ge mǐ fàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: These two dishes, and a bowl of rice."
+    },
+    {
+      "index": 8,
+      "simplified": "服务员：好的，请稍等！",
+      "traditional": "服務員：好的，請稍等！",
+      "pinyin": "fú wù yuán hǎo de qǐng shāo děng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Ok, please wait a moment."
+    },
+    {
+      "index": 10,
+      "simplified": "（吃完饭后……）",
+      "traditional": "（吃完飯後……）",
+      "pinyin": "chī wán fàn hòu",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(After the meal…)"
+    },
+    {
+      "index": 12,
+      "simplified": "本：服务员，买单。",
+      "traditional": "本：服務員，買單。",
+      "pinyin": "běn fú wù yuán mǎi dān",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Waiter, the bill, please."
+    },
+    {
+      "index": 14,
+      "simplified": "服务员：您好，一共80块。",
+      "traditional": "服務員：您好，一共80塊。",
+      "pinyin": "fú wù yuán nín hǎo yí gòng 2 kuài",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Waiter: Hello. It’s 80 yuan altogether."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "点菜",
+      "traditional": "點菜",
+      "pinyin": "diǎn cài",
+      "meaning": "to order dishes (in a restaurant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买单",
+      "traditional": "買單",
+      "pinyin": "mǎi dān",
+      "meaning": "to pay the restaurant bill",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "to order (food)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "米饭",
+      "traditional": "米飯",
+      "pinyin": "mǐ fàn",
+      "meaning": "(cooked) rice",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "稍等",
+      "traditional": "稍等",
+      "pinyin": "shāo děng",
+      "meaning": "to wait a moment",
+      "hsk": null
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn",
+      "meaning": "food\ncuisine\nmeal",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一共",
+      "traditional": "一共",
+      "pinyin": "yí gòng",
+      "meaning": "altogether",
+      "hsk": 3
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "点菜",
+        "pinyin": "diǎn cài",
+        "meaning": "to order dishes (in a restaurant)",
+        "tc_hanzi": "點菜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "买单",
+        "pinyin": "mǎi dān",
+        "meaning": "to pay the restaurant bill",
+        "tc_hanzi": "買單"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点菜",
+        "pinyin": "diǎn cài",
+        "meaning": "to order dishes (in a restaurant)",
+        "tc_hanzi": "點菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "to order (food)",
+        "tc_hanzi": "點"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "tc_hanzi": "米飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "稍等",
+        "pinyin": "shāo děng",
+        "meaning": "to wait a moment",
+        "tc_hanzi": "稍等"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭",
+        "pinyin": "fàn",
+        "meaning": "food\ncuisine\nmeal",
+        "tc_hanzi": "飯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "……）",
+        "tc_hanzi": "……）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "买单",
+        "pinyin": "mǎi dān",
+        "meaning": "to pay the restaurant bill",
+        "tc_hanzi": "買單"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一共",
+        "pinyin": "yí gòng",
+        "meaning": "altogether",
+        "tc_hanzi": "一共"
+      },
+      {
+        "hanzi": "80",
+        "pinyin": "2",
+        "tc_hanzi": "80"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.4274418147937782,
+      1.2752789696740032,
+      1.9047619047619047,
+      2.3582766439909295,
+      4.510851748966793,
+      4.510851748966793,
+      4.852607709750567,
+      5.079365079365079,
+      6.167800453514739,
+      6.497780346630272,
+      8.384684457410437,
+      8.384684457410437,
+      8.384684457410437,
+      8.384684457410437,
+      8.753361332192132,
+      10.022675736961451,
+      10.430839002267573,
+      10.929705215419501,
+      11.29251700680272,
+      11.555110583748654,
+      11.882086167800454,
+      13.769875196949178,
+      13.769875196949178,
+      14.512471655328799,
+      14.819932880694516,
+      15.056689342403628,
+      15.28539906843729,
+      16.689342403628117,
+      17.006802721088434,
+      17.324263038548754,
+      17.551020408163264,
+      18.095238095238095,
+      18.458049886621314,
+      20.481331614727257,
+      20.481331614727257,
+      20.481331614727257,
+      20.481331614727257,
+      20.861678004535147,
+      21.678478918306762,
+      22.086167800453516,
+      22.49433106575964,
+      24.399092970521544,
+      24.807256235827666,
+      25.215419501133788,
+      25.578231292517007,
+      27.290087514950883,
+      27.290087514950883,
+      27.563481870105143,
+      27.800453514739228,
+      28.798185941043084,
+      29.223790853975967,
+      31.16039750483896,
+      31.16039750483896,
+      31.16039750483896,
+      31.16039750483896,
+      31.383219954648528,
+      32.426303854875286,
+      32.698412698412696,
+      33.151927437641724,
+      33.42403628117914,
+      33.73431074085843,
+      34.35344671201814,
+      34.35344671201814
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      11,
+      12,
+      21,
+      22,
+      36,
+      37,
+      44,
+      45,
+      51,
+      52,
+      58,
+      59,
+      67
+    ],
+    "sentence_translations": [
+      "Ordering Food and Paying the Bill",
+      "",
+      "Ben: Waiter, I want to order.",
+      "",
+      "Waiter: Hello. What would you like to order?",
+      "",
+      "Ben: These two dishes, and a bowl of rice.",
+      "",
+      "Waiter: Ok, please wait a moment.",
+      "",
+      "(After the meal…)",
+      "",
+      "Ben: Waiter, the bill, please.",
+      "",
+      "Waiter: Hello. It’s 80 yuan altogether.",
+      ""
+    ]
+  }
+}

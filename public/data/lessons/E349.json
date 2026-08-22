@@ -1,0 +1,864 @@
+{
+  "id": "E349",
+  "title": "Procrastination",
+  "level": "intermediate",
+  "date": "2019-08-11",
+  "synopsis": "Paul has a problem with procrastination. How about you?",
+  "audioUrl": "https://static.duchinese.net/documents/1120/9d1c69e975b6fc7b037d16d364b8a5ba52d1e75e.mp3?1565001350",
+  "series": null,
+  "fullText": {
+    "simplified": "拖延症\n\n小乐：都九点了，你还不回去？\n保罗：明天就要交论文了，我今天得写完。\n小乐：我看看，你只写了一段啊！\n保罗：都怪我的拖延症。\n小乐：你的拖延症真是太严重了！",
+    "traditional": "拖延症\n\n小樂：都九點了，你還不回去？\n保羅：明天就要交論文了，我今天得寫完。\n小樂：我看看，你只寫了一段啊！\n保羅：都怪我的拖延症。\n小樂：你的拖延症真是太嚴重了！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Procrastination"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：都九点了，你还不回去？",
+      "traditional": "小樂：都九點了，你還不回去？",
+      "pinyin": "xiǎo lè dōu jiǔ diǎn le nǐ hái bù huí qù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: It’s already nine o’clock. You’re still not going back?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：明天就要交论文了，我今天得写完。",
+      "traditional": "保羅：明天就要交論文了，我今天得寫完。",
+      "pinyin": "bǎo luó míng tiān jiù yào jiāo lùn wén le wǒ jīn tiān děi xiě wán",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I need to hand in my paper tomorrow. I have to finish writing today."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：我看看，你只写了一段啊！",
+      "traditional": "小樂：我看看，你只寫了一段啊！",
+      "pinyin": "xiǎo lè wǒ kàn kan nǐ zhǐ xiě le yí duàn a",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Let me see. You have only written one paragraph!"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：都怪我的拖延症。",
+      "traditional": "保羅：都怪我的拖延症。",
+      "pinyin": "bǎo luó dōu guài wǒ de tuō yán zhèng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: It’s all my fault for procrastinating."
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：你的拖延症真是太严重了！",
+      "traditional": "小樂：你的拖延症真是太嚴重了！",
+      "pinyin": "xiǎo lè nǐ de tuō yán zhèng zhēn shì tài yán zhòng le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: You really have a serious problem with procrastination!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "拖延",
+      "traditional": "拖延",
+      "pinyin": "tuō yán",
+      "meaning": "to delay\nto put off\nto procrastinate",
+      "hsk": 6
+    },
+    {
+      "hanzi": "症",
+      "traditional": "症",
+      "pinyin": "zhèng",
+      "meaning": "disease\nillness",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "(used for emphasis) even\nalready",
+      "hsk": 1
+    },
+    {
+      "hanzi": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回去",
+      "traditional": "回去",
+      "pinyin": "huí qù",
+      "meaning": "to return\nto go back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "交",
+      "traditional": "交",
+      "pinyin": "jiāo",
+      "meaning": "to hand over\nto turn over\nto pay (money)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "论文",
+      "traditional": "論文",
+      "pinyin": "lùn wén",
+      "meaning": "paper\nthesis",
+      "hsk": 5
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "děi",
+      "meaning": "to have to\nmust\nto need to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to look at\nto watch",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "段",
+      "traditional": "段",
+      "pinyin": "duàn",
+      "meaning": "section\nsegment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怪",
+      "traditional": "怪",
+      "pinyin": "guài",
+      "meaning": "to blame",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "严重",
+      "traditional": "嚴重",
+      "pinyin": "yán zhòng",
+      "meaning": "grave\nserious",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 6,
+        "hanzi": "拖延",
+        "pinyin": "tuō yán",
+        "meaning": "to delay\nto put off\nto procrastinate",
+        "tc_hanzi": "拖延"
+      },
+      {
+        "hanzi": "症",
+        "pinyin": "zhèng",
+        "meaning": "disease\nillness",
+        "tc_hanzi": "症"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(used for emphasis) even\nalready",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine",
+        "tc_hanzi": "九"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回去",
+        "pinyin": "huí qù",
+        "meaning": "to return\nto go back",
+        "tc_hanzi": "回去"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "交",
+        "pinyin": "jiāo",
+        "meaning": "to hand over\nto turn over\nto pay (money)",
+        "tc_hanzi": "交"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "论文",
+        "pinyin": "lùn wén",
+        "meaning": "paper\nthesis",
+        "tc_hanzi": "論文"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "děi",
+        "meaning": "to have to\nmust\nto need to",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to look at\nto watch",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "段",
+        "pinyin": "duàn",
+        "meaning": "section\nsegment",
+        "tc_hanzi": "段"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hanzi": "怪",
+        "pinyin": "guài",
+        "meaning": "to blame",
+        "tc_hanzi": "怪"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "拖延",
+        "pinyin": "tuō yán",
+        "meaning": "to delay\nto put off\nto procrastinate",
+        "tc_hanzi": "拖延"
+      },
+      {
+        "hanzi": "症",
+        "pinyin": "zhèng",
+        "meaning": "disease\nillness",
+        "tc_hanzi": "症"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "拖延",
+        "pinyin": "tuō yán",
+        "meaning": "to delay\nto put off\nto procrastinate",
+        "tc_hanzi": "拖延"
+      },
+      {
+        "hanzi": "症",
+        "pinyin": "zhèng",
+        "meaning": "disease\nillness",
+        "tc_hanzi": "症"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "严重",
+        "pinyin": "yán zhòng",
+        "meaning": "grave\nserious",
+        "tc_hanzi": "嚴重"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul has a problem with procrastination. How about you?",
+    "syllable_times": [
+      0.45999999999999996,
+      0.93,
+      3.258261211638062,
+      3.258261211638062,
+      3.258261211638062,
+      3.53,
+      3.901490164895517,
+      4.184867342455766,
+      4.95,
+      5.217562582457086,
+      5.47,
+      5.68,
+      5.89,
+      7.691305249960891,
+      7.691305249960891,
+      7.691305249960891,
+      8.08,
+      8.53,
+      8.869767723976308,
+      9.28,
+      9.62,
+      9.829999999999998,
+      10.124749129229048,
+      11.06,
+      11.4,
+      11.723533727845327,
+      12.13,
+      12.402051828996706,
+      12.754999999999999,
+      14.653020667145029,
+      14.653020667145029,
+      14.653020667145029,
+      14.98,
+      15.235,
+      16.3,
+      16.55,
+      16.76,
+      16.995,
+      17.23,
+      17.509999999999998,
+      17.79,
+      19.646213428633338,
+      19.646213428633338,
+      19.646213428633338,
+      20.01,
+      20.410072747995525,
+      20.634999999999998,
+      20.79,
+      21.125,
+      21.46,
+      23.296866911639636,
+      23.296866911639636,
+      23.296866911639636,
+      23.602144640782296,
+      23.74,
+      24.015,
+      24.29,
+      24.84,
+      25.04,
+      25.24,
+      25.6,
+      25.945,
+      26.29,
+      26.875063,
+      26.875063
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      16,
+      17,
+      32,
+      33,
+      46,
+      47,
+      56,
+      57,
+      69
+    ],
+    "sentence_translations": [
+      "Procrastination",
+      "",
+      "Little Le: It’s already nine o’clock. You’re still not going back?",
+      "",
+      "Paul: I need to hand in my paper tomorrow. I have to finish writing today.",
+      "",
+      "Little Le: Let me see. You have only written one paragraph!",
+      "",
+      "Paul: It’s all my fault for procrastinating.",
+      "",
+      "Little Le: You really have a serious problem with procrastination!",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,942 @@
+{
+  "id": "125",
+  "title": "Pretty or Ugly",
+  "level": "intermediate",
+  "date": "2016-05-07",
+  "synopsis": "Little Ming's father talks about whose wives are pretty or ugly when Little Ming's mother asks him the ultimate question: “So am I pretty or ugly?”",
+  "audioUrl": "https://static.duchinese.net/documents/124/a2da7fcc59a73cb7de12f3257b1a9beea4b9ce29.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "好看还是难看\n\n    一天，小明的爸爸说：“大家都说小李的老婆好看，老陈的老婆难看。”\n    小明的妈妈问：“那我呢？”\n    小明的爸爸想了想，说：“嗯…你是她们的综合。”\n    小明的妈妈问：“那到底是好看还是难看？\n    小明的爸爸说：“是‘好难看’。”",
+    "traditional": "好看還是難看\n\n    一天，小明的爸爸說：“大家都說小李的老婆好看，老陳的老婆難看。”\n    小明的媽媽問：“那我呢？”\n    小明的爸爸想了想，說：“嗯…你是她們的綜合。”\n    小明的媽媽問：“那到底是好看還是難看？\n    小明的爸爸說：“是‘好難看’。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Pretty or Ugly"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小明的爸爸说：“大家都说小李的老婆好看，老陈的老婆难看。”",
+      "traditional": "一天，小明的爸爸說：“大家都說小李的老婆好看，老陳的老婆難看。”",
+      "pinyin": "yì tiān xiǎo míng de bà ba shuō dà jiā dōu shuō xiǎo lǐ de lǎo po hǎo kàn lǎo chén de lǎo po nán kàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One day, Little Ming's father said: “Everyone says Little Li's wife is pretty, and that Old Chen's wife is ugly.”"
+    },
+    {
+      "index": 4,
+      "simplified": "小明的妈妈问：“那我呢？”",
+      "traditional": "小明的媽媽問：“那我呢？”",
+      "pinyin": "xiǎo míng de mā ma wèn nà wǒ ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming's mother asked: “So what about me?”"
+    },
+    {
+      "index": 6,
+      "simplified": "小明的爸爸想了想，说：“嗯…你是她们的综合。”",
+      "traditional": "小明的爸爸想了想，說：“嗯…你是她們的綜合。”",
+      "pinyin": "xiǎo míng de bà ba xiǎng le xiǎng shuō èn nǐ shì tā men de zōng hé",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming's father thought for a while, then said: “Hmm, you're a mix of the two of them.”"
+    },
+    {
+      "index": 8,
+      "simplified": "小明的妈妈问：“那到底是好看还是难看？",
+      "traditional": "小明的媽媽問：“那到底是好看還是難看？",
+      "pinyin": "xiǎo míng de mā ma wèn nà dào dǐ shì hǎo kàn hái shi nán kàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming's mother asked: “So does that mean I'm pretty or ugly?”"
+    },
+    {
+      "index": 10,
+      "simplified": "小明的爸爸说：“是‘好难看’。”",
+      "traditional": "小明的爸爸說：“是‘好難看’。”",
+      "pinyin": "xiǎo míng de bà ba shuō shì hǎo nán kàn",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "难看",
+      "traditional": "難看",
+      "pinyin": "nán kàn",
+      "meaning": "ugly\nunsightly",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "老婆",
+      "traditional": "老婆",
+      "pinyin": "lǎo po",
+      "meaning": "(coll.) wife",
+      "hsk": 5
+    },
+    {
+      "hanzi": "老",
+      "traditional": "老",
+      "pinyin": "lǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 3
+    },
+    {
+      "hanzi": "陈",
+      "traditional": "陳",
+      "pinyin": "chén",
+      "meaning": "surname Chen",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "嗯",
+      "traditional": "嗯",
+      "pinyin": "èn",
+      "meaning": "(nonverbal grunt as interjection)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她们",
+      "traditional": "她們",
+      "pinyin": "tā men",
+      "meaning": "they\nthem",
+      "hsk": 1
+    },
+    {
+      "hanzi": "综合",
+      "traditional": "綜合",
+      "pinyin": "zōng hé",
+      "meaning": "comprehensive\ncomposite\nsynthesized",
+      "hsk": 5
+    },
+    {
+      "hanzi": "到底",
+      "traditional": "到底",
+      "pinyin": "dào dǐ",
+      "meaning": "finally\nin the end\nwhen all is said and done",
+      "hsk": 4
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "难看",
+        "pinyin": "nán kàn",
+        "meaning": "ugly\nunsightly",
+        "tc_hanzi": "難看"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "老",
+        "pinyin": "lǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "老"
+      },
+      {
+        "hanzi": "陈",
+        "pinyin": "chén",
+        "meaning": "surname Chen",
+        "tc_hanzi": "陳"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老婆",
+        "pinyin": "lǎo po",
+        "meaning": "(coll.) wife",
+        "tc_hanzi": "老婆"
+      },
+      {
+        "hanzi": "难看",
+        "pinyin": "nán kàn",
+        "meaning": "ugly\nunsightly",
+        "tc_hanzi": "難看"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗯",
+        "pinyin": "èn",
+        "meaning": "(nonverbal grunt as interjection)",
+        "tc_hanzi": "嗯"
+      },
+      {
+        "hanzi": "…",
+        "tc_hanzi": "…"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她们",
+        "pinyin": "tā men",
+        "meaning": "they\nthem",
+        "tc_hanzi": "她們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "综合",
+        "pinyin": "zōng hé",
+        "meaning": "comprehensive\ncomposite\nsynthesized",
+        "tc_hanzi": "綜合"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "到底",
+        "pinyin": "dào dǐ",
+        "meaning": "finally\nin the end\nwhen all is said and done",
+        "tc_hanzi": "到底"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "难看",
+        "pinyin": "nán kàn",
+        "meaning": "ugly\nunsightly",
+        "tc_hanzi": "難看"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "难看",
+        "pinyin": "nán kàn",
+        "meaning": "ugly\nunsightly",
+        "tc_hanzi": "難看"
+      },
+      {
+        "hanzi": "’。”",
+        "tc_hanzi": "’。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming's father talks about whose wives are pretty or ugly when Little Ming's mother asks him the ultimate question: “So am I pretty or ugly?”",
+    "syllable_times": [
+      0.4081632653061225,
+      1.133786848072562,
+      1.440512094843573,
+      1.859410430839002,
+      2.267573696145125,
+      4.444444444444445,
+      4.671201814058957,
+      5.62358276643991,
+      6.077097505668934,
+      6.303854875283447,
+      6.575963718820861,
+      6.893424036281179,
+      7.165532879818594,
+      8.70748299319728,
+      9.024943310657596,
+      9.342403628117914,
+      9.65986394557823,
+      10.02267573696145,
+      10.47619047619048,
+      10.65759637188209,
+      11.02040816326531,
+      11.38321995464853,
+      11.70068027210884,
+      11.97278911564626,
+      13.06122448979592,
+      13.42403628117914,
+      13.69614512471655,
+      13.96825396825397,
+      14.33106575963719,
+      14.73922902494331,
+      15.10204081632653,
+      17.09750566893424,
+      17.46031746031746,
+      17.68707482993197,
+      17.91383219954648,
+      18.1859410430839,
+      18.41269841269841,
+      19.72789115646259,
+      20,
+      20.36281179138322,
+      21.90476190476191,
+      22.26757369614512,
+      22.49433106575964,
+      22.76643990929705,
+      23.08390022675737,
+      23.40136054421769,
+      23.80952380952381,
+      24.03477501045962,
+      24.76190476190476,
+      26.25850340136055,
+      27.48299319727891,
+      27.84580498866213,
+      28.20861678004535,
+      28.57142857142857,
+      28.75283446712018,
+      29.0249433106576,
+      29.38775510204082,
+      30.8843537414966,
+      31.24716553287982,
+      31.47392290249433,
+      31.72066323056596,
+      31.97278911564626,
+      32.19954648526077,
+      33.24263038548753,
+      33.56009070294785,
+      33.87755102040816,
+      34.05895691609977,
+      34.42176870748299,
+      34.69387755102041,
+      35.32879818594105,
+      35.55555555555556,
+      35.82766439909297,
+      36.09977324263038,
+      38.0498866213152,
+      38.45804988662132,
+      38.68480725623583,
+      39.00226757369614,
+      39.27437641723356,
+      39.58109537014546,
+      41.08843537414966,
+      41.8140589569161,
+      42.49433106575964,
+      42.94784580498866,
+      43.7824716553288,
+      43.7824716553288
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      29,
+      31,
+      40,
+      42,
+      59,
+      61,
+      73,
+      75
+    ],
+    "sentence_translations": [
+      "Pretty or Ugly",
+      "",
+      "One day, Little Ming's father said: “Everyone says Little Li's wife is pretty, and that Old Chen's wife is ugly.”",
+      "",
+      "Little Ming's mother asked: “So what about me?”",
+      "",
+      "Little Ming's father thought for a while, then said: “Hmm, you're a mix of the two of them.”",
+      "",
+      "Little Ming's mother asked: “So does that mean I'm pretty or ugly?”",
+      "",
+      "Little Ming's father said: “You're pretty ugly.”"
+    ]
+  }
+}

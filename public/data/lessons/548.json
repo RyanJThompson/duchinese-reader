@@ -1,0 +1,438 @@
+{
+  "id": "548",
+  "title": "How Many Apples?",
+  "level": "newbie",
+  "date": "2018-07-26",
+  "synopsis": "Ben asks Lili how many apples there are.",
+  "audioUrl": "https://static.duchinese.net/documents/794/4f7d58e949e67dcbd53889ce1c671725d42d3b0a.mp3?1553269287",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 4,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "那里有几个苹果\n\n本：那里有几个苹果？\n丽丽：我看看。1，2，3，4，5，6，7，8，9，10。那里有10个苹果。",
+    "traditional": "那裡有幾個蘋果\n\n本：那裡有幾個蘋果？\n麗麗：我看看。1，2，3，4，5，6，7，8，9，10。那裡有10個蘋果。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How many apples are over there"
+    },
+    {
+      "index": 2,
+      "simplified": "本：那里有几个苹果？",
+      "traditional": "本：那裡有幾個蘋果？",
+      "pinyin": "běn nà lǐ yǒu jǐ ge píng guǒ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How many apples are over there?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：我看看。1，2，3，4，5，6，7，8，9，10。那里有10个苹果。",
+      "traditional": "麗麗：我看看。1，2，3，4，5，6，7，8，9，10。那裡有10個蘋果。",
+      "pinyin": "lì lì wǒ kàn kan yī èr sān sì wǔ liù qī bā jiǔ shí nà lǐ yǒu 1 ge píng guǒ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: I’ll check. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are 10 apples over there."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "那里",
+      "traditional": "那裡",
+      "pinyin": "nà lǐ",
+      "meaning": "there\nthat place",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "meaning": "apple",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "那里",
+        "pinyin": "nà lǐ",
+        "meaning": "there\nthat place",
+        "tc_hanzi": "那裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那里",
+        "pinyin": "nà lǐ",
+        "meaning": "there\nthat place",
+        "tc_hanzi": "那裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yī",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "sì",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "tc_hanzi": "6"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "qī",
+        "tc_hanzi": "7"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "bā",
+        "tc_hanzi": "8"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "jiǔ",
+        "tc_hanzi": "9"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "shí",
+        "tc_hanzi": "10"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那里",
+        "pinyin": "nà lǐ",
+        "meaning": "there\nthat place",
+        "tc_hanzi": "那裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks Lili how many apples there are.",
+    "syllable_times": [
+      0.4622777578108474,
+      1.05,
+      1.56,
+      2.085,
+      2.32,
+      2.74,
+      4.89286796670674,
+      4.89286796670674,
+      5.399592100196679,
+      6.05,
+      6.44,
+      6.95,
+      7.22,
+      7.59,
+      9.54063832236557,
+      9.54063832236557,
+      9.54063832236557,
+      9.86,
+      10.274999999999999,
+      11.77,
+      12.97,
+      14.07,
+      15.278146893228955,
+      16.52,
+      17.72,
+      18.82468406643405,
+      20.06,
+      21.15273470718852,
+      22.33250908461075,
+      24.39,
+      24.77488838862749,
+      25.36,
+      25.870715331965723,
+      26.38333315236027,
+      26.68,
+      27.08313092377025,
+      27.861451,
+      27.861451
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      15,
+      16,
+      47
+    ],
+    "sentence_translations": [
+      "How many apples are over there",
+      "",
+      "Ben: How many apples are over there?",
+      "",
+      "Lili: I’ll check. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are 10 apples over there.",
+      ""
+    ]
+  }
+}

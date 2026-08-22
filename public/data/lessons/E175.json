@@ -1,0 +1,681 @@
+{
+  "id": "E175",
+  "title": "Written Request for Leave",
+  "level": "elementary",
+  "date": "2017-12-10",
+  "synopsis": "What do you say to your teacher or boss when you need the day off?",
+  "audioUrl": "https://static.duchinese.net/documents/597/a377fc7c59da39b213ddfd6f71006c77a4b67e95.mp3?1512499667",
+  "series": null,
+  "fullText": {
+    "simplified": "请假条\n\n王老师：\n    您好！我因为感冒发烧，明天要去医院看医生，不能到学校上课。我想请一天病假，请批准。\n请假人：林红\n2017年12月5日",
+    "traditional": "請假條\n\n王老師：\n    您好！我因為感冒發燒，明天要去醫院看醫生，不能到學校上課。我想請一天病假，請批准。\n請假人：林紅\n2017年12月5日"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Written Request for Leave"
+    },
+    {
+      "index": 2,
+      "simplified": "王老师：",
+      "traditional": "王老師：",
+      "pinyin": "wáng lǎo shī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Teacher Wang:"
+    },
+    {
+      "index": 4,
+      "simplified": "您好！我因为感冒发烧，明天要去医院看医生，不能到学校上课。",
+      "traditional": "您好！我因為感冒發燒，明天要去醫院看醫生，不能到學校上課。",
+      "pinyin": "nín hǎo wǒ yīn wèi gǎn mào fā shāo míng tiān yào qù yī yuàn kàn yī shēng bù néng dào xué xiào shàng kè",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "我想请一天病假，请批准。",
+      "traditional": "我想請一天病假，請批准。",
+      "pinyin": "wǒ xiǎng qǐng yì tiān bìng jià qǐng pī zhǔn",
+      "english": "Hello! I’ve caught a cold and have a fever. I need to go to the doctor and can’t come to school tomorrow."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "I would like to know if I could take sick leave for one day."
+    },
+    {
+      "index": 7,
+      "simplified": "请假人：林红",
+      "traditional": "請假人：林紅",
+      "pinyin": "qǐng jià rén lín hóng",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "From: Lin Hong"
+    },
+    {
+      "index": 9,
+      "simplified": "2017年12月5日",
+      "traditional": "2017年12月5日",
+      "pinyin": "4 nián 2 yuè 1 rì",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "假条",
+      "traditional": "假條",
+      "pinyin": "jià tiáo",
+      "meaning": "leave permit\napplication for leave",
+      "hsk": null
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "感冒",
+      "traditional": "感冒",
+      "pinyin": "gǎn mào",
+      "meaning": "to catch cold\n(common) cold",
+      "hsk": 3
+    },
+    {
+      "hanzi": "发烧",
+      "traditional": "發燒",
+      "pinyin": "fā shāo",
+      "meaning": "to have a high temperature (from illness)\nto have a fever",
+      "hsk": 3
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to visit\nto call on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "meaning": "doctor",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不能",
+      "traditional": "不能",
+      "pinyin": "bù néng",
+      "meaning": "cannot\nmust not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "meaning": "to attend class",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "病假",
+      "traditional": "病假",
+      "pinyin": "bìng jià",
+      "meaning": "sick leave",
+      "hsk": null
+    },
+    {
+      "hanzi": "批准",
+      "traditional": "批准",
+      "pinyin": "pī zhǔn",
+      "meaning": "to approve\nto ratify",
+      "hsk": 5
+    },
+    {
+      "hanzi": "请假",
+      "traditional": "請假",
+      "pinyin": "qǐng jià",
+      "meaning": "to request leave of absence",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "林红",
+      "traditional": "林紅",
+      "pinyin": "lín hóng",
+      "meaning": "Lin Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "假条",
+        "pinyin": "jià tiáo",
+        "meaning": "leave permit\napplication for leave",
+        "tc_hanzi": "假條"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "感冒",
+        "pinyin": "gǎn mào",
+        "meaning": "to catch cold\n(common) cold",
+        "tc_hanzi": "感冒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发烧",
+        "pinyin": "fā shāo",
+        "meaning": "to have a high temperature (from illness)\nto have a fever",
+        "tc_hanzi": "發燒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to visit\nto call on",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不能",
+        "pinyin": "bù néng",
+        "meaning": "cannot\nmust not",
+        "tc_hanzi": "不能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "病假",
+        "pinyin": "bìng jià",
+        "meaning": "sick leave",
+        "tc_hanzi": "病假"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "批准",
+        "pinyin": "pī zhǔn",
+        "meaning": "to approve\nto ratify",
+        "tc_hanzi": "批准"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "请假",
+        "pinyin": "qǐng jià",
+        "meaning": "to request leave of absence",
+        "tc_hanzi": "請假"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2017",
+        "pinyin": "4",
+        "tc_hanzi": "2017"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "12",
+        "pinyin": "2",
+        "tc_hanzi": "12"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What do you say to your teacher or boss when you need the day off?",
+    "syllable_times": [
+      0.6439199164024345,
+      1.179138321995465,
+      3.537414965986394,
+      3.945578231292517,
+      4.217687074829932,
+      6.077097505668934,
+      6.349206349206349,
+      7.619047619047619,
+      8.085900127358169,
+      8.526077097505668,
+      9.342403628117914,
+      9.750566893424036,
+      10.11921307644592,
+      10.56689342403628,
+      12.29024943310658,
+      12.6836340059941,
+      13.65079365079365,
+      14.05895691609977,
+      14.5578231292517,
+      14.96598639455782,
+      15.73696145124716,
+      16.281179138322,
+      16.59863945578231,
+      18.77551020408163,
+      19.18367346938776,
+      19.86394557823129,
+      20.31746031746032,
+      20.79362938627088,
+      21.31519274376417,
+      21.859410430839,
+      24.30839002267574,
+      24.72252934016105,
+      25.3968253968254,
+      26.07709750566893,
+      26.43990929705215,
+      27.12018140589569,
+      27.48299319727891,
+      29.61451247165533,
+      30.20408163265306,
+      30.65759637188209,
+      33.28798185941043,
+      33.78684807256236,
+      34.28571428571428,
+      36.14512471655329,
+      36.56965905632335,
+      39.50113378684807,
+      39.90929705215419,
+      40.54421768707483,
+      40.84496572775525,
+      41.36140483741346,
+      42.81179138321995,
+      43.40136054421769,
+      43.80952380952381,
+      44.85260770975056,
+      45.30612244897959,
+      45.97959183673469,
+      45.97959183673469
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      7,
+      9,
+      28,
+      38,
+      39,
+      43,
+      44
+    ],
+    "sentence_translations": [
+      "Written Request for Leave",
+      "",
+      "Teacher Wang:",
+      "",
+      "Hello! I’ve caught a cold and have a fever. I need to go to the doctor and can’t come to school tomorrow.",
+      "I would like to know if I could take sick leave for one day.",
+      "",
+      "From: Lin Hong",
+      "",
+      "Dec. 5th, 2017"
+    ]
+  }
+}

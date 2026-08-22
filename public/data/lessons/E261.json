@@ -1,0 +1,799 @@
+{
+  "id": "E261",
+  "title": "Can You Eat Spicy Food?",
+  "level": "newbie",
+  "date": "2018-10-04",
+  "synopsis": "If you like spicy food, you should try Sichuan cuisine.",
+  "audioUrl": "https://static.duchinese.net/documents/856/38fd49493cc6b700bca55ef4ff32833c43a3d6d2.mp3?1538286225",
+  "series": null,
+  "fullText": {
+    "simplified": "你会吃辣吗\n\n本：丽丽，晚饭你想吃什么？\n丽丽：还没想好。\n本：你会吃辣吗？\n丽丽：会，我很喜欢吃辣。\n本：那我们去学校外面的川菜馆吧。\n丽丽：好啊，走吧！",
+    "traditional": "你會吃辣嗎\n\n本：麗麗，晚飯你想吃什麼？\n麗麗：還沒想好。\n本：你會吃辣嗎？\n麗麗：會，我很喜歡吃辣。\n本：那我們去學校外面的川菜館吧。\n麗麗：好啊，走吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Can you eat spicy food?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，晚饭你想吃什么？",
+      "traditional": "本：麗麗，晚飯你想吃什麼？",
+      "pinyin": "běn lì lì wǎn fàn nǐ xiǎng chī shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, what do you want to have for dinner?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：还没想好。",
+      "traditional": "麗麗：還沒想好。",
+      "pinyin": "lì lì hái méi xiǎng hǎo",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I haven’t decided yet."
+    },
+    {
+      "index": 6,
+      "simplified": "本：你会吃辣吗？",
+      "traditional": "本：你會吃辣嗎？",
+      "pinyin": "běn nǐ huì chī là ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Can you eat spicy food?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：会，我很喜欢吃辣。",
+      "traditional": "麗麗：會，我很喜歡吃辣。",
+      "pinyin": "lì lì huì wǒ hěn xǐ huan chī là",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Yes, I like spicy food a lot."
+    },
+    {
+      "index": 10,
+      "simplified": "本：那我们去学校外面的川菜馆吧。",
+      "traditional": "本：那我們去學校外面的川菜館吧。",
+      "pinyin": "běn nà wǒ men qù xué xiào wài miàn de chuān cài guǎn ba",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Then let’s go to the Sichuan restaurant outside the campus."
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：好啊，走吧！",
+      "traditional": "麗麗：好啊，走吧！",
+      "pinyin": "lì lì hǎo a zǒu ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili: Ok, let’s go."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "辣",
+      "traditional": "辣",
+      "pinyin": "là",
+      "meaning": "hot (spicy)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "晚饭",
+      "traditional": "晚飯",
+      "pinyin": "wǎn fàn",
+      "meaning": "evening meal\ndinner",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "外面",
+      "traditional": "外面",
+      "pinyin": "wài miàn",
+      "meaning": "outside\nexterior",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "川菜",
+      "traditional": "川菜",
+      "pinyin": "chuān cài",
+      "meaning": "Sichuan or Szechuan cuisine",
+      "hsk": null
+    },
+    {
+      "hanzi": "馆",
+      "traditional": "館",
+      "pinyin": "guǎn",
+      "meaning": "building\nplace for exhibition",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "to walk\nto go",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "辣",
+        "pinyin": "là",
+        "meaning": "hot (spicy)",
+        "tc_hanzi": "辣"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚饭",
+        "pinyin": "wǎn fàn",
+        "meaning": "evening meal\ndinner",
+        "tc_hanzi": "晚飯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "辣",
+        "pinyin": "là",
+        "meaning": "hot (spicy)",
+        "tc_hanzi": "辣"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "辣",
+        "pinyin": "là",
+        "meaning": "hot (spicy)",
+        "tc_hanzi": "辣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "外面",
+        "pinyin": "wài miàn",
+        "meaning": "outside\nexterior",
+        "tc_hanzi": "外面"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "川菜",
+        "pinyin": "chuān cài",
+        "meaning": "Sichuan or Szechuan cuisine",
+        "tc_hanzi": "川菜"
+      },
+      {
+        "hanzi": "馆",
+        "pinyin": "guǎn",
+        "meaning": "building\nplace for exhibition",
+        "tc_hanzi": "館"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk\nto go",
+        "tc_hanzi": "走"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "If you like spicy food, you should try Sichuan cuisine.",
+    "syllable_times": [
+      0.40816326530612246,
+      0.8931632409229665,
+      1.3605442176870748,
+      1.7687074829931972,
+      3.8793340645928094,
+      3.8793340645928094,
+      4.135537425715727,
+      5.215419501133787,
+      5.578231292517007,
+      6.2269139343743305,
+      6.530612244897959,
+      6.7780882704742895,
+      7.120181405895692,
+      7.346938775510204,
+      9.229888166136316,
+      9.229888166136316,
+      9.229888166136316,
+      9.65986394557823,
+      9.98465900977682,
+      10.430839002267573,
+      12.680560651454215,
+      12.680560651454215,
+      13.061224489795919,
+      13.424036281179138,
+      13.852770870359222,
+      14.149659863945578,
+      15.97383684226423,
+      15.97383684226423,
+      15.97383684226423,
+      17.324263038548754,
+      17.773647711537684,
+      18.167178913040892,
+      18.49741333540241,
+      18.866213151927436,
+      19.22902494331066,
+      21.154148154387364,
+      21.154148154387364,
+      21.8140589569161,
+      22.040816326530614,
+      22.208281270226372,
+      22.58503401360544,
+      22.975666271531356,
+      23.310657596371883,
+      23.582766439909296,
+      23.764172335600907,
+      24.081632653061224,
+      24.490841239086365,
+      24.85260770975057,
+      25.170068027210885,
+      26.761097546045008,
+      26.761097546045008,
+      26.761097546045008,
+      27.165532879818596,
+      28.253968253968253,
+      28.571428571428573,
+      29.114897959183672,
+      29.114897959183672
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      17,
+      18,
+      25,
+      26,
+      34,
+      35,
+      45,
+      46,
+      58,
+      59,
+      67
+    ],
+    "sentence_translations": [
+      "Can you eat spicy food?",
+      "",
+      "Ben: Lili, what do you want to have for dinner?",
+      "",
+      "Lili: I haven’t decided yet.",
+      "",
+      "Ben: Can you eat spicy food?",
+      "",
+      "Lili: Yes, I like spicy food a lot.",
+      "",
+      "Ben: Then let’s go to the Sichuan restaurant outside the campus.",
+      "",
+      "Lili: Ok, let’s go.",
+      ""
+    ]
+  }
+}

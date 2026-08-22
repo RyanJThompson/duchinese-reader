@@ -1,0 +1,955 @@
+{
+  "id": "1060",
+  "title": "The Child Isn’t Mine",
+  "level": "elementary",
+  "date": "2020-09-05",
+  "synopsis": "A man won’t give up his seat on the bus for a pregnant woman.",
+  "audioUrl": "https://static.duchinese.net/documents/1060/a826067411aae5d9b7010cba91119c2300ed944d.mp3?1595238030",
+  "series": null,
+  "fullText": {
+    "simplified": "孩子不是我的\n\n    在公共汽车上，一个站着的孕妇很生气，因为她旁边坐着的男人没有给她让座。\n    她很生气地对他说：“你不知道我怀孕了吗？”\n    男人听后，非常紧张地说：“可是这孩子不是我的啊！”",
+    "traditional": "孩子不是我的\n\n    在公共汽車上，一個站著的孕婦很生氣，因為她旁邊坐著的男人沒有給她讓座。\n    她很生氣地對他說：“你不知道我懷孕了嗎？”\n    男人聽後，非常緊張地說：“可是這孩子不是我的啊！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Child Isn’t Mine"
+    },
+    {
+      "index": 2,
+      "simplified": "在公共汽车上，一个站着的孕妇很生气，",
+      "traditional": "在公共汽車上，一個站著的孕婦很生氣，",
+      "pinyin": "zài gōng gòng qì chē shang yí ge zhàn zhe de yùn fù hěn shēng qì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "因为她旁边坐着的男人没有给她让座。",
+      "traditional": "因為她旁邊坐著的男人沒有給她讓座。",
+      "pinyin": "yīn wèi tā páng biān zuò zhe de nán rén méi yǒu gěi tā ràng zuò",
+      "english": "On the bus, a pregnant woman who was standing was very angry, .."
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. because the man sitting next to her didn’t give up his seat for her."
+    },
+    {
+      "index": 5,
+      "simplified": "她很生气地对他说：“你不知道我怀孕了吗？”",
+      "traditional": "她很生氣地對他說：“你不知道我懷孕了嗎？”",
+      "pinyin": "tā hěn shēng qì de duì tā shuō nǐ bù zhī dào wǒ huái yùn le ma",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "She angrily said to him, “Don’t you realize that I’m pregnant?”"
+    },
+    {
+      "index": 7,
+      "simplified": "男人听后，非常紧张地说：“可是这孩子不是我的啊！”",
+      "traditional": "男人聽後，非常緊張地說：“可是這孩子不是我的啊！”",
+      "pinyin": "nán rén tīng hòu fēi cháng jǐn zhāng de shuō kě shì zhè hái zi bú shì wǒ de a",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "meaning": "child",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公共汽车",
+      "traditional": "公共汽車",
+      "pinyin": "gōng gòng qì chē",
+      "meaning": "bus",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "meaning": "to stand",
+      "hsk": 3
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "孕妇",
+      "traditional": "孕婦",
+      "pinyin": "yùn fù",
+      "meaning": "pregnant woman",
+      "hsk": null
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "meaning": "side\nbeside",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "男人",
+      "traditional": "男人",
+      "pinyin": "nán rén",
+      "meaning": "a man\nmale",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to yield\nto permit",
+      "hsk": 2
+    },
+    {
+      "hanzi": "座",
+      "traditional": "座",
+      "pinyin": "zuò",
+      "meaning": "seat",
+      "hsk": 4
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怀孕",
+      "traditional": "懷孕",
+      "pinyin": "huái yùn",
+      "meaning": "pregnant\nto have conceived\npregnancy",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "紧张",
+      "traditional": "緊張",
+      "pinyin": "jǐn zhāng",
+      "meaning": "nervous\nworried\nanxious",
+      "hsk": 4
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "站",
+        "pinyin": "zhàn",
+        "meaning": "to stand",
+        "tc_hanzi": "站"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "孕妇",
+        "pinyin": "yùn fù",
+        "meaning": "pregnant woman",
+        "tc_hanzi": "孕婦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "side\nbeside",
+        "tc_hanzi": "旁邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男人",
+        "pinyin": "nán rén",
+        "meaning": "a man\nmale",
+        "tc_hanzi": "男人"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to yield\nto permit",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "座",
+        "pinyin": "zuò",
+        "meaning": "seat",
+        "tc_hanzi": "座"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "怀孕",
+        "pinyin": "huái yùn",
+        "meaning": "pregnant\nto have conceived\npregnancy",
+        "tc_hanzi": "懷孕"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男人",
+        "pinyin": "nán rén",
+        "meaning": "a man\nmale",
+        "tc_hanzi": "男人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "紧张",
+        "pinyin": "jǐn zhāng",
+        "meaning": "nervous\nworried\nanxious",
+        "tc_hanzi": "緊張"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A man won’t give up his seat on the bus for a pregnant woman.",
+    "syllable_times": [
+      0.4365079365079365,
+      0.89,
+      1.1224489795918366,
+      1.3321995464852607,
+      1.63,
+      3.18,
+      3.66,
+      3.9075,
+      4.155,
+      4.4025,
+      4.65,
+      5.46,
+      5.75,
+      6.04,
+      6.305,
+      6.57,
+      6.73,
+      7.065,
+      7.58,
+      7.87,
+      8.315,
+      9.37,
+      9.725,
+      10.29,
+      10.53,
+      10.870000000000001,
+      11.25,
+      11.52,
+      11.79,
+      11.94,
+      12.285,
+      12.97,
+      13.155000000000001,
+      13.34,
+      13.53,
+      13.71,
+      14.05,
+      15.73,
+      15.980725623582765,
+      16.14,
+      16.46,
+      16.78,
+      17.14,
+      17.28,
+      17.5,
+      18.98,
+      19.35,
+      19.552154195011337,
+      19.699546485260772,
+      20.08,
+      20.22,
+      20.505,
+      20.79,
+      20.9,
+      23.14,
+      23.35,
+      23.56,
+      23.82,
+      24.54,
+      24.895,
+      25.25,
+      25.54,
+      25.83,
+      25.98,
+      27.34,
+      27.590702947845806,
+      28.55,
+      28.7,
+      29.04,
+      29.77,
+      29.994999999999997,
+      30.28344671201814,
+      30.4875283446712,
+      30.6,
+      31.247211
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      21,
+      35,
+      37,
+      54,
+      56
+    ],
+    "sentence_translations": [
+      "The Child Isn’t Mine",
+      "",
+      "On the bus, a pregnant woman who was standing was very angry, ..",
+      ".. because the man sitting next to her didn’t give up his seat for her.",
+      "",
+      "She angrily said to him, “Don’t you realize that I’m pregnant?”",
+      "",
+      "When the man heard this, he very nervously said, “But the child’s not mine!”"
+    ]
+  }
+}

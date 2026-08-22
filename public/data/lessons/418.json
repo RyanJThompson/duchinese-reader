@@ -1,0 +1,772 @@
+{
+  "id": "418",
+  "title": "The Phone is Ringing",
+  "level": "intermediate",
+  "date": "2018-01-17",
+  "synopsis": "Little Ming gets a phone call at the library.",
+  "audioUrl": "https://static.duchinese.net/documents/632/6560ae19ac782ffdbcc13cf09c7e9729b888f99c.mp3?1515603627",
+  "series": null,
+  "fullText": {
+    "simplified": "手机响了\n\n    一天，小明在图书馆看书。突然，他的手机响了。为了不影响别的同学看书，他马上跑了出去，但他又马上跑了进来，你知道为什么吗？\n    答案是：他忘了拿手机。",
+    "traditional": "手機響了\n\n    一天，小明在圖書館看書。突然，他的手機響了。為了不影響別的同學看書，他馬上跑了出去，但他又馬上跑了進來，你知道為什麼嗎？\n    答案是：他忘了拿手機。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Phone is Ringing"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小明在图书馆看书。",
+      "traditional": "一天，小明在圖書館看書。",
+      "pinyin": "yì tiān xiǎo míng zài tú shū guǎn kàn shū",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "突然，他的手机响了。",
+      "traditional": "突然，他的手機響了。",
+      "pinyin": "tū rán tā de shǒu jī xiǎng le",
+      "english": "One day, Little Ming was at the library reading."
+    },
+    {
+      "index": 4,
+      "simplified": "为了不影响别的同学看书，他马上跑了出去，但他又马上跑了进来，",
+      "traditional": "為了不影響別的同學看書，他馬上跑了出去，但他又馬上跑了進來，",
+      "pinyin": "wèi le bù yǐng xiǎng bié de tóng xué kàn shū tā mǎ shàng pǎo le chū qù dàn tā yòu mǎ shàng pǎo le jìn lái",
+      "english": "Suddenly, his mobile phone rang."
+    },
+    {
+      "index": 5,
+      "simplified": "你知道为什么吗？",
+      "traditional": "你知道為什麼嗎？",
+      "pinyin": "nǐ zhī dào wèi shén me ma",
+      "english": "In order not to disturb other people reading, he immediately ran outside, but then ran back inside right away."
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Do you know why?"
+    },
+    {
+      "index": 7,
+      "simplified": "答案是：他忘了拿手机。",
+      "traditional": "答案是：他忘了拿手機。",
+      "pinyin": "dá àn shì tā wàng le ná shǒu jī",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "The answer is: He forgot to bring his mobile phone."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "响",
+      "traditional": "響",
+      "pinyin": "xiǎng",
+      "meaning": "to make a sound\nto ring",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "图书馆",
+      "traditional": "圖書館",
+      "pinyin": "tú shū guǎn",
+      "meaning": "library",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看书",
+      "traditional": "看書",
+      "pinyin": "kàn shū",
+      "meaning": "to read\nto study",
+      "hsk": null
+    },
+    {
+      "hanzi": "突然",
+      "traditional": "突然",
+      "pinyin": "tū rán",
+      "meaning": "suddenly\nabruptly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为了",
+      "traditional": "為了",
+      "pinyin": "wèi le",
+      "meaning": "for\nfor the sake of\nin order to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "影响",
+      "traditional": "影響",
+      "pinyin": "yǐng xiǎng",
+      "meaning": "influence\neffect\nimpact",
+      "hsk": 3
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "other\nanother",
+      "hsk": 2
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "meaning": "to go out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "进来",
+      "traditional": "進來",
+      "pinyin": "jìn lái",
+      "meaning": "to come in",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "答案",
+      "traditional": "答案",
+      "pinyin": "dá àn",
+      "meaning": "answer\nsolution",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "meaning": "to forget",
+      "hsk": 3
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold\nto take",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "meaning": "to make a sound\nto ring",
+        "tc_hanzi": "響"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "图书馆",
+        "pinyin": "tú shū guǎn",
+        "meaning": "library",
+        "tc_hanzi": "圖書館"
+      },
+      {
+        "hanzi": "看书",
+        "pinyin": "kàn shū",
+        "meaning": "to read\nto study",
+        "tc_hanzi": "看書"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "突然",
+        "pinyin": "tū rán",
+        "meaning": "suddenly\nabruptly",
+        "tc_hanzi": "突然"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "响",
+        "pinyin": "xiǎng",
+        "meaning": "to make a sound\nto ring",
+        "tc_hanzi": "響"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "wei-overview",
+        "hsk": 3,
+        "hanzi": "为了",
+        "pinyin": "wèi le",
+        "meaning": "for\nfor the sake of\nin order to",
+        "tc_hanzi": "為了"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "影响",
+        "pinyin": "yǐng xiǎng",
+        "meaning": "influence\neffect\nimpact",
+        "tc_hanzi": "影響"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "other\nanother",
+        "tc_hanzi": "別"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hanzi": "看书",
+        "pinyin": "kàn shū",
+        "meaning": "to read\nto study",
+        "tc_hanzi": "看書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出去",
+        "pinyin": "chū qù",
+        "meaning": "to go out",
+        "tc_hanzi": "出去"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "进来",
+        "pinyin": "jìn lái",
+        "meaning": "to come in",
+        "tc_hanzi": "進來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "答案",
+        "pinyin": "dá àn",
+        "meaning": "answer\nsolution",
+        "tc_hanzi": "答案"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "忘",
+        "pinyin": "wàng",
+        "meaning": "to forget",
+        "tc_hanzi": "忘"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming gets a phone call at the library.",
+    "syllable_times": [
+      0.6349206349206349,
+      1.060813137072714,
+      1.541950113378685,
+      3.537414965986394,
+      3.839794149435121,
+      4.852607709750567,
+      5.26077097505669,
+      5.714285714285714,
+      6.031746031746032,
+      6.347408484031058,
+      6.621315192743764,
+      6.848072562358277,
+      7.185142249233983,
+      8.753526360227085,
+      9.070294784580499,
+      10.02267573696145,
+      10.29478458049887,
+      10.47995797087106,
+      10.83308937965083,
+      11.29251700680272,
+      11.88208616780045,
+      14.05895691609977,
+      14.4153068900099,
+      14.69387755102041,
+      14.87528344671202,
+      15.15376124483388,
+      15.60090702947846,
+      15.91836734693878,
+      16.05259685349468,
+      16.35136624480031,
+      16.6259698126774,
+      16.91609977324263,
+      18.2312925170068,
+      18.50340136054422,
+      18.84785099833099,
+      19.31972789115646,
+      19.68253968253968,
+      19.84689717753954,
+      20.10586837132425,
+      22.22222222222222,
+      22.48382973765398,
+      22.72108843537415,
+      22.99319727891157,
+      23.39791863669904,
+      23.92127499252872,
+      24.30839002267574,
+      24.48979591836735,
+      24.76190476190476,
+      26.84807256235828,
+      27.34971805215346,
+      27.61904761904762,
+      28.34467120181406,
+      28.69378124438503,
+      28.97959183673469,
+      29.150448795744,
+      31.47392290249433,
+      31.70068027210884,
+      31.9876575284455,
+      33.51473922902494,
+      33.83219954648526,
+      34.24036281179139,
+      34.69387755102041,
+      35.01133786848072,
+      35.4529035852183,
+      36.1424716553288,
+      36.1424716553288
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      14,
+      22,
+      44,
+      49,
+      51,
+      60
+    ],
+    "sentence_translations": [
+      "The Phone is Ringing",
+      "",
+      "One day, Little Ming was at the library reading.",
+      "Suddenly, his mobile phone rang.",
+      "In order not to disturb other people reading, he immediately ran outside, but then ran back inside right away.",
+      "Do you know why?",
+      "",
+      "The answer is: He forgot to bring his mobile phone.",
+      ""
+    ]
+  }
+}

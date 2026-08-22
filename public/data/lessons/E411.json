@@ -1,0 +1,798 @@
+{
+  "id": "E411",
+  "title": "Fried Chicken Bubble Tea",
+  "level": "elementary",
+  "date": "2020-03-21",
+  "synopsis": "Have you ever tried fried chicken flavored bubble tea?",
+  "audioUrl": "https://static.duchinese.net/documents/50411/94c25ddc9442655649d47a65b867b094df005ed9.mp3?1584354122",
+  "series": null,
+  "fullText": {
+    "simplified": "炸鸡奶茶\n\n小乐：你去买东西吗？我要炸鸡，奶茶。\n保罗：什么？你要炸鸡味的奶茶？\n小乐：你想什么呢！我要炸鸡和奶茶，不是炸鸡味奶茶。\n保罗：那你为什么不说炸鸡和奶茶？\n小乐：因为方便啊。",
+    "traditional": "炸雞奶茶\n\n小樂：你去買東西嗎？我要炸雞，奶茶。\n保羅：什麼？你要炸雞味的奶茶？\n小樂：你想什麼呢！我要炸雞和奶茶，不是炸雞味奶茶。\n保羅：那你為什麼不說炸雞和奶茶？\n小樂：因為方便啊。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Fried chicken bubble tea"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：你去买东西吗？我要炸鸡，奶茶。",
+      "traditional": "小樂：你去買東西嗎？我要炸雞，奶茶。",
+      "pinyin": "xiǎo lè nǐ qù mǎi dōng xi ma wǒ yào zhá jī nǎi chá",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Are you going shopping? I want fried chicken, bubble tea."
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：什么？你要炸鸡味的奶茶？",
+      "traditional": "保羅：什麼？你要炸雞味的奶茶？",
+      "pinyin": "bǎo luó shén me nǐ yào zhá jī wèi de nǎi chá",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: What? You want fried chicken flavored bubble tea?"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：你想什么呢！我要炸鸡和奶茶，不是炸鸡味奶茶。",
+      "traditional": "小樂：你想什麼呢！我要炸雞和奶茶，不是炸雞味奶茶。",
+      "pinyin": "xiǎo lè nǐ xiǎng shén me ne wǒ yào zhá jī hé nǎi chá bú shì zhá jī wèi nǎi chá",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What are you thinking! I want fried chicken and bubble tea, not fried chicken flavored bubble tea."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：那你为什么不说炸鸡和奶茶？",
+      "traditional": "保羅：那你為什麼不說炸雞和奶茶？",
+      "pinyin": "bǎo luó nà nǐ wèi shén me bù shuō zhá jī hé nǎi chá",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Then why didn’t you say fried chicken and bubble tea?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：因为方便啊。",
+      "traditional": "小樂：因為方便啊。",
+      "pinyin": "xiǎo lè yīn wèi fāng biàn a",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: Because it’s convenient."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "炸鸡",
+      "traditional": "炸雞",
+      "pinyin": "zhá jī",
+      "meaning": "fried chicken",
+      "hsk": null
+    },
+    {
+      "hanzi": "奶茶",
+      "traditional": "奶茶",
+      "pinyin": "nǎi chá",
+      "meaning": "milk tea",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "味",
+      "traditional": "味",
+      "pinyin": "wèi",
+      "meaning": "taste\nsmell\nflavor",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "方便",
+      "traditional": "方便",
+      "pinyin": "fāng biàn",
+      "meaning": "convenient\nsuitable",
+      "hsk": 3
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hanzi": "味",
+        "pinyin": "wèi",
+        "meaning": "taste\nsmell\nflavor",
+        "tc_hanzi": "味"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hanzi": "味",
+        "pinyin": "wèi",
+        "meaning": "taste\nsmell\nflavor",
+        "tc_hanzi": "味"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "炸鸡",
+        "pinyin": "zhá jī",
+        "meaning": "fried chicken",
+        "tc_hanzi": "炸雞"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Have you ever tried fried chicken flavored bubble tea?",
+    "syllable_times": [
+      0.49,
+      1.04,
+      1.4500000000000002,
+      4.770648987847696,
+      4.770648987847696,
+      4.770648987847696,
+      4.98,
+      5.1850000000000005,
+      5.39,
+      5.609999999999999,
+      5.83,
+      6.94,
+      7.165,
+      7.39,
+      7.68,
+      7.92,
+      8.127798610929712,
+      10.442634693515844,
+      10.442634693515844,
+      10.442634693515844,
+      10.75727745404495,
+      11.70071826093285,
+      11.96,
+      12.33,
+      12.71,
+      12.95,
+      13.21,
+      13.36,
+      13.735,
+      16.056127436645657,
+      16.056127436645657,
+      16.056127436645657,
+      16.27,
+      16.59855382944513,
+      16.801875094981398,
+      16.92,
+      18.32,
+      18.595,
+      18.9,
+      19.2,
+      19.67,
+      20.07,
+      20.425,
+      21.48,
+      21.855,
+      22.26,
+      22.58,
+      22.82,
+      23.07,
+      23.415,
+      25.617402894832523,
+      25.617402894832523,
+      25.617402894832523,
+      26.25,
+      26.57,
+      26.796666666666667,
+      27.023333333333333,
+      27.25,
+      27.450276430312616,
+      28.07,
+      28.405,
+      28.74,
+      29.01,
+      29.306713033316097,
+      31.659044353266154,
+      31.659044353266154,
+      31.659044353266154,
+      31.85766813533537,
+      32.34,
+      32.61,
+      32.88,
+      33.490042,
+      33.490042
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      18,
+      19,
+      30,
+      31,
+      50,
+      51,
+      62,
+      63,
+      69
+    ],
+    "sentence_translations": [
+      "Fried chicken bubble tea",
+      "",
+      "Little Le: Are you going shopping? I want fried chicken, bubble tea.",
+      "",
+      "Paul: What? You want fried chicken flavored bubble tea?",
+      "",
+      "Little Le: What are you thinking! I want fried chicken and bubble tea, not fried chicken flavored bubble tea.",
+      "",
+      "Paul: Then why didn’t you say fried chicken and bubble tea?",
+      "",
+      "Little Le: Because it’s convenient.",
+      ""
+    ]
+  }
+}

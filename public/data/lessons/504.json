@@ -1,0 +1,712 @@
+{
+  "id": "504",
+  "title": "Have you seen Lili?",
+  "level": "newbie",
+  "date": "2018-05-03",
+  "synopsis": "Little He is asking about Lili's whereabouts.",
+  "audioUrl": "https://static.duchinese.net/documents/719/7847c2ba3d7e199e6b3b679d4ec6f898faa42091.mp3?1589791832",
+  "series": {
+    "title": "Ben’s life in China 4: Trouble in Paradise",
+    "chapter": 9,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "她和谁看电影？\n\n小何：小雨，你看见丽丽了吗？\n小雨：她去看电影了。\n小何：她和谁看电影？\n小雨：她和本看电影。\n小何：他们什么时候回来？\n小雨：我不知道。",
+    "traditional": "她和誰看電影？\n\n小何：小雨，你看見麗麗了嗎？\n小雨：她去看電影了。\n小何：她和誰看電影？\n小雨：她和本看電影。\n小何：他們什麼時候回來？\n小雨：我不知道。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "With Whom Did She Go to the Movies?"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：小雨，你看见丽丽了吗？",
+      "traditional": "小何：小雨，你看見麗麗了嗎？",
+      "pinyin": "xiǎo hé xiǎo yǔ nǐ kàn jiàn lì lì le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Little Yu, have you seen Lili?"
+    },
+    {
+      "index": 4,
+      "simplified": "小雨：她去看电影了。",
+      "traditional": "小雨：她去看電影了。",
+      "pinyin": "xiǎo yǔ tā qù kàn diàn yǐng le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: She went to the movies."
+    },
+    {
+      "index": 6,
+      "simplified": "小何：她和谁看电影？",
+      "traditional": "小何：她和誰看電影？",
+      "pinyin": "xiǎo hé tā hé shéi kàn diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Whom did she go to the movies with?"
+    },
+    {
+      "index": 8,
+      "simplified": "小雨：她和本看电影。",
+      "traditional": "小雨：她和本看電影。",
+      "pinyin": "xiǎo yǔ tā hé běn kàn diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: She went to the movies with Ben."
+    },
+    {
+      "index": 10,
+      "simplified": "小何：他们什么时候回来？",
+      "traditional": "小何：他們什麼時候回來？",
+      "pinyin": "xiǎo hé tā men shén me shí hou huí lái",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: What time will they be back?"
+    },
+    {
+      "index": 12,
+      "simplified": "小雨：我不知道。",
+      "traditional": "小雨：我不知道。",
+      "pinyin": "xiǎo yǔ wǒ bù zhī dào",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Yu: I don’t know."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "meaning": "to see\nto catch sight of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lái",
+      "meaning": "to return\nto come back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "to see\nto catch sight of",
+        "tc_hanzi": "看見"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little He is asking about Lili's whereabouts.",
+    "syllable_times": [
+      0.6405895691609977,
+      0.9807256235827664,
+      1.4,
+      1.7233333333333334,
+      1.984126984126984,
+      3.72,
+      3.72,
+      3.72,
+      4.240362811791383,
+      5.47,
+      5.72,
+      6.09,
+      6.69,
+      7.120181405895692,
+      7.329931972789115,
+      7.5,
+      9.62,
+      9.62,
+      9.62,
+      10.03,
+      10.46,
+      10.790000000000001,
+      11.12,
+      11.58,
+      13.61,
+      13.61,
+      13.61,
+      13.97,
+      14.308390022675736,
+      15.07,
+      15.487528344671201,
+      15.782312925170068,
+      18.64,
+      18.64,
+      18.64,
+      18.98,
+      19.29,
+      20.05,
+      20.403333333333332,
+      20.756666666666668,
+      22.94,
+      22.94,
+      22.94,
+      23.23,
+      23.62,
+      24.10997732426304,
+      24.3,
+      24.665532879818592,
+      24.92063492063492,
+      25.15,
+      28.02,
+      28.02,
+      28.02,
+      28.616780045351472,
+      28.939909297052154,
+      29.229024943310655,
+      30.032358
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      18,
+      19,
+      27,
+      28,
+      36,
+      37,
+      45,
+      46,
+      53,
+      54,
+      60
+    ],
+    "sentence_translations": [
+      "With Whom Did She Go to the Movies?",
+      "",
+      "Little He: Little Yu, have you seen Lili?",
+      "",
+      "Little Yu: She went to the movies.",
+      "",
+      "Little He: Whom did she go to the movies with?",
+      "",
+      "Little Yu: She went to the movies with Ben.",
+      "",
+      "Little He: What time will they be back?",
+      "",
+      "Little Yu: I don’t know.",
+      ""
+    ]
+  }
+}

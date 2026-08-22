@@ -1,0 +1,957 @@
+{
+  "id": "389",
+  "title": "Ben’s diary – School start",
+  "level": "elementary",
+  "date": "2017-10-01",
+  "synopsis": "Ben writes about his first impression of the new mandarin teacher – Teacher Zhang.",
+  "audioUrl": "https://static.duchinese.net/documents/536/120856be235c911df2565f2d71797c35446662ac.mp3?1589791096",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 12,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "本的日记-开学\n\n    开学了！这学期我们有新的汉语老师—张老师。张老师很漂亮，长长的头发，大大的眼睛。她虽然很年轻，但是教得很好。张老师是北京人，喜欢看电影和打乒乓球。我也喜欢打乒乓球，我想和张老师一起打乒乓球。",
+    "traditional": "本的日記-開學\n\n    開學了！這學期我們有新的漢語老師—張老師。張老師很漂亮，長長的頭髮，大大的眼睛。她雖然很年輕，但是教得很好。張老師是北京人，喜歡看電影和打乒乓球。我也喜歡打乒乓球，我想和張老師一起打乒乓球。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ben’s diary – School start"
+    },
+    {
+      "index": 2,
+      "simplified": "开学了！这学期我们有新的汉语老师—张老师。",
+      "traditional": "開學了！這學期我們有新的漢語老師—張老師。",
+      "pinyin": "kāi xué le zhè xué qī wǒ men yǒu xīn de hàn yǔ lǎo shī zhāng lǎo shī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "张老师很漂亮，长长的头发，大大的眼睛。",
+      "traditional": "張老師很漂亮，長長的頭髮，大大的眼睛。",
+      "pinyin": "zhāng lǎo shī hěn piào liang cháng cháng de tóu fa dà dà de yǎn jing",
+      "english": "School has started! This semester we have a new Mandarin teacher – Teacher Zhang."
+    },
+    {
+      "index": 4,
+      "simplified": "她虽然很年轻，但是教得很好。",
+      "traditional": "她雖然很年輕，但是教得很好。",
+      "pinyin": "tā suī rán hěn nián qīng dàn shì jiāo de hěn hǎo",
+      "english": "Teacher Zhang is very beautiful. She has long hair and big eyes."
+    },
+    {
+      "index": 5,
+      "simplified": "张老师是北京人，喜欢看电影和打乒乓球。",
+      "traditional": "張老師是北京人，喜歡看電影和打乒乓球。",
+      "pinyin": "zhāng lǎo shī shì běi jīng rén xǐ huan kàn diàn yǐng hé dǎ pīng pāng qiú",
+      "english": "Even though she’s very young, she teaches very well."
+    },
+    {
+      "index": 6,
+      "simplified": "我也喜欢打乒乓球，我想和张老师一起打乒乓球。",
+      "traditional": "我也喜歡打乒乓球，我想和張老師一起打乒乓球。",
+      "pinyin": "wǒ yě xǐ huan dǎ pīng pāng qiú wǒ xiǎng hé zhāng lǎo shī yì qǐ dǎ pīng pāng qiú",
+      "english": "Teacher Zhang is from Beijing. She likes to watch movies and play ping-pong."
+    },
+    {
+      "index": 7,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "I also like to play ping-pong. I would like to play ping-pong with Teacher Zhang."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "开学",
+      "traditional": "開學",
+      "pinyin": "kāi xué",
+      "meaning": "school opening\nthe start of a new term",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学期",
+      "traditional": "學期",
+      "pinyin": "xué qī",
+      "meaning": "term\nsemester",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "meaning": "length\nlong",
+      "hsk": 3
+    },
+    {
+      "hanzi": "头发",
+      "traditional": "頭髮",
+      "pinyin": "tóu fa",
+      "meaning": "hair (on the head)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "眼睛",
+      "traditional": "眼睛",
+      "pinyin": "yǎn jing",
+      "meaning": "eyes",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "meaning": "although\neven though",
+      "hsk": 2
+    },
+    {
+      "hanzi": "年轻",
+      "traditional": "年輕",
+      "pinyin": "nián qīng",
+      "meaning": "young",
+      "hsk": 3
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "meaning": "to teach",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to play (a game)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "乒乓球",
+      "traditional": "乒乓球",
+      "pinyin": "pīng pāng qiú",
+      "meaning": "table tennis\nping-pong",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "-",
+        "tc_hanzi": "-"
+      },
+      {
+        "hanzi": "开学",
+        "pinyin": "kāi xué",
+        "meaning": "school opening\nthe start of a new term",
+        "tc_hanzi": "開學"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "开学",
+        "pinyin": "kāi xué",
+        "meaning": "school opening\nthe start of a new term",
+        "tc_hanzi": "開學"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "学期",
+        "pinyin": "xué qī",
+        "meaning": "term\nsemester",
+        "tc_hanzi": "學期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "—",
+        "tc_hanzi": "—"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头发",
+        "pinyin": "tóu fa",
+        "meaning": "hair (on the head)",
+        "tc_hanzi": "頭髮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼睛",
+        "pinyin": "yǎn jing",
+        "meaning": "eyes",
+        "tc_hanzi": "眼睛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "suiran",
+        "hsk": 2,
+        "hanzi": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although\neven though",
+        "tc_hanzi": "雖然"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "年轻",
+        "pinyin": "nián qīng",
+        "meaning": "young",
+        "tc_hanzi": "年輕"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to play (a game)",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "乒乓球",
+        "pinyin": "pīng pāng qiú",
+        "meaning": "table tennis\nping-pong",
+        "tc_hanzi": "乒乓球"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to play (a game)",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "乒乓球",
+        "pinyin": "pīng pāng qiú",
+        "meaning": "table tennis\nping-pong",
+        "tc_hanzi": "乒乓球"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to play (a game)",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "乒乓球",
+        "pinyin": "pīng pāng qiú",
+        "meaning": "table tennis\nping-pong",
+        "tc_hanzi": "乒乓球"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben writes about his first impression of the new mandarin teacher – Teacher Zhang.",
+    "syllable_times": [
+      0.32,
+      0.5442176870748299,
+      0.86,
+      2.23,
+      2.66,
+      4.26,
+      4.63,
+      5,
+      6.08,
+      6.366213151927438,
+      6.649659863945578,
+      7.619047619047619,
+      7.925,
+      8.333333333333334,
+      8.696145124716553,
+      9.05328798185941,
+      9.285714285714285,
+      9.682539682539682,
+      9.909297052154194,
+      10.147392290249433,
+      11.12,
+      11.42,
+      11.678004535147393,
+      13.24,
+      13.55,
+      13.786848072562357,
+      14.421768707482993,
+      14.8015873015873,
+      15.147392290249433,
+      16.24,
+      16.723356009070294,
+      17.07482993197279,
+      17.22,
+      17.613378684807255,
+      18.39,
+      18.798185941043084,
+      19.1156462585034,
+      19.308390022675738,
+      19.645000000000003,
+      20.95,
+      21.25,
+      21.649659863945576,
+      22.17,
+      22.613378684807255,
+      22.96,
+      23.96,
+      24.229024943310655,
+      25,
+      25.44784580498866,
+      25.657596371882086,
+      26.049999999999997,
+      27.35,
+      27.65,
+      27.908163265306122,
+      28.55442176870748,
+      28.88,
+      29.274376417233558,
+      29.573333333333334,
+      30.53,
+      30.935374149659864,
+      31.4,
+      31.853741496598637,
+      32.15419501133787,
+      32.73242630385487,
+      33.34,
+      33.7,
+      33.97392290249433,
+      34.3140589569161,
+      35.8,
+      36.20181405895691,
+      36.42857142857143,
+      36.735,
+      37.31,
+      37.6425,
+      37.930839002267575,
+      38.24829931972789,
+      39.5,
+      39.84,
+      40.35,
+      40.71,
+      41,
+      41.25283446712018,
+      41.82,
+      42.185,
+      42.55,
+      42.8625,
+      43.16326530612245,
+      43.41836734693877,
+      44.07424
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      23,
+      38,
+      49,
+      62,
+      77
+    ],
+    "sentence_translations": [
+      "Ben’s diary – School start",
+      "",
+      "School has started! This semester we have a new Mandarin teacher – Teacher Zhang.",
+      "Teacher Zhang is very beautiful. She has long hair and big eyes.",
+      "Even though she’s very young, she teaches very well.",
+      "Teacher Zhang is from Beijing. She likes to watch movies and play ping-pong.",
+      "I also like to play ping-pong. I would like to play ping-pong with Teacher Zhang.",
+      ""
+    ]
+  }
+}

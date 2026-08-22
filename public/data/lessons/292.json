@@ -1,0 +1,825 @@
+{
+  "id": "292",
+  "title": "Is she at home?",
+  "level": "newbie",
+  "date": "2017-04-19",
+  "synopsis": "How do you ask if someone is at home when you make a phone call?",
+  "audioUrl": "https://static.duchinese.net/documents/397/06d410b78db51ec176af6261bd48f37fc82e75ed.mp3?1554973011",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 0,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "她在家吗？\n\n本：喂，我是本。丽丽在家吗？\n丽丽妈妈：她在睡觉，要我叫她吗？\n本：不用了。\n丽丽妈妈：那等会儿我叫她打电话给你。\n本：好的。谢谢！再见！\n丽丽妈妈：不客气！再见！",
+    "traditional": "她在家嗎？\n\n本：喂，我是本。麗麗在家嗎？\n麗麗媽媽：她在睡覺，要我叫她嗎？\n本：不用了。\n麗麗媽媽：那等會兒我叫她打電話給你。\n本：好的。謝謝！再見！\n麗麗媽媽：不客氣！再見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Is she at home?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：喂，我是本。丽丽在家吗？",
+      "traditional": "本：喂，我是本。麗麗在家嗎？",
+      "pinyin": "běn wéi wǒ shì běn lì lì zài jiā ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Hello, I'm Ben. Is Lili at home?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽妈妈：她在睡觉，要我叫她吗？",
+      "traditional": "麗麗媽媽：她在睡覺，要我叫她嗎？",
+      "pinyin": "lì lì mā ma tā zài shuì jiào yào wǒ jiào tā ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili's mother: She is sleeping, should I call for her?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：不用了。",
+      "traditional": "本：不用了。",
+      "pinyin": "běn bú yòng le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: There's no need."
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽妈妈：那等会儿我叫她打电话给你。",
+      "traditional": "麗麗媽媽：那等會兒我叫她打電話給你。",
+      "pinyin": "lì lì mā ma nà děng huì'r wǒ jiào tā dǎ diàn huà gěi nǐ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili's mother: Then I will tell her to give you a call in a while."
+    },
+    {
+      "index": 10,
+      "simplified": "本：好的。谢谢！再见！",
+      "traditional": "本：好的。謝謝！再見！",
+      "pinyin": "běn hǎo de xiè xie zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok. Thank you! Bye!"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽妈妈：不客气！再见！",
+      "traditional": "麗麗媽媽：不客氣！再見！",
+      "pinyin": "lì lì mā ma bú kè qi zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili's mother: You're welcome! Bye!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不用",
+      "traditional": "不用",
+      "pinyin": "bú yòng",
+      "meaning": "need not",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会儿",
+      "traditional": "會兒",
+      "pinyin": "huì'r",
+      "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不用",
+        "pinyin": "bú yòng",
+        "meaning": "need not",
+        "tc_hanzi": "不用"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "erhua",
+        "hsk": 3,
+        "hanzi": "会儿",
+        "pinyin": "huì'r",
+        "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+        "tc_hanzi": "會兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you ask if someone is at home when you make a phone call?",
+    "syllable_times": [
+      0.36,
+      0.74,
+      1.12,
+      2.671970133981902,
+      2.671970133981902,
+      3.87,
+      4.2,
+      4.57,
+      5.62,
+      5.97,
+      6.36,
+      6.720000000000001,
+      7.08,
+      9.532352524835,
+      9.532352524835,
+      9.532352524835,
+      9.532352524835,
+      9.532352524835,
+      9.844999999999999,
+      10.15,
+      10.635,
+      11.95,
+      12.344999999999999,
+      12.9,
+      13.219999999999999,
+      13.54,
+      15.484432251320383,
+      15.484432251320383,
+      15.74,
+      16.09,
+      18.361106557284245,
+      18.361106557284245,
+      18.361106557284245,
+      18.361106557284245,
+      18.361106557284245,
+      18.78,
+      19.108378738157313,
+      19.91,
+      20.19,
+      20.5,
+      21.06,
+      21.349999999999998,
+      21.64,
+      21.93,
+      22.214048659638447,
+      24.08821331780154,
+      24.08821331780154,
+      24.48791394984167,
+      25.356732003294756,
+      25.825000000000003,
+      26.92,
+      27.34790998540765,
+      29.204964247211922,
+      29.204964247211922,
+      29.204964247211922,
+      29.204964247211922,
+      29.204964247211922,
+      29.43307331369506,
+      29.85,
+      30.57,
+      30.905,
+      31.546984,
+      31.546984
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      20,
+      21,
+      34,
+      35,
+      40,
+      41,
+      54,
+      55,
+      64,
+      65,
+      72
+    ],
+    "sentence_translations": [
+      "Is she at home?",
+      "",
+      "Ben: Hello, I'm Ben. Is Lili at home?",
+      "",
+      "Lili's mother: She is sleeping, should I call for her?",
+      "",
+      "Ben: There's no need.",
+      "",
+      "Lili's mother: Then I will tell her to give you a call in a while.",
+      "",
+      "Ben: Ok. Thank you! Bye!",
+      "",
+      "Lili's mother: You're welcome! Bye!",
+      ""
+    ]
+  }
+}

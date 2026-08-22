@@ -1,0 +1,384 @@
+{
+  "id": "953",
+  "title": "What country are you from?",
+  "level": "newbie",
+  "date": "2019-08-28",
+  "synopsis": "Anne is in the car talking to the driver.",
+  "audioUrl": "https://static.duchinese.net/documents/953/2e19ebc14efe337f45303d3ca48600c43852f205.mp3?1591186050",
+  "series": {
+    "title": "Newbie Course 1: Anne Arrives in China",
+    "chapter": 6,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你是哪国人？\n\nDriver：你是哪国人？\nAnne：我是美国人。你是哪国人？\nDriver：我是中国人。\n",
+    "traditional": "你是哪國人？\n\nDriver：你是哪國人？\nAnne：我是美國人。你是哪國人？\nDriver：我是中國人。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What country are you from?"
+    },
+    {
+      "index": 2,
+      "simplified": "Driver：你是哪国人？\n",
+      "traditional": "Driver：你是哪國人？\n",
+      "pinyin": "nǐ shì nǎ guó rén",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "Anne：我是美国人。你是哪国人？",
+      "traditional": "Anne：我是美國人。你是哪國人？",
+      "pinyin": "wǒ shì měi guó rén nǐ shì nǎ guó rén",
+      "english": "Driver: What country are you from?"
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I’m American. What country are you from?"
+    },
+    {
+      "index": 5,
+      "simplified": "Driver：我是中国人。",
+      "traditional": "Driver：我是中國人。",
+      "pinyin": "wǒ shì zhōng guó rén",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Driver: I’m Chinese."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "国",
+      "traditional": "國",
+      "pinyin": "guó",
+      "meaning": "country\nnation\nstate",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "na",
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "国",
+        "pinyin": "guó",
+        "meaning": "country\nnation\nstate",
+        "tc_hanzi": "國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Driver：",
+        "tc_hanzi": "Driver："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "na",
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "国",
+        "pinyin": "guó",
+        "meaning": "country\nnation\nstate",
+        "tc_hanzi": "國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "na",
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "国",
+        "pinyin": "guó",
+        "meaning": "country\nnation\nstate",
+        "tc_hanzi": "國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Driver：",
+        "tc_hanzi": "Driver："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne is in the car talking to the driver.",
+    "syllable_times": [
+      0.3458049886621315,
+      1.15,
+      1.7063492063492063,
+      2.052154195011338,
+      4.05,
+      4.325396825396825,
+      4.6145124716553285,
+      4.914965986394558,
+      5.145,
+      7.17,
+      7.55,
+      8.4,
+      8.92,
+      9.24,
+      10.651927437641723,
+      11.02,
+      11.85,
+      12.33,
+      12.647392290249433,
+      14.53,
+      14.78,
+      15.19,
+      15.56689342403628,
+      15.803333333333333,
+      16.435193
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      16,
+      28,
+      29,
+      35
+    ],
+    "sentence_translations": [
+      "What country are you from?",
+      "",
+      "Driver: What country are you from?",
+      "Anne: I’m American. What country are you from?",
+      "",
+      "Driver: I’m Chinese.",
+      ""
+    ]
+  }
+}

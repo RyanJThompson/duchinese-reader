@@ -1,0 +1,890 @@
+{
+  "id": "E417",
+  "title": "Do Hens Rest?",
+  "level": "newbie",
+  "date": "2020-04-02",
+  "synopsis": "Little Ming is surprising his teacher again. How?",
+  "audioUrl": "https://static.duchinese.net/documents/50417/d0e8e0851202ef15b9be8c9f98963f365a036833.mp3?1585482497",
+  "series": null,
+  "fullText": {
+    "simplified": "鸡会休息吗?\n\n老师：有个人有五个鸡，每天每个鸡会生一个鸡蛋，请问他每天能有几个鸡蛋？\n小明：老师，我知道。五个！\n老师：非常好。那他一个星期能有几个鸡蛋？\n小明：老师，他的鸡星期天休息吗？\n",
+    "traditional": "雞會休息嗎?\n\n老師：有個人有五個雞，每天每個雞會生一個雞蛋，請問他每天能有幾個雞蛋？\n小明：老師，我知道。五個！\n老師：非常好。那他一個星期能有幾個雞蛋？\n小明：老師，他的雞星期天休息嗎？\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Do hens rest?"
+    },
+    {
+      "index": 2,
+      "simplified": "老师：有个人有五个鸡，每天每个鸡会生一个鸡蛋，",
+      "traditional": "老師：有個人有五個雞，每天每個雞會生一個雞蛋，",
+      "pinyin": "lǎo shī yǒu ge rén yǒu wǔ ge jī měi tiān měi ge jī huì shēng yí ge jī dàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "请问他每天能有几个鸡蛋？",
+      "traditional": "請問他每天能有幾個雞蛋？",
+      "pinyin": "qǐng wèn tā měi tiān néng yǒu jǐ ge jī dàn",
+      "english": "Teacher: A man has five hens. Each hen can lay one egg every day."
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "May I ask how many eggs can he have per day?"
+    },
+    {
+      "index": 5,
+      "simplified": "小明：老师，我知道。五个！",
+      "traditional": "小明：老師，我知道。五個！",
+      "pinyin": "xiǎo míng lǎo shī wǒ zhī dào wǔ ge",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Teacher, I know. Five!"
+    },
+    {
+      "index": 7,
+      "simplified": "老师：非常好。那他一个星期能有几个鸡蛋？",
+      "traditional": "老師：非常好。那他一個星期能有幾個雞蛋？",
+      "pinyin": "lǎo shī fēi cháng hǎo nà tā yí ge xīng qī néng yǒu jǐ ge jī dàn",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Very good. Then how many eggs can he have in one week?"
+    },
+    {
+      "index": 9,
+      "simplified": "小明：老师，他的鸡星期天休息吗？",
+      "traditional": "小明：老師，他的雞星期天休息嗎？",
+      "pinyin": "xiǎo míng lǎo shī tā de jī xīng qī tiān xiū xi ma",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Teacher, do his hens rest on Sundays?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "鸡",
+      "traditional": "雞",
+      "pinyin": "jī",
+      "meaning": "chicken",
+      "hsk": 2
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "meaning": "rest\nto rest",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生",
+      "traditional": "生",
+      "pinyin": "shēng",
+      "meaning": "to be born\nto give birth",
+      "hsk": 5
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "鸡",
+        "pinyin": "jī",
+        "meaning": "chicken",
+        "tc_hanzi": "雞"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "休息",
+        "pinyin": "xiū xi",
+        "meaning": "rest\nto rest",
+        "tc_hanzi": "休息"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "?",
+        "tc_hanzi": "?"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡",
+        "pinyin": "jī",
+        "meaning": "chicken",
+        "tc_hanzi": "雞"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡",
+        "pinyin": "jī",
+        "meaning": "chicken",
+        "tc_hanzi": "雞"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born\nto give birth",
+        "tc_hanzi": "生"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡",
+        "pinyin": "jī",
+        "meaning": "chicken",
+        "tc_hanzi": "雞"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "休息",
+        "pinyin": "xiū xi",
+        "meaning": "rest\nto rest",
+        "tc_hanzi": "休息"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is surprising his teacher again. How?",
+    "syllable_times": [
+      0.877928077919985,
+      1.34,
+      1.635,
+      1.93,
+      5.234420711107606,
+      5.234420711107606,
+      5.234420711107606,
+      5.52,
+      5.723305803006716,
+      6.43,
+      6.93,
+      7.17,
+      7.3963910300879565,
+      8.53,
+      8.885,
+      9.51,
+      9.75,
+      10.017545436872634,
+      10.56,
+      10.9,
+      11.4,
+      11.629999999999999,
+      11.86,
+      12.165,
+      13.59,
+      13.965,
+      14.83,
+      15.43,
+      15.805,
+      16.33,
+      16.615,
+      16.97,
+      17.2,
+      17.43,
+      17.7,
+      20.01959086976302,
+      20.01959086976302,
+      20.01959086976302,
+      20.355,
+      21.31,
+      21.619999999999997,
+      21.93,
+      22.85,
+      23.178667373515182,
+      25.4880644723312,
+      25.4880644723312,
+      25.4880644723312,
+      25.77478370226115,
+      26.033052585109957,
+      27.14,
+      27.868321547755876,
+      28.18,
+      28.459401637450284,
+      28.629483307384003,
+      28.975,
+      29.61,
+      29.915,
+      30.28,
+      30.495,
+      30.71,
+      31.009999999999998,
+      33.13505221406225,
+      33.13505221406225,
+      33.13505221406225,
+      33.535,
+      34.32,
+      34.614999999999995,
+      34.91,
+      35.49,
+      35.83,
+      36.17,
+      36.57,
+      36.870000000000005,
+      37.17,
+      37.845854,
+      37.845854
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      28,
+      38,
+      39,
+      49,
+      50,
+      66,
+      67,
+      78
+    ],
+    "sentence_translations": [
+      "Do hens rest?",
+      "",
+      "Teacher: A man has five hens. Each hen can lay one egg every day.",
+      "May I ask how many eggs can he have per day?",
+      "",
+      "Little Ming: Teacher, I know. Five!",
+      "",
+      "Teacher: Very good. Then how many eggs can he have in one week?",
+      "",
+      "Little Ming: Teacher, do his hens rest on Sundays?",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "id": "395",
+  "title": "When is the Conference?",
+  "level": "intermediate",
+  "date": "2017-10-28",
+  "synopsis": "Little Zhang is asked to go to Hangzhou to attend a conference.",
+  "audioUrl": "https://static.duchinese.net/documents/558/af76a9a5078972d9fb7bba00ce2085e6029607cc.mp3?1698352210",
+  "series": null,
+  "fullText": {
+    "simplified": "会议是什么时候？\n\n王总：小张，杭州分公司那边有个会议需要总部的人参加，麻烦你跑一趟。\n小张：好的。会议是什么时候？\n王总：下个月1号。等会儿我把会议的邮件转发给你。\n小张：好的，谢谢王总。",
+    "traditional": "會議是什麼時候？\n\n王總：小張，杭州分公司那邊有個會議需要總部的人參加，麻煩你跑一趟。\n小張：好的。會議是什麼時候？\n王總：下個月1號。等會兒我把會議的郵件轉發給你。\n小張：好的，謝謝王總。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "When is the conference?"
+    },
+    {
+      "index": 2,
+      "simplified": "王总：小张，杭州分公司那边有个会议需要总部的人参加，",
+      "traditional": "王總：小張，杭州分公司那邊有個會議需要總部的人參加，",
+      "pinyin": "wáng zǒng xiǎo zhāng háng zhōu fēn gōng sī nà bian yǒu ge huì yì xū yào zǒng bù de rén cān jiā",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "麻烦你跑一趟。",
+      "traditional": "麻煩你跑一趟。",
+      "pinyin": "má fan nǐ pǎo yí tàng",
+      "english": "Manager Wang: Little Zhang, the Hangzhou branch has a conference that someone from headquarters must attend."
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Could you please attend it?"
+    },
+    {
+      "index": 5,
+      "simplified": "小张：好的。会议是什么时候？",
+      "traditional": "小張：好的。會議是什麼時候？",
+      "pinyin": "xiǎo zhāng hǎo de huì yì shì shén me shí hou",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Sure. When is the conference?"
+    },
+    {
+      "index": 7,
+      "simplified": "王总：下个月1号。等会儿我把会议的邮件转发给你。",
+      "traditional": "王總：下個月1號。等會兒我把會議的郵件轉發給你。",
+      "pinyin": "wáng zǒng xià ge yuè 1 hào děng huì'r wǒ bǎ huì yì de yóu jiàn zhuǎn fā gěi nǐ",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: The first of next month. Wait a minute and I'll forward the conference email to you."
+    },
+    {
+      "index": 9,
+      "simplified": "小张：好的，谢谢王总。",
+      "traditional": "小張：好的，謝謝王總。",
+      "pinyin": "xiǎo zhāng hǎo de xiè xie wáng zǒng",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Zhang: Ok. Thank you, manager Wang."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "会议",
+      "traditional": "會議",
+      "pinyin": "huì yì",
+      "meaning": "meeting\nconference",
+      "hsk": 3
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "总",
+      "traditional": "總",
+      "pinyin": "zǒng",
+      "meaning": "head\nchief",
+      "hsk": null
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "杭州",
+      "traditional": "杭州",
+      "pinyin": "háng zhōu",
+      "meaning": "Hangzhou subprovincial city and capital of Zhejiang province in southeast China",
+      "hsk": null
+    },
+    {
+      "hanzi": "分公司",
+      "traditional": "分公司",
+      "pinyin": "fēn gōng sī",
+      "meaning": "subsidiary company\nbranch office",
+      "hsk": null
+    },
+    {
+      "hanzi": "那边",
+      "traditional": "那邊",
+      "pinyin": "nà bian",
+      "meaning": "over there",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "总部",
+      "traditional": "總部",
+      "pinyin": "zǒng bù",
+      "meaning": "general headquarters",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "参加",
+      "traditional": "參加",
+      "pinyin": "cān jiā",
+      "meaning": "to participate\nto join",
+      "hsk": 3
+    },
+    {
+      "hanzi": "麻烦",
+      "traditional": "麻煩",
+      "pinyin": "má fan",
+      "meaning": "inconvenient\ntroublesome\nannoying",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "趟",
+      "traditional": "趟",
+      "pinyin": "tàng",
+      "meaning": "classifier for times, round trips or rows",
+      "hsk": 4
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "meaning": "month\nmonthly",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会儿",
+      "traditional": "會兒",
+      "pinyin": "huì'r",
+      "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "邮件",
+      "traditional": "郵件",
+      "pinyin": "yóu jiàn",
+      "meaning": "mail\npost\nemail",
+      "hsk": null
+    },
+    {
+      "hanzi": "转发",
+      "traditional": "轉發",
+      "pinyin": "zhuǎn fā",
+      "meaning": "to transmit\nto forward (mail, SMS, packets of data)\nto pass on",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "会议",
+        "pinyin": "huì yì",
+        "meaning": "meeting\nconference",
+        "tc_hanzi": "會議"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "杭州",
+        "pinyin": "háng zhōu",
+        "meaning": "Hangzhou subprovincial city and capital of Zhejiang province in southeast China",
+        "tc_hanzi": "杭州"
+      },
+      {
+        "hanzi": "分公司",
+        "pinyin": "fēn gōng sī",
+        "meaning": "subsidiary company\nbranch office",
+        "tc_hanzi": "分公司"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "那边",
+        "pinyin": "nà bian",
+        "meaning": "over there",
+        "tc_hanzi": "那邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "会议",
+        "pinyin": "huì yì",
+        "meaning": "meeting\nconference",
+        "tc_hanzi": "會議"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hanzi": "总部",
+        "pinyin": "zǒng bù",
+        "meaning": "general headquarters",
+        "tc_hanzi": "總部"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "参加",
+        "pinyin": "cān jiā",
+        "meaning": "to participate\nto join",
+        "tc_hanzi": "參加"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "麻烦",
+        "pinyin": "má fan",
+        "meaning": "inconvenient\ntroublesome\nannoying",
+        "tc_hanzi": "麻煩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "趟",
+        "pinyin": "tàng",
+        "meaning": "classifier for times, round trips or rows",
+        "tc_hanzi": "趟"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "会议",
+        "pinyin": "huì yì",
+        "meaning": "meeting\nconference",
+        "tc_hanzi": "會議"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month\nmonthly",
+        "tc_hanzi": "月"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "erhua",
+        "hsk": 3,
+        "hanzi": "会儿",
+        "pinyin": "huì'r",
+        "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+        "tc_hanzi": "會兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "会议",
+        "pinyin": "huì yì",
+        "meaning": "meeting\nconference",
+        "tc_hanzi": "會議"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "邮件",
+        "pinyin": "yóu jiàn",
+        "meaning": "mail\npost\nemail",
+        "tc_hanzi": "郵件"
+      },
+      {
+        "hanzi": "转发",
+        "pinyin": "zhuǎn fā",
+        "meaning": "to transmit\nto forward (mail, SMS, packets of data)\nto pass on",
+        "tc_hanzi": "轉發"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "总",
+        "pinyin": "zǒng",
+        "meaning": "head\nchief",
+        "tc_hanzi": "總"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Zhang is asked to go to Hangzhou to attend a conference.",
+    "syllable_times": [
+      0.3458049886621315,
+      0.5839002267573696,
+      1.11,
+      1.5873015873015872,
+      1.8650793650793651,
+      2.1485260770975056,
+      4.07,
+      4.07,
+      4.07,
+      4.3480725623582765,
+      5.31,
+      5.680272108843537,
+      6.043083900226757,
+      6.303854875283447,
+      6.59297052154195,
+      6.853741496598639,
+      7.103174603174603,
+      7.6,
+      7.879818594104308,
+      8.08390022675737,
+      8.429705215419501,
+      9.23,
+      9.523809523809524,
+      9.869614512471655,
+      10.187074829931973,
+      10.357142857142858,
+      10.498866213151928,
+      10.72562358276644,
+      11.043083900226756,
+      12.03,
+      12.295918367346939,
+      12.494331065759637,
+      12.97,
+      13.378684807256235,
+      13.503401360544217,
+      15.64,
+      15.64,
+      15.64,
+      15.997732426303854,
+      17.31,
+      17.60204081632653,
+      17.78344671201814,
+      18.27097505668934,
+      18.520408163265305,
+      18.71315192743764,
+      18.96825396825397,
+      20.44,
+      20.44,
+      20.44,
+      20.810657596371883,
+      20.952380952380953,
+      21.46,
+      21.791383219954646,
+      22.91,
+      23.1859410430839,
+      23.72,
+      23.945578231292515,
+      24.3140589569161,
+      24.59750566893424,
+      24.761904761904763,
+      24.948979591836736,
+      25.192743764172334,
+      25.69,
+      26.065759637188208,
+      26.366213151927436,
+      26.519274376417233,
+      28,
+      28,
+      28,
+      28.32766439909297,
+      29.075963718820862,
+      29.410430839002267,
+      29.591836734693878,
+      29.85827664399093,
+      30.9
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      24,
+      30,
+      31,
+      40,
+      41,
+      61,
+      62,
+      70
+    ],
+    "sentence_translations": [
+      "When is the conference?",
+      "",
+      "Manager Wang: Little Zhang, the Hangzhou branch has a conference that someone from headquarters must attend.",
+      "Could you please attend it?",
+      "",
+      "Little Zhang: Sure. When is the conference?",
+      "",
+      "Manager Wang: The first of next month. Wait a minute and I'll forward the conference email to you.",
+      "",
+      "Little Zhang: Ok. Thank you, manager Wang.",
+      ""
+    ]
+  }
+}

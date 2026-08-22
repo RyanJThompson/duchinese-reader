@@ -1,0 +1,2362 @@
+{
+  "id": "032",
+  "title": "Little Li's Recipe",
+  "level": "advanced",
+  "date": "2016-02-19",
+  "synopsis": "Did you ever want to make authentic Chinese food but had trouble reading Chinese recipes? In this lesson we learn words and classifiers common to recipes, and start our journey on becoming Chinese food experts!",
+  "audioUrl": "https://static.duchinese.net/documents/68/851a6b2428e1d19235b31ae20e441af5202f7cec.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "小李菜谱：西红柿炒鸡蛋\n\n菜谱简介：\n西红柿炒鸡蛋是一道普通的家常菜。它不但做法简单，而且营养丰富，所以非常受到大家的喜爱。\n\n材料：\n鸡蛋3个，西红柿2个，葱1根，盐5克，食用油15毫升，味精3克。\n\n做法：\n1、西红柿洗干净后用开水烫两分钟后去皮，切片。\n2、鸡蛋打入碗中，加入少许盐和味精，打散成蛋液。\n3、葱洗干净后切末。\n4、锅内倒油烧至微热，倒入蛋液，先别翻动，等蛋液凝固一些后再翻动。\n5、倒入西红柿，炒至鸡蛋和西红柿变软后放入少许盐和味精，最后倒入葱末即可。\n\n小贴士：\n1、鸡蛋里加一点水，炒出来的鸡蛋更嫩。\n2、炒西红柿的时候可以加点糖，更香更好吃。",
+    "traditional": "小李菜譜：西紅柿炒雞蛋\n\n菜譜簡介：\n西紅柿炒雞蛋是一道普通的家常菜。它不但做法簡單，而且營養豐富，所以非常受到大家的喜愛。\n\n材料：\n雞蛋3個，西紅柿2個，蔥1根，鹽5克，食用油15毫升，味精3克。\n\n做法：\n1、西紅柿洗乾淨後用開水燙兩分鐘後去皮，切片。\n2、雞蛋打入碗中，加入少許鹽和味精，打散成蛋液。\n3、蔥洗乾淨後切末。\n4、鍋內倒油燒至微熱，倒入蛋液，先別翻動，等蛋液凝固一些後再翻動。\n5、倒入西紅柿，炒至雞蛋和西紅柿變軟後放入少許鹽和味精，最後倒入蔥末即可。\n\n小貼士：\n1、雞蛋裡加一點水，炒出來的雞蛋更嫩。\n2、炒西紅柿的時候可以加點糖，更香更好吃。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Little Li's recipe: Stir-fried tomato eggs"
+    },
+    {
+      "index": 2,
+      "simplified": "菜谱简介：\n",
+      "traditional": "菜譜簡介：\n",
+      "pinyin": "cài pǔ jiǎn jiè",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "西红柿炒鸡蛋是一道普通的家常菜。",
+      "traditional": "西紅柿炒雞蛋是一道普通的家常菜。",
+      "pinyin": "xī hóng shì chǎo jī dàn shì yí dào pǔ tōng de jiā cháng cài",
+      "english": "Recipe summary:"
+    },
+    {
+      "index": 4,
+      "simplified": "它不但做法简单，而且营养丰富，所以非常受到大家的喜爱。",
+      "traditional": "它不但做法簡單，而且營養豐富，所以非常受到大家的喜愛。",
+      "pinyin": "tā bú dàn zuò fǎ jiǎn dān ér qiě yíng yǎng fēng fù suǒ yǐ fēi cháng shòu dào dà jiā de xǐ ài",
+      "english": "Stir-fried tomato eggs is a common household dish."
+    },
+    {
+      "index": 5,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "It's not only easy to make, but also rich in nutrition, which makes it loved by everyone."
+    },
+    {
+      "index": 6,
+      "simplified": "材料：\n",
+      "traditional": "材料：\n",
+      "pinyin": "cái liào",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "鸡蛋3个，西红柿2个，葱1根，盐5克，食用油15毫升，味精3克。",
+      "traditional": "雞蛋3個，西紅柿2個，蔥1根，鹽5克，食用油15毫升，味精3克。",
+      "pinyin": "jī dàn sān ge xī hóng shì èr ge cōng yì gēn yán wǔ kè shí yòng yóu shí wǔ háo shēng wèi jīng sān kè",
+      "english": "Ingredients:"
+    },
+    {
+      "index": 8,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "3 eggs, 2 tomatoes, 1 scallion, 5 grams of salt, 15 ml cooking oil, 3 grams of MSG."
+    },
+    {
+      "index": 9,
+      "simplified": "做法：\n",
+      "traditional": "做法：\n",
+      "pinyin": "zuò fǎ",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "1、西红柿洗干净后用开水烫两分钟后去皮，切片。\n",
+      "traditional": "1、西紅柿洗乾淨後用開水燙兩分鐘後去皮，切片。\n",
+      "pinyin": "yī xī hóng shì xǐ gān jìng hòu yòng kāi shuǐ tàng liǎng fēn zhōng hòu qù pí qiē piàn",
+      "english": "Instructions:"
+    },
+    {
+      "index": 11,
+      "simplified": "2、鸡蛋打入碗中，加入少许盐和味精，打散成蛋液。\n",
+      "traditional": "2、雞蛋打入碗中，加入少許鹽和味精，打散成蛋液。\n",
+      "pinyin": "èr jī dàn dǎ rù wǎn zhōng jiā rù shǎo xǔ yán hé wèi jīng dǎ sǎn chéng dàn yè",
+      "english": "1. After washing the tomatoes clean, scald them using hot water for two minutes, then remove the skin and slice them."
+    },
+    {
+      "index": 12,
+      "simplified": "3、葱洗干净后切末。\n",
+      "traditional": "3、蔥洗乾淨後切末。\n",
+      "pinyin": "sān cōng xǐ gān jìng hòu qiē mò",
+      "english": "2. Crack the eggs into a bowl, add some salt and MSG, then whisk until they become liquid."
+    },
+    {
+      "index": 13,
+      "simplified": "4、锅内倒油烧至微热，倒入蛋液，",
+      "traditional": "4、鍋內倒油燒至微熱，倒入蛋液，",
+      "pinyin": "sì guō nèi dào yóu shāo zhì wēi rè dào rù dàn yè",
+      "english": "3. Wash the scallions and cut off the tips."
+    },
+    {
+      "index": 14,
+      "simplified": "先别翻动，等蛋液凝固一些后再翻动。\n",
+      "traditional": "先別翻動，等蛋液凝固一些後再翻動。\n",
+      "pinyin": "xiān bié fān dòng děng dàn yè níng gù yì xiē hòu zài fān dòng",
+      "english": "4. Put some oil in a pan and heat until mildly warm. Pour in the beaten eggs."
+    },
+    {
+      "index": 15,
+      "simplified": "5、倒入西红柿，炒至鸡蛋和西红柿变软后放入少许盐和味精，",
+      "traditional": "5、倒入西紅柿，炒至雞蛋和西紅柿變軟後放入少許鹽和味精，",
+      "pinyin": "wǔ dào rù xī hóng shì chǎo zhì jī dàn hé xī hóng shì biàn ruǎn hòu fàng rù shǎo xǔ yán hé wèi jīng",
+      "english": "Don't stir at first; wait until the eggs solidify a bit and then stir."
+    },
+    {
+      "index": 16,
+      "simplified": "最后倒入葱末即可。\n\n",
+      "traditional": "最後倒入蔥末即可。\n\n",
+      "pinyin": "zuì hòu dào rù cōng mò jí kě",
+      "english": "5. Add the tomatoes and stir until the eggs and tomatoes become soft, then add a bit of salt and MSG."
+    },
+    {
+      "index": 17,
+      "simplified": "小贴士：\n",
+      "traditional": "小貼士：\n",
+      "pinyin": "xiǎo tiē shì",
+      "english": "Finally add the scallion tips and that's it."
+    },
+    {
+      "index": 18,
+      "simplified": "1、鸡蛋里加一点水，炒出来的鸡蛋更嫩。\n",
+      "traditional": "1、雞蛋裡加一點水，炒出來的雞蛋更嫩。\n",
+      "pinyin": "1 jī dàn lǐ jiā yì diǎn shuǐ chǎo chū lái de jī dàn gèng nèn",
+      "english": "Tips:"
+    },
+    {
+      "index": 19,
+      "simplified": "2、炒西红柿的时候可以加点糖，更香更好吃。",
+      "traditional": "2、炒西紅柿的時候可以加點糖，更香更好吃。",
+      "pinyin": "1 chǎo xī hóng shì de shí hou kě yǐ jiā diǎn táng gèng xiāng gèng hǎo chī",
+      "english": "1. Add a bit of water to the eggs, and the stir-fried eggs will come out even more tender."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "菜谱",
+      "traditional": "菜譜",
+      "pinyin": "cài pǔ",
+      "meaning": "menu (in restaurant)\nrecipe",
+      "hsk": null
+    },
+    {
+      "hanzi": "西红柿",
+      "traditional": "西紅柿",
+      "pinyin": "xī hóng shì",
+      "meaning": "tomato",
+      "hsk": 4
+    },
+    {
+      "hanzi": "炒",
+      "traditional": "炒",
+      "pinyin": "chǎo",
+      "meaning": "to sauté\nto stir-fry",
+      "hsk": 5
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "简介",
+      "traditional": "簡介",
+      "pinyin": "jiǎn jiè",
+      "meaning": "brief introduction\nsummary",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "道",
+      "traditional": "道",
+      "pinyin": "dào",
+      "meaning": "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process",
+      "hsk": null
+    },
+    {
+      "hanzi": "普通",
+      "traditional": "普通",
+      "pinyin": "pǔ tōng",
+      "meaning": "common\nordinary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家常",
+      "traditional": "家常",
+      "pinyin": "jiā cháng",
+      "meaning": "the daily life of a family",
+      "hsk": 6
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不但",
+      "traditional": "不但",
+      "pinyin": "bú dàn",
+      "meaning": "not only (... but also...)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "做法",
+      "traditional": "做法",
+      "pinyin": "zuò fǎ",
+      "meaning": "way of handling sth\nmethod for making\npractice",
+      "hsk": null
+    },
+    {
+      "hanzi": "简单",
+      "traditional": "簡單",
+      "pinyin": "jiǎn dān",
+      "meaning": "simple\nnot complicated",
+      "hsk": 3
+    },
+    {
+      "hanzi": "而且",
+      "traditional": "而且",
+      "pinyin": "ér qiě",
+      "meaning": "(not only ...) but also",
+      "hsk": 3
+    },
+    {
+      "hanzi": "营养",
+      "traditional": "營養",
+      "pinyin": "yíng yǎng",
+      "meaning": "nutrition\nnourishment",
+      "hsk": 5
+    },
+    {
+      "hanzi": "丰富",
+      "traditional": "豐富",
+      "pinyin": "fēng fù",
+      "meaning": "rich\nplentiful\nabundant",
+      "hsk": 4
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "受到",
+      "traditional": "受到",
+      "pinyin": "shòu dào",
+      "meaning": "to receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "喜爱",
+      "traditional": "喜愛",
+      "pinyin": "xǐ ài",
+      "meaning": "to like\nto love\nto be fond of",
+      "hsk": null
+    },
+    {
+      "hanzi": "材料",
+      "traditional": "材料",
+      "pinyin": "cái liào",
+      "meaning": "material",
+      "hsk": 4
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "葱",
+      "traditional": "蔥",
+      "pinyin": "cōng",
+      "meaning": "scallion\ngreen onion",
+      "hsk": null
+    },
+    {
+      "hanzi": "根",
+      "traditional": "根",
+      "pinyin": "gēn",
+      "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+      "hsk": 5
+    },
+    {
+      "hanzi": "盐",
+      "traditional": "鹽",
+      "pinyin": "yán",
+      "meaning": "salt",
+      "hsk": 4
+    },
+    {
+      "hanzi": "克",
+      "traditional": "克",
+      "pinyin": "kè",
+      "meaning": "gram",
+      "hsk": 5
+    },
+    {
+      "hanzi": "食用",
+      "traditional": "食用",
+      "pinyin": "shí yòng",
+      "meaning": "food product\nto use as food\nedible",
+      "hsk": null
+    },
+    {
+      "hanzi": "油",
+      "traditional": "油",
+      "pinyin": "yóu",
+      "meaning": "oil\nfat\ngrease",
+      "hsk": null
+    },
+    {
+      "hanzi": "毫升",
+      "traditional": "毫升",
+      "pinyin": "háo shēng",
+      "meaning": "milliliter",
+      "hsk": null
+    },
+    {
+      "hanzi": "味精",
+      "traditional": "味精",
+      "pinyin": "wèi jīng",
+      "meaning": "monosodium glutamate (MSG)",
+      "hsk": null
+    },
+    {
+      "hanzi": "洗",
+      "traditional": "洗",
+      "pinyin": "xǐ",
+      "meaning": "to wash\nto bathe",
+      "hsk": 2
+    },
+    {
+      "hanzi": "干净",
+      "traditional": "乾淨",
+      "pinyin": "gān jìng",
+      "meaning": "clean\nneat",
+      "hsk": 3
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "开水",
+      "traditional": "開水",
+      "pinyin": "kāi shuǐ",
+      "meaning": "boiled water\nboiling water",
+      "hsk": 5
+    },
+    {
+      "hanzi": "烫",
+      "traditional": "燙",
+      "pinyin": "tàng",
+      "meaning": "to scald\nto burn (by scalding)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to remove\nto get rid of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "皮",
+      "traditional": "皮",
+      "pinyin": "pí",
+      "meaning": "leather\nhide\nfur",
+      "hsk": null
+    },
+    {
+      "hanzi": "切片",
+      "traditional": "切片",
+      "pinyin": "qiē piàn",
+      "meaning": "to slice\nslice",
+      "hsk": null
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to beat\nto fight\nto attack",
+      "hsk": null
+    },
+    {
+      "hanzi": "入",
+      "traditional": "入",
+      "pinyin": "rù",
+      "meaning": "to enter\nto go into\nto join",
+      "hsk": 4
+    },
+    {
+      "hanzi": "碗",
+      "traditional": "碗",
+      "pinyin": "wǎn",
+      "meaning": "bowl\ncup",
+      "hsk": 3
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "加入",
+      "traditional": "加入",
+      "pinyin": "jiā rù",
+      "meaning": "to join\nto mix into\nto add in",
+      "hsk": null
+    },
+    {
+      "hanzi": "少许",
+      "traditional": "少許",
+      "pinyin": "shǎo xǔ",
+      "meaning": "a little\na few",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打散",
+      "traditional": "打散",
+      "pinyin": "dǎ sǎn",
+      "meaning": "to whisk\nto beat (an egg)\n(also pronounced dǎ sàn)",
+      "hsk": null
+    },
+    {
+      "hanzi": "成",
+      "traditional": "成",
+      "pinyin": "chéng",
+      "meaning": "to become\nto turn into",
+      "hsk": 4
+    },
+    {
+      "hanzi": "蛋",
+      "traditional": "蛋",
+      "pinyin": "dàn",
+      "meaning": "egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "液",
+      "traditional": "液",
+      "pinyin": "yè",
+      "meaning": "liquid\nfluid",
+      "hsk": null
+    },
+    {
+      "hanzi": "切",
+      "traditional": "切",
+      "pinyin": "qiē",
+      "meaning": "to cut\nto slice",
+      "hsk": 5
+    },
+    {
+      "hanzi": "末",
+      "traditional": "末",
+      "pinyin": "mò",
+      "meaning": "tip\nend",
+      "hsk": null
+    },
+    {
+      "hanzi": "锅",
+      "traditional": "鍋",
+      "pinyin": "guō",
+      "meaning": "pot\npan\nwok",
+      "hsk": 5
+    },
+    {
+      "hanzi": "内",
+      "traditional": "內",
+      "pinyin": "nèi",
+      "meaning": "inside\nwithin\ninternal",
+      "hsk": 4
+    },
+    {
+      "hanzi": "倒",
+      "traditional": "倒",
+      "pinyin": "dào",
+      "meaning": "to place upside down\nto invert\nto move around",
+      "hsk": 4
+    },
+    {
+      "hanzi": "烧",
+      "traditional": "燒",
+      "pinyin": "shāo",
+      "meaning": "to burn",
+      "hsk": null
+    },
+    {
+      "hanzi": "至",
+      "traditional": "至",
+      "pinyin": "zhì",
+      "meaning": "to arrive\nto\nuntil",
+      "hsk": null
+    },
+    {
+      "hanzi": "微热",
+      "traditional": "微熱",
+      "pinyin": "wēi rè",
+      "meaning": "small heat\na little warm",
+      "hsk": null
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "翻动",
+      "traditional": "翻動",
+      "pinyin": "fān dòng",
+      "meaning": "to flip over\nto stir (food in a pot etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "凝固",
+      "traditional": "凝固",
+      "pinyin": "níng gù",
+      "meaning": "to solidify\nto congeal",
+      "hsk": 6
+    },
+    {
+      "hanzi": "一些",
+      "traditional": "一些",
+      "pinyin": "yì xiē",
+      "meaning": "some\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "变",
+      "traditional": "變",
+      "pinyin": "biàn",
+      "meaning": "to become\nto change",
+      "hsk": 3
+    },
+    {
+      "hanzi": "软",
+      "traditional": "軟",
+      "pinyin": "ruǎn",
+      "meaning": "soft\nflexible",
+      "hsk": 5
+    },
+    {
+      "hanzi": "放",
+      "traditional": "放",
+      "pinyin": "fàng",
+      "meaning": "to put\nto place",
+      "hsk": 3
+    },
+    {
+      "hanzi": "最后",
+      "traditional": "最後",
+      "pinyin": "zuì hòu",
+      "meaning": "last\nfinal\nfinally",
+      "hsk": 3
+    },
+    {
+      "hanzi": "即可",
+      "traditional": "即可",
+      "pinyin": "jí kě",
+      "meaning": "equivalent to 就可以\n(do sth) and that will suffice",
+      "hsk": null
+    },
+    {
+      "hanzi": "贴士",
+      "traditional": "貼士",
+      "pinyin": "tiē shì",
+      "meaning": "tip (loanword)\nhint",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "加",
+      "traditional": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "hsk": null
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "to come out\nto appear",
+      "hsk": 2
+    },
+    {
+      "hanzi": "更",
+      "traditional": "更",
+      "pinyin": "gèng",
+      "meaning": "even more\nfurther\nfurthermore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "嫩",
+      "traditional": "嫩",
+      "pinyin": "nèn",
+      "meaning": "tender\nsoft",
+      "hsk": 5
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "a bit\na little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "糖",
+      "traditional": "糖",
+      "pinyin": "táng",
+      "meaning": "sugar\nsweets\ncandy",
+      "hsk": 4
+    },
+    {
+      "hanzi": "香",
+      "traditional": "香",
+      "pinyin": "xiāng",
+      "meaning": "fragrant\nsweet smelling",
+      "hsk": 4
+    },
+    {
+      "hanzi": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "meaning": "tasty\ndelicious",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "菜谱",
+        "pinyin": "cài pǔ",
+        "meaning": "menu (in restaurant)\nrecipe",
+        "tc_hanzi": "菜譜"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "\n\n",
+        "tc_hanzi": "\n\n"
+      },
+      {
+        "hanzi": "菜谱",
+        "pinyin": "cài pǔ",
+        "meaning": "menu (in restaurant)\nrecipe",
+        "tc_hanzi": "菜譜"
+      },
+      {
+        "hanzi": "简介",
+        "pinyin": "jiǎn jiè",
+        "meaning": "brief introduction\nsummary",
+        "tc_hanzi": "簡介"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "道",
+        "pinyin": "dào",
+        "meaning": "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process",
+        "tc_hanzi": "道"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普通",
+        "pinyin": "pǔ tōng",
+        "meaning": "common\nordinary",
+        "tc_hanzi": "普通"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "家常",
+        "pinyin": "jiā cháng",
+        "meaning": "the daily life of a family",
+        "tc_hanzi": "家常"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "不但",
+        "pinyin": "bú dàn",
+        "meaning": "not only (... but also...)",
+        "tc_hanzi": "不但"
+      },
+      {
+        "hanzi": "做法",
+        "pinyin": "zuò fǎ",
+        "meaning": "way of handling sth\nmethod for making\npractice",
+        "tc_hanzi": "做法"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "简单",
+        "pinyin": "jiǎn dān",
+        "meaning": "simple\nnot complicated",
+        "tc_hanzi": "簡單"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "而且",
+        "pinyin": "ér qiě",
+        "meaning": "(not only ...) but also",
+        "tc_hanzi": "而且"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "营养",
+        "pinyin": "yíng yǎng",
+        "meaning": "nutrition\nnourishment",
+        "tc_hanzi": "營養"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "丰富",
+        "pinyin": "fēng fù",
+        "meaning": "rich\nplentiful\nabundant",
+        "tc_hanzi": "豐富"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "受到",
+        "pinyin": "shòu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "受到"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "喜爱",
+        "pinyin": "xǐ ài",
+        "meaning": "to like\nto love\nto be fond of",
+        "tc_hanzi": "喜愛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n\n",
+        "tc_hanzi": "\n\n"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "材料",
+        "pinyin": "cái liào",
+        "meaning": "material",
+        "tc_hanzi": "材料"
+      },
+      {
+        "hanzi": "：\n",
+        "tc_hanzi": "：\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "葱",
+        "pinyin": "cōng",
+        "meaning": "scallion\ngreen onion",
+        "tc_hanzi": "蔥"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yì",
+        "tc_hanzi": "1"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "meaning": "classifier for long slender objects, e.g. cigarettes, guitar strings",
+        "tc_hanzi": "根"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "盐",
+        "pinyin": "yán",
+        "meaning": "salt",
+        "tc_hanzi": "鹽"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "克",
+        "pinyin": "kè",
+        "meaning": "gram",
+        "tc_hanzi": "克"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "食用",
+        "pinyin": "shí yòng",
+        "meaning": "food product\nto use as food\nedible",
+        "tc_hanzi": "食用"
+      },
+      {
+        "hanzi": "油",
+        "pinyin": "yóu",
+        "meaning": "oil\nfat\ngrease",
+        "tc_hanzi": "油"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "shí wǔ",
+        "tc_hanzi": "15"
+      },
+      {
+        "hanzi": "毫升",
+        "pinyin": "háo shēng",
+        "meaning": "milliliter",
+        "tc_hanzi": "毫升"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "味精",
+        "pinyin": "wèi jīng",
+        "meaning": "monosodium glutamate (MSG)",
+        "tc_hanzi": "味精"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "克",
+        "pinyin": "kè",
+        "meaning": "gram",
+        "tc_hanzi": "克"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n\n",
+        "tc_hanzi": "\n\n"
+      },
+      {
+        "hanzi": "做法",
+        "pinyin": "zuò fǎ",
+        "meaning": "way of handling sth\nmethod for making\npractice",
+        "tc_hanzi": "做法"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yī",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "to wash\nto bathe",
+        "tc_hanzi": "洗"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "干净",
+        "pinyin": "gān jìng",
+        "meaning": "clean\nneat",
+        "tc_hanzi": "乾淨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "开水",
+        "pinyin": "kāi shuǐ",
+        "meaning": "boiled water\nboiling water",
+        "tc_hanzi": "開水"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "烫",
+        "pinyin": "tàng",
+        "meaning": "to scald\nto burn (by scalding)",
+        "tc_hanzi": "燙"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to remove\nto get rid of",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "皮",
+        "pinyin": "pí",
+        "meaning": "leather\nhide\nfur",
+        "tc_hanzi": "皮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "切片",
+        "pinyin": "qiē piàn",
+        "meaning": "to slice\nslice",
+        "tc_hanzi": "切片"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to beat\nto fight\nto attack",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "碗",
+        "pinyin": "wǎn",
+        "meaning": "bowl\ncup",
+        "tc_hanzi": "碗"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "加入",
+        "pinyin": "jiā rù",
+        "meaning": "to join\nto mix into\nto add in",
+        "tc_hanzi": "加入"
+      },
+      {
+        "hanzi": "少许",
+        "pinyin": "shǎo xǔ",
+        "meaning": "a little\na few",
+        "tc_hanzi": "少許"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "盐",
+        "pinyin": "yán",
+        "meaning": "salt",
+        "tc_hanzi": "鹽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "味精",
+        "pinyin": "wèi jīng",
+        "meaning": "monosodium glutamate (MSG)",
+        "tc_hanzi": "味精"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "打散",
+        "pinyin": "dǎ sǎn",
+        "meaning": "to whisk\nto beat (an egg)\n(also pronounced dǎ sàn)",
+        "tc_hanzi": "打散"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "成",
+        "pinyin": "chéng",
+        "meaning": "to become\nto turn into",
+        "tc_hanzi": "成"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "蛋",
+        "pinyin": "dàn",
+        "meaning": "egg",
+        "tc_hanzi": "蛋"
+      },
+      {
+        "hanzi": "液",
+        "pinyin": "yè",
+        "meaning": "liquid\nfluid",
+        "tc_hanzi": "液"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "葱",
+        "pinyin": "cōng",
+        "meaning": "scallion\ngreen onion",
+        "tc_hanzi": "蔥"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "to wash\nto bathe",
+        "tc_hanzi": "洗"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "干净",
+        "pinyin": "gān jìng",
+        "meaning": "clean\nneat",
+        "tc_hanzi": "乾淨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "切",
+        "pinyin": "qiē",
+        "meaning": "to cut\nto slice",
+        "tc_hanzi": "切"
+      },
+      {
+        "hanzi": "末",
+        "pinyin": "mò",
+        "meaning": "tip\nend",
+        "tc_hanzi": "末"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "sì",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "锅",
+        "pinyin": "guō",
+        "meaning": "pot\npan\nwok",
+        "tc_hanzi": "鍋"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "内",
+        "pinyin": "nèi",
+        "meaning": "inside\nwithin\ninternal",
+        "tc_hanzi": "內"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hanzi": "油",
+        "pinyin": "yóu",
+        "meaning": "oil\nfat\ngrease",
+        "tc_hanzi": "油"
+      },
+      {
+        "hanzi": "烧",
+        "pinyin": "shāo",
+        "meaning": "to burn",
+        "tc_hanzi": "燒"
+      },
+      {
+        "hanzi": "至",
+        "pinyin": "zhì",
+        "meaning": "to arrive\nto\nuntil",
+        "tc_hanzi": "至"
+      },
+      {
+        "hanzi": "微热",
+        "pinyin": "wēi rè",
+        "meaning": "small heat\na little warm",
+        "tc_hanzi": "微熱"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "蛋",
+        "pinyin": "dàn",
+        "meaning": "egg",
+        "tc_hanzi": "蛋"
+      },
+      {
+        "hanzi": "液",
+        "pinyin": "yè",
+        "meaning": "liquid\nfluid",
+        "tc_hanzi": "液"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hanzi": "翻动",
+        "pinyin": "fān dòng",
+        "meaning": "to flip over\nto stir (food in a pot etc)",
+        "tc_hanzi": "翻動"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "蛋",
+        "pinyin": "dàn",
+        "meaning": "egg",
+        "tc_hanzi": "蛋"
+      },
+      {
+        "hanzi": "液",
+        "pinyin": "yè",
+        "meaning": "liquid\nfluid",
+        "tc_hanzi": "液"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "凝固",
+        "pinyin": "níng gù",
+        "meaning": "to solidify\nto congeal",
+        "tc_hanzi": "凝固"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一些",
+        "pinyin": "yì xiē",
+        "meaning": "some\na few",
+        "tc_hanzi": "一些"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hanzi": "翻动",
+        "pinyin": "fān dòng",
+        "meaning": "to flip over\nto stir (food in a pot etc)",
+        "tc_hanzi": "翻動"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hanzi": "至",
+        "pinyin": "zhì",
+        "meaning": "to arrive\nto\nuntil",
+        "tc_hanzi": "至"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "变",
+        "pinyin": "biàn",
+        "meaning": "to become\nto change",
+        "tc_hanzi": "變"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "软",
+        "pinyin": "ruǎn",
+        "meaning": "soft\nflexible",
+        "tc_hanzi": "軟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "少许",
+        "pinyin": "shǎo xǔ",
+        "meaning": "a little\na few",
+        "tc_hanzi": "少許"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "盐",
+        "pinyin": "yán",
+        "meaning": "salt",
+        "tc_hanzi": "鹽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "味精",
+        "pinyin": "wèi jīng",
+        "meaning": "monosodium glutamate (MSG)",
+        "tc_hanzi": "味精"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最后",
+        "pinyin": "zuì hòu",
+        "meaning": "last\nfinal\nfinally",
+        "tc_hanzi": "最後"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "to place upside down\nto invert\nto move around",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "入",
+        "pinyin": "rù",
+        "meaning": "to enter\nto go into\nto join",
+        "tc_hanzi": "入"
+      },
+      {
+        "hanzi": "葱",
+        "pinyin": "cōng",
+        "meaning": "scallion\ngreen onion",
+        "tc_hanzi": "蔥"
+      },
+      {
+        "hanzi": "末",
+        "pinyin": "mò",
+        "meaning": "tip\nend",
+        "tc_hanzi": "末"
+      },
+      {
+        "hanzi": "即可",
+        "pinyin": "jí kě",
+        "meaning": "equivalent to 就可以\n(do sth) and that will suffice",
+        "tc_hanzi": "即可"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n\n",
+        "tc_hanzi": "\n\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "贴士",
+        "pinyin": "tiē shì",
+        "meaning": "tip (loanword)\nhint",
+        "tc_hanzi": "貼士"
+      },
+      {
+        "hanzi": "：\n",
+        "tc_hanzi": "：\n"
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "to come out\nto appear",
+        "tc_hanzi": "出來"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嫩",
+        "pinyin": "nèn",
+        "meaning": "tender\nsoft",
+        "tc_hanzi": "嫩"
+      },
+      {
+        "hanzi": "。\n",
+        "tc_hanzi": "。\n"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to sauté\nto stir-fry",
+        "tc_hanzi": "炒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "西红柿",
+        "pinyin": "xī hóng shì",
+        "meaning": "tomato",
+        "tc_hanzi": "西紅柿"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "a bit\na little\nsome",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "糖",
+        "pinyin": "táng",
+        "meaning": "sugar\nsweets\ncandy",
+        "tc_hanzi": "糖"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "香",
+        "pinyin": "xiāng",
+        "meaning": "fragrant\nsweet smelling",
+        "tc_hanzi": "香"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": "tasty\ndelicious",
+        "tc_hanzi": "好吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Did you ever want to make authentic Chinese food but had trouble reading Chinese recipes? In this lesson we learn words and classifiers common to recipes, and start our journey on becoming Chinese food experts!",
+    "syllable_times": [
+      0.3691646197317962,
+      0.5895691609977324,
+      0.9475653487871581,
+      2.086167800453515,
+      2.448979591836735,
+      2.716791108250618,
+      3.08390022675737,
+      3.401360544217687,
+      3.6281179138322,
+      5.079365079365079,
+      5.487528344671202,
+      5.668934240362812,
+      5.941043083900227,
+      7.074829931972789,
+      7.392290249433106,
+      7.619047619047619,
+      7.981859410430839,
+      8.299319727891156,
+      8.523480780335818,
+      8.88888888888889,
+      9.070294784580499,
+      9.342403628117914,
+      9.705215419501133,
+      9.886621315192743,
+      10.20408163265306,
+      10.38548752834467,
+      10.62685667241837,
+      10.87636286926578,
+      11.97278911564626,
+      12.29024943310658,
+      12.38095238095238,
+      12.7891156462585,
+      13.06122448979592,
+      13.28798185941043,
+      13.60544217687075,
+      14.5124716553288,
+      14.73922902494331,
+      15.19274376417234,
+      15.41950113378685,
+      15.73696145124716,
+      16.05442176870748,
+      17.18820861678005,
+      17.55102040816326,
+      17.86848072562358,
+      18.140589569161,
+      18.45804988662131,
+      18.63945578231293,
+      18.95691609977324,
+      19.22902494331066,
+      19.41043083900227,
+      19.54648526077098,
+      19.77324263038549,
+      21.22448979591837,
+      21.58730158730159,
+      22.94784580498866,
+      23.26530612244898,
+      23.59800280396085,
+      23.99092970521542,
+      25.12471655328798,
+      25.4421768707483,
+      25.73014666792964,
+      26.21315192743764,
+      26.53061224489796,
+      27.3015873015873,
+      27.93650793650794,
+      28.20861678004535,
+      29.29705215419501,
+      30.06802721088435,
+      30.34013605442177,
+      31.24716553287982,
+      31.60997732426304,
+      31.88208616780045,
+      32.33560090702948,
+      32.66801851659583,
+      32.86081875961428,
+      33.15192743764172,
+      34.24036281179139,
+      34.5578231292517,
+      35.19274376417233,
+      35.51020408163265,
+      37.09750566893424,
+      37.41496598639456,
+      38.50340136054422,
+      39.77324263038549,
+      40.09070294784581,
+      40.38887106973031,
+      40.69508322040667,
+      40.95238095238095,
+      41.22448979591837,
+      41.54195011337868,
+      42.04081632653061,
+      42.31292517006803,
+      42.71381517671755,
+      43.12925170068027,
+      43.5827664399093,
+      43.94557823129252,
+      44.12698412698413,
+      44.39909297052154,
+      44.71655328798186,
+      45.03401360544218,
+      45.85034013605442,
+      46.25850340136054,
+      47.98185941043084,
+      49.20634920634921,
+      49.47845804988662,
+      49.84126984126984,
+      50.11337868480726,
+      50.29478458049886,
+      50.56689342403628,
+      51.51927437641724,
+      51.89722950787017,
+      52.13539451395179,
+      52.51700680272109,
+      52.7891156462585,
+      53.19727891156462,
+      53.37868480725623,
+      53.60544217687075,
+      54.4671201814059,
+      54.73922902494331,
+      54.96598639455782,
+      55.37414965986395,
+      55.69160997732426,
+      57.55102040816327,
+      58.82086167800453,
+      59.18367346938776,
+      59.50113378684807,
+      59.72789115646258,
+      60.0453514739229,
+      60.36281179138322,
+      60.77097505668934,
+      62.08616780045352,
+      63.17460317460318,
+      63.49206349206349,
+      63.718820861678,
+      63.99092970521542,
+      64.35374149659864,
+      64.71655328798185,
+      64.94331065759637,
+      65.21541950113378,
+      66.16780045351474,
+      66.48526077097506,
+      66.71201814058956,
+      67.02947845804988,
+      67.93650793650794,
+      68.29931972789116,
+      68.57142857142857,
+      68.79818594104309,
+      69.61451247165533,
+      69.97732426303855,
+      70.24943310657596,
+      70.56689342403628,
+      70.83900226757369,
+      71.03536545537133,
+      71.20548331685822,
+      71.47392290249434,
+      71.79138321995465,
+      72.06349206349206,
+      72.29024943310658,
+      73.60544217687075,
+      74.46712018140589,
+      74.78458049886622,
+      75.05668934240363,
+      75.28344671201815,
+      75.46485260770974,
+      76.28117913832199,
+      76.68934240362812,
+      77.05215419501134,
+      77.32426303854875,
+      77.66996205335933,
+      77.94215063173831,
+      78.140589569161,
+      78.36734693877551,
+      78.73015873015873,
+      78.95691609977324,
+      79.31972789115646,
+      79.72789115646259,
+      79.9546485260771,
+      80.18140589569161,
+      80.54421768707483,
+      80.81632653061224,
+      81.17913832199547,
+      81.31519274376417,
+      81.54195011337869,
+      82.81179138321995,
+      83.12925170068027,
+      83.40136054421768,
+      83.6324649178869,
+      83.83660635167116,
+      84.17233560090703,
+      84.44444444444444,
+      84.67120181405896,
+      86.21315192743764,
+      86.53580975392951,
+      86.89342403628117,
+      87.98185941043084,
+      89.1156462585034,
+      89.38775510204081,
+      89.65986394557824,
+      89.88662131519274,
+      90.15873015873017,
+      90.29478458049887,
+      90.55902215406785,
+      91.33786848072562,
+      91.70068027210884,
+      91.86325909213386,
+      92.01814058956916,
+      92.24489795918367,
+      92.47165532879819,
+      92.97052154195012,
+      93.24263038548753,
+      94.73922902494331,
+      95.78231292517007,
+      96.09977324263039,
+      96.3718820861678,
+      96.64399092970521,
+      96.79196851049036,
+      96.91672160891407,
+      97.23356009070295,
+      97.59637188208617,
+      97.91383219954649,
+      98.0498866213152,
+      98.2766439909297,
+      98.49314712535907,
+      99.31972789115646,
+      99.61592501117242,
+      100.0453514739229,
+      100.3174603174603,
+      100.5442176870748,
+      101.1634013605442,
+      101.1634216308594
+    ],
+    "sentence_indices": [
+      7,
+      8,
+      12,
+      23,
+      39,
+      40,
+      42,
+      67,
+      68,
+      71,
+      89,
+      109,
+      119,
+      134,
+      148,
+      169,
+      177,
+      180,
+      195
+    ],
+    "sentence_translations": [
+      "Little Li's recipe: Stir-fried tomato eggs",
+      "",
+      "Recipe summary:",
+      "Stir-fried tomato eggs is a common household dish.",
+      "It's not only easy to make, but also rich in nutrition, which makes it loved by everyone.",
+      "",
+      "Ingredients:",
+      "3 eggs, 2 tomatoes, 1 scallion, 5 grams of salt, 15 ml cooking oil, 3 grams of MSG.",
+      "",
+      "Instructions:",
+      "1. After washing the tomatoes clean, scald them using hot water for two minutes, then remove the skin and slice them.",
+      "2. Crack the eggs into a bowl, add some salt and MSG, then whisk until they become liquid.",
+      "3. Wash the scallions and cut off the tips.",
+      "4. Put some oil in a pan and heat until mildly warm. Pour in the beaten eggs.",
+      "Don't stir at first; wait until the eggs solidify a bit and then stir.",
+      "5. Add the tomatoes and stir until the eggs and tomatoes become soft, then add a bit of salt and MSG.",
+      "Finally add the scallion tips and that's it.",
+      "Tips:",
+      "1. Add a bit of water to the eggs, and the stir-fried eggs will come out even more tender.",
+      "2. You can add a little sugar when stir-frying the tomatoes, and they will be even more fragrant and delicious."
+    ]
+  }
+}

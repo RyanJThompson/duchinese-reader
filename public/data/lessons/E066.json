@@ -1,0 +1,1692 @@
+{
+  "id": "E066",
+  "title": "Booking a KTV Box",
+  "level": "intermediate",
+  "date": "2016-11-16",
+  "synopsis": "Chinese people like going to KTV. This means you often want to book a room in advance if you want to go out singing.",
+  "audioUrl": "https://static.duchinese.net/documents/278/bdc1d061f0baf52ba5d3044b87173e96feb99365.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "订KTV包厢\n\n客服：您好，上海歌城。\n客人：您好。我想订一个包厢。\n客服：请问是哪家店？\n客人：上海五角场店。\n客服：请问什么时候？\n客人：8号星期天晚上10点。\n客服：请问要大包，中包，还是小包？\n客人：中包多少人？\n客服：6到9人。\n客人：我们有11个人，那还是大包吧。\n客服：好的，8号晚上10点上海五角场店大包一间，已为您预定好。包厢到时保留15分钟，请准时到店。\n客人：好的，谢谢你。再见。",
+    "traditional": "訂KTV包廂\n\n客服：您好，上海歌城。\n客人：您好。我想訂一個包廂。\n客服：請問是哪家店？\n客人：上海五角場店。\n客服：請問什麼時候？\n客人：8號星期天晚上10點。\n客服：請問要大包，中包，還是小包？\n客人：中包多少人？\n客服：6到9人。\n客人：我們有11個人，那還是大包吧。\n客服：好的，8號晚上10點上海五角場店大包一間，已為您預定好。包廂到時保留15分鐘，請準時到店。\n客人：好的，謝謝你。再見。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Booking a KTV Box"
+    },
+    {
+      "index": 2,
+      "simplified": "客服：您好，上海歌城。",
+      "traditional": "客服：您好，上海歌城。",
+      "pinyin": "kè fú nín hǎo shàng hǎi gē chéng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer Service: Hello, Shanghai KTV."
+    },
+    {
+      "index": 4,
+      "simplified": "客人：您好。我想订一个包厢。",
+      "traditional": "客人：您好。我想訂一個包廂。",
+      "pinyin": "kè rén nín hǎo wǒ xiǎng dìng yí ge bāo xiāng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer: Hello. I would like to book a room."
+    },
+    {
+      "index": 6,
+      "simplified": "客服：请问是哪家店？",
+      "traditional": "客服：請問是哪家店？",
+      "pinyin": "kè fú qǐng wèn shì něi jiā diàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer Service: May I ask for which location?"
+    },
+    {
+      "index": 8,
+      "simplified": "客人：上海五角场店。",
+      "traditional": "客人：上海五角場店。",
+      "pinyin": "kè rén shàng hǎi wǔ jiǎo chǎng diàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer: The one in Wujiaochang, Shanghai."
+    },
+    {
+      "index": 10,
+      "simplified": "客服：请问什么时候？",
+      "traditional": "客服：請問什麼時候？",
+      "pinyin": "kè fú qǐng wèn shén me shí hou",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer Service: May I ask for when?"
+    },
+    {
+      "index": 12,
+      "simplified": "客人：8号星期天晚上10点。",
+      "traditional": "客人：8號星期天晚上10點。",
+      "pinyin": "kè rén 1 hào xīng qī tiān wǎn shang 1 diǎn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer: At 10:00 pm, Sunday the 8th."
+    },
+    {
+      "index": 14,
+      "simplified": "客服：请问要大包，中包，还是小包？",
+      "traditional": "客服：請問要大包，中包，還是小包？",
+      "pinyin": "kè fú qǐng wèn yào dà bāo zhōng bāo hái shi xiǎo bāo",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer Service: May I ask if you want a large room, a medium one or a small one?"
+    },
+    {
+      "index": 16,
+      "simplified": "客人：中包多少人？",
+      "traditional": "客人：中包多少人？",
+      "pinyin": "kè rén zhōng bāo duō shao rén",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer: How many people can you be a medium room?"
+    },
+    {
+      "index": 18,
+      "simplified": "客服：6到9人。",
+      "traditional": "客服：6到9人。",
+      "pinyin": "kè fú 1 dào 1 rén",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer Service: 6 to 9 people."
+    },
+    {
+      "index": 20,
+      "simplified": "客人：我们有11个人，那还是大包吧。",
+      "traditional": "客人：我們有11個人，那還是大包吧。",
+      "pinyin": "kè rén wǒ men yǒu 2 ge rén nà hái shì dà bāo ba",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Customer: We have 11 people, I would go with a large room then."
+    },
+    {
+      "index": 22,
+      "simplified": "客服：好的，8号晚上10点上海五角场店大包一间，已为您预定好。",
+      "traditional": "客服：好的，8號晚上10點上海五角場店大包一間，已為您預定好。",
+      "pinyin": "kè fú hǎo de 1 hào wǎn shang 1 diǎn shàng hǎi wǔ jiǎo chǎng diàn dà bāo yì jiān yǐ wèi nín yù dìng hǎo",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "包厢到时保留15分钟，请准时到店。",
+      "traditional": "包廂到時保留15分鐘，請準時到店。",
+      "pinyin": "bāo xiāng dào shí bǎo liú 2 fēn zhōng qǐng zhǔn shí dào diàn",
+      "english": "Customer Service: Ok. A big room in Wujiaochang, Shanghai, 10:00pm on the 8th. It is reserved."
+    },
+    {
+      "index": 24,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "The room will be kept for 15 minutes after the reserved time. Please be there on time."
+    },
+    {
+      "index": 25,
+      "simplified": "客人：好的，谢谢你。再见。",
+      "traditional": "客人：好的，謝謝你。再見。",
+      "pinyin": "kè rén hǎo de xiè xie nǐ zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 26,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Customer: OK. Thank you. Bye."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "订",
+      "traditional": "訂",
+      "pinyin": "dìng",
+      "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "KTV",
+      "traditional": "KTV",
+      "pinyin": "K T V",
+      "meaning": "karaoke box",
+      "hsk": null
+    },
+    {
+      "hanzi": "包厢",
+      "traditional": "包廂",
+      "pinyin": "bāo xiāng",
+      "meaning": "box (in a theater or concert hall)\nprivate room (in a restaurant or karaoke)",
+      "hsk": null
+    },
+    {
+      "hanzi": "客服",
+      "traditional": "客服",
+      "pinyin": "kè fú",
+      "meaning": "customer service",
+      "hsk": null
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上海",
+      "traditional": "上海",
+      "pinyin": "shàng hǎi",
+      "meaning": "Shanghai",
+      "hsk": null
+    },
+    {
+      "hanzi": "歌",
+      "traditional": "歌",
+      "pinyin": "gē",
+      "meaning": "song",
+      "hsk": null
+    },
+    {
+      "hanzi": "城",
+      "traditional": "城",
+      "pinyin": "chéng",
+      "meaning": "city\ntown",
+      "hsk": 3
+    },
+    {
+      "hanzi": "客人",
+      "traditional": "客人",
+      "pinyin": "kè rén",
+      "meaning": "customer\nclient",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "něi",
+      "meaning": "which? (interrogative, followed by classifier or numeral-classifier)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "店",
+      "traditional": "店",
+      "pinyin": "diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五角场",
+      "traditional": "五角場",
+      "pinyin": "wǔ jiǎo chǎng",
+      "meaning": "Wujiaochang neighborhood of Shanghai, adjacent to Fudan University",
+      "hsk": null
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "meaning": "day of a month",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "meaning": "bundle\npacket\nbox",
+      "hsk": 3
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "middle\nmedium\ncenter",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to\nup to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "间",
+      "traditional": "間",
+      "pinyin": "jiān",
+      "meaning": "classifier for rooms",
+      "hsk": null
+    },
+    {
+      "hanzi": "已",
+      "traditional": "已",
+      "pinyin": "yǐ",
+      "meaning": "already",
+      "hsk": null
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wèi",
+      "meaning": "on behalf of\nfor the sake of\nbecause of",
+      "hsk": 3
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "预定",
+      "traditional": "預定",
+      "pinyin": "yù dìng",
+      "meaning": "to schedule in advance\nto make a reservation",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保留",
+      "traditional": "保留",
+      "pinyin": "bǎo liú",
+      "meaning": "to retain\nto preserve\nto maintain",
+      "hsk": 5
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准时",
+      "traditional": "準時",
+      "pinyin": "zhǔn shí",
+      "meaning": "on time\npunctual\non schedule",
+      "hsk": 4
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "hanzi": "KTV",
+        "pinyin": "K T V",
+        "meaning": "karaoke box",
+        "tc_hanzi": "KTV"
+      },
+      {
+        "hanzi": "包厢",
+        "pinyin": "bāo xiāng",
+        "meaning": "box (in a theater or concert hall)\nprivate room (in a restaurant or karaoke)",
+        "tc_hanzi": "包廂"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "tc_hanzi": "歌"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城",
+        "pinyin": "chéng",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "订",
+        "pinyin": "dìng",
+        "meaning": "to order\nto subscribe to (a newspaper, etc.)\nto book (seats, tickets, etc.)",
+        "tc_hanzi": "訂"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "包厢",
+        "pinyin": "bāo xiāng",
+        "meaning": "box (in a theater or concert hall)\nprivate room (in a restaurant or karaoke)",
+        "tc_hanzi": "包廂"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "na",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "něi",
+        "meaning": "which? (interrogative, followed by classifier or numeral-classifier)",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "五角场",
+        "pinyin": "wǔ jiǎo chǎng",
+        "meaning": "Wujiaochang neighborhood of Shanghai, adjacent to Fudan University",
+        "tc_hanzi": "五角場"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle\nmedium\ncenter",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "middle\nmedium\ncenter",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "1",
+        "tc_hanzi": "6"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to\nup to",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "1",
+        "tc_hanzi": "9"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "11",
+        "pinyin": "2",
+        "tc_hanzi": "11"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kè fú",
+        "meaning": "customer service",
+        "tc_hanzi": "客服"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "1",
+        "tc_hanzi": "8"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "day of a month",
+        "tc_hanzi": "號"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hanzi": "五角场",
+        "pinyin": "wǔ jiǎo chǎng",
+        "meaning": "Wujiaochang neighborhood of Shanghai, adjacent to Fudan University",
+        "tc_hanzi": "五角場"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "包",
+        "pinyin": "bāo",
+        "meaning": "bundle\npacket\nbox",
+        "tc_hanzi": "包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "间",
+        "pinyin": "jiān",
+        "meaning": "classifier for rooms",
+        "tc_hanzi": "間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "已",
+        "pinyin": "yǐ",
+        "meaning": "already",
+        "tc_hanzi": "已"
+      },
+      {
+        "g": "wei-overview",
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wèi",
+        "meaning": "on behalf of\nfor the sake of\nbecause of",
+        "tc_hanzi": "為"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "预定",
+        "pinyin": "yù dìng",
+        "meaning": "to schedule in advance\nto make a reservation",
+        "tc_hanzi": "預定"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "包厢",
+        "pinyin": "bāo xiāng",
+        "meaning": "box (in a theater or concert hall)\nprivate room (in a restaurant or karaoke)",
+        "tc_hanzi": "包廂"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "保留",
+        "pinyin": "bǎo liú",
+        "meaning": "to retain\nto preserve\nto maintain",
+        "tc_hanzi": "保留"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "准时",
+        "pinyin": "zhǔn shí",
+        "meaning": "on time\npunctual\non schedule",
+        "tc_hanzi": "準時"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "客人",
+        "pinyin": "kè rén",
+        "meaning": "customer\nclient",
+        "tc_hanzi": "客人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Chinese people like going to KTV. This means you often want to book a room in advance if you want to go out singing.",
+    "syllable_times": [
+      0.2748963723527014,
+      0.4988662131519274,
+      0.6349206349206349,
+      0.8163265306122449,
+      1.08843537414966,
+      2.303863857166835,
+      2.303863857166835,
+      2.303863857166835,
+      2.53968253968254,
+      3.08390022675737,
+      3.310657596371882,
+      3.44671201814059,
+      3.630741929200126,
+      4.568013565731925,
+      4.568013565731925,
+      4.568013565731925,
+      4.807256235827665,
+      5.442176870748299,
+      5.578231292517007,
+      5.759637188208616,
+      5.899102401288838,
+      5.98639455782313,
+      6.122448979591836,
+      6.394557823129252,
+      7.164015763785032,
+      7.164015763785032,
+      7.164015763785032,
+      7.392290249433106,
+      7.584826173187893,
+      7.755102040816326,
+      7.981859410430839,
+      8.16326530612245,
+      8.958953444338885,
+      8.958953444338885,
+      8.958953444338885,
+      9.297052154195011,
+      9.523809523809524,
+      9.680944255247164,
+      9.841269841269842,
+      10.06802721088435,
+      10.85487959911857,
+      10.85487959911857,
+      10.85487959911857,
+      11.06575963718821,
+      11.30897720227133,
+      11.47392290249433,
+      11.65532879818594,
+      11.79138321995465,
+      12.39641796320348,
+      12.39641796320348,
+      12.39641796320348,
+      12.60770975056689,
+      12.87981859410431,
+      13.06122448979592,
+      13.22066384199594,
+      13.37868480725623,
+      13.54232185137413,
+      13.74149659863946,
+      13.96825396825397,
+      14.96329940720375,
+      14.96329940720375,
+      14.96329940720375,
+      15.19274376417234,
+      15.3662916383277,
+      15.60090702947846,
+      15.87301587301587,
+      16.3718820861678,
+      16.64399092970521,
+      16.96145124716553,
+      17.18820861678005,
+      17.31928808441037,
+      17.50566893424036,
+      18.05058689889718,
+      18.05058689889718,
+      18.05058689889718,
+      18.27664399092971,
+      18.45804988662131,
+      18.59410430839002,
+      18.77551020408163,
+      19.79854132329272,
+      19.79854132329272,
+      19.79854132329272,
+      20.13605442176871,
+      20.28410884330624,
+      20.49886621315193,
+      21.33204519949346,
+      21.33204519949346,
+      21.33204519949346,
+      21.49659863945578,
+      21.63265306122449,
+      21.7687074829932,
+      21.99546485260771,
+      22.17687074829932,
+      22.31292517006803,
+      23.03854875283447,
+      23.26530612244898,
+      23.40136054421769,
+      23.52314924188034,
+      23.718820861678,
+      23.94557823129252,
+      24.80827426928992,
+      24.80827426928992,
+      24.80827426928992,
+      24.98866213151927,
+      25.94104308390023,
+      26.12244897959184,
+      26.29715592741627,
+      26.43990929705215,
+      26.71201814058957,
+      26.89342403628118,
+      27.48299319727891,
+      27.75510204081633,
+      27.93650793650794,
+      28.07256235827665,
+      28.29931972789116,
+      28.48072562358277,
+      28.88888888888889,
+      29.1156462585034,
+      29.35040272030821,
+      29.47845804988662,
+      30.20408163265306,
+      30.38616189946622,
+      30.52154195011338,
+      30.74829931972789,
+      30.9297052154195,
+      31.11111111111111,
+      31.97278911564626,
+      32.19954648526077,
+      32.51700680272109,
+      32.6984126984127,
+      32.83446712018141,
+      33.01587301587302,
+      33.19727891156462,
+      33.33134028115801,
+      33.51473922902494,
+      33.65079365079365,
+      34.19501133786848,
+      34.6031746031746,
+      34.82993197278912,
+      35.10204081632653,
+      35.28344671201814,
+      36.18508553068338,
+      36.18508553068338,
+      36.18508553068338,
+      36.3718820861678,
+      36.68934240362812,
+      36.96265842010347,
+      37.14285714285715,
+      37.41496598639456,
+      37.6824773635101,
+      38.26172335600907,
+      38.26172335600907
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      13,
+      14,
+      25,
+      26,
+      34,
+      35,
+      41,
+      42,
+      48,
+      49,
+      58,
+      59,
+      73,
+      74,
+      81,
+      82,
+      89,
+      90,
+      105,
+      106,
+      129,
+      141,
+      142,
+      151
+    ],
+    "sentence_translations": [
+      "Booking a KTV Box",
+      "",
+      "Customer Service: Hello, Shanghai KTV.",
+      "",
+      "Customer: Hello. I would like to book a room.",
+      "",
+      "Customer Service: May I ask for which location?",
+      "",
+      "Customer: The one in Wujiaochang, Shanghai.",
+      "",
+      "Customer Service: May I ask for when?",
+      "",
+      "Customer: At 10:00 pm, Sunday the 8th.",
+      "",
+      "Customer Service: May I ask if you want a large room, a medium one or a small one?",
+      "",
+      "Customer: How many people can you be a medium room?",
+      "",
+      "Customer Service: 6 to 9 people.",
+      "",
+      "Customer: We have 11 people, I would go with a large room then.",
+      "",
+      "Customer Service: Ok. A big room in Wujiaochang, Shanghai, 10:00pm on the 8th. It is reserved.",
+      "The room will be kept for 15 minutes after the reserved time. Please be there on time.",
+      "",
+      "Customer: OK. Thank you. Bye.",
+      ""
+    ]
+  }
+}

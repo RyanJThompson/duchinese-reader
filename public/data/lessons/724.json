@@ -1,0 +1,971 @@
+{
+  "id": "724",
+  "title": "Look at Flowers",
+  "level": "newbie",
+  "date": "2019-05-09",
+  "synopsis": "Do you want to go look at flowers?",
+  "audioUrl": "https://static.duchinese.net/documents/1038/05f005d1139d7609bdefb7143b8a1fdca573a750.mp3?1556788579",
+  "series": null,
+  "fullText": {
+    "simplified": "看花\n\n本：春天来了！\n小雨：是啊！对了，明天我和丽丽去看花，你和我们一起去吗？\n本：看花？\n小雨：春天来了，公园的花开了，很漂亮。我们去看花。\n本：好！我也去。明天几点？\n小雨：10点。\n本：好的。明天见。",
+    "traditional": "看花\n\n本：春天來了！\n小雨：是啊！對了，明天我和麗麗去看花，你和我們一起去嗎？\n本：看花？\n小雨：春天來了，公園的花開了，很漂亮。我們去看花。\n本：好！我也去。明天幾點？\n小雨：10點。\n本：好的。明天見。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Look at Flowers"
+    },
+    {
+      "index": 2,
+      "simplified": "本：春天来了！",
+      "traditional": "本：春天來了！",
+      "pinyin": "běn chūn tiān lái le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Spring has arrived!"
+    },
+    {
+      "index": 4,
+      "simplified": "小雨：是啊！对了，明天我和丽丽去看花，",
+      "traditional": "小雨：是啊！對了，明天我和麗麗去看花，",
+      "pinyin": "xiǎo yǔ shì a duì le míng tiān wǒ hé lì lì qù kàn huā",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "你和我们一起去吗？",
+      "traditional": "你和我們一起去嗎？",
+      "pinyin": "nǐ hé wǒ men yì qǐ qù ma",
+      "english": "Little Yu: It sure has! Oh, that’s right, Lili and I are going to look at flowers tomorrow."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Are you going together with us?"
+    },
+    {
+      "index": 7,
+      "simplified": "本：看花？",
+      "traditional": "本：看花？",
+      "pinyin": "běn kàn huā",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: To look at flowers?"
+    },
+    {
+      "index": 9,
+      "simplified": "小雨：春天来了，公园的花开了，很漂亮。",
+      "traditional": "小雨：春天來了，公園的花開了，很漂亮。",
+      "pinyin": "xiǎo yǔ chūn tiān lái le gōng yuán de huā kāi le hěn piào liang",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "我们去看花。",
+      "traditional": "我們去看花。",
+      "pinyin": "wǒ men qù kàn huā",
+      "english": "Little Yu: Spring has arrived, the flowers in the park are blooming, it’s very beautiful."
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "We are going to look at the flowers."
+    },
+    {
+      "index": 12,
+      "simplified": "本：好！我也去。明天几点？",
+      "traditional": "本：好！我也去。明天幾點？",
+      "pinyin": "běn hǎo wǒ yě qù míng tiān jǐ diǎn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok! I am coming too. At what time tomorrow?"
+    },
+    {
+      "index": 14,
+      "simplified": "小雨：10点。",
+      "traditional": "小雨：10點。",
+      "pinyin": "xiǎo yǔ 1 diǎn",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: 10 o’clock."
+    },
+    {
+      "index": 16,
+      "simplified": "本：好的。明天见。",
+      "traditional": "本：好的。明天見。",
+      "pinyin": "běn hǎo de míng tiān jiàn",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Alright. See you tomorrow."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "花",
+      "traditional": "花",
+      "pinyin": "huā",
+      "meaning": "flower",
+      "hsk": 3
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "春天",
+      "traditional": "春天",
+      "pinyin": "chūn tiān",
+      "meaning": "spring (season)",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "对了",
+      "traditional": "對了",
+      "pinyin": "duì le",
+      "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公园",
+      "traditional": "公園",
+      "pinyin": "gōng yuán",
+      "meaning": "public park",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to open",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几点",
+      "traditional": "幾點",
+      "pinyin": "jǐ diǎn",
+      "meaning": "what time?\nwhen?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "meaning": "to see\nto meet",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "flower",
+        "tc_hanzi": "花"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "春天",
+        "pinyin": "chūn tiān",
+        "meaning": "spring (season)",
+        "tc_hanzi": "春天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "对了",
+        "pinyin": "duì le",
+        "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+        "tc_hanzi": "對了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "flower",
+        "tc_hanzi": "花"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "flower",
+        "tc_hanzi": "花"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "春天",
+        "pinyin": "chūn tiān",
+        "meaning": "spring (season)",
+        "tc_hanzi": "春天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "flower",
+        "tc_hanzi": "花"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to open",
+        "tc_hanzi": "開"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "花",
+        "pinyin": "huā",
+        "meaning": "flower",
+        "tc_hanzi": "花"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几点",
+        "pinyin": "jǐ diǎn",
+        "meaning": "what time?\nwhen?",
+        "tc_hanzi": "幾點"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "to see\nto meet",
+        "tc_hanzi": "見"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Do you want to go look at flowers?",
+    "syllable_times": [
+      0.53,
+      2.395019054990062,
+      2.395019054990062,
+      2.934955085702107,
+      3.19,
+      3.49,
+      4.957832115257205,
+      4.957832115257205,
+      4.957832115257205,
+      5.4374650983901365,
+      6.6,
+      6.844373746281123,
+      7.6630950638174085,
+      8.05025746627612,
+      8.74,
+      9.25,
+      9.514943611627185,
+      9.86,
+      10.31,
+      10.57,
+      10.873157880907264,
+      11.96,
+      12.36,
+      12.61,
+      12.86,
+      13.25,
+      13.54,
+      13.83,
+      14.1,
+      15.573773918286738,
+      15.573773918286738,
+      15.89,
+      17.478747634389943,
+      17.478747634389943,
+      17.478747634389943,
+      17.89,
+      18.25,
+      18.695,
+      19.66,
+      19.939999999999998,
+      20.22,
+      20.41,
+      20.99,
+      21.36,
+      22.09,
+      22.48,
+      22.884999999999998,
+      23.78,
+      24.130000000000003,
+      24.66,
+      24.98,
+      25.26,
+      26.71567955812542,
+      26.71567955812542,
+      27.87,
+      28.23411118232547,
+      28.56,
+      29.79,
+      30.16,
+      30.53,
+      30.945,
+      32.24552662139613,
+      32.24552662139613,
+      32.24552662139613,
+      32.74,
+      34.170781726366144,
+      34.170781726366144,
+      34.61133514449924,
+      35.53,
+      35.93636279905723,
+      36.30363095584142,
+      38.066508,
+      38.066508
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      10,
+      11,
+      26,
+      33,
+      34,
+      39,
+      40,
+      55,
+      60,
+      61,
+      72,
+      73,
+      78,
+      79,
+      86
+    ],
+    "sentence_translations": [
+      "Look at Flowers",
+      "",
+      "Ben: Spring has arrived!",
+      "",
+      "Little Yu: It sure has! Oh, that’s right, Lili and I are going to look at flowers tomorrow.",
+      "Are you going together with us?",
+      "",
+      "Ben: To look at flowers?",
+      "",
+      "Little Yu: Spring has arrived, the flowers in the park are blooming, it’s very beautiful.",
+      "We are going to look at the flowers.",
+      "",
+      "Ben: Ok! I am coming too. At what time tomorrow?",
+      "",
+      "Little Yu: 10 o’clock.",
+      "",
+      "Ben: Alright. See you tomorrow.",
+      ""
+    ]
+  }
+}

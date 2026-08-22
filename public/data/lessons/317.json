@@ -1,0 +1,442 @@
+{
+  "id": "317",
+  "title": "Ben’s Diary – Taking a Taxi",
+  "level": "newbie",
+  "date": "2017-05-05",
+  "synopsis": "Ben writes a diary entry about taking a taxi to school.",
+  "audioUrl": "https://static.duchinese.net/documents/411/8366326a3b15112b2e7784c740f23a75411087fd.mp3?1589790977",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 19,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "本的日记-坐出租车\n\n    今天下雨了。我坐出租车去学校。在中国，坐出租车又快又便宜。我喜欢坐出租车。",
+    "traditional": "本的日記-坐出租車\n\n    今天下雨了。我坐出租車去學校。在中國，坐出租車又快又便宜。我喜歡坐出租車。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ben’s Diary — Taking a Taxi"
+    },
+    {
+      "index": 2,
+      "simplified": "今天下雨了。我坐出租车去学校。",
+      "traditional": "今天下雨了。我坐出租車去學校。",
+      "pinyin": "jīn tiān xià yǔ le wǒ zuò chū zū chē qù xué xiào",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "在中国，坐出租车又快又便宜。",
+      "traditional": "在中國，坐出租車又快又便宜。",
+      "pinyin": "zài zhōng guó zuò chū zū chē yòu kuài yòu pián yi",
+      "english": "Today it rained. I took a taxi to school."
+    },
+    {
+      "index": 4,
+      "simplified": "我喜欢坐出租车。",
+      "traditional": "我喜歡坐出租車。",
+      "pinyin": "wǒ xǐ huan zuò chū zū chē",
+      "english": "In China, taking a taxi is both fast and cheap."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出租车",
+      "traditional": "出租車",
+      "pinyin": "chū zū chē",
+      "meaning": "taxi",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "both... and...",
+      "hsk": 3
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "便宜",
+      "traditional": "便宜",
+      "pinyin": "pián yi",
+      "meaning": "cheap\ninexpensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "-",
+        "tc_hanzi": "-"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "both... and...",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "both... and...",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap\ninexpensive",
+        "tc_hanzi": "便宜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben writes a diary entry about taking a taxi to school.",
+    "syllable_times": [
+      0.3514739229024943,
+      0.6179138321995464,
+      0.91,
+      1.8707482993197277,
+      2.1712018140589566,
+      2.5510204081632653,
+      2.8117913832199544,
+      4.030612244897959,
+      4.331065759637188,
+      4.642857142857142,
+      5.022675736961451,
+      5.311791383219955,
+      6.462585034013605,
+      6.77437641723356,
+      7.103174603174603,
+      7.409297052154195,
+      7.590702947845805,
+      8.248299319727892,
+      8.622448979591837,
+      8.945,
+      10.02,
+      10.336666666666666,
+      10.653333333333334,
+      11.59,
+      11.933106575963718,
+      12.216553287981858,
+      12.420634920634921,
+      13.112244897959183,
+      13.503401360544217,
+      14.02,
+      14.353741496598639,
+      14.733560090702948,
+      15.64625850340136,
+      16.13378684807256,
+      16.660997732426303,
+      17.001133786848072,
+      17.28,
+      17.630385487528343,
+      17.885487528344672,
+      18.492154
+    ],
+    "sentence_indices": [
+      6,
+      9,
+      19,
+      29
+    ],
+    "sentence_translations": [
+      "Ben’s Diary — Taking a Taxi",
+      "",
+      "Today it rained. I took a taxi to school.",
+      "In China, taking a taxi is both fast and cheap.",
+      "I like taking a taxi."
+    ]
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "id": "609",
+  "title": "How Far is the City Center",
+  "level": "elementary",
+  "date": "2018-12-01",
+  "synopsis": "Ben asks a passerby how far it is to the city center.",
+  "audioUrl": "https://static.duchinese.net/documents/903/8339cb7d9c7ba317478a1275f66fc93f635a95d0.mp3?1575020996",
+  "series": {
+    "title": "Ben’s life in China 5: You’re my best friend",
+    "chapter": 4,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "去市中心要多少分钟\n\n本：你好！请问去市中心要多少分钟？\n路人：走路去要40分钟。\n本：好远啊！\n路人：那你可以坐公共汽车去，5路车可以到。\n本：坐公共汽车去要多少分钟？\n路人：15分钟。\n本：好的，谢谢你！",
+    "traditional": "去市中心要多少分鐘\n\n本：你好！請問去市中心要多少分鐘？\n路人：走路去要40分鐘。\n本：好遠啊！\n路人：那你可以坐公共汽車去，5路車可以到。\n本：坐公共汽車去要多少分鐘？\n路人：15分鐘。\n本：好的，謝謝你！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How many minutes does it take to go to the city center?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：你好！请问去市中心要多少分钟？",
+      "traditional": "本：你好！請問去市中心要多少分鐘？",
+      "pinyin": "běn nǐ hǎo qǐng wèn qù shì zhōng xīn yào duō shao fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Hello! May I ask how many minutes it takes to go to the city center?"
+    },
+    {
+      "index": 4,
+      "simplified": "路人：走路去要40分钟。",
+      "traditional": "路人：走路去要40分鐘。",
+      "pinyin": "lù rén zǒu lù qù yào 2 fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Passerby: By foot it takes 40 minutes."
+    },
+    {
+      "index": 6,
+      "simplified": "本：好远啊！",
+      "traditional": "本：好遠啊！",
+      "pinyin": "běn hǎo yuǎn a",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: That’s really far!"
+    },
+    {
+      "index": 8,
+      "simplified": "路人：那你可以坐公共汽车去，5路车可以到。",
+      "traditional": "路人：那你可以坐公共汽車去，5路車可以到。",
+      "pinyin": "lù rén nà nǐ kě yǐ zuò gōng gòng qì chē qù 1 lù chē kě yǐ dào",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Passerby: Then you can take the public bus. Line 5 goes there."
+    },
+    {
+      "index": 10,
+      "simplified": "本：坐公共汽车去要多少分钟？",
+      "traditional": "本：坐公共汽車去要多少分鐘？",
+      "pinyin": "běn zuò gōng gòng qì chē qù yào duō shao fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How many minutes does it take by bus?"
+    },
+    {
+      "index": 12,
+      "simplified": "路人：15分钟。",
+      "traditional": "路人：15分鐘。",
+      "pinyin": "lù rén 2 fēn zhōng",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Passerby: 15 minutes."
+    },
+    {
+      "index": 14,
+      "simplified": "本：好的，谢谢你！",
+      "traditional": "本：好的，謝謝你！",
+      "pinyin": "běn hǎo de xiè xie nǐ",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Ok, thank you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "市",
+      "traditional": "市",
+      "pinyin": "shì",
+      "meaning": "city",
+      "hsk": 3
+    },
+    {
+      "hanzi": "中心",
+      "traditional": "中心",
+      "pinyin": "zhōng xīn",
+      "meaning": "center\ncore",
+      "hsk": 5
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "路人",
+      "traditional": "路人",
+      "pinyin": "lù rén",
+      "meaning": "passerby\nstranger",
+      "hsk": null
+    },
+    {
+      "hanzi": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "meaning": "to walk\nto go on foot",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公共汽车",
+      "traditional": "公共汽車",
+      "pinyin": "gōng gòng qì chē",
+      "meaning": "bus",
+      "hsk": 2
+    },
+    {
+      "hanzi": "路",
+      "traditional": "路",
+      "pinyin": "lù",
+      "meaning": "route\nline (bus etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "meaning": "car\nvehicle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "市",
+        "pinyin": "shì",
+        "meaning": "city",
+        "tc_hanzi": "市"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中心",
+        "pinyin": "zhōng xīn",
+        "meaning": "center\ncore",
+        "tc_hanzi": "中心"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "市",
+        "pinyin": "shì",
+        "meaning": "city",
+        "tc_hanzi": "市"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "中心",
+        "pinyin": "zhōng xīn",
+        "meaning": "center\ncore",
+        "tc_hanzi": "中心"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "路人",
+        "pinyin": "lù rén",
+        "meaning": "passerby\nstranger",
+        "tc_hanzi": "路人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "走路",
+        "pinyin": "zǒu lù",
+        "meaning": "to walk\nto go on foot",
+        "tc_hanzi": "走路"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "40",
+        "pinyin": "2",
+        "tc_hanzi": "40"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "路人",
+        "pinyin": "lù rén",
+        "meaning": "passerby\nstranger",
+        "tc_hanzi": "路人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路",
+        "pinyin": "lù",
+        "meaning": "route\nline (bus etc)",
+        "tc_hanzi": "路"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "路人",
+        "pinyin": "lù rén",
+        "meaning": "passerby\nstranger",
+        "tc_hanzi": "路人"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks a passerby how far it is to the city center.",
+    "syllable_times": [
+      0.7,
+      1.1433333333333333,
+      1.5866666666666664,
+      2.28,
+      2.76,
+      3.17,
+      3.61,
+      3.9399999999999995,
+      5.5134264309428,
+      5.5134264309428,
+      5.915,
+      7.03,
+      7.45,
+      8.2,
+      8.7,
+      9.066666666666666,
+      9.433333333333334,
+      10.04,
+      10.59,
+      10.91,
+      11.23,
+      11.585,
+      13.911370943392775,
+      13.911370943392775,
+      13.911370943392775,
+      14.29,
+      14.65,
+      15.45,
+      15.96,
+      16.39,
+      16.77,
+      17.155,
+      18.600756001282342,
+      18.600756001282342,
+      19.12811412744898,
+      19.52,
+      20.989239987528514,
+      20.989239987528514,
+      20.989239987528514,
+      21.36,
+      21.96,
+      22.28,
+      22.6,
+      23.18,
+      23.5425,
+      23.905,
+      24.2675,
+      24.63,
+      25.8,
+      26.15,
+      26.42,
+      27,
+      27.29,
+      27.61,
+      29.713572427910027,
+      29.713572427910027,
+      30.26,
+      30.5725,
+      30.885,
+      31.1975,
+      31.51,
+      32.27536160481177,
+      33,
+      33.27,
+      33.6,
+      33.975,
+      36.11118437623642,
+      36.11118437623642,
+      36.11118437623642,
+      36.545,
+      36.89,
+      37.285,
+      38.548532274878575,
+      38.548532274878575,
+      39.01351470870293,
+      39.73,
+      40.14850422419262,
+      40.50003200738586,
+      41.099932,
+      41.099932
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      20,
+      21,
+      29,
+      30,
+      36,
+      37,
+      52,
+      53,
+      62,
+      63,
+      68,
+      69,
+      76
+    ],
+    "sentence_translations": [
+      "How many minutes does it take to go to the city center?",
+      "",
+      "Ben: Hello! May I ask how many minutes it takes to go to the city center?",
+      "",
+      "Passerby: By foot it takes 40 minutes.",
+      "",
+      "Ben: That’s really far!",
+      "",
+      "Passerby: Then you can take the public bus. Line 5 goes there.",
+      "",
+      "Ben: How many minutes does it take by bus?",
+      "",
+      "Passerby: 15 minutes.",
+      "",
+      "Ben: Ok, thank you!",
+      ""
+    ]
+  }
+}

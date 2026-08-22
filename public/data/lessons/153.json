@@ -1,0 +1,930 @@
+{
+  "id": "153",
+  "title": "Little Ming's Essay",
+  "level": "elementary",
+  "date": "2016-07-27",
+  "synopsis": "Little Ming writes an essay in class, but the teacher notices that it is strikingly similar to Little Hong's essay. As always, Little Ming has an explanation for everything.",
+  "audioUrl": "https://static.duchinese.net/documents/198/3bc566ad0e430032262cd62a795f703b9b33efa4.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "姐姐和表姐\n\n    一天，上作文课时，老师问小明：“小明，为什么你写的作文“我的表姐”和小红写的作文“我的姐姐”除了称呼不一样，其他的都一样呢？”\n    小明说：“没错呀。小红的姐姐就是我的表姐，我们写的是同一个人。”",
+    "traditional": "姐姐和表姐\n\n    一天，上作文課時，老師問小明：“小明，為什麼你寫的作文“我的表姐”和小紅寫的作文“我的姐姐”除了稱呼不一樣，其他的都一樣呢？”\n    小明說：“沒錯呀。小紅的姐姐就是我的表姐，我們寫的是同一個人。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Sister and Cousin"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，上作文课时，老师问小明：",
+      "traditional": "一天，上作文課時，老師問小明：",
+      "pinyin": "yì tiān shàng zuò wén kè shí lǎo shī wèn xiǎo míng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "“小明，为什么你写的作文“我的表姐”和小红写的作文“我的姐姐”除了称呼不一样，其他的都一样呢？”",
+      "traditional": "“小明，為什麼你寫的作文“我的表姐”和小紅寫的作文“我的姐姐”除了稱呼不一樣，其他的都一樣呢？”",
+      "pinyin": "xiǎo míng wèi shén me nǐ xiě de zuò wén wǒ de biǎo jiě hé xiǎo hóng xiě de zuò wén wǒ de jiě jie chú le chēng hu bù yí yàng qí tā de dōu yí yàng ne",
+      "english": "One day in essay class, the teacher asked Little Ming:"
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming, how come your essay “My Cousin” and Little Hong's essay “My Sister” are identical except for the form of address?"
+    },
+    {
+      "index": 5,
+      "simplified": "小明说：“没错呀。小红的姐姐就是我的表姐，我们写的是同一个人。”",
+      "traditional": "小明說：“沒錯呀。小紅的姐姐就是我的表姐，我們寫的是同一個人。”",
+      "pinyin": "xiǎo míng shuō méi cuò ya xiǎo hóng de jiě jie jiù shì wǒ de biǎo jiě wǒ men xiě de shì tóng yí ge rén",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "姐姐",
+      "traditional": "姐姐",
+      "pinyin": "jiě jie",
+      "meaning": "older sister",
+      "hsk": 2
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "表姐",
+      "traditional": "表姐",
+      "pinyin": "biǎo jiě",
+      "meaning": "older female cousin via female line",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "to get onto\nto go up",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作文",
+      "traditional": "作文",
+      "pinyin": "zuò wén",
+      "meaning": "to write an essay\ncomposition (student essay)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "meaning": "class\nlesson",
+      "hsk": 2
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "红",
+      "traditional": "紅",
+      "pinyin": "hóng",
+      "meaning": "surname Hong",
+      "hsk": 2
+    },
+    {
+      "hanzi": "除了",
+      "traditional": "除了",
+      "pinyin": "chú le",
+      "meaning": "apart from (... also...)\nin addition to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "称呼",
+      "traditional": "稱呼",
+      "pinyin": "chēng hu",
+      "meaning": "to call\nto address as\nform of address",
+      "hsk": 5
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "其他",
+      "traditional": "其他",
+      "pinyin": "qí tā",
+      "meaning": "other\nthe rest",
+      "hsk": 3
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没错",
+      "traditional": "沒錯",
+      "pinyin": "méi cuò",
+      "meaning": "that's right\nsure!\nrest assured!",
+      "hsk": null
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "同",
+      "traditional": "同",
+      "pinyin": "tóng",
+      "meaning": "like\nsame\nsimilar",
+      "hsk": 4
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "姐姐",
+        "pinyin": "jiě jie",
+        "meaning": "older sister",
+        "tc_hanzi": "姐姐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "表姐",
+        "pinyin": "biǎo jiě",
+        "meaning": "older female cousin via female line",
+        "tc_hanzi": "表姐"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "作文",
+        "pinyin": "zuò wén",
+        "meaning": "to write an essay\ncomposition (student essay)",
+        "tc_hanzi": "作文"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "作文",
+        "pinyin": "zuò wén",
+        "meaning": "to write an essay\ncomposition (student essay)",
+        "tc_hanzi": "作文"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "表姐",
+        "pinyin": "biǎo jiě",
+        "meaning": "older female cousin via female line",
+        "tc_hanzi": "表姐"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "surname Hong",
+        "tc_hanzi": "紅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "作文",
+        "pinyin": "zuò wén",
+        "meaning": "to write an essay\ncomposition (student essay)",
+        "tc_hanzi": "作文"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "姐姐",
+        "pinyin": "jiě jie",
+        "meaning": "older sister",
+        "tc_hanzi": "姐姐"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "chule",
+        "hsk": 3,
+        "hanzi": "除了",
+        "pinyin": "chú le",
+        "meaning": "apart from (... also...)\nin addition to",
+        "tc_hanzi": "除了"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "称呼",
+        "pinyin": "chēng hu",
+        "meaning": "to call\nto address as\nform of address",
+        "tc_hanzi": "稱呼"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "其他",
+        "pinyin": "qí tā",
+        "meaning": "other\nthe rest",
+        "tc_hanzi": "其他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "没错",
+        "pinyin": "méi cuò",
+        "meaning": "that's right\nsure!\nrest assured!",
+        "tc_hanzi": "沒錯"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "surname Hong",
+        "tc_hanzi": "紅"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "姐姐",
+        "pinyin": "jiě jie",
+        "meaning": "older sister",
+        "tc_hanzi": "姐姐"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "表姐",
+        "pinyin": "biǎo jiě",
+        "meaning": "older female cousin via female line",
+        "tc_hanzi": "表姐"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "同",
+        "pinyin": "tóng",
+        "meaning": "like\nsame\nsimilar",
+        "tc_hanzi": "同"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming writes an essay in class, but the teacher notices that it is strikingly similar to Little Hong's essay. As always, Little Ming has an explanation for everything.",
+    "syllable_times": [
+      0.453514739229025,
+      1.08843537414966,
+      1.405895691609977,
+      1.8140589569161,
+      3.854875283446712,
+      4.172335600907029,
+      5.079365079365079,
+      5.532879818594104,
+      5.850340136054422,
+      6.077097505668934,
+      6.485260770975056,
+      7.755102040816326,
+      8.210452065659377,
+      8.571428571428571,
+      8.84551465637336,
+      9.206349206349206,
+      10.8843537414966,
+      11.29251700680272,
+      12.24489795918367,
+      12.56235827664399,
+      12.97052154195011,
+      13.74149659863946,
+      14.0906464335137,
+      14.5578231292517,
+      14.82993197278912,
+      15.19274376417234,
+      16.3718820861678,
+      16.78004535147392,
+      17.05215419501134,
+      17.46031746031746,
+      18.68480725623583,
+      19.27437641723356,
+      19.81859410430839,
+      20.12374104529655,
+      20.54421768707483,
+      20.77097505668934,
+      21.13378684807256,
+      22.08616780045352,
+      22.49433106575964,
+      22.76643990929705,
+      23.17460317460317,
+      24.30839002267574,
+      24.69171316325967,
+      24.94331065759637,
+      25.3968253968254,
+      25.71428571428572,
+      26.04122116852689,
+      26.21315192743764,
+      26.98412698412698,
+      27.3015873015873,
+      27.61904761904762,
+      28.16326530612245,
+      28.47940790073237,
+      28.66213151927438,
+      28.93424036281179,
+      30.74829931972789,
+      31.06575963718821,
+      31.36898003526662,
+      32.47165532879819,
+      32.87725368821233,
+      33.28798185941043,
+      34.24036281179139,
+      34.69387755102041,
+      34.96598639455782,
+      35.28344671201814,
+      35.69160997732426,
+      36.4172335600907,
+      36.78969286314671,
+      37.23356009070294,
+      37.59637188208617,
+      37.86848072562358,
+      38.27664399092971,
+      39.59183673469388,
+      39.8639455782313,
+      40.09070294784581,
+      40.54421768707483,
+      40.95238095238095,
+      41.31519274376417,
+      41.67800453514739,
+      41.9501133786848,
+      42.23166228247999,
+      42.9120634920635,
+      42.9120634920635
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      18,
+      54,
+      56
+    ],
+    "sentence_translations": [
+      "Sister and Cousin",
+      "",
+      "One day in essay class, the teacher asked Little Ming:",
+      "Little Ming, how come your essay “My Cousin” and Little Hong's essay “My Sister” are identical except for the form of address?",
+      "",
+      "Little Ming said: “That's right. Little Hong's sister is my cousin, we are writing about the same person.”"
+    ]
+  }
+}

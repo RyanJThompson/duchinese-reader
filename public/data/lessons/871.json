@@ -1,0 +1,590 @@
+{
+  "id": "871",
+  "title": "How Many Students?",
+  "level": "newbie",
+  "date": "2020-02-27",
+  "synopsis": "Lili is asking Ben about his class.",
+  "audioUrl": "https://static.duchinese.net/documents/871/535359225c8f813cbd74930a6e3bbcc7a3f3650e.mp3?1582276820",
+  "series": null,
+  "fullText": {
+    "simplified": "你们班有多少名学生？\n\n丽丽：你们班有多少名学生？\n本：我们班有30名学生。\n丽丽：他们都是外国人吗？\n本：是的。我们在一起学汉语。",
+    "traditional": "你們班有多少名學生？\n\n麗麗：你們班有多少名學生？\n本：我們班有30名學生。\n麗麗：他們都是外國人嗎？\n本：是的。我們在一起學漢語。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How many students are in your class?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：你们班有多少名学生？",
+      "traditional": "麗麗：你們班有多少名學生？",
+      "pinyin": "lì lì nǐ men bān yǒu duō shao míng xué sheng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: How many students are in your class?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：我们班有30名学生。",
+      "traditional": "本：我們班有30名學生。",
+      "pinyin": "běn wǒ men bān yǒu 2 míng xué sheng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Our class has 30 students."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：他们都是外国人吗？",
+      "traditional": "麗麗：他們都是外國人嗎？",
+      "pinyin": "lì lì tā men dōu shì wài guó rén ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Are they all foreigners?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：是的。我们在一起学汉语。",
+      "traditional": "本：是的。我們在一起學漢語。",
+      "pinyin": "běn shì de wǒ men zài yì qǐ xué hàn yǔ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Yes, they are. We study Chinese together."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "班",
+      "traditional": "班",
+      "pinyin": "bān",
+      "meaning": "team\nclass\nsquad",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名",
+      "traditional": "名",
+      "pinyin": "míng",
+      "meaning": "classifier for people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "meaning": "student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "外国人",
+      "traditional": "外國人",
+      "pinyin": "wài guó rén",
+      "meaning": "foreigner",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是的",
+      "traditional": "是的",
+      "pinyin": "shì de",
+      "meaning": "yes, that's right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "meaning": "to study\nto learn",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "班",
+        "pinyin": "bān",
+        "meaning": "team\nclass\nsquad",
+        "tc_hanzi": "班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "classifier for people",
+        "tc_hanzi": "名"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "班",
+        "pinyin": "bān",
+        "meaning": "team\nclass\nsquad",
+        "tc_hanzi": "班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "classifier for people",
+        "tc_hanzi": "名"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "班",
+        "pinyin": "bān",
+        "meaning": "team\nclass\nsquad",
+        "tc_hanzi": "班"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "30",
+        "pinyin": "2",
+        "tc_hanzi": "30"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "classifier for people",
+        "tc_hanzi": "名"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "外国人",
+        "pinyin": "wài guó rén",
+        "meaning": "foreigner",
+        "tc_hanzi": "外國人"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是的",
+        "pinyin": "shì de",
+        "meaning": "yes, that's right",
+        "tc_hanzi": "是的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili is asking Ben about his class.",
+    "syllable_times": [
+      0.24,
+      0.43,
+      0.89,
+      1.1566666666666667,
+      1.4233333333333333,
+      1.69,
+      1.84,
+      2.1350000000000002,
+      3.9379893221901123,
+      3.9379893221901123,
+      3.9379893221901123,
+      4.14,
+      4.34,
+      4.92,
+      5.455320681950129,
+      5.630661877124597,
+      5.9,
+      6.11,
+      6.48,
+      8.057043274316205,
+      8.057043274316205,
+      8.25,
+      8.41,
+      8.93,
+      9.21,
+      9.485,
+      9.76,
+      9.9,
+      10.2,
+      11.870269786450265,
+      11.870269786450265,
+      11.870269786450265,
+      12.223614239478973,
+      12.63,
+      12.955,
+      13.36,
+      13.593333333333334,
+      13.826666666666666,
+      14.06,
+      16.231083397611194,
+      16.231083397611194,
+      16.637802207369376,
+      17.28,
+      17.44,
+      17.6,
+      17.8,
+      18.03,
+      18.26,
+      18.52,
+      18.83,
+      19.445125,
+      19.445125
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      18,
+      19,
+      28,
+      29,
+      37,
+      38,
+      48
+    ],
+    "sentence_translations": [
+      "How many students are in your class?",
+      "",
+      "Lili: How many students are in your class?",
+      "",
+      "Ben: Our class has 30 students.",
+      "",
+      "Lili: Are they all foreigners?",
+      "",
+      "Ben: Yes, they are. We study Chinese together.",
+      ""
+    ]
+  }
+}

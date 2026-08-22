@@ -1,0 +1,509 @@
+{
+  "id": "643",
+  "title": "I’m Hungry",
+  "level": "newbie",
+  "date": "2019-01-12",
+  "synopsis": "Little Ming says he’s hungry, but how come he does not want to have a meal?",
+  "audioUrl": "https://static.duchinese.net/documents/934/4ca3dac4fece0bdb3190592995cc21f2fdf69b4c.mp3?1698350267",
+  "series": null,
+  "fullText": {
+    "simplified": "我饿了\n\n小明：奶奶，我饿了。\n奶奶：吃饭吧。\n小明：我不想吃饭。\n奶奶：你想吃什么？\n小明：我想吃巧克力。",
+    "traditional": "我餓了\n\n小明：奶奶，我餓了。\n奶奶：吃飯吧。\n小明：我不想吃飯。\n奶奶：你想吃什麼？\n小明：我想吃巧克力。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I’m Hungry"
+    },
+    {
+      "index": 2,
+      "simplified": "小明：奶奶，我饿了。",
+      "traditional": "小明：奶奶，我餓了。",
+      "pinyin": "xiǎo míng nǎi nai wǒ è le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Grandma, I’m hungry."
+    },
+    {
+      "index": 4,
+      "simplified": "奶奶：吃饭吧。",
+      "traditional": "奶奶：吃飯吧。",
+      "pinyin": "nǎi nai chī fàn ba",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Grandma: Let’s have a meal then."
+    },
+    {
+      "index": 6,
+      "simplified": "小明：我不想吃饭。",
+      "traditional": "小明：我不想吃飯。",
+      "pinyin": "xiǎo míng wǒ bù xiǎng chī fàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: I don’t want to have a meal."
+    },
+    {
+      "index": 8,
+      "simplified": "奶奶：你想吃什么？",
+      "traditional": "奶奶：你想吃什麼？",
+      "pinyin": "nǎi nai nǐ xiǎng chī shén me",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Grandma: What do you want to eat?"
+    },
+    {
+      "index": 10,
+      "simplified": "小明：我想吃巧克力。",
+      "traditional": "小明：我想吃巧克力。",
+      "pinyin": "xiǎo míng wǒ xiǎng chī qiǎo kè lì",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: I want to eat chocolate."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饿",
+      "traditional": "餓",
+      "pinyin": "è",
+      "meaning": "to be hungry\nhungry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "奶奶",
+      "traditional": "奶奶",
+      "pinyin": "nǎi nai",
+      "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "巧克力",
+      "traditional": "巧克力",
+      "pinyin": "qiǎo kè lì",
+      "meaning": "chocolate (loanword)",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "饿",
+        "pinyin": "è",
+        "meaning": "to be hungry\nhungry",
+        "tc_hanzi": "餓"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "饿",
+        "pinyin": "è",
+        "meaning": "to be hungry\nhungry",
+        "tc_hanzi": "餓"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "巧克力",
+        "pinyin": "qiǎo kè lì",
+        "meaning": "chocolate (loanword)",
+        "tc_hanzi": "巧克力"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming says he’s hungry, but how come he does not want to have a meal?",
+    "syllable_times": [
+      0.79,
+      1.1961451247165533,
+      3.452380952380952,
+      3.452380952380952,
+      3.452380952380952,
+      3.8548752834467117,
+      4.7,
+      5.0396825396825395,
+      5.600907029478458,
+      7.33,
+      7.33,
+      7.33,
+      7.811791383219955,
+      8.22562358276644,
+      9.82,
+      9.82,
+      9.82,
+      10.64,
+      10.901360544217686,
+      11.23015873015873,
+      11.598639455782312,
+      13.04,
+      13.04,
+      13.04,
+      13.429705215419501,
+      14.08,
+      14.591836734693876,
+      15.073696145124716,
+      16.45,
+      16.45,
+      16.45,
+      16.780045351473923,
+      17.15986394557823,
+      17.91,
+      18.299319727891156,
+      18.497732426303855,
+      19.5
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      13,
+      14,
+      19,
+      20,
+      27,
+      28,
+      35,
+      36,
+      43
+    ],
+    "sentence_translations": [
+      "I’m Hungry",
+      "",
+      "Little Ming: Grandma, I’m hungry.",
+      "",
+      "Grandma: Let’s have a meal then.",
+      "",
+      "Little Ming: I don’t want to have a meal.",
+      "",
+      "Grandma: What do you want to eat?",
+      "",
+      "Little Ming: I want to eat chocolate.",
+      ""
+    ]
+  }
+}

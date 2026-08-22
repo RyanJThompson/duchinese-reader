@@ -1,0 +1,977 @@
+{
+  "id": "771",
+  "title": "Which Shirt?",
+  "level": "newbie",
+  "date": "2019-07-09",
+  "synopsis": "Where has Little He’s new shirt gone?",
+  "audioUrl": "https://static.duchinese.net/documents/1092/cad5faf86ce468fd8c3957f1a7ab8caeac9c5b70.mp3?1562489138",
+  "series": null,
+  "fullText": {
+    "simplified": "哪件衣服？\n\n小何：丽丽，我的衣服去哪儿了？\n丽丽：哪件衣服？\n小何：新买的那件黑色的。\n丽丽：那件我洗了。\n小何：为什么洗了？我今天要穿的！\n丽丽：新衣服就是要洗了才能穿啊！你穿这件白色的吧！\n小何：好吧！",
+    "traditional": "哪件衣服？\n\n小何：麗麗，我的衣服去哪兒了？\n麗麗：哪件衣服？\n小何：新買的那件黑色的。\n麗麗：那件我洗了。\n小何：為什麼洗了？我今天要穿的！\n麗麗：新衣服就是要洗了才能穿啊！你穿這件白色的吧！\n小何：好吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Which Shirt?"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：丽丽，我的衣服去哪儿了？",
+      "traditional": "小何：麗麗，我的衣服去哪兒了？",
+      "pinyin": "xiǎo hé lì lì wǒ de yī fu qù nǎ'r le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Lili, where has my shirt gone?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：哪件衣服？",
+      "traditional": "麗麗：哪件衣服？",
+      "pinyin": "lì lì nǎ jiàn yī fu",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Which shirt?"
+    },
+    {
+      "index": 6,
+      "simplified": "小何：新买的那件黑色的。",
+      "traditional": "小何：新買的那件黑色的。",
+      "pinyin": "xiǎo hé xīn mǎi de nèi jiàn hēi sè de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: That black newly bought one."
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：那件我洗了。",
+      "traditional": "麗麗：那件我洗了。",
+      "pinyin": "lì lì nà jiàn wǒ xǐ le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I washed that one."
+    },
+    {
+      "index": 10,
+      "simplified": "小何：为什么洗了？我今天要穿的！",
+      "traditional": "小何：為什麼洗了？我今天要穿的！",
+      "pinyin": "xiǎo hé wèi shén me xǐ le wǒ jīn tiān yào chuān de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Why did you wash it? I want to wear that today!"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：新衣服就是要洗了才能穿啊！你穿这件白色的吧！",
+      "traditional": "麗麗：新衣服就是要洗了才能穿啊！你穿這件白色的吧！",
+      "pinyin": "lì lì xīn yī fu jiù shì yào xǐ le cái néng chuān a nǐ chuān zhè jiàn bái sè de ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: You have to wash new clothes before you can wear them! Wear this white one!"
+    },
+    {
+      "index": 14,
+      "simplified": "小何：好吧！",
+      "traditional": "小何：好吧！",
+      "pinyin": "xiǎo hé hǎo ba",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little He: Ok!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "件",
+      "traditional": "件",
+      "pinyin": "jiàn",
+      "meaning": "classifier for events, things, clothes etc",
+      "hsk": 2
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nèi",
+      "meaning": "that (before a classifier)\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēi sè",
+      "meaning": "black",
+      "hsk": null
+    },
+    {
+      "hanzi": "洗",
+      "traditional": "洗",
+      "pinyin": "xǐ",
+      "meaning": "to wash\nto bathe",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "穿",
+      "traditional": "穿",
+      "pinyin": "chuān",
+      "meaning": "to wear\nto put on",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "白色",
+      "traditional": "白色",
+      "pinyin": "bái sè",
+      "meaning": "white",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好吧",
+      "traditional": "好吧",
+      "pinyin": "hǎo ba",
+      "meaning": "OK (reluctantly)\nalright...",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "na",
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "na",
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nèi",
+        "meaning": "that (before a classifier)\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "黑色",
+        "pinyin": "hēi sè",
+        "meaning": "black",
+        "tc_hanzi": "黑色"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "to wash\nto bathe",
+        "tc_hanzi": "洗"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "to wash\nto bathe",
+        "tc_hanzi": "洗"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "to wash\nto bathe",
+        "tc_hanzi": "洗"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "cai-lateness",
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 2,
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "classifier for events, things, clothes etc",
+        "tc_hanzi": "件"
+      },
+      {
+        "hanzi": "白色",
+        "pinyin": "bái sè",
+        "meaning": "white",
+        "tc_hanzi": "白色"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吧",
+        "pinyin": "hǎo ba",
+        "meaning": "OK (reluctantly)\nalright...",
+        "tc_hanzi": "好吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Where has Little He’s new shirt gone?",
+    "syllable_times": [
+      0.41,
+      0.7749999999999999,
+      1.14,
+      3.0223573986544094,
+      3.0223573986544094,
+      3.0223573986544094,
+      3.3200000000000003,
+      4.27,
+      4.47,
+      4.67,
+      4.945,
+      5.22,
+      5.5,
+      5.81,
+      7.492494680611752,
+      7.492494680611752,
+      7.492494680611752,
+      7.95,
+      8.2,
+      8.515,
+      10.249157635319637,
+      10.249157635319637,
+      10.249157635319637,
+      10.6,
+      10.85792809104098,
+      11.01,
+      11.285,
+      11.68,
+      12.01,
+      12.34,
+      13.89442335918979,
+      13.89442335918979,
+      13.89442335918979,
+      14.260767024521229,
+      14.8,
+      15.090646668040604,
+      15.44365021199958,
+      17.189687593558755,
+      17.189687593558755,
+      17.189687593558755,
+      17.486666666666668,
+      17.69333333333333,
+      17.9,
+      18.195,
+      19.13,
+      19.36,
+      19.665,
+      20,
+      20.23,
+      20.59,
+      22.205706187624415,
+      22.205706187624415,
+      22.205706187624415,
+      22.63,
+      22.990000000000002,
+      23.64,
+      24.045,
+      24.48,
+      24.69,
+      25.16,
+      25.62,
+      25.85,
+      26.08,
+      26.46,
+      27.95,
+      28.24,
+      28.72,
+      28.944606469711935,
+      29.35,
+      29.675,
+      30,
+      30.15,
+      31.742031556649486,
+      31.742031556649486,
+      31.742031556649486,
+      32.1,
+      32.766553,
+      32.766553
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      17,
+      18,
+      24,
+      25,
+      35,
+      36,
+      44,
+      45,
+      57,
+      58,
+      80,
+      81,
+      85
+    ],
+    "sentence_translations": [
+      "Which Shirt?",
+      "",
+      "Little He: Lili, where has my shirt gone?",
+      "",
+      "Lili: Which shirt?",
+      "",
+      "Little He: That black newly bought one.",
+      "",
+      "Lili: I washed that one.",
+      "",
+      "Little He: Why did you wash it? I want to wear that today!",
+      "",
+      "Lili: You have to wash new clothes before you can wear them! Wear this white one!",
+      "",
+      "Little He: Ok!",
+      ""
+    ]
+  }
+}

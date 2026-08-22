@@ -1,0 +1,937 @@
+{
+  "id": "E388",
+  "title": "Get To Work",
+  "level": "intermediate",
+  "date": "2019-12-26",
+  "synopsis": "In China, when young people talk about “carrying bricks”, they mean “to work hard”.",
+  "audioUrl": "https://static.duchinese.net/documents/50388/bc921cb400d6644169964256895263c32e30e201.mp3?1576959295",
+  "series": null,
+  "fullText": {
+    "simplified": "我得去搬砖了\n\n小何：你还没回家啊！\n小张：我的报告还没写完。\n小何：明天再写吧，已经八点了。\n小张：不行，经理明天一早要看。不说了，我得去搬砖了。\n小何：好吧，我先回家了。你也别太晚了。\n",
+    "traditional": "我得去搬磚了\n\n小何：你還沒回家啊！\n小張：我的報告還沒寫完。\n小何：明天再寫吧，已經八點了。\n小張：不行，經理明天一早要看。不說了，我得去搬磚了。\n小何：好吧，我先回家了。你也別太晚了。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I Need To Get To Work"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：你还没回家啊！",
+      "traditional": "小何：你還沒回家啊！",
+      "pinyin": "xiǎo hé nǐ hái méi huí jiā a",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: You still haven’t returned home!"
+    },
+    {
+      "index": 4,
+      "simplified": "小张：我的报告还没写完。",
+      "traditional": "小張：我的報告還沒寫完。",
+      "pinyin": "xiǎo zhāng wǒ de bào gào hái méi xiě wán",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: I still haven’t finished writing my report."
+    },
+    {
+      "index": 6,
+      "simplified": "小何：明天再写吧，已经八点了。",
+      "traditional": "小何：明天再寫吧，已經八點了。",
+      "pinyin": "xiǎo hé míng tiān zài xiě ba yǐ jīng bā diǎn le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Write some more tomorrow, it’s already 8 o’clock."
+    },
+    {
+      "index": 8,
+      "simplified": "小张：不行，经理明天一早要看。不说了，我得去搬砖了。",
+      "traditional": "小張：不行，經理明天一早要看。不說了，我得去搬磚了。",
+      "pinyin": "xiǎo zhāng bù xíng jīng lǐ míng tiān yì zǎo yào kàn bù shuō le wǒ děi qù bān zhuān le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: No, I can’t. The manager wants to see it tomorrow morning. I need to stop talking and get to work."
+    },
+    {
+      "index": 10,
+      "simplified": "小何：好吧，我先回家了。你也别太晚了。",
+      "traditional": "小何：好吧，我先回家了。你也別太晚了。",
+      "pinyin": "xiǎo hé hǎo ba wǒ xiān huí jiā le nǐ yě bié tài wǎn le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Ok, I’ll go back home first. You also shouldn’t be too late."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "děi",
+      "meaning": "to have to\nmust\nto need to",
+      "hsk": 4
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "搬砖",
+      "traditional": "搬磚",
+      "pinyin": "bān zhuān",
+      "meaning": "to do hard physical labor (as a job)\n(lit.) to move bricks",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "报告",
+      "traditional": "報告",
+      "pinyin": "bào gào",
+      "meaning": "to inform\nto report\nreport",
+      "hsk": 5
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "meaning": "eight",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不行",
+      "traditional": "不行",
+      "pinyin": "bù xíng",
+      "meaning": "won't do\nbe out of the question\nbe no good",
+      "hsk": null
+    },
+    {
+      "hanzi": "经理",
+      "traditional": "經理",
+      "pinyin": "jīng lǐ",
+      "meaning": "manager\ndirector",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一早",
+      "traditional": "一早",
+      "pinyin": "yì zǎo",
+      "meaning": "early in the morning\nat dawn",
+      "hsk": null
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好吧",
+      "traditional": "好吧",
+      "pinyin": "hǎo ba",
+      "meaning": "OK (reluctantly)\nalright...",
+      "hsk": 2
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "děi",
+        "meaning": "to have to\nmust\nto need to",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "搬砖",
+        "pinyin": "bān zhuān",
+        "meaning": "to do hard physical labor (as a job)\n(lit.) to move bricks",
+        "tc_hanzi": "搬磚"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "报告",
+        "pinyin": "bào gào",
+        "meaning": "to inform\nto report\nreport",
+        "tc_hanzi": "報告"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不行",
+        "pinyin": "bù xíng",
+        "meaning": "won't do\nbe out of the question\nbe no good",
+        "tc_hanzi": "不行"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hanzi": "一早",
+        "pinyin": "yì zǎo",
+        "meaning": "early in the morning\nat dawn",
+        "tc_hanzi": "一早"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "得",
+        "pinyin": "děi",
+        "meaning": "to have to\nmust\nto need to",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "搬砖",
+        "pinyin": "bān zhuān",
+        "meaning": "to do hard physical labor (as a job)",
+        "tc_hanzi": "搬磚"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "好吧",
+        "pinyin": "hǎo ba",
+        "meaning": "OK (reluctantly)\nalright...",
+        "tc_hanzi": "好吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "In China, when young people talk about “carrying bricks”, they mean “to work hard”.",
+    "syllable_times": [
+      0.3,
+      0.61,
+      1.1744383172306323,
+      1.51,
+      1.87,
+      5.148293826229149,
+      5.148293826229149,
+      5.148293826229149,
+      5.45,
+      5.745,
+      6.04,
+      6.345000000000001,
+      6.65,
+      8.77924048664695,
+      8.77924048664695,
+      8.77924048664695,
+      8.985,
+      9.21,
+      9.545000000000002,
+      9.88,
+      10.115,
+      10.35,
+      10.805,
+      12.814374122817767,
+      12.814374122817767,
+      12.814374122817767,
+      13.205,
+      13.62,
+      13.945,
+      14.27,
+      15.47,
+      15.77,
+      16.07,
+      16.46,
+      16.73,
+      18.771061013317972,
+      18.771061013317972,
+      18.771061013317972,
+      19.17291605424602,
+      20.15,
+      20.38,
+      20.61,
+      20.924999999999997,
+      21.322261883877072,
+      21.57890283906758,
+      21.8,
+      22.102028269153543,
+      23.79,
+      24.081019131638445,
+      24.34,
+      25.18,
+      25.44,
+      25.71446698033627,
+      26.07,
+      26.43,
+      26.77,
+      28.82883144437305,
+      28.82883144437305,
+      28.82883144437305,
+      29.27,
+      30.19,
+      30.58,
+      30.968378094478002,
+      31.19,
+      31.53,
+      32.76,
+      33.1,
+      33.32,
+      33.76,
+      34.2,
+      34.52,
+      35.188354,
+      35.188354
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      15,
+      16,
+      26,
+      27,
+      39,
+      40,
+      60,
+      61,
+      77
+    ],
+    "sentence_translations": [
+      "I Need To Get To Work",
+      "",
+      "Little He: You still haven’t returned home!",
+      "",
+      "Little Zhang: I still haven’t finished writing my report.",
+      "",
+      "Little He: Write some more tomorrow, it’s already 8 o’clock.",
+      "",
+      "Little Zhang: No, I can’t. The manager wants to see it tomorrow morning. I need to stop talking and get to work.",
+      "",
+      "Little He: Ok, I’ll go back home first. You also shouldn’t be too late.",
+      ""
+    ]
+  }
+}

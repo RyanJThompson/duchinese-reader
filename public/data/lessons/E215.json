@@ -1,0 +1,1133 @@
+{
+  "id": "E215",
+  "title": "Do You Have Time This Evening?",
+  "level": "newbie",
+  "date": "2018-04-26",
+  "synopsis": "Ben wants to watch a movie together with Lili.",
+  "audioUrl": "https://static.duchinese.net/documents/723/20725820fe49ec3bfcc880c180280cfaa075a008.mp3?1524486399",
+  "series": null,
+  "fullText": {
+    "simplified": "你今晚有时间吗？\n\n本：丽丽，你今晚有时间吗？我请你去看电影吧。\n丽丽：抱歉，今晚我有很多作业要做。\n本：那明晚呢？\n丽丽：不好意思，明晚我要和一个朋友一起吃饭。\n本：那你什么时候有时间？\n丽丽：下个周末吧。\n本：可是下个星期电影院就没有这个电影了。",
+    "traditional": "你今晚有時間嗎？\n\n本：麗麗，你今晚有時間嗎？我請你去看電影吧。\n麗麗：抱歉，今晚我有很多作業要做。\n本：那明晚呢？\n麗麗：不好意思，明晚我要和一個朋友一起吃飯。\n本：那你什麼時候有時間？\n麗麗：下個週末吧。\n本：可是下個星期電影院就沒有這個電影了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Do you have time this evening?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，你今晚有时间吗？我请你去看电影吧。",
+      "traditional": "本：麗麗，你今晚有時間嗎？我請你去看電影吧。",
+      "pinyin": "běn lì lì nǐ jīn wǎn yǒu shí jiān ma wǒ qǐng nǐ qù kàn diàn yǐng ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, do you have time this evening? Let me treat you to a movie."
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：抱歉，今晚我有很多作业要做。",
+      "traditional": "麗麗：抱歉，今晚我有很多作業要做。",
+      "pinyin": "lì lì bào qiàn jīn wǎn wǒ yǒu hěn duō zuò yè yào zuò",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I’m sorry, I have a lot of homework to do tonight."
+    },
+    {
+      "index": 6,
+      "simplified": "本：那明晚呢？",
+      "traditional": "本：那明晚呢？",
+      "pinyin": "běn nà míng wǎn ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What about tomorrow evening?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：不好意思，明晚我要和一个朋友一起吃饭。",
+      "traditional": "麗麗：不好意思，明晚我要和一個朋友一起吃飯。",
+      "pinyin": "lì lì bù hǎo yì si míng wǎn wǒ yào hé yí ge péng you yì qǐ chī fàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Sorry, I’m going to have dinner with a friend."
+    },
+    {
+      "index": 10,
+      "simplified": "本：那你什么时候有时间？",
+      "traditional": "本：那你什麼時候有時間？",
+      "pinyin": "běn nà nǐ shén me shí hou yǒu shí jiān",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: When will you have time then?"
+    },
+    {
+      "index": 12,
+      "simplified": "丽丽：下个周末吧。",
+      "traditional": "麗麗：下個週末吧。",
+      "pinyin": "lì lì xià ge zhōu mò ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Maybe next weekend."
+    },
+    {
+      "index": 14,
+      "simplified": "本：可是下个星期电影院就没有这个电影了。",
+      "traditional": "本：可是下個星期電影院就沒有這個電影了。",
+      "pinyin": "běn kě shì xià ge xīng qī diàn yǐng yuàn jiù méi yǒu zhè ge diàn yǐng le",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: But this movie will be taken out of theaters next week."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今晚",
+      "traditional": "今晚",
+      "pinyin": "jīn wǎn",
+      "meaning": "tonight\nthis evening",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to treat (to a meal etc)\nto invite",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "抱歉",
+      "traditional": "抱歉",
+      "pinyin": "bào qiàn",
+      "meaning": "to be sorry\nto feel apologetic\nsorry!",
+      "hsk": 4
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作业",
+      "traditional": "作業",
+      "pinyin": "zuò yè",
+      "meaning": "homework\nschool assignment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明晚",
+      "traditional": "明晚",
+      "pinyin": "míng wǎn",
+      "meaning": "tomorrow evening",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "周末",
+      "traditional": "週末",
+      "pinyin": "zhōu mò",
+      "meaning": "weekend",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影院",
+      "traditional": "電影院",
+      "pinyin": "diàn yǐng yuàn",
+      "meaning": "cinema\nmovie theater",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "今晚",
+        "pinyin": "jīn wǎn",
+        "meaning": "tonight\nthis evening",
+        "tc_hanzi": "今晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "今晚",
+        "pinyin": "jīn wǎn",
+        "meaning": "tonight\nthis evening",
+        "tc_hanzi": "今晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to treat (to a meal etc)\nto invite",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "抱歉",
+        "pinyin": "bào qiàn",
+        "meaning": "to be sorry\nto feel apologetic\nsorry!",
+        "tc_hanzi": "抱歉"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "今晚",
+        "pinyin": "jīn wǎn",
+        "meaning": "tonight\nthis evening",
+        "tc_hanzi": "今晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hanzi": "明晚",
+        "pinyin": "míng wǎn",
+        "meaning": "tomorrow evening",
+        "tc_hanzi": "明晚"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "明晚",
+        "pinyin": "míng wǎn",
+        "meaning": "tomorrow evening",
+        "tc_hanzi": "明晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "周末",
+        "pinyin": "zhōu mò",
+        "meaning": "weekend",
+        "tc_hanzi": "週末"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影院",
+        "pinyin": "diàn yǐng yuàn",
+        "meaning": "cinema\nmovie theater",
+        "tc_hanzi": "電影院"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben wants to watch a movie together with Lili.",
+    "syllable_times": [
+      0.4084378557751805,
+      0.7709750566893424,
+      1.2698412698412698,
+      1.710992327511036,
+      2.0408163265306123,
+      2.4036281179138324,
+      4.30516176215858,
+      4.30516176215858,
+      4.570101607446709,
+      5.487528344671202,
+      5.895691609977324,
+      6.231179657853144,
+      6.621315192743764,
+      6.984126984126984,
+      7.305820314167282,
+      7.577669322923306,
+      8.662131519274377,
+      9.024943310657596,
+      9.414133830591693,
+      9.743957807164861,
+      10.430839002267573,
+      10.839002267573695,
+      11.11111111111111,
+      11.473922902494332,
+      13.725975990604617,
+      13.725975990604617,
+      13.725975990604617,
+      14.104308390022675,
+      15.238095238095237,
+      15.555555555555555,
+      16.235827664399093,
+      16.598639455782312,
+      16.91473208907582,
+      17.324263038548754,
+      17.687074829931973,
+      18.00453514739229,
+      18.367346938775512,
+      18.73015873015873,
+      20.802642383086713,
+      20.802642383086713,
+      21.67800453514739,
+      22.086167800453516,
+      22.403628117913833,
+      24.39146562005469,
+      24.39146562005469,
+      24.39146562005469,
+      24.71655328798186,
+      25.034013605442176,
+      25.368779711040244,
+      26.53061224489796,
+      26.93877551020408,
+      27.573696145124718,
+      27.891156462585034,
+      28.163265306122447,
+      28.571428571428573,
+      28.798185941043084,
+      29.024943310657598,
+      29.442085891439657,
+      29.97732426303855,
+      30.294784580498867,
+      30.657596371882086,
+      31.11111111111111,
+      33.329464711337636,
+      33.329464711337636,
+      33.87755102040816,
+      34.19501133786848,
+      34.534316525315944,
+      34.751910885045234,
+      35.072301196114154,
+      35.64625850340136,
+      35.96371882086168,
+      36.326530612244895,
+      38.41839442464938,
+      38.41839442464938,
+      38.41839442464938,
+      38.91156462585034,
+      39.09297052154195,
+      39.4213303652294,
+      39.77324263038549,
+      41.82098027455005,
+      41.82098027455005,
+      42.17086739888576,
+      42.993197278911566,
+      43.44671201814059,
+      43.675559191566954,
+      43.94625667307833,
+      44.807256235827666,
+      45.12471655328798,
+      45.38686154564386,
+      46.07709750566893,
+      46.653807251814406,
+      47.074829931972786,
+      47.528344671201815,
+      47.80045351473923,
+      48.07256235827664,
+      48.39002267573696,
+      48.639625023792966,
+      49.20739229024943,
+      49.20739229024943
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      26,
+      27,
+      40,
+      41,
+      47,
+      48,
+      62,
+      63,
+      72,
+      73,
+      80,
+      81,
+      95
+    ],
+    "sentence_translations": [
+      "Do you have time this evening?",
+      "",
+      "Ben: Lili, do you have time this evening? Let me treat you to a movie.",
+      "",
+      "Lili: I’m sorry, I have a lot of homework to do tonight.",
+      "",
+      "Ben: What about tomorrow evening?",
+      "",
+      "Lili: Sorry, I’m going to have dinner with a friend.",
+      "",
+      "Ben: When will you have time then?",
+      "",
+      "Lili: Maybe next weekend.",
+      "",
+      "Ben: But this movie will be taken out of theaters next week.",
+      ""
+    ]
+  }
+}

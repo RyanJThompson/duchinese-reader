@@ -1,0 +1,905 @@
+{
+  "id": "126",
+  "title": "Little Ming is Too Lazy",
+  "level": "intermediate",
+  "date": "2016-06-01",
+  "synopsis": "Little Ming is scolded by his mother for not cleaning his room, but as always Little Ming has a clever comeback.",
+  "audioUrl": "https://static.duchinese.net/documents/143/50f05ab9e70eb5d00454cda6037e3a2dcc2c1575.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "小明太懒\n\n    一天，妈妈骂小明：“你怎么那么懒，你看你的房间像猪窝一样，还不赶快打扫……”\n    小明想了想，说：“你有看过猪会打扫的吗？不都是养猪的人打扫猪窝的吗？”\n    妈妈气得说不出话来。",
+    "traditional": "小明太懶\n\n    一天，媽媽罵小明：“你怎麼那麼懶，你看你的房間像豬窩一樣，還不趕快打掃……”\n    小明想了想，說：“你有看過豬會打掃的嗎？不都是養豬的人打掃豬窩的嗎？”\n    媽媽氣得說不出話來。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Little Ming is Too Lazy"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，妈妈骂小明：",
+      "traditional": "一天，媽媽罵小明：",
+      "pinyin": "yì tiān mā ma mà xiǎo míng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "“你怎么那么懒，你看你的房间像猪窝一样，还不赶快打扫……”",
+      "traditional": "“你怎麼那麼懶，你看你的房間像豬窩一樣，還不趕快打掃……”",
+      "pinyin": "nǐ zěn me nà me lǎn nǐ kàn nǐ de fáng jiān xiàng zhū wō yí yàng hái bù gǎn kuài dǎ sǎo",
+      "english": "One day Little Ming's was being scolded by his mother:"
+    },
+    {
+      "index": 4,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "“How can you be so lazy? Look at your room! It looks like a pigsty and you still won't clean it.”"
+    },
+    {
+      "index": 5,
+      "simplified": "小明想了想，说：",
+      "traditional": "小明想了想，說：",
+      "pinyin": "xiǎo míng xiǎng le xiǎng shuō",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "“你有看过猪会打扫的吗？不都是养猪的人打扫猪窝的吗？”",
+      "traditional": "“你有看過豬會打掃的嗎？不都是養豬的人打掃豬窩的嗎？”",
+      "pinyin": "nǐ yǒu kàn guò zhū huì dǎ sǎo de ma bù dōu shì yǎng zhū de rén dǎ sǎo zhū wō de ma",
+      "english": "Little Ming thought for a while and said:"
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "“Have you ever seen pigs clean? Isn't it always the one who keeps the pig that cleans the pigsty?”"
+    },
+    {
+      "index": 8,
+      "simplified": "妈妈气得说不出话来。",
+      "traditional": "媽媽氣得說不出話來。",
+      "pinyin": "mā ma qì de shuō bu chū huà lái",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "懒",
+      "traditional": "懶",
+      "pinyin": "lǎn",
+      "meaning": "lazy",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "骂",
+      "traditional": "罵",
+      "pinyin": "mà",
+      "meaning": "to scold\nto abuse\nto curse",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "meaning": "room",
+      "hsk": 2
+    },
+    {
+      "hanzi": "像",
+      "traditional": "像",
+      "pinyin": "xiàng",
+      "meaning": "to resemble\nto be like",
+      "hsk": 3
+    },
+    {
+      "hanzi": "猪窝",
+      "traditional": "豬窩",
+      "pinyin": "zhū wō",
+      "meaning": "pigsty",
+      "hsk": null
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "赶快",
+      "traditional": "趕快",
+      "pinyin": "gǎn kuài",
+      "meaning": "at once\nimmediately",
+      "hsk": 5
+    },
+    {
+      "hanzi": "打扫",
+      "traditional": "打掃",
+      "pinyin": "dǎ sǎo",
+      "meaning": "to clean\nto sweep",
+      "hsk": 3
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "猪",
+      "traditional": "豬",
+      "pinyin": "zhū",
+      "meaning": "pig\nhog\nswine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "养",
+      "traditional": "養",
+      "pinyin": "yǎng",
+      "meaning": "to raise (animals)\nto bring up (children)\nto keep (pets)",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "气",
+      "traditional": "氣",
+      "pinyin": "qì",
+      "meaning": "to get angry\nto annoy",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说不出话",
+      "traditional": "說不出話",
+      "pinyin": "shuō bu chū huà",
+      "meaning": "to be speechless\nto lose one's tongue",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "懒",
+        "pinyin": "lǎn",
+        "meaning": "lazy",
+        "tc_hanzi": "懶"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "骂",
+        "pinyin": "mà",
+        "meaning": "to scold\nto abuse\nto curse",
+        "tc_hanzi": "罵"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "懒",
+        "pinyin": "lǎn",
+        "meaning": "lazy",
+        "tc_hanzi": "懶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "meaning": "to resemble\nto be like",
+        "tc_hanzi": "像"
+      },
+      {
+        "hanzi": "猪窝",
+        "pinyin": "zhū wō",
+        "meaning": "pigsty",
+        "tc_hanzi": "豬窩"
+      },
+      {
+        "g": "yiyang",
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "赶快",
+        "pinyin": "gǎn kuài",
+        "meaning": "at once\nimmediately",
+        "tc_hanzi": "趕快"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "guo",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "养",
+        "pinyin": "yǎng",
+        "meaning": "to raise (animals)\nto bring up (children)\nto keep (pets)",
+        "tc_hanzi": "養"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": "pig\nhog\nswine",
+        "tc_hanzi": "豬"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "hanzi": "猪窝",
+        "pinyin": "zhū wō",
+        "meaning": "pigsty",
+        "tc_hanzi": "豬窩"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "气",
+        "pinyin": "qì",
+        "meaning": "to get angry\nto annoy",
+        "tc_hanzi": "氣"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "说不出话",
+        "pinyin": "shuō bu chū huà",
+        "meaning": "to be speechless\nto lose one's tongue",
+        "tc_hanzi": "說不出話"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is scolded by his mother for not cleaning his room, but as always Little Ming has a clever comeback.",
+    "syllable_times": [
+      0.54421768707483,
+      0.9070294784580499,
+      1.315192743764172,
+      3.26530612244898,
+      3.537414965986394,
+      4.580498866213152,
+      4.897959183673469,
+      5.351473922902494,
+      5.714285714285714,
+      6.031746031746032,
+      7.392290249433106,
+      7.709750566893424,
+      7.936507936507937,
+      8.253968253968255,
+      8.571428571428571,
+      8.798185941043084,
+      9.977324263038549,
+      10.24943310657596,
+      10.70294784580499,
+      10.8843537414966,
+      11.15646258503401,
+      11.47392290249433,
+      11.97278911564626,
+      12.38095238095238,
+      12.6984126984127,
+      13.06978969995673,
+      13.26255170205865,
+      14.24036281179138,
+      14.6031746031746,
+      14.73922902494331,
+      15.05668934240363,
+      15.28344671201814,
+      15.55555555555556,
+      17.05215419501134,
+      17.46031746031746,
+      17.82312925170068,
+      18.2312925170068,
+      18.41269841269841,
+      19.31972789115646,
+      20.77097505668934,
+      21.04308390022676,
+      21.40589569160998,
+      21.63265306122449,
+      22.04081632653061,
+      22.44897959183674,
+      22.67573696145125,
+      22.94784580498866,
+      23.21995464852608,
+      23.40136054421769,
+      24.53514739229025,
+      24.76190476190476,
+      25.06539401908478,
+      25.4421768707483,
+      25.89569160997732,
+      26.16780045351474,
+      26.39455782312925,
+      26.84807256235828,
+      27.12018140589569,
+      27.48299319727891,
+      27.80045351473923,
+      28.07256235827665,
+      28.25396825396825,
+      29.61451247165533,
+      29.93197278911565,
+      30.29478458049887,
+      30.65759637188209,
+      30.9750566893424,
+      31.33786848072562,
+      31.51927437641723,
+      31.88208616780045,
+      32.19954648526077,
+      32.83755102040816,
+      32.83755102040816
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      13,
+      33,
+      35,
+      42,
+      65,
+      67
+    ],
+    "sentence_translations": [
+      "Little Ming is Too Lazy",
+      "",
+      "One day Little Ming's was being scolded by his mother:",
+      "“How can you be so lazy? Look at your room! It looks like a pigsty and you still won't clean it.”",
+      "",
+      "Little Ming thought for a while and said:",
+      "“Have you ever seen pigs clean? Isn't it always the one who keeps the pig that cleans the pigsty?”",
+      "",
+      "Little Ming's mother got so angry that she was beyond words."
+    ]
+  }
+}

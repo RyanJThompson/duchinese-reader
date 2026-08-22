@@ -1,0 +1,862 @@
+{
+  "id": "061",
+  "title": "The Panda And The Ball",
+  "level": "intermediate",
+  "date": "2016-01-02",
+  "synopsis": "Recently the baby panda at the zoo in Santiago, Chile received a small ball as a gift. Today we learn what happens if you try to take the ball away from it.",
+  "audioUrl": "https://static.duchinese.net/documents/32/efb6ab9d5ace175af12296191ce2d524bae87635.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "熊猫收到礼物后\n\n    圣地亚哥动物园的熊猫宝宝最近收到了一个礼物，是一个小球。熊猫宝宝很喜欢这个礼物，当有人想要拿走礼物时，它会睁大眼睛抱住球，非常可爱，好像在说：“谁也别想拿走我的礼物！”",
+    "traditional": "熊貓收到禮物後\n\n    聖地亞哥動物園的熊貓寶寶最近收到了一個禮物，是一個小球。熊貓寶寶很喜歡這個禮物，當有人想要拿走禮物時，它會睜大眼睛抱住球，非常可愛，好像在說：“誰也別想拿走我的禮物！”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "After the panda received a present"
+    },
+    {
+      "index": 2,
+      "simplified": "圣地亚哥动物园的熊猫宝宝最近收到了一个礼物，是一个小球。",
+      "traditional": "聖地亞哥動物園的熊貓寶寶最近收到了一個禮物，是一個小球。",
+      "pinyin": "shèng dì yà gē dòng wù yuán de xióng māo bǎo bao zuì jìn shōu dào le yí ge lǐ wù shì yí ge xiǎo qiú",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "熊猫宝宝很喜欢这个礼物，当有人想要拿走礼物时，",
+      "traditional": "熊貓寶寶很喜歡這個禮物，當有人想要拿走禮物時，",
+      "pinyin": "xióng māo bǎo bao hěn xǐ huan zhè ge lǐ wù dāng yǒu rén xiǎng yào ná zǒu lǐ wù shí",
+      "english": "The panda bear at the zoo in Santiago recently received a gift: a small ball."
+    },
+    {
+      "index": 4,
+      "simplified": "它会睁大眼睛抱住球，非常可爱，好像在说：“谁也别想拿走我的礼物！”",
+      "traditional": "它會睜大眼睛抱住球，非常可愛，好像在說：“誰也別想拿走我的禮物！”",
+      "pinyin": "tā huì zhēng dà yǎn jing bào zhù qiú fēi cháng kě ài hǎo xiàng zài shuō shéi yě bié xiǎng ná zǒu wǒ de lǐ wù",
+      "english": "The baby panda really likes this present, and as soon as someone tries to take it away, .."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "熊猫",
+      "traditional": "熊貓",
+      "pinyin": "xióng māo",
+      "meaning": "panda",
+      "hsk": 3
+    },
+    {
+      "hanzi": "收到",
+      "traditional": "收到",
+      "pinyin": "shōu dào",
+      "meaning": "to receive",
+      "hsk": 4
+    },
+    {
+      "hanzi": "礼物",
+      "traditional": "禮物",
+      "pinyin": "lǐ wù",
+      "meaning": "gift\npresent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "圣地亚哥",
+      "traditional": "聖地亞哥",
+      "pinyin": "shèng dì yà gē",
+      "meaning": "Santiago, capital of Chile",
+      "hsk": null
+    },
+    {
+      "hanzi": "动物园",
+      "traditional": "動物園",
+      "pinyin": "dòng wù yuán",
+      "meaning": "zoo",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "宝宝",
+      "traditional": "寶寶",
+      "pinyin": "bǎo bao",
+      "meaning": "baby\ndarling",
+      "hsk": 5
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "球",
+      "traditional": "球",
+      "pinyin": "qiú",
+      "meaning": "ball\nsphere\nglobe",
+      "hsk": null
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这个",
+      "traditional": "這個",
+      "pinyin": "zhè ge",
+      "meaning": "this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "当",
+      "traditional": "當",
+      "pinyin": "dāng",
+      "meaning": "when\nduring",
+      "hsk": 4
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想要",
+      "traditional": "想要",
+      "pinyin": "xiǎng yào",
+      "meaning": "to want\nto want to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "拿走",
+      "traditional": "拿走",
+      "pinyin": "ná zǒu",
+      "meaning": "to take away",
+      "hsk": null
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "睁",
+      "traditional": "睜",
+      "pinyin": "zhēng",
+      "meaning": "to open (one's eyes)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "眼睛",
+      "traditional": "眼睛",
+      "pinyin": "yǎn jing",
+      "meaning": "eyes",
+      "hsk": 2
+    },
+    {
+      "hanzi": "抱",
+      "traditional": "抱",
+      "pinyin": "bào",
+      "meaning": "to hold\nto carry (in one’s arms)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可爱",
+      "traditional": "可愛",
+      "pinyin": "kě ài",
+      "meaning": "cute\nadorable\nlovely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 4,
+        "hanzi": "收到",
+        "pinyin": "shōu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "收到"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hanzi": "圣地亚哥",
+        "pinyin": "shèng dì yà gē",
+        "meaning": "Santiago, capital of Chile",
+        "tc_hanzi": "聖地亞哥"
+      },
+      {
+        "hanzi": "动物园",
+        "pinyin": "dòng wù yuán",
+        "meaning": "zoo",
+        "tc_hanzi": "動物園"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "宝宝",
+        "pinyin": "bǎo bao",
+        "meaning": "baby\ndarling",
+        "tc_hanzi": "寶寶"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 4,
+        "hanzi": "收到",
+        "pinyin": "shōu dào",
+        "meaning": "to receive",
+        "tc_hanzi": "收到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "球",
+        "pinyin": "qiú",
+        "meaning": "ball\nsphere\nglobe",
+        "tc_hanzi": "球"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "宝宝",
+        "pinyin": "bǎo bao",
+        "meaning": "baby\ndarling",
+        "tc_hanzi": "寶寶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "当",
+        "pinyin": "dāng",
+        "meaning": "when\nduring",
+        "tc_hanzi": "當"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "想要",
+        "pinyin": "xiǎng yào",
+        "meaning": "to want\nto want to",
+        "tc_hanzi": "想要"
+      },
+      {
+        "hanzi": "拿走",
+        "pinyin": "ná zǒu",
+        "meaning": "to take away",
+        "tc_hanzi": "拿走"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "睁",
+        "pinyin": "zhēng",
+        "meaning": "to open (one's eyes)",
+        "tc_hanzi": "睜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "眼睛",
+        "pinyin": "yǎn jing",
+        "meaning": "eyes",
+        "tc_hanzi": "眼睛"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "抱",
+        "pinyin": "bào",
+        "meaning": "to hold\nto carry (in one’s arms)",
+        "tc_hanzi": "抱"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+        "tc_hanzi": "住"
+      },
+      {
+        "hanzi": "球",
+        "pinyin": "qiú",
+        "meaning": "ball\nsphere\nglobe",
+        "tc_hanzi": "球"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "拿走",
+        "pinyin": "ná zǒu",
+        "meaning": "to take away",
+        "tc_hanzi": "拿走"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "礼物",
+        "pinyin": "lǐ wù",
+        "meaning": "gift\npresent",
+        "tc_hanzi": "禮物"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Recently the baby panda at the zoo in Santiago, Chile received a small ball as a gift. Today we learn what happens if you try to take the ball away from it.",
+    "syllable_times": [
+      0.3174603174603174,
+      0.5668934231199563,
+      0.9070294784580499,
+      1.156462583164711,
+      1.360544217687075,
+      1.541462936850788,
+      2.53968253968254,
+      2.857142857142857,
+      3.038548752834467,
+      3.310657596371882,
+      3.6281179138322,
+      3.820374497793011,
+      3.990929705215419,
+      4.217687074829932,
+      4.489795918367347,
+      4.761904761904762,
+      4.988662131519274,
+      5.26077097505669,
+      5.895691609977324,
+      6.122448979591836,
+      6.394557823129252,
+      6.666666666666667,
+      6.870261114178376,
+      7.017653404189566,
+      7.176383562663152,
+      7.528344671201814,
+      7.755102040816326,
+      8.390022675736962,
+      8.684320068162236,
+      8.843537414965986,
+      9.070294784580499,
+      9.387755102040817,
+      10.43083900226757,
+      10.70294784580499,
+      10.9297052154195,
+      11.20181405895692,
+      11.56462585034014,
+      11.74603174603175,
+      12.10884353741497,
+      12.29024943310658,
+      12.47165532879819,
+      12.6530612244898,
+      12.83446712018141,
+      13.51473922902494,
+      13.78684807256236,
+      14.05895691609977,
+      14.33106575963719,
+      14.5124716553288,
+      14.78458049886621,
+      14.96598639455782,
+      15.19274376417234,
+      15.37414965986395,
+      15.51020408163265,
+      16.14512471655329,
+      16.46258503401361,
+      16.78004535147392,
+      16.96145124716553,
+      17.27891156462585,
+      17.55102040816326,
+      17.91383219954648,
+      18.1859410430839,
+      18.32199546485261,
+      19.04409330307216,
+      19.45578231292517,
+      19.66767606850411,
+      19.86394557823129,
+      20.49886621315193,
+      20.68027210884354,
+      20.90702947845805,
+      21.13378684807256,
+      21.63265306122449,
+      22.04081632653061,
+      22.26757369614512,
+      22.35827664399093,
+      22.53968253968254,
+      22.76643990929705,
+      22.94784580498866,
+      23.21995464852608,
+      23.35600907029479,
+      23.53741496598639,
+      23.6734693877551,
+      24.08160997732426,
+      24.08163261413574
+    ],
+    "sentence_indices": [
+      4,
+      5,
+      23,
+      38
+    ],
+    "sentence_translations": [
+      "After the panda received a present",
+      "",
+      "The panda bear at the zoo in Santiago recently received a gift: a small ball.",
+      "The baby panda really likes this present, and as soon as someone tries to take it away, ..",
+      ".. it opens its eyes wide and grasps the ball in a very cute manner, almost as if saying \"No one better try to take my present away!\""
+    ]
+  }
+}

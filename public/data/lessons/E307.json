@@ -1,0 +1,922 @@
+{
+  "id": "E307",
+  "title": "How Is My Chinese?",
+  "level": "elementary",
+  "date": "2019-03-23",
+  "synopsis": "Ben asks about his Chinese level from different aspects.",
+  "audioUrl": "https://static.duchinese.net/documents/999/62d3879ce6884fb531bad97aca8ba3bb2ff7329e.mp3?1552124905",
+  "series": null,
+  "fullText": {
+    "simplified": "我的汉语怎么样\n\n本：你觉得我的汉语口语怎么样？\n小雨：你说得挺好的。\n本：我的发音呢？\n小雨：你发音发得很准。\n本：我的汉字写得不好，写汉字太难了。\n小雨：没关系，你多练习，一定能写得更好。",
+    "traditional": "我的漢語怎麼樣\n\n本：你覺得我的漢語口語怎麼樣？\n小雨：你說得挺好的。\n本：我的發音呢？\n小雨：你發音發得很準。\n本：我的漢字寫得不好，寫漢字太難了。\n小雨：沒關係，你多練習，一定能寫得更好。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How is my Chinese?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：你觉得我的汉语口语怎么样？",
+      "traditional": "本：你覺得我的漢語口語怎麼樣？",
+      "pinyin": "běn nǐ jué de wǒ de hàn yǔ kǒu yǔ zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What do you think of my spoken Chinese?"
+    },
+    {
+      "index": 4,
+      "simplified": "小雨：你说得挺好的。",
+      "traditional": "小雨：你說得挺好的。",
+      "pinyin": "xiǎo yǔ nǐ shuō de tǐng hǎo de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: You speak quite well."
+    },
+    {
+      "index": 6,
+      "simplified": "本：我的发音呢？",
+      "traditional": "本：我的發音呢？",
+      "pinyin": "běn wǒ de fā yīn ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How about my pronunciation?"
+    },
+    {
+      "index": 8,
+      "simplified": "小雨：你发音发得很准。",
+      "traditional": "小雨：你發音發得很準。",
+      "pinyin": "xiǎo yǔ nǐ fā yīn fā de hěn zhǔn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Yu: Your pronunciation is very accurate."
+    },
+    {
+      "index": 10,
+      "simplified": "本：我的汉字写得不好，写汉字太难了。",
+      "traditional": "本：我的漢字寫得不好，寫漢字太難了。",
+      "pinyin": "běn wǒ de hàn zì xiě de bù hǎo xiě hàn zì tài nán le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I’m not good at writing Chinese characters. Characters are too difficult to write."
+    },
+    {
+      "index": 12,
+      "simplified": "小雨：没关系，你多练习，一定能写得更好。",
+      "traditional": "小雨：沒關係，你多練習，一定能寫得更好。",
+      "pinyin": "xiǎo yǔ méi guān xi nǐ duō liàn xí yí dìng néng xiě de gèng hǎo",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Yu: It’s ok. If you practice more, you will certainly write better."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "口语",
+      "traditional": "口語",
+      "pinyin": "kǒu yǔ",
+      "meaning": "colloquial speech\nspoken language",
+      "hsk": null
+    },
+    {
+      "hanzi": "小雨",
+      "traditional": "小雨",
+      "pinyin": "xiǎo yǔ",
+      "meaning": "Little Yu (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "挺",
+      "traditional": "挺",
+      "pinyin": "tǐng",
+      "meaning": "(coll.) quite\nvery",
+      "hsk": 4
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "发音",
+      "traditional": "發音",
+      "pinyin": "fā yīn",
+      "meaning": "to pronounce\npronunciation\nto emit sound",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "发",
+      "traditional": "發",
+      "pinyin": "fā",
+      "meaning": "to send out\nto issue",
+      "hsk": 3
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准",
+      "traditional": "準",
+      "pinyin": "zhǔn",
+      "meaning": "accurate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "汉字",
+      "traditional": "漢字",
+      "pinyin": "hàn zì",
+      "meaning": "Chinese character",
+      "hsk": 1
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "have (a specified amount) more or too much (opp. 少)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "练习",
+      "traditional": "練習",
+      "pinyin": "liàn xí",
+      "meaning": "to practice\nexercise\ndrill",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "certainly\nnecessarily",
+      "hsk": 3
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "更",
+      "traditional": "更",
+      "pinyin": "gèng",
+      "meaning": "even more\nfurther\nfurthermore",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "口语",
+        "pinyin": "kǒu yǔ",
+        "meaning": "colloquial speech\nspoken language",
+        "tc_hanzi": "口語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "挺",
+        "pinyin": "tǐng",
+        "meaning": "(coll.) quite\nvery",
+        "tc_hanzi": "挺"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "发音",
+        "pinyin": "fā yīn",
+        "meaning": "to pronounce\npronunciation\nto emit sound",
+        "tc_hanzi": "發音"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "发音",
+        "pinyin": "fā yīn",
+        "meaning": "to pronounce\npronunciation\nto emit sound",
+        "tc_hanzi": "發音"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发",
+        "pinyin": "fā",
+        "meaning": "to send out\nto issue",
+        "tc_hanzi": "發"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "准",
+        "pinyin": "zhǔn",
+        "meaning": "accurate",
+        "tc_hanzi": "準"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉字",
+        "pinyin": "hàn zì",
+        "meaning": "Chinese character",
+        "tc_hanzi": "漢字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉字",
+        "pinyin": "hàn zì",
+        "meaning": "Chinese character",
+        "tc_hanzi": "漢字"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小雨",
+        "pinyin": "xiǎo yǔ",
+        "meaning": "Little Yu (name)",
+        "tc_hanzi": "小雨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "have (a specified amount) more or too much (opp. 少)",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "练习",
+        "pinyin": "liàn xí",
+        "meaning": "to practice\nexercise\ndrill",
+        "tc_hanzi": "練習"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks about his Chinese level from different aspects.",
+    "syllable_times": [
+      0.3286389433087841,
+      0.4988662131519274,
+      0.8616780045351474,
+      1.3605442176870748,
+      1.6326530612244898,
+      1.8140589569160999,
+      4.338158216976351,
+      4.338158216976351,
+      4.671201814058957,
+      5.034013605442177,
+      5.941043083900227,
+      6.258503401360544,
+      6.510252768474241,
+      6.7896246943743,
+      7.074829931972789,
+      7.4038881733532875,
+      8.117913832199546,
+      8.435374149659864,
+      8.571428571428571,
+      10.821765714039445,
+      10.821765714039445,
+      10.821765714039445,
+      11.12907483252951,
+      11.428571428571429,
+      11.746031746031745,
+      12.154195011337869,
+      12.426303854875284,
+      14.242697119060741,
+      14.242697119060741,
+      14.512471655328799,
+      14.77408026002271,
+      15.192743764172336,
+      15.419501133786849,
+      17.332816688016255,
+      17.332816688016255,
+      17.332816688016255,
+      17.77777777777778,
+      18.095238095238095,
+      18.458049886621314,
+      18.68480725623583,
+      18.91156462585034,
+      19.157869224896075,
+      21.46376593934449,
+      21.46376593934449,
+      21.723356009070294,
+      21.859410430839002,
+      22.22222222222222,
+      22.857142857142858,
+      23.26530612244898,
+      23.401360544217688,
+      23.718820861678005,
+      25.07936507936508,
+      25.415149245574757,
+      25.759637188208618,
+      26.077097505668934,
+      26.439909297052154,
+      26.802721088435373,
+      28.646107740984018,
+      28.646107740984018,
+      28.646107740984018,
+      28.934240362811792,
+      29.24099256415057,
+      30.430839002267575,
+      30.74829931972789,
+      31.065759637188208,
+      31.292517006802722,
+      32.698412698412696,
+      32.97052154195011,
+      33.333333333333336,
+      33.66502658695944,
+      33.96825396825397,
+      34.14965986394558,
+      34.512471655328795,
+      35.191972789115646,
+      35.191972789115646
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      16,
+      17,
+      26,
+      27,
+      34,
+      35,
+      44,
+      45,
+      61,
+      62,
+      77
+    ],
+    "sentence_translations": [
+      "How is my Chinese?",
+      "",
+      "Ben: What do you think of my spoken Chinese?",
+      "",
+      "Little Yu: You speak quite well.",
+      "",
+      "Ben: How about my pronunciation?",
+      "",
+      "Little Yu: Your pronunciation is very accurate.",
+      "",
+      "Ben: I’m not good at writing Chinese characters. Characters are too difficult to write.",
+      "",
+      "Little Yu: It’s ok. If you practice more, you will certainly write better.",
+      ""
+    ]
+  }
+}

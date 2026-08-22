@@ -1,0 +1,1591 @@
+{
+  "id": "1952",
+  "title": "What Book Is This?",
+  "level": "newbie",
+  "date": "2023-05-01",
+  "synopsis": "Gao Tian and Anne want to go to the bookstore.",
+  "audioUrl": "https://static.duchinese.net/documents/1952/120160cfd09aee365569536cca21cb9e06e144c2.mp3?1677751565",
+  "series": {
+    "title": "Newbie Course 3: Who Is Gao Tian?",
+    "chapter": 9,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "这是什么书？\n\n高天：下午好！Anne！\nAnne：下午好！你在看书，这是什么书？\n高天：这是汉语书，我在学汉语。\nAnne：我也想学汉语。在哪儿买汉语书？\n高天：书店有汉语书。你想买汉语书吗？\nAnne：我想买汉语书。书店远吗？\n高天：不远。我和你一起去，怎么样？\nAnne：好！现在一点，一点十分有课，我们明天上午去，怎么样？\n高天：我们今天没有课。\nAnne：没有课？不不不，今天星期五，下午有课。\n高天：今天不是星期五，今天星期六。",
+    "traditional": "這是什麼書？\n\n高天：下午好！Anne！\nAnne：下午好！你在看書，這是什麼書？\n高天：這是漢語書，我在學漢語。\nAnne：我也想學漢語。在哪兒買漢語書？\n高天：書店有漢語書。你想買漢語書嗎？\nAnne：我想買漢語書。書店遠嗎？\n高天：不遠。我和你一起去，怎麼樣？\nAnne：好！現在一點，一點十分有課，我們明天上午去，怎麼樣？\n高天：我們今天沒有課。\nAnne：沒有課？不不不，今天星期五，下午有課。\n高天：今天不是星期五，今天星期六。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What Book Is This?"
+    },
+    {
+      "index": 2,
+      "simplified": "高天：下午好！Anne！",
+      "traditional": "高天：下午好！Anne！",
+      "pinyin": "gāo tiān xià wǔ hǎo 1",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Gao Tian: Good afternoon! Anne!"
+    },
+    {
+      "index": 4,
+      "simplified": "Anne：下午好！你在看书，这是什么书？",
+      "traditional": "Anne：下午好！你在看書，這是什麼書？",
+      "pinyin": "1 xià wǔ hǎo nǐ zài kàn shū zhè shì shén me shū",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Good Afternoon! You’re reading a book. What book is this?"
+    },
+    {
+      "index": 6,
+      "simplified": "高天：这是汉语书，我在学汉语。",
+      "traditional": "高天：這是漢語書，我在學漢語。",
+      "pinyin": "gāo tiān zhè shì hàn yǔ shū wǒ zài xué hàn yǔ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Gao Tian: This is a Chinese book. I’m learning Chinese."
+    },
+    {
+      "index": 8,
+      "simplified": "Anne：我也想学汉语。在哪儿买汉语书？",
+      "traditional": "Anne：我也想學漢語。在哪兒買漢語書？",
+      "pinyin": "1 wǒ yě xiǎng xué hàn yǔ zài nǎ'r mǎi hàn yǔ shū",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I also want to learn Chinese. Where can you buy Chinese books?"
+    },
+    {
+      "index": 10,
+      "simplified": "高天：书店有汉语书。你想买汉语书吗？",
+      "traditional": "高天：書店有漢語書。你想買漢語書嗎？",
+      "pinyin": "gāo tiān shū diàn yǒu hàn yǔ shū nǐ xiǎng mǎi hàn yǔ shū ma",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Gao Tian: There are Chinese books at the bookstore. Do you want to buy Chinese books?"
+    },
+    {
+      "index": 12,
+      "simplified": "Anne：我想买汉语书。书店远吗？",
+      "traditional": "Anne：我想買漢語書。書店遠嗎？",
+      "pinyin": "1 wǒ xiǎng mǎi hàn yǔ shū shū diàn yuǎn ma",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I want to buy Chinese books. Is the bookstore far?"
+    },
+    {
+      "index": 14,
+      "simplified": "高天：不远。我和你一起去，怎么样？",
+      "traditional": "高天：不遠。我和你一起去，怎麼樣？",
+      "pinyin": "gāo tiān bù yuǎn wǒ hé nǐ yì qǐ qù zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Gao Tian: No, it’s not far. How about I go with you?"
+    },
+    {
+      "index": 16,
+      "simplified": "Anne：好！现在一点，一点十分有课，我们明天上午去，怎么样？",
+      "traditional": "Anne：好！現在一點，一點十分有課，我們明天上午去，怎麼樣？",
+      "pinyin": "1 hǎo xiàn zài yī diǎn yī diǎn shí fēn yǒu kè wǒ men míng tiān shàng wǔ qù zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Okay! It’s 1 o’clock right now, and class is at 1:10. How about we go tomorrow morning?"
+    },
+    {
+      "index": 18,
+      "simplified": "高天：我们今天没有课。",
+      "traditional": "高天：我們今天沒有課。",
+      "pinyin": "gāo tiān wǒ men jīn tiān méi yǒu kè",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Gao Tian: We don’t have class today."
+    },
+    {
+      "index": 20,
+      "simplified": "Anne：没有课？不不不，今天星期五，下午有课。",
+      "traditional": "Anne：沒有課？不不不，今天星期五，下午有課。",
+      "pinyin": "1 méi yǒu kè bù bù bù jīn tiān xīng qī wǔ xià wǔ yǒu kè",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: No class? No, no, no. Today is Friday, and class is in the afternoon."
+    },
+    {
+      "index": 22,
+      "simplified": "高天：今天不是星期五，今天星期六。",
+      "traditional": "高天：今天不是星期五，今天星期六。",
+      "pinyin": "gāo tiān jīn tiān bú shì xīng qī wǔ jīn tiān xīng qī liù",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "书",
+      "traditional": "書",
+      "pinyin": "shū",
+      "meaning": "book",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高天",
+      "traditional": "高天",
+      "pinyin": "gāo tiān",
+      "meaning": "Gao Tian (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "meaning": "to study\nto learn",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "书店",
+      "traditional": "書店",
+      "pinyin": "shū diàn",
+      "meaning": "bookstore",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "what's it like?\nhow are things?\nwhat do you think?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "meaning": "minute",
+      "hsk": 3
+    },
+    {
+      "hanzi": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "meaning": "class\nlesson",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "meaning": "morning\nbefore noon",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期五",
+      "traditional": "星期五",
+      "pinyin": "xīng qī wǔ",
+      "meaning": "Friday",
+      "hsk": null
+    },
+    {
+      "hanzi": "星期六",
+      "traditional": "星期六",
+      "pinyin": "xīng qī liù",
+      "meaning": "Saturday",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！Anne！",
+        "pinyin": "1",
+        "tc_hanzi": "！Anne！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "书店",
+        "pinyin": "shū diàn",
+        "meaning": "bookstore",
+        "tc_hanzi": "書店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book",
+        "tc_hanzi": "書"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "书店",
+        "pinyin": "shū diàn",
+        "meaning": "bookstore",
+        "tc_hanzi": "書店"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "what's it like?\nhow are things?\nwhat do you think?",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "d": "192",
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "d": "5285",
+        "hsk": 3,
+        "hanzi": "分",
+        "pinyin": "fēn",
+        "meaning": "minute",
+        "tc_hanzi": "分"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "morning\nbefore noon",
+        "tc_hanzi": "上午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "what's it like?\nhow are things?\nwhat do you think?",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "pinyin": "1",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "meaning": "Friday",
+        "tc_hanzi": "星期五"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "class\nlesson",
+        "tc_hanzi": "課"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "高天",
+        "pinyin": "gāo tiān",
+        "meaning": "Gao Tian (name)",
+        "tc_hanzi": "高天"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "星期五",
+        "pinyin": "xīng qī wǔ",
+        "meaning": "Friday",
+        "tc_hanzi": "星期五"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期六",
+        "pinyin": "xīng qī liù",
+        "meaning": "Saturday",
+        "tc_hanzi": "星期六"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.4931972789115646,
+      1.03,
+      1.4852607709750567,
+      1.7857142857142856,
+      3.69,
+      3.69,
+      3.69,
+      4.2063492063492065,
+      4.501133786848072,
+      5.300453514739229,
+      6.72,
+      6.72,
+      7.193877551020408,
+      7.3809523809523805,
+      8.68,
+      9.37,
+      9.682539682539682,
+      10.028344671201813,
+      11.298185941043084,
+      11.621315192743763,
+      12.41,
+      12.828798185941043,
+      13.12358276643991,
+      14.86,
+      14.86,
+      14.86,
+      15.187074829931973,
+      15.75,
+      16.1734693877551,
+      16.502267573696145,
+      17.33,
+      17.687074829931973,
+      18.14,
+      18.764172335600907,
+      19.132653061224488,
+      20.6,
+      20.6,
+      21.014739229024944,
+      21.30952380952381,
+      21.85,
+      22.23922902494331,
+      22.624716553287982,
+      24.01,
+      24.387755102040817,
+      25.34,
+      25.759637188208615,
+      26.088435374149658,
+      26.343537414965986,
+      28.1,
+      28.1,
+      28.1,
+      28.594104308390023,
+      29.07,
+      29.484126984126984,
+      29.82426303854875,
+      30.153061224489797,
+      31.24,
+      31.564625850340136,
+      32.04,
+      32.48299319727891,
+      32.919501133786845,
+      33.197278911564624,
+      33.56575963718821,
+      34.86,
+      34.86,
+      35.18707482993197,
+      35.578231292517,
+      36.11,
+      36.60430839002267,
+      36.87641723356009,
+      38.16,
+      38.57709750566893,
+      39.37641723356009,
+      39.7562358276644,
+      41.07,
+      41.07,
+      41.07,
+      41.43424036281179,
+      42.45,
+      42.84013605442177,
+      43.20861678004535,
+      43.72,
+      44.09863945578231,
+      44.47845804988662,
+      45.31,
+      45.595238095238095,
+      45.85600907029478,
+      47.42630385487528,
+      47.42630385487528,
+      48.43,
+      48.89455782312925,
+      49.33,
+      49.64285714285714,
+      50.61,
+      50.95238095238095,
+      51.17913832199547,
+      51.54195011337868,
+      52.05,
+      52.3922902494331,
+      53.55,
+      53.87755102040816,
+      54.31,
+      54.688208616780045,
+      54.965986394557824,
+      55.249433106575964,
+      55.4875283446712,
+      56.21,
+      56.439909297052154,
+      56.564625850340136,
+      57.66,
+      57.66,
+      57.66,
+      58.04988662131519,
+      58.367346938775505,
+      58.66780045351474,
+      59.25,
+      59.76757369614512,
+      60.14172335600907,
+      61.66,
+      61.66,
+      62.12018140589569,
+      62.63038548752834,
+      63.88,
+      64.1780045351474,
+      64.359410430839,
+      65.18707482993197,
+      65.54421768707483,
+      66.04875283446712,
+      66.41156462585033,
+      66.81972789115646,
+      67.45,
+      67.98185941043084,
+      68.5,
+      68.93,
+      70.67,
+      70.67,
+      70.67,
+      71.09977324263038,
+      71.62,
+      72.0408163265306,
+      72.40362811791383,
+      72.73809523809524,
+      73.11224489795919,
+      74.11,
+      74.4047619047619,
+      74.81859410430839,
+      75.45351473922902,
+      75.75963718820861,
+      76.9
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      12,
+      13,
+      27,
+      28,
+      40,
+      41,
+      54,
+      55,
+      69,
+      70,
+      81,
+      82,
+      95,
+      96,
+      117,
+      118,
+      126,
+      127,
+      143,
+      144
+    ],
+    "sentence_translations": [
+      "What Book Is This?",
+      "",
+      "Gao Tian: Good afternoon! Anne!",
+      "",
+      "Anne: Good Afternoon! You’re reading a book. What book is this?",
+      "",
+      "Gao Tian: This is a Chinese book. I’m learning Chinese.",
+      "",
+      "Anne: I also want to learn Chinese. Where can you buy Chinese books?",
+      "",
+      "Gao Tian: There are Chinese books at the bookstore. Do you want to buy Chinese books?",
+      "",
+      "Anne: I want to buy Chinese books. Is the bookstore far?",
+      "",
+      "Gao Tian: No, it’s not far. How about I go with you?",
+      "",
+      "Anne: Okay! It’s 1 o’clock right now, and class is at 1:10. How about we go tomorrow morning?",
+      "",
+      "Gao Tian: We don’t have class today.",
+      "",
+      "Anne: No class? No, no, no. Today is Friday, and class is in the afternoon.",
+      "",
+      "Gao Tian: Today isn’t Friday. Today is Saturday."
+    ]
+  }
+}

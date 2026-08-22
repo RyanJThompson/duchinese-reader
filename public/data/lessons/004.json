@@ -1,0 +1,552 @@
+{
+  "id": "004",
+  "title": "Phone Call",
+  "level": "newbie",
+  "date": "2015-12-05",
+  "synopsis": "Making a phone call in a language you’re not comfortable with can be scary. This lesson shows a simple phone conversation between two friends.",
+  "audioUrl": "https://static.duchinese.net/documents/4/c64d2ada9f6d0b23e1f5a95015e92d4228793a17.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "打电话\n\n    喂，小李，我下飞机了。现在准备坐出租车去饭店和一个朋友吃饭。吃完饭后，我再给你打电话吧。",
+    "traditional": "打電話\n\n    喂，小李，我下飛機了。現在準備坐出租車去飯店和一個朋友吃飯。吃完飯後，我再給你打電話吧。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Phone call"
+    },
+    {
+      "index": 2,
+      "simplified": "喂，小李，我下飞机了。",
+      "traditional": "喂，小李，我下飛機了。",
+      "pinyin": "wéi xiǎo lǐ wǒ xià fēi jī le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "现在准备坐出租车去饭店和一个朋友吃饭。",
+      "traditional": "現在準備坐出租車去飯店和一個朋友吃飯。",
+      "pinyin": "xiàn zài zhǔn bèi zuò chū zū chē qù fàn diàn hé yí ge péng you chī fàn",
+      "english": "Hello, Xiao Li, I got off the plane."
+    },
+    {
+      "index": 4,
+      "simplified": "吃完饭后，我再给你打电话吧。",
+      "traditional": "吃完飯後，我再給你打電話吧。",
+      "pinyin": "chī wán fàn hòu wǒ zài gěi nǐ dǎ diàn huà ba",
+      "english": "I'm just about to enter a taxi to go to a resturant to eat with a friend."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make\nto hit",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "to go down\nto descend\n(as complement) downwards; down",
+      "hsk": 1
+    },
+    {
+      "hanzi": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "meaning": "airplane",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "meaning": "preparation\nto prepare\nto be about to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出租车",
+      "traditional": "出租車",
+      "pinyin": "chū zū chē",
+      "meaning": "taxi",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn",
+      "meaning": "food\ncuisine\nmeal",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto hit",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "to go down\nto descend\n(as complement) downwards; down",
+        "tc_hanzi": "下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane",
+        "tc_hanzi": "飛機"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "准备",
+        "pinyin": "zhǔn bèi",
+        "meaning": "preparation\nto prepare\nto be about to",
+        "tc_hanzi": "準備"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi",
+        "tc_hanzi": "出租車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭",
+        "pinyin": "fàn",
+        "meaning": "food\ncuisine\nmeal",
+        "tc_hanzi": "飯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto hit",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Making a phone call in a language you’re not comfortable with can be scary. This lesson shows a simple phone conversation between two friends.",
+    "syllable_times": [
+      0.453514739229025,
+      0.9523809523809523,
+      2.630385487528345,
+      3.425033721923828,
+      3.945578231292517,
+      5.487528344671202,
+      5.98639455782313,
+      6.530612244897959,
+      6.893424036281179,
+      7.301587301587301,
+      8.979591836734693,
+      9.47845804988662,
+      10.02267573696145,
+      10.43083900226757,
+      10.9750566893424,
+      11.47392290249433,
+      11.88208616780045,
+      12.19954648526077,
+      13.15192743764172,
+      13.69614512471655,
+      14.10430839002268,
+      14.82993197278912,
+      15.51020408163265,
+      15.78231292517007,
+      16.14512471655329,
+      16.62007615795756,
+      17.09750566893424,
+      17.59637188208617,
+      19.86394557823129,
+      20.31746031746032,
+      20.66361404418945,
+      21.08843537414966,
+      22.17687074829932,
+      22.67573696145125,
+      23.03854875283447,
+      23.40136054421769,
+      23.90022675736962,
+      24.35374149659864,
+      24.73509452819824,
+      25.12471655328798,
+      26.08467120181406,
+      26.08469390869141
+    ],
+    "sentence_indices": [
+      2,
+      3,
+      13,
+      25
+    ],
+    "sentence_translations": [
+      "Phone call",
+      "",
+      "Hello, Xiao Li, I got off the plane.",
+      "I'm just about to enter a taxi to go to a resturant to eat with a friend.",
+      "How about I call you back after I've finished dinner?"
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "id": "259",
+  "title": "Numbers",
+  "level": "newbie",
+  "date": "2017-02-15",
+  "synopsis": "Can you count to 10 in Chinese?",
+  "audioUrl": "https://static.duchinese.net/documents/342/abebe5a9ab5b6ecbe7dce5a6cdb4fb0c5de2d5c2.mp3?1698353290",
+  "series": null,
+  "fullText": {
+    "simplified": "数字\n\nA：1，2，3，4，5，6，7，8，9，10……\nB：你在干什么？\nA：我在数苹果。苹果少了一个。\nB：对不起！我吃了。",
+    "traditional": "數字\n\nA：1，2，3，4，5，6，7，8，9，10……\nB：你在幹什麼？\nA：我在數蘋果。蘋果少了一個。\nB：對不起！我吃了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Numbers"
+    },
+    {
+      "index": 2,
+      "simplified": "A：1，2，3，4，5，6，7，8，9，10……",
+      "traditional": "A：1，2，3，4，5，6，7，8，9，10……",
+      "pinyin": "yī èr sān sì wǔ liù qī bā jiǔ shí",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "A: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ..."
+    },
+    {
+      "index": 4,
+      "simplified": "B：你在干什么？",
+      "traditional": "B：你在幹什麼？",
+      "pinyin": "nǐ zài gàn shén me",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: What are you doing?"
+    },
+    {
+      "index": 6,
+      "simplified": "A：我在数苹果。苹果少了一个。",
+      "traditional": "A：我在數蘋果。蘋果少了一個。",
+      "pinyin": "wǒ zài shǔ píng guǒ píng guǒ shǎo le yí ge",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "A: I'm counting apples. One apple is missing."
+    },
+    {
+      "index": 8,
+      "simplified": "B：对不起！我吃了。",
+      "traditional": "B：對不起！我吃了。",
+      "pinyin": "duì bu qǐ wǒ chī le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "B: Sorry! I ate it."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "数字",
+      "traditional": "數字",
+      "pinyin": "shù zì",
+      "meaning": "digit\nnumber",
+      "hsk": 4
+    },
+    {
+      "hanzi": "1",
+      "traditional": "1",
+      "pinyin": "yī",
+      "meaning": "1",
+      "hsk": null
+    },
+    {
+      "hanzi": "2",
+      "traditional": "2",
+      "pinyin": "èr",
+      "meaning": "2",
+      "hsk": null
+    },
+    {
+      "hanzi": "3",
+      "traditional": "3",
+      "pinyin": "sān",
+      "meaning": "3",
+      "hsk": null
+    },
+    {
+      "hanzi": "4",
+      "traditional": "4",
+      "pinyin": "sì",
+      "meaning": "4",
+      "hsk": null
+    },
+    {
+      "hanzi": "5",
+      "traditional": "5",
+      "pinyin": "wǔ",
+      "meaning": "5",
+      "hsk": null
+    },
+    {
+      "hanzi": "6",
+      "traditional": "6",
+      "pinyin": "liù",
+      "meaning": "6",
+      "hsk": null
+    },
+    {
+      "hanzi": "7",
+      "traditional": "7",
+      "pinyin": "qī",
+      "meaning": "7",
+      "hsk": null
+    },
+    {
+      "hanzi": "8",
+      "traditional": "8",
+      "pinyin": "bā",
+      "meaning": "8",
+      "hsk": null
+    },
+    {
+      "hanzi": "9",
+      "traditional": "9",
+      "pinyin": "jiǔ",
+      "meaning": "9",
+      "hsk": null
+    },
+    {
+      "hanzi": "10",
+      "traditional": "10",
+      "pinyin": "shí",
+      "meaning": "10",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "干",
+      "traditional": "幹",
+      "pinyin": "gàn",
+      "meaning": "to do\nto manage\nto work",
+      "hsk": 4
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "数",
+      "traditional": "數",
+      "pinyin": "shǔ",
+      "meaning": "to count\nto enumerate",
+      "hsk": 5
+    },
+    {
+      "hanzi": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "meaning": "apple",
+      "hsk": 1
+    },
+    {
+      "hanzi": "少",
+      "traditional": "少",
+      "pinyin": "shǎo",
+      "meaning": "few\nseldom\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "meaning": "I'm sorry",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "数字",
+        "pinyin": "shù zì",
+        "meaning": "digit\nnumber",
+        "tc_hanzi": "數字"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "A：",
+        "tc_hanzi": "A："
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "yī",
+        "meaning": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "meaning": "2",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "meaning": "3",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "sì",
+        "meaning": "4",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "meaning": "5",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "6",
+        "pinyin": "liù",
+        "meaning": "6",
+        "tc_hanzi": "6"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "7",
+        "pinyin": "qī",
+        "meaning": "7",
+        "tc_hanzi": "7"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "8",
+        "pinyin": "bā",
+        "meaning": "8",
+        "tc_hanzi": "8"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "9",
+        "pinyin": "jiǔ",
+        "meaning": "9",
+        "tc_hanzi": "9"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "shí",
+        "meaning": "10",
+        "tc_hanzi": "10"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "B：",
+        "tc_hanzi": "B："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "干",
+        "pinyin": "gàn",
+        "meaning": "to do\nto manage\nto work",
+        "tc_hanzi": "幹"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "A：",
+        "tc_hanzi": "A："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数",
+        "pinyin": "shǔ",
+        "meaning": "to count\nto enumerate",
+        "tc_hanzi": "數"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "少",
+        "pinyin": "shǎo",
+        "meaning": "few\nseldom\nlittle",
+        "tc_hanzi": "少"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "B：",
+        "tc_hanzi": "B："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "I'm sorry",
+        "tc_hanzi": "對不起"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Can you count to 10 in Chinese?",
+    "syllable_times": [
+      0.6632653061224489,
+      3.1,
+      4.3,
+      5.453514739229025,
+      6.530612244897959,
+      7.913832199546485,
+      9.16,
+      10.17,
+      11.34,
+      12.414965986394558,
+      13.5,
+      15.32312925170068,
+      15.66326530612245,
+      16.65532879818594,
+      16.93877551020408,
+      17.29591836734694,
+      18.9,
+      19.39342403628118,
+      19.92,
+      20.617913832199545,
+      21.201814058956916,
+      22.69,
+      23.168934240362812,
+      23.97,
+      24.608843537414966,
+      24.982993197278912,
+      25.396825396825395,
+      26.66,
+      27.029478458049887,
+      27.17687074829932,
+      28.37,
+      28.849206349206348,
+      29.404761904761905,
+      30.4
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      24,
+      25,
+      31,
+      32,
+      44,
+      45,
+      52
+    ],
+    "sentence_translations": [
+      "Numbers",
+      "",
+      "A: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ...",
+      "",
+      "B: What are you doing?",
+      "",
+      "A: I'm counting apples. One apple is missing.",
+      "",
+      "B: Sorry! I ate it.",
+      ""
+    ]
+  }
+}

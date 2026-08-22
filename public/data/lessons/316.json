@@ -1,0 +1,559 @@
+{
+  "id": "316",
+  "title": "That Watch Looks Great",
+  "level": "newbie",
+  "date": "2017-06-21",
+  "synopsis": "Lili admires Ben's new watch.",
+  "audioUrl": "https://static.duchinese.net/documents/449/0d405c4ac52fa1a484985737eb2e92170d61cb3d.mp3?1553269279",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 24,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "这个手表真好看\n\n丽丽：这个手表真好看，你是刚买的吗？\n本：是啊。\n丽丽：在哪儿买的？\n本：学校旁边的商店。",
+    "traditional": "這個手錶真好看\n\n麗麗：這個手錶真好看，你是剛買的嗎？\n本：是啊。\n麗麗：在哪兒買的？\n本：學校旁邊的商店。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "That watch looks great"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：这个手表真好看，你是刚买的吗？",
+      "traditional": "麗麗：這個手錶真好看，你是剛買的嗎？",
+      "pinyin": "lì lì zhè ge shǒu biǎo zhēn hǎo kàn nǐ shì gāng mǎi de ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: That watch looks great, did you just buy it?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：是啊。",
+      "traditional": "本：是啊。",
+      "pinyin": "běn shì a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Yes."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：在哪儿买的？",
+      "traditional": "麗麗：在哪兒買的？",
+      "pinyin": "lì lì zài nǎ'r mǎi de",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Where did you buy it?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：学校旁边的商店。",
+      "traditional": "本：學校旁邊的商店。",
+      "pinyin": "běn xué xiào páng biān de shāng diàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: The store next to the school."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "手表",
+      "traditional": "手錶",
+      "pinyin": "shǒu biǎo",
+      "meaning": "wrist watch",
+      "hsk": 2
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "刚",
+      "traditional": "剛",
+      "pinyin": "gāng",
+      "meaning": "just\nas soon as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "meaning": "side\nbeside",
+      "hsk": 2
+    },
+    {
+      "hanzi": "商店",
+      "traditional": "商店",
+      "pinyin": "shāng diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手表",
+        "pinyin": "shǒu biǎo",
+        "meaning": "wrist watch",
+        "tc_hanzi": "手錶"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手表",
+        "pinyin": "shǒu biǎo",
+        "meaning": "wrist watch",
+        "tc_hanzi": "手錶"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好看",
+        "pinyin": "hǎo kàn",
+        "meaning": "nice-looking\ngood (of a movie, book, TV show etc)",
+        "tc_hanzi": "好看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "刚",
+        "pinyin": "gāng",
+        "meaning": "just\nas soon as",
+        "tc_hanzi": "剛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "side\nbeside",
+        "tc_hanzi": "旁邊"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "商店",
+        "pinyin": "shāng diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "商店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili admires Ben's new watch.",
+    "syllable_times": [
+      0.49,
+      0.97,
+      1.5129410696582009,
+      2.34,
+      2.81,
+      3.195591307994426,
+      4.8594588035691055,
+      4.8594588035691055,
+      4.8594588035691055,
+      5.28,
+      5.75,
+      6.258152954401771,
+      7.18,
+      7.600100186655332,
+      8.076313593935092,
+      9.51,
+      9.91,
+      10.77,
+      11.2,
+      11.588588208272299,
+      11.78,
+      13.783289681468684,
+      13.783289681468684,
+      14.27469761885979,
+      16.400824361407892,
+      16.400824361407892,
+      16.400824361407892,
+      16.841244240028857,
+      17.32,
+      17.765,
+      19.630348643353603,
+      19.630348643353603,
+      20.041398336948852,
+      20.34,
+      20.689999999999998,
+      21.04,
+      21.22,
+      21.676525516628978,
+      22.272812,
+      22.272812
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      22,
+      23,
+      28,
+      29,
+      36,
+      37,
+      44
+    ],
+    "sentence_translations": [
+      "That watch looks great",
+      "",
+      "Lili: That watch looks great, did you just buy it?",
+      "",
+      "Ben: Yes.",
+      "",
+      "Lili: Where did you buy it?",
+      "",
+      "Ben: The store next to the school.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "id": "E134",
+  "title": "This is My Friend",
+  "level": "newbie",
+  "date": "2017-07-15",
+  "synopsis": "How does Paul’s friend introduce him in Chinese?",
+  "audioUrl": "https://static.duchinese.net/documents/472/14616812debf34ae3e8592d74936bbfcbec44060.mp3?1499718661",
+  "series": null,
+  "fullText": {
+    "simplified": "这是我朋友\n\n    这是我朋友，他叫保罗。他是美国人，在上海学习汉语。他喜欢打乒乓球，还喜欢旅游。他很喜欢吃中国菜，也会做中国菜。",
+    "traditional": "這是我朋友\n\n    這是我朋友，他叫保羅。他是美國人，在上海學習漢語。他喜歡打乒乓球，還喜歡旅遊。他很喜歡吃中國菜，也會做中國菜。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "This is my friend"
+    },
+    {
+      "index": 2,
+      "simplified": "这是我朋友，他叫保罗。",
+      "traditional": "這是我朋友，他叫保羅。",
+      "pinyin": "zhè shì wǒ péng you tā jiào bǎo luó",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "他是美国人，在上海学习汉语。",
+      "traditional": "他是美國人，在上海學習漢語。",
+      "pinyin": "tā shì měi guó rén zài shàng hǎi xué xí hàn yǔ",
+      "english": "This is my friend and his name is Paul."
+    },
+    {
+      "index": 4,
+      "simplified": "他喜欢打乒乓球，还喜欢旅游。",
+      "traditional": "他喜歡打乒乓球，還喜歡旅遊。",
+      "pinyin": "tā xǐ huan dǎ pīng pāng qiú hái xǐ huan lǚ yóu",
+      "english": "He is from the U.S. and studies Chinese in Shanghai."
+    },
+    {
+      "index": 5,
+      "simplified": "他很喜欢吃中国菜，也会做中国菜。",
+      "traditional": "他很喜歡吃中國菜，也會做中國菜。",
+      "pinyin": "tā hěn xǐ huan chī zhōng guó cài yě huì zuò zhōng guó cài",
+      "english": "He likes to play ping-pong and travel."
+    },
+    {
+      "index": 6,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "He very much likes to eat Chinese food. He can also make Chinese dishes."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "美国人",
+      "traditional": "美國人",
+      "pinyin": "měi guó rén",
+      "meaning": "American\nAmerican person",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上海",
+      "traditional": "上海",
+      "pinyin": "shàng hǎi",
+      "meaning": "Shanghai",
+      "hsk": null
+    },
+    {
+      "hanzi": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "meaning": "to learn\nto study",
+      "hsk": 1
+    },
+    {
+      "hanzi": "汉语",
+      "traditional": "漢語",
+      "pinyin": "hàn yǔ",
+      "meaning": "Chinese language",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to play (a game)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "乒乓球",
+      "traditional": "乒乓球",
+      "pinyin": "pīng pāng qiú",
+      "meaning": "table tennis\nping-pong",
+      "hsk": 4
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "旅游",
+      "traditional": "旅遊",
+      "pinyin": "lǚ yóu",
+      "meaning": "tourism\ntravel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "美国人",
+        "pinyin": "měi guó rén",
+        "meaning": "American\nAmerican person",
+        "tc_hanzi": "美國人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "上海",
+        "pinyin": "shàng hǎi",
+        "meaning": "Shanghai",
+        "tc_hanzi": "上海"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学习",
+        "pinyin": "xué xí",
+        "meaning": "to learn\nto study",
+        "tc_hanzi": "學習"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language",
+        "tc_hanzi": "漢語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to play (a game)",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "乒乓球",
+        "pinyin": "pīng pāng qiú",
+        "meaning": "table tennis\nping-pong",
+        "tc_hanzi": "乒乓球"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旅游",
+        "pinyin": "lǚ yóu",
+        "meaning": "tourism\ntravel",
+        "tc_hanzi": "旅遊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "hui-skill",
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How does Paul’s friend introduce him in Chinese?",
+    "syllable_times": [
+      0.3424004689627087,
+      0.8163265306122449,
+      1.224489795918367,
+      1.627897764757737,
+      5.215419501133787,
+      5.62358276643991,
+      6.077097505668934,
+      6.485260770975056,
+      6.907299120094359,
+      8.88888888888889,
+      9.251700680272108,
+      9.795918367346939,
+      10.20408163265306,
+      13.01587301587302,
+      13.42403628117914,
+      13.92290249433107,
+      14.33106575963719,
+      14.69387755102041,
+      16.91609977324263,
+      17.32603765890068,
+      17.80155201537006,
+      18.27664399092971,
+      18.68480725623583,
+      19.13832199546485,
+      19.55553349913766,
+      21.90476190476191,
+      22.31292517006803,
+      22.78270333912939,
+      23.44671201814059,
+      23.85487528344671,
+      24.30839002267574,
+      24.71655328798186,
+      26.93877551020408,
+      27.3469387755102,
+      27.84580498866213,
+      28.48072562358277,
+      28.93424036281179,
+      31.60997732426304,
+      32.15419501133787,
+      32.51700680272109,
+      32.97052154195011,
+      33.51473922902494,
+      34.01360544217687,
+      34.42176870748299,
+      34.69387755102041,
+      36.87074829931973,
+      37.24602708965765,
+      37.64172335600907,
+      38.2312925170068,
+      38.63945578231292,
+      38.91156462585034,
+      39.61297052154195,
+      39.61297052154195
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      16,
+      25,
+      34,
+      47
+    ],
+    "sentence_translations": [
+      "This is my friend",
+      "",
+      "This is my friend and his name is Paul.",
+      "He is from the U.S. and studies Chinese in Shanghai.",
+      "He likes to play ping-pong and travel.",
+      "He very much likes to eat Chinese food. He can also make Chinese dishes.",
+      ""
+    ]
+  }
+}

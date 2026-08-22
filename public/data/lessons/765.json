@@ -1,0 +1,846 @@
+{
+  "id": "765",
+  "title": "A Beginner on the Road",
+  "level": "intermediate",
+  "date": "2019-09-22",
+  "synopsis": "Little Zhang is not an experienced driver.",
+  "audioUrl": "https://static.duchinese.net/documents/1153/bcf5ebfbc48fa101f3a578602d512b8af19e6661.mp3?1568622581",
+  "series": null,
+  "fullText": {
+    "simplified": "新手上路\n\n小何：刹车！刹车！\n小张：哦！\n小何：吓死我了！你没看到有人在过人行横道吗？\n小张：还真没看到。\n小何：真不知道你怎么拿到驾照的。\n小张：我新手上路嘛，多多包涵！",
+    "traditional": "新手上路\n\n小何：剎車！剎車！\n小張：哦！\n小何：嚇死我了！你沒看到有人在過人行橫道嗎？\n小張：還真沒看到。\n小何：真不知道你怎麼拿到駕照的。\n小張：我新手上路嘛，多多包涵！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "A Beginner on the Road"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：刹车！刹车！",
+      "traditional": "小何：剎車！剎車！",
+      "pinyin": "xiǎo hé shā chē shā chē",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Brake the car! Brake the car!"
+    },
+    {
+      "index": 4,
+      "simplified": "小张：哦！",
+      "traditional": "小張：哦！",
+      "pinyin": "xiǎo zhāng ò",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Oh!"
+    },
+    {
+      "index": 6,
+      "simplified": "小何：吓死我了！你没看到有人在过人行横道吗？",
+      "traditional": "小何：嚇死我了！你沒看到有人在過人行橫道嗎？",
+      "pinyin": "xiǎo hé xià sǐ wǒ le nǐ méi kàn dào yǒu rén zài guò rén xíng héng dào ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: You scared me to death! Didn’t you see there’s someone passing at the crosswalk?"
+    },
+    {
+      "index": 8,
+      "simplified": "小张：还真没看到。",
+      "traditional": "小張：還真沒看到。",
+      "pinyin": "xiǎo zhāng hái zhēn méi kàn dào",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: I really didn’t even notice."
+    },
+    {
+      "index": 10,
+      "simplified": "小何：真不知道你怎么拿到驾照的。",
+      "traditional": "小何：真不知道你怎麼拿到駕照的。",
+      "pinyin": "xiǎo hé zhēn bù zhī dào nǐ zěn me ná dào jià zhào de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: I really don’t know how you got a hold of a driving license."
+    },
+    {
+      "index": 12,
+      "simplified": "小张：我新手上路嘛，多多包涵！",
+      "traditional": "小張：我新手上路嘛，多多包涵！",
+      "pinyin": "xiǎo zhāng wǒ xīn shǒu shàng lù ma duō duō bāo hán",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Zhang: I’m a beginner on the road, please bear with me!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "新手",
+      "traditional": "新手",
+      "pinyin": "xīn shǒu",
+      "meaning": "beginner\nnovice",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "to get onto\nto go up",
+      "hsk": 1
+    },
+    {
+      "hanzi": "路",
+      "traditional": "路",
+      "pinyin": "lù",
+      "meaning": "road\nstreet",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "刹车",
+      "traditional": "剎車",
+      "pinyin": "shā chē",
+      "meaning": "to brake (when driving)\nto stop\nto switch off",
+      "hsk": 6
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "ò",
+      "meaning": "oh (interjection indicating that one has just learned sth)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "吓",
+      "traditional": "嚇",
+      "pinyin": "xià",
+      "meaning": "to frighten\nto scare",
+      "hsk": 5
+    },
+    {
+      "hanzi": "死",
+      "traditional": "死",
+      "pinyin": "sǐ",
+      "meaning": "death\nto die",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "to cross\nto go over",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人行横道",
+      "traditional": "人行橫道",
+      "pinyin": "rén xíng héng dào",
+      "meaning": "pedestrian crossing",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold\nto take",
+      "hsk": 3
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "(verb complement denoting completion or result of an action)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "驾照",
+      "traditional": "駕照",
+      "pinyin": "jià zhào",
+      "meaning": "driver's license",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(used to add a positive or affirmative tone)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "嘛",
+      "traditional": "嘛",
+      "pinyin": "ma",
+      "meaning": "modal particle indicating that sth is obvious\nparticle indicating a pause for emphasis",
+      "hsk": 6
+    },
+    {
+      "hanzi": "多多",
+      "traditional": "多多",
+      "pinyin": "duō duō",
+      "meaning": "many\nmuch\na lot",
+      "hsk": null
+    },
+    {
+      "hanzi": "包涵",
+      "traditional": "包涵",
+      "pinyin": "bāo hán",
+      "meaning": "to excuse\nto forgive\nto bear with",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "新手",
+        "pinyin": "xīn shǒu",
+        "meaning": "beginner\nnovice",
+        "tc_hanzi": "新手"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路",
+        "pinyin": "lù",
+        "meaning": "road\nstreet",
+        "tc_hanzi": "路"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "刹车",
+        "pinyin": "shā chē",
+        "meaning": "to brake (when driving)\nto stop\nto switch off",
+        "tc_hanzi": "剎車"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "刹车",
+        "pinyin": "shā chē",
+        "meaning": "to brake (when driving)\nto stop\nto switch off",
+        "tc_hanzi": "剎車"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "oh (interjection indicating that one has just learned sth)",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吓",
+        "pinyin": "xià",
+        "meaning": "to frighten\nto scare",
+        "tc_hanzi": "嚇"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "to cross\nto go over",
+        "tc_hanzi": "過"
+      },
+      {
+        "hanzi": "人行横道",
+        "pinyin": "rén xíng héng dào",
+        "meaning": "pedestrian crossing",
+        "tc_hanzi": "人行橫道"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "驾照",
+        "pinyin": "jià zhào",
+        "meaning": "driver's license",
+        "tc_hanzi": "駕照"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "新手",
+        "pinyin": "xīn shǒu",
+        "meaning": "beginner\nnovice",
+        "tc_hanzi": "新手"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路",
+        "pinyin": "lù",
+        "meaning": "road\nstreet",
+        "tc_hanzi": "路"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "嘛",
+        "pinyin": "ma",
+        "meaning": "modal particle indicating that sth is obvious\nparticle indicating a pause for emphasis",
+        "tc_hanzi": "嘛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "多多",
+        "pinyin": "duō duō",
+        "meaning": "many\nmuch\na lot",
+        "tc_hanzi": "多多"
+      },
+      {
+        "hanzi": "包涵",
+        "pinyin": "bāo hán",
+        "meaning": "to excuse\nto forgive\nto bear with",
+        "tc_hanzi": "包涵"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Zhang is not an experienced driver.",
+    "syllable_times": [
+      0.4412689023219675,
+      0.94,
+      1.31,
+      2.8158297434529165,
+      2.8158297434529165,
+      2.8158297434529165,
+      3.1550000000000002,
+      3.66,
+      4.03,
+      5.4136603363258144,
+      5.4136603363258144,
+      5.4136603363258144,
+      6.8005813849366845,
+      6.8005813849366845,
+      6.8005813849366845,
+      7.26,
+      7.5,
+      7.73,
+      8.92,
+      9.16,
+      9.35,
+      9.665,
+      10.2,
+      10.585,
+      11.02,
+      11.31,
+      11.52,
+      11.7925,
+      12.065,
+      12.337499999999999,
+      12.61,
+      14.14442548718914,
+      14.14442548718914,
+      14.14442548718914,
+      14.55,
+      14.98,
+      15.21,
+      15.565000000000001,
+      16.866403097346844,
+      16.866403097346844,
+      16.866403097346844,
+      17.17,
+      17.413333333333334,
+      17.656666666666666,
+      18.23,
+      18.49,
+      18.715,
+      18.94,
+      19.184485418372923,
+      19.35,
+      19.61,
+      19.87,
+      21.698223459112835,
+      21.698223459112835,
+      21.698223459112835,
+      22.02725956022193,
+      22.381585688755077,
+      22.68,
+      23.105385387816163,
+      23.38,
+      24.13,
+      24.334188401569115,
+      24.47,
+      24.775,
+      25.352766,
+      25.352766
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      11,
+      12,
+      16,
+      17,
+      34,
+      35,
+      42,
+      43,
+      55,
+      56,
+      67
+    ],
+    "sentence_translations": [
+      "A Beginner on the Road",
+      "",
+      "Little He: Brake the car! Brake the car!",
+      "",
+      "Little Zhang: Oh!",
+      "",
+      "Little He: You scared me to death! Didn’t you see there’s someone passing at the crosswalk?",
+      "",
+      "Little Zhang: I really didn’t even notice.",
+      "",
+      "Little He: I really don’t know how you got a hold of a driving license.",
+      "",
+      "Little Zhang: I’m a beginner on the road, please bear with me!",
+      ""
+    ]
+  }
+}

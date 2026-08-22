@@ -1,0 +1,958 @@
+{
+  "id": "E368",
+  "title": "Out Of Phone Credit",
+  "level": "elementary",
+  "date": "2019-10-12",
+  "synopsis": "Ben’s phone suddenly stopped working. What should he do?",
+  "audioUrl": "https://static.duchinese.net/documents/1175/0afc5ee1650a0fe85f61b4f75dcc37a149f44baa.mp3?1569843043",
+  "series": null,
+  "fullText": {
+    "simplified": "你的手机停机了\n\n本：丽丽，我的手机怎么不能用了。你能帮我看看吗？\n丽丽：我看看。哦，你的手机欠费停机了，你看这条短信。\n本：这样啊！那怎么办？\n丽丽：别担心，我上网帮你充钱就可以了。\n本：谢谢你，丽丽！",
+    "traditional": "你的手機停機了\n\n本：麗麗，我的手機怎麼不能用了。你能幫我看看嗎？\n麗麗：我看看。哦，你的手機欠費停機了，你看這條短信。\n本：這樣啊！那怎麼辦？\n麗麗：別擔心，我上網幫你充錢就可以了。\n本：謝謝你，麗麗！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Your phone has run out of credit"
+    },
+    {
+      "index": 2,
+      "simplified": "本：丽丽，我的手机怎么不能用了。你能帮我看看吗？",
+      "traditional": "本：麗麗，我的手機怎麼不能用了。你能幫我看看嗎？",
+      "pinyin": "běn lì lì wǒ de shǒu jī zěn me bù néng yòng le nǐ néng bāng wǒ kàn kan ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Lili, why can’t I use my phone. Can you help me look at it?"
+    },
+    {
+      "index": 4,
+      "simplified": "丽丽：我看看。哦，你的手机欠费停机了，你看这条短信。",
+      "traditional": "麗麗：我看看。哦，你的手機欠費停機了，你看這條短信。",
+      "pinyin": "lì lì wǒ kàn kan ò nǐ de shǒu jī qiàn fèi tíng jī le nǐ kàn zhè tiáo duǎn xìn",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Let me see. Oh, your phone has run out of credit and been shut down, look at this text message."
+    },
+    {
+      "index": 6,
+      "simplified": "本：这样啊！那怎么办？",
+      "traditional": "本：這樣啊！那怎麼辦？",
+      "pinyin": "běn zhè yàng a nà zěn me bàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: So it’s like that! Then what should I do?"
+    },
+    {
+      "index": 8,
+      "simplified": "丽丽：别担心，我上网帮你充钱就可以了。",
+      "traditional": "麗麗：別擔心，我上網幫你充錢就可以了。",
+      "pinyin": "lì lì bié dān xīn wǒ shàng wǎng bāng nǐ chōng qián jiù kě yǐ le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Don’t worry, I’ll go online to help you top it up and it will work again."
+    },
+    {
+      "index": 10,
+      "simplified": "本：谢谢你，丽丽！",
+      "traditional": "本：謝謝你，麗麗！",
+      "pinyin": "běn xiè xie nǐ lì lì",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Thank you, Lili!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "停机",
+      "traditional": "停機",
+      "pinyin": "tíng jī",
+      "meaning": "(of a machine) to stop\nto shut down\n(of a prepaid mobile phone) to be out of credit",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "ò",
+      "meaning": "oh (interjection indicating that one has just learned sth)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "欠费",
+      "traditional": "欠費",
+      "pinyin": "qiàn fèi",
+      "meaning": "to be out of credit",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "meaning": "item\narticle\nclause (of law or treaty)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "短信",
+      "traditional": "短信",
+      "pinyin": "duǎn xìn",
+      "meaning": "text message\nSMS",
+      "hsk": 4
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "manner\nway\nappearance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么办",
+      "traditional": "怎麼辦",
+      "pinyin": "zěn me bàn",
+      "meaning": "what to do\nwhat should we do",
+      "hsk": 3
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "do not\nmust not",
+      "hsk": 2
+    },
+    {
+      "hanzi": "担心",
+      "traditional": "擔心",
+      "pinyin": "dān xīn",
+      "meaning": "to worry\nto be anxious",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上网",
+      "traditional": "上網",
+      "pinyin": "shàng wǎng",
+      "meaning": "to go online\nto connect to the Internet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "充",
+      "traditional": "充",
+      "pinyin": "chōng",
+      "meaning": "to fill\nto satisfy\nto charge",
+      "hsk": 5
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "停机",
+        "pinyin": "tíng jī",
+        "meaning": "(of a machine) to stop\nto shut down\n(of a prepaid mobile phone) to be out of credit",
+        "tc_hanzi": "停機"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "oh (interjection indicating that one has just learned sth)",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "欠费",
+        "pinyin": "qiàn fèi",
+        "meaning": "to be out of credit",
+        "tc_hanzi": "欠費"
+      },
+      {
+        "hanzi": "停机",
+        "pinyin": "tíng jī",
+        "meaning": "(of a machine) to stop\nto shut down\n(of a prepaid mobile phone) to be out of credit",
+        "tc_hanzi": "停機"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "item\narticle\nclause (of law or treaty)",
+        "tc_hanzi": "條"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "短信",
+        "pinyin": "duǎn xìn",
+        "meaning": "text message\nSMS",
+        "tc_hanzi": "短信"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "manner\nway\nappearance",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "do not\nmust not",
+        "tc_hanzi": "別"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "担心",
+        "pinyin": "dān xīn",
+        "meaning": "to worry\nto be anxious",
+        "tc_hanzi": "擔心"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "上网",
+        "pinyin": "shàng wǎng",
+        "meaning": "to go online\nto connect to the Internet",
+        "tc_hanzi": "上網"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "充",
+        "pinyin": "chōng",
+        "meaning": "to fill\nto satisfy\nto charge",
+        "tc_hanzi": "充"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben’s phone suddenly stopped working. What should he do?",
+    "syllable_times": [
+      0.27999999999999997,
+      0.48,
+      0.86,
+      1.43,
+      1.7599999999999998,
+      2.09,
+      4.455974091127652,
+      4.455974091127652,
+      4.800000000000001,
+      5.99,
+      6.18,
+      6.37,
+      6.74,
+      7.39,
+      7.645,
+      7.94,
+      8.175,
+      8.41,
+      8.719999999999999,
+      10.01,
+      10.325,
+      10.64,
+      10.92,
+      11.38,
+      11.68,
+      11.98,
+      13.913091984192663,
+      13.913091984192663,
+      13.913091984192663,
+      14.23,
+      14.565000000000001,
+      16.19,
+      17.31,
+      17.525,
+      17.74,
+      18.165,
+      18.64,
+      19.045,
+      19.48,
+      19.84,
+      20.13,
+      21.34,
+      21.6,
+      22,
+      22.27,
+      22.54,
+      22.88,
+      24.87686863110421,
+      24.87686863110421,
+      25.229999999999997,
+      25.56,
+      26.95,
+      27.48,
+      27.743333333333332,
+      28.006666666666668,
+      30.04760813225524,
+      30.04760813225524,
+      30.04760813225524,
+      30.413333333333334,
+      30.786666666666665,
+      31.8,
+      32.15,
+      32.535,
+      32.97,
+      33.17,
+      33.37,
+      33.68,
+      34.29,
+      34.575,
+      34.86,
+      35.144999999999996,
+      37.06100754132108,
+      37.06100754132108,
+      37.49309044364788,
+      37.77229270490513,
+      38.45,
+      38.785,
+      39.409854,
+      39.409854
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      27,
+      28,
+      48,
+      49,
+      58,
+      59,
+      74,
+      75,
+      82
+    ],
+    "sentence_translations": [
+      "Your phone has run out of credit",
+      "",
+      "Ben: Lili, why can’t I use my phone. Can you help me look at it?",
+      "",
+      "Lili: Let me see. Oh, your phone has run out of credit and been shut down, look at this text message.",
+      "",
+      "Ben: So it’s like that! Then what should I do?",
+      "",
+      "Lili: Don’t worry, I’ll go online to help you top it up and it will work again.",
+      "",
+      "Ben: Thank you, Lili!",
+      ""
+    ]
+  }
+}

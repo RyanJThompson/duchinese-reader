@@ -1,0 +1,1879 @@
+{
+  "id": "E014",
+  "title": "Ordering Coffee",
+  "level": "intermediate",
+  "date": "2016-04-27",
+  "synopsis": "Can you order coffee in Chinese? Let's learn how to say latte, espresso and cappuccino!",
+  "audioUrl": "https://static.duchinese.net/documents/117/3eb29cc7ff97889a34f16dd0f6812d4b186d820a.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "点咖啡\n\n店员：你好！请问要点儿什么？\n小明：你好！我要一杯咖啡。\n店员：你要什么咖啡？我们这儿的拿铁和卡布奇诺都很受欢迎。\n小明：谢谢，可是我更喜欢意式浓缩。\n店员：你要单份还是双份呢？\n小明：双份吧。\n店员：请问在这儿喝还是带走？\n小明：在这儿喝。\n店员：还要别的吗？\n小明：再来一块芝士蛋糕。\n店员：好的，一杯双份意式浓缩，一块芝士蛋糕。一共35元。\n小明：给你钱。\n店员：收你100元，找你65元。请在旁边等候，你的咖啡很快就好。\n小明：好的，谢谢。",
+    "traditional": "點咖啡\n\n店員：你好！請問要點兒什麼？\n小明：你好！我要一杯咖啡。\n店員：你要什麼咖啡？我們這兒的拿鐵和卡布奇諾都很受歡迎。\n小明：謝謝，可是我更喜歡義式濃縮。\n店員：你要單份還是雙份呢？\n小明：雙份吧。\n店員：請問在這兒喝還是帶走？\n小明：在這兒喝。\n店員：還要別的嗎？\n小明：再來一塊芝士蛋糕。\n店員：好的，一杯雙份義式濃縮，一塊芝士蛋糕。一共35元。\n小明：給你錢。\n店員：收你100元，找你65元。請在旁邊等候，你的咖啡很快就好。\n小明：好的，謝謝。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Ordering Coffee"
+    },
+    {
+      "index": 2,
+      "simplified": "店员：你好！请问要点儿什么？",
+      "traditional": "店員：你好！請問要點兒什麼？",
+      "pinyin": "diàn yuán nǐ hǎo qǐng wèn yào diǎn'r shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Barista: Hello! What would you like to order?"
+    },
+    {
+      "index": 4,
+      "simplified": "小明：你好！我要一杯咖啡。",
+      "traditional": "小明：你好！我要一杯咖啡。",
+      "pinyin": "xiǎo míng nǐ hǎo wǒ yào yì bēi kā fēi",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Xiao Ming: Hello! I would like a cup of coffee."
+    },
+    {
+      "index": 6,
+      "simplified": "店员：你要什么咖啡？我们这儿的拿铁和卡布奇诺都很受欢迎。",
+      "traditional": "店員：你要什麼咖啡？我們這兒的拿鐵和卡布奇諾都很受歡迎。",
+      "pinyin": "diàn yuán nǐ yào shén me kā fēi wǒ men zhè‘r de ná tiě hé kǎ bù qí nuò dōu hěn shòu huān yíng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: What kind of coffee would you like? Our latte and cappuccino are both very well received."
+    },
+    {
+      "index": 8,
+      "simplified": "小明：谢谢，可是我更喜欢意式浓缩。",
+      "traditional": "小明：謝謝，可是我更喜歡義式濃縮。",
+      "pinyin": "xiǎo míng xiè xie kě shì wǒ gèng xǐ huan yì shì nóng suō",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "X: Thanks, but I prefer espresso."
+    },
+    {
+      "index": 10,
+      "simplified": "店员：你要单份还是双份呢？",
+      "traditional": "店員：你要單份還是雙份呢？",
+      "pinyin": "diàn yuán nǐ yào dān fèn hái shi shuāng fèn ne",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: Would you like a single or a double?"
+    },
+    {
+      "index": 12,
+      "simplified": "小明：双份吧。",
+      "traditional": "小明：雙份吧。",
+      "pinyin": "xiǎo míng shuāng fèn ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "X: A double."
+    },
+    {
+      "index": 14,
+      "simplified": "店员：请问在这儿喝还是带走？",
+      "traditional": "店員：請問在這兒喝還是帶走？",
+      "pinyin": "diàn yuán qǐng wèn zài zhè‘r hē hái shi dài zǒu",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: Would you like it for here or to go?"
+    },
+    {
+      "index": 16,
+      "simplified": "小明：在这儿喝。",
+      "traditional": "小明：在這兒喝。",
+      "pinyin": "xiǎo míng zài zhè‘r hē",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "X: For here."
+    },
+    {
+      "index": 18,
+      "simplified": "店员：还要别的吗？",
+      "traditional": "店員：還要別的嗎？",
+      "pinyin": "diàn yuán hái yào bié de ma",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: Anything else?"
+    },
+    {
+      "index": 20,
+      "simplified": "小明：再来一块芝士蛋糕。",
+      "traditional": "小明：再來一塊芝士蛋糕。",
+      "pinyin": "xiǎo míng zài lái yí kuài zhī shì dàn gāo",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "X: A piece of cheese cake as well."
+    },
+    {
+      "index": 22,
+      "simplified": "店员：好的，一杯双份意式浓缩，一块芝士蛋糕。一共35元。",
+      "traditional": "店員：好的，一杯雙份義式濃縮，一塊芝士蛋糕。一共35元。",
+      "pinyin": "diàn yuán hǎo de yì bēi shuāng fèn yì shì nóng suō yí kuài zhī shì dàn gāo yí gòng 3 yuán",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: Okay, a double espresso and a piece of cheese cake. In total that is thirty five yuan."
+    },
+    {
+      "index": 24,
+      "simplified": "小明：给你钱。",
+      "traditional": "小明：給你錢。",
+      "pinyin": "xiǎo míng gěi nǐ qián",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "X: Here you go."
+    },
+    {
+      "index": 26,
+      "simplified": "店员：收你100元，找你65元。请在旁边等候，你的咖啡很快就好。",
+      "traditional": "店員：收你100元，找你65元。請在旁邊等候，你的咖啡很快就好。",
+      "pinyin": "diàn yuán shōu nǐ 2 yuán zhǎo nǐ 3 yuán qǐng zài páng biān děng hòu nǐ de kā fēi hěn kuài jiù hǎo",
+      "english": ""
+    },
+    {
+      "index": 27,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "B: You gave me a hundred, here is sixty five kuai back. Please wait nearby, your coffee will be done soon."
+    },
+    {
+      "index": 28,
+      "simplified": "小明：好的，谢谢。",
+      "traditional": "小明：好的，謝謝。",
+      "pinyin": "xiǎo míng hǎo de xiè xie",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "to order (food)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "咖啡",
+      "traditional": "咖啡",
+      "pinyin": "kā fēi",
+      "meaning": "coffee (loanword)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点儿",
+      "traditional": "點兒",
+      "pinyin": "diǎn'r",
+      "meaning": "a little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿铁",
+      "traditional": "拿鐵",
+      "pinyin": "ná tiě",
+      "meaning": "latte (coffee loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "卡布奇诺",
+      "traditional": "卡布奇諾",
+      "pinyin": "kǎ bù qí nuò",
+      "meaning": "cappuccino (coffee loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "受欢迎",
+      "traditional": "受歡迎",
+      "pinyin": "shòu huān yíng",
+      "meaning": "popular\nwell-received",
+      "hsk": 3
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "更",
+      "traditional": "更",
+      "pinyin": "gèng",
+      "meaning": "even more\nfurther\nfurthermore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "意式浓缩",
+      "traditional": "義式濃縮",
+      "pinyin": "yì shì nóng suō",
+      "meaning": "espresso (coffee loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "单",
+      "traditional": "單",
+      "pinyin": "dān",
+      "meaning": "single\nonly\nsole",
+      "hsk": null
+    },
+    {
+      "hanzi": "份",
+      "traditional": "份",
+      "pinyin": "fèn",
+      "meaning": "portion\npart",
+      "hsk": 4
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "双",
+      "traditional": "雙",
+      "pinyin": "shuāng",
+      "meaning": "pair\ndouble\ntwo",
+      "hsk": 3
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "带走",
+      "traditional": "帶走",
+      "pinyin": "dài zǒu",
+      "meaning": "to take away\nto carry out (esp. food)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "meaning": "other\nanother",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "classifier for lumps and flat items",
+      "hsk": 1
+    },
+    {
+      "hanzi": "芝士",
+      "traditional": "芝士",
+      "pinyin": "zhī shì",
+      "meaning": "cheese (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "蛋糕",
+      "traditional": "蛋糕",
+      "pinyin": "dàn gāo",
+      "meaning": "cake",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一共",
+      "traditional": "一共",
+      "pinyin": "yí gòng",
+      "meaning": "altogether",
+      "hsk": 3
+    },
+    {
+      "hanzi": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "meaning": "Chinese yuan (currency)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "收",
+      "traditional": "收",
+      "pinyin": "shōu",
+      "meaning": "to receive\nto accept\nto collect",
+      "hsk": 4
+    },
+    {
+      "hanzi": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to return\nto give change",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "meaning": "side\nbeside",
+      "hsk": 2
+    },
+    {
+      "hanzi": "等候",
+      "traditional": "等候",
+      "pinyin": "děng hòu",
+      "meaning": "to wait\nto wait for",
+      "hsk": 6
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "to order (food)",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "咖啡",
+        "pinyin": "kā fēi",
+        "meaning": "coffee (loanword)",
+        "tc_hanzi": "咖啡"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "erhua",
+        "hsk": 1,
+        "hanzi": "点儿",
+        "pinyin": "diǎn'r",
+        "meaning": "a little\nsome",
+        "tc_hanzi": "點兒"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "咖啡",
+        "pinyin": "kā fēi",
+        "meaning": "coffee (loanword)",
+        "tc_hanzi": "咖啡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "咖啡",
+        "pinyin": "kā fēi",
+        "meaning": "coffee (loanword)",
+        "tc_hanzi": "咖啡"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "拿铁",
+        "pinyin": "ná tiě",
+        "meaning": "latte (coffee loanword)",
+        "tc_hanzi": "拿鐵"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "卡布奇诺",
+        "pinyin": "kǎ bù qí nuò",
+        "meaning": "cappuccino (coffee loanword)",
+        "tc_hanzi": "卡布奇諾"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "受欢迎",
+        "pinyin": "shòu huān yíng",
+        "meaning": "popular\nwell-received",
+        "tc_hanzi": "受歡迎"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "更",
+        "pinyin": "gèng",
+        "meaning": "even more\nfurther\nfurthermore",
+        "tc_hanzi": "更"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "意式浓缩",
+        "pinyin": "yì shì nóng suō",
+        "meaning": "espresso (coffee loanword)",
+        "tc_hanzi": "義式濃縮"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "单",
+        "pinyin": "dān",
+        "meaning": "single\nonly\nsole",
+        "tc_hanzi": "單"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "portion\npart",
+        "tc_hanzi": "份"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "双",
+        "pinyin": "shuāng",
+        "meaning": "pair\ndouble\ntwo",
+        "tc_hanzi": "雙"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "portion\npart",
+        "tc_hanzi": "份"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "双",
+        "pinyin": "shuāng",
+        "meaning": "pair\ndouble\ntwo",
+        "tc_hanzi": "雙"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "portion\npart",
+        "tc_hanzi": "份"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带走",
+        "pinyin": "dài zǒu",
+        "meaning": "to take away\nto carry out (esp. food)",
+        "tc_hanzi": "帶走"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "other\nanother",
+        "tc_hanzi": "別"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "classifier for lumps and flat items",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "芝士",
+        "pinyin": "zhī shì",
+        "meaning": "cheese (loanword)",
+        "tc_hanzi": "芝士"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蛋糕",
+        "pinyin": "dàn gāo",
+        "meaning": "cake",
+        "tc_hanzi": "蛋糕"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "双",
+        "pinyin": "shuāng",
+        "meaning": "pair\ndouble\ntwo",
+        "tc_hanzi": "雙"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "份",
+        "pinyin": "fèn",
+        "meaning": "portion\npart",
+        "tc_hanzi": "份"
+      },
+      {
+        "hanzi": "意式浓缩",
+        "pinyin": "yì shì nóng suō",
+        "meaning": "espresso (coffee loanword)",
+        "tc_hanzi": "義式濃縮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "classifier for lumps and flat items",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "芝士",
+        "pinyin": "zhī shì",
+        "meaning": "cheese (loanword)",
+        "tc_hanzi": "芝士"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "蛋糕",
+        "pinyin": "dàn gāo",
+        "meaning": "cake",
+        "tc_hanzi": "蛋糕"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一共",
+        "pinyin": "yí gòng",
+        "meaning": "altogether",
+        "tc_hanzi": "一共"
+      },
+      {
+        "hanzi": "35",
+        "pinyin": "3",
+        "tc_hanzi": "35"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "收",
+        "pinyin": "shōu",
+        "meaning": "to receive\nto accept\nto collect",
+        "tc_hanzi": "收"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "100",
+        "pinyin": "2",
+        "tc_hanzi": "100"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to return\nto give change",
+        "tc_hanzi": "找"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "65",
+        "pinyin": "3",
+        "tc_hanzi": "65"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "Chinese yuan (currency)",
+        "tc_hanzi": "元"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "qing",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旁边",
+        "pinyin": "páng biān",
+        "meaning": "side\nbeside",
+        "tc_hanzi": "旁邊"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "等候",
+        "pinyin": "děng hòu",
+        "meaning": "to wait\nto wait for",
+        "tc_hanzi": "等候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "咖啡",
+        "pinyin": "kā fēi",
+        "meaning": "coffee (loanword)",
+        "tc_hanzi": "咖啡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Can you order coffee in Chinese? Let's learn how to say latte, espresso and cappuccino!",
+    "syllable_times": [
+      0.3174603174603174,
+      0.7256235827664399,
+      2.355191313113306,
+      2.355191313113306,
+      2.355191313113306,
+      2.596820892606257,
+      3.174603174603174,
+      3.44671201814059,
+      3.764172335600907,
+      4.036281179138322,
+      4.37720445052091,
+      4.580498866213152,
+      5.215419501133787,
+      5.215419501133787,
+      5.215419501133787,
+      5.442176870748299,
+      5.895691609977324,
+      6.213151927437642,
+      6.403579403403314,
+      6.543148778939373,
+      6.666666666666667,
+      6.893424036281179,
+      7.707682009519142,
+      7.707682009519142,
+      7.707682009519142,
+      7.881271453040833,
+      8.072562358276643,
+      8.299319727891156,
+      8.470952631458426,
+      8.75283446712018,
+      9.47845804988662,
+      9.61451247165533,
+      9.795918367346939,
+      10.15873015873016,
+      10.29478458049887,
+      10.56689342403628,
+      11.06575963718821,
+      11.24716553287982,
+      11.47392290249433,
+      11.65532879818594,
+      11.88208616780045,
+      12.38095238095238,
+      12.60770975056689,
+      12.7891156462585,
+      13.15192743764172,
+      13.42403628117914,
+      14.14712600344265,
+      14.14712600344265,
+      14.14712600344265,
+      14.42176870748299,
+      14.73922902494331,
+      14.96598639455782,
+      15.10204081632653,
+      15.28344671201814,
+      15.53060876819161,
+      15.73696145124716,
+      16.23582766439909,
+      16.42647055847988,
+      16.59863945578231,
+      16.87074829931973,
+      17.55102040816326,
+      17.55102040816326,
+      17.55102040816326,
+      17.71923314193383,
+      17.86848072562358,
+      18.1859410430839,
+      18.54875283446712,
+      18.72849515884086,
+      18.89859549876902,
+      19.22902494331066,
+      19.45578231292517,
+      20.09070294784581,
+      20.09070294784581,
+      20.09070294784581,
+      20.40816326530612,
+      20.58956916099773,
+      21.09669006593391,
+      21.09669006593391,
+      21.09669006593391,
+      21.36054421768707,
+      21.859410430839,
+      22.08616780045352,
+      22.44897959183674,
+      22.94784580498866,
+      23.14923416773361,
+      23.31065759637188,
+      23.53741496598639,
+      24.08163265306122,
+      24.08163265306122,
+      24.08163265306122,
+      24.26303854875284,
+      24.48979591836735,
+      25.07936507936508,
+      25.07936507936508,
+      25.07936507936508,
+      25.30612244897959,
+      25.57823129251701,
+      25.80498866213152,
+      25.94104308390023,
+      26.53061224489796,
+      26.53061224489796,
+      26.53061224489796,
+      26.75736961451247,
+      26.91248270382634,
+      27.07482993197279,
+      27.39229024943311,
+      27.61904761904762,
+      27.75510204081633,
+      27.98185941043084,
+      28.57142857142857,
+      28.57142857142857,
+      28.57142857142857,
+      28.93424036281179,
+      29.56916099773242,
+      29.75056689342404,
+      30.04232895850433,
+      30.38548752834467,
+      30.74829931972789,
+      30.90231808501699,
+      31.12911853825452,
+      31.40127908213957,
+      32.10884353741496,
+      32.27446082710408,
+      32.60770975056689,
+      32.83446712018141,
+      33.10657596371882,
+      33.33333333333334,
+      34.10430839002267,
+      34.28571428571428,
+      34.6031746031746,
+      34.82993197278912,
+      35.10946649257327,
+      35.32879818594105,
+      35.91836734693877,
+      35.91836734693877,
+      35.91836734693877,
+      36.09977324263038,
+      36.281179138322,
+      36.96145124716553,
+      36.96145124716553,
+      36.96145124716553,
+      37.3102725312843,
+      37.59637188208617,
+      37.77777777777778,
+      38.00453514739229,
+      38.68480725623583,
+      39.00226757369614,
+      39.27437641723356,
+      39.50113378684807,
+      39.71435733560217,
+      39.9546485260771,
+      40.77097505668934,
+      41.04308390022675,
+      41.31519274376417,
+      41.58730158730159,
+      41.8140589569161,
+      42.08198245591776,
+      42.85714285714285,
+      42.99319727891157,
+      43.17062463145793,
+      43.40136054421769,
+      43.718820861678,
+      44.03628117913832,
+      44.35374149659864,
+      44.58049886621315,
+      45.16646861994824,
+      45.16646861994824,
+      45.16646861994824,
+      45.3968253968254,
+      45.80150988901334,
+      46.16780045351474,
+      47.03839002267573,
+      47.03839002267573
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      13,
+      14,
+      24,
+      25,
+      42,
+      43,
+      53,
+      54,
+      65,
+      66,
+      72,
+      73,
+      82,
+      83,
+      89,
+      90,
+      98,
+      99,
+      108,
+      109,
+      128,
+      129,
+      135,
+      136,
+      161,
+      162
+    ],
+    "sentence_translations": [
+      "Ordering Coffee",
+      "",
+      "Barista: Hello! What would you like to order?",
+      "",
+      "Xiao Ming: Hello! I would like a cup of coffee.",
+      "",
+      "B: What kind of coffee would you like? Our latte and cappuccino are both very well received.",
+      "",
+      "X: Thanks, but I prefer espresso.",
+      "",
+      "B: Would you like a single or a double?",
+      "",
+      "X: A double.",
+      "",
+      "B: Would you like it for here or to go?",
+      "",
+      "X: For here.",
+      "",
+      "B: Anything else?",
+      "",
+      "X: A piece of cheese cake as well.",
+      "",
+      "B: Okay, a double espresso and a piece of cheese cake. In total that is thirty five yuan.",
+      "",
+      "X: Here you go.",
+      "",
+      "B: You gave me a hundred, here is sixty five kuai back. Please wait nearby, your coffee will be done soon.",
+      "",
+      "X: Okay, thank you."
+    ]
+  }
+}

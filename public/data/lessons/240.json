@@ -1,0 +1,1210 @@
+{
+  "id": "240",
+  "title": "Panda Hotel",
+  "level": "intermediate",
+  "date": "2017-01-25",
+  "synopsis": "In Sichuan there is a panda hotel where everything is covered in pandas.",
+  "audioUrl": "https://static.duchinese.net/documents/324/507a6e8fa38fe757d47ca36e5c1dcccacef63ce0.mp3?1485199827",
+  "series": null,
+  "fullText": {
+    "simplified": "熊猫酒店，你想住吗？\n\n    中国四川省有一家熊猫酒店。酒店的墙上有熊猫，桌子上有熊猫，被子上有熊猫……而且酒店的服务员都穿着熊猫的衣服。走进熊猫酒店，就像走进了熊猫的世界。\n    四川是熊猫的家乡。在这里，你可以看到很多可爱的熊猫。白天看真的熊猫，晚上住熊猫酒店，也是一个不错的选择。",
+    "traditional": "熊貓酒店，你想住嗎？\n\n    中國四川省有一家熊貓酒店。酒店的牆上有熊貓，桌子上有熊貓，被子上有熊貓……而且酒店的服務員都穿著熊貓的衣服。走進熊貓酒店，就像走進了熊貓的世界。\n    四川是熊貓的家鄉。在這裡，你可以看到很多可愛的熊貓。白天看真的熊貓，晚上住熊貓酒店，也是一個不錯的選擇。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Panda Hotel, would you like to stay there?"
+    },
+    {
+      "index": 2,
+      "simplified": "中国四川省有一家熊猫酒店。",
+      "traditional": "中國四川省有一家熊貓酒店。",
+      "pinyin": "zhōng guó sì chuān shěng yǒu yì jiā xióng māo jiǔ diàn",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "酒店的墙上有熊猫，桌子上有熊猫，被子上有熊猫……",
+      "traditional": "酒店的牆上有熊貓，桌子上有熊貓，被子上有熊貓……",
+      "pinyin": "jiǔ diàn de qiáng shang yǒu xióng māo zhuō zi shang yǒu xióng māo bèi zi shang yǒu xióng māo",
+      "english": "In Sichuan, China there is a panda hotel."
+    },
+    {
+      "index": 4,
+      "simplified": "而且酒店的服务员都穿着熊猫的衣服。",
+      "traditional": "而且酒店的服務員都穿著熊貓的衣服。",
+      "pinyin": "ér qiě jiǔ diàn de fú wù yuán dōu chuān zhe xióng māo de yī fu",
+      "english": "The hotel's walls are covered with pandas, there are pandas on the table, pandas on the quilt..."
+    },
+    {
+      "index": 5,
+      "simplified": "走进熊猫酒店，就像走进了熊猫的世界。",
+      "traditional": "走進熊貓酒店，就像走進了熊貓的世界。",
+      "pinyin": "zǒu jìn xióng māo jiǔ diàn jiù xiàng zǒu jìn le xióng māo de shì jiè",
+      "english": "Even the entire hotel staff is wearing panda clothes."
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Entering the panda hotel is just like entering a world of pandas."
+    },
+    {
+      "index": 7,
+      "simplified": "四川是熊猫的家乡。",
+      "traditional": "四川是熊貓的家鄉。",
+      "pinyin": "sì chuān shì xióng māo de jiā xiāng",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "在这里，你可以看到很多可爱的熊猫。",
+      "traditional": "在這裡，你可以看到很多可愛的熊貓。",
+      "pinyin": "zài zhè lǐ nǐ kě yǐ kàn dào hěn duō kě ài de xióng māo",
+      "english": "Sichuan is the hometown of pandas."
+    },
+    {
+      "index": 9,
+      "simplified": "白天看真的熊猫，晚上住熊猫酒店，也是一个不错的选择。",
+      "traditional": "白天看真的熊貓，晚上住熊貓酒店，也是一個不錯的選擇。",
+      "pinyin": "bái tiān kàn zhēn de xióng māo wǎn shang zhù xióng māo jiǔ diàn yě shì yí ge bú cuò de xuǎn zé",
+      "english": "Here you can see a lot of cute panda bears."
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "In daytime you can see real pandas, and staying at the panda hotel in the evening is not a bad choice."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "熊猫",
+      "traditional": "熊貓",
+      "pinyin": "xióng māo",
+      "meaning": "panda",
+      "hsk": 3
+    },
+    {
+      "hanzi": "酒店",
+      "traditional": "酒店",
+      "pinyin": "jiǔ diàn",
+      "meaning": "hotel\nrestaurant",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "四川",
+      "traditional": "四川",
+      "pinyin": "sì chuān",
+      "meaning": "Sichuan province in southwest China",
+      "hsk": null
+    },
+    {
+      "hanzi": "省",
+      "traditional": "省",
+      "pinyin": "shěng",
+      "meaning": "province",
+      "hsk": 4
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "墙",
+      "traditional": "牆",
+      "pinyin": "qiáng",
+      "meaning": "wall",
+      "hsk": 5
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove",
+      "hsk": 1
+    },
+    {
+      "hanzi": "桌子",
+      "traditional": "桌子",
+      "pinyin": "zhuō zi",
+      "meaning": "table",
+      "hsk": 1
+    },
+    {
+      "hanzi": "被子",
+      "traditional": "被子",
+      "pinyin": "bèi zi",
+      "meaning": "quilt",
+      "hsk": 5
+    },
+    {
+      "hanzi": "而且",
+      "traditional": "而且",
+      "pinyin": "ér qiě",
+      "meaning": "(not only ...) but also",
+      "hsk": 3
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "穿",
+      "traditional": "穿",
+      "pinyin": "chuān",
+      "meaning": "to wear\nto put on",
+      "hsk": 2
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "走进",
+      "traditional": "走進",
+      "pinyin": "zǒu jìn",
+      "meaning": "to enter\nto walk into",
+      "hsk": null
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "像",
+      "traditional": "像",
+      "pinyin": "xiàng",
+      "meaning": "to resemble\nto be like",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "世界",
+      "traditional": "世界",
+      "pinyin": "shì jiè",
+      "meaning": "world",
+      "hsk": 3
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家乡",
+      "traditional": "家鄉",
+      "pinyin": "jiā xiāng",
+      "meaning": "hometown\nnative place",
+      "hsk": 5
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可爱",
+      "traditional": "可愛",
+      "pinyin": "kě ài",
+      "meaning": "cute\nadorable\nlovely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "白天",
+      "traditional": "白天",
+      "pinyin": "bái tiān",
+      "meaning": "daytime",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "real\ntrue",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不错",
+      "traditional": "不錯",
+      "pinyin": "bú cuò",
+      "meaning": "right\nnot bad\npretty good",
+      "hsk": 2
+    },
+    {
+      "hanzi": "选择",
+      "traditional": "選擇",
+      "pinyin": "xuǎn zé",
+      "meaning": "choice\noption",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "省",
+        "pinyin": "shěng",
+        "meaning": "province",
+        "tc_hanzi": "省"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "墙",
+        "pinyin": "qiáng",
+        "meaning": "wall",
+        "tc_hanzi": "牆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table",
+        "tc_hanzi": "桌子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "被子",
+        "pinyin": "bèi zi",
+        "meaning": "quilt",
+        "tc_hanzi": "被子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "而且",
+        "pinyin": "ér qiě",
+        "meaning": "(not only ...) but also",
+        "tc_hanzi": "而且"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "to wear\nto put on",
+        "tc_hanzi": "穿"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "走进",
+        "pinyin": "zǒu jìn",
+        "meaning": "to enter\nto walk into",
+        "tc_hanzi": "走進"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "meaning": "to resemble\nto be like",
+        "tc_hanzi": "像"
+      },
+      {
+        "hanzi": "走进",
+        "pinyin": "zǒu jìn",
+        "meaning": "to enter\nto walk into",
+        "tc_hanzi": "走進"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "世界",
+        "pinyin": "shì jiè",
+        "meaning": "world",
+        "tc_hanzi": "世界"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "四川",
+        "pinyin": "sì chuān",
+        "meaning": "Sichuan province in southwest China",
+        "tc_hanzi": "四川"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "家乡",
+        "pinyin": "jiā xiāng",
+        "meaning": "hometown\nnative place",
+        "tc_hanzi": "家鄉"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "白天",
+        "pinyin": "bái tiān",
+        "meaning": "daytime",
+        "tc_hanzi": "白天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "real\ntrue",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔ diàn",
+        "meaning": "hotel\nrestaurant",
+        "tc_hanzi": "酒店"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不错",
+        "pinyin": "bú cuò",
+        "meaning": "right\nnot bad\npretty good",
+        "tc_hanzi": "不錯"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "选择",
+        "pinyin": "xuǎn zé",
+        "meaning": "choice\noption",
+        "tc_hanzi": "選擇"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "In Sichuan there is a panda hotel where everything is covered in pandas.",
+    "syllable_times": [
+      0.5895691609977324,
+      1.043083900226757,
+      1.496598639455782,
+      2.72108843537415,
+      3.08390022675737,
+      3.6281179138322,
+      4.036281179138322,
+      6.439909297052155,
+      6.802721088435374,
+      7.346938775510204,
+      7.709750566893424,
+      8.072562358276643,
+      9.206349206349206,
+      9.47845804988662,
+      9.750566893424036,
+      10.29478458049887,
+      10.8390022675737,
+      11.15646258503401,
+      11.51927437641723,
+      13.65079365079365,
+      14.01360544217687,
+      14.37641723356009,
+      14.82993197278912,
+      15.45438402334035,
+      16.19047619047619,
+      16.50793650793651,
+      16.90636772115497,
+      18.32199546485261,
+      18.75287320892215,
+      19.01550534221424,
+      19.77324263038549,
+      20.13605442176871,
+      20.5438066603374,
+      21.99546485260771,
+      22.44897959183674,
+      22.67573696145125,
+      23.40136054421769,
+      23.76417233560091,
+      24.17233560090703,
+      25.98639455782313,
+      26.30385487528345,
+      27.21088435374149,
+      27.61904761904762,
+      27.98185941043084,
+      28.43537414965986,
+      28.70748299319728,
+      28.88888888888889,
+      29.70521541950113,
+      29.97732426303855,
+      30.43083900226758,
+      31.06575963718821,
+      31.60997732426304,
+      31.88208616780045,
+      32.19954648526077,
+      32.51305988170719,
+      34.24036281179139,
+      34.6031746031746,
+      35.19274376417233,
+      35.73696145124717,
+      36.05442176870748,
+      36.46258503401361,
+      37.64172335600907,
+      38.02168884751205,
+      38.50340136054422,
+      38.82086167800453,
+      39.1815129263161,
+      39.90929705215419,
+      40.54421768707483,
+      40.86167800453515,
+      41.14295992580742,
+      41.54195011337868,
+      43.85487528344671,
+      44.26303854875283,
+      44.98866213151928,
+      45.50670666705992,
+      45.89569160997733,
+      46.21315192743764,
+      46.48526077097506,
+      46.85548661831683,
+      48.52607709750567,
+      48.88888888888889,
+      49.20634920634921,
+      50.34013605442177,
+      50.65759637188209,
+      51.01680282010769,
+      51.24716553287982,
+      51.65532879818594,
+      52.03723540087866,
+      52.42630385487529,
+      53.15192743764172,
+      53.60544217687075,
+      53.96825396825397,
+      54.37641723356009,
+      54.82993197278912,
+      56.73469387755102,
+      57.05215419501134,
+      57.82312925170068,
+      58.2312925170068,
+      58.59410430839002,
+      58.82086167800453,
+      59.25147969890195,
+      60.72562358276644,
+      61.17913832199547,
+      62.08616780045352,
+      62.62548922263005,
+      62.99319727891157,
+      63.31065759637188,
+      63.67346938775511,
+      65.12471655328798,
+      65.4421768707483,
+      65.80498866213152,
+      66.12244897959184,
+      66.89342403628117,
+      67.2562358276644,
+      67.75510204081633,
+      68.12195244917017,
+      68.34467120181407,
+      68.70748299319727,
+      69.4407709750567,
+      69.4407709750567
+    ],
+    "sentence_indices": [
+      8,
+      11,
+      20,
+      37,
+      48,
+      60,
+      62,
+      68,
+      80,
+      99
+    ],
+    "sentence_translations": [
+      "The Panda Hotel, would you like to stay there?",
+      "",
+      "In Sichuan, China there is a panda hotel.",
+      "The hotel's walls are covered with pandas, there are pandas on the table, pandas on the quilt...",
+      "Even the entire hotel staff is wearing panda clothes.",
+      "Entering the panda hotel is just like entering a world of pandas.",
+      "",
+      "Sichuan is the hometown of pandas.",
+      "Here you can see a lot of cute panda bears.",
+      "In daytime you can see real pandas, and staying at the panda hotel in the evening is not a bad choice.",
+      ""
+    ]
+  }
+}

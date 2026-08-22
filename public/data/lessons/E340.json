@@ -1,0 +1,991 @@
+{
+  "id": "E340",
+  "title": "Deposit or Withdraw Money",
+  "level": "intermediate",
+  "date": "2019-07-07",
+  "synopsis": "Words you might need in a bank.",
+  "audioUrl": "https://static.duchinese.net/documents/1090/c8a9ad98555ea3b2a73abc81f80e2ba4512b825d.mp3?1561665812",
+  "series": null,
+  "fullText": {
+    "simplified": "存钱还是取钱？\n\n小乐：我出去一趟，没现金了，去银行取点钱。\n保罗：那你能帮我存一下钱吗？\n小乐：好的，存到你中国银行的账户吗？\n保罗：对。\n小乐：你要存多少？\n保罗：存两千。你等一下，我去拿钱给你。",
+    "traditional": "存錢還是取錢？\n\n小樂：我出去一趟，沒現金了，去銀行取點錢。\n保羅：那你能幫我存一下錢嗎？\n小樂：好的，存到你中國銀行的賬戶嗎？\n保羅：對。\n小樂：你要存多少？\n保羅：存兩千。你等一下，我去拿錢給你。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "To Deposit or Withdraw Money?"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：我出去一趟，没现金了，去银行取点钱。",
+      "traditional": "小樂：我出去一趟，沒現金了，去銀行取點錢。",
+      "pinyin": "xiǎo lè wǒ chū qù yí tàng méi xiàn jīn le qù yín háng qǔ diǎn qián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: I need to go out for a while, I don’t have any cash, I‘m going to the bank to withdraw some money."
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：那你能帮我存一下钱吗？",
+      "traditional": "保羅：那你能幫我存一下錢嗎？",
+      "pinyin": "bǎo luó nà nǐ néng bāng wǒ cún yí xià qián ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Then can you help me a bit and deposit money?"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：好的，存到你中国银行的账户吗？",
+      "traditional": "小樂：好的，存到你中國銀行的賬戶嗎？",
+      "pinyin": "xiǎo lè hǎo de cún dào nǐ zhōng guó yín háng de zhàng hù ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Sure, deposit it into your account at Bank of China?"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：对。",
+      "traditional": "保羅：對。",
+      "pinyin": "bǎo luó duì",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Yes."
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：你要存多少？",
+      "traditional": "小樂：你要存多少？",
+      "pinyin": "xiǎo lè nǐ yào cún duō shao",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: How much do you want to deposit?"
+    },
+    {
+      "index": 12,
+      "simplified": "保罗：存两千。你等一下，我去拿钱给你。",
+      "traditional": "保羅：存兩千。你等一下，我去拿錢給你。",
+      "pinyin": "bǎo luó cún liǎng qiān nǐ děng yí xià wǒ qù ná qián gěi nǐ",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: Two thousand. Wait a moment, I'll go get the money and give it to you."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "存钱",
+      "traditional": "存錢",
+      "pinyin": "cún qián",
+      "meaning": "to deposit money\nto save money",
+      "hsk": null
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "取钱",
+      "traditional": "取錢",
+      "pinyin": "qǔ qián",
+      "meaning": "withdraw money",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "meaning": "to go out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "趟",
+      "traditional": "趟",
+      "pinyin": "tàng",
+      "meaning": "classifier for times, round trips or rows",
+      "hsk": 4
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现金",
+      "traditional": "現金",
+      "pinyin": "xiàn jīn",
+      "meaning": "cash",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "银行",
+      "traditional": "銀行",
+      "pinyin": "yín háng",
+      "meaning": "bank",
+      "hsk": 3
+    },
+    {
+      "hanzi": "取",
+      "traditional": "取",
+      "pinyin": "qǔ",
+      "meaning": "to take\nto get\nto fetch",
+      "hsk": 4
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "a bit\na little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "存",
+      "traditional": "存",
+      "pinyin": "cún",
+      "meaning": "to deposit\nto store\nto keep",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "账户",
+      "traditional": "賬戶",
+      "pinyin": "zhàng hù",
+      "meaning": "bank account\nonline account",
+      "hsk": 5
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "千",
+      "traditional": "千",
+      "pinyin": "qiān",
+      "meaning": "thousand",
+      "hsk": 2
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold\nto take",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "存钱",
+        "pinyin": "cún qián",
+        "meaning": "to deposit money\nto save money",
+        "tc_hanzi": "存錢"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hanzi": "取钱",
+        "pinyin": "qǔ qián",
+        "meaning": "withdraw money",
+        "tc_hanzi": "取錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出去",
+        "pinyin": "chū qù",
+        "meaning": "to go out",
+        "tc_hanzi": "出去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "趟",
+        "pinyin": "tàng",
+        "meaning": "classifier for times, round trips or rows",
+        "tc_hanzi": "趟"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "现金",
+        "pinyin": "xiàn jīn",
+        "meaning": "cash",
+        "tc_hanzi": "現金"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "银行",
+        "pinyin": "yín háng",
+        "meaning": "bank",
+        "tc_hanzi": "銀行"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "a bit\na little\nsome",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "存",
+        "pinyin": "cún",
+        "meaning": "to deposit\nto store\nto keep",
+        "tc_hanzi": "存"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "存",
+        "pinyin": "cún",
+        "meaning": "to deposit\nto store\nto keep",
+        "tc_hanzi": "存"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "银行",
+        "pinyin": "yín háng",
+        "meaning": "bank",
+        "tc_hanzi": "銀行"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "账户",
+        "pinyin": "zhàng hù",
+        "meaning": "bank account\nonline account",
+        "tc_hanzi": "賬戶"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "存",
+        "pinyin": "cún",
+        "meaning": "to deposit\nto store\nto keep",
+        "tc_hanzi": "存"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "存",
+        "pinyin": "cún",
+        "meaning": "to deposit\nto store\nto keep",
+        "tc_hanzi": "存"
+      },
+      {
+        "g": "er-liang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "numbers",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "千",
+        "pinyin": "qiān",
+        "meaning": "thousand",
+        "tc_hanzi": "千"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to hold\nto take",
+        "tc_hanzi": "拿"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Words you might need in a bank.",
+    "syllable_times": [
+      0.49999999999999994,
+      1.11,
+      1.5150000000000001,
+      1.95,
+      2.28,
+      5.131306865439307,
+      5.131306865439307,
+      5.131306865439307,
+      5.37,
+      5.6467106101075055,
+      5.85004518578515,
+      6.004285250708636,
+      6.924364236096801,
+      7.212107695336423,
+      7.4981230986920995,
+      7.747450546357845,
+      8.52,
+      8.78,
+      9.065,
+      9.38,
+      9.63,
+      9.97,
+      12.008393264916355,
+      12.008393264916355,
+      12.008393264916355,
+      12.6,
+      12.85,
+      13.1,
+      13.36,
+      13.77,
+      14.212226644304208,
+      14.369789893619897,
+      14.68,
+      15.08,
+      17.017038580449462,
+      17.017038580449462,
+      17.017038580449462,
+      17.265,
+      18.23,
+      18.52,
+      18.76,
+      19.17,
+      19.380000000000003,
+      19.590000000000003,
+      19.8,
+      20.01,
+      20.13,
+      20.375,
+      20.62,
+      22.66950937683679,
+      22.66950937683679,
+      22.66950937683679,
+      24.729662154377007,
+      24.729662154377007,
+      24.729662154377007,
+      24.95,
+      25.29,
+      25.58,
+      25.831098389329043,
+      27.838625817368026,
+      27.838625817368026,
+      27.838625817368026,
+      28.513896885863844,
+      28.901380185994807,
+      30.21,
+      30.55,
+      30.75,
+      31.049708122741503,
+      32.15,
+      32.39,
+      32.69,
+      33.099999999999994,
+      33.54,
+      33.93591592193314,
+      34.619229,
+      34.619229
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      23,
+      24,
+      36,
+      37,
+      50,
+      51,
+      55,
+      56,
+      63,
+      64,
+      81
+    ],
+    "sentence_translations": [
+      "To Deposit or Withdraw Money?",
+      "",
+      "Little Le: I need to go out for a while, I don’t have any cash, I‘m going to the bank to withdraw some money.",
+      "",
+      "Paul: Then can you help me a bit and deposit money?",
+      "",
+      "Little Le: Sure, deposit it into your account at Bank of China?",
+      "",
+      "Paul: Yes.",
+      "",
+      "Little Le: How much do you want to deposit?",
+      "",
+      "Paul: Two thousand. Wait a moment, I'll go get the money and give it to you.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "id": "320",
+  "title": "Ben’s Diary — Making a Phone Call",
+  "level": "newbie",
+  "date": "2017-06-09",
+  "synopsis": "Ben writes about his phone call to Lili in his diary.",
+  "audioUrl": "https://static.duchinese.net/documents/438/dca8a236ca304e9f99aa11a91927634cf943ce01.mp3?1589791104",
+  "series": {
+    "title": "Ben’s life in China 2: Lili’s Boyfriend",
+    "chapter": 3,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "本的日记-打电话\n\n    今天我打电话给丽丽，她在睡觉。她的妈妈说，等会儿叫丽丽打电话给我。我等了好长时间，丽丽没有给我打电话。丽丽睡觉时间太长了。",
+    "traditional": "本的日記-打電話\n\n    今天我打電話給麗麗，她在睡覺。她的媽媽說，等會兒叫麗麗打電話給我。我等了好長時間，麗麗沒有給我打電話。麗麗睡覺時間太長了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Ben’s Diary — Making a Phone Call"
+    },
+    {
+      "index": 2,
+      "simplified": "今天我打电话给丽丽，她在睡觉。",
+      "traditional": "今天我打電話給麗麗，她在睡覺。",
+      "pinyin": "jīn tiān wǒ dǎ diàn huà gěi lì lì tā zài shuì jiào",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "她的妈妈说，等会儿叫丽丽打电话给我。",
+      "traditional": "她的媽媽說，等會兒叫麗麗打電話給我。",
+      "pinyin": "tā de mā ma shuō děng huì'r jiào lì lì dǎ diàn huà gěi wǒ",
+      "english": "Today I called Lili. She was sleeping."
+    },
+    {
+      "index": 4,
+      "simplified": "我等了好长时间，丽丽没有给我打电话。",
+      "traditional": "我等了好長時間，麗麗沒有給我打電話。",
+      "pinyin": "wǒ děng le hǎo cháng shí jiān lì lì méi yǒu gěi wǒ dǎ diàn huà",
+      "english": "Her mother said that she would tell Lili to call me in a while."
+    },
+    {
+      "index": 5,
+      "simplified": "丽丽睡觉时间太长了。",
+      "traditional": "麗麗睡覺時間太長了。",
+      "pinyin": "lì lì shuì jiào shí jiān tài cháng le",
+      "english": "I waited for a long time, but Lili didn’t call me."
+    },
+    {
+      "index": 6,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lili sleeps too long."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日记",
+      "traditional": "日記",
+      "pinyin": "rì jì",
+      "meaning": "diary",
+      "hsk": 4
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make\nto issue",
+      "hsk": null
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会儿",
+      "traditional": "會兒",
+      "pinyin": "huì'r",
+      "meaning": "a moment\na little while\n(colloquially also pr. huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "meaning": "length\nlong",
+      "hsk": 3
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "日记",
+        "pinyin": "rì jì",
+        "meaning": "diary",
+        "tc_hanzi": "日記"
+      },
+      {
+        "hanzi": "-",
+        "tc_hanzi": "-"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "会儿",
+        "pinyin": "huì'r",
+        "meaning": "a moment\na little while\n(colloquially also pr. huǐ'r)",
+        "tc_hanzi": "會兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make\nto issue",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben writes about his phone call to Lili in his diary.",
+    "syllable_times": [
+      0.36848072562358275,
+      0.6235827664399093,
+      0.9299999999999999,
+      2.22,
+      2.624716553287982,
+      2.9066666666666667,
+      4.31,
+      4.645,
+      5.53,
+      5.8560090702947845,
+      6.08,
+      6.415,
+      6.94,
+      7.244897959183673,
+      7.51,
+      8.43,
+      8.747165532879817,
+      8.96,
+      9.315000000000001,
+      10.61,
+      10.94671201814059,
+      11.14,
+      11.440000000000001,
+      11.74,
+      13.35,
+      13.718820861678005,
+      14.35,
+      14.727891156462585,
+      14.98,
+      15.47,
+      15.839002267573695,
+      16.13378684807256,
+      16.434240362811792,
+      16.740362811791382,
+      17.874149659863946,
+      18.52,
+      18.854875283446713,
+      19.09297052154195,
+      19.42,
+      19.79591836734694,
+      20.066666666666666,
+      21.11111111111111,
+      21.395,
+      21.93,
+      22.285,
+      22.73,
+      23.032879818594104,
+      23.26,
+      23.543333333333333,
+      23.826666666666668,
+      24.88,
+      25.215,
+      25.72,
+      26.18480725623583,
+      26.43,
+      26.729024943310655,
+      27.2,
+      27.634999999999998,
+      28.07,
+      28.571927
+    ],
+    "sentence_indices": [
+      6,
+      9,
+      20,
+      34,
+      48,
+      55
+    ],
+    "sentence_translations": [
+      "Ben’s Diary — Making a Phone Call",
+      "",
+      "Today I called Lili. She was sleeping.",
+      "Her mother said that she would tell Lili to call me in a while.",
+      "I waited for a long time, but Lili didn’t call me.",
+      "Lili sleeps too long.",
+      ""
+    ]
+  }
+}

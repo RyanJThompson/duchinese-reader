@@ -1,0 +1,930 @@
+{
+  "id": "691",
+  "title": "It Stopped Raining",
+  "level": "elementary",
+  "date": "2019-05-18",
+  "synopsis": "Little He wants to know if he should bring an umbrella or not.",
+  "audioUrl": "https://static.duchinese.net/documents/1048/82d2b8e352c47d182a482efac97b32455f23ea9d.mp3?1557482011",
+  "series": null,
+  "fullText": {
+    "simplified": "雨停了\n\n小何：妈，是我。你那边天气怎么样？\n妈妈：啊，天气啊。今天早上雨下得很大，但是现在雨停了。不知道等会儿还会不会下。\n小何：这样啊，那我还是带伞去吧。\n妈妈：嗯，是啊。路上小心啊！",
+    "traditional": "雨停了\n\n小何：媽，是我。你那邊天氣怎麼樣？\n媽媽：啊，天氣啊。今天早上雨下得很大，但是現在雨停了。不知道等會兒還會不會下。\n小何：這樣啊，那我還是帶傘去吧。\n媽媽：嗯，是啊。路上小心啊！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "It Stopped Raining"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：妈，是我。你那边天气怎么样？",
+      "traditional": "小何：媽，是我。你那邊天氣怎麼樣？",
+      "pinyin": "xiǎo hé mā shì wǒ nǐ nà bian tiān qì zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Mom, it’s me. How is the weather over there?"
+    },
+    {
+      "index": 4,
+      "simplified": "妈妈：啊，天气啊。今天早上雨下得很大，但是现在雨停了。",
+      "traditional": "媽媽：啊，天氣啊。今天早上雨下得很大，但是現在雨停了。",
+      "pinyin": "mā ma a tiān qì a jīn tiān zǎo shang yǔ xià de hěn dà dàn shì xiàn zài yǔ tíng le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "不知道等会儿还会不会下。",
+      "traditional": "不知道等會兒還會不會下。",
+      "pinyin": "bù zhī dào děng huì'r hái huì bú huì xià",
+      "english": "Mom: Ah, the weather. This morning it rained a lot, but it stopped raining now."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "I don’t know if it will start to rain again soon or not."
+    },
+    {
+      "index": 7,
+      "simplified": "小何：这样啊，那我还是带伞去吧。",
+      "traditional": "小何：這樣啊，那我還是帶傘去吧。",
+      "pinyin": "xiǎo hé zhè yàng a nà wǒ hái shi dài sǎn qù ba",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: I see. Then I better bring an umbrella with me."
+    },
+    {
+      "index": 9,
+      "simplified": "妈妈：嗯，是啊。路上小心啊！",
+      "traditional": "媽媽：嗯，是啊。路上小心啊！",
+      "pinyin": "mā ma èn shì a lù shang xiǎo xīn a",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Mom: Yes, that would be best. Be careful on the road!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "雨",
+      "traditional": "雨",
+      "pinyin": "yǔ",
+      "meaning": "rain",
+      "hsk": null
+    },
+    {
+      "hanzi": "停",
+      "traditional": "停",
+      "pinyin": "tíng",
+      "meaning": "to stop\nto halt\nto park (a car)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈",
+      "traditional": "媽",
+      "pinyin": "mā",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那边",
+      "traditional": "那邊",
+      "pinyin": "nà bian",
+      "meaning": "over there",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "to go down\nto descend\n(as complement) downwards; down",
+      "hsk": 1
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会儿",
+      "traditional": "會兒",
+      "pinyin": "huì'r",
+      "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "manner\nway\nappearance",
+      "hsk": 4
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to take along\nto bring\nto carry",
+      "hsk": 3
+    },
+    {
+      "hanzi": "伞",
+      "traditional": "傘",
+      "pinyin": "sǎn",
+      "meaning": "umbrella\nparasol",
+      "hsk": 3
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "嗯",
+      "traditional": "嗯",
+      "pinyin": "èn",
+      "meaning": "(nonverbal grunt as interjection)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "路上",
+      "traditional": "路上",
+      "pinyin": "lù shang",
+      "meaning": "on the road\non a journey",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小心",
+      "traditional": "小心",
+      "pinyin": "xiǎo xīn",
+      "meaning": "to be careful",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "meaning": "rain",
+        "tc_hanzi": "雨"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "停",
+        "pinyin": "tíng",
+        "meaning": "to stop\nto halt\nto park (a car)",
+        "tc_hanzi": "停"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈",
+        "pinyin": "mā",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "那边",
+        "pinyin": "nà bian",
+        "meaning": "over there",
+        "tc_hanzi": "那邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "meaning": "rain",
+        "tc_hanzi": "雨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "to go down\nto descend\n(as complement) downwards; down",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "de-degree",
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "大"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hanzi": "雨",
+        "pinyin": "yǔ",
+        "meaning": "rain",
+        "tc_hanzi": "雨"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "停",
+        "pinyin": "tíng",
+        "meaning": "to stop\nto halt\nto park (a car)",
+        "tc_hanzi": "停"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "erhua",
+        "hsk": 3,
+        "hanzi": "会儿",
+        "pinyin": "huì'r",
+        "meaning": "a moment\na little while\n(colloquially also pronounced huǐ'r)",
+        "tc_hanzi": "會兒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "to go down\nto descend\n(as complement) downwards; down",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "manner\nway\nappearance",
+        "tc_hanzi": "樣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还是",
+        "pinyin": "hái shi",
+        "meaning": "or",
+        "tc_hanzi": "還是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to take along\nto bring\nto carry",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "伞",
+        "pinyin": "sǎn",
+        "meaning": "umbrella\nparasol",
+        "tc_hanzi": "傘"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗯",
+        "pinyin": "èn",
+        "meaning": "(nonverbal grunt as interjection)",
+        "tc_hanzi": "嗯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "路上",
+        "pinyin": "lù shang",
+        "meaning": "on the road\non a journey",
+        "tc_hanzi": "路上"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "小心",
+        "pinyin": "xiǎo xīn",
+        "meaning": "to be careful",
+        "tc_hanzi": "小心"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little He wants to know if he should bring an umbrella or not.",
+    "syllable_times": [
+      0.45,
+      0.87,
+      2.7024522139492415,
+      2.7024522139492415,
+      2.7024522139492415,
+      3.56,
+      3.936127430808387,
+      5.004385265458684,
+      5.33,
+      5.54,
+      5.75,
+      6.115,
+      6.51,
+      6.746666666666666,
+      6.983333333333333,
+      8.450905597131504,
+      8.450905597131504,
+      8.450905597131504,
+      9.392198724387434,
+      9.96,
+      10.25,
+      11.55,
+      11.870000000000001,
+      12.19,
+      12.649999999999999,
+      13.45,
+      13.97,
+      14.41,
+      14.59,
+      15.19,
+      16.5,
+      16.77,
+      17.58,
+      18.049999999999997,
+      18.65,
+      18.95,
+      19.41,
+      20.56,
+      20.916666666666664,
+      21.139023103602163,
+      21.7,
+      22.01346705309881,
+      22.76,
+      23.08,
+      23.4,
+      23.645,
+      23.9288619261956,
+      26.492299746633492,
+      26.492299746633492,
+      26.492299746633492,
+      26.77,
+      26.98,
+      27.96,
+      28.225,
+      28.644409127379593,
+      28.965896524993312,
+      29.19,
+      29.46,
+      29.81,
+      30.119999999999997,
+      31.837708849329385,
+      31.837708849329385,
+      31.837708849329385,
+      32.74,
+      33.13,
+      34.03,
+      34.42,
+      34.81,
+      35.125,
+      35.44,
+      36.200091,
+      36.200091
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      17,
+      18,
+      39,
+      49,
+      50,
+      64,
+      65,
+      76
+    ],
+    "sentence_translations": [
+      "It Stopped Raining",
+      "",
+      "Little He: Mom, it’s me. How is the weather over there?",
+      "",
+      "Mom: Ah, the weather. This morning it rained a lot, but it stopped raining now.",
+      "I don’t know if it will start to rain again soon or not.",
+      "",
+      "Little He: I see. Then I better bring an umbrella with me.",
+      "",
+      "Mom: Yes, that would be best. Be careful on the road!",
+      ""
+    ]
+  }
+}

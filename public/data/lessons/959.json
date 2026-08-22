@@ -1,0 +1,403 @@
+{
+  "id": "959",
+  "title": "Thank you, you’re welcome",
+  "level": "newbie",
+  "date": "2019-11-20",
+  "synopsis": "Anne and Li arrive at the restaurant. The waiter comes to greet them.",
+  "audioUrl": "https://static.duchinese.net/documents/959/07126d15d2e5825808d122cc16a279656ccc2b04.mp3?1591186076",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 2,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "谢谢，不客气\n\nWaiter：你好！几个人？\nLi：两个人。\nWaiter：好的，请坐！\nLi：谢谢！\nWaiter：不客气！",
+    "traditional": "謝謝，不客氣\n\nWaiter：你好！幾個人？\nLi：兩個人。\nWaiter：好的，請坐！\nLi：謝謝！\nWaiter：不客氣！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Thank you, you’re welcome"
+    },
+    {
+      "index": 2,
+      "simplified": "Waiter：你好！几个人？",
+      "traditional": "Waiter：你好！幾個人？",
+      "pinyin": "nǐ hǎo jǐ ge rén",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Hello! How many people?"
+    },
+    {
+      "index": 4,
+      "simplified": "Li：两个人。",
+      "traditional": "Li：兩個人。",
+      "pinyin": "liǎng ge rén",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Two people."
+    },
+    {
+      "index": 6,
+      "simplified": "Waiter：好的，请坐！",
+      "traditional": "Waiter：好的，請坐！",
+      "pinyin": "hǎo de qǐng zuò",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Waiter: Ok, please have a seat!"
+    },
+    {
+      "index": 8,
+      "simplified": "Li：谢谢！",
+      "traditional": "Li：謝謝！",
+      "pinyin": "xiè xie",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: Thank you!"
+    },
+    {
+      "index": 10,
+      "simplified": "Waiter：不客气！",
+      "traditional": "Waiter：不客氣！",
+      "pinyin": "bú kè qi",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Waiter: You’re welcome!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "ji",
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "to sit\nto take a seat\nto take (a bus, airplane etc)",
+        "tc_hanzi": "坐"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Waiter：",
+        "tc_hanzi": "Waiter："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne and Li arrive at the restaurant. The waiter comes to greet them.",
+    "syllable_times": [
+      0.36281179138321995,
+      1.16,
+      1.4002267573696145,
+      1.7933333333333332,
+      3.39,
+      3.7414965986394555,
+      4.72,
+      5.085034013605442,
+      5.249433106575964,
+      6.89,
+      7.261904761904762,
+      7.463333333333333,
+      9,
+      9.41609977324263,
+      10.357142857142858,
+      10.785,
+      12.46,
+      12.78344671201814,
+      14.36,
+      14.631519274376418,
+      15.033333333333333,
+      15.63678
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      12,
+      13,
+      18,
+      19,
+      25,
+      26,
+      29,
+      30,
+      33
+    ],
+    "sentence_translations": [
+      "Thank you, you’re welcome",
+      "",
+      "Waiter: Hello! How many people?",
+      "",
+      "Li: Two people.",
+      "",
+      "Waiter: Ok, please have a seat!",
+      "",
+      "Li: Thank you!",
+      "",
+      "Waiter: You’re welcome!",
+      ""
+    ]
+  }
+}

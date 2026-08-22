@@ -1,0 +1,970 @@
+{
+  "id": "E220",
+  "title": "Yes, that could work…",
+  "level": "elementary",
+  "date": "2018-05-12",
+  "synopsis": "“That could work…” actually implies “I don’t like this idea”.",
+  "audioUrl": "https://static.duchinese.net/documents/732/c5d2de164066aaded1d1082041f6eca764af3482.mp3?1525687515",
+  "series": null,
+  "fullText": {
+    "simplified": "可以是可以 \n\n杰杰：老板，下个星期我们忙不忙？我想请几天假。\n老板：可以是可以。你想请几天？\n杰杰：五天，可以吗？\n老板：五天也太长了！三天怎么样？\n杰杰：可以是可以，但是……\n老板：好，就三天吧！不要“但是”了。",
+    "traditional": "可以是可以 \n\n杰杰：老闆，下個星期我們忙不忙？我想請幾天假。\n老闆：可以是可以。你想請幾天？\n杰杰：五天，可以嗎？\n老闆：五天也太長了！三天怎麼樣？\n杰杰：可以是可以，但是……\n老闆：好，就三天吧！不要“但是”了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Yes, that could work…"
+    },
+    {
+      "index": 2,
+      "simplified": "杰杰：老板，下个星期我们忙不忙？我想请几天假。",
+      "traditional": "杰杰：老闆，下個星期我們忙不忙？我想請幾天假。",
+      "pinyin": "jié jié lǎo bǎn xià ge xīng qī wǒ men máng bù máng wǒ xiǎng qǐng jǐ tiān jià",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: Boss, are we busy next week? I would like to ask for a few days off."
+    },
+    {
+      "index": 4,
+      "simplified": "老板：可以是可以。你想请几天？",
+      "traditional": "老闆：可以是可以。你想請幾天？",
+      "pinyin": "lǎo bǎn kě yǐ shì kě yǐ nǐ xiǎng qǐng jǐ tiān",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Boss: That could work… How many days do you want off?"
+    },
+    {
+      "index": 6,
+      "simplified": "杰杰：五天，可以吗？",
+      "traditional": "杰杰：五天，可以嗎？",
+      "pinyin": "jié jié wǔ tiān kě yǐ ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: Five days, is that ok?"
+    },
+    {
+      "index": 8,
+      "simplified": "老板：五天也太长了！三天怎么样？",
+      "traditional": "老闆：五天也太長了！三天怎麼樣？",
+      "pinyin": "lǎo bǎn wǔ tiān yě tài cháng le sān tiān zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Boss: Five days is too long! How about three days?"
+    },
+    {
+      "index": 10,
+      "simplified": "杰杰：可以是可以，但是……",
+      "traditional": "杰杰：可以是可以，但是……",
+      "pinyin": "jié jié kě yǐ shì kě yǐ dàn shì",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Jay: Yes, that could work, but..."
+    },
+    {
+      "index": 12,
+      "simplified": "老板：好，就三天吧！不要“但是”了。",
+      "traditional": "老闆：好，就三天吧！不要“但是”了。",
+      "pinyin": "lǎo bǎn hǎo jiù sān tiān ba bú yào dàn shì le",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Boss: Ok, three days then. I don’t want to hear any “buts”."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杰杰",
+      "traditional": "杰杰",
+      "pinyin": "jié jié",
+      "meaning": "Jay Jay (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎo bǎn",
+      "meaning": "boss\nowner",
+      "hsk": 5
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忙",
+      "traditional": "忙",
+      "pinyin": "máng",
+      "meaning": "busy",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "假",
+      "traditional": "假",
+      "pinyin": "jià",
+      "meaning": "vacation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "meaning": "length\nlong",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不要",
+      "traditional": "不要",
+      "pinyin": "bú yào",
+      "meaning": "must not\ndon't",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "tc_hanzi": "忙"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "tc_hanzi": "忙"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "假",
+        "pinyin": "jià",
+        "meaning": "vacation",
+        "tc_hanzi": "假"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "length\nlong",
+        "tc_hanzi": "長"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "杰杰",
+        "pinyin": "jié jié",
+        "meaning": "Jay Jay (name)",
+        "tc_hanzi": "杰杰"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不要",
+        "pinyin": "bú yào",
+        "meaning": "must not\ndon't",
+        "tc_hanzi": "不要"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "“That could work…” actually implies “I don’t like this idea”.",
+    "syllable_times": [
+      0.45880362564780697,
+      0.7256235827664399,
+      1.2072403360723158,
+      1.5873015873015872,
+      3.7026498548584557,
+      3.7026498548584557,
+      3.7026498548584557,
+      4.036281179138322,
+      5.079365079365079,
+      5.396825396825397,
+      5.578231292517007,
+      5.850340136054422,
+      6.394557823129252,
+      6.666666666666667,
+      7.074829931972789,
+      7.528344671201814,
+      7.6643990929705215,
+      8.934240362811792,
+      9.251700680272108,
+      9.705215419501133,
+      10.141102472853294,
+      10.332743399949615,
+      10.69386510993593,
+      12.917953105164862,
+      12.917953105164862,
+      12.917953105164862,
+      13.406938847221687,
+      13.686777148259191,
+      13.928677282415464,
+      14.345465274648074,
+      15.28344671201814,
+      15.646258503401361,
+      16.05442176870748,
+      16.55328798185941,
+      16.87074829931973,
+      19.235677257523626,
+      19.235677257523626,
+      19.235677257523626,
+      19.58660530117503,
+      20.36281179138322,
+      20.68725534361491,
+      20.816326530612244,
+      23.07829058318925,
+      23.07829058318925,
+      23.07829058318925,
+      23.464580338519802,
+      23.94557823129252,
+      24.210402151927962,
+      24.60489703908901,
+      24.988662131519273,
+      26.49923480642272,
+      26.935124842961184,
+      27.392290249433106,
+      27.549891563533127,
+      27.709750566893423,
+      30.06981020181146,
+      30.06981020181146,
+      30.06981020181146,
+      30.430839002267575,
+      30.70294784580499,
+      30.964503863997734,
+      31.28879541431313,
+      32.15419501133787,
+      32.471655328798185,
+      34.360766161428586,
+      34.360766161428586,
+      34.360766161428586,
+      35.64625850340136,
+      36.083717373470556,
+      36.4474096601848,
+      36.734693877551024,
+      37.91383219954648,
+      38.276643990929706,
+      38.59410430839002,
+      38.90878119747003,
+      39.23812526066447,
+      39.80172335600907,
+      39.80172335600907
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      25,
+      26,
+      38,
+      39,
+      47,
+      48,
+      61,
+      62,
+      70,
+      71,
+      86
+    ],
+    "sentence_translations": [
+      "Yes, that could work…",
+      "",
+      "Jay: Boss, are we busy next week? I would like to ask for a few days off.",
+      "",
+      "Boss: That could work… How many days do you want off?",
+      "",
+      "Jay: Five days, is that ok?",
+      "",
+      "Boss: Five days is too long! How about three days?",
+      "",
+      "Jay: Yes, that could work, but...",
+      "",
+      "Boss: Ok, three days then. I don’t want to hear any “buts”.",
+      ""
+    ]
+  }
+}

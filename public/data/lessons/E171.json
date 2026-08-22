@@ -1,0 +1,674 @@
+{
+  "id": "E171",
+  "title": "Little Ming Got Sick",
+  "level": "newbie",
+  "date": "2017-11-23",
+  "synopsis": "Little Ming got sick but was very happy.",
+  "audioUrl": "https://static.duchinese.net/documents/584/93d8cfe8c65d6a49fd3d9e0fdf5d544415f260b9.mp3?1511205959",
+  "series": null,
+  "fullText": {
+    "simplified": "小明生病了\n\n    昨天天气太冷，小明生病了。今天他要去医院看医生，但是他很高兴。因为妈妈说他今天可以不去学校，在家休息，所以他也不用考试了。",
+    "traditional": "小明生病了\n\n    昨天天氣太冷，小明生病了。今天他要去醫院看醫生，但是他很高興。因為媽媽說他今天可以不去學校，在家休息，所以他也不用考試了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Little Ming Got Sick"
+    },
+    {
+      "index": 2,
+      "simplified": "昨天天气太冷，小明生病了。",
+      "traditional": "昨天天氣太冷，小明生病了。",
+      "pinyin": "zuó tiān tiān qì tài lěng xiǎo míng shēng bìng le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "今天他要去医院看医生，但是他很高兴。",
+      "traditional": "今天他要去醫院看醫生，但是他很高興。",
+      "pinyin": "jīn tiān tā yào qù yī yuàn kàn yī shēng dàn shì tā hěn gāo xìng",
+      "english": "Yesterday was too cold and Little Ming got sick."
+    },
+    {
+      "index": 4,
+      "simplified": "因为妈妈说他今天可以不去学校，在家休息，",
+      "traditional": "因為媽媽說他今天可以不去學校，在家休息，",
+      "pinyin": "yīn wèi mā ma shuō tā jīn tiān kě yǐ bú qù xué xiào zài jiā xiū xi",
+      "english": "Today he has to go see the doctor, but he is very happy."
+    },
+    {
+      "index": 5,
+      "simplified": "所以他也不用考试了。",
+      "traditional": "所以他也不用考試了。",
+      "pinyin": "suǒ yǐ tā yě bú yòng kǎo shì le",
+      "english": "Because his mom says that he doesn’t need to go to school today, and to rest at home."
+    },
+    {
+      "index": 6,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Therefore he doesn’t need to do the examination either."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "生病",
+      "traditional": "生病",
+      "pinyin": "shēng bìng",
+      "meaning": "to fall ill",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "meaning": "yesterday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "meaning": "hospital",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to visit\nto call on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "meaning": "doctor",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "meaning": "rest\nto rest",
+      "hsk": 2
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不用",
+      "traditional": "不用",
+      "pinyin": "bú yòng",
+      "meaning": "need not",
+      "hsk": null
+    },
+    {
+      "hanzi": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "meaning": "to take an exam",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生病",
+        "pinyin": "shēng bìng",
+        "meaning": "to fall ill",
+        "tc_hanzi": "生病"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "生病",
+        "pinyin": "shēng bìng",
+        "meaning": "to fall ill",
+        "tc_hanzi": "生病"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital",
+        "tc_hanzi": "醫院"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to visit\nto call on",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "休息",
+        "pinyin": "xiū xi",
+        "meaning": "rest\nto rest",
+        "tc_hanzi": "休息"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hanzi": "不用",
+        "pinyin": "bú yòng",
+        "meaning": "need not",
+        "tc_hanzi": "不用"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "考试",
+        "pinyin": "kǎo shì",
+        "meaning": "to take an exam",
+        "tc_hanzi": "考試"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming got sick but was very happy.",
+    "syllable_times": [
+      0.4988662131519274,
+      1.043083900226757,
+      1.541950113378685,
+      1.904761904761905,
+      5.170068027210885,
+      5.668934240362812,
+      6.575963718820861,
+      7.029478458049887,
+      7.573696145124717,
+      8.02721088435374,
+      9.841269841269842,
+      10.34013605442177,
+      11.06575963718821,
+      11.60997732426304,
+      12.01814058956916,
+      14.24036281179138,
+      14.65870740382344,
+      15.87301587301587,
+      16.3265306122449,
+      16.78004535147392,
+      17.27891156462585,
+      17.64172335600907,
+      18.45804988662131,
+      18.95691609977324,
+      19.27437641723356,
+      21.8140589569161,
+      22.13151927437642,
+      22.90249433106576,
+      23.35600907029479,
+      23.718820861678,
+      24.08163265306122,
+      26.48526077097506,
+      26.80272108843537,
+      27.84580498866213,
+      28.20861678004535,
+      28.48072562358277,
+      29.75056689342404,
+      30.29478458049887,
+      30.74829931972789,
+      31.29251700680272,
+      31.79138321995465,
+      32.15419501133787,
+      32.56235827664399,
+      32.97052154195011,
+      33.32051994669799,
+      34.69387755102041,
+      35.10204081632653,
+      35.51020408163265,
+      35.94219114930253,
+      37.82312925170068,
+      38.32014471855143,
+      39.18367346938776,
+      39.59183673469388,
+      40.0453514739229,
+      40.44573473402343,
+      40.81632653061224,
+      41.22448979591837,
+      41.72335600907029,
+      42.30560090702948,
+      42.30560090702948
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      15,
+      28,
+      42,
+      49
+    ],
+    "sentence_translations": [
+      "Little Ming Got Sick",
+      "",
+      "Yesterday was too cold and Little Ming got sick.",
+      "Today he has to go see the doctor, but he is very happy.",
+      "Because his mom says that he doesn’t need to go to school today, and to rest at home.",
+      "Therefore he doesn’t need to do the examination either.",
+      ""
+    ]
+  }
+}

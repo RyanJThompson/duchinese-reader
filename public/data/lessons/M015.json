@@ -1,0 +1,919 @@
+{
+  "id": "M015",
+  "title": "You Must Treat Me to Dinner",
+  "level": "intermediate",
+  "date": "2022-01-19",
+  "synopsis": "Lili tells Lucy about her and Ben.",
+  "audioUrl": "https://static.duchinese.net/documents/90015/269a3783c34cf1ccd24673290aa9af3cb4e882e0.mp3?1637914727",
+  "series": {
+    "title": "Ben’s Life After Graduation",
+    "chapter": 14,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你一定要请客哦\n\n丽丽：露西，你知道吗？本和我表白啦！\n露西：真的吗？太好了！你同意了吗？\n丽丽：嗯，我同意了。\n露西：恭喜，恭喜！这么好的事情，你一定要请客！\n丽丽：好啦！你想吃什么？\n露西：我要……吃火锅！",
+    "traditional": "你一定要請客哦\n\n麗麗：露西，你知道嗎？本和我表白啦！\n露西：真的嗎？太好了！你同意了嗎？\n麗麗：嗯，我同意了。\n露西：恭喜，恭喜！這麼好的事情，你一定要請客！\n麗麗：好啦！你想吃什麼？\n露西：我要……吃火鍋！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "You Must Treat Me to Dinner"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：露西，你知道吗？本和我表白啦！",
+      "traditional": "麗麗：露西，你知道嗎？本和我表白啦！",
+      "pinyin": "lì lì lù xī nǐ zhī dào ma běn hé wǒ biǎo bái la",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Lucy, guess what! Ben confessed his feelings to me!"
+    },
+    {
+      "index": 4,
+      "simplified": "露西：真的吗？太好了！你同意了吗？",
+      "traditional": "露西：真的嗎？太好了！你同意了嗎？",
+      "pinyin": "lù xī zhēn de ma tài hǎo le nǐ tóng yì le ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: Really? That’s awesome! Did you accept?"
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：嗯，我同意了。",
+      "traditional": "麗麗：嗯，我同意了。",
+      "pinyin": "lì lì en wǒ tóng yì le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Yes, I did!"
+    },
+    {
+      "index": 8,
+      "simplified": "露西：恭喜，恭喜！这么好的事情，你一定要请客！",
+      "traditional": "露西：恭喜，恭喜！這麼好的事情，你一定要請客！",
+      "pinyin": "lù xī gōng xǐ gōng xǐ zhè me hǎo de shì qing nǐ yí dìng yào qǐng kè",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lucy: Congrats, congrats! That’s such great news! You must treat me to dinner!"
+    },
+    {
+      "index": 10,
+      "simplified": "丽丽：好啦！你想吃什么？",
+      "traditional": "麗麗：好啦！你想吃什麼？",
+      "pinyin": "lì lì hǎo la nǐ xiǎng chī shén me",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Alright! What do you want to eat?"
+    },
+    {
+      "index": 12,
+      "simplified": "露西：我要……吃火锅！",
+      "traditional": "露西：我要……吃火鍋！",
+      "pinyin": "lù xī wǒ yào chī huǒ guō",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Lucy: I want to … eat hotpot!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "certainly\nnecessarily",
+      "hsk": 3
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "请客",
+      "traditional": "請客",
+      "pinyin": "qǐng kè",
+      "meaning": "to treat sb. (to meal etc.)",
+      "hsk": null
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "o",
+      "meaning": "sentence-final particle that conveys informality, warmth, friendliness or intimacy\nmay also indicate that one is stating a fact that the other person is not aware of",
+      "hsk": 6
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "露西",
+      "traditional": "露西",
+      "pinyin": "lù xī",
+      "meaning": "Lucy (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "表白",
+      "traditional": "表白",
+      "pinyin": "biǎo bái",
+      "meaning": "to explain oneself\nto reveal one's thoughts or feelings\nconfession",
+      "hsk": null
+    },
+    {
+      "hanzi": "啦",
+      "traditional": "啦",
+      "pinyin": "la",
+      "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+      "hsk": 6
+    },
+    {
+      "hanzi": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "meaning": "really\ntruly",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "同意",
+      "traditional": "同意",
+      "pinyin": "tóng yì",
+      "meaning": "to agree\nto consent\nto approve",
+      "hsk": 3
+    },
+    {
+      "hanzi": "嗯",
+      "traditional": "嗯",
+      "pinyin": "en",
+      "meaning": "(interjection indicating approval, appreciation or agreement)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "恭喜",
+      "traditional": "恭喜",
+      "pinyin": "gōng xǐ",
+      "meaning": "congratulations",
+      "hsk": 5
+    },
+    {
+      "hanzi": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "meaning": "this way\nlike this",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "事情",
+      "traditional": "事情",
+      "pinyin": "shì qing",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "火锅",
+      "traditional": "火鍋",
+      "pinyin": "huǒ guō",
+      "meaning": "hotpot",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "请客",
+        "pinyin": "qǐng kè",
+        "meaning": "to treat sb. (to meal etc.)",
+        "tc_hanzi": "請客"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "o",
+        "meaning": "sentence-final particle that conveys informality, warmth, friendliness or intimacy\nmay also indicate that one is stating a fact that the other person is not aware of",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "表白",
+        "pinyin": "biǎo bái",
+        "meaning": "to explain oneself\nto reveal one's thoughts or feelings\nconfession",
+        "tc_hanzi": "表白"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "啦",
+        "pinyin": "la",
+        "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+        "tc_hanzi": "啦"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真的"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同意",
+        "pinyin": "tóng yì",
+        "meaning": "to agree\nto consent\nto approve",
+        "tc_hanzi": "同意"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗯",
+        "pinyin": "en",
+        "meaning": "(interjection indicating approval, appreciation or agreement)",
+        "tc_hanzi": "嗯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同意",
+        "pinyin": "tóng yì",
+        "meaning": "to agree\nto consent\nto approve",
+        "tc_hanzi": "同意"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "恭喜",
+        "pinyin": "gōng xǐ",
+        "meaning": "congratulations",
+        "tc_hanzi": "恭喜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "恭喜",
+        "pinyin": "gōng xǐ",
+        "meaning": "congratulations",
+        "tc_hanzi": "恭喜"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事情",
+        "pinyin": "shì qing",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事情"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "请客",
+        "pinyin": "qǐng kè",
+        "meaning": "to treat sb. (to meal etc.)",
+        "tc_hanzi": "請客"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "啦",
+        "pinyin": "la",
+        "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+        "tc_hanzi": "啦"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "露西",
+        "pinyin": "lù xī",
+        "meaning": "Lucy (name)",
+        "tc_hanzi": "露西"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "火锅",
+        "pinyin": "huǒ guō",
+        "meaning": "hotpot",
+        "tc_hanzi": "火鍋"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Lili tells Lucy about her and Ben.",
+    "syllable_times": [
+      0.65,
+      1.0317460317460316,
+      1.3233333333333333,
+      1.69,
+      2.0975056689342404,
+      2.437641723356009,
+      3.401360544217687,
+      3.401360544217687,
+      3.401360544217687,
+      3.820861678004535,
+      4.85827664399093,
+      5.073696145124717,
+      5.286666666666666,
+      5.578231292517007,
+      6.434240362811791,
+      7.006802721088435,
+      7.369614512471655,
+      7.596371882086167,
+      7.9478458049886616,
+      8.270975056689343,
+      9.342403628117914,
+      9.342403628117914,
+      9.342403628117914,
+      9.73922902494331,
+      10,
+      10.719954648526077,
+      11.213151927437641,
+      11.564625850340136,
+      12.346938775510203,
+      12.85,
+      13.236961451247165,
+      13.55,
+      13.809523809523808,
+      15.017006802721088,
+      15.017006802721088,
+      15.017006802721088,
+      15.963718820861677,
+      16.218820861678005,
+      16.564625850340136,
+      16.785714285714285,
+      17.66439909297052,
+      17.66439909297052,
+      17.66439909297052,
+      18.027210884353742,
+      18.418367346938776,
+      18.798185941043084,
+      19.75,
+      20.107709750566894,
+      20.396825396825395,
+      20.651927437641724,
+      20.861678004535147,
+      21.11111111111111,
+      21.83,
+      22.5,
+      22.84580498866213,
+      23.10657596371882,
+      23.39002267573696,
+      23.77,
+      24.835600907029477,
+      24.835600907029477,
+      24.835600907029477,
+      25.30612244897959,
+      26.22,
+      26.683673469387756,
+      27.006802721088434,
+      27.273242630385486,
+      27.511337868480723,
+      28.180272108843536,
+      28.180272108843536,
+      28.180272108843536,
+      28.594104308390023,
+      29.86394557823129,
+      30.396825396825395,
+      30.91269841269841,
+      32
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      21,
+      22,
+      36,
+      37,
+      45,
+      46,
+      62,
+      63,
+      73,
+      74,
+      82
+    ],
+    "sentence_translations": [
+      "You Must Treat Me to Dinner",
+      "",
+      "Lili: Lucy, guess what! Ben confessed his feelings to me!",
+      "",
+      "Lucy: Really? That’s awesome! Did you accept?",
+      "",
+      "Lili: Yes, I did!",
+      "",
+      "Lucy: Congrats, congrats! That’s such great news! You must treat me to dinner!",
+      "",
+      "Lili: Alright! What do you want to eat?",
+      "",
+      "Lucy: I want to … eat hotpot!",
+      ""
+    ]
+  }
+}

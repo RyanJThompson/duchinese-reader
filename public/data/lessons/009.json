@@ -1,0 +1,3736 @@
+{
+  "id": "009",
+  "title": "Lantern Festival",
+  "level": "master",
+  "date": "2015-11-13",
+  "synopsis": "The Lantern Festival is an annual Chinese festival in early spring. Here we learn the history behind the Lantern Festival and how it is celebrated today.",
+  "audioUrl": "https://static.duchinese.net/documents/9/40a8e89ea05703bb0d06fa06e11d293ed33aba8d.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "元宵节\n    元宵节是中国的传统节日。关于元宵节，中国有一个传说。在很久以前，凶禽猛兽很多，四处伤害人和牲畜，人们就组织起来去打它们。有一只神鸟因为迷路而降落人间，却意外地被不知情的猎人给射死了。天帝知道后十分生气，下令让天兵于正月十五日到人间放火，把人间的人畜财产通通烧死。 天帝的女儿心地善良，不忍心看百姓无辜受难，就冒着生命的危险，把这个消息告诉了人们。众人听说了这个消息，吓得不知如何是好，过了好久，才有个老人家想出了个法子。他让大家在正月十五的时候都在家里挂灯笼、燃放烟花爆竹。这样一来，天帝就以为人们都被烧死了，人们才逃过了这一劫。\n\n现在，元宵节人们喜欢猜灯谜，吃元宵。灯谜，是元宵节的一种游戏方式。人们把谜语写在纸条上，贴在灯笼上供人猜，所以称之为灯谜。如果有人猜中了灯笼上的谜语，就会把纸条揭下来，去领取奖品。而元宵又称“汤圆”，是由糯米制成，或实心，或带馅。馅有豆沙、山楂等。吃元宵象征着家庭像月圆一样团圆和美满，寄托了人们对未来生活的美好愿望。",
+    "traditional": "元宵節\n    元宵節是中國的傳統節日。關於元宵節，中國有一個傳說。在很久以前，凶禽猛獸很多，四處傷害人和牲畜，人們就組織起來去打它們。有一隻神鳥因為迷路而降落人間，卻意外地被不知情的獵人給射死了。天帝知道後十分生氣，下令讓天兵於正月十五日到人間放火，把人間的人畜財產通通燒死。 天帝的女兒心地善良，不忍心看百姓無辜受難，就冒著生命的危險，把這個消息告訴了人們。眾人聽說了這個消息，嚇得不知如何是好，過了好久，才有個老人家想出了個法子。他讓大家在正月十五的時候都在家裡掛燈籠、燃放煙花爆竹。這樣一來，天帝就以為人們都被燒死了，人們才逃過了這一劫。\n\n現在，元宵節人們喜歡猜燈謎，吃元宵。燈謎，是元宵節的一種遊戲方式。人們把謎語寫在紙條上，貼在燈籠上供人猜，所以稱之為燈謎。如果有人猜中了燈籠上的謎語，就會把紙條揭下來，去領取獎品。而元宵又稱“湯圓”，是由糯米製成，或實心，或帶餡。餡有豆沙、山楂等。吃元宵象徵著家庭像月圓一樣團圓和美滿，寄託了人們對未來生活的美好願望。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Lantern Festival"
+    },
+    {
+      "index": 2,
+      "simplified": "元宵节是中国的传统节日。",
+      "traditional": "元宵節是中國的傳統節日。",
+      "pinyin": "yuán xiāo jié shì zhōng guó de chuán tǒng jié rì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "关于元宵节，中国有一个传说。",
+      "traditional": "關於元宵節，中國有一個傳說。",
+      "pinyin": "guān yú yuán xiāo jié zhōng guó yǒu yī ge chuán shuō",
+      "english": "The lantern festival is a traditional Chinese holiday."
+    },
+    {
+      "index": 4,
+      "simplified": "在很久以前，凶禽猛兽很多，四处伤害人和牲畜，",
+      "traditional": "在很久以前，凶禽猛獸很多，四處傷害人和牲畜，",
+      "pinyin": "zài hěn jiǔ yǐ qián xiōng qín měng shòu hěn duō sì chù shāng hài rén hé shēng chù",
+      "english": "There is a folklore in China regarding the Lantern Festival."
+    },
+    {
+      "index": 5,
+      "simplified": "人们就组织起来去打它们。",
+      "traditional": "人們就組織起來去打它們。",
+      "pinyin": "rén men jiù zǔ zhī qi lai qù dǎ tā men",
+      "english": "A long time ago there were many foul beasts attacking people and livestock everywhere, ..."
+    },
+    {
+      "index": 6,
+      "simplified": "有一只神鸟因为迷路而降落人间，",
+      "traditional": "有一隻神鳥因為迷路而降落人間，",
+      "pinyin": "yǒu yì zhī shén niǎo yīn wèi mí lù ér jiàng luò rén jiān",
+      "english": "... so the people gathered together to strike back at them."
+    },
+    {
+      "index": 7,
+      "simplified": "却意外地被不知情的猎人给射死了。",
+      "traditional": "卻意外地被不知情的獵人給射死了。",
+      "pinyin": "què yì wài de bèi bù zhī qíng de liè rén gěi shè sǐ le",
+      "english": "A divine bird which had lost its way and descended to the human world, ..."
+    },
+    {
+      "index": 8,
+      "simplified": "天帝知道后十分生气，",
+      "traditional": "天帝知道後十分生氣，",
+      "pinyin": "tiān dì zhī dào hòu shí fēn shēng qì",
+      "english": "... was accidentally shot dead by an unknowing hunter."
+    },
+    {
+      "index": 9,
+      "simplified": "下令让天兵于正月十五日到人间放火，",
+      "traditional": "下令讓天兵於正月十五日到人間放火，",
+      "pinyin": "xià lìng ràng tiān bīng yú zhēng yuè shí wǔ rì dào rén jiān fàng huǒ",
+      "english": "After God found out, he became furious with anger."
+    },
+    {
+      "index": 10,
+      "simplified": "把人间的人畜财产通通烧死。",
+      "traditional": "把人間的人畜財產通通燒死。",
+      "pinyin": "bǎ rén jiān de rén chù cái chǎn tōng tōng shāo sǐ",
+      "english": "He ordered his heavenly troops to set the human world on fire on the fifteenth day of the first month, ..."
+    },
+    {
+      "index": 11,
+      "simplified": " ",
+      "traditional": " ",
+      "pinyin": "",
+      "english": "... and to set each and every human, animal and other asset on fire. "
+    },
+    {
+      "index": 12,
+      "simplified": "天帝的女儿心地善良，不忍心看百姓无辜受难，",
+      "traditional": "天帝的女兒心地善良，不忍心看百姓無辜受難，",
+      "pinyin": "tiān dì de nǚ ér xīn dì shàn liáng bù rěn xīn kàn bǎi xìng wú gū shòu nàn",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "就冒着生命的危险，把这个消息告诉了人们。",
+      "traditional": "就冒著生命的危險，把這個消息告訴了人們。",
+      "pinyin": "jiù mào zhe shēng mìng de wēi xiǎn bǎ zhè ge xiāo xi gào su le rén men",
+      "english": "God's daughter was very kind hearted, and could not bear seeing innocent common people suffer, ..."
+    },
+    {
+      "index": 14,
+      "simplified": "众人听说了这个消息，吓得不知如何是好，",
+      "traditional": "眾人聽說了這個消息，嚇得不知如何是好，",
+      "pinyin": "zhòng rén tīng shuō le zhè ge xiāo xi xià de bù zhī rú hé shì hǎo",
+      "english": "... so she risked her own life and warned the people about this news."
+    },
+    {
+      "index": 15,
+      "simplified": "过了好久，才有个老人家想出了个法子。",
+      "traditional": "過了好久，才有個老人家想出了個法子。",
+      "pinyin": "guò le hǎo jiǔ cái yǒu ge lǎo rén jiā xiǎng chū le ge fǎ zi",
+      "english": "After everyone heard the news, they got so scared they did not know what to do."
+    },
+    {
+      "index": 16,
+      "simplified": "他让大家在正月十五的时候都在家里挂灯笼、燃放烟花爆竹。",
+      "traditional": "他讓大家在正月十五的時候都在家裡掛燈籠、燃放煙花爆竹。",
+      "pinyin": "tā ràng dà jiā zài zhēng yuè shí wǔ de shí hou dōu zài jiā lǐ guà dēng lóng rán fàng yān huā bào zhú",
+      "english": "After quite some time, an old man finally figured out a solution."
+    },
+    {
+      "index": 17,
+      "simplified": "这样一来，天帝就以为人们都被烧死了，人们才逃过了这一劫。\n\n",
+      "traditional": "這樣一來，天帝就以為人們都被燒死了，人們才逃過了這一劫。\n\n",
+      "pinyin": "zhè yàng yì lái tiān dì jiù yǐ wéi rén men dōu bèi shāo sǐ le rén men cái táo guò le zhè yì jié",
+      "english": "He made everyone hang up lanterns their homes on the fifteenth of the first month, and light fireworks."
+    },
+    {
+      "index": 18,
+      "simplified": "现在，元宵节人们喜欢猜灯谜，吃元宵。",
+      "traditional": "現在，元宵節人們喜歡猜燈謎，吃元宵。",
+      "pinyin": "xiàn zài yuán xiāo jié rén men xǐ huan cāi dēng mí chī yuán xiāo",
+      "english": "This way, God thought that everyone had already burned dead, and the people could finally be freed from this disaster."
+    },
+    {
+      "index": 19,
+      "simplified": "灯谜，是元宵节的一种游戏方式。",
+      "traditional": "燈謎，是元宵節的一種遊戲方式。",
+      "pinyin": "dēng mí shì yuán xiāo jié de yì zhǒng yóu xì fāng shì",
+      "english": "Nowadays, people enjoy guessing lantern riddles and eating sticky dumplings during the lantern festival."
+    },
+    {
+      "index": 20,
+      "simplified": "人们把谜语写在纸条上，贴在灯笼上供人猜，",
+      "traditional": "人們把謎語寫在紙條上，貼在燈籠上供人猜，",
+      "pinyin": "rén men bǎ mí yǔ xiě zài zhǐ tiáo shang tiē zài dēng lóng shang gōng rén cāi",
+      "english": "Lantern riddles are a type of game belonging to the lantern festival."
+    },
+    {
+      "index": 21,
+      "simplified": "所以称之为灯谜。",
+      "traditional": "所以稱之為燈謎。",
+      "pinyin": "suǒ yǐ chēng zhī wéi dēng mí",
+      "english": "People write riddles on paper stripes, stick these onto lanterns and have people guess."
+    },
+    {
+      "index": 22,
+      "simplified": "如果有人猜中了灯笼上的谜语，就会把纸条揭下来，去领取奖品。",
+      "traditional": "如果有人猜中了燈籠上的謎語，就會把紙條揭下來，去領取獎品。",
+      "pinyin": "rú guǒ yǒu rén cāi zhòng le dēng lóng shang de mí yǔ jiù huì bǎ zhǐ tiáo jiē xià lái qù lǐng qǔ jiǎng pǐn",
+      "english": "This is why they are called lantern riddles."
+    },
+    {
+      "index": 23,
+      "simplified": "而元宵又称“汤圆”，是由糯米制成，或实心，或带馅。",
+      "traditional": "而元宵又稱“湯圓”，是由糯米製成，或實心，或帶餡。",
+      "pinyin": "ér yuán xiāo yòu chēng tāng yuán shì yóu nuò mǐ zhì chéng huò shí xīn huò dài xiàn",
+      "english": "If someone correctly guesses one of the riddles on the lanterns, they may take the paper slip and go draw a prize."
+    },
+    {
+      "index": 24,
+      "simplified": "馅有豆沙、山楂等。",
+      "traditional": "餡有豆沙、山楂等。",
+      "pinyin": "xiàn yǒu dòu shā shān zhā děng",
+      "english": "And the sticky dumplings, also called \"tang yuan\", are made from glutonous rice, either solid or with stuffing."
+    },
+    {
+      "index": 25,
+      "simplified": "吃元宵象征着家庭像月圆一样团圆和美满，",
+      "traditional": "吃元宵象徵著家庭像月圓一樣團圓和美滿，",
+      "pinyin": "chī yuán xiāo xiàng zhēng zhe jiā tíng xiàng yuè yuán yí yàng tuán yuán hé měi mǎn",
+      "english": "The stuffing can consist of sweetened bean paste, rose hip, etc."
+    },
+    {
+      "index": 26,
+      "simplified": "寄托了人们对未来生活的美好愿望。",
+      "traditional": "寄託了人們對未來生活的美好願望。",
+      "pinyin": "jì tuō le rén men duì wèi lái shēng huó de měi hǎo yuàn wàng",
+      "english": "Eating sticky dumplings symbolizes the family being united and happy like the full moon, ..."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "元宵节",
+      "traditional": "元宵節",
+      "pinyin": "yuán xiāo jié",
+      "meaning": "Lantern Festival, the final event of the Spring Festival",
+      "hsk": 6
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "传统",
+      "traditional": "傳統",
+      "pinyin": "chuán tǒng",
+      "meaning": "tradition\ntraditional",
+      "hsk": 5
+    },
+    {
+      "hanzi": "节日",
+      "traditional": "節日",
+      "pinyin": "jié rì",
+      "meaning": "holiday\nfestival",
+      "hsk": 3
+    },
+    {
+      "hanzi": "关于",
+      "traditional": "關於",
+      "pinyin": "guān yú",
+      "meaning": "concerning\nwith regard to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "传说",
+      "traditional": "傳說",
+      "pinyin": "chuán shuō",
+      "meaning": "legend\nfolklore",
+      "hsk": 5
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "久",
+      "traditional": "久",
+      "pinyin": "jiǔ",
+      "meaning": "(long) time\n(long) duration of time",
+      "hsk": 3
+    },
+    {
+      "hanzi": "以前",
+      "traditional": "以前",
+      "pinyin": "yǐ qián",
+      "meaning": "before\nformerly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "凶禽猛兽",
+      "traditional": "凶禽猛獸",
+      "pinyin": "xiōng qín měng shòu",
+      "meaning": "fierce beast or bird\nmonster",
+      "hsk": null
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "四处",
+      "traditional": "四處",
+      "pinyin": "sì chù",
+      "meaning": "all over the place\neverywhere and all directions",
+      "hsk": null
+    },
+    {
+      "hanzi": "伤害",
+      "traditional": "傷害",
+      "pinyin": "shāng hài",
+      "meaning": "to injure\nto harm",
+      "hsk": 5
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "牲畜",
+      "traditional": "牲畜",
+      "pinyin": "shēng chù",
+      "meaning": "domesticated animals\nlivestock",
+      "hsk": 6
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "组织",
+      "traditional": "組織",
+      "pinyin": "zǔ zhī",
+      "meaning": "to organize",
+      "hsk": 5
+    },
+    {
+      "hanzi": "起来",
+      "traditional": "起來",
+      "pinyin": "qi lai",
+      "meaning": "(after a verb, indicating the beginning and continuation of an action or a state)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to beat\nto fight\nto attack",
+      "hsk": null
+    },
+    {
+      "hanzi": "它们",
+      "traditional": "它們",
+      "pinyin": "tā men",
+      "meaning": "they (for inanimate objects)",
+      "hsk": null
+    },
+    {
+      "hanzi": "只",
+      "traditional": "隻",
+      "pinyin": "zhī",
+      "meaning": "classifier for birds and certain animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "神鸟",
+      "traditional": "神鳥",
+      "pinyin": "shén niǎo",
+      "meaning": "supernatural bird",
+      "hsk": null
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "迷路",
+      "traditional": "迷路",
+      "pinyin": "mí lù",
+      "meaning": "to lose the way\nto get lost",
+      "hsk": 4
+    },
+    {
+      "hanzi": "而",
+      "traditional": "而",
+      "pinyin": "ér",
+      "meaning": "and\nas well as",
+      "hsk": 4
+    },
+    {
+      "hanzi": "降落",
+      "traditional": "降落",
+      "pinyin": "jiàng luò",
+      "meaning": "to descend\nto land",
+      "hsk": 4
+    },
+    {
+      "hanzi": "人间",
+      "traditional": "人間",
+      "pinyin": "rén jiān",
+      "meaning": "the human world\nthe earth",
+      "hsk": 6
+    },
+    {
+      "hanzi": "却",
+      "traditional": "卻",
+      "pinyin": "què",
+      "meaning": "but\nyet\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "意外",
+      "traditional": "意外",
+      "pinyin": "yì wài",
+      "meaning": "unexpected\naccident",
+      "hsk": 5
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "被",
+      "traditional": "被",
+      "pinyin": "bèi",
+      "meaning": "by\n(indicates passive-voice clauses)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知情",
+      "traditional": "知情",
+      "pinyin": "zhī qíng",
+      "meaning": "to know the facts\nto understand\nto be familiar with the situation",
+      "hsk": null
+    },
+    {
+      "hanzi": "猎人",
+      "traditional": "獵人",
+      "pinyin": "liè rén",
+      "meaning": "hunter",
+      "hsk": null
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "射",
+      "traditional": "射",
+      "pinyin": "shè",
+      "meaning": "to shoot",
+      "hsk": 6
+    },
+    {
+      "hanzi": "死",
+      "traditional": "死",
+      "pinyin": "sǐ",
+      "meaning": "death\nto die",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天帝",
+      "traditional": "天帝",
+      "pinyin": "tiān dì",
+      "meaning": "God of heaven\nCelestial emperor",
+      "hsk": null
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "after",
+      "hsk": 1
+    },
+    {
+      "hanzi": "十分",
+      "traditional": "十分",
+      "pinyin": "shí fēn",
+      "meaning": "very\nextremely\nabsolutely",
+      "hsk": 4
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "下令",
+      "traditional": "下令",
+      "pinyin": "xià lìng",
+      "meaning": "to give an order\nto command",
+      "hsk": null
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天兵",
+      "traditional": "天兵",
+      "pinyin": "tiān bīng",
+      "meaning": "heavenly troops",
+      "hsk": null
+    },
+    {
+      "hanzi": "于",
+      "traditional": "於",
+      "pinyin": "yú",
+      "meaning": "at\non\nto",
+      "hsk": null
+    },
+    {
+      "hanzi": "正月",
+      "traditional": "正月",
+      "pinyin": "zhēng yuè",
+      "meaning": "first month of the lunar year",
+      "hsk": 6
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "meaning": "day",
+      "hsk": 2
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "放火",
+      "traditional": "放火",
+      "pinyin": "fàng huǒ",
+      "meaning": "to set on fire",
+      "hsk": null
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人畜",
+      "traditional": "人畜",
+      "pinyin": "rén chù",
+      "meaning": "people and livestock",
+      "hsk": null
+    },
+    {
+      "hanzi": "财产",
+      "traditional": "財產",
+      "pinyin": "cái chǎn",
+      "meaning": "property\nassets",
+      "hsk": 5
+    },
+    {
+      "hanzi": "通通",
+      "traditional": "通通",
+      "pinyin": "tōng tōng",
+      "meaning": "entire\ncomplete",
+      "hsk": null
+    },
+    {
+      "hanzi": "烧",
+      "traditional": "燒",
+      "pinyin": "shāo",
+      "meaning": "to burn",
+      "hsk": null
+    },
+    {
+      "hanzi": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚ ér",
+      "meaning": "daughter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "心地善良",
+      "traditional": "心地善良",
+      "pinyin": "xīn dì shàn liáng",
+      "meaning": "kind-hearted\ngood-natured",
+      "hsk": null
+    },
+    {
+      "hanzi": "忍心",
+      "traditional": "忍心",
+      "pinyin": "rěn xīn",
+      "meaning": "to have the heart to\nto be hardhearted enough to",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "百姓",
+      "traditional": "百姓",
+      "pinyin": "bǎi xìng",
+      "meaning": "common people",
+      "hsk": 5
+    },
+    {
+      "hanzi": "无辜",
+      "traditional": "無辜",
+      "pinyin": "wú gū",
+      "meaning": "innocent",
+      "hsk": 6
+    },
+    {
+      "hanzi": "受难",
+      "traditional": "受難",
+      "pinyin": "shòu nàn",
+      "meaning": "to suffer (e.g. under torture)",
+      "hsk": null
+    },
+    {
+      "hanzi": "冒着",
+      "traditional": "冒著",
+      "pinyin": "mào zhe",
+      "meaning": "to brave\nto face dangers",
+      "hsk": null
+    },
+    {
+      "hanzi": "生命",
+      "traditional": "生命",
+      "pinyin": "shēng mìng",
+      "meaning": "life (characteristic of living beings, state of being alive)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "危险",
+      "traditional": "危險",
+      "pinyin": "wēi xiǎn",
+      "meaning": "danger\ndangerous",
+      "hsk": 4
+    },
+    {
+      "hanzi": "这个",
+      "traditional": "這個",
+      "pinyin": "zhè ge",
+      "meaning": "this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "消息",
+      "traditional": "消息",
+      "pinyin": "xiāo xi",
+      "meaning": "news\ninformation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gào su",
+      "meaning": "to tell\nto inform",
+      "hsk": 2
+    },
+    {
+      "hanzi": "众人",
+      "traditional": "眾人",
+      "pinyin": "zhòng rén",
+      "meaning": "everyone",
+      "hsk": null
+    },
+    {
+      "hanzi": "听说",
+      "traditional": "聽說",
+      "pinyin": "tīng shuō",
+      "meaning": "to hear (sth said)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吓",
+      "traditional": "嚇",
+      "pinyin": "xià",
+      "meaning": "to frighten\nto scare",
+      "hsk": 5
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不知",
+      "traditional": "不知",
+      "pinyin": "bù zhī",
+      "meaning": "not to know\nunaware",
+      "hsk": 2
+    },
+    {
+      "hanzi": "如何",
+      "traditional": "如何",
+      "pinyin": "rú hé",
+      "meaning": "how\nwhat",
+      "hsk": 5
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "to pass (time)\nto spend (time)\nto live (a life)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好久",
+      "traditional": "好久",
+      "pinyin": "hǎo jiǔ",
+      "meaning": "quite a while",
+      "hsk": 3
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "only then\nonly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "老人家",
+      "traditional": "老人家",
+      "pinyin": "lǎo rén jiā",
+      "meaning": "polite term for old woman or man",
+      "hsk": null
+    },
+    {
+      "hanzi": "想出",
+      "traditional": "想出",
+      "pinyin": "xiǎng chū",
+      "meaning": "to work out (a solution etc)\nto think up",
+      "hsk": 4
+    },
+    {
+      "hanzi": "法子",
+      "traditional": "法子",
+      "pinyin": "fǎ zi",
+      "meaning": "way\nmethod",
+      "hsk": null
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "挂",
+      "traditional": "掛",
+      "pinyin": "guà",
+      "meaning": "to hang or suspend (from a hook etc)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "灯笼",
+      "traditional": "燈籠",
+      "pinyin": "dēng lóng",
+      "meaning": "lantern",
+      "hsk": 6
+    },
+    {
+      "hanzi": "燃放",
+      "traditional": "燃放",
+      "pinyin": "rán fàng",
+      "meaning": "to light\nto set off (firecrackers etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "烟花爆竹",
+      "traditional": "煙花爆竹",
+      "pinyin": "yān huā bào zhú",
+      "meaning": "fireworks and firecrackers",
+      "hsk": null
+    },
+    {
+      "hanzi": "这样一来",
+      "traditional": "這樣一來",
+      "pinyin": "zhè yàng yì lái",
+      "meaning": "in this way",
+      "hsk": null
+    },
+    {
+      "hanzi": "以为",
+      "traditional": "以為",
+      "pinyin": "yǐ wéi",
+      "meaning": "to believe\nto be under the impression",
+      "hsk": 4
+    },
+    {
+      "hanzi": "逃过",
+      "traditional": "逃過",
+      "pinyin": "táo guò",
+      "meaning": "escape\nto get away with",
+      "hsk": 5
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "劫",
+      "traditional": "劫",
+      "pinyin": "jié",
+      "meaning": "disaster\nmisfortune",
+      "hsk": null
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猜",
+      "traditional": "猜",
+      "pinyin": "cāi",
+      "meaning": "to guess",
+      "hsk": 4
+    },
+    {
+      "hanzi": "灯谜",
+      "traditional": "燈謎",
+      "pinyin": "dēng mí",
+      "meaning": "lantern riddles",
+      "hsk": null
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "元宵",
+      "traditional": "元宵",
+      "pinyin": "yuán xiāo",
+      "meaning": "sticky rice dumplings",
+      "hsk": null
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "游戏",
+      "traditional": "遊戲",
+      "pinyin": "yóu xì",
+      "meaning": "game",
+      "hsk": 3
+    },
+    {
+      "hanzi": "方式",
+      "traditional": "方式",
+      "pinyin": "fāng shì",
+      "meaning": "way\nmanner\nstyle",
+      "hsk": 5
+    },
+    {
+      "hanzi": "谜语",
+      "traditional": "謎語",
+      "pinyin": "mí yǔ",
+      "meaning": "riddle",
+      "hsk": 6
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "纸条",
+      "traditional": "紙條",
+      "pinyin": "zhǐ tiáo",
+      "meaning": "slip of paper",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove",
+      "hsk": 1
+    },
+    {
+      "hanzi": "贴",
+      "traditional": "貼",
+      "pinyin": "tiē",
+      "meaning": "to stick\nto paste",
+      "hsk": 5
+    },
+    {
+      "hanzi": "供",
+      "traditional": "供",
+      "pinyin": "gōng",
+      "meaning": "to provide\nto supply",
+      "hsk": 4
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "称",
+      "traditional": "稱",
+      "pinyin": "chēng",
+      "meaning": "to name",
+      "hsk": 5
+    },
+    {
+      "hanzi": "之",
+      "traditional": "之",
+      "pinyin": "zhī",
+      "meaning": "it",
+      "hsk": 4
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wéi",
+      "meaning": "as (in the capacity of)\nto take sth as\nto be",
+      "hsk": 3
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有人",
+      "traditional": "有人",
+      "pinyin": "yǒu rén",
+      "meaning": "someone\nthere is someone\nsome people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhòng",
+      "meaning": "to hit (the mark)",
+      "hsk": null
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "揭",
+      "traditional": "揭",
+      "pinyin": "jiē",
+      "meaning": "to tear off",
+      "hsk": null
+    },
+    {
+      "hanzi": "下来",
+      "traditional": "下來",
+      "pinyin": "xià lái",
+      "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "领取",
+      "traditional": "領取",
+      "pinyin": "lǐng qǔ",
+      "meaning": "to receive\nto draw",
+      "hsk": null
+    },
+    {
+      "hanzi": "奖品",
+      "traditional": "獎品",
+      "pinyin": "jiǎng pǐn",
+      "meaning": "award\nprize",
+      "hsk": null
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "汤圆",
+      "traditional": "湯圓",
+      "pinyin": "tāng yuán",
+      "meaning": "sticky rice dumplings",
+      "hsk": null
+    },
+    {
+      "hanzi": "由",
+      "traditional": "由",
+      "pinyin": "yóu",
+      "meaning": "from",
+      "hsk": 4
+    },
+    {
+      "hanzi": "糯米",
+      "traditional": "糯米",
+      "pinyin": "nuò mǐ",
+      "meaning": "glutinous rice",
+      "hsk": null
+    },
+    {
+      "hanzi": "制成",
+      "traditional": "製成",
+      "pinyin": "zhì chéng",
+      "meaning": "to manufacture",
+      "hsk": null
+    },
+    {
+      "hanzi": "或",
+      "traditional": "或",
+      "pinyin": "huò",
+      "meaning": "or\neither ... or ... (used to list alternatives)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "实心",
+      "traditional": "實心",
+      "pinyin": "shí xīn",
+      "meaning": "solid",
+      "hsk": null
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to have\nto contain",
+      "hsk": 3
+    },
+    {
+      "hanzi": "馅",
+      "traditional": "餡",
+      "pinyin": "xiàn",
+      "meaning": "stuffing\nfilling",
+      "hsk": null
+    },
+    {
+      "hanzi": "豆沙",
+      "traditional": "豆沙",
+      "pinyin": "dòu shā",
+      "meaning": "sweetened bean paste",
+      "hsk": null
+    },
+    {
+      "hanzi": "山楂",
+      "traditional": "山楂",
+      "pinyin": "shān zhā",
+      "meaning": "rose hip (hawthorn fruit)",
+      "hsk": null
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "et cetera\nand so on",
+      "hsk": 4
+    },
+    {
+      "hanzi": "象征",
+      "traditional": "象徵",
+      "pinyin": "xiàng zhēng",
+      "meaning": "to symbolize\nto stand for",
+      "hsk": 5
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "家庭",
+      "traditional": "家庭",
+      "pinyin": "jiā tíng",
+      "meaning": "family\nhousehold",
+      "hsk": 5
+    },
+    {
+      "hanzi": "像",
+      "traditional": "像",
+      "pinyin": "xiàng",
+      "meaning": "to resemble\nto be like",
+      "hsk": 3
+    },
+    {
+      "hanzi": "月圆",
+      "traditional": "月圓",
+      "pinyin": "yuè yuán",
+      "meaning": "full moon",
+      "hsk": null
+    },
+    {
+      "hanzi": "一样",
+      "traditional": "一樣",
+      "pinyin": "yí yàng",
+      "meaning": "same\nlike",
+      "hsk": 3
+    },
+    {
+      "hanzi": "团圆",
+      "traditional": "團圓",
+      "pinyin": "tuán yuán",
+      "meaning": "to have a reunion",
+      "hsk": 6
+    },
+    {
+      "hanzi": "美满",
+      "traditional": "美滿",
+      "pinyin": "měi mǎn",
+      "meaning": "happy\nblissful",
+      "hsk": 6
+    },
+    {
+      "hanzi": "寄托",
+      "traditional": "寄託",
+      "pinyin": "jì tuō",
+      "meaning": "to have sb look after sb\nto entrust the care of sb",
+      "hsk": 6
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "未来",
+      "traditional": "未來",
+      "pinyin": "wèi lái",
+      "meaning": "future\ntomorrow",
+      "hsk": 5
+    },
+    {
+      "hanzi": "生活",
+      "traditional": "生活",
+      "pinyin": "shēng huó",
+      "meaning": "life\nlivelihood",
+      "hsk": 4
+    },
+    {
+      "hanzi": "美好",
+      "traditional": "美好",
+      "pinyin": "měi hǎo",
+      "meaning": "beautiful\nfine\nhappy",
+      "hsk": null
+    },
+    {
+      "hanzi": "愿望",
+      "traditional": "願望",
+      "pinyin": "yuàn wàng",
+      "meaning": "desire\nwish",
+      "hsk": 5
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 6,
+        "hanzi": "元宵节",
+        "pinyin": "yuán xiāo jié",
+        "meaning": "Lantern Festival, the final event of the Spring Festival",
+        "tc_hanzi": "元宵節"
+      },
+      {
+        "hanzi": "\n    ",
+        "tc_hanzi": "\n    "
+      },
+      {
+        "hsk": 6,
+        "hanzi": "元宵节",
+        "pinyin": "yuán xiāo jié",
+        "meaning": "Lantern Festival, the final event of the Spring Festival",
+        "tc_hanzi": "元宵節"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "传统",
+        "pinyin": "chuán tǒng",
+        "meaning": "tradition\ntraditional",
+        "tc_hanzi": "傳統"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "节日",
+        "pinyin": "jié rì",
+        "meaning": "holiday\nfestival",
+        "tc_hanzi": "節日"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "关于",
+        "pinyin": "guān yú",
+        "meaning": "concerning\nwith regard to",
+        "tc_hanzi": "關於"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "元宵节",
+        "pinyin": "yuán xiāo jié",
+        "meaning": "Lantern Festival, the final event of the Spring Festival",
+        "tc_hanzi": "元宵節"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "传说",
+        "pinyin": "chuán shuō",
+        "meaning": "legend\nfolklore",
+        "tc_hanzi": "傳說"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "久",
+        "pinyin": "jiǔ",
+        "meaning": "(long) time\n(long) duration of time",
+        "tc_hanzi": "久"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以前",
+        "pinyin": "yǐ qián",
+        "meaning": "before\nformerly",
+        "tc_hanzi": "以前"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "凶禽猛兽",
+        "pinyin": "xiōng qín měng shòu",
+        "meaning": "fierce beast or bird\nmonster",
+        "tc_hanzi": "凶禽猛獸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "四处",
+        "pinyin": "sì chù",
+        "meaning": "all over the place\neverywhere and all directions",
+        "tc_hanzi": "四處"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "伤害",
+        "pinyin": "shāng hài",
+        "meaning": "to injure\nto harm",
+        "tc_hanzi": "傷害"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "牲畜",
+        "pinyin": "shēng chù",
+        "meaning": "domesticated animals\nlivestock",
+        "tc_hanzi": "牲畜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "组织",
+        "pinyin": "zǔ zhī",
+        "meaning": "to organize",
+        "tc_hanzi": "組織"
+      },
+      {
+        "g": "compound-directional-complements",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qi lai",
+        "meaning": "(after a verb, indicating the beginning and continuation of an action or a state)",
+        "tc_hanzi": "起來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to beat\nto fight\nto attack",
+        "tc_hanzi": "打"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhī",
+        "meaning": "classifier for birds and certain animals",
+        "tc_hanzi": "隻"
+      },
+      {
+        "hanzi": "神鸟",
+        "pinyin": "shén niǎo",
+        "meaning": "supernatural bird",
+        "tc_hanzi": "神鳥"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "迷路",
+        "pinyin": "mí lù",
+        "meaning": "to lose the way\nto get lost",
+        "tc_hanzi": "迷路"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "降落",
+        "pinyin": "jiàng luò",
+        "meaning": "to descend\nto land",
+        "tc_hanzi": "降落"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "人间",
+        "pinyin": "rén jiān",
+        "meaning": "the human world\nthe earth",
+        "tc_hanzi": "人間"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "却",
+        "pinyin": "què",
+        "meaning": "but\nyet\nhowever",
+        "tc_hanzi": "卻"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "意外",
+        "pinyin": "yì wài",
+        "meaning": "unexpected\naccident",
+        "tc_hanzi": "意外"
+      },
+      {
+        "g": "de-descriptive",
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "de",
+        "meaning": "(indicates that the preceding word or phrase is used as an adverb)\n-ly",
+        "tc_hanzi": "地"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "知情",
+        "pinyin": "zhī qíng",
+        "meaning": "to know the facts\nto understand\nto be familiar with the situation",
+        "tc_hanzi": "知情"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "猎人",
+        "pinyin": "liè rén",
+        "meaning": "hunter",
+        "tc_hanzi": "獵人"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "射",
+        "pinyin": "shè",
+        "meaning": "to shoot",
+        "tc_hanzi": "射"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "天帝",
+        "pinyin": "tiān dì",
+        "meaning": "God of heaven\nCelestial emperor",
+        "tc_hanzi": "天帝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "after",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "十分",
+        "pinyin": "shí fēn",
+        "meaning": "very\nextremely\nabsolutely",
+        "tc_hanzi": "十分"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "下令",
+        "pinyin": "xià lìng",
+        "meaning": "to give an order\nto command",
+        "tc_hanzi": "下令"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "天兵",
+        "pinyin": "tiān bīng",
+        "meaning": "heavenly troops",
+        "tc_hanzi": "天兵"
+      },
+      {
+        "hanzi": "于",
+        "pinyin": "yú",
+        "meaning": "at\non\nto",
+        "tc_hanzi": "於"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "正月",
+        "pinyin": "zhēng yuè",
+        "meaning": "first month of the lunar year",
+        "tc_hanzi": "正月"
+      },
+      {
+        "d": "192",
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "d": "1436",
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day",
+        "tc_hanzi": "日"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "人间",
+        "pinyin": "rén jiān",
+        "meaning": "the human world\nthe earth",
+        "tc_hanzi": "人間"
+      },
+      {
+        "hanzi": "放火",
+        "pinyin": "fàng huǒ",
+        "meaning": "to set on fire",
+        "tc_hanzi": "放火"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "人间",
+        "pinyin": "rén jiān",
+        "meaning": "the human world\nthe earth",
+        "tc_hanzi": "人間"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "人畜",
+        "pinyin": "rén chù",
+        "meaning": "people and livestock",
+        "tc_hanzi": "人畜"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "财产",
+        "pinyin": "cái chǎn",
+        "meaning": "property\nassets",
+        "tc_hanzi": "財產"
+      },
+      {
+        "hanzi": "通通",
+        "pinyin": "tōng tōng",
+        "meaning": "entire\ncomplete",
+        "tc_hanzi": "通通"
+      },
+      {
+        "hanzi": "烧",
+        "pinyin": "shāo",
+        "meaning": "to burn",
+        "tc_hanzi": "燒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "天帝",
+        "pinyin": "tiān dì",
+        "meaning": "God of heaven\nCelestial emperor",
+        "tc_hanzi": "天帝"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "女儿",
+        "pinyin": "nǚ ér",
+        "meaning": "daughter",
+        "tc_hanzi": "女兒"
+      },
+      {
+        "hanzi": "心地善良",
+        "pinyin": "xīn dì shàn liáng",
+        "meaning": "kind-hearted\ngood-natured",
+        "tc_hanzi": "心地善良"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "忍心",
+        "pinyin": "rěn xīn",
+        "meaning": "to have the heart to\nto be hardhearted enough to",
+        "tc_hanzi": "忍心"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "百姓",
+        "pinyin": "bǎi xìng",
+        "meaning": "common people",
+        "tc_hanzi": "百姓"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "无辜",
+        "pinyin": "wú gū",
+        "meaning": "innocent",
+        "tc_hanzi": "無辜"
+      },
+      {
+        "hanzi": "受难",
+        "pinyin": "shòu nàn",
+        "meaning": "to suffer (e.g. under torture)",
+        "tc_hanzi": "受難"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "冒着",
+        "pinyin": "mào zhe",
+        "meaning": "to brave\nto face dangers",
+        "tc_hanzi": "冒著"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "生命",
+        "pinyin": "shēng mìng",
+        "meaning": "life (characteristic of living beings, state of being alive)",
+        "tc_hanzi": "生命"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "危险",
+        "pinyin": "wēi xiǎn",
+        "meaning": "danger\ndangerous",
+        "tc_hanzi": "危險"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "消息",
+        "pinyin": "xiāo xi",
+        "meaning": "news\ninformation",
+        "tc_hanzi": "消息"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "告诉",
+        "pinyin": "gào su",
+        "meaning": "to tell\nto inform",
+        "tc_hanzi": "告訴"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "众人",
+        "pinyin": "zhòng rén",
+        "meaning": "everyone",
+        "tc_hanzi": "眾人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听说",
+        "pinyin": "tīng shuō",
+        "meaning": "to hear (sth said)",
+        "tc_hanzi": "聽說"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "消息",
+        "pinyin": "xiāo xi",
+        "meaning": "news\ninformation",
+        "tc_hanzi": "消息"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "吓",
+        "pinyin": "xià",
+        "meaning": "to frighten\nto scare",
+        "tc_hanzi": "嚇"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不知",
+        "pinyin": "bù zhī",
+        "meaning": "not to know\nunaware",
+        "tc_hanzi": "不知"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "如何",
+        "pinyin": "rú hé",
+        "meaning": "how\nwhat",
+        "tc_hanzi": "如何"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "to pass (time)\nto spend (time)\nto live (a life)",
+        "tc_hanzi": "過"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "好久",
+        "pinyin": "hǎo jiǔ",
+        "meaning": "quite a while",
+        "tc_hanzi": "好久"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "cai-lateness",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "老人家",
+        "pinyin": "lǎo rén jiā",
+        "meaning": "polite term for old woman or man",
+        "tc_hanzi": "老人家"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "想出",
+        "pinyin": "xiǎng chū",
+        "meaning": "to work out (a solution etc)\nto think up",
+        "tc_hanzi": "想出"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "法子",
+        "pinyin": "fǎ zi",
+        "meaning": "way\nmethod",
+        "tc_hanzi": "法子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "正月",
+        "pinyin": "zhēng yuè",
+        "meaning": "first month of the lunar year",
+        "tc_hanzi": "正月"
+      },
+      {
+        "d": "192",
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "d": "1436",
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "挂",
+        "pinyin": "guà",
+        "meaning": "to hang or suspend (from a hook etc)",
+        "tc_hanzi": "掛"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "灯笼",
+        "pinyin": "dēng lóng",
+        "meaning": "lantern",
+        "tc_hanzi": "燈籠"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "燃放",
+        "pinyin": "rán fàng",
+        "meaning": "to light\nto set off (firecrackers etc)",
+        "tc_hanzi": "燃放"
+      },
+      {
+        "hanzi": "烟花爆竹",
+        "pinyin": "yān huā bào zhú",
+        "meaning": "fireworks and firecrackers",
+        "tc_hanzi": "煙花爆竹"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "这样一来",
+        "pinyin": "zhè yàng yì lái",
+        "meaning": "in this way",
+        "tc_hanzi": "這樣一來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "天帝",
+        "pinyin": "tiān dì",
+        "meaning": "God of heaven\nCelestial emperor",
+        "tc_hanzi": "天帝"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "yiwei",
+        "gh": true,
+        "hsk": 4,
+        "hanzi": "以为",
+        "pinyin": "yǐ wéi",
+        "meaning": "to believe\nto be under the impression",
+        "tc_hanzi": "以為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "bei-passive",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "被",
+        "pinyin": "bèi",
+        "meaning": "by\n(indicates passive-voice clauses)",
+        "tc_hanzi": "被"
+      },
+      {
+        "hanzi": "烧",
+        "pinyin": "shāo",
+        "meaning": "to burn",
+        "tc_hanzi": "燒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "cai-lateness",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "only then\nonly",
+        "tc_hanzi": "才"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "逃过",
+        "pinyin": "táo guò",
+        "meaning": "escape\nto get away with",
+        "tc_hanzi": "逃過"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "劫",
+        "pinyin": "jié",
+        "meaning": "disaster\nmisfortune",
+        "tc_hanzi": "劫"
+      },
+      {
+        "hanzi": "。\n\n",
+        "tc_hanzi": "。\n\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "元宵节",
+        "pinyin": "yuán xiāo jié",
+        "meaning": "Lantern Festival, the final event of the Spring Festival",
+        "tc_hanzi": "元宵節"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "灯谜",
+        "pinyin": "dēng mí",
+        "meaning": "lantern riddles",
+        "tc_hanzi": "燈謎"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "元宵",
+        "pinyin": "yuán xiāo",
+        "meaning": "sticky rice dumplings",
+        "tc_hanzi": "元宵"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "灯谜",
+        "pinyin": "dēng mí",
+        "meaning": "lantern riddles",
+        "tc_hanzi": "燈謎"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "元宵节",
+        "pinyin": "yuán xiāo jié",
+        "meaning": "Lantern Festival, the final event of the Spring Festival",
+        "tc_hanzi": "元宵節"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game",
+        "tc_hanzi": "遊戲"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方式",
+        "pinyin": "fāng shì",
+        "meaning": "way\nmanner\nstyle",
+        "tc_hanzi": "方式"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "谜语",
+        "pinyin": "mí yǔ",
+        "meaning": "riddle",
+        "tc_hanzi": "謎語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "纸条",
+        "pinyin": "zhǐ tiáo",
+        "meaning": "slip of paper",
+        "tc_hanzi": "紙條"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "贴",
+        "pinyin": "tiē",
+        "meaning": "to stick\nto paste",
+        "tc_hanzi": "貼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "灯笼",
+        "pinyin": "dēng lóng",
+        "meaning": "lantern",
+        "tc_hanzi": "燈籠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "供",
+        "pinyin": "gōng",
+        "meaning": "to provide\nto supply",
+        "tc_hanzi": "供"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "称",
+        "pinyin": "chēng",
+        "meaning": "to name",
+        "tc_hanzi": "稱"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "之",
+        "pinyin": "zhī",
+        "meaning": "it",
+        "tc_hanzi": "之"
+      },
+      {
+        "g": "wei-to-act-as",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wéi",
+        "meaning": "as (in the capacity of)\nto take sth as\nto be",
+        "tc_hanzi": "為"
+      },
+      {
+        "hanzi": "灯谜",
+        "pinyin": "dēng mí",
+        "meaning": "lantern riddles",
+        "tc_hanzi": "燈謎"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有人",
+        "pinyin": "yǒu rén",
+        "meaning": "someone\nthere is someone\nsome people",
+        "tc_hanzi": "有人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhòng",
+        "meaning": "to hit (the mark)",
+        "tc_hanzi": "中"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "灯笼",
+        "pinyin": "dēng lóng",
+        "meaning": "lantern",
+        "tc_hanzi": "燈籠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "谜语",
+        "pinyin": "mí yǔ",
+        "meaning": "riddle",
+        "tc_hanzi": "謎語"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "(if ...) then\nin that case",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hanzi": "纸条",
+        "pinyin": "zhǐ tiáo",
+        "meaning": "slip of paper",
+        "tc_hanzi": "紙條"
+      },
+      {
+        "hanzi": "揭",
+        "pinyin": "jiē",
+        "meaning": "to tear off",
+        "tc_hanzi": "揭"
+      },
+      {
+        "g": "compound-directional-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "下来",
+        "pinyin": "xià lái",
+        "meaning": "(after verb of motion, indicates motion down and towards us, also fig.)",
+        "tc_hanzi": "下來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "领取",
+        "pinyin": "lǐng qǔ",
+        "meaning": "to receive\nto draw",
+        "tc_hanzi": "領取"
+      },
+      {
+        "hanzi": "奖品",
+        "pinyin": "jiǎng pǐn",
+        "meaning": "award\nprize",
+        "tc_hanzi": "獎品"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "而",
+        "pinyin": "ér",
+        "meaning": "and\nas well as",
+        "tc_hanzi": "而"
+      },
+      {
+        "hanzi": "元宵",
+        "pinyin": "yuán xiāo",
+        "meaning": "sticky rice dumplings",
+        "tc_hanzi": "元宵"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "称",
+        "pinyin": "chēng",
+        "meaning": "to name",
+        "tc_hanzi": "稱"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "汤圆",
+        "pinyin": "tāng yuán",
+        "meaning": "sticky rice dumplings",
+        "tc_hanzi": "湯圓"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "由",
+        "pinyin": "yóu",
+        "meaning": "from",
+        "tc_hanzi": "由"
+      },
+      {
+        "hanzi": "糯米",
+        "pinyin": "nuò mǐ",
+        "meaning": "glutinous rice",
+        "tc_hanzi": "糯米"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hanzi": "制成",
+        "pinyin": "zhì chéng",
+        "meaning": "to manufacture",
+        "tc_hanzi": "製成"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或",
+        "pinyin": "huò",
+        "meaning": "or\neither ... or ... (used to list alternatives)",
+        "tc_hanzi": "或"
+      },
+      {
+        "hanzi": "实心",
+        "pinyin": "shí xīn",
+        "meaning": "solid",
+        "tc_hanzi": "實心"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或",
+        "pinyin": "huò",
+        "meaning": "or\neither ... or ... (used to list alternatives)",
+        "tc_hanzi": "或"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to have\nto contain",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hanzi": "馅",
+        "pinyin": "xiàn",
+        "meaning": "stuffing\nfilling",
+        "tc_hanzi": "餡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "馅",
+        "pinyin": "xiàn",
+        "meaning": "stuffing\nfilling",
+        "tc_hanzi": "餡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "豆沙",
+        "pinyin": "dòu shā",
+        "meaning": "sweetened bean paste",
+        "tc_hanzi": "豆沙"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "山楂",
+        "pinyin": "shān zhā",
+        "meaning": "rose hip (hawthorn fruit)",
+        "tc_hanzi": "山楂"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "元宵",
+        "pinyin": "yuán xiāo",
+        "meaning": "sticky rice dumplings",
+        "tc_hanzi": "元宵"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "象征",
+        "pinyin": "xiàng zhēng",
+        "meaning": "to symbolize\nto stand for",
+        "tc_hanzi": "象徵"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "家庭",
+        "pinyin": "jiā tíng",
+        "meaning": "family\nhousehold",
+        "tc_hanzi": "家庭"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "像",
+        "pinyin": "xiàng",
+        "meaning": "to resemble\nto be like",
+        "tc_hanzi": "像"
+      },
+      {
+        "hanzi": "月圆",
+        "pinyin": "yuè yuán",
+        "meaning": "full moon",
+        "tc_hanzi": "月圓"
+      },
+      {
+        "g": "yiyang",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "一样",
+        "pinyin": "yí yàng",
+        "meaning": "same\nlike",
+        "tc_hanzi": "一樣"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "团圆",
+        "pinyin": "tuán yuán",
+        "meaning": "to have a reunion",
+        "tc_hanzi": "團圓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "美满",
+        "pinyin": "měi mǎn",
+        "meaning": "happy\nblissful",
+        "tc_hanzi": "美滿"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "寄托",
+        "pinyin": "jì tuō",
+        "meaning": "to have sb look after sb\nto entrust the care of sb",
+        "tc_hanzi": "寄託"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "未来",
+        "pinyin": "wèi lái",
+        "meaning": "future\ntomorrow",
+        "tc_hanzi": "未來"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "生活",
+        "pinyin": "shēng huó",
+        "meaning": "life\nlivelihood",
+        "tc_hanzi": "生活"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "美好",
+        "pinyin": "měi hǎo",
+        "meaning": "beautiful\nfine\nhappy",
+        "tc_hanzi": "美好"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "愿望",
+        "pinyin": "yuàn wàng",
+        "meaning": "desire\nwish",
+        "tc_hanzi": "願望"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.3401088842862769,
+      0.6349206349206349,
+      2.675736961451247,
+      2.947845804988662,
+      3.174603174603174,
+      3.6281179138322,
+      4.036281179138322,
+      4.399092970521542,
+      4.580498866213152,
+      4.897959183673469,
+      5.306122448979592,
+      5.532879818594104,
+      5.895691609977324,
+      7.210884353741497,
+      7.437641723356009,
+      7.664399092970521,
+      7.845804988662132,
+      8.16326530612245,
+      9.160997732426305,
+      9.523809523809524,
+      9.977324263038549,
+      10.18965512430557,
+      10.29478458049887,
+      10.52154195011338,
+      10.79365079365079,
+      12.42630385487528,
+      12.87981859410431,
+      13.10657596371882,
+      13.35307965240338,
+      13.54583311827313,
+      14.73922902494331,
+      15.10204081632653,
+      15.41950113378685,
+      15.69160997732426,
+      16.05442176870748,
+      16.3718820861678,
+      17.64172335600907,
+      17.95918367346939,
+      18.140589569161,
+      18.45804988662131,
+      18.82086167800454,
+      19.22902494331066,
+      19.41043083900227,
+      19.77324263038549,
+      20.77097505668934,
+      20.99773242630386,
+      21.45124716553288,
+      21.72335600907029,
+      21.95011337868481,
+      22.13151927437642,
+      22.26757369614512,
+      22.72108843537415,
+      22.99319727891157,
+      23.12925170068027,
+      23.44671201814059,
+      24.94331065759637,
+      25.30612244897959,
+      25.4875283446712,
+      25.98639455782313,
+      26.48526077097506,
+      26.66666666666667,
+      26.89342403628118,
+      27.07482993197279,
+      27.21088435374149,
+      27.57369614512472,
+      27.80045351473923,
+      28.02721088435374,
+      28.20861678004535,
+      28.48072562358277,
+      29.79591836734694,
+      30.21235711291887,
+      30.38548752834467,
+      30.70294784580499,
+      31.24716553287982,
+      31.47392290249433,
+      31.65532879818594,
+      31.83673469387755,
+      32.10884353741496,
+      32.24489795918367,
+      32.56235827664399,
+      32.92517006802721,
+      33.12633597930287,
+      33.36444320184787,
+      33.65079365079365,
+      35.10204081632653,
+      35.37414965986395,
+      35.55555555555556,
+      35.73696145124717,
+      36.00907029478458,
+      36.3718820861678,
+      36.82539682539682,
+      37.06077437087971,
+      37.32426303854875,
+      38.59410430839002,
+      38.91156462585034,
+      39.04761904761905,
+      39.32846220464158,
+      39.59183673469388,
+      40.09070294784581,
+      40.40816326530612,
+      40.63492063492063,
+      40.9607043704458,
+      41.17913832199547,
+      41.36054421768708,
+      41.72335600907029,
+      41.9501133786848,
+      42.17687074829932,
+      42.49433106575964,
+      42.81179138321995,
+      44.44444444444444,
+      44.76190476190476,
+      45.03401360544218,
+      45.21541950113379,
+      45.4421768707483,
+      45.80498866213152,
+      46.03174603174603,
+      46.30385487528345,
+      46.75736961451247,
+      47.07482993197279,
+      47.3469387755102,
+      47.70975056689343,
+      49.52380952380953,
+      49.84126984126984,
+      50.02267573696145,
+      50.20408163265306,
+      50.47315491031551,
+      50.79365079365079,
+      51.15646258503401,
+      51.38321995464852,
+      51.65532879818594,
+      52.83446712018141,
+      53.01587301587302,
+      53.19727891156462,
+      53.65079365079365,
+      53.83219954648526,
+      54.01360544217687,
+      54.37641723356009,
+      54.69387755102041,
+      54.87528344671202,
+      55.19274376417233,
+      56.55328798185941,
+      57.00680272108843,
+      57.23356009070294,
+      57.36961451247166,
+      57.64172335600907,
+      57.84314037004157,
+      57.95918367346939,
+      58.19463198427466,
+      59.18367346938776,
+      59.36507936507937,
+      59.54648526077097,
+      59.68253968253968,
+      60,
+      60.58956916099773,
+      60.83599295335057,
+      61.04008485838914,
+      61.17913832199547,
+      61.42559179012866,
+      62.81179138321995,
+      63.08390022675737,
+      63.44671201814059,
+      63.67346938775511,
+      63.85487528344671,
+      64.03628117913833,
+      64.21768707482993,
+      64.30839002267574,
+      64.62585034013605,
+      65.66893424036282,
+      65.98639455782313,
+      66.12244897959184,
+      66.30385487528345,
+      66.75736961451247,
+      67.12018140589569,
+      67.34693877551021,
+      67.66439909297053,
+      68.48072562358277,
+      68.70748299319727,
+      68.88888888888889,
+      69.16099773242631,
+      70.02267573696145,
+      70.32577346313967,
+      70.43083900226758,
+      70.56689342403628,
+      70.7936507936508,
+      70.97505668934241,
+      71.33786848072562,
+      71.70068027210884,
+      71.87913962926653,
+      72.01814058956916,
+      72.29024943310658,
+      72.51700680272108,
+      73.96825396825396,
+      74.19501133786848,
+      74.37641723356009,
+      74.60317460317461,
+      75.01133786848072,
+      75.23809523809524,
+      75.49610172411673,
+      75.73420894666171,
+      75.93830085170028,
+      76.074362121726,
+      76.19047619047619,
+      76.55328798185941,
+      77.14285714285714,
+      77.36961451247166,
+      77.59637188208617,
+      77.91383219954649,
+      78.140589569161,
+      78.41269841269842,
+      78.59410430839003,
+      79.59183673469387,
+      79.9092970521542,
+      80.18140589569161,
+      80.49886621315193,
+      80.72562358276645,
+      80.99773242630386,
+      82.44897959183673,
+      82.6841471241048,
+      82.89957746831217,
+      83.04697717750669,
+      83.7641723356009,
+      84.12698412698413,
+      84.44444444444444,
+      84.67120181405896,
+      84.80725623582767,
+      85.03401360544218,
+      85.21541950113378,
+      85.66893424036282,
+      85.85034013605443,
+      86.03174603174604,
+      86.38047829313663,
+      86.66666666666667,
+      88.20861678004535,
+      88.48072562358277,
+      88.88888888888889,
+      89.1156462585034,
+      89.3424036281179,
+      89.52380952380952,
+      89.65986394557824,
+      89.86088832620914,
+      90.02267573696145,
+      91.15646258503402,
+      91.51927437641723,
+      92.29024943310658,
+      92.51700680272108,
+      92.78911564625851,
+      93.10657596371883,
+      93.33333333333333,
+      93.53454261690338,
+      93.83219954648526,
+      94.14965986394557,
+      94.421768707483,
+      94.6485260770975,
+      95.28344671201815,
+      95.51020408163265,
+      95.84758420734047,
+      97.09750566893425,
+      97.41496598639456,
+      97.95918367346938,
+      98.1859410430839,
+      98.36734693877551,
+      98.63945578231292,
+      98.82086167800453,
+      98.95387140288891,
+      99.09297052154194,
+      99.41043083900227,
+      99.69086994886152,
+      99.9546485260771,
+      100.257791907302,
+      101.859410430839,
+      102.1768707482993,
+      102.4036281179138,
+      102.6303854875283,
+      102.9024943310658,
+      103.1292517006803,
+      103.4467120181406,
+      103.6734693877551,
+      103.9455782312925,
+      104.1269841269841,
+      105.2607709750567,
+      105.5328798185941,
+      105.7596371882086,
+      105.9410430839002,
+      106.1678004535147,
+      106.7120181405896,
+      106.8934240362812,
+      107.1655328798186,
+      108.5714285714286,
+      108.9795918367347,
+      109.3424036281179,
+      109.6598639455782,
+      109.8412698412698,
+      110.0226757369614,
+      110.2947845804989,
+      112.1995464852608,
+      112.5170068027211,
+      112.8798185941043,
+      113.1065759637188,
+      113.3333333333333,
+      113.6054421768708,
+      113.8321995464853,
+      114.0589569160998,
+      114.2403628117914,
+      114.421768707483,
+      114.6485260770975,
+      114.8299319727891,
+      115.1020408163265,
+      116.0544217687075,
+      116.281179138322,
+      116.4172335600907,
+      116.6439909297052,
+      116.9160997732426,
+      117.233560090703,
+      117.4603174603175,
+      117.7324263038549,
+      118.3219954648526,
+      118.5487528344671,
+      118.7301587301587,
+      118.9569160997732,
+      119.235686775066,
+      120.453514739229,
+      120.7256235827664,
+      120.9523809523809,
+      121.4965986394558,
+      121.7233560090703,
+      122.0861678004535,
+      122.2675736961451,
+      123.265306122449,
+      123.521616780876,
+      123.8095238095238,
+      124.1269841269841,
+      124.3537414965986,
+      124.5351473922903,
+      125.6689342403628,
+      125.9863945578231,
+      126.1224489795918,
+      127.0748299319728,
+      127.3469387755102,
+      127.6034548816473,
+      129.2517006802721,
+      129.6145124716553,
+      129.8412698412698,
+      130.0680272108844,
+      130.7482993197279,
+      131.2018140589569,
+      131.4739229024943,
+      132.8344671201814,
+      133.1065759637188,
+      133.4240362811791,
+      133.6961451247166,
+      134.0589569160998,
+      134.2403628117914,
+      134.421768707483,
+      134.7392290249433,
+      135.1089514680864,
+      135.3741496598639,
+      135.6462585034014,
+      135.8730158730159,
+      136.02736504076,
+      136.3718820861678,
+      136.8253968253968,
+      137.1428571428571,
+      137.3242630385488,
+      137.5963718820862,
+      138.8208616780045,
+      139.092970521542,
+      139.3197278911565,
+      139.5011337868481,
+      139.6825396825397,
+      140.2267573696145,
+      140.4081632653061,
+      140.6349206349206,
+      140.8616780045352,
+      141.1791383219955,
+      141.3605442176871,
+      141.8140589569161,
+      142.2222222222222,
+      142.4943310657596,
+      142.766439909297,
+      143.3178458049887,
+      143.31787109375
+    ],
+    "sentence_indices": [
+      1,
+      2,
+      9,
+      18,
+      33,
+      41,
+      51,
+      64,
+      70,
+      82,
+      91,
+      92,
+      104,
+      117,
+      130,
+      143,
+      161,
+      181,
+      192,
+      202,
+      218,
+      224,
+      245,
+      264,
+      271,
+      283
+    ],
+    "sentence_translations": [
+      "Lantern Festival",
+      "",
+      "The lantern festival is a traditional Chinese holiday.",
+      "There is a folklore in China regarding the Lantern Festival.",
+      "A long time ago there were many foul beasts attacking people and livestock everywhere, ...",
+      "... so the people gathered together to strike back at them.",
+      "A divine bird which had lost its way and descended to the human world, ...",
+      "... was accidentally shot dead by an unknowing hunter.",
+      "After God found out, he became furious with anger.",
+      "He ordered his heavenly troops to set the human world on fire on the fifteenth day of the first month, ...",
+      "... and to set each and every human, animal and other asset on fire. ",
+      "",
+      "God's daughter was very kind hearted, and could not bear seeing innocent common people suffer, ...",
+      "... so she risked her own life and warned the people about this news.",
+      "After everyone heard the news, they got so scared they did not know what to do.",
+      "After quite some time, an old man finally figured out a solution.",
+      "He made everyone hang up lanterns their homes on the fifteenth of the first month, and light fireworks.",
+      "This way, God thought that everyone had already burned dead, and the people could finally be freed from this disaster.",
+      "Nowadays, people enjoy guessing lantern riddles and eating sticky dumplings during the lantern festival.",
+      "Lantern riddles are a type of game belonging to the lantern festival.",
+      "People write riddles on paper stripes, stick these onto lanterns and have people guess.",
+      "This is why they are called lantern riddles.",
+      "If someone correctly guesses one of the riddles on the lanterns, they may take the paper slip and go draw a prize.",
+      "And the sticky dumplings, also called \"tang yuan\", are made from glutonous rice, either solid or with stuffing.",
+      "The stuffing can consist of sweetened bean paste, rose hip, etc.",
+      "Eating sticky dumplings symbolizes the family being united and happy like the full moon, ...",
+      "... and contains peoples' hope of a beautiful future life."
+    ]
+  }
+}

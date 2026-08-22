@@ -1,0 +1,816 @@
+{
+  "id": "064",
+  "title": "The Clever Little Ming",
+  "level": "intermediate",
+  "date": "2016-01-26",
+  "synopsis": "Today we read the charming story of how Little Ming escapes homework.",
+  "audioUrl": "https://static.duchinese.net/documents/47/4edf39c2467eacbc04eff8cdb79aab302e6c2b8f.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "聪明的小明\n\n    今天放学后，小明跑出教室，拉着妈妈的手就跑。\n    妈妈问他：“为什么跑那么快？”\n    小明说：“老师今天忘记布置作业了。快跑！等老师想起来她忘了布置作业，我们已经跑远了，她就没办法了。”",
+    "traditional": "聰明的小明\n\n    今天放學後，小明跑出教室，拉著媽媽的手就跑。\n    媽媽問他：“為什麼跑那麼快？”\n    小明說：“老師今天忘記佈置作業了。快跑！等老師想起來她忘了佈置作業，我們已經跑遠了，她就沒辦法了。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The Clever Little Ming"
+    },
+    {
+      "index": 2,
+      "simplified": "今天放学后，小明跑出教室，拉着妈妈的手就跑。",
+      "traditional": "今天放學後，小明跑出教室，拉著媽媽的手就跑。",
+      "pinyin": "jīn tiān fàng xué hòu xiǎo míng pǎo chū jiào shì lā zhe mā ma de shǒu jiù pǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Today after school, Little Ming burst out of the classroom and just ran, pulling his mom's hand."
+    },
+    {
+      "index": 4,
+      "simplified": "妈妈问他：“为什么跑那么快？”\n",
+      "traditional": "媽媽問他：“為什麼跑那麼快？”\n",
+      "pinyin": "mā ma wèn tā wèi shén me pǎo nà me kuài",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "    ",
+      "traditional": "    ",
+      "pinyin": "",
+      "english": "Mom asked him: “Why are you running so fast?”"
+    },
+    {
+      "index": 6,
+      "simplified": "小明说：“老师今天忘记布置作业了。快跑！",
+      "traditional": "小明說：“老師今天忘記佈置作業了。快跑！",
+      "pinyin": "xiǎo míng shuō lǎo shī jīn tiān wàng jì bù zhì zuò yè le kuài pǎo",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "等老师想起来她忘了布置作业，我们已经跑远了，她就没办法了。”",
+      "traditional": "等老師想起來她忘了佈置作業，我們已經跑遠了，她就沒辦法了。”",
+      "pinyin": "děng lǎo shī xiǎng qǐ lái tā wàng le bù zhì zuò yè wǒ men yǐ jīng pǎo yuǎn le tā jiù méi bàn fǎ le",
+      "english": "Little Ming said: “Today, the teacher forgot to hand out homework. Run quickly!”"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "聪明",
+      "traditional": "聰明",
+      "pinyin": "cōng ming",
+      "meaning": "clever\nintelligent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "放学",
+      "traditional": "放學",
+      "pinyin": "fàng xué",
+      "meaning": "to dismiss students at the end of the school day",
+      "hsk": null
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跑出",
+      "traditional": "跑出",
+      "pinyin": "pǎo chū",
+      "meaning": "to run out",
+      "hsk": null
+    },
+    {
+      "hanzi": "教室",
+      "traditional": "教室",
+      "pinyin": "jiào shì",
+      "meaning": "classroom",
+      "hsk": 2
+    },
+    {
+      "hanzi": "拉",
+      "traditional": "拉",
+      "pinyin": "lā",
+      "meaning": "to pull\nto drag",
+      "hsk": 4
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "手",
+      "traditional": "手",
+      "pinyin": "shǒu",
+      "meaning": "hand",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忘记",
+      "traditional": "忘記",
+      "pinyin": "wàng jì",
+      "meaning": "to forget",
+      "hsk": 3
+    },
+    {
+      "hanzi": "布置",
+      "traditional": "佈置",
+      "pinyin": "bù zhì",
+      "meaning": "to hand out\nto deploy",
+      "hsk": 6
+    },
+    {
+      "hanzi": "作业",
+      "traditional": "作業",
+      "pinyin": "zuò yè",
+      "meaning": "homework\nschool assignment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "想起来",
+      "traditional": "想起來",
+      "pinyin": "xiǎng qǐ lái",
+      "meaning": "to remember\nto recall",
+      "hsk": 3
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "meaning": "to forget",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "meaning": "already",
+      "hsk": 2
+    },
+    {
+      "hanzi": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没办法",
+      "traditional": "沒辦法",
+      "pinyin": "méi bàn fǎ",
+      "meaning": "(colloquial) have no solution\nhave no way out",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "聪明",
+        "pinyin": "cōng ming",
+        "meaning": "clever\nintelligent",
+        "tc_hanzi": "聰明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "放学",
+        "pinyin": "fàng xué",
+        "meaning": "to dismiss students at the end of the school day",
+        "tc_hanzi": "放學"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "跑出",
+        "pinyin": "pǎo chū",
+        "meaning": "to run out",
+        "tc_hanzi": "跑出"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "教室",
+        "pinyin": "jiào shì",
+        "meaning": "classroom",
+        "tc_hanzi": "教室"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "拉",
+        "pinyin": "lā",
+        "meaning": "to pull\nto drag",
+        "tc_hanzi": "拉"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "meaning": "hand",
+        "tc_hanzi": "手"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n    ",
+        "tc_hanzi": "\n    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hanzi": "？”\n",
+        "tc_hanzi": "？”\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "忘记",
+        "pinyin": "wàng jì",
+        "meaning": "to forget",
+        "tc_hanzi": "忘記"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "布置",
+        "pinyin": "bù zhì",
+        "meaning": "to hand out\nto deploy",
+        "tc_hanzi": "佈置"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "想起来",
+        "pinyin": "xiǎng qǐ lái",
+        "meaning": "to remember\nto recall",
+        "tc_hanzi": "想起來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "忘",
+        "pinyin": "wàng",
+        "meaning": "to forget",
+        "tc_hanzi": "忘"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "布置",
+        "pinyin": "bù zhì",
+        "meaning": "to hand out\nto deploy",
+        "tc_hanzi": "佈置"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "已经",
+        "pinyin": "yǐ jīng",
+        "meaning": "already",
+        "tc_hanzi": "已經"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "没办法",
+        "pinyin": "méi bàn fǎ",
+        "meaning": "(colloquial) have no solution\nhave no way out",
+        "tc_hanzi": "沒辦法"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Today we read the charming story of how Little Ming escapes homework.",
+    "syllable_times": [
+      0.4081632653061225,
+      0.6349206349206349,
+      0.9523809523809523,
+      1.405895691609977,
+      2.766439909297052,
+      3.174603174603174,
+      3.582766439909297,
+      3.809523809523809,
+      4.263038548752834,
+      5.034013605442177,
+      5.396825396825397,
+      5.804988662131519,
+      6.122448979591836,
+      6.439909297052155,
+      6.757369614512472,
+      7.664399092970521,
+      8.02721088435374,
+      8.390022675736962,
+      8.662131519274377,
+      8.88888888888889,
+      9.070294784580499,
+      9.65986394557823,
+      10.02267573696145,
+      11.15646258503401,
+      11.47392290249433,
+      11.79138321995465,
+      12.06349206349206,
+      13.01587301587302,
+      13.28798185941043,
+      13.65079365079365,
+      14.01360544217687,
+      14.37641723356009,
+      14.6031746031746,
+      14.82993197278912,
+      15.91836734693878,
+      16.281179138322,
+      16.55193724756725,
+      17.64172335600907,
+      17.95918367346939,
+      18.32199546485261,
+      18.63945578231293,
+      19.00226757369614,
+      19.31972789115646,
+      19.68253968253968,
+      19.9546485260771,
+      20.27210884353741,
+      20.59220162024758,
+      20.99773242630386,
+      21.72335600907029,
+      22.08616780045352,
+      23.21995464852608,
+      23.44081498413174,
+      23.76417233560091,
+      24.12698412698413,
+      24.44444444444444,
+      24.76190476190476,
+      25.17006802721088,
+      25.4875283446712,
+      25.80498866213152,
+      26.07709750566893,
+      26.34920634920635,
+      26.62131519274377,
+      26.98412698412698,
+      27.80045351473923,
+      28.07256235827665,
+      28.34467120181406,
+      28.66213151927438,
+      28.97959183673469,
+      29.38775510204082,
+      29.70521541950113,
+      30.34013605442177,
+      30.65759637188209,
+      31.06575963718821,
+      31.42857142857143,
+      31.83673469387755,
+      32.10884353741496,
+      32.77605442176871,
+      32.77607727050781
+    ],
+    "sentence_indices": [
+      3,
+      4,
+      20,
+      21,
+      30,
+      31,
+      44
+    ],
+    "sentence_translations": [
+      "The Clever Little Ming",
+      "",
+      "Today after school, Little Ming burst out of the classroom and just ran, pulling his mom's hand.",
+      "",
+      "Mom asked him: “Why are you running so fast?”",
+      "",
+      "Little Ming said: “Today, the teacher forgot to hand out homework. Run quickly!”",
+      "“When the teacher remembers she forgot to hand out homework, we will already be far away and there will be nothing she can do!”"
+    ]
+  }
+}

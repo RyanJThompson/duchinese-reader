@@ -1,0 +1,1507 @@
+{
+  "id": "1232",
+  "title": "How Many Heads Does a Cow Have?",
+  "level": "elementary",
+  "date": "2021-04-23",
+  "synopsis": "Little Ming has some questions for Little Hong about a cow!",
+  "audioUrl": "https://static.duchinese.net/documents/1232/ad95b719753a80f0e0dee7b0e6f35e1eaf276f8c.mp3?1615549436",
+  "series": null,
+  "fullText": {
+    "simplified": "一头牛有几个头？\n\n小明：小红，我问你，一头牛有几个头？\n小红：一个。\n小明：一头牛有几条腿？\n小红：四条。\n小明：一头牛有多少毛？\n小红：牛有那么多毛，我怎么知道有多少毛呀？\n小明：我告诉你，一身毛！\n小红：好吧……\n小明：那我再问你一次，一头牛有多少毛？\n小红：一身毛。\n小明：为（喂）什么？\n小红：我怎么知道为什么呀？\n小明：喂草呀！",
+    "traditional": "一頭牛有幾個頭？\n\n小明：小紅，我問你，一頭牛有幾個頭？\n小紅：一個。\n小明：一頭牛有幾條腿？\n小紅：四條。\n小明：一頭牛有多少毛？\n小紅：牛有那麼多毛，我怎麼知道有多少毛呀？\n小明：我告訴你，一身毛！\n小紅：好吧……\n小明：那我再問你一次，一頭牛有多少毛？\n小紅：一身毛。\n小明：為（餵）什麼？\n小紅：我怎麼知道為什麼呀？\n小明：餵草呀！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How Many Heads Does a Cow Have?"
+    },
+    {
+      "index": 2,
+      "simplified": "小明：小红，我问你，一头牛有几个头？",
+      "traditional": "小明：小紅，我問你，一頭牛有幾個頭？",
+      "pinyin": "xiǎo míng xiǎo hóng wǒ wèn nǐ yì tóu niú yǒu jǐ ge tóu",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Little Hong, let me ask you, how many heads does a cow have?"
+    },
+    {
+      "index": 4,
+      "simplified": "小红：一个。",
+      "traditional": "小紅：一個。",
+      "pinyin": "xiǎo hóng yí ge",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: One."
+    },
+    {
+      "index": 6,
+      "simplified": "小明：一头牛有几条腿？",
+      "traditional": "小明：一頭牛有幾條腿？",
+      "pinyin": "xiǎo míng yì tóu niú yǒu jǐ tiáo tuǐ",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: How many legs does a cow have?"
+    },
+    {
+      "index": 8,
+      "simplified": "小红：四条。",
+      "traditional": "小紅：四條。",
+      "pinyin": "xiǎo hóng sì tiáo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: Four."
+    },
+    {
+      "index": 10,
+      "simplified": "小明：一头牛有多少毛？",
+      "traditional": "小明：一頭牛有多少毛？",
+      "pinyin": "xiǎo míng yì tóu niú yǒu duō shao máo",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: How much hair does a cow have?"
+    },
+    {
+      "index": 12,
+      "simplified": "小红：牛有那么多毛，我怎么知道有多少毛呀？",
+      "traditional": "小紅：牛有那麼多毛，我怎麼知道有多少毛呀？",
+      "pinyin": "xiǎo hóng niú yǒu nà me duō máo wǒ zěn me zhī dào yǒu duō shao máo ya",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: A cow has so much hair, how would I know how many hairs it has?"
+    },
+    {
+      "index": 14,
+      "simplified": "小明：我告诉你，一身毛！",
+      "traditional": "小明：我告訴你，一身毛！",
+      "pinyin": "xiǎo míng wǒ gào su nǐ yì shēn máo",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: I’ll tell you. It has one coat of hair!"
+    },
+    {
+      "index": 16,
+      "simplified": "小红：好吧……",
+      "traditional": "小紅：好吧……",
+      "pinyin": "xiǎo hóng hǎo ba",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: Alright …"
+    },
+    {
+      "index": 18,
+      "simplified": "小明：那我再问你一次，一头牛有多少毛？",
+      "traditional": "小明：那我再問你一次，一頭牛有多少毛？",
+      "pinyin": "xiǎo míng nà wǒ zài wèn nǐ yí cì yì tóu niú yǒu duō shao máo",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Then I’ll ask you one more time, how much hair does a cow have?"
+    },
+    {
+      "index": 20,
+      "simplified": "小红：一身毛。",
+      "traditional": "小紅：一身毛。",
+      "pinyin": "xiǎo hóng yì shēn máo",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: A coat of hair."
+    },
+    {
+      "index": 22,
+      "simplified": "小明：为（喂）什么？",
+      "traditional": "小明：為（餵）什麼？",
+      "pinyin": "xiǎo míng wèi wèi shén me",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming: Why? (What do you feed it?)"
+    },
+    {
+      "index": 24,
+      "simplified": "小红：我怎么知道为什么呀？",
+      "traditional": "小紅：我怎麼知道為什麼呀？",
+      "pinyin": "xiǎo hóng wǒ zěn me zhī dào wèi shén me ya",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Hong: How would I know why?"
+    },
+    {
+      "index": 26,
+      "simplified": "小明：喂草呀！",
+      "traditional": "小明：餵草呀！",
+      "pinyin": "xiǎo míng wèi cǎo ya",
+      "english": ""
+    },
+    {
+      "index": 27,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Ming: You feed it grass!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "头",
+      "traditional": "頭",
+      "pinyin": "tóu",
+      "meaning": "classifier for pigs or livestock",
+      "hsk": 3
+    },
+    {
+      "hanzi": "牛",
+      "traditional": "牛",
+      "pinyin": "niú",
+      "meaning": "ox\ncow\nbull",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小红",
+      "traditional": "小紅",
+      "pinyin": "xiǎo hóng",
+      "meaning": "Little Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "meaning": "classifier for long and thin objects or animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "腿",
+      "traditional": "腿",
+      "pinyin": "tuǐ",
+      "meaning": "leg",
+      "hsk": 3
+    },
+    {
+      "hanzi": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "毛",
+      "traditional": "毛",
+      "pinyin": "máo",
+      "meaning": "hair\nfeather",
+      "hsk": 4
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gào su",
+      "meaning": "to tell\nto inform",
+      "hsk": 2
+    },
+    {
+      "hanzi": "身",
+      "traditional": "身",
+      "pinyin": "shēn",
+      "meaning": "classifier for sets of clothes: suit, twinset",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(to express agreement)\nokay\nall right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wèi",
+      "meaning": "on behalf of\nfor the sake of\nbecause of",
+      "hsk": 3
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "餵",
+      "pinyin": "wèi",
+      "meaning": "to feed (an animal, baby, invalid etc)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "草",
+      "traditional": "草",
+      "pinyin": "cǎo",
+      "meaning": "grass\nstraw",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "classifier for pigs or livestock",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "head",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "classifier for pigs or livestock",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "head",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "classifier for pigs or livestock",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "classifier for long and thin objects or animals",
+        "tc_hanzi": "條"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "腿",
+        "pinyin": "tuǐ",
+        "meaning": "leg",
+        "tc_hanzi": "腿"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "四",
+        "pinyin": "sì",
+        "meaning": "four",
+        "tc_hanzi": "四"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "classifier for long and thin objects or animals",
+        "tc_hanzi": "條"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "classifier for pigs or livestock",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "告诉",
+        "pinyin": "gào su",
+        "meaning": "to tell\nto inform",
+        "tc_hanzi": "告訴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "身",
+        "pinyin": "shēn",
+        "meaning": "classifier for sets of clothes: suit, twinset",
+        "tc_hanzi": "身"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "classifier for pigs or livestock",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hanzi": "牛",
+        "pinyin": "niú",
+        "meaning": "ox\ncow\nbull",
+        "tc_hanzi": "牛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "duoshao",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "身",
+        "pinyin": "shēn",
+        "meaning": "classifier for sets of clothes: suit, twinset",
+        "tc_hanzi": "身"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "毛",
+        "pinyin": "máo",
+        "meaning": "hair\nfeather",
+        "tc_hanzi": "毛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "wei-overview",
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wèi",
+        "meaning": "on behalf of\nfor the sake of\nbecause of",
+        "tc_hanzi": "為"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wèi",
+        "meaning": "to feed (an animal, baby, invalid etc)",
+        "tc_hanzi": "餵"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小红",
+        "pinyin": "xiǎo hóng",
+        "meaning": "Little Hong (name)",
+        "tc_hanzi": "小紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wèi",
+        "meaning": "to feed (an animal, baby, invalid etc)",
+        "tc_hanzi": "餵"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "草",
+        "pinyin": "cǎo",
+        "meaning": "grass\nstraw",
+        "tc_hanzi": "草"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming has some questions for Little Hong about a cow!",
+    "syllable_times": [
+      0.30499999999999994,
+      0.6179138321995464,
+      1.16,
+      1.65,
+      2,
+      2.1541950113378685,
+      3.77,
+      3.77,
+      3.77,
+      4.165,
+      5.46,
+      5.759637188208616,
+      6.005,
+      7.2,
+      7.613378684807256,
+      7.919501133786848,
+      8.82,
+      9.25,
+      9.63,
+      9.937641723356009,
+      11.21,
+      11.21,
+      11.21,
+      11.59,
+      12.84,
+      12.84,
+      12.84,
+      13.22562358276644,
+      13.50907029478458,
+      14.484126984126984,
+      14.87,
+      15.25,
+      15.66,
+      17.35,
+      17.35,
+      17.35,
+      17.835,
+      19.03,
+      19.03,
+      19.03,
+      19.404761904761905,
+      19.65,
+      20.58,
+      21.06,
+      21.39455782312925,
+      21.67,
+      23.03,
+      23.03,
+      23.03,
+      23.63,
+      23.85,
+      24.096666666666668,
+      24.39342403628118,
+      24.59,
+      25.36,
+      25.66,
+      25.845,
+      26.03,
+      26.315,
+      26.85,
+      27.335600907029477,
+      27.551020408163264,
+      27.78,
+      28.20294784580499,
+      29.66,
+      29.66,
+      29.66,
+      30.07,
+      30.34,
+      30.61,
+      31.598639455782312,
+      31.96145124716553,
+      32.32,
+      33.95,
+      33.95,
+      33.95,
+      34.56,
+      36.5249433106576,
+      36.5249433106576,
+      36.5249433106576,
+      36.848072562358276,
+      37.36,
+      37.73,
+      37.95,
+      38.1859410430839,
+      38.316326530612244,
+      39.69,
+      40.11337868480725,
+      40.38,
+      41.34,
+      41.859410430839,
+      42.239229024943306,
+      42.534013605442176,
+      43.90589569160998,
+      43.90589569160998,
+      43.90589569160998,
+      44.3,
+      44.77,
+      46.337868480725625,
+      46.337868480725625,
+      46.337868480725625,
+      46.696666666666665,
+      46.696666666666665,
+      46.99333333333333,
+      48.16,
+      48.16,
+      48.16,
+      48.5204081632653,
+      48.685,
+      48.87,
+      49.114999999999995,
+      49.38775510204081,
+      49.66553287981859,
+      49.93197278911565,
+      50.17573696145124,
+      51.7,
+      51.7,
+      51.7,
+      52.11,
+      52.66439909297052,
+      53.300068
+    ],
+    "sentence_indices": [
+      8,
+      10,
+      26,
+      27,
+      32,
+      33,
+      43,
+      44,
+      49,
+      50,
+      59,
+      60,
+      76,
+      77,
+      87,
+      88,
+      93,
+      94,
+      111,
+      112,
+      118,
+      119,
+      127,
+      128,
+      136,
+      137,
+      143
+    ],
+    "sentence_translations": [
+      "How Many Heads Does a Cow Have?",
+      "",
+      "Little Ming: Little Hong, let me ask you, how many heads does a cow have?",
+      "",
+      "Little Hong: One.",
+      "",
+      "Little Ming: How many legs does a cow have?",
+      "",
+      "Little Hong: Four.",
+      "",
+      "Little Ming: How much hair does a cow have?",
+      "",
+      "Little Hong: A cow has so much hair, how would I know how many hairs it has?",
+      "",
+      "Little Ming: I’ll tell you. It has one coat of hair!",
+      "",
+      "Little Hong: Alright …",
+      "",
+      "Little Ming: Then I’ll ask you one more time, how much hair does a cow have?",
+      "",
+      "Little Hong: A coat of hair.",
+      "",
+      "Little Ming: Why? (What do you feed it?)",
+      "",
+      "Little Hong: How would I know why?",
+      "",
+      "Little Ming: You feed it grass!",
+      ""
+    ]
+  }
+}

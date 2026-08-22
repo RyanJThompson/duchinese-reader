@@ -1,0 +1,2871 @@
+{
+  "id": "2287",
+  "title": "Component Testing",
+  "level": "upper intermediate",
+  "date": "2024-04-09",
+  "synopsis": "Zhang and Yan discuss the testing of a component in preparation for mass production.",
+  "audioUrl": "https://static.duchinese.net/documents/2287/86354e9f70d55ce1376dc7f62f39e0514974bed3.mp3?1712236821",
+  "series": {
+    "title": "Technology and Engineering",
+    "chapter": 1,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "零件测试\n\n工程师：严老师，您好！这个星期零件测试的情况怎么样？\n严师傅：张工，您好！有个好消息，现在零件的强度可以达到您的要求了，就目前来看，您的设计方案在这方面可行。\n工程师：太好了，那咱们这个星期能开模量产了吗？\n严师傅：有点难，我们在试装时遇到一些麻烦，尺寸好像不太匹配，虽然能安装成功，但是几个小时以后零件就会自己从卡槽里跳出来。\n工程师：您有安装视频或者照片吗？\n严师傅：您稍等，我发给您看一下。\n工程师：您的加工技术我是信得过的。因为这种材料还比较新，这个情况我也是第一次遇到，晚一点我再研究一下材料性能。\n严师傅：好的，谢谢信任！\n工程师：我下周一把改进的加工图纸和工艺要求发给您，您再做几个新的样品进行调试。\n严师傅：好的，没问题！",
+    "traditional": "零件測試\n\n工程師：嚴老師，您好！這個星期零件測試的情況怎麼樣？\n嚴師傅：張工，您好！有個好消息，現在零件的強度可以達到您的要求了，就目前來看，您的設計方案在這方面可行。\n工程師：太好了，那咱們這個星期能開模量產了嗎？\n嚴師傅：有點難，我們在試裝時遇到一些麻煩，尺寸好像不太匹配，雖然能安裝成功，但是幾個小時以後零件就會自己從卡槽裡跳出來。\n工程師：您有安裝視頻或者照片嗎？\n嚴師傅：您稍等，我發給您看一下。\n工程師：您的加工技術我是信得過的。因為這種材料還比較新，這個情況我也是第一次遇到，晚一點我再研究一下材料性能。\n嚴師傅：好的，謝謝信任！\n工程師：我下週一把改進的加工圖紙和工藝要求發給您，您再做幾個新的樣品進行調試。\n嚴師傅：好的，沒問題！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Component Testing"
+    },
+    {
+      "index": 2,
+      "simplified": "工程师：严老师，您好！这个星期零件测试的情况怎么样？",
+      "traditional": "工程師：嚴老師，您好！這個星期零件測試的情況怎麼樣？",
+      "pinyin": "gōng chéng shī yán lǎo shī nín hǎo zhè ge xīng qī líng jiàn cè shì de qíng kuàng zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Engineer: Hello, Master Yan! How is the component testing going this week?"
+    },
+    {
+      "index": 4,
+      "simplified": "严师傅：张工，您好！有个好消息，现在零件的强度可以达到您的要求了，",
+      "traditional": "嚴師傅：張工，您好！有個好消息，現在零件的強度可以達到您的要求了，",
+      "pinyin": "yán shī fu zhāng gōng nín hǎo yǒu ge hǎo xiāo xi xiàn zài líng jiàn de qiáng dù kě yǐ dá dào nín de yāo qiú le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "就目前来看，您的设计方案在这方面可行。",
+      "traditional": "就目前來看，您的設計方案在這方面可行。",
+      "pinyin": "jiù mù qián lái kàn nín de shè jì fāng àn zài zhè fāng miàn kě xíng",
+      "english": "Master Yan: Hello, Engineer Zhang! I have good news. Right now, the strength of the parts can meet your requirements."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "From the current perspective, your design plan is feasible in this respect."
+    },
+    {
+      "index": 7,
+      "simplified": "工程师：太好了，那咱们这个星期能开模量产了吗？",
+      "traditional": "工程師：太好了，那咱們這個星期能開模量產了嗎？",
+      "pinyin": "gōng chéng shī tài hǎo le nà zán men zhè ge xīng qī néng kāi mú liàng chǎn le ma",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Engineer: Great, can we start mass production this week?"
+    },
+    {
+      "index": 9,
+      "simplified": "严师傅：有点难，我们在试装时遇到一些麻烦，尺寸好像不太匹配，",
+      "traditional": "嚴師傅：有點難，我們在試裝時遇到一些麻煩，尺寸好像不太匹配，",
+      "pinyin": "yán shī fu yǒu diǎn nán wǒ men zài shì zhuāng shí yù dào yì xiē má fan chǐ cun hǎo xiàng bú tài pǐ pèi",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "虽然能安装成功，但是几个小时以后零件就会自己从卡槽里跳出来。",
+      "traditional": "雖然能安裝成功，但是幾個小時以後零件就會自己從卡槽裡跳出來。",
+      "pinyin": "suī rán néng ān zhuāng chéng gōng dàn shì jǐ ge xiǎo shí yǐ hòu líng jiàn jiù huì zì jǐ cóng kǎ cáo lǐ tiào chu lai",
+      "english": "Master Yan: That’s a bit difficult. During the trial installation, we encountered some problems. The sizes don’t seem to match."
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Although it can be installed successfully, after a few hours the parts will pop out of the slot by themselves."
+    },
+    {
+      "index": 12,
+      "simplified": "工程师：您有安装视频或者照片吗？",
+      "traditional": "工程師：您有安裝視頻或者照片嗎？",
+      "pinyin": "gōng chéng shī nín yǒu ān zhuāng shì pín huò zhě zhào piàn ma",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Engineer: Do you have any installation videos or photos?"
+    },
+    {
+      "index": 14,
+      "simplified": "严师傅：您稍等，我发给您看一下。",
+      "traditional": "嚴師傅：您稍等，我發給您看一下。",
+      "pinyin": "yán shī fu nín shāo děng wǒ fā gěi nín kàn yí xià",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Master Yan: Please wait a moment. I will send them to you to have a look."
+    },
+    {
+      "index": 16,
+      "simplified": "工程师：您的加工技术我是信得过的。",
+      "traditional": "工程師：您的加工技術我是信得過的。",
+      "pinyin": "gōng chéng shī nín de jiā gōng jì shù wǒ shì xìn de guò de",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "因为这种材料还比较新，这个情况我也是第一次遇到，",
+      "traditional": "因為這種材料還比較新，這個情況我也是第一次遇到，",
+      "pinyin": "yīn wèi zhè zhǒng cái liào hái bǐ jiào xīn zhè ge qíng kuàng wǒ yě shì dì yī cì yù dào",
+      "english": "Engineer: I trust your processing technology."
+    },
+    {
+      "index": 18,
+      "simplified": "晚一点我再研究一下材料性能。",
+      "traditional": "晚一點我再研究一下材料性能。",
+      "pinyin": "wǎn yì diǎn wǒ zài yán jiū yí xià cái liào xìng néng",
+      "english": "Since this material is still relatively new, this is the first time I’ve encountered this situation."
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "I will study the material properties later."
+    },
+    {
+      "index": 20,
+      "simplified": "严师傅：好的，谢谢信任！",
+      "traditional": "嚴師傅：好的，謝謝信任！",
+      "pinyin": "yán shī fu hǎo de xiè xie xìn rèn",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Master Yan: Okay, thank you for your trust!"
+    },
+    {
+      "index": 22,
+      "simplified": "工程师：我下周一把改进的加工图纸和工艺要求发给您，",
+      "traditional": "工程師：我下週一把改進的加工圖紙和工藝要求發給您，",
+      "pinyin": "gōng chéng shī wǒ xià zhōu yī bǎ gǎi jìn de jiā gōng tú zhǐ hé gōng yì yāo qiú fā gěi nín",
+      "english": ""
+    },
+    {
+      "index": 23,
+      "simplified": "您再做几个新的样品进行调试。",
+      "traditional": "您再做幾個新的樣品進行調試。",
+      "pinyin": "nín zài zuò jǐ ge xīn de yàng pǐn jìn xíng tiáo shì",
+      "english": "Engineer: I will send you the improved processing drawings and technical requirements next Monday."
+    },
+    {
+      "index": 24,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "You can then make a few new samples for debugging."
+    },
+    {
+      "index": 25,
+      "simplified": "严师傅：好的，没问题！",
+      "traditional": "嚴師傅：好的，沒問題！",
+      "pinyin": "yán shī fu hǎo de méi wèn tí",
+      "english": ""
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "零件",
+      "traditional": "零件",
+      "pinyin": "líng jiàn",
+      "meaning": "part\ncomponent",
+      "hsk": 5
+    },
+    {
+      "hanzi": "测试",
+      "traditional": "測試",
+      "pinyin": "cè shì",
+      "meaning": "to test (machinery etc)\nexam",
+      "hsk": null
+    },
+    {
+      "hanzi": "工程师",
+      "traditional": "工程師",
+      "pinyin": "gōng chéng shī",
+      "meaning": "engineer",
+      "hsk": 5
+    },
+    {
+      "hanzi": "严",
+      "traditional": "嚴",
+      "pinyin": "yán",
+      "meaning": "surname Yan",
+      "hsk": null
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "meaning": "week\nday of the week",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "情况",
+      "traditional": "情況",
+      "pinyin": "qíng kuàng",
+      "meaning": "circumstances\nstate of affairs\nsituation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "what's it like?\nhow are things?\nwhat do you think?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "师傅",
+      "traditional": "師傅",
+      "pinyin": "shī fu",
+      "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+      "hsk": 4
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "工",
+      "traditional": "工",
+      "pinyin": "gōng",
+      "meaning": "engineer (abbreviation)",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "消息",
+      "traditional": "消息",
+      "pinyin": "xiāo xi",
+      "meaning": "news\ninformation",
+      "hsk": 4
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "强度",
+      "traditional": "強度",
+      "pinyin": "qiáng dù",
+      "meaning": "strength\nintensity",
+      "hsk": null
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "达到",
+      "traditional": "達到",
+      "pinyin": "dá dào",
+      "meaning": "to reach\nto achieve",
+      "hsk": 5
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "要求",
+      "traditional": "要求",
+      "pinyin": "yāo qiú",
+      "meaning": "request\ndemand\nrequirement",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "with regard to\nconcerning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "目前",
+      "traditional": "目前",
+      "pinyin": "mù qián",
+      "meaning": "at the present time\ncurrently",
+      "hsk": 5
+    },
+    {
+      "hanzi": "来看",
+      "traditional": "來看",
+      "pinyin": "lái kàn",
+      "meaning": "to view it from the angle of ...\nconsidering the ...\nin terms of",
+      "hsk": null
+    },
+    {
+      "hanzi": "设计",
+      "traditional": "設計",
+      "pinyin": "shè jì",
+      "meaning": "plan\ndesign\nto design",
+      "hsk": 5
+    },
+    {
+      "hanzi": "方案",
+      "traditional": "方案",
+      "pinyin": "fāng àn",
+      "meaning": "plan\nproposal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "方面",
+      "traditional": "方面",
+      "pinyin": "fāng miàn",
+      "meaning": "aspect\nside",
+      "hsk": 4
+    },
+    {
+      "hanzi": "可行",
+      "traditional": "可行",
+      "pinyin": "kě xíng",
+      "meaning": "feasible\npractical",
+      "hsk": 6
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "咱们",
+      "traditional": "咱們",
+      "pinyin": "zán men",
+      "meaning": "we or us (including both the speaker and the person(s) spoken to)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to open",
+      "hsk": 1
+    },
+    {
+      "hanzi": "模",
+      "traditional": "模",
+      "pinyin": "mú",
+      "meaning": "mold\nmatrix\npattern",
+      "hsk": null
+    },
+    {
+      "hanzi": "量产",
+      "traditional": "量產",
+      "pinyin": "liàng chǎn",
+      "meaning": "to mass-produce",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有点",
+      "traditional": "有點",
+      "pinyin": "yǒu diǎn",
+      "meaning": "a little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "试",
+      "traditional": "試",
+      "pinyin": "shì",
+      "meaning": "to test\nto try",
+      "hsk": 3
+    },
+    {
+      "hanzi": "装",
+      "traditional": "裝",
+      "pinyin": "zhuāng",
+      "meaning": "to install\nto fix",
+      "hsk": 5
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "遇到",
+      "traditional": "遇到",
+      "pinyin": "yù dào",
+      "meaning": "to meet\nto run into\nto come across",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一些",
+      "traditional": "一些",
+      "pinyin": "yì xiē",
+      "meaning": "some\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "麻烦",
+      "traditional": "麻煩",
+      "pinyin": "má fan",
+      "meaning": "inconvenient\ntroublesome\nannoying",
+      "hsk": 4
+    },
+    {
+      "hanzi": "尺寸",
+      "traditional": "尺寸",
+      "pinyin": "chǐ cun",
+      "meaning": "size\ndimension\nmeasurement",
+      "hsk": null
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "匹配",
+      "traditional": "匹配",
+      "pinyin": "pǐ pèi",
+      "meaning": "matching\ncompatible",
+      "hsk": null
+    },
+    {
+      "hanzi": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "meaning": "although\neven though",
+      "hsk": 2
+    },
+    {
+      "hanzi": "安装",
+      "traditional": "安裝",
+      "pinyin": "ān zhuāng",
+      "meaning": "to install\nto fix\nto mount",
+      "hsk": 5
+    },
+    {
+      "hanzi": "成功",
+      "traditional": "成功",
+      "pinyin": "chéng gōng",
+      "meaning": "success\nto succeed",
+      "hsk": 4
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "卡槽",
+      "traditional": "卡槽",
+      "pinyin": "kǎ cáo",
+      "meaning": "(electronics) card slot (for SD card, SIM card, etc)\nclamping groove",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跳",
+      "traditional": "跳",
+      "pinyin": "tiào",
+      "meaning": "to jump\nto hop",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chu lai",
+      "meaning": "(after a verb, indicates coming out, completion of an action, or ability to discern or detect)",
+      "hsk": null
+    },
+    {
+      "hanzi": "视频",
+      "traditional": "視頻",
+      "pinyin": "shì pín",
+      "meaning": "video",
+      "hsk": 6
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "照片",
+      "traditional": "照片",
+      "pinyin": "zhào piàn",
+      "meaning": "photograph\npicture",
+      "hsk": 3
+    },
+    {
+      "hanzi": "稍等",
+      "traditional": "稍等",
+      "pinyin": "shāo děng",
+      "meaning": "to wait a moment",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "发",
+      "traditional": "發",
+      "pinyin": "fā",
+      "meaning": "to send out\nto issue",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "加工",
+      "traditional": "加工",
+      "pinyin": "jiā gōng",
+      "meaning": "to process\nprocessing\nworking (of machinery)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "技术",
+      "traditional": "技術",
+      "pinyin": "jì shù",
+      "meaning": "technology\ntechnique\nskill",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "信",
+      "traditional": "信",
+      "pinyin": "xìn",
+      "meaning": "to believe\nto trust",
+      "hsk": 3
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(indicating winning or deserving)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "材料",
+      "traditional": "材料",
+      "pinyin": "cái liào",
+      "meaning": "material",
+      "hsk": 4
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "比较",
+      "traditional": "比較",
+      "pinyin": "bǐ jiào",
+      "meaning": "comparatively\nrelatively",
+      "hsk": 3
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "late\nnot on time",
+      "hsk": null
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "研究",
+      "traditional": "研究",
+      "pinyin": "yán jiū",
+      "meaning": "research\na study",
+      "hsk": 4
+    },
+    {
+      "hanzi": "性能",
+      "traditional": "性能",
+      "pinyin": "xìng néng",
+      "meaning": "function\nperformance",
+      "hsk": 6
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "信任",
+      "traditional": "信任",
+      "pinyin": "xìn rèn",
+      "meaning": "to trust\nto have confidence in",
+      "hsk": 5
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "next",
+      "hsk": 1
+    },
+    {
+      "hanzi": "周一",
+      "traditional": "週一",
+      "pinyin": "zhōu yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "改进",
+      "traditional": "改進",
+      "pinyin": "gǎi jìn",
+      "meaning": "to improve\nto make better",
+      "hsk": 5
+    },
+    {
+      "hanzi": "图纸",
+      "traditional": "圖紙",
+      "pinyin": "tú zhǐ",
+      "meaning": "blueprint\ndrawing\ndesign plans",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "工艺",
+      "traditional": "工藝",
+      "pinyin": "gōng yì",
+      "meaning": "arts and crafts\nindustrial arts",
+      "hsk": null
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样品",
+      "traditional": "樣品",
+      "pinyin": "yàng pǐn",
+      "meaning": "sample\nspecimen",
+      "hsk": 6
+    },
+    {
+      "hanzi": "进行",
+      "traditional": "進行",
+      "pinyin": "jìn xíng",
+      "meaning": "to conduct\nto carry out",
+      "hsk": 4
+    },
+    {
+      "hanzi": "调试",
+      "traditional": "調試",
+      "pinyin": "tiáo shì",
+      "meaning": "to fine-tune\nto adjust to\nto adapt",
+      "hsk": null
+    },
+    {
+      "hanzi": "没问题",
+      "traditional": "沒問題",
+      "pinyin": "méi wèn tí",
+      "meaning": "no problem",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 5,
+        "hanzi": "零件",
+        "pinyin": "líng jiàn",
+        "meaning": "part\ncomponent",
+        "tc_hanzi": "零件"
+      },
+      {
+        "hanzi": "测试",
+        "pinyin": "cè shì",
+        "meaning": "to test (machinery etc)\nexam",
+        "tc_hanzi": "測試"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "零件",
+        "pinyin": "líng jiàn",
+        "meaning": "part\ncomponent",
+        "tc_hanzi": "零件"
+      },
+      {
+        "hanzi": "测试",
+        "pinyin": "cè shì",
+        "meaning": "to test (machinery etc)\nto test (students)",
+        "tc_hanzi": "測試"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "情况",
+        "pinyin": "qíng kuàng",
+        "meaning": "circumstances\nstate of affairs\nsituation",
+        "tc_hanzi": "情況"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "what's it like?\nhow are things?\nwhat do you think?",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "师傅",
+        "pinyin": "shī fu",
+        "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+        "tc_hanzi": "師傅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "工",
+        "pinyin": "gōng",
+        "meaning": "engineer (abbreviation)",
+        "tc_hanzi": "工"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "消息",
+        "pinyin": "xiāo xi",
+        "meaning": "news\ninformation",
+        "tc_hanzi": "消息"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "零件",
+        "pinyin": "líng jiàn",
+        "meaning": "part\ncomponent",
+        "tc_hanzi": "零件"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "强度",
+        "pinyin": "qiáng dù",
+        "meaning": "strength\nintensity",
+        "tc_hanzi": "強度"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 5,
+        "hanzi": "达到",
+        "pinyin": "dá dào",
+        "meaning": "to reach\nto achieve",
+        "tc_hanzi": "達到"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "要求",
+        "pinyin": "yāo qiú",
+        "meaning": "request\ndemand\nrequirement",
+        "tc_hanzi": "要求"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "jiu",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "with regard to\nconcerning",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "目前",
+        "pinyin": "mù qián",
+        "meaning": "at the present time\ncurrently",
+        "tc_hanzi": "目前"
+      },
+      {
+        "hanzi": "来看",
+        "pinyin": "lái kàn",
+        "meaning": "to view it from the angle of ...\nconsidering the ...\nin terms of",
+        "tc_hanzi": "來看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "设计",
+        "pinyin": "shè jì",
+        "meaning": "plan\ndesign\nto design",
+        "tc_hanzi": "設計"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "方案",
+        "pinyin": "fāng àn",
+        "meaning": "plan\nproposal",
+        "tc_hanzi": "方案"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "方面",
+        "pinyin": "fāng miàn",
+        "meaning": "aspect\nside",
+        "tc_hanzi": "方面"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "可行",
+        "pinyin": "kě xíng",
+        "meaning": "feasible\npractical",
+        "tc_hanzi": "可行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "咱们",
+        "pinyin": "zán men",
+        "meaning": "we or us (including both the speaker and the person(s) spoken to)",
+        "tc_hanzi": "咱們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week\nday of the week",
+        "tc_hanzi": "星期"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to open",
+        "tc_hanzi": "開"
+      },
+      {
+        "hanzi": "模",
+        "pinyin": "mú",
+        "meaning": "mold\nmatrix\npattern",
+        "tc_hanzi": "模"
+      },
+      {
+        "hanzi": "量产",
+        "pinyin": "liàng chǎn",
+        "meaning": "to mass-produce",
+        "tc_hanzi": "量產"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "师傅",
+        "pinyin": "shī fu",
+        "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+        "tc_hanzi": "師傅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有点",
+        "pinyin": "yǒu diǎn",
+        "meaning": "a little",
+        "tc_hanzi": "有點"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "试",
+        "pinyin": "shì",
+        "meaning": "to test\nto try",
+        "tc_hanzi": "試"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "装",
+        "pinyin": "zhuāng",
+        "meaning": "to install\nto fix",
+        "tc_hanzi": "裝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "遇到",
+        "pinyin": "yù dào",
+        "meaning": "to meet\nto run into\nto come across",
+        "tc_hanzi": "遇到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一些",
+        "pinyin": "yì xiē",
+        "meaning": "some\na few",
+        "tc_hanzi": "一些"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "麻烦",
+        "pinyin": "má fan",
+        "meaning": "inconvenient\ntroublesome\nannoying",
+        "tc_hanzi": "麻煩"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "尺寸",
+        "pinyin": "chǐ cun",
+        "meaning": "size\ndimension\nmeasurement",
+        "tc_hanzi": "尺寸"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "匹配",
+        "pinyin": "pǐ pèi",
+        "meaning": "matching\ncompatible",
+        "tc_hanzi": "匹配"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "suiran",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although\neven though",
+        "tc_hanzi": "雖然"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "安装",
+        "pinyin": "ān zhuāng",
+        "meaning": "to install\nto fix\nto mount",
+        "tc_hanzi": "安裝"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "成功",
+        "pinyin": "chéng gōng",
+        "meaning": "success\nto succeed",
+        "tc_hanzi": "成功"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "零件",
+        "pinyin": "líng jiàn",
+        "meaning": "part\ncomponent",
+        "tc_hanzi": "零件"
+      },
+      {
+        "g": "jiu-promptness",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "卡槽",
+        "pinyin": "kǎ cáo",
+        "meaning": "(electronics) card slot (for SD card, SIM card, etc)\nclamping groove",
+        "tc_hanzi": "卡槽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跳",
+        "pinyin": "tiào",
+        "meaning": "to jump\nto hop",
+        "tc_hanzi": "跳"
+      },
+      {
+        "g": "compound-directional-complements",
+        "hanzi": "出来",
+        "pinyin": "chu lai",
+        "meaning": "(after a verb, indicates coming out, completion of an action, or ability to discern or detect)",
+        "tc_hanzi": "出來"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "安装",
+        "pinyin": "ān zhuāng",
+        "meaning": "to install\nto fix\nto mount",
+        "tc_hanzi": "安裝"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "视频",
+        "pinyin": "shì pín",
+        "meaning": "video",
+        "tc_hanzi": "視頻"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "照片",
+        "pinyin": "zhào piàn",
+        "meaning": "photograph\npicture",
+        "tc_hanzi": "照片"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "师傅",
+        "pinyin": "shī fu",
+        "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+        "tc_hanzi": "師傅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "稍等",
+        "pinyin": "shāo děng",
+        "meaning": "to wait a moment",
+        "tc_hanzi": "稍等"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发",
+        "pinyin": "fā",
+        "meaning": "to send out\nto issue",
+        "tc_hanzi": "發"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "加工",
+        "pinyin": "jiā gōng",
+        "meaning": "to process\nprocessing\nworking (of machinery)",
+        "tc_hanzi": "加工"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "技术",
+        "pinyin": "jì shù",
+        "meaning": "technology\ntechnique\nskill",
+        "tc_hanzi": "技術"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "信",
+        "pinyin": "xìn",
+        "meaning": "to believe\nto trust",
+        "tc_hanzi": "信"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(indicating winning or deserving)",
+        "tc_hanzi": "過"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "材料",
+        "pinyin": "cái liào",
+        "meaning": "material",
+        "tc_hanzi": "材料"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比较",
+        "pinyin": "bǐ jiào",
+        "meaning": "comparatively\nrelatively",
+        "tc_hanzi": "比較"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "情况",
+        "pinyin": "qíng kuàng",
+        "meaning": "circumstances\nstate of affairs\nsituation",
+        "tc_hanzi": "情況"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "遇到",
+        "pinyin": "yù dào",
+        "meaning": "to meet\nto run into\nto come across",
+        "tc_hanzi": "遇到"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "late\nnot on time",
+        "tc_hanzi": "晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "研究",
+        "pinyin": "yán jiū",
+        "meaning": "research\na study",
+        "tc_hanzi": "研究"
+      },
+      {
+        "g": "xia",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "a (short) while\na moment",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "材料",
+        "pinyin": "cái liào",
+        "meaning": "material",
+        "tc_hanzi": "材料"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "性能",
+        "pinyin": "xìng néng",
+        "meaning": "function\nperformance",
+        "tc_hanzi": "性能"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "师傅",
+        "pinyin": "shī fu",
+        "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+        "tc_hanzi": "師傅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "信任",
+        "pinyin": "xìn rèn",
+        "meaning": "to trust\nto have confidence in",
+        "tc_hanzi": "信任"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "next",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "周一",
+        "pinyin": "zhōu yī",
+        "meaning": "Monday",
+        "tc_hanzi": "週一"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "改进",
+        "pinyin": "gǎi jìn",
+        "meaning": "to improve\nto make better",
+        "tc_hanzi": "改進"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "加工",
+        "pinyin": "jiā gōng",
+        "meaning": "to process\nprocessing\nworking (of machinery)",
+        "tc_hanzi": "加工"
+      },
+      {
+        "hanzi": "图纸",
+        "pinyin": "tú zhǐ",
+        "meaning": "blueprint\ndrawing\ndesign plans",
+        "tc_hanzi": "圖紙"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "工艺",
+        "pinyin": "gōng yì",
+        "meaning": "arts and crafts\nindustrial arts",
+        "tc_hanzi": "工藝"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "要求",
+        "pinyin": "yāo qiú",
+        "meaning": "request\ndemand\nrequirement",
+        "tc_hanzi": "要求"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发",
+        "pinyin": "fā",
+        "meaning": "to send out\nto issue",
+        "tc_hanzi": "發"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "样品",
+        "pinyin": "yàng pǐn",
+        "meaning": "sample\nspecimen",
+        "tc_hanzi": "樣品"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "进行",
+        "pinyin": "jìn xíng",
+        "meaning": "to conduct\nto carry out",
+        "tc_hanzi": "進行"
+      },
+      {
+        "hanzi": "调试",
+        "pinyin": "tiáo shì",
+        "meaning": "to fine-tune\nto adjust to\nto adapt",
+        "tc_hanzi": "調試"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "严",
+        "pinyin": "yán",
+        "meaning": "surname Yan",
+        "tc_hanzi": "嚴"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "师傅",
+        "pinyin": "shī fu",
+        "meaning": "qualified worker\nrespectful form of address for a skilled worker",
+        "tc_hanzi": "師傅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "没问题",
+        "pinyin": "méi wèn tí",
+        "meaning": "no problem",
+        "tc_hanzi": "沒問題"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.4988662131519274,
+      0.7936507936507936,
+      1.201814058956916,
+      2.6,
+      2.6,
+      2.6,
+      2.6,
+      2.9648526077097506,
+      3.197278911564626,
+      3.83,
+      4.314058956916099,
+      5.2,
+      5.430839002267573,
+      5.578231292517007,
+      5.844671201814059,
+      6.42,
+      6.77437641723356,
+      7.063492063492063,
+      7.358276643990929,
+      7.562358276643991,
+      7.698412698412699,
+      8.12358276643991,
+      8.53,
+      8.75283446712018,
+      8.883219954648526,
+      10.67,
+      10.67,
+      10.67,
+      10.67,
+      10.952380952380953,
+      11.944444444444445,
+      12.244897959183673,
+      13.45,
+      13.781179138321995,
+      13.939909297052154,
+      14.297052154195011,
+      14.693877551020408,
+      16.03,
+      16.45691609977324,
+      16.99,
+      17.414965986394556,
+      17.63605442176871,
+      17.7437641723356,
+      18.197278911564624,
+      18.83,
+      19.387755102040817,
+      19.65419501133787,
+      19.926303854875282,
+      20.14172335600907,
+      20.328798185941043,
+      20.555555555555554,
+      20.90702947845805,
+      21.1734693877551,
+      22.43,
+      23.055555555555554,
+      23.34467120181406,
+      23.55442176870748,
+      23.75283446712018,
+      24.55,
+      24.835600907029477,
+      24.977324263038547,
+      25.28344671201814,
+      25.4875283446712,
+      25.74829931972789,
+      26.12,
+      26.343537414965986,
+      26.65532879818594,
+      26.93877551020408,
+      27.35,
+      27.823129251700678,
+      29.75,
+      29.75,
+      29.75,
+      29.75,
+      30.096371882086167,
+      30.374149659863946,
+      31.33,
+      31.547619047619047,
+      31.791383219954646,
+      32.24,
+      32.48866213151927,
+      32.61337868480725,
+      32.84580498866213,
+      33.5,
+      33.99659863945578,
+      34.35374149659864,
+      34.72,
+      35.00566893424036,
+      35.32879818594104,
+      35.476190476190474,
+      36.97,
+      36.97,
+      36.97,
+      36.97,
+      37.49433106575964,
+      37.72108843537415,
+      38.98,
+      39.28004535147392,
+      39.461451247165535,
+      39.93764172335601,
+      40.368480725623584,
+      40.62925170068027,
+      41.37,
+      41.609977324263035,
+      41.831065759637184,
+      41.98979591836734,
+      42.19954648526077,
+      42.636054421768705,
+      43.7,
+      44.27437641723356,
+      44.93,
+      45.27210884353742,
+      45.521541950113374,
+      45.714285714285715,
+      45.95238095238095,
+      46.34920634920635,
+      47.69,
+      48.06122448979592,
+      48.55,
+      48.74716553287982,
+      49.0249433106576,
+      49.26870748299319,
+      49.67120181405895,
+      50.64,
+      50.89569160997732,
+      51.57,
+      51.955782312925166,
+      52.15986394557823,
+      52.460317460317455,
+      52.70408163265306,
+      52.90816326530612,
+      53.62,
+      54.04195011337868,
+      54.64,
+      54.914965986394556,
+      55.1530612244898,
+      55.51020408163265,
+      56.13,
+      56.51927437641723,
+      56.98412698412698,
+      57.21088435374149,
+      57.40362811791383,
+      57.96485260770975,
+      58.18027210884354,
+      59.9,
+      59.9,
+      59.9,
+      59.9,
+      60.238095238095234,
+      60.578231292517,
+      60.85600907029478,
+      61.1734693877551,
+      61.46825396825397,
+      61.95,
+      62.307256235827666,
+      62.65873015873016,
+      62.94784580498866,
+      63.17460317460317,
+      65.06,
+      65.06,
+      65.06,
+      65.06,
+      65.41950113378685,
+      65.66326530612244,
+      66.48,
+      66.74603174603175,
+      67.09750566893423,
+      67.30725623582767,
+      67.53401360544217,
+      67.9421768707483,
+      68.16326530612244,
+      69.59,
+      69.59,
+      69.59,
+      69.59,
+      69.96031746031746,
+      70.12471655328798,
+      70.35714285714286,
+      70.57256235827664,
+      70.79931972789116,
+      71.34,
+      71.57596371882086,
+      71.96,
+      72.3639455782313,
+      72.53968253968253,
+      72.85714285714286,
+      73.8,
+      74.02494331065759,
+      74.61,
+      74.82426303854875,
+      74.99433106575964,
+      75.2891156462585,
+      75.75,
+      76.03741496598639,
+      76.17913832199547,
+      76.33219954648526,
+      77.42,
+      77.65873015873015,
+      77.77777777777777,
+      78.07256235827664,
+      78.68,
+      78.99092970521542,
+      79.25170068027211,
+      79.63,
+      79.82993197278911,
+      80.10204081632652,
+      80.32312925170068,
+      80.52154195011337,
+      81.48,
+      81.7063492063492,
+      81.88208616780045,
+      82.44,
+      82.67006802721089,
+      82.85147392290249,
+      83.08390022675736,
+      83.3219954648526,
+      83.46371882086167,
+      83.81,
+      84.12698412698413,
+      84.35374149659863,
+      84.6031746031746,
+      86.26,
+      86.26,
+      86.26,
+      86.26,
+      86.68367346938776,
+      87.59637188208616,
+      88.08390022675736,
+      88.33900226757369,
+      88.57142857142857,
+      89.94,
+      89.94,
+      89.94,
+      89.94,
+      90.40249433106575,
+      90.67460317460318,
+      90.90136054421768,
+      91.41,
+      91.73469387755102,
+      91.96712018140589,
+      92.20521541950113,
+      92.32993197278911,
+      92.55102040816327,
+      92.75510204081633,
+      92.98185941043083,
+      93.48,
+      93.98,
+      94.16666666666666,
+      94.35374149659863,
+      94.58616780045351,
+      95.02,
+      95.32879818594104,
+      95.4705215419501,
+      96.2,
+      96.55328798185941,
+      96.91043083900226,
+      97.12585034013605,
+      97.34126984126983,
+      97.77,
+      98.11791383219955,
+      98.2766439909297,
+      98.54308390022675,
+      99.06,
+      99.33673469387755,
+      99.47845804988661,
+      99.73356009070295,
+      101.09,
+      101.09,
+      101.09,
+      101.09,
+      101.54195011337868,
+      102.55,
+      102.99319727891157,
+      103.32766439909297,
+      104.4
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      20,
+      21,
+      45,
+      58,
+      59,
+      77,
+      78,
+      99,
+      119,
+      120,
+      130,
+      131,
+      144,
+      145,
+      158,
+      177,
+      186,
+      187,
+      196,
+      197,
+      214,
+      225,
+      226
+    ],
+    "sentence_translations": [
+      "Component Testing",
+      "",
+      "Engineer: Hello, Master Yan! How is the component testing going this week?",
+      "",
+      "Master Yan: Hello, Engineer Zhang! I have good news. Right now, the strength of the parts can meet your requirements.",
+      "From the current perspective, your design plan is feasible in this respect.",
+      "",
+      "Engineer: Great, can we start mass production this week?",
+      "",
+      "Master Yan: That’s a bit difficult. During the trial installation, we encountered some problems. The sizes don’t seem to match.",
+      "Although it can be installed successfully, after a few hours the parts will pop out of the slot by themselves.",
+      "",
+      "Engineer: Do you have any installation videos or photos?",
+      "",
+      "Master Yan: Please wait a moment. I will send them to you to have a look.",
+      "",
+      "Engineer: I trust your processing technology.",
+      "Since this material is still relatively new, this is the first time I’ve encountered this situation.",
+      "I will study the material properties later.",
+      "",
+      "Master Yan: Okay, thank you for your trust!",
+      "",
+      "Engineer: I will send you the improved processing drawings and technical requirements next Monday.",
+      "You can then make a few new samples for debugging.",
+      "",
+      "Master Yan: Okay, no problem!"
+    ]
+  }
+}

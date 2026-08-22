@@ -1,0 +1,2726 @@
+{
+  "id": "2035",
+  "title": "Fishbone Girl",
+  "level": "elementary",
+  "date": "2023-04-27",
+  "synopsis": "null",
+  "audioUrl": "https://static.duchinese.net/documents/2035/45c4497ff616c65f9fdad524599c14b522aac123.mp3?1682325672",
+  "series": {
+    "title": "Fishbone Girl",
+    "chapter": 0,
+    "totalChapters": 15
+  },
+  "fullText": {
+    "simplified": "一、鱼\n\n    很多年以前，有个女孩叫小米。她喜欢做衣服和鞋子，她会做漂亮的衣服和鞋子。小米很小的时候，妈妈就死了。虽然爸爸很爱小米，但妈妈死后，爸爸很快就给小米找了一个新妈妈。这个新妈妈就是小米的后妈。后妈和爸爸也生了一个女儿，这个女儿就是小米的妹妹了。在妹妹两岁的时候，小米的爸爸也死了。爸爸死后，小米就和后妈，还有两岁的妹妹，住在一起。\n    后妈不喜欢小米。她让小米做很多事情，难的事和不好的事，她都让小米去做。每天，小米都要去很远的河边打水，她太累了。\n    有一天，小米去很远的河边打水。她在河里看到了一条漂亮的小鱼。小鱼是红色的，它看着小米，好像会说话：“我喜欢你，我能和你回家吗？”\n    小米也很喜欢这条红色的小鱼，小鱼和她一起回家了。",
+    "traditional": "一、魚\n\n    很多年以前，有個女孩叫小米。她喜歡做衣服和鞋子，她會做漂亮的衣服和鞋子。小米很小的時候，媽媽就死了。雖然爸爸很愛小米，但媽媽死後，爸爸很快就給小米找了一個新媽媽。這個新媽媽就是小米的後媽。後媽和爸爸也生了一個女兒，這個女兒就是小米的妹妹了。在妹妹兩歲的時候，小米的爸爸也死了。爸爸死後，小米就和後媽，還有兩歲的妹妹，住在一起。\n    後媽不喜歡小米。她讓小米做很多事情，難的事和不好的事，她都讓小米去做。每天，小米都要去很遠的河邊打水，她太累了。\n    有一天，小米去很遠的河邊打水。她在河裡看到了一條漂亮的小魚。小魚是紅色的，它看著小米，好像會說話：“我喜歡你，我能和你回家嗎？”\n    小米也很喜歡這條紅色的小魚，小魚和她一起回家了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 2,
+      "simplified": "很多年以前，有个女孩叫小米。",
+      "traditional": "很多年以前，有個女孩叫小米。",
+      "pinyin": "hěn duō nián yǐ qián yǒu ge nǚ hái jiào xiǎo mǐ",
+      "english": "Many years ago, there was a girl called Little Mi."
+    },
+    {
+      "index": 3,
+      "simplified": "她喜欢做衣服和鞋子，她会做漂亮的衣服和鞋子。",
+      "traditional": "她喜歡做衣服和鞋子，她會做漂亮的衣服和鞋子。",
+      "pinyin": "tā xǐ huan zuò yī fu hé xié zi tā huì zuò piào liang de yī fu hé xié zi",
+      "english": "She liked to make clothes and shoes. She would make beautiful clothes and shoes."
+    },
+    {
+      "index": 4,
+      "simplified": "小米很小的时候，妈妈就死了。",
+      "traditional": "小米很小的時候，媽媽就死了。",
+      "pinyin": "xiǎo mǐ hěn xiǎo de shí hou mā ma jiù sǐ le",
+      "english": "Little Mi’s mom died when she was very small."
+    },
+    {
+      "index": 5,
+      "simplified": "虽然爸爸很爱小米，但妈妈死后，爸爸很快就给小米找了一个新妈妈。",
+      "traditional": "雖然爸爸很愛小米，但媽媽死後，爸爸很快就給小米找了一個新媽媽。",
+      "pinyin": "suī rán bà ba hěn ài xiǎo mǐ dàn mā ma sǐ hòu bà ba hěn kuài jiù gěi xiǎo mǐ zhǎo le yí ge xīn mā ma",
+      "english": "Although her dad really loved Little Mi, after Mom died, Dad very quickly found a new mom for Little Mi."
+    },
+    {
+      "index": 6,
+      "simplified": "这个新妈妈就是小米的后妈。",
+      "traditional": "這個新媽媽就是小米的後媽。",
+      "pinyin": "zhè ge xīn mā ma jiù shì xiǎo mǐ de hòu mā",
+      "english": "This new mom was Little Mi’s stepmother."
+    },
+    {
+      "index": 7,
+      "simplified": "后妈和爸爸也生了一个女儿，这个女儿就是小米的妹妹了。",
+      "traditional": "後媽和爸爸也生了一個女兒，這個女兒就是小米的妹妹了。",
+      "pinyin": "hòu mā hé bà ba yě shēng le yí ge nǚ ér zhè ge nǚ ér jiù shì xiǎo mǐ de mèi mei le",
+      "english": "Her stepmother and dad also gave birth to a girl. This girl was Little Mi’s little sister."
+    },
+    {
+      "index": 8,
+      "simplified": "在妹妹两岁的时候，小米的爸爸也死了。",
+      "traditional": "在妹妹兩歲的時候，小米的爸爸也死了。",
+      "pinyin": "zài mèi mei liǎng suì de shí hou xiǎo mǐ de bà ba yě sǐ le",
+      "english": "When her little sister was 2 years old, Little Mi’s dad also died."
+    },
+    {
+      "index": 9,
+      "simplified": "爸爸死后，小米就和后妈，还有两岁的妹妹，住在一起。",
+      "traditional": "爸爸死後，小米就和後媽，還有兩歲的妹妹，住在一起。",
+      "pinyin": "bà ba sǐ hòu xiǎo mǐ jiù hé hòu mā hái yǒu liǎng suì de mèi mei zhù zài yì qǐ",
+      "english": "After her dad died, Little Mi lived together with her stepmother and her 2-year-old little sister."
+    },
+    {
+      "index": 10,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "后妈不喜欢小米。",
+      "traditional": "後媽不喜歡小米。",
+      "pinyin": "hòu mā bù xǐ huan xiǎo mǐ",
+      "english": "The stepmother didn’t like Little Mi."
+    },
+    {
+      "index": 12,
+      "simplified": "她让小米做很多事情，难的事和不好的事，她都让小米去做。",
+      "traditional": "她讓小米做很多事情，難的事和不好的事，她都讓小米去做。",
+      "pinyin": "tā ràng xiǎo mǐ zuò hěn duō shì qing nán de shì hé bù hǎo de shì tā dōu ràng xiǎo mǐ qù zuò",
+      "english": "She made Little Mi do lots of things. She would make Little Mi do difficult things and bad things."
+    },
+    {
+      "index": 13,
+      "simplified": "每天，小米都要去很远的河边打水，她太累了。",
+      "traditional": "每天，小米都要去很遠的河邊打水，她太累了。",
+      "pinyin": "měi tiān xiǎo mǐ dōu yào qù hěn yuǎn de hé biān dǎ shuǐ tā tài lèi le",
+      "english": "Every day, Little Mi had to go to a faraway river shore to collect water. She was very tired."
+    },
+    {
+      "index": 14,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "有一天，小米去很远的河边打水。她在河里看到了一条漂亮的小鱼。",
+      "traditional": "有一天，小米去很遠的河邊打水。她在河裡看到了一條漂亮的小魚。",
+      "pinyin": "yǒu yì tiān xiǎo mǐ qù hěn yuǎn de hé biān dǎ shuǐ tā zài hé lǐ kàn dào le yì tiáo piào liang de xiǎo yú",
+      "english": "One day, Little Mi went to the faraway river shore to collect water. She saw a beautiful little fish in the river."
+    },
+    {
+      "index": 16,
+      "simplified": "小鱼是红色的，它看着小米，好像会说话：“我喜欢你，我能和你回家吗？”",
+      "traditional": "小魚是紅色的，它看著小米，好像會說話：“我喜歡你，我能和你回家嗎？”",
+      "pinyin": "xiǎo yú shì hóng sè de tā kàn zhe xiǎo mǐ hǎo xiàng huì shuō huà wǒ xǐ huan nǐ wǒ néng hé nǐ huí jiā ma",
+      "english": "The little fish was red. It looked at Little Mi as if it could speak: “I like you. Can I go home with you?”"
+    },
+    {
+      "index": 17,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "小米也很喜欢这条红色的小鱼，小鱼和她一起回家了。",
+      "traditional": "小米也很喜歡這條紅色的小魚，小魚和她一起回家了。",
+      "pinyin": "xiǎo mǐ yě hěn xǐ huan zhè tiáo hóng sè de xiǎo yú xiǎo yú hé tā yì qǐ huí jiā le",
+      "english": "Little Mi also really liked this little red fish. The little fish went home with her."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鱼",
+      "traditional": "魚",
+      "pinyin": "yú",
+      "meaning": "fish",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以前",
+      "traditional": "以前",
+      "pinyin": "yǐ qián",
+      "meaning": "before\nformerly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女孩",
+      "traditional": "女孩",
+      "pinyin": "nǚ hái",
+      "meaning": "girl",
+      "hsk": 2
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to name\nto call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小米",
+      "traditional": "小米",
+      "pinyin": "xiǎo mǐ",
+      "meaning": "Little Mi (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鞋子",
+      "traditional": "鞋子",
+      "pinyin": "xié zi",
+      "meaning": "shoe",
+      "hsk": 3
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "can\nto be able to",
+      "hsk": 1
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "as early as\nalready\nright away",
+      "hsk": 2
+    },
+    {
+      "hanzi": "死",
+      "traditional": "死",
+      "pinyin": "sǐ",
+      "meaning": "death\nto die",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "meaning": "although\neven though",
+      "hsk": 2
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "meaning": "to love\nto like",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "almost\nsoon",
+      "hsk": 2
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to try to find\nto look for\nto call on sb",
+      "hsk": 2
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "后妈",
+      "traditional": "後媽",
+      "pinyin": "hòu mā",
+      "meaning": "(coll.) stepmother",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生",
+      "traditional": "生",
+      "pinyin": "shēng",
+      "meaning": "to be born\nto give birth",
+      "hsk": 5
+    },
+    {
+      "hanzi": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚ ér",
+      "meaning": "daughter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèi mei",
+      "meaning": "younger sister\nyoung woman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to make\nto cause",
+      "hsk": 2
+    },
+    {
+      "hanzi": "事情",
+      "traditional": "事情",
+      "pinyin": "shì qing",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "meaning": "matter\nthing",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "must\nshould\nto have to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": 2
+    },
+    {
+      "hanzi": "河边",
+      "traditional": "河邊",
+      "pinyin": "hé biān",
+      "meaning": "river bank\nriverside",
+      "hsk": null
+    },
+    {
+      "hanzi": "打水",
+      "traditional": "打水",
+      "pinyin": "dǎ shuǐ",
+      "meaning": "to draw water\nto splash water",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "累",
+      "traditional": "累",
+      "pinyin": "lèi",
+      "meaning": "tired\nto wear out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "河",
+      "traditional": "河",
+      "pinyin": "hé",
+      "meaning": "river",
+      "hsk": null
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "meaning": "to notice\nto see",
+      "hsk": 2
+    },
+    {
+      "hanzi": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "meaning": "classifier for long and thin objects or animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "红色",
+      "traditional": "紅色",
+      "pinyin": "hóng sè",
+      "meaning": "red (color)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "meaning": "it",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "meaning": "to speak\nto talk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以前",
+        "pinyin": "yǐ qián",
+        "meaning": "before\nformerly",
+        "tc_hanzi": "以前"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女孩",
+        "pinyin": "nǚ hái",
+        "meaning": "girl",
+        "tc_hanzi": "女孩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to name\nto call",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋子",
+        "pinyin": "xié zi",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鞋子",
+        "pinyin": "xié zi",
+        "meaning": "shoe",
+        "tc_hanzi": "鞋子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "jiu-promptness",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "suiran",
+        "hsk": 2,
+        "hanzi": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although\neven though",
+        "tc_hanzi": "雖然"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "meaning": "to love\nto like",
+        "tc_hanzi": "愛"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "almost\nsoon",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "jiu-promptness",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "to try to find\nto look for\nto call on sb",
+        "tc_hanzi": "找"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "后妈",
+        "pinyin": "hòu mā",
+        "meaning": "(coll.) stepmother",
+        "tc_hanzi": "後媽"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "后妈",
+        "pinyin": "hòu mā",
+        "meaning": "(coll.) stepmother",
+        "tc_hanzi": "後媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "生",
+        "pinyin": "shēng",
+        "meaning": "to be born\nto give birth",
+        "tc_hanzi": "生"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "女儿",
+        "pinyin": "nǚ ér",
+        "meaning": "daughter",
+        "tc_hanzi": "女兒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "女儿",
+        "pinyin": "nǚ ér",
+        "meaning": "daughter",
+        "tc_hanzi": "女兒"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "妹妹",
+        "pinyin": "mèi mei",
+        "meaning": "younger sister\nyoung woman",
+        "tc_hanzi": "妹妹"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "妹妹",
+        "pinyin": "mèi mei",
+        "meaning": "younger sister\nyoung woman",
+        "tc_hanzi": "妹妹"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "后妈",
+        "pinyin": "hòu mā",
+        "meaning": "(coll.) stepmother",
+        "tc_hanzi": "後媽"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "妹妹",
+        "pinyin": "mèi mei",
+        "meaning": "younger sister\nyoung woman",
+        "tc_hanzi": "妹妹"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "后妈",
+        "pinyin": "hòu mā",
+        "meaning": "(coll.) stepmother",
+        "tc_hanzi": "後媽"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to make\nto cause",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事情",
+        "pinyin": "shì qing",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事情"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "事",
+        "pinyin": "shì",
+        "meaning": "matter\nthing",
+        "tc_hanzi": "事"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to make\nto cause",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "must\nshould\nto have to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "河边",
+        "pinyin": "hé biān",
+        "meaning": "river bank\nriverside",
+        "tc_hanzi": "河邊"
+      },
+      {
+        "hanzi": "打水",
+        "pinyin": "dǎ shuǐ",
+        "meaning": "to draw water\nto splash water",
+        "tc_hanzi": "打水"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "累",
+        "pinyin": "lèi",
+        "meaning": "tired\nto wear out",
+        "tc_hanzi": "累"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "河边",
+        "pinyin": "hé biān",
+        "meaning": "river bank\nriverside",
+        "tc_hanzi": "河邊"
+      },
+      {
+        "hanzi": "打水",
+        "pinyin": "dǎ shuǐ",
+        "meaning": "to draw water\nto splash water",
+        "tc_hanzi": "打水"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "河",
+        "pinyin": "hé",
+        "meaning": "river",
+        "tc_hanzi": "河"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "看到",
+        "pinyin": "kàn dào",
+        "meaning": "to notice\nto see",
+        "tc_hanzi": "看到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "classifier for long and thin objects or animals",
+        "tc_hanzi": "條"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it",
+        "tc_hanzi": "它"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "zhe",
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "说话",
+        "pinyin": "shuō huà",
+        "meaning": "to speak\nto talk",
+        "tc_hanzi": "說話"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小米",
+        "pinyin": "xiǎo mǐ",
+        "meaning": "Little Mi (name)",
+        "tc_hanzi": "小米"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "classifier for long and thin objects or animals",
+        "tc_hanzi": "條"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "红色",
+        "pinyin": "hóng sè",
+        "meaning": "red (color)",
+        "tc_hanzi": "紅色"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish",
+        "tc_hanzi": "魚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      1.42,
+      3.86,
+      4.467120181405895,
+      4.77891156462585,
+      5.1020408163265305,
+      5.351473922902494,
+      6.66,
+      6.967120181405895,
+      7.216553287981859,
+      7.494331065759637,
+      8.44,
+      9.06,
+      9.608843537414966,
+      11.41,
+      11.712018140589569,
+      12.074829931972788,
+      12.72,
+      13.095238095238095,
+      13.46938775510204,
+      14.09,
+      14.45578231292517,
+      15.119047619047619,
+      16.63,
+      16.972789115646258,
+      17.273242630385486,
+      18.01,
+      18.60544217687075,
+      18.83786848072562,
+      19.058956916099774,
+      19.49546485260771,
+      20.3,
+      20.674603174603174,
+      21.422902494331066,
+      23.06,
+      23.49206349206349,
+      24.27,
+      24.92063492063492,
+      25.16439909297052,
+      25.30612244897959,
+      25.634920634920633,
+      26.39,
+      26.75736961451247,
+      27.38,
+      27.66439909297052,
+      28.191609977324262,
+      29.64,
+      30.073696145124714,
+      30.82,
+      31.145124716553287,
+      31.377551020408163,
+      31.8140589569161,
+      32.19954648526077,
+      32.579365079365076,
+      33.83,
+      34.45,
+      34.84126984126984,
+      35.0453514739229,
+      35.493197278911566,
+      36.44,
+      36.80839002267574,
+      37.36,
+      37.92517006802721,
+      38.63,
+      38.883219954648524,
+      39.07596371882086,
+      39.49546485260771,
+      40.22,
+      40.600907029478456,
+      40.77097505668934,
+      40.9297052154195,
+      41.39,
+      42.00113378684807,
+      42.3015873015873,
+      44.04,
+      44.33673469387755,
+      44.750566893424036,
+      45.21541950113379,
+      45.55555555555556,
+      46.32,
+      46.621315192743765,
+      47.22,
+      47.800453514739225,
+      48.06689342403628,
+      48.20861678004535,
+      48.61111111111111,
+      50.32,
+      50.78231292517007,
+      51.39,
+      51.74603174603175,
+      52.15986394557823,
+      52.82,
+      53.28798185941043,
+      53.70181405895691,
+      53.85487528344671,
+      54.058956916099774,
+      54.3140589569161,
+      54.69387755102041,
+      56.24,
+      56.666666666666664,
+      56.87074829931973,
+      57.182539682539684,
+      58,
+      58.304988662131514,
+      59.03,
+      59.65419501133787,
+      59.8922902494331,
+      60.10770975056689,
+      60.493197278911566,
+      60.85034013605442,
+      62.54,
+      63.31065759637188,
+      63.67913832199546,
+      63.90589569160998,
+      64.41043083900226,
+      64.8015873015873,
+      64.97165532879818,
+      65.35147392290249,
+      66.36,
+      66.87641723356009,
+      67.08616780045351,
+      67.26757369614512,
+      67.65873015873015,
+      68.43,
+      69.03061224489795,
+      69.47845804988661,
+      71.22,
+      71.59297052154194,
+      71.86507936507937,
+      72.15986394557822,
+      73.16,
+      73.65079365079364,
+      74.45,
+      74.81859410430839,
+      75.05668934240363,
+      75.40816326530611,
+      76.36,
+      76.79705215419501,
+      77.28,
+      77.8061224489796,
+      78.04421768707483,
+      78.20294784580499,
+      78.61678004535148,
+      79.28,
+      79.77324263038548,
+      80.07369614512471,
+      80.46485260770974,
+      82.99,
+      83.4126984126984,
+      84.21,
+      84.6485260770975,
+      85.09637188208616,
+      85.51587301587301,
+      85.87301587301587,
+      87.22,
+      87.57369614512471,
+      88.03854875283446,
+      88.45238095238095,
+      89.25,
+      89.59750566893423,
+      90.15306122448979,
+      90.4705215419501,
+      91.00340136054422,
+      92.34,
+      92.87981859410431,
+      93.12358276643991,
+      94.13265306122449,
+      94.71655328798185,
+      95.06802721088435,
+      95.55555555555556,
+      95.79365079365078,
+      96.95,
+      97.31,
+      97.5907029478458,
+      98.1,
+      98.78117913832199,
+      99.07596371882086,
+      99.4047619047619,
+      101.06,
+      101.53628117913831,
+      102.56802721088435,
+      103.078231292517,
+      103.95,
+      104.25736961451247,
+      104.51814058956916,
+      104.80725623582767,
+      105.2437641723356,
+      105.4705215419501,
+      105.64625850340136,
+      106.08276643990929,
+      106.64,
+      106.96145124716553,
+      108.48,
+      108.9,
+      109.44444444444444,
+      109.85827664399092,
+      111.63,
+      112.02380952380952,
+      112.19954648526077,
+      113.23,
+      113.63378684807256,
+      114.44,
+      114.88095238095238,
+      115.25510204081633,
+      115.54,
+      115.70861678004535,
+      116.11678004535148,
+      116.67,
+      117.00113378684807,
+      118.87,
+      119.22902494331065,
+      119.51814058956916,
+      119.96598639455782,
+      120.81632653061224,
+      121.25850340136054,
+      121.47392290249432,
+      121.66666666666666,
+      121.89342403628117,
+      122.7,
+      123.27097505668934,
+      123.48639455782313,
+      123.63378684807256,
+      124.12698412698413,
+      125.6,
+      126.07709750566893,
+      126.84,
+      127.23356009070294,
+      127.73242630385487,
+      128.21995464852608,
+      129.51,
+      130.13,
+      130.61791383219955,
+      130.79931972789115,
+      131.22448979591837,
+      132.31,
+      132.64739229024943,
+      133.39,
+      133.76984126984127,
+      134.09863945578232,
+      135.79,
+      136.09410430839003,
+      136.6893424036281,
+      137.21655328798187,
+      138.24,
+      139.21,
+      139.61451247165533,
+      139.96598639455783,
+      140.61,
+      141.19614512471654,
+      141.70068027210883,
+      143.62,
+      144.10997732426304,
+      145.02,
+      145.453514739229,
+      145.79365079365078,
+      146.1848072562358,
+      146.97,
+      147.235,
+      147.57936507936506,
+      148.08390022675738,
+      148.37301587301587,
+      148.52607709750566,
+      149.03061224489795,
+      150.3,
+      150.85034013605443,
+      151.58,
+      151.96145124716554,
+      152.73,
+      153.2312925170068,
+      154.09,
+      154.74489795918367,
+      155.43650793650792,
+      156.5
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      17,
+      33,
+      44,
+      68,
+      78,
+      98,
+      112,
+      131,
+      133,
+      138,
+      162,
+      180,
+      182,
+      207,
+      233,
+      235
+    ],
+    "sentence_translations": [
+      "1. Fish",
+      "",
+      "Many years ago, there was a girl called Little Mi.",
+      "She liked to make clothes and shoes. She would make beautiful clothes and shoes.",
+      "Little Mi’s mom died when she was very small.",
+      "Although her dad really loved Little Mi, after Mom died, Dad very quickly found a new mom for Little Mi.",
+      "This new mom was Little Mi’s stepmother.",
+      "Her stepmother and dad also gave birth to a girl. This girl was Little Mi’s little sister.",
+      "When her little sister was 2 years old, Little Mi’s dad also died.",
+      "After her dad died, Little Mi lived together with her stepmother and her 2-year-old little sister.",
+      "",
+      "The stepmother didn’t like Little Mi.",
+      "She made Little Mi do lots of things. She would make Little Mi do difficult things and bad things.",
+      "Every day, Little Mi had to go to a faraway river shore to collect water. She was very tired.",
+      "",
+      "One day, Little Mi went to the faraway river shore to collect water. She saw a beautiful little fish in the river.",
+      "The little fish was red. It looked at Little Mi as if it could speak: “I like you. Can I go home with you?”",
+      "",
+      "Little Mi also really liked this little red fish. The little fish went home with her."
+    ]
+  }
+}

@@ -1,0 +1,889 @@
+{
+  "id": "E387",
+  "title": "I'll Eat Whatever",
+  "level": "newbie",
+  "date": "2019-12-24",
+  "synopsis": "Little Le is going to make some sandwiches for tomorrow. What kind of sandwich does Paul like?",
+  "audioUrl": "https://static.duchinese.net/documents/50387/082544649fc6e2994cc2bb516e2001817425367b.mp3?1576959340",
+  "series": null,
+  "fullText": {
+    "simplified": "你做什么我就吃什么\n\n小乐：你喜欢吃什么三明治？我要做几个明天吃。\n保罗：太好了！我要金枪鱼三明治。\n小乐：我们没有金枪鱼。\n保罗：那我要鸡蛋火腿三明治。\n小乐：鸡蛋有，火腿没有。\n保罗：算了，你做什么我就吃什么吧。\n",
+    "traditional": "你做什麼我就吃什麼\n\n小樂：你喜歡吃什麼三明治？我要做幾個明天吃。\n保羅：太好了！我要金槍魚三明治。\n小樂：我們沒有金槍魚。\n保羅：那我要雞蛋火腿三明治。\n小樂：雞蛋有，火腿沒有。\n保羅：算了，你做什麼我就吃什麼吧。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I’ll Eat Whatever You Make"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：你喜欢吃什么三明治？我要做几个明天吃。",
+      "traditional": "小樂：你喜歡吃什麼三明治？我要做幾個明天吃。",
+      "pinyin": "xiǎo lè nǐ xǐ huan chī shén me sān míng zhì wǒ yào zuò jǐ ge míng tiān chī",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What kind of sandwich do you like? I’m going to make a few sandwiches to eat tomorrow."
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：太好了！我要金枪鱼三明治。",
+      "traditional": "保羅：太好了！我要金槍魚三明治。",
+      "pinyin": "bǎo luó tài hǎo le wǒ yào jīn qiāng yú sān míng zhì",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Great! I want a tuna sandwich."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：我们没有金枪鱼。",
+      "traditional": "小樂：我們沒有金槍魚。",
+      "pinyin": "xiǎo lè wǒ men méi yǒu jīn qiāng yú",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: We don’t have tuna."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：那我要鸡蛋火腿三明治。",
+      "traditional": "保羅：那我要雞蛋火腿三明治。",
+      "pinyin": "bǎo luó nà wǒ yào jī dàn huǒ tuǐ sān míng zhì",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Then I want an egg and ham sandwich."
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：鸡蛋有，火腿没有。",
+      "traditional": "小樂：雞蛋有，火腿沒有。",
+      "pinyin": "xiǎo lè jī dàn yǒu huǒ tuǐ méi yǒu",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le:  We have eggs, but no ham."
+    },
+    {
+      "index": 12,
+      "simplified": "保罗：算了，你做什么我就吃什么吧。",
+      "traditional": "保羅：算了，你做什麼我就吃什麼吧。",
+      "pinyin": "bǎo luó suàn le nǐ zuò shén me wǒ jiù chī shén me ba",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Never mind,  I’ll eat whatever you make."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三明治",
+      "traditional": "三明治",
+      "pinyin": "sān míng zhì",
+      "meaning": "sandwich (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "金枪鱼",
+      "traditional": "金槍魚",
+      "pinyin": "jīn qiāng yú",
+      "meaning": "tuna",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "meaning": "(chicken) egg\nhen's egg",
+      "hsk": 2
+    },
+    {
+      "hanzi": "火腿",
+      "traditional": "火腿",
+      "pinyin": "huǒ tuǐ",
+      "meaning": "ham",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "算了",
+      "traditional": "算了",
+      "pinyin": "suàn le",
+      "meaning": "forget it\nlet it be",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "三明治",
+        "pinyin": "sān míng zhì",
+        "meaning": "sandwich (loanword)",
+        "tc_hanzi": "三明治"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "金枪鱼",
+        "pinyin": "jīn qiāng yú",
+        "meaning": "tuna",
+        "tc_hanzi": "金槍魚"
+      },
+      {
+        "hanzi": "三明治",
+        "pinyin": "sān míng zhì",
+        "meaning": "sandwich (loanword)",
+        "tc_hanzi": "三明治"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "金枪鱼",
+        "pinyin": "jīn qiāng yú",
+        "meaning": "tuna",
+        "tc_hanzi": "金槍魚"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hanzi": "火腿",
+        "pinyin": "huǒ tuǐ",
+        "meaning": "ham",
+        "tc_hanzi": "火腿"
+      },
+      {
+        "hanzi": "三明治",
+        "pinyin": "sān míng zhì",
+        "meaning": "sandwich (loanword)",
+        "tc_hanzi": "三明治"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "鸡蛋",
+        "pinyin": "jī dàn",
+        "meaning": "(chicken) egg\nhen's egg",
+        "tc_hanzi": "雞蛋"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "火腿",
+        "pinyin": "huǒ tuǐ",
+        "meaning": "ham",
+        "tc_hanzi": "火腿"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "meaning": "forget it\nlet it be",
+        "tc_hanzi": "算了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Le is going to make some sandwiches for tomorrow. What kind of sandwich does Paul like?",
+    "syllable_times": [
+      0.44,
+      0.7533333333333333,
+      1.0666666666666667,
+      1.84,
+      2.15,
+      2.6,
+      3.058021127638456,
+      3.3,
+      6.579197562961398,
+      6.579197562961398,
+      6.579197562961398,
+      6.87,
+      7.215,
+      7.56,
+      7.85,
+      8.14,
+      8.43,
+      8.68,
+      8.95,
+      10.33,
+      10.605,
+      10.88,
+      11.2,
+      11.485,
+      12.02,
+      12.325,
+      12.63,
+      14.823800306820997,
+      14.823800306820997,
+      14.823800306820997,
+      15.3,
+      15.664744620724322,
+      16.68,
+      17.07,
+      17.51,
+      17.886666666666667,
+      18.263333333333335,
+      18.67,
+      19.046666666666667,
+      19.423333333333336,
+      21.291760434917634,
+      21.291760434917634,
+      21.291760434917634,
+      21.55,
+      21.84,
+      22.119999999999997,
+      22.4,
+      22.67,
+      22.98,
+      25.088476731779007,
+      25.088476731779007,
+      25.088476731779007,
+      25.75,
+      26.15,
+      26.59,
+      26.97,
+      27.52,
+      27.82,
+      28.36,
+      28.726666666666667,
+      29.093333333333334,
+      31.215339645952035,
+      31.215339645952035,
+      31.215339645952035,
+      31.475,
+      31.74,
+      32.86,
+      33.11062166686695,
+      33.61,
+      33.96,
+      36.19956411490366,
+      36.19956411490366,
+      36.19956411490366,
+      36.720486473876576,
+      37.8,
+      38.01,
+      38.343333333333334,
+      38.67666666666666,
+      39.09,
+      39.45,
+      39.79,
+      40.1,
+      40.41,
+      40.72,
+      41.371104,
+      41.371104
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      25,
+      26,
+      37,
+      38,
+      44,
+      45,
+      54,
+      55,
+      63,
+      64,
+      77
+    ],
+    "sentence_translations": [
+      "I’ll Eat Whatever You Make",
+      "",
+      "Little Le: What kind of sandwich do you like? I’m going to make a few sandwiches to eat tomorrow.",
+      "",
+      "Paul: Great! I want a tuna sandwich.",
+      "",
+      "Little Le: We don’t have tuna.",
+      "",
+      "Paul: Then I want an egg and ham sandwich.",
+      "",
+      "Little Le:  We have eggs, but no ham.",
+      "",
+      "Paul: Never mind,  I’ll eat whatever you make.",
+      ""
+    ]
+  }
+}

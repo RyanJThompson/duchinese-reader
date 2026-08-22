@@ -1,0 +1,253 @@
+{
+  "id": "948",
+  "title": "My name is Anne",
+  "level": "newbie",
+  "date": "2019-06-19",
+  "synopsis": "Anne is talking to another visitor at the airport and asks for his name.",
+  "audioUrl": "https://static.duchinese.net/documents/948/4f8400c21e5d760cc8bfba4f6f1a15abbd883b64.mp3?1591186037",
+  "series": {
+    "title": "Newbie Course 1: Anne Arrives in China",
+    "chapter": 1,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我叫Anne\n\nAnne：你好！我叫Anne。你呢？\nLi：你好！我叫Li。",
+    "traditional": "我叫Anne\n\nAnne：你好！我叫Anne。你呢？\nLi：你好！我叫Li。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "My name is Anne"
+    },
+    {
+      "index": 2,
+      "simplified": "Anne：你好！我叫Anne。你呢？",
+      "traditional": "Anne：你好！我叫Anne。你呢？",
+      "pinyin": "nǐ hǎo wǒ jiào 1 nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Hello! My name is Anne. What about you?"
+    },
+    {
+      "index": 4,
+      "simplified": "Li：你好！我叫Li。",
+      "traditional": "Li：你好！我叫Li。",
+      "pinyin": "nǐ hǎo wǒ jiào 1",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Li: Hello! My name is Li."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "Anne",
+        "pinyin": "1",
+        "tc_hanzi": "Anne"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "Anne",
+        "pinyin": "1",
+        "tc_hanzi": "Anne"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "Li",
+        "pinyin": "1",
+        "tc_hanzi": "Li"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne is talking to another visitor at the airport and asks for his name.",
+    "syllable_times": [
+      0.33,
+      1.01,
+      2.77,
+      3.157596371882086,
+      4.47,
+      4.86,
+      5.54,
+      6.802721088435374,
+      7.14,
+      8.96,
+      9.24,
+      10.31,
+      10.58,
+      10.912698412698413,
+      11.459932
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      15,
+      16,
+      23
+    ],
+    "sentence_translations": [
+      "My name is Anne",
+      "",
+      "Anne: Hello! My name is Anne. What about you?",
+      "",
+      "Li: Hello! My name is Li.",
+      ""
+    ]
+  }
+}

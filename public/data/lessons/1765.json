@@ -1,0 +1,2137 @@
+{
+  "id": "1765",
+  "title": "A Wrong Number",
+  "level": "newbie",
+  "date": "2022-07-11",
+  "synopsis": "null",
+  "audioUrl": "https://static.duchinese.net/documents/1765/b065e6cc21e15d91364d2ff9418e1067e0a306ff.mp3?1657486023",
+  "series": {
+    "title": "A Wrong Number",
+    "chapter": 0,
+    "totalChapters": 16
+  },
+  "fullText": {
+    "simplified": "一、电话\n\n    小东今年八岁了。他的爸爸是一个医生，他的妈妈是一个老师。小东的爸爸很忙，小东的妈妈也很忙。小东常常一个人看书，一个人吃饭，一个人看电视，一个人睡觉。\n    今天是星期三，小东在家等妈妈。晚上八点了，妈妈没回家。小东的妈妈在学校工作，学生们都叫她高老师。小东打妈妈的手机，但是没人接。小东想了想，妈妈学校有一个电话。电话是0317652？653？\n    0317652，小东打电话了。\n    “喂？你好。”一个老人说。\n    “你……你好。高老师在吗？”小东说。\n    “高老师？这里没有高老师。你打错了。”老人说。\n    “对不起……”小东说。\n    “没关系，再……”老人想和小东说再见了。",
+    "traditional": "一、電話\n\n    小東今年八歲了。他的爸爸是一個醫生，他的媽媽是一個老師。小東的爸爸很忙，小東的媽媽也很忙。小東常常一個人看書，一個人吃飯，一個人看電視，一個人睡覺。\n    今天是星期三，小東在家等媽媽。晚上八點了，媽媽沒回家。小東的媽媽在學校工作，學生們都叫她高老師。小東打媽媽的手機，但是沒人接。小東想了想，媽媽學校有一個電話。電話是0317652？653？\n    0317652，小東打電話了。\n    “喂？你好。”一個老人說。\n    “你……你好。高老師在嗎？”小東說。\n    “高老師？這裡沒有高老師。你打錯了。”老人說。\n    “對不起……”小東說。\n    “沒關係，再……”老人想和小東說再見了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 2,
+      "simplified": "小东今年八岁了。他的爸爸是一个医生，他的妈妈是一个老师。",
+      "traditional": "小東今年八歲了。他的爸爸是一個醫生，他的媽媽是一個老師。",
+      "pinyin": "xiǎo dōng jīn nián bā suì le tā de bà ba shì yí ge yī shēng tā de mā ma shì yí ge lǎo shī",
+      "english": "Little Dong is 8 years old. His dad is a doctor, and his mom is a teacher."
+    },
+    {
+      "index": 3,
+      "simplified": "小东的爸爸很忙，小东的妈妈也很忙。",
+      "traditional": "小東的爸爸很忙，小東的媽媽也很忙。",
+      "pinyin": "xiǎo dōng de bà ba hěn máng xiǎo dōng de mā ma yě hěn máng",
+      "english": "Little Dong’s dad is very busy. Little Dong’s mom is also very busy."
+    },
+    {
+      "index": 4,
+      "simplified": "小东常常一个人看书，一个人吃饭，一个人看电视，一个人睡觉。",
+      "traditional": "小東常常一個人看書，一個人吃飯，一個人看電視，一個人睡覺。",
+      "pinyin": "xiǎo dōng cháng cháng yí ge rén kàn shū yí ge rén chī fàn yí ge rén kàn diàn shì yí ge rén shuì jiào",
+      "english": "Little Dong often reads alone, eats alone, watches TV alone, and sleeps alone."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "今天是星期三，小东在家等妈妈。晚上八点了，妈妈没回家。",
+      "traditional": "今天是星期三，小東在家等媽媽。晚上八點了，媽媽沒回家。",
+      "pinyin": "jīn tiān shì xīng qī sān xiǎo dōng zài jiā děng mā ma wǎn shang bā diǎn le mā ma méi huí jiā",
+      "english": "Today is Wednesday. Little Dong is at home waiting for his mom. At 8 pm, his mom still hadn’t returned home."
+    },
+    {
+      "index": 7,
+      "simplified": "小东的妈妈在学校工作，学生们都叫她高老师。",
+      "traditional": "小東的媽媽在學校工作，學生們都叫她高老師。",
+      "pinyin": "xiǎo dōng de mā ma zài xué xiào gōng zuò xué sheng men dōu jiào tā gāo lǎo shī",
+      "english": "Little Dong’s mom works at a school. All the students call her Teacher Gao."
+    },
+    {
+      "index": 8,
+      "simplified": "小东打妈妈的手机，但是没人接。小东想了想，妈妈学校有一个电话。",
+      "traditional": "小東打媽媽的手機，但是沒人接。小東想了想，媽媽學校有一個電話。",
+      "pinyin": "xiǎo dōng dǎ mā ma de shǒu jī dàn shì méi rén jiē xiǎo dōng xiǎng le xiǎng mā ma xué xiào yǒu yí ge diàn huà",
+      "english": "Little Dong called his mom’s cell phone, but nobody answered. Little Dong thought, Mom’s school has a phone."
+    },
+    {
+      "index": 9,
+      "simplified": "电话是0317652？653？",
+      "traditional": "電話是0317652？653？",
+      "pinyin": "diàn huà shì 7 3",
+      "english": "The number is 0317652? 653?"
+    },
+    {
+      "index": 10,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "0317652，小东打电话了。",
+      "traditional": "0317652，小東打電話了。",
+      "pinyin": "7 xiǎo dōng dǎ diàn huà le",
+      "english": "0317652, Little Dong dialed."
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "“喂？你好。”一个老人说。",
+      "traditional": "“喂？你好。”一個老人說。",
+      "pinyin": "wéi nǐ hǎo yí ge lǎo rén shuō",
+      "english": "“Hello? Hello,” an old person said."
+    },
+    {
+      "index": 14,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "“你……你好。高老师在吗？”小东说。",
+      "traditional": "“你……你好。高老師在嗎？”小東說。",
+      "pinyin": "nǐ nǐ hǎo gāo lǎo shī zài ma xiǎo dōng shuō",
+      "english": "“H … hello. Is Teacher Gao there?” Little Dong said."
+    },
+    {
+      "index": 16,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "“高老师？这里没有高老师。你打错了。”老人说。",
+      "traditional": "“高老師？這裡沒有高老師。你打錯了。”老人說。",
+      "pinyin": "gāo lǎo shī zhè lǐ méi yǒu gāo lǎo shī nǐ dǎ cuò le lǎo rén shuō",
+      "english": "“Teacher Gao? There is no Teacher Gao here. You called the wrong number,” the old person said."
+    },
+    {
+      "index": 18,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "“对不起……”小东说。",
+      "traditional": "“對不起……”小東說。",
+      "pinyin": "duì bu qǐ xiǎo dōng shuō",
+      "english": "“Sorry …” Little Dong said."
+    },
+    {
+      "index": 20,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "“没关系，再……”老人想和小东说再见了。",
+      "traditional": "“沒關係，再……”老人想和小東說再見了。",
+      "pinyin": "méi guān xi zài lǎo rén xiǎng hé xiǎo dōng shuō zài jiàn le",
+      "english": "“No problem, good …” the old person wanted to say goodbye to Little Dong."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小东",
+      "traditional": "小東",
+      "pinyin": "xiǎo dōng",
+      "meaning": "Little Dong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "meaning": "eight",
+      "hsk": 1
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "meaning": "doctor",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "忙",
+      "traditional": "忙",
+      "pinyin": "máng",
+      "meaning": "busy",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "常常",
+      "traditional": "常常",
+      "pinyin": "cháng cháng",
+      "meaning": "frequently\noften",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看书",
+      "traditional": "看書",
+      "pinyin": "kàn shū",
+      "meaning": "to read\nto study",
+      "hsk": null
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电视",
+      "traditional": "電視",
+      "pinyin": "diàn shì",
+      "meaning": "television\nTV",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期三",
+      "traditional": "星期三",
+      "pinyin": "xīng qī sān",
+      "meaning": "Wednesday",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "meaning": "school",
+      "hsk": 1
+    },
+    {
+      "hanzi": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "to work",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "meaning": "student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to name\nto call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "meaning": "surname Gao",
+      "hsk": 2
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to call",
+      "hsk": null
+    },
+    {
+      "hanzi": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "meaning": "mobile phone\ncell phone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "接",
+      "traditional": "接",
+      "pinyin": "jiē",
+      "meaning": "to receive\nto answer (the phone)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "老人",
+      "traditional": "老人",
+      "pinyin": "lǎo rén",
+      "meaning": "old man or woman\nthe elderly",
+      "hsk": null
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "meaning": "wrong\nerroneous\nincorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "meaning": "I'm sorry",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "meaning": "it doesn't matter\nnever mind",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor",
+        "tc_hanzi": "醫生"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "tc_hanzi": "忙"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy",
+        "tc_hanzi": "忙"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "常常",
+        "pinyin": "cháng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "常常"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "看书",
+        "pinyin": "kàn shū",
+        "meaning": "to read\nto study",
+        "tc_hanzi": "看書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电视",
+        "pinyin": "diàn shì",
+        "meaning": "television\nTV",
+        "tc_hanzi": "電視"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "星期三",
+        "pinyin": "xīng qī sān",
+        "meaning": "Wednesday",
+        "tc_hanzi": "星期三"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight",
+        "tc_hanzi": "八"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "to work",
+        "tc_hanzi": "工作"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to name\nto call",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "surname Gao",
+        "tc_hanzi": "高"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to call",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手机",
+        "pinyin": "shǒu jī",
+        "meaning": "mobile phone\ncell phone",
+        "tc_hanzi": "手機"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school",
+        "tc_hanzi": "學校"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "0317652",
+        "pinyin": "7",
+        "tc_hanzi": "0317652"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "653",
+        "pinyin": "3",
+        "tc_hanzi": "653"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "0317652",
+        "pinyin": "7",
+        "tc_hanzi": "0317652"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "老人",
+        "pinyin": "lǎo rén",
+        "meaning": "old man or woman\nthe elderly",
+        "tc_hanzi": "老人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "surname Gao",
+        "tc_hanzi": "高"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(to be) here",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "surname Gao",
+        "tc_hanzi": "高"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "surname Gao",
+        "tc_hanzi": "高"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to call",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong\nerroneous\nincorrect",
+        "tc_hanzi": "錯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "老人",
+        "pinyin": "lǎo rén",
+        "meaning": "old man or woman\nthe elderly",
+        "tc_hanzi": "老人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "I'm sorry",
+        "tc_hanzi": "對不起"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter\nnever mind",
+        "tc_hanzi": "沒關係"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hanzi": "……”",
+        "tc_hanzi": "……”"
+      },
+      {
+        "hanzi": "老人",
+        "pinyin": "lǎo rén",
+        "meaning": "old man or woman\nthe elderly",
+        "tc_hanzi": "老人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      1.95,
+      2.56,
+      5.4,
+      5.946712018140589,
+      6.87,
+      7.390000000000001,
+      8.26,
+      8.905895691609977,
+      9.32,
+      11.46,
+      11.972789115646258,
+      12.28,
+      12.840136054421768,
+      13.88,
+      14.614512471655328,
+      14.971655328798185,
+      15.75,
+      16.258503401360542,
+      18.54,
+      19.13,
+      19.382086167800452,
+      19.909297052154194,
+      21.04,
+      21.700680272108844,
+      22.029478458049887,
+      22.88,
+      23.497732426303855,
+      26.36,
+      26.972789115646258,
+      27.35827664399093,
+      27.54,
+      28,
+      28.65,
+      29.268707482993197,
+      30.89,
+      31.53061224489796,
+      31.967120181405896,
+      32.16553287981859,
+      32.73242630385487,
+      33.82,
+      34.467120181405896,
+      35.034013605442176,
+      37.31,
+      37.862811791383216,
+      39.03,
+      39.58049886621315,
+      40.57,
+      41.13945578231292,
+      41.47959183673469,
+      42.05,
+      42.64,
+      44.08,
+      44.614512471655324,
+      44.93764172335601,
+      45.83,
+      46.63832199546485,
+      48.29,
+      48.86054421768707,
+      49.223356009070294,
+      50.4,
+      51.04,
+      51.47,
+      53.13,
+      53.64512471655328,
+      54.0249433106576,
+      55.11,
+      55.79,
+      58.36,
+      58.81519274376417,
+      60.23,
+      61.01,
+      61.666666666666664,
+      62.105000000000004,
+      64.1,
+      64.67687074829932,
+      65.64,
+      66.16,
+      67.07,
+      67.46,
+      68.08956916099773,
+      69.93,
+      70.49319727891157,
+      71.4,
+      71.88208616780045,
+      72.2562358276644,
+      73.53,
+      73.93,
+      74.80725623582767,
+      75.2891156462585,
+      75.8843537414966,
+      78.7,
+      79.45578231292517,
+      79.81859410430839,
+      80.01133786848072,
+      80.42517006802721,
+      81.36,
+      82.2845804988662,
+      83.05555555555556,
+      83.69047619047619,
+      84.1609977324263,
+      86.08,
+      86.6609977324263,
+      86.98666666666666,
+      88.05,
+      88.45804988662131,
+      88.87755102040816,
+      90.01,
+      90.52154195011337,
+      91.17913832199547,
+      93.49,
+      94.01927437641723,
+      94.94,
+      95.35147392290249,
+      95.74263038548753,
+      96.04875283446712,
+      96.19614512471655,
+      96.67,
+      98.22,
+      98.66499999999999,
+      99.48,
+      100.18140589569161,
+      100.58956916099773,
+      102.65,
+      103.19160997732426,
+      104.21768707482993,
+      104.93764172335601,
+      105.17006802721087,
+      106.72335600907029,
+      107.09750566893423,
+      107.46031746031746,
+      107.94784580498866,
+      109.06462585034014,
+      109.50113378684807,
+      109.8639455782313,
+      110.5498866213152,
+      111.07142857142857,
+      114.8,
+      115.36848072562358,
+      115.80498866213152,
+      116.94,
+      117.5,
+      117.93,
+      118.3843537414966,
+      119.59,
+      120.21,
+      120.77097505668934,
+      122.02,
+      122.79,
+      123.20294784580499,
+      125.43083900226758,
+      125.91836734693877,
+      126.42290249433105,
+      126.78571428571428,
+      127.74,
+      128.32,
+      128.81519274376416,
+      130.4,
+      130.93537414965985,
+      131.98,
+      132.52267573696145,
+      132.96666666666667,
+      133.46,
+      136.76,
+      138.55,
+      139.04761904761904,
+      141.06009070294783,
+      141.33219954648524,
+      141.87,
+      142.3356009070295,
+      142.74943310657596,
+      144.63,
+      145.82766439909295,
+      146.14512471655328,
+      147.58,
+      147.98185941043084,
+      148.4580498866213,
+      149.12131519274377,
+      149.54648526077096,
+      150.87,
+      151.43990929705214,
+      151.76303854875283,
+      153.55,
+      154.07596371882084,
+      154.4501133786848,
+      156.43990929705214,
+      156.6893424036281,
+      157.6077097505669,
+      158.17460317460316,
+      158.70748299319726,
+      159.07,
+      159.4501133786848,
+      160.92403628117913,
+      162.19,
+      162.5907029478458,
+      163.15759637188208,
+      164.95464852607708,
+      165.30045351473922,
+      165.67460317460316,
+      167.85714285714286,
+      168.17460317460316,
+      168.3560090702948,
+      170.45,
+      171.12244897959184,
+      171.42290249433105,
+      173.6734693877551,
+      174.28571428571428,
+      174.71088435374148,
+      176.7687074829932,
+      178.5657596371882,
+      178.81519274376416,
+      179.53,
+      180.08503401360542,
+      180.34580498866214,
+      180.70294784580497,
+      181.82,
+      182.46598639455783,
+      183.0045351473923,
+      183.50907029478458,
+      184.7
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      28,
+      41,
+      64,
+      66,
+      85,
+      100,
+      123,
+      129,
+      131,
+      137,
+      139,
+      149,
+      151,
+      164,
+      166,
+      184,
+      186,
+      192,
+      194
+    ],
+    "sentence_translations": [
+      "(1) Phone",
+      "",
+      "Little Dong is 8 years old. His dad is a doctor, and his mom is a teacher.",
+      "Little Dong’s dad is very busy. Little Dong’s mom is also very busy.",
+      "Little Dong often reads alone, eats alone, watches TV alone, and sleeps alone.",
+      "",
+      "Today is Wednesday. Little Dong is at home waiting for his mom. At 8 pm, his mom still hadn’t returned home.",
+      "Little Dong’s mom works at a school. All the students call her Teacher Gao.",
+      "Little Dong called his mom’s cell phone, but nobody answered. Little Dong thought, Mom’s school has a phone.",
+      "The number is 0317652? 653?",
+      "",
+      "0317652, Little Dong dialed.",
+      "",
+      "“Hello? Hello,” an old person said.",
+      "",
+      "“H … hello. Is Teacher Gao there?” Little Dong said.",
+      "",
+      "“Teacher Gao? There is no Teacher Gao here. You called the wrong number,” the old person said.",
+      "",
+      "“Sorry …” Little Dong said.",
+      "",
+      "“No problem, good …” the old person wanted to say goodbye to Little Dong."
+    ]
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "id": "846",
+  "title": "Buying Dumplings",
+  "level": "elementary",
+  "date": "2020-03-14",
+  "synopsis": "Ben is buying steamed dumplings. How many should he get?",
+  "audioUrl": "https://static.duchinese.net/documents/846/407b9e2ce34817b3b3a33a4bfe75c9b4b3f2661c.mp3?1583763688",
+  "series": null,
+  "fullText": {
+    "simplified": "我要一笼\n\n本：我想要15个小笼包。\n店员：不好意思。我们的小笼包是一笼一笼卖的。不能卖15个。\n本：一笼小笼包有几个？\n店员：10个。你可以要一笼，也可以要两笼。\n本：我要一笼。再给我一个肉包和一杯豆浆。\n店员：好的。",
+    "traditional": "我要一籠\n\n本：我想要15個小籠包。\n店員：不好意思。我們的小籠包是一籠一籠賣的。不能賣15個。\n本：一籠小籠包有幾個？\n店員：10個。你可以要一籠，也可以要兩籠。\n本：我要一籠。再給我一個肉包和一杯豆漿。\n店員：好的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I want one steamer basket"
+    },
+    {
+      "index": 2,
+      "simplified": "本：我想要15个小笼包。",
+      "traditional": "本：我想要15個小籠包。",
+      "pinyin": "běn wǒ xiǎng yào 2 ge xiǎo lóng bāo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I want 15 steamed dumplings."
+    },
+    {
+      "index": 4,
+      "simplified": "店员：不好意思。我们的小笼包是一笼一笼卖的。不能卖15个。",
+      "traditional": "店員：不好意思。我們的小籠包是一籠一籠賣的。不能賣15個。",
+      "pinyin": "diàn yuán bù hǎo yì si wǒ men de xiǎo lóng bāo shì yì lóng yì lóng mài de bù néng mài 2 ge",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: I’m sorry. Our dumplings are sold one steamer basket at a time. We can’t sell 15 steamed dumplings."
+    },
+    {
+      "index": 6,
+      "simplified": "本：一笼小笼包有几个？",
+      "traditional": "本：一籠小籠包有幾個？",
+      "pinyin": "běn yì lóng xiǎo lóng bāo yǒu jǐ ge",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How many steamed dumplings are in a steamer basket?"
+    },
+    {
+      "index": 8,
+      "simplified": "店员：10个。你可以要一笼，也可以要两笼。",
+      "traditional": "店員：10個。你可以要一籠，也可以要兩籠。",
+      "pinyin": "diàn yuán 1 ge nǐ kě yǐ yào yì lóng yě kě yǐ yào liǎng lóng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 10. You can ask for one basket or you can also ask for two baskets."
+    },
+    {
+      "index": 10,
+      "simplified": "本：我要一笼。再给我一个肉包和一杯豆浆。",
+      "traditional": "本：我要一籠。再給我一個肉包和一杯豆漿。",
+      "pinyin": "běn wǒ yào yì lóng zài gěi wǒ yí ge ròu bāo hé yì bēi dòu jiāng",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I want one basket. Also give me a steamed meat bun and a glass of soy milk."
+    },
+    {
+      "index": 12,
+      "simplified": "店员：好的。",
+      "traditional": "店員：好的。",
+      "pinyin": "diàn yuán hǎo de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Shop assistant: OK."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "笼",
+      "traditional": "籠",
+      "pinyin": "lóng",
+      "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想要",
+      "traditional": "想要",
+      "pinyin": "xiǎng yào",
+      "meaning": "to want\nto want to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小笼包",
+      "traditional": "小籠包",
+      "pinyin": "xiǎo lóng bāo",
+      "meaning": "steamed dumpling",
+      "hsk": null
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "卖",
+      "traditional": "賣",
+      "pinyin": "mài",
+      "meaning": "to sell",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不能",
+      "traditional": "不能",
+      "pinyin": "bù néng",
+      "meaning": "cannot\nmust not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "肉包",
+      "traditional": "肉包",
+      "pinyin": "ròu bāo",
+      "meaning": "meat bun",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "豆浆",
+      "traditional": "豆漿",
+      "pinyin": "dòu jiāng",
+      "meaning": "soy milk",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "想要",
+        "pinyin": "xiǎng yào",
+        "meaning": "to want\nto want to",
+        "tc_hanzi": "想要"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "小笼包",
+        "pinyin": "xiǎo lóng bāo",
+        "meaning": "steamed dumpling",
+        "tc_hanzi": "小籠包"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "小笼包",
+        "pinyin": "xiǎo lóng bāo",
+        "meaning": "steamed dumpling",
+        "tc_hanzi": "小籠包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "g": "de-positive",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不能",
+        "pinyin": "bù néng",
+        "meaning": "cannot\nmust not",
+        "tc_hanzi": "不能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "卖",
+        "pinyin": "mài",
+        "meaning": "to sell",
+        "tc_hanzi": "賣"
+      },
+      {
+        "hanzi": "15",
+        "pinyin": "2",
+        "tc_hanzi": "15"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hanzi": "小笼包",
+        "pinyin": "xiǎo lóng bāo",
+        "meaning": "steamed dumpling",
+        "tc_hanzi": "小籠包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ji",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "1",
+        "tc_hanzi": "10"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "笼",
+        "pinyin": "lóng",
+        "meaning": "enclosing frame made of bamboo, wire etc\nsteamer basket\ncage",
+        "tc_hanzi": "籠"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "肉包",
+        "pinyin": "ròu bāo",
+        "meaning": "meat bun",
+        "tc_hanzi": "肉包"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hanzi": "豆浆",
+        "pinyin": "dòu jiāng",
+        "meaning": "soy milk",
+        "tc_hanzi": "豆漿"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben is buying steamed dumplings. How many should he get?",
+    "syllable_times": [
+      0.49,
+      0.9,
+      1.18,
+      3.2850356505214053,
+      3.2850356505214053,
+      3.607450728531411,
+      3.855,
+      4.28,
+      4.61,
+      4.94,
+      5.21,
+      5.58,
+      5.84,
+      7.916008021696453,
+      7.916008021696453,
+      7.916008021696453,
+      8.184406609863936,
+      8.363959371834323,
+      8.73,
+      9.37,
+      9.559999999999999,
+      9.75,
+      9.94,
+      10.19,
+      10.43,
+      10.94,
+      11.65,
+      12.05,
+      12.51,
+      12.72,
+      12.94,
+      13.31,
+      14.130234038470277,
+      14.435,
+      14.693175373137555,
+      15.13,
+      15.465,
+      15.8,
+      18.33659114179194,
+      18.33659114179194,
+      18.58,
+      18.81,
+      19.08,
+      19.29,
+      19.98,
+      20.25,
+      20.61,
+      22.554530123449222,
+      22.554530123449222,
+      22.554530123449222,
+      23.005,
+      23.8,
+      24.19,
+      24.42,
+      24.65,
+      25.05,
+      25.415,
+      26.14,
+      26.363333333333333,
+      26.586666666666666,
+      26.81,
+      27.44,
+      27.83,
+      29.262724036780746,
+      29.262724036780746,
+      29.59,
+      29.88,
+      30.12,
+      31.19,
+      31.53,
+      31.765,
+      32,
+      32.165,
+      32.33,
+      32.6,
+      33.1,
+      33.375,
+      33.65,
+      33.86,
+      34.17,
+      35.45511229350214,
+      35.45511229350214,
+      35.45511229350214,
+      35.74,
+      36.345873,
+      36.345873
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      14,
+      15,
+      35,
+      36,
+      45,
+      46,
+      63,
+      64,
+      82,
+      83,
+      87
+    ],
+    "sentence_translations": [
+      "I want one steamer basket",
+      "",
+      "Ben: I want 15 steamed dumplings.",
+      "",
+      "Shop assistant: I’m sorry. Our dumplings are sold one steamer basket at a time. We can’t sell 15 steamed dumplings.",
+      "",
+      "Ben: How many steamed dumplings are in a steamer basket?",
+      "",
+      "Shop assistant: 10. You can ask for one basket or you can also ask for two baskets.",
+      "",
+      "Ben: I want one basket. Also give me a steamed meat bun and a glass of soy milk.",
+      "",
+      "Shop assistant: OK.",
+      ""
+    ]
+  }
+}

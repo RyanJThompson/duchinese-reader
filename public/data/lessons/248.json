@@ -1,0 +1,909 @@
+{
+  "id": "248",
+  "title": "How Much Is This?",
+  "level": "newbie",
+  "date": "2017-02-09",
+  "synopsis": "Ben asks a shop assistant how much the fruit costs.",
+  "audioUrl": "https://static.duchinese.net/documents/340/edfbbc942e27fc68f4a29ba7b405cf26001dbd13.mp3?1553269284",
+  "series": {
+    "title": "Ben’s life in China 1: Meeting Lili",
+    "chapter": 28,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "这个多少钱？\n\n本：这个苹果多少钱？\n店员：3块5。\n本：那个呢？\n店员：5块。\n本：这个香蕉多少钱一斤？\n店员：2块2。\n本：那个香蕉呢？\n店员：3块。你买不买呀？\n本：不买。我在学中文。",
+    "traditional": "這個多少錢？\n\n本：這個蘋果多少錢？\n店員：3塊5。\n本：那個呢？\n店員：5塊。\n本：這個香蕉多少錢一斤？\n店員：2塊2。\n本：那個香蕉呢？\n店員：3塊。你買不買呀？\n本：不買。我在學中文。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "How Much Is This?"
+    },
+    {
+      "index": 2,
+      "simplified": "本：这个苹果多少钱？",
+      "traditional": "本：這個蘋果多少錢？",
+      "pinyin": "běn zhè ge píng guǒ duō shao qián",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How much is this apple?"
+    },
+    {
+      "index": 4,
+      "simplified": "店员：3块5。",
+      "traditional": "店員：3塊5。",
+      "pinyin": "diàn yuán sān kuài wǔ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 3.50 yuan."
+    },
+    {
+      "index": 6,
+      "simplified": "本：那个呢？",
+      "traditional": "本：那個呢？",
+      "pinyin": "běn nà ge ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: And that one?"
+    },
+    {
+      "index": 8,
+      "simplified": "店员：5块。",
+      "traditional": "店員：5塊。",
+      "pinyin": "diàn yuán wǔ kuài",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 5 yuan."
+    },
+    {
+      "index": 10,
+      "simplified": "本：这个香蕉多少钱一斤？",
+      "traditional": "本：這個香蕉多少錢一斤？",
+      "pinyin": "běn zhè ge xiāng jiāo duō shao qián yì jīn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: How much are these bananas per half kilo?"
+    },
+    {
+      "index": 12,
+      "simplified": "店员：2块2。",
+      "traditional": "店員：2塊2。",
+      "pinyin": "diàn yuán liǎng kuài èr",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 2.2 yuan."
+    },
+    {
+      "index": 14,
+      "simplified": "本：那个香蕉呢？",
+      "traditional": "本：那個香蕉呢？",
+      "pinyin": "běn nà ge xiāng jiāo ne",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: And those bananas?"
+    },
+    {
+      "index": 16,
+      "simplified": "店员：3块。你买不买呀？",
+      "traditional": "店員：3塊。你買不買呀？",
+      "pinyin": "diàn yuán sān kuài nǐ mǎi bù mǎi ya",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: 3 yuan. Are you buying or not?"
+    },
+    {
+      "index": 18,
+      "simplified": "本：不买。我在学中文。",
+      "traditional": "本：不買。我在學中文。",
+      "pinyin": "běn bù mǎi wǒ zài xué zhōng wén",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: I'm not buying, I'm practicing Chinese."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese\n(colloquially also pronounced zhèi)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "meaning": "how much\nhow many",
+      "hsk": 1
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "meaning": "apple",
+      "hsk": 1
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "meaning": "colloquial word for yuan or other unit of currency",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose\n(colloquially also pronounced nèi)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "香蕉",
+      "traditional": "香蕉",
+      "pinyin": "xiāng jiāo",
+      "meaning": "banana",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "斤",
+      "traditional": "斤",
+      "pinyin": "jīn",
+      "meaning": "weight equal to 0.5 kg",
+      "hsk": 3
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "meaning": "to study\nto learn",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中文",
+      "traditional": "中文",
+      "pinyin": "zhōng wén",
+      "meaning": "Chinese\nChinese written language",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese\n(colloquially also pronounced zhèi)",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese\n(colloquially also pronounced zhèi)",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple",
+        "tc_hanzi": "蘋果"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose\n(colloquially also pronounced nèi)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "wǔ",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese\n(colloquially also pronounced zhèi)",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "香蕉",
+        "pinyin": "xiāng jiāo",
+        "meaning": "banana",
+        "tc_hanzi": "香蕉"
+      },
+      {
+        "g": "duoshao",
+        "hsk": 1,
+        "hanzi": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much\nhow many",
+        "tc_hanzi": "多少"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "斤",
+        "pinyin": "jīn",
+        "meaning": "weight equal to 0.5 kg",
+        "tc_hanzi": "斤"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "liǎng",
+        "tc_hanzi": "2"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "èr",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose\n(colloquially also pronounced nèi)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "香蕉",
+        "pinyin": "xiāng jiāo",
+        "meaning": "banana",
+        "tc_hanzi": "香蕉"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "sān",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "colloquial word for yuan or other unit of currency",
+        "tc_hanzi": "塊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学",
+        "pinyin": "xué",
+        "meaning": "to study\nto learn",
+        "tc_hanzi": "學"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben asks a shop assistant how much the fruit costs.",
+    "syllable_times": [
+      0.41151644400306303,
+      0.97,
+      1.29,
+      1.64,
+      3.7787740864688946,
+      3.7787740864688946,
+      4.14,
+      4.3,
+      4.734999999999999,
+      5.41,
+      5.705,
+      6,
+      7.844485102912823,
+      7.844485102912823,
+      7.844485102912823,
+      8.31,
+      8.83,
+      11.010972735848876,
+      11.010972735848876,
+      11.47,
+      11.68,
+      13.271216875516517,
+      13.271216875516517,
+      13.271216875516517,
+      13.76,
+      15.683220744724942,
+      15.683220744724942,
+      16.083333333333332,
+      16.25,
+      16.630000000000003,
+      17.31,
+      17.595,
+      17.88,
+      18.13,
+      18.445,
+      20.274158954175533,
+      20.274158954175533,
+      20.274158954175533,
+      20.75,
+      21.3,
+      24.146519380914405,
+      24.146519380914405,
+      24.55,
+      24.82,
+      25.17,
+      25.52,
+      27.65188038873147,
+      27.65188038873147,
+      27.65188038873147,
+      28.3,
+      30.25,
+      30.624322945899593,
+      31.09,
+      31.272746227561136,
+      31.6,
+      34.06829401108345,
+      34.06829401108345,
+      34.435,
+      35.4,
+      35.69,
+      36.099999999999994,
+      36.51,
+      36.845,
+      37.548957,
+      37.548957
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      15,
+      16,
+      22,
+      23,
+      29,
+      30,
+      35,
+      36,
+      46,
+      47,
+      53,
+      54,
+      61,
+      62,
+      73,
+      74,
+      84
+    ],
+    "sentence_translations": [
+      "How Much Is This?",
+      "",
+      "Ben: How much is this apple?",
+      "",
+      "Shop assistant: 3.50 yuan.",
+      "",
+      "Ben: And that one?",
+      "",
+      "Shop assistant: 5 yuan.",
+      "",
+      "Ben: How much are these bananas per half kilo?",
+      "",
+      "Shop assistant: 2.2 yuan.",
+      "",
+      "Ben: And those bananas?",
+      "",
+      "Shop assistant: 3 yuan. Are you buying or not?",
+      "",
+      "Ben: I'm not buying, I'm practicing Chinese.",
+      ""
+    ]
+  }
+}

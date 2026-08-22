@@ -1,0 +1,3232 @@
+{
+  "id": "E063",
+  "title": "Something You Didn't Know About Pandas",
+  "level": "master",
+  "date": "2016-11-13",
+  "synopsis": "Pandas are the symbol of China and are not only cute, they can also do Kong Fu.",
+  "audioUrl": "https://static.duchinese.net/documents/270/e67504d4f906e84956d68b2b3f7bd8c81fc54d50.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "你所不知道的大熊猫\n\n    大熊猫是中国的国宝，也是全世界人民都喜爱的动物。一直以来，大家都用“可爱”“萌”等词来形容大熊猫。还有很多人叫它们“滚滚”，因为它们的身子圆圆的，还喜欢打滚。 \n    然而，最近网上传播的一段视频让大家意识到，大熊猫很可爱，但是也有一定的危险性。视频中一名男子翻越围栏跳进了动物园的熊猫馆，还用手戳正在睡觉的大熊猫。这只熊猫醒来后紧紧抱住了他的大腿，把他扑倒在地。一人一熊扭打了五分钟，男子终于从熊掌中挣脱出来，赶紧逃离现场。幸好，男子和大熊猫都没有受伤。\n    虽然大熊猫以竹子为主食，但仍然属于食肉目动物。大熊猫的牙齿和爪子都非常锋利，跑起来速度也比人类快得多。野生大熊猫有时会捕食老鼠或者鸟，偶尔也会有熊猫偷吃山羊的新闻。\n    动物园里的熊猫一般不会攻击自己的饲养员，但是如果有陌生人闯入它们的领地，让它们觉得不安全，它们也会对侵入者发起攻击。",
+    "traditional": "你所不知道的大熊貓\n\n    大熊貓是中國的國寶，也是全世界人民都喜愛的動物。一直以來，大家都用“可愛”“萌”等詞來形容大熊貓。還有很多人叫它們“滾滾”，因為它們的身子圓圓的，還喜歡打滾。 \n    然而，最近網上傳播的一段視頻讓大家意識到，大熊貓很可愛，但是也有一定的危險性。視頻中一名男子翻越圍欄跳進了動物園的熊貓館，還用手戳正在睡覺的大熊貓。這隻熊貓醒來後緊緊抱住了他的大腿，把他撲倒在地。一人一熊扭打了五分鐘，男子終於從熊掌中掙脫出來，趕緊逃離現場。幸好，男子和大熊貓都沒有受傷。\n    雖然大熊貓以竹子為主食，但仍然屬於食肉目動物。大熊貓的牙齒和爪子都非常鋒利，跑起來速度也比人類快得多。野生大熊貓有時會捕食老鼠或者鳥，偶爾也會有熊貓偷吃山羊的新聞。\n    動物園裡的熊貓一般不會攻擊自己的飼養員，但是如果有陌生人闖入它們的領地，讓它們覺得不安全，它們也會對侵入者發起攻擊。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Something you didn’t know about pandas"
+    },
+    {
+      "index": 2,
+      "simplified": "大熊猫是中国的国宝，也是全世界人民都喜爱的动物。",
+      "traditional": "大熊貓是中國的國寶，也是全世界人民都喜愛的動物。",
+      "pinyin": "dà xióng māo shì zhōng guó de guó bǎo yě shì quán shì jiè rén mín dōu xǐ ài de dòng wù",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "一直以来，大家都用“可爱”“萌”等词来形容大熊猫。",
+      "traditional": "一直以來，大家都用“可愛”“萌”等詞來形容大熊貓。",
+      "pinyin": "yì zhí yǐ lái dà jiā dōu yòng kě ài méng děng cí lái xíng róng dà xióng māo",
+      "english": "The giant panda is the national treasure of China and loved by people all over the world."
+    },
+    {
+      "index": 4,
+      "simplified": "还有很多人叫它们“滚滚”，因为它们的身子圆圆的，还喜欢打滚。",
+      "traditional": "還有很多人叫它們“滾滾”，因為它們的身子圓圓的，還喜歡打滾。",
+      "pinyin": "hái yǒu hěn duō rén jiào tā men gǔn gǔn yīn wèi tā men de shēn zi yuán yuán de hái xǐ huan dǎ gǔn",
+      "english": "People have long been using the word “cute” to describe the giant panda."
+    },
+    {
+      "index": 5,
+      "simplified": " \n    ",
+      "traditional": " \n    ",
+      "pinyin": "",
+      "english": "Many people call pandas “Gungun” since their bodies are round and they really like rolling on the ground."
+    },
+    {
+      "index": 6,
+      "simplified": "然而，最近网上传播的一段视频让大家意识到，大熊猫很可爱，但是也有一定的危险性。",
+      "traditional": "然而，最近網上傳播的一段視頻讓大家意識到，大熊貓很可愛，但是也有一定的危險性。",
+      "pinyin": "rán ér zuì jìn wǎng shàng chuán bō de yí duàn shì pín ràng dà jiā yì shí dào dà xióng māo hěn kě ài dàn shì yě yǒu yí dìng de wēi xiǎn xìng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "视频中一名男子翻越围栏跳进了动物园的熊猫馆，",
+      "traditional": "視頻中一名男子翻越圍欄跳進了動物園的熊貓館，",
+      "pinyin": "shì pín zhōng yì míng nán zǐ fān yuè wéi lán tiào jìn le dòng wù yuán de xióng māo guǎn",
+      "english": "However a video spreading online recently made people realize that pandas are not only cute, but can also be dangerous."
+    },
+    {
+      "index": 8,
+      "simplified": "还用手戳正在睡觉的大熊猫。",
+      "traditional": "還用手戳正在睡覺的大熊貓。",
+      "pinyin": "hái yòng shǒu chuō zhèng zài shuì jiào de dà xióng māo",
+      "english": "In the video, a man climbed over the fence and jumped into the giant panda enclosure at a zoo, .."
+    },
+    {
+      "index": 9,
+      "simplified": "这只熊猫醒来后紧紧抱住了他的大腿，把他扑倒在地。",
+      "traditional": "這隻熊貓醒來後緊緊抱住了他的大腿，把他撲倒在地。",
+      "pinyin": "zhè zhī xióng māo xǐng lái hòu jǐn jǐn bào zhù le tā de dà tuǐ bǎ tā pū dǎo zài dì",
+      "english": ".. and then used his hands to poke the sleeping panda."
+    },
+    {
+      "index": 10,
+      "simplified": "一人一熊扭打了五分钟，男子终于从熊掌中挣脱出来，赶紧逃离现场。",
+      "traditional": "一人一熊扭打了五分鐘，男子終於從熊掌中掙脫出來，趕緊逃離現場。",
+      "pinyin": "yì rén yì xióng niǔ dǎ le wǔ fēn zhōng nán zǐ zhōng yú cóng xióng zhǎng zhōng zhèng tuō chū lái gǎn jǐn táo lí xiàn chǎng",
+      "english": "The panda woke up, clung to the man’s leg and wrestled him to the ground."
+    },
+    {
+      "index": 11,
+      "simplified": "幸好，男子和大熊猫都没有受伤。",
+      "traditional": "幸好，男子和大熊貓都沒有受傷。",
+      "pinyin": "xìng hǎo nán zǐ hé dà xióng māo dōu méi yǒu shòu shāng",
+      "english": "After 5 minutes of wrestling the man finally escaped from the bear’s paws and quickly fled the enclosure."
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Luckily, neither of them were injured."
+    },
+    {
+      "index": 13,
+      "simplified": "虽然大熊猫以竹子为主食，但仍然属于食肉目动物。",
+      "traditional": "雖然大熊貓以竹子為主食，但仍然屬於食肉目動物。",
+      "pinyin": "suī rán dà xióng māo yǐ zhú zi wéi zhǔ shí dàn réng rán shǔ yú shí ròu mù dòng wù",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "大熊猫的牙齿和爪子都非常锋利，跑起来速度也比人类快得多。",
+      "traditional": "大熊貓的牙齒和爪子都非常鋒利，跑起來速度也比人類快得多。",
+      "pinyin": "dà xióng māo de yá chǐ hé zhuǎ zi dōu fēi cháng fēng lì pǎo qǐ lái sù dù yě bǐ rén lèi kuài de duō",
+      "english": "Although the giant panda mainly eats bamboo, it still belongs to the order Carnivora."
+    },
+    {
+      "index": 15,
+      "simplified": "野生大熊猫有时会捕食老鼠或者鸟，偶尔也会有熊猫偷吃山羊的新闻。",
+      "traditional": "野生大熊貓有時會捕食老鼠或者鳥，偶爾也會有熊貓偷吃山羊的新聞。",
+      "pinyin": "yě shēng dà xióng māo yǒu shí huì bǔ shí lǎo shǔ huò zhě niǎo ǒu ěr yě huì yǒu xióng māo tōu chī shān yáng de xīn wén",
+      "english": "A panda’s teeth and claws are very sharp. Their running speed is much quicker than human beings."
+    },
+    {
+      "index": 16,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Wild pandas sometimes will prey on rats or birds and occasionally you might see some news about pandas eating goats."
+    },
+    {
+      "index": 17,
+      "simplified": "动物园里的熊猫一般不会攻击自己的饲养员，",
+      "traditional": "動物園裡的熊貓一般不會攻擊自己的飼養員，",
+      "pinyin": "dòng wù yuán lǐ de xióng māo yì bān bú huì gōng jī zì jǐ de sì yǎng yuán",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "但是如果有陌生人闯入它们的领地，让它们觉得不安全，它们也会对侵入者发起攻击。",
+      "traditional": "但是如果有陌生人闖入它們的領地，讓它們覺得不安全，它們也會對侵入者發起攻擊。",
+      "pinyin": "dàn shì rú guǒ yǒu mò shēng rén chuǎng rù tā men de lǐng dì ràng tā men jué de bù ān quán tā men yě huì duì qīn rù zhě fā qǐ gōng jī",
+      "english": "Pandas in the zoo normally won’t attack their own caretakers."
+    },
+    {
+      "index": 19,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "However, if they are disturbed in their own territory and feel unsafe, they might attack the intruder."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所",
+      "traditional": "所",
+      "pinyin": "suǒ",
+      "meaning": "all",
+      "hsk": 5
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大熊猫",
+      "traditional": "大熊貓",
+      "pinyin": "dà xióng māo",
+      "meaning": "giant panda",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "国宝",
+      "traditional": "國寶",
+      "pinyin": "guó bǎo",
+      "meaning": "national treasure",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "全",
+      "traditional": "全",
+      "pinyin": "quán",
+      "meaning": "all\nentire",
+      "hsk": 4
+    },
+    {
+      "hanzi": "世界",
+      "traditional": "世界",
+      "pinyin": "shì jiè",
+      "meaning": "world",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人民",
+      "traditional": "人民",
+      "pinyin": "rén mín",
+      "meaning": "the people",
+      "hsk": 5
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜爱",
+      "traditional": "喜愛",
+      "pinyin": "xǐ ài",
+      "meaning": "to like\nto love\nto be fond of",
+      "hsk": null
+    },
+    {
+      "hanzi": "动物",
+      "traditional": "動物",
+      "pinyin": "dòng wù",
+      "meaning": "animal",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一直",
+      "traditional": "一直",
+      "pinyin": "yì zhí",
+      "meaning": "continuously\nall along",
+      "hsk": 3
+    },
+    {
+      "hanzi": "以来",
+      "traditional": "以來",
+      "pinyin": "yǐ lái",
+      "meaning": "since (a previous event)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可爱",
+      "traditional": "可愛",
+      "pinyin": "kě ài",
+      "meaning": "cute\nadorable\nlovely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "萌",
+      "traditional": "萌",
+      "pinyin": "méng",
+      "meaning": "adorable (loanword from Japanese 萌え moe, slang describing affection for a cute character)",
+      "hsk": null
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "et cetera\nand so on",
+      "hsk": 4
+    },
+    {
+      "hanzi": "词",
+      "traditional": "詞",
+      "pinyin": "cí",
+      "meaning": "word\nterm",
+      "hsk": 4
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    },
+    {
+      "hanzi": "形容",
+      "traditional": "形容",
+      "pinyin": "xíng róng",
+      "meaning": "to describe",
+      "hsk": 5
+    },
+    {
+      "hanzi": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "meaning": "furthermore\nalso",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to name\nto call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "它们",
+      "traditional": "它們",
+      "pinyin": "tā men",
+      "meaning": "they (for inanimate objects)",
+      "hsk": null
+    },
+    {
+      "hanzi": "滚滚",
+      "traditional": "滾滾",
+      "pinyin": "gǔn gǔn",
+      "meaning": "to roll",
+      "hsk": null
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "身子",
+      "traditional": "身子",
+      "pinyin": "shēn zi",
+      "meaning": "body",
+      "hsk": null
+    },
+    {
+      "hanzi": "圆圆",
+      "traditional": "圓圓",
+      "pinyin": "yuán yuán",
+      "meaning": "circle\nround\nspherical",
+      "hsk": null
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打滚",
+      "traditional": "打滾",
+      "pinyin": "dǎ gǔn",
+      "meaning": "to roll about",
+      "hsk": null
+    },
+    {
+      "hanzi": "然而",
+      "traditional": "然而",
+      "pinyin": "rán ér",
+      "meaning": "however\nyet\nbut",
+      "hsk": 4
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shàng",
+      "meaning": "online",
+      "hsk": null
+    },
+    {
+      "hanzi": "传播",
+      "traditional": "傳播",
+      "pinyin": "chuán bō",
+      "meaning": "to propagate\nto spread",
+      "hsk": 5
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "段",
+      "traditional": "段",
+      "pinyin": "duàn",
+      "meaning": "classifier for stories, periods of time, lengths of thread etc",
+      "hsk": 3
+    },
+    {
+      "hanzi": "视频",
+      "traditional": "視頻",
+      "pinyin": "shì pín",
+      "meaning": "video",
+      "hsk": 6
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to make\nto cause",
+      "hsk": 2
+    },
+    {
+      "hanzi": "意识",
+      "traditional": "意識",
+      "pinyin": "yì shí",
+      "meaning": "consciousness\nawareness",
+      "hsk": 6
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "(verb complement denoting completion or result of an action)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "fixed\na certain (extent etc)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "危险",
+      "traditional": "危險",
+      "pinyin": "wēi xiǎn",
+      "meaning": "danger\ndangerous",
+      "hsk": 4
+    },
+    {
+      "hanzi": "性",
+      "traditional": "性",
+      "pinyin": "xìng",
+      "meaning": "suffix forming noun, corresponding to -ness or -ity",
+      "hsk": null
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "名",
+      "traditional": "名",
+      "pinyin": "míng",
+      "meaning": "classifier for people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "男子",
+      "traditional": "男子",
+      "pinyin": "nán zǐ",
+      "meaning": "a man\na male",
+      "hsk": 2
+    },
+    {
+      "hanzi": "翻越",
+      "traditional": "翻越",
+      "pinyin": "fān yuè",
+      "meaning": "to cross\nto surmount\nto transcend",
+      "hsk": null
+    },
+    {
+      "hanzi": "围栏",
+      "traditional": "圍欄",
+      "pinyin": "wéi lán",
+      "meaning": "fencing\nrailings\nfence",
+      "hsk": null
+    },
+    {
+      "hanzi": "跳进",
+      "traditional": "跳進",
+      "pinyin": "tiào jìn",
+      "meaning": "to plunge into\nto jump into",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "动物园",
+      "traditional": "動物園",
+      "pinyin": "dòng wù yuán",
+      "meaning": "zoo",
+      "hsk": null
+    },
+    {
+      "hanzi": "熊猫",
+      "traditional": "熊貓",
+      "pinyin": "xióng māo",
+      "meaning": "panda",
+      "hsk": 3
+    },
+    {
+      "hanzi": "馆",
+      "traditional": "館",
+      "pinyin": "guǎn",
+      "meaning": "building\nplace for exhibition",
+      "hsk": null
+    },
+    {
+      "hanzi": "手",
+      "traditional": "手",
+      "pinyin": "shǒu",
+      "meaning": "hand",
+      "hsk": 2
+    },
+    {
+      "hanzi": "戳",
+      "traditional": "戳",
+      "pinyin": "chuō",
+      "meaning": "to jab\nto poke\nto stab",
+      "hsk": null
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "只",
+      "traditional": "隻",
+      "pinyin": "zhī",
+      "meaning": "classifier for birds and certain animals",
+      "hsk": 3
+    },
+    {
+      "hanzi": "醒来",
+      "traditional": "醒來",
+      "pinyin": "xǐng lái",
+      "meaning": "to waken",
+      "hsk": 4
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "紧紧",
+      "traditional": "緊緊",
+      "pinyin": "jǐn jǐn",
+      "meaning": "closely\ntightly",
+      "hsk": null
+    },
+    {
+      "hanzi": "抱",
+      "traditional": "抱",
+      "pinyin": "bào",
+      "meaning": "to hold\nto carry (in one’s arms)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "大腿",
+      "traditional": "大腿",
+      "pinyin": "dà tuǐ",
+      "meaning": "thigh",
+      "hsk": null
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "扑",
+      "traditional": "撲",
+      "pinyin": "pū",
+      "meaning": "to throw oneself at\nto pounce on\nto dab",
+      "hsk": 6
+    },
+    {
+      "hanzi": "倒",
+      "traditional": "倒",
+      "pinyin": "dǎo",
+      "meaning": "to fall\nto collapse\nto overthrow",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "地",
+      "traditional": "地",
+      "pinyin": "dì",
+      "meaning": "place\nland",
+      "hsk": 3
+    },
+    {
+      "hanzi": "熊",
+      "traditional": "熊",
+      "pinyin": "xióng",
+      "meaning": "bear",
+      "hsk": null
+    },
+    {
+      "hanzi": "扭打",
+      "traditional": "扭打",
+      "pinyin": "niǔ dǎ",
+      "meaning": "to wrestle\nto grapple\nto scuffle",
+      "hsk": null
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "meaning": "minute",
+      "hsk": 1
+    },
+    {
+      "hanzi": "终于",
+      "traditional": "終於",
+      "pinyin": "zhōng yú",
+      "meaning": "at last\nfinally",
+      "hsk": 3
+    },
+    {
+      "hanzi": "从",
+      "traditional": "從",
+      "pinyin": "cóng",
+      "meaning": "from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "掌",
+      "traditional": "掌",
+      "pinyin": "zhǎng",
+      "meaning": "palm of the hand\npaw",
+      "hsk": null
+    },
+    {
+      "hanzi": "挣脱",
+      "traditional": "掙脫",
+      "pinyin": "zhèng tuō",
+      "meaning": "to throw off\nto struggle free of",
+      "hsk": null
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "to come out\nto appear",
+      "hsk": 2
+    },
+    {
+      "hanzi": "赶紧",
+      "traditional": "趕緊",
+      "pinyin": "gǎn jǐn",
+      "meaning": "hurriedly\nwithout delay",
+      "hsk": 5
+    },
+    {
+      "hanzi": "逃离",
+      "traditional": "逃離",
+      "pinyin": "táo lí",
+      "meaning": "to run out\nto escape",
+      "hsk": null
+    },
+    {
+      "hanzi": "现场",
+      "traditional": "現場",
+      "pinyin": "xiàn chǎng",
+      "meaning": "the scene (of a crime, accident etc)\n(on) the spot\n(at) the site",
+      "hsk": 6
+    },
+    {
+      "hanzi": "幸好",
+      "traditional": "幸好",
+      "pinyin": "xìng hǎo",
+      "meaning": "fortunately",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "受伤",
+      "traditional": "受傷",
+      "pinyin": "shòu shāng",
+      "meaning": "to sustain injuries\nwounded (in an accident etc)\nharmed",
+      "hsk": 5
+    },
+    {
+      "hanzi": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "meaning": "although\neven though",
+      "hsk": 2
+    },
+    {
+      "hanzi": "以",
+      "traditional": "以",
+      "pinyin": "yǐ",
+      "meaning": "to use\nby means of",
+      "hsk": 4
+    },
+    {
+      "hanzi": "竹子",
+      "traditional": "竹子",
+      "pinyin": "zhú zi",
+      "meaning": "bamboo",
+      "hsk": 5
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wéi",
+      "meaning": "as (in the capacity of)\nto take sth as\nto be",
+      "hsk": 3
+    },
+    {
+      "hanzi": "主食",
+      "traditional": "主食",
+      "pinyin": "zhǔ shí",
+      "meaning": "main food\nstaple (rice and noodles)",
+      "hsk": null
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "仍然",
+      "traditional": "仍然",
+      "pinyin": "réng rán",
+      "meaning": "still\nyet",
+      "hsk": 4
+    },
+    {
+      "hanzi": "属于",
+      "traditional": "屬於",
+      "pinyin": "shǔ yú",
+      "meaning": "to be classified as\nto belong to\nto be part of",
+      "hsk": 5
+    },
+    {
+      "hanzi": "食肉目",
+      "traditional": "食肉目",
+      "pinyin": "shí ròu mù",
+      "meaning": "Carnivora, order of carnivores within Mammalia",
+      "hsk": null
+    },
+    {
+      "hanzi": "牙齿",
+      "traditional": "牙齒",
+      "pinyin": "yá chǐ",
+      "meaning": "tooth\ndental",
+      "hsk": 5
+    },
+    {
+      "hanzi": "爪子",
+      "traditional": "爪子",
+      "pinyin": "zhuǎ zi",
+      "meaning": "(animal's) claw",
+      "hsk": null
+    },
+    {
+      "hanzi": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "meaning": "very\nextremely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "锋利",
+      "traditional": "鋒利",
+      "pinyin": "fēng lì",
+      "meaning": "sharp (e.g. knife blade)\nincisive",
+      "hsk": 6
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐ lái",
+      "meaning": "(after a verb, indicating the beginning and continuation of an action or a state)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "速度",
+      "traditional": "速度",
+      "pinyin": "sù dù",
+      "meaning": "speed\nvelocity\nrate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "比",
+      "traditional": "比",
+      "pinyin": "bǐ",
+      "meaning": "to compare\nto contrast",
+      "hsk": 2
+    },
+    {
+      "hanzi": "人类",
+      "traditional": "人類",
+      "pinyin": "rén lèi",
+      "meaning": "humanity\nhuman race\nmankind",
+      "hsk": 5
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "野生",
+      "traditional": "野生",
+      "pinyin": "yě shēng",
+      "meaning": "wild\nundomesticated",
+      "hsk": null
+    },
+    {
+      "hanzi": "有时",
+      "traditional": "有時",
+      "pinyin": "yǒu shí",
+      "meaning": "sometimes\nnow and then",
+      "hsk": null
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "捕食",
+      "traditional": "捕食",
+      "pinyin": "bǔ shí",
+      "meaning": "to prey on\nto catch and feed on\nto hunt for food",
+      "hsk": null
+    },
+    {
+      "hanzi": "老鼠",
+      "traditional": "老鼠",
+      "pinyin": "lǎo shǔ",
+      "meaning": "rat\nmouse",
+      "hsk": 5
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "鸟",
+      "traditional": "鳥",
+      "pinyin": "niǎo",
+      "meaning": "bird",
+      "hsk": 3
+    },
+    {
+      "hanzi": "偶尔",
+      "traditional": "偶爾",
+      "pinyin": "ǒu ěr",
+      "meaning": "occasionally\nonce in a while\nsometimes",
+      "hsk": 4
+    },
+    {
+      "hanzi": "偷吃",
+      "traditional": "偷吃",
+      "pinyin": "tōu chī",
+      "meaning": "to eat on the sly\nto pilfer food",
+      "hsk": null
+    },
+    {
+      "hanzi": "山羊",
+      "traditional": "山羊",
+      "pinyin": "shān yáng",
+      "meaning": "goat",
+      "hsk": null
+    },
+    {
+      "hanzi": "新闻",
+      "traditional": "新聞",
+      "pinyin": "xīn wén",
+      "meaning": "news",
+      "hsk": 3
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一般",
+      "traditional": "一般",
+      "pinyin": "yì bān",
+      "meaning": "in general",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不会",
+      "traditional": "不會",
+      "pinyin": "bú huì",
+      "meaning": "improbable\nunlikely\nnot at all",
+      "hsk": null
+    },
+    {
+      "hanzi": "攻击",
+      "traditional": "攻擊",
+      "pinyin": "gōng jī",
+      "meaning": "to attack\nto accuse\nto charge",
+      "hsk": 6
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "饲养员",
+      "traditional": "飼養員",
+      "pinyin": "sì yǎng yuán",
+      "meaning": "zookeeper\nbreeder (of livestock, dogs or poultry etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "陌生人",
+      "traditional": "陌生人",
+      "pinyin": "mò shēng rén",
+      "meaning": "stranger",
+      "hsk": null
+    },
+    {
+      "hanzi": "闯入",
+      "traditional": "闖入",
+      "pinyin": "chuǎng rù",
+      "meaning": "to intrude\nto charge in",
+      "hsk": null
+    },
+    {
+      "hanzi": "领地",
+      "traditional": "領地",
+      "pinyin": "lǐng dì",
+      "meaning": "territory",
+      "hsk": null
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "安全",
+      "traditional": "安全",
+      "pinyin": "ān quán",
+      "meaning": "safe\nsecure",
+      "hsk": 4
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "侵入者",
+      "traditional": "侵入者",
+      "pinyin": "qīn rù zhě",
+      "meaning": "intruder\ninvader",
+      "hsk": null
+    },
+    {
+      "hanzi": "发起",
+      "traditional": "發起",
+      "pinyin": "fā qǐ",
+      "meaning": "to originate\nto initiate\nto launch (an attack, an initiative etc)",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "所",
+        "pinyin": "suǒ",
+        "meaning": "all",
+        "tc_hanzi": "所"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "国宝",
+        "pinyin": "guó bǎo",
+        "meaning": "national treasure",
+        "tc_hanzi": "國寶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "全",
+        "pinyin": "quán",
+        "meaning": "all\nentire",
+        "tc_hanzi": "全"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "世界",
+        "pinyin": "shì jiè",
+        "meaning": "world",
+        "tc_hanzi": "世界"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "人民",
+        "pinyin": "rén mín",
+        "meaning": "the people",
+        "tc_hanzi": "人民"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hanzi": "喜爱",
+        "pinyin": "xǐ ài",
+        "meaning": "to like\nto love\nto be fond of",
+        "tc_hanzi": "喜愛"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "动物",
+        "pinyin": "dòng wù",
+        "meaning": "animal",
+        "tc_hanzi": "動物"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一直",
+        "pinyin": "yì zhí",
+        "meaning": "continuously\nall along",
+        "tc_hanzi": "一直"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "以来",
+        "pinyin": "yǐ lái",
+        "meaning": "since (a previous event)",
+        "tc_hanzi": "以來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "”“",
+        "tc_hanzi": "”“"
+      },
+      {
+        "hanzi": "萌",
+        "pinyin": "méng",
+        "meaning": "adorable (loanword from Japanese 萌え moe, slang describing affection for a cute character)",
+        "tc_hanzi": "萌"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "词",
+        "pinyin": "cí",
+        "meaning": "word\nterm",
+        "tc_hanzi": "詞"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "形容",
+        "pinyin": "xíng róng",
+        "meaning": "to describe",
+        "tc_hanzi": "形容"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "还有",
+        "pinyin": "hái yǒu",
+        "meaning": "furthermore\nalso",
+        "tc_hanzi": "還有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to name\nto call",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "滚滚",
+        "pinyin": "gǔn gǔn",
+        "meaning": "to roll",
+        "tc_hanzi": "滾滾"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "身子",
+        "pinyin": "shēn zi",
+        "meaning": "body",
+        "tc_hanzi": "身子"
+      },
+      {
+        "g": "aa",
+        "gh": true,
+        "hanzi": "圆圆",
+        "pinyin": "yuán yuán",
+        "meaning": "circle\nround\nspherical",
+        "tc_hanzi": "圓圓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "打滚",
+        "pinyin": "dǎ gǔn",
+        "meaning": "to roll about",
+        "tc_hanzi": "打滾"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": " ",
+        "tc_hanzi": " "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "然而",
+        "pinyin": "rán ér",
+        "meaning": "however\nyet\nbut",
+        "tc_hanzi": "然而"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shàng",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "传播",
+        "pinyin": "chuán bō",
+        "meaning": "to propagate\nto spread",
+        "tc_hanzi": "傳播"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "段",
+        "pinyin": "duàn",
+        "meaning": "classifier for stories, periods of time, lengths of thread etc",
+        "tc_hanzi": "段"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "视频",
+        "pinyin": "shì pín",
+        "meaning": "video",
+        "tc_hanzi": "視頻"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to make\nto cause",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "意识",
+        "pinyin": "yì shí",
+        "meaning": "consciousness\nawareness",
+        "tc_hanzi": "意識"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "可爱",
+        "pinyin": "kě ài",
+        "meaning": "cute\nadorable\nlovely",
+        "tc_hanzi": "可愛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "fixed\na certain (extent etc)",
+        "tc_hanzi": "一定"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "危险",
+        "pinyin": "wēi xiǎn",
+        "meaning": "danger\ndangerous",
+        "tc_hanzi": "危險"
+      },
+      {
+        "hanzi": "性",
+        "pinyin": "xìng",
+        "meaning": "suffix forming noun, corresponding to -ness or -ity",
+        "tc_hanzi": "性"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "视频",
+        "pinyin": "shì pín",
+        "meaning": "video",
+        "tc_hanzi": "視頻"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "classifier for people",
+        "tc_hanzi": "名"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男子",
+        "pinyin": "nán zǐ",
+        "meaning": "a man\na male",
+        "tc_hanzi": "男子"
+      },
+      {
+        "hanzi": "翻越",
+        "pinyin": "fān yuè",
+        "meaning": "to cross\nto surmount\nto transcend",
+        "tc_hanzi": "翻越"
+      },
+      {
+        "hanzi": "围栏",
+        "pinyin": "wéi lán",
+        "meaning": "fencing\nrailings\nfence",
+        "tc_hanzi": "圍欄"
+      },
+      {
+        "hanzi": "跳进",
+        "pinyin": "tiào jìn",
+        "meaning": "to plunge into\nto jump into",
+        "tc_hanzi": "跳進"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "动物园",
+        "pinyin": "dòng wù yuán",
+        "meaning": "zoo",
+        "tc_hanzi": "動物園"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "馆",
+        "pinyin": "guǎn",
+        "meaning": "building\nplace for exhibition",
+        "tc_hanzi": "館"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "手",
+        "pinyin": "shǒu",
+        "meaning": "hand",
+        "tc_hanzi": "手"
+      },
+      {
+        "hanzi": "戳",
+        "pinyin": "chuō",
+        "meaning": "to jab\nto poke\nto stab",
+        "tc_hanzi": "戳"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhī",
+        "meaning": "classifier for birds and certain animals",
+        "tc_hanzi": "隻"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "醒来",
+        "pinyin": "xǐng lái",
+        "meaning": "to waken",
+        "tc_hanzi": "醒來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "g": "aa",
+        "gh": true,
+        "hanzi": "紧紧",
+        "pinyin": "jǐn jǐn",
+        "meaning": "closely\ntightly",
+        "tc_hanzi": "緊緊"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "抱",
+        "pinyin": "bào",
+        "meaning": "to hold\nto carry (in one’s arms)",
+        "tc_hanzi": "抱"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "(suffix indicating firmness, steadiness, or coming to a halt)",
+        "tc_hanzi": "住"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "大腿",
+        "pinyin": "dà tuǐ",
+        "meaning": "thigh",
+        "tc_hanzi": "大腿"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ba",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "扑",
+        "pinyin": "pū",
+        "meaning": "to throw oneself at\nto pounce on\nto dab",
+        "tc_hanzi": "撲"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "倒",
+        "pinyin": "dǎo",
+        "meaning": "to fall\nto collapse\nto overthrow",
+        "tc_hanzi": "倒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "地",
+        "pinyin": "dì",
+        "meaning": "place\nland",
+        "tc_hanzi": "地"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "熊",
+        "pinyin": "xióng",
+        "meaning": "bear",
+        "tc_hanzi": "熊"
+      },
+      {
+        "hanzi": "扭打",
+        "pinyin": "niǔ dǎ",
+        "meaning": "to wrestle\nto grapple\nto scuffle",
+        "tc_hanzi": "扭打"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "tc_hanzi": "分鐘"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男子",
+        "pinyin": "nán zǐ",
+        "meaning": "a man\na male",
+        "tc_hanzi": "男子"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "终于",
+        "pinyin": "zhōng yú",
+        "meaning": "at last\nfinally",
+        "tc_hanzi": "終於"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from",
+        "tc_hanzi": "從"
+      },
+      {
+        "hanzi": "熊",
+        "pinyin": "xióng",
+        "meaning": "bear",
+        "tc_hanzi": "熊"
+      },
+      {
+        "hanzi": "掌",
+        "pinyin": "zhǎng",
+        "meaning": "palm of the hand\npaw",
+        "tc_hanzi": "掌"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "hanzi": "挣脱",
+        "pinyin": "zhèng tuō",
+        "meaning": "to throw off\nto struggle free of",
+        "tc_hanzi": "掙脫"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "to come out\nto appear",
+        "tc_hanzi": "出來"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "赶紧",
+        "pinyin": "gǎn jǐn",
+        "meaning": "hurriedly\nwithout delay",
+        "tc_hanzi": "趕緊"
+      },
+      {
+        "hanzi": "逃离",
+        "pinyin": "táo lí",
+        "meaning": "to run out\nto escape",
+        "tc_hanzi": "逃離"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "现场",
+        "pinyin": "xiàn chǎng",
+        "meaning": "the scene (of a crime, accident etc)\n(on) the spot\n(at) the site",
+        "tc_hanzi": "現場"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "幸好",
+        "pinyin": "xìng hǎo",
+        "meaning": "fortunately",
+        "tc_hanzi": "幸好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男子",
+        "pinyin": "nán zǐ",
+        "meaning": "a man\na male",
+        "tc_hanzi": "男子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "受伤",
+        "pinyin": "shòu shāng",
+        "meaning": "to sustain injuries\nwounded (in an accident etc)\nharmed",
+        "tc_hanzi": "受傷"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "g": "suiran",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although\neven though",
+        "tc_hanzi": "雖然"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "以",
+        "pinyin": "yǐ",
+        "meaning": "to use\nby means of",
+        "tc_hanzi": "以"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "竹子",
+        "pinyin": "zhú zi",
+        "meaning": "bamboo",
+        "tc_hanzi": "竹子"
+      },
+      {
+        "g": "wei-to-act-as",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wéi",
+        "meaning": "as (in the capacity of)\nto take sth as\nto be",
+        "tc_hanzi": "為"
+      },
+      {
+        "hanzi": "主食",
+        "pinyin": "zhǔ shí",
+        "meaning": "main food\nstaple (rice and noodles)",
+        "tc_hanzi": "主食"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "仍然",
+        "pinyin": "réng rán",
+        "meaning": "still\nyet",
+        "tc_hanzi": "仍然"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "属于",
+        "pinyin": "shǔ yú",
+        "meaning": "to be classified as\nto belong to\nto be part of",
+        "tc_hanzi": "屬於"
+      },
+      {
+        "hanzi": "食肉目",
+        "pinyin": "shí ròu mù",
+        "meaning": "Carnivora, order of carnivores within Mammalia",
+        "tc_hanzi": "食肉目"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "动物",
+        "pinyin": "dòng wù",
+        "meaning": "animal",
+        "tc_hanzi": "動物"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "牙齿",
+        "pinyin": "yá chǐ",
+        "meaning": "tooth\ndental",
+        "tc_hanzi": "牙齒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "爪子",
+        "pinyin": "zhuǎ zi",
+        "meaning": "(animal's) claw",
+        "tc_hanzi": "爪子"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "非常",
+        "pinyin": "fēi cháng",
+        "meaning": "very\nextremely",
+        "tc_hanzi": "非常"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "锋利",
+        "pinyin": "fēng lì",
+        "meaning": "sharp (e.g. knife blade)\nincisive",
+        "tc_hanzi": "鋒利"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "g": "compound-directional-complements",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qǐ lái",
+        "meaning": "(after a verb, indicating the beginning and continuation of an action or a state)",
+        "tc_hanzi": "起來"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "速度",
+        "pinyin": "sù dù",
+        "meaning": "speed\nvelocity\nrate",
+        "tc_hanzi": "速度"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "bi-meiyou",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "meaning": "to compare\nto contrast",
+        "tc_hanzi": "比"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "人类",
+        "pinyin": "rén lèi",
+        "meaning": "humanity\nhuman race\nmankind",
+        "tc_hanzi": "人類"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "g": "de-degree",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": "(structural particle: used after a verb or adjective, linking it to following phrase indicating effect, degree, possibility etc)",
+        "tc_hanzi": "得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "野生",
+        "pinyin": "yě shēng",
+        "meaning": "wild\nundomesticated",
+        "tc_hanzi": "野生"
+      },
+      {
+        "hanzi": "大熊猫",
+        "pinyin": "dà xióng māo",
+        "meaning": "giant panda",
+        "tc_hanzi": "大熊貓"
+      },
+      {
+        "hanzi": "有时",
+        "pinyin": "yǒu shí",
+        "meaning": "sometimes\nnow and then",
+        "tc_hanzi": "有時"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hanzi": "捕食",
+        "pinyin": "bǔ shí",
+        "meaning": "to prey on\nto catch and feed on\nto hunt for food",
+        "tc_hanzi": "捕食"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老鼠",
+        "pinyin": "lǎo shǔ",
+        "meaning": "rat\nmouse",
+        "tc_hanzi": "老鼠"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "鸟",
+        "pinyin": "niǎo",
+        "meaning": "bird",
+        "tc_hanzi": "鳥"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "偶尔",
+        "pinyin": "ǒu ěr",
+        "meaning": "occasionally\nonce in a while\nsometimes",
+        "tc_hanzi": "偶爾"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hanzi": "偷吃",
+        "pinyin": "tōu chī",
+        "meaning": "to eat on the sly\nto pilfer food",
+        "tc_hanzi": "偷吃"
+      },
+      {
+        "hanzi": "山羊",
+        "pinyin": "shān yáng",
+        "meaning": "goat",
+        "tc_hanzi": "山羊"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "新闻",
+        "pinyin": "xīn wén",
+        "meaning": "news",
+        "tc_hanzi": "新聞"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "动物园",
+        "pinyin": "dòng wù yuán",
+        "meaning": "zoo",
+        "tc_hanzi": "動物園"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "熊猫",
+        "pinyin": "xióng māo",
+        "meaning": "panda",
+        "tc_hanzi": "熊貓"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一般",
+        "pinyin": "yì bān",
+        "meaning": "in general",
+        "tc_hanzi": "一般"
+      },
+      {
+        "hanzi": "不会",
+        "pinyin": "bú huì",
+        "meaning": "improbable\nunlikely\nnot at all",
+        "tc_hanzi": "不會"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "攻击",
+        "pinyin": "gōng jī",
+        "meaning": "to attack\nto accuse\nto charge",
+        "tc_hanzi": "攻擊"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "饲养员",
+        "pinyin": "sì yǎng yuán",
+        "meaning": "zookeeper\nbreeder (of livestock, dogs or poultry etc)",
+        "tc_hanzi": "飼養員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "陌生人",
+        "pinyin": "mò shēng rén",
+        "meaning": "stranger",
+        "tc_hanzi": "陌生人"
+      },
+      {
+        "hanzi": "闯入",
+        "pinyin": "chuǎng rù",
+        "meaning": "to intrude\nto charge in",
+        "tc_hanzi": "闖入"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "领地",
+        "pinyin": "lǐng dì",
+        "meaning": "territory",
+        "tc_hanzi": "領地"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "安全",
+        "pinyin": "ān quán",
+        "meaning": "safe\nsecure",
+        "tc_hanzi": "安全"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "它们",
+        "pinyin": "tā men",
+        "meaning": "they (for inanimate objects)",
+        "tc_hanzi": "它們"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "hui-skill",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can\nto be able to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "侵入者",
+        "pinyin": "qīn rù zhě",
+        "meaning": "intruder\ninvader",
+        "tc_hanzi": "侵入者"
+      },
+      {
+        "hanzi": "发起",
+        "pinyin": "fā qǐ",
+        "meaning": "to originate\nto initiate\nto launch (an attack, an initiative etc)",
+        "tc_hanzi": "發起"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "攻击",
+        "pinyin": "gōng jī",
+        "meaning": "to attack\nto accuse\nto charge",
+        "tc_hanzi": "攻擊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Pandas are the symbol of China and are not only cute, they can also do Kong Fu.",
+    "syllable_times": [
+      0.4573503488011574,
+      0.7709750566893424,
+      0.9523809523809523,
+      1.133786848072562,
+      1.4607390935073,
+      1.723356009070295,
+      2.086167800453515,
+      2.300174560325697,
+      4.761904761904762,
+      4.992490275977609,
+      5.26077097505669,
+      5.62358276643991,
+      5.98639455782313,
+      6.258503401360544,
+      6.485260770975056,
+      6.666666666666667,
+      6.938775510204081,
+      8.02721088435374,
+      8.293882894541872,
+      8.616780045351474,
+      8.979591836734693,
+      9.251700680272108,
+      9.47845804988662,
+      9.705215419501133,
+      10.15873015873016,
+      10.4101086492503,
+      10.65759637188209,
+      10.92912421362016,
+      11.06575963718821,
+      11.30607056367334,
+      13.10657596371882,
+      13.33333333333333,
+      13.60544217687075,
+      13.74149659863946,
+      14.69387755102041,
+      14.96598639455782,
+      15.23809523809524,
+      15.52061338950593,
+      15.73696145124716,
+      16.03635077431251,
+      16.73469387755102,
+      17.32426303854875,
+      17.64491804623413,
+      17.95918367346939,
+      18.25939951545351,
+      18.54875283446712,
+      18.91156462585034,
+      19.15868390916365,
+      19.44392983089269,
+      21.08843537414966,
+      21.31519274376417,
+      21.54195011337869,
+      21.7687074829932,
+      22.08616780045352,
+      22.44897959183674,
+      22.76643990929705,
+      22.94784580498866,
+      23.17460317460317,
+      23.49206349206349,
+      24.89795918367347,
+      25.14626061147422,
+      25.5328798185941,
+      25.80498866213152,
+      25.94104308390023,
+      26.0899333284601,
+      26.48526077097506,
+      26.75736961451247,
+      27.07482993197279,
+      27.3015873015873,
+      28.07256235827665,
+      28.35869938459168,
+      28.61678004535147,
+      28.93424036281179,
+      29.20634920634921,
+      31.97278911564626,
+      32.19954648526077,
+      32.92517006802721,
+      33.19727891156462,
+      33.46938775510204,
+      33.78684807256236,
+      34.14965986394558,
+      34.37641723356009,
+      34.6031746031746,
+      34.82993197278912,
+      35.00932851983813,
+      35.19274376417233,
+      35.55555555555556,
+      36.32653061224489,
+      36.59863945578231,
+      36.87074829931973,
+      37.18820861678005,
+      37.32426303854875,
+      37.55102040816327,
+      38.82086167800453,
+      39.13832199546485,
+      39.34897376576124,
+      39.72789115646258,
+      40.0453514739229,
+      40.27210884353742,
+      41.40589569160998,
+      41.63265306122449,
+      42.04081632653061,
+      42.31292517006803,
+      42.50558285417375,
+      42.67573696145125,
+      42.94784580498866,
+      43.12925170068027,
+      43.49206349206349,
+      43.67346938775511,
+      45.94104308390023,
+      46.25850340136054,
+      46.48526077097506,
+      47.2108843537415,
+      47.39229024943311,
+      47.70712352689609,
+      48.02721088435374,
+      48.43537414965986,
+      48.70484190695224,
+      48.88888888888889,
+      49.14744044771864,
+      50.06802721088435,
+      50.38548752834467,
+      50.56689342403628,
+      50.74829931972789,
+      50.9750566893424,
+      51.15646258503401,
+      51.33786848072562,
+      51.51927437641724,
+      51.83673469387755,
+      52.10884353741496,
+      53.42403628117914,
+      53.6852916947386,
+      53.97133501149655,
+      54.37641723356009,
+      54.82993197278912,
+      55.05668934240363,
+      55.28344671201814,
+      55.55555555555556,
+      55.82766439909297,
+      56.00907029478458,
+      56.26982618231678,
+      56.50793650793651,
+      58.82086167800453,
+      59.09297052154195,
+      59.31972789115646,
+      59.54648526077097,
+      59.88963136589321,
+      60.1360544217687,
+      60.45351473922903,
+      61.04308390022675,
+      61.40589569160998,
+      61.72335600907029,
+      62.04081632653061,
+      62.21315188067631,
+      62.38565500526287,
+      62.62806309405016,
+      62.76643990929706,
+      63.08390022675737,
+      64.30839002267574,
+      64.53514739229026,
+      64.94331065759637,
+      65.17006802721089,
+      65.4421768707483,
+      65.71428571428571,
+      66.98412698412699,
+      67.21088435374149,
+      67.61904761904762,
+      67.93650793650794,
+      68.52607709750566,
+      68.84353741496598,
+      69.0702947845805,
+      69.31466689561195,
+      69.52380952380952,
+      69.79591836734694,
+      70.9297052154195,
+      71.24716553287982,
+      71.47392290249434,
+      71.79138321995465,
+      72.15419501133786,
+      72.51700680272108,
+      72.7437641723356,
+      73.01587301587301,
+      73.37868480725623,
+      73.69466918994245,
+      74.00574185066326,
+      74.19501133786848,
+      75.32879818594104,
+      75.69160997732426,
+      75.96371882086167,
+      76.26108509047494,
+      76.48710228144583,
+      76.68934240362812,
+      78.63945578231292,
+      79.00226757369614,
+      79.77324263038548,
+      80.18140589569161,
+      80.49886621315193,
+      80.71623872300052,
+      80.9818155673499,
+      81.2176229972868,
+      81.63265306122449,
+      81.9501133786848,
+      82.11655299320631,
+      82.35827664399093,
+      82.63038548752834,
+      84.98866213151928,
+      85.3061224489796,
+      85.578231292517,
+      85.89569160997732,
+      86.08558674958365,
+      86.53061224489795,
+      86.80272108843538,
+      87.12018140589569,
+      87.43764172335601,
+      87.66439909297053,
+      87.84580498866214,
+      89.29705215419501,
+      89.61451247165533,
+      89.84126984126983,
+      90.20408163265306,
+      90.438803770812,
+      90.66092258608602,
+      90.9297052154195,
+      91.20181405895691,
+      91.42857142857143,
+      91.733153101621,
+      93.56009070294785,
+      93.83219954648526,
+      94.03921952521583,
+      94.23139172718207,
+      94.421768707483,
+      94.6938775510204,
+      95.32879818594104,
+      95.55555555555556,
+      95.96371882086167,
+      96.5079365079365,
+      96.87074829931973,
+      97.09750566893425,
+      97.50566893424036,
+      97.73242630385488,
+      99.18367346938776,
+      99.50113378684807,
+      99.75794562376696,
+      100.0907029478458,
+      100.3174603174603,
+      100.8163265306122,
+      101.0430839002268,
+      101.2698412698413,
+      101.5445091860298,
+      101.8140589569161,
+      102.1315192743764,
+      102.2675736961451,
+      104.3537414965986,
+      104.671201814059,
+      104.9433106575964,
+      105.2154195011338,
+      105.4635728539291,
+      106.1224489795918,
+      106.4134032325271,
+      106.7573696145125,
+      106.984126984127,
+      107.224619775267,
+      107.4618447963664,
+      107.8173500800868,
+      108.4353741496599,
+      108.6167800453515,
+      108.7981859410431,
+      110.4308390022676,
+      110.7077271105888,
+      111.1111111111111,
+      111.3832199546485,
+      111.609977324263,
+      111.8820861678005,
+      112.1153065355024,
+      112.5412483801095,
+      112.7619053044972,
+      113.1264034321547,
+      113.3786848072562,
+      113.6507936507936,
+      113.8317879346693,
+      114.1043083900227,
+      116.8707482993197,
+      117.1634815643319,
+      117.3242630385488,
+      117.5963718820862,
+      117.7777777777778,
+      117.9658381623062,
+      118.1859410430839,
+      118.8662131519274,
+      119.0929705215419,
+      119.4104308390023,
+      119.6371882086168,
+      119.9092970521542,
+      120.2721088435374,
+      120.5895691609977,
+      120.7709750566893,
+      120.9422013005568,
+      121.1405311641351,
+      121.3597704973603,
+      121.6326530612245,
+      123.4013605442177,
+      123.6689822013469,
+      124.2630385487528,
+      124.4897959183673,
+      124.8526077097506,
+      125.0793650793651,
+      125.3514739229025,
+      125.578231292517,
+      125.9863945578231,
+      126.2585034013605,
+      126.530612244898,
+      126.8027210884354,
+      126.9387755102041,
+      127.1655328798186,
+      127.437641723356,
+      128.6167800453515,
+      128.8888888888889,
+      129.1156462585034,
+      129.3877551020408,
+      129.6145124716553,
+      129.8412698412698,
+      130.0226757369614,
+      130.3401360544218,
+      131.9727891156463,
+      132.1903759030079,
+      132.4263038548753,
+      132.6530612244898,
+      132.9705215419501,
+      133.2879818594104,
+      133.5600907029478,
+      133.7868480725623,
+      134.2403628117914,
+      134.5124716553288,
+      134.7845804988662,
+      135.1006905596178,
+      135.8165532879819,
+      135.8165532879819
+    ],
+    "sentence_indices": [
+      6,
+      9,
+      25,
+      42,
+      62,
+      65,
+      91,
+      105,
+      114,
+      134,
+      156,
+      165,
+      167,
+      180,
+      199,
+      218,
+      220,
+      231,
+      254
+    ],
+    "sentence_translations": [
+      "Something you didn’t know about pandas",
+      "",
+      "The giant panda is the national treasure of China and loved by people all over the world.",
+      "People have long been using the word “cute” to describe the giant panda.",
+      "Many people call pandas “Gungun” since their bodies are round and they really like rolling on the ground.",
+      "",
+      "However a video spreading online recently made people realize that pandas are not only cute, but can also be dangerous.",
+      "In the video, a man climbed over the fence and jumped into the giant panda enclosure at a zoo, ..",
+      ".. and then used his hands to poke the sleeping panda.",
+      "The panda woke up, clung to the man’s leg and wrestled him to the ground.",
+      "After 5 minutes of wrestling the man finally escaped from the bear’s paws and quickly fled the enclosure.",
+      "Luckily, neither of them were injured.",
+      "",
+      "Although the giant panda mainly eats bamboo, it still belongs to the order Carnivora.",
+      "A panda’s teeth and claws are very sharp. Their running speed is much quicker than human beings.",
+      "Wild pandas sometimes will prey on rats or birds and occasionally you might see some news about pandas eating goats.",
+      "",
+      "Pandas in the zoo normally won’t attack their own caretakers.",
+      "However, if they are disturbed in their own territory and feel unsafe, they might attack the intruder.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,4219 @@
+{
+  "id": "261",
+  "title": "Most Frequent Names in China",
+  "level": "master",
+  "date": "2017-05-09",
+  "synopsis": "If you learn the characteristics of names from different periods in China, you can guess someone's age just by hearing their name.",
+  "audioUrl": "https://static.duchinese.net/documents/414/6bf1066bc7ac59d4c20235c0b2b9b009c8ac5750.mp3?1494265400",
+  "series": null,
+  "fullText": {
+    "simplified": "中国最多人叫的名字\n\n    最近，《人民日报》公布了一个关于名字的数据，数据显示了中国重名最多的20个姓名，其中排在前5名的分别为：1张伟；2王伟；3王芳；4李伟；5李娜。有人开玩笑说，中国重名前20名里，肯定有一个会是你的同学或同事。\n    父母在给孩子取名字时，很多时候都表达了对孩子未来的期望。中国人的名字，不同年代有不同的时代特点。比如，排在第一的“伟”是60、70后常见的名字。上世纪60、70年代，社会上普遍崇尚军人，热衷爱国主义，人们想通过名字中的勤劳、勇敢等表达这种热爱。所以在那个年代，“伟”、“军”、“勇”、“建国”等名字比较普遍。\n    到了上世纪80、90年代，因为市场经济等原因，很多父母希望男孩性格光明磊落、未来优秀出众，女孩美丽文静，所以这个年代的父母在给男孩取名字时喜欢用“磊”“杰”等字；给女孩取名字时喜欢用“婷”、“静”等字。\n    现在的00、10后，带“子”的名字比较流行。比如男孩叫“子轩”，女孩叫“子涵”。也许是受古代言情小说的影响，00、10后的名字都比较富有诗意。\n     以后也许你可以通过名字来判断别人的大概年龄。虽然可能不是那么准确，但也有一定的根据。比如，当你听到一个人叫“王建国”，也许他是在1960年到1979年之间出生的；如果她叫“李静”，也许她是一个80后或者90后……",
+    "traditional": "中國最多人叫的名字\n\n    最近，《人民日報》公佈了一個關於名字的數據，數據顯示了中國重名最多的20個姓名，其中排在前5名的分別為：1張偉；2王偉；3王芳；4李偉；5李娜。有人開玩笑說，中國重名前20名裡，肯定有一個會是你的同學或同事。\n    父母在給孩子取名字時，很多時候都表達了對孩子未來的期望。中國人的名字，不同年代有不同的時代特點。比如，排在第一的“偉”是60、70後常見的名字。上世紀60、70年代，社會上普遍崇尚軍人，熱衷愛國主義，人們想通過名字中的勤勞、勇敢等表達這種熱愛。所以在那個年代，“偉”、“軍”、“勇”、“建國”等名字比較普遍。\n    到了上世紀80、90年代，因為市場經濟等原因，很多父母希望男孩性格光明磊落、未來優秀出眾，女孩美麗文靜，所以這個年代的父母在給男孩取名字時喜歡用“磊”“傑”等字；給女孩取名字時喜歡用“婷”、“靜”等字。\n    現在的00、10後，帶“子”的名字比較流行。比如男孩叫“子軒”，女孩叫“子涵”。也許是受古代言情小說的影響，00、10後的名字都比較富有詩意。\n     以後也許你可以通過名字來判斷別人的大概年齡。雖然可能不是那麼準確，但也有一定的根據。比如，當你聽到一個人叫“王建國”，也許他是在1960年到1979年之間出生的；如果她叫“李靜”，也許她是一個80後或者90後……"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "The most frequent names in China"
+    },
+    {
+      "index": 2,
+      "simplified": "最近，《人民日报》公布了一个关于名字的数据，数据显示了中国重名最多的20个姓名，",
+      "traditional": "最近，《人民日報》公佈了一個關於名字的數據，數據顯示了中國重名最多的20個姓名，",
+      "pinyin": "zuì jìn rén mín rì bào gōng bù le yí ge guān yú míng zi de shù jù shù jù xiǎn shì le zhōng guó chóng míng zuì duō de 2 ge xìng míng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "其中排在前5名的分别为：1张伟；2王伟；3王芳；4李伟；5李娜。",
+      "traditional": "其中排在前5名的分別為：1張偉；2王偉；3王芳；4李偉；5李娜。",
+      "pinyin": "qí zhōng pái zài qián 1 míng de fēn bié wéi 1 zhāng wěi 1 wáng wěi 1 wáng fāng 1 lǐ wěi 1 lǐ nà",
+      "english": "Recently, People’s Daily released data about names, showing the top 20 most frequent names in China."
+    },
+    {
+      "index": 4,
+      "simplified": "有人开玩笑说，中国重名前20名里，肯定有一个会是你的同学或同事。",
+      "traditional": "有人開玩笑說，中國重名前20名裡，肯定有一個會是你的同學或同事。",
+      "pinyin": "yǒu rén kāi wán xiào shuō zhōng guó chóng míng qián 2 míng lǐ kěn dìng yǒu yí ge huì shì nǐ de tóng xué huò tóng shì",
+      "english": "The top 5 names are: 1. Zhang Wei; 2. Wang Wei; 3. Wang Fang; 4. Li Wei; 5. Li Na."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Some people jokingly said that you will find at least one of the twenty names among your classmates or colleagues."
+    },
+    {
+      "index": 6,
+      "simplified": "父母在给孩子取名字时，很多时候都表达了对孩子未来的期望。",
+      "traditional": "父母在給孩子取名字時，很多時候都表達了對孩子未來的期望。",
+      "pinyin": "fù mǔ zài gěi hái zi qǔ míng zi shí hěn duō shí hou dōu biǎo dá le duì hái zi wèi lái de qī wàng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "中国人的名字，不同年代有不同的时代特点。",
+      "traditional": "中國人的名字，不同年代有不同的時代特點。",
+      "pinyin": "zhōng guó rén de míng zi bù tóng nián dài yǒu bù tóng de shí dài tè diǎn",
+      "english": "When parents name their children, they often choose names that express expectations for their future."
+    },
+    {
+      "index": 8,
+      "simplified": "比如，排在第一的“伟”是60、70后常见的名字。",
+      "traditional": "比如，排在第一的“偉”是60、70後常見的名字。",
+      "pinyin": "bǐ rú pái zài dì yī de wěi shì 2 2 hòu cháng jiàn de míng zi",
+      "english": "Chinese names from different ages have different traits."
+    },
+    {
+      "index": 9,
+      "simplified": "上世纪60、70年代，社会上普遍崇尚军人，热衷爱国主义，",
+      "traditional": "上世紀60、70年代，社會上普遍崇尚軍人，熱衷愛國主義，",
+      "pinyin": "shàng shì jì 2 2 nián dài shè huì shang pǔ biàn chóng shàng jūn rén rè zhōng ài guó zhǔ yì",
+      "english": "For example, the top ranked given name “Wei” is frequently seen among people born in 1960s and 1970s."
+    },
+    {
+      "index": 10,
+      "simplified": "人们想通过名字中的勤劳、勇敢等表达这种热爱。",
+      "traditional": "人們想通過名字中的勤勞、勇敢等表達這種熱愛。",
+      "pinyin": "rén men xiǎng tōng guò míng zi zhōng de qín láo yǒng gǎn děng biǎo dá zhè zhǒng rè ài",
+      "english": "In the 60s and 70s of the last century, people admired soldiers and were passionately patriotic."
+    },
+    {
+      "index": 11,
+      "simplified": "所以在那个年代，“伟”、“军”、“勇”、“建国”等名字比较普遍。",
+      "traditional": "所以在那個年代，“偉”、“軍”、“勇”、“建國”等名字比較普遍。",
+      "pinyin": "suǒ yǐ zài nà ge nián dài wěi jūn yǒng jiàn guó děng míng zi bǐ jiào pǔ biàn",
+      "english": "People wanted to include “diligence” and “courage” in the names to express this passion."
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "So from that era you often see names such as “Wei”, “Jun”, “Yong” and “Jianguo”."
+    },
+    {
+      "index": 13,
+      "simplified": "到了上世纪80、90年代，因为市场经济等原因，",
+      "traditional": "到了上世紀80、90年代，因為市場經濟等原因，",
+      "pinyin": "dào le shàng shì jì 2 2 nián dài yīn wèi shì chǎng jīng jì děng yuán yīn",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "很多父母希望男孩性格光明磊落、未来优秀出众，女孩美丽文静，",
+      "traditional": "很多父母希望男孩性格光明磊落、未來優秀出眾，女孩美麗文靜，",
+      "pinyin": "hěn duō fù mǔ xī wàng nán hái xìng gé guāng míng lěi luò wèi lái yōu xiù chū zhòng nǚ hái měi lì wén jìng",
+      "english": "In the 80s and 90s of the last century, due to phenomenas like the market-oriented economy, .."
+    },
+    {
+      "index": 15,
+      "simplified": "所以这个年代的父母在给男孩取名字时喜欢用“磊”“杰”等字；给女孩取名字时喜欢用“婷”、“静”等字。",
+      "traditional": "所以這個年代的父母在給男孩取名字時喜歡用“磊”“傑”等字；給女孩取名字時喜歡用“婷”、“靜”等字。",
+      "pinyin": "suǒ yǐ zhè ge nián dài de fù mǔ zài gěi nán hái qǔ míng zi shí xǐ huan yòng lěi jié děng zì gěi nǚ hái qǔ míng zi shí xǐ huan yòng tíng jìng děng zì",
+      "english": ".. many parents wished their boys to be openhearted and successful, and their girls to be beautiful and gentle."
+    },
+    {
+      "index": 16,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "So parents at that time liked to use characters such as “Lei” and “Jie” for boys; and “Ting” and “Jing” for girls."
+    },
+    {
+      "index": 17,
+      "simplified": "现在的00、10后，带“子”的名字比较流行。",
+      "traditional": "現在的00、10後，帶“子”的名字比較流行。",
+      "pinyin": "xiàn zài de 2 2 hòu dài zǐ de míng zi bǐ jiào liú xíng",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "比如男孩叫“子轩”，女孩叫“子涵”。",
+      "traditional": "比如男孩叫“子軒”，女孩叫“子涵”。",
+      "pinyin": "bǐ rú nán hái jiào zǐ xuān nǚ hái jiào zǐ hán",
+      "english": "Names with the character “Zi” are common among children born in the 2000s and the 2010s."
+    },
+    {
+      "index": 19,
+      "simplified": "也许是受古代言情小说的影响，00、10后的名字都比较富有诗意。",
+      "traditional": "也許是受古代言情小說的影響，00、10後的名字都比較富有詩意。",
+      "pinyin": "yě xǔ shì shòu gǔ dài yán qíng xiǎo shuō de yǐng xiǎng 2 2 hòu de míng zi dōu bǐ jiào fù yǒu shī yì",
+      "english": "Such as “Zixuan” for boys and “Zihan” for girls."
+    },
+    {
+      "index": 20,
+      "simplified": "\n     ",
+      "traditional": "\n     ",
+      "pinyin": "",
+      "english": "Perhaps influenced by ancient romantic novels, children of the 2000s and 2010s often have poetic names."
+    },
+    {
+      "index": 21,
+      "simplified": "以后也许你可以通过名字来判断别人的大概年龄。",
+      "traditional": "以後也許你可以通過名字來判斷別人的大概年齡。",
+      "pinyin": "yǐ hòu yě xǔ nǐ kě yǐ tōng guò míng zi lái pàn duàn bié ren de dà gài nián líng",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "虽然可能不是那么准确，但也有一定的根据。",
+      "traditional": "雖然可能不是那麼準確，但也有一定的根據。",
+      "pinyin": "suī rán kě néng bú shì nà me zhǔn què dàn yě yǒu yí dìng de gēn jù",
+      "english": "From now on, perhaps you can roughly guess people's age by their names."
+    },
+    {
+      "index": 23,
+      "simplified": "比如，当你听到一个人叫“王建国”，也许他是在1960年到1979年之间出生的；",
+      "traditional": "比如，當你聽到一個人叫“王建國”，也許他是在1960年到1979年之間出生的；",
+      "pinyin": "bǐ rú dāng nǐ tīng dào yí ge rén jiào wáng jiàn guó yě xǔ tā shì zài 4 nián dào 4 nián zhī jiān chū shēng de",
+      "english": "Even though it is not that accurate, you can still make an educated guess."
+    },
+    {
+      "index": 24,
+      "simplified": "如果她叫“李静”，也许她是一个80后或者90后……",
+      "traditional": "如果她叫“李靜”，也許她是一個80後或者90後……",
+      "pinyin": "rú guǒ tā jiào lǐ jìng yě xǔ tā shì yí ge 2 hòu huò zhě 2 hòu",
+      "english": "For example, if you hear that a person is named “Wang Jianguo”, he is probably born between 1960 and 1979."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "meaning": "name (of a person or thing)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "人民",
+      "traditional": "人民",
+      "pinyin": "rén mín",
+      "meaning": "the people",
+      "hsk": 5
+    },
+    {
+      "hanzi": "日报",
+      "traditional": "日報",
+      "pinyin": "rì bào",
+      "meaning": "daily newspaper",
+      "hsk": null
+    },
+    {
+      "hanzi": "公布",
+      "traditional": "公佈",
+      "pinyin": "gōng bù",
+      "meaning": "to announce\nto make public\nto publish",
+      "hsk": 5
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "关于",
+      "traditional": "關於",
+      "pinyin": "guān yú",
+      "meaning": "concerning\nwith regard to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "数据",
+      "traditional": "數據",
+      "pinyin": "shù jù",
+      "meaning": "data\nnumbers",
+      "hsk": 5
+    },
+    {
+      "hanzi": "显示",
+      "traditional": "顯示",
+      "pinyin": "xiǎn shì",
+      "meaning": "to show\nto display",
+      "hsk": 5
+    },
+    {
+      "hanzi": "重名",
+      "traditional": "重名",
+      "pinyin": "chóng míng",
+      "meaning": "to have the same name",
+      "hsk": null
+    },
+    {
+      "hanzi": "姓名",
+      "traditional": "姓名",
+      "pinyin": "xìng míng",
+      "meaning": "name and surname",
+      "hsk": null
+    },
+    {
+      "hanzi": "其中",
+      "traditional": "其中",
+      "pinyin": "qí zhōng",
+      "meaning": "among\nin\nincluded among these",
+      "hsk": 4
+    },
+    {
+      "hanzi": "排",
+      "traditional": "排",
+      "pinyin": "pái",
+      "meaning": "to set in order\nto arrange\nto line up",
+      "hsk": 4
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "front\nahead\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "名",
+      "traditional": "名",
+      "pinyin": "míng",
+      "meaning": "name\nto name",
+      "hsk": 1
+    },
+    {
+      "hanzi": "分别",
+      "traditional": "分別",
+      "pinyin": "fēn bié",
+      "meaning": "separately or individually",
+      "hsk": 5
+    },
+    {
+      "hanzi": "为",
+      "traditional": "為",
+      "pinyin": "wéi",
+      "meaning": "as (in the capacity of)\nto take sth as\nto be",
+      "hsk": 3
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "伟",
+      "traditional": "偉",
+      "pinyin": "wěi",
+      "meaning": "big\nlarge\ngreat",
+      "hsk": null
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "芳",
+      "traditional": "芳",
+      "pinyin": "fāng",
+      "meaning": "fragrant\nvirtue",
+      "hsk": null
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "娜",
+      "traditional": "娜",
+      "pinyin": "nà",
+      "meaning": "elegant\ngraceful",
+      "hsk": null
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开玩笑",
+      "traditional": "開玩笑",
+      "pinyin": "kāi wán xiào",
+      "meaning": "to joke",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "肯定",
+      "traditional": "肯定",
+      "pinyin": "kěn dìng",
+      "meaning": "to be sure\nto be certain\ndefinite",
+      "hsk": 4
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "或",
+      "traditional": "或",
+      "pinyin": "huò",
+      "meaning": "or\neither ... or ... (used to list alternatives)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "同事",
+      "traditional": "同事",
+      "pinyin": "tóng shì",
+      "meaning": "colleague\ncoworker",
+      "hsk": 3
+    },
+    {
+      "hanzi": "父母",
+      "traditional": "父母",
+      "pinyin": "fù mǔ",
+      "meaning": "father and mother\nparents",
+      "hsk": 4
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "meaning": "child",
+      "hsk": 2
+    },
+    {
+      "hanzi": "取",
+      "traditional": "取",
+      "pinyin": "qǔ",
+      "meaning": "to take\nto get\nto fetch",
+      "hsk": 4
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "表达",
+      "traditional": "表達",
+      "pinyin": "biǎo dá",
+      "meaning": "to express\nto convey",
+      "hsk": 5
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "未来",
+      "traditional": "未來",
+      "pinyin": "wèi lái",
+      "meaning": "future\ntomorrow",
+      "hsk": 5
+    },
+    {
+      "hanzi": "期望",
+      "traditional": "期望",
+      "pinyin": "qī wàng",
+      "meaning": "to have expectations\nto earnestly hope\nexpectation",
+      "hsk": 6
+    },
+    {
+      "hanzi": "中国人",
+      "traditional": "中國人",
+      "pinyin": "zhōng guó rén",
+      "meaning": "Chinese person/people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不同",
+      "traditional": "不同",
+      "pinyin": "bù tóng",
+      "meaning": "different\nnot the same",
+      "hsk": null
+    },
+    {
+      "hanzi": "年代",
+      "traditional": "年代",
+      "pinyin": "nián dài",
+      "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+      "hsk": 5
+    },
+    {
+      "hanzi": "时代",
+      "traditional": "時代",
+      "pinyin": "shí dài",
+      "meaning": "age\nera\nperiod",
+      "hsk": 5
+    },
+    {
+      "hanzi": "特点",
+      "traditional": "特點",
+      "pinyin": "tè diǎn",
+      "meaning": "characteristic (feature)\ntrait\nfeature",
+      "hsk": 4
+    },
+    {
+      "hanzi": "比如",
+      "traditional": "比如",
+      "pinyin": "bǐ rú",
+      "meaning": "for example",
+      "hsk": 4
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "常见",
+      "traditional": "常見",
+      "pinyin": "cháng jiàn",
+      "meaning": "commonly seen\ncommon\nto see sth frequently",
+      "hsk": null
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "previous\nfirst (of multiple parts)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "世纪",
+      "traditional": "世紀",
+      "pinyin": "shì jì",
+      "meaning": "century",
+      "hsk": 4
+    },
+    {
+      "hanzi": "社会",
+      "traditional": "社會",
+      "pinyin": "shè huì",
+      "meaning": "society",
+      "hsk": 4
+    },
+    {
+      "hanzi": "普遍",
+      "traditional": "普遍",
+      "pinyin": "pǔ biàn",
+      "meaning": "general\ncommon",
+      "hsk": 4
+    },
+    {
+      "hanzi": "崇尚",
+      "traditional": "崇尚",
+      "pinyin": "chóng shàng",
+      "meaning": "to hold in esteem\nto revere",
+      "hsk": null
+    },
+    {
+      "hanzi": "军人",
+      "traditional": "軍人",
+      "pinyin": "jūn rén",
+      "meaning": "soldier\nmilitary personnel",
+      "hsk": null
+    },
+    {
+      "hanzi": "热衷",
+      "traditional": "熱衷",
+      "pinyin": "rè zhōng",
+      "meaning": "to feel strongly about\nto be fond of\nobsession",
+      "hsk": null
+    },
+    {
+      "hanzi": "爱国",
+      "traditional": "愛國",
+      "pinyin": "ài guó",
+      "meaning": "to love one's country\npatriotic",
+      "hsk": null
+    },
+    {
+      "hanzi": "主义",
+      "traditional": "主義",
+      "pinyin": "zhǔ yì",
+      "meaning": "-ism\nideology",
+      "hsk": 6
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "通过",
+      "traditional": "通過",
+      "pinyin": "tōng guò",
+      "meaning": "through\nvia",
+      "hsk": 4
+    },
+    {
+      "hanzi": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "meaning": "within\ninside\namong",
+      "hsk": null
+    },
+    {
+      "hanzi": "勤劳",
+      "traditional": "勤勞",
+      "pinyin": "qín láo",
+      "meaning": "hardworking\nindustrious\ndiligent",
+      "hsk": 6
+    },
+    {
+      "hanzi": "勇敢",
+      "traditional": "勇敢",
+      "pinyin": "yǒng gǎn",
+      "meaning": "brave\ncourageous",
+      "hsk": 4
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "et cetera\nand so on",
+      "hsk": 4
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "种",
+      "traditional": "種",
+      "pinyin": "zhǒng",
+      "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+      "hsk": 3
+    },
+    {
+      "hanzi": "热爱",
+      "traditional": "熱愛",
+      "pinyin": "rè ài",
+      "meaning": "to love ardently\nto adore",
+      "hsk": 5
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "军",
+      "traditional": "軍",
+      "pinyin": "jūn",
+      "meaning": "army\nmilitary",
+      "hsk": 6
+    },
+    {
+      "hanzi": "勇",
+      "traditional": "勇",
+      "pinyin": "yǒng",
+      "meaning": "brave",
+      "hsk": null
+    },
+    {
+      "hanzi": "建国",
+      "traditional": "建國",
+      "pinyin": "jiàn guó",
+      "meaning": "to found a country\nnation-building",
+      "hsk": null
+    },
+    {
+      "hanzi": "比较",
+      "traditional": "比較",
+      "pinyin": "bǐ jiào",
+      "meaning": "comparatively\nrelatively",
+      "hsk": 3
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "市场",
+      "traditional": "市場",
+      "pinyin": "shì chǎng",
+      "meaning": "market",
+      "hsk": 5
+    },
+    {
+      "hanzi": "经济",
+      "traditional": "經濟",
+      "pinyin": "jīng jì",
+      "meaning": "economy\neconomic",
+      "hsk": 4
+    },
+    {
+      "hanzi": "原因",
+      "traditional": "原因",
+      "pinyin": "yuán yīn",
+      "meaning": "cause\norigin\nreason",
+      "hsk": 4
+    },
+    {
+      "hanzi": "希望",
+      "traditional": "希望",
+      "pinyin": "xī wàng",
+      "meaning": "to wish for\nto desire\nto hope",
+      "hsk": 2
+    },
+    {
+      "hanzi": "男孩",
+      "traditional": "男孩",
+      "pinyin": "nán hái",
+      "meaning": "boy",
+      "hsk": 2
+    },
+    {
+      "hanzi": "性格",
+      "traditional": "性格",
+      "pinyin": "xìng gé",
+      "meaning": "nature\ntemperament\ncharacter",
+      "hsk": 4
+    },
+    {
+      "hanzi": "光明磊落",
+      "traditional": "光明磊落",
+      "pinyin": "guāng míng lěi luò",
+      "meaning": "open and candid (idiom)\nstraightforward and upright",
+      "hsk": null
+    },
+    {
+      "hanzi": "优秀",
+      "traditional": "優秀",
+      "pinyin": "yōu xiù",
+      "meaning": "outstanding\nexcellent",
+      "hsk": 4
+    },
+    {
+      "hanzi": "出众",
+      "traditional": "出眾",
+      "pinyin": "chū zhòng",
+      "meaning": "to stand out\noutstanding",
+      "hsk": null
+    },
+    {
+      "hanzi": "女孩",
+      "traditional": "女孩",
+      "pinyin": "nǚ hái",
+      "meaning": "girl",
+      "hsk": 2
+    },
+    {
+      "hanzi": "美丽",
+      "traditional": "美麗",
+      "pinyin": "měi lì",
+      "meaning": "beautiful",
+      "hsk": 4
+    },
+    {
+      "hanzi": "文静",
+      "traditional": "文靜",
+      "pinyin": "wén jìng",
+      "meaning": "(of a person's manner or character) gentle and quiet",
+      "hsk": null
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "磊",
+      "traditional": "磊",
+      "pinyin": "lěi",
+      "meaning": "fig. sincere\nopen and honest",
+      "hsk": null
+    },
+    {
+      "hanzi": "杰",
+      "traditional": "傑",
+      "pinyin": "jié",
+      "meaning": "heroic\noutstanding person\nprominent",
+      "hsk": null
+    },
+    {
+      "hanzi": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "meaning": "character\nletter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "婷",
+      "traditional": "婷",
+      "pinyin": "tíng",
+      "meaning": "graceful",
+      "hsk": null
+    },
+    {
+      "hanzi": "静",
+      "traditional": "靜",
+      "pinyin": "jìng",
+      "meaning": "still\ncalm\nquiet",
+      "hsk": null
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "带",
+      "traditional": "帶",
+      "pinyin": "dài",
+      "meaning": "to have\nto contain",
+      "hsk": 3
+    },
+    {
+      "hanzi": "子",
+      "traditional": "子",
+      "pinyin": "zǐ",
+      "meaning": "child\nson",
+      "hsk": null
+    },
+    {
+      "hanzi": "流行",
+      "traditional": "流行",
+      "pinyin": "liú xíng",
+      "meaning": "to spread\npopular",
+      "hsk": 4
+    },
+    {
+      "hanzi": "轩",
+      "traditional": "軒",
+      "pinyin": "xuān",
+      "meaning": "high\ntall",
+      "hsk": null
+    },
+    {
+      "hanzi": "涵",
+      "traditional": "涵",
+      "pinyin": "hán",
+      "meaning": "to contain\nto include\nculvert",
+      "hsk": null
+    },
+    {
+      "hanzi": "也许",
+      "traditional": "也許",
+      "pinyin": "yě xǔ",
+      "meaning": "perhaps\nmaybe",
+      "hsk": 4
+    },
+    {
+      "hanzi": "受",
+      "traditional": "受",
+      "pinyin": "shòu",
+      "meaning": "to receive\nto accept",
+      "hsk": null
+    },
+    {
+      "hanzi": "古代",
+      "traditional": "古代",
+      "pinyin": "gǔ dài",
+      "meaning": "ancient times\nolden times",
+      "hsk": 5
+    },
+    {
+      "hanzi": "言情小说",
+      "traditional": "言情小說",
+      "pinyin": "yán qíng xiǎo shuō",
+      "meaning": "romantic fiction",
+      "hsk": null
+    },
+    {
+      "hanzi": "影响",
+      "traditional": "影響",
+      "pinyin": "yǐng xiǎng",
+      "meaning": "influence\neffect\nimpact",
+      "hsk": 3
+    },
+    {
+      "hanzi": "富有",
+      "traditional": "富有",
+      "pinyin": "fù yǒu",
+      "meaning": "rich\nfull of",
+      "hsk": null
+    },
+    {
+      "hanzi": "诗意",
+      "traditional": "詩意",
+      "pinyin": "shī yì",
+      "meaning": "poetry\npoetic quality or flavor",
+      "hsk": null
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come round",
+      "hsk": 1
+    },
+    {
+      "hanzi": "判断",
+      "traditional": "判斷",
+      "pinyin": "pàn duàn",
+      "meaning": "to judge\nto determine\njudgment",
+      "hsk": 4
+    },
+    {
+      "hanzi": "别人",
+      "traditional": "別人",
+      "pinyin": "bié ren",
+      "meaning": "other people",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大概",
+      "traditional": "大概",
+      "pinyin": "dà gài",
+      "meaning": "roughly\nprobably\napproximate",
+      "hsk": 4
+    },
+    {
+      "hanzi": "年龄",
+      "traditional": "年齡",
+      "pinyin": "nián líng",
+      "meaning": "(a person's) age",
+      "hsk": 4
+    },
+    {
+      "hanzi": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "meaning": "although\neven though",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "meaning": "like that\nso\nthen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "准确",
+      "traditional": "準確",
+      "pinyin": "zhǔn què",
+      "meaning": "accurate\nprecise",
+      "hsk": 4
+    },
+    {
+      "hanzi": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一定",
+      "traditional": "一定",
+      "pinyin": "yí dìng",
+      "meaning": "certainly\nnecessarily",
+      "hsk": 3
+    },
+    {
+      "hanzi": "根据",
+      "traditional": "根據",
+      "pinyin": "gēn jù",
+      "meaning": "according to\nbased on\nbasis",
+      "hsk": 3
+    },
+    {
+      "hanzi": "当",
+      "traditional": "當",
+      "pinyin": "dāng",
+      "meaning": "when\nduring",
+      "hsk": 4
+    },
+    {
+      "hanzi": "听到",
+      "traditional": "聽到",
+      "pinyin": "tīng dào",
+      "meaning": "to hear",
+      "hsk": 2
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "之间",
+      "traditional": "之間",
+      "pinyin": "zhī jiān",
+      "meaning": "between\namong\ninter-",
+      "hsk": null
+    },
+    {
+      "hanzi": "出生",
+      "traditional": "出生",
+      "pinyin": "chū shēng",
+      "meaning": "to be born",
+      "hsk": 4
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hanzi": "，《",
+        "tc_hanzi": "，《"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "人民",
+        "pinyin": "rén mín",
+        "meaning": "the people",
+        "tc_hanzi": "人民"
+      },
+      {
+        "hanzi": "日报",
+        "pinyin": "rì bào",
+        "meaning": "daily newspaper",
+        "tc_hanzi": "日報"
+      },
+      {
+        "hanzi": "》",
+        "tc_hanzi": "》"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "公布",
+        "pinyin": "gōng bù",
+        "meaning": "to announce\nto make public\nto publish",
+        "tc_hanzi": "公佈"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "关于",
+        "pinyin": "guān yú",
+        "meaning": "concerning\nwith regard to",
+        "tc_hanzi": "關於"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数据",
+        "pinyin": "shù jù",
+        "meaning": "data\nnumbers",
+        "tc_hanzi": "數據"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "数据",
+        "pinyin": "shù jù",
+        "meaning": "data\nnumbers",
+        "tc_hanzi": "數據"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "显示",
+        "pinyin": "xiǎn shì",
+        "meaning": "to show\nto display",
+        "tc_hanzi": "顯示"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "重名",
+        "pinyin": "chóng míng",
+        "meaning": "to have the same name",
+        "tc_hanzi": "重名"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "20",
+        "pinyin": "2",
+        "tc_hanzi": "20"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "姓名",
+        "pinyin": "xìng míng",
+        "meaning": "name and surname",
+        "tc_hanzi": "姓名"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "其中",
+        "pinyin": "qí zhōng",
+        "meaning": "among\nin\nincluded among these",
+        "tc_hanzi": "其中"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "排",
+        "pinyin": "pái",
+        "meaning": "to set in order\nto arrange\nto line up",
+        "tc_hanzi": "排"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "front\nahead\nfirst",
+        "tc_hanzi": "前"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "name\nto name",
+        "tc_hanzi": "名"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "分别",
+        "pinyin": "fēn bié",
+        "meaning": "separately or individually",
+        "tc_hanzi": "分別"
+      },
+      {
+        "g": "wei-to-act-as",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "为",
+        "pinyin": "wéi",
+        "meaning": "as (in the capacity of)\nto take sth as\nto be",
+        "tc_hanzi": "為"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "1",
+        "pinyin": "1",
+        "tc_hanzi": "1"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "伟",
+        "pinyin": "wěi",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "偉"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hanzi": "2",
+        "pinyin": "1",
+        "tc_hanzi": "2"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "伟",
+        "pinyin": "wěi",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "偉"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "芳",
+        "pinyin": "fāng",
+        "meaning": "fragrant\nvirtue",
+        "tc_hanzi": "芳"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hanzi": "4",
+        "pinyin": "1",
+        "tc_hanzi": "4"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "伟",
+        "pinyin": "wěi",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "偉"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hanzi": "5",
+        "pinyin": "1",
+        "tc_hanzi": "5"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "娜",
+        "pinyin": "nà",
+        "meaning": "elegant\ngraceful",
+        "tc_hanzi": "娜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "开玩笑",
+        "pinyin": "kāi wán xiào",
+        "meaning": "to joke",
+        "tc_hanzi": "開玩笑"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "重名",
+        "pinyin": "chóng míng",
+        "meaning": "to have the same name",
+        "tc_hanzi": "重名"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "front\nahead\nfirst",
+        "tc_hanzi": "前"
+      },
+      {
+        "hanzi": "20",
+        "pinyin": "2",
+        "tc_hanzi": "20"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "名",
+        "pinyin": "míng",
+        "meaning": "classifier for people",
+        "tc_hanzi": "名"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "肯定",
+        "pinyin": "kěn dìng",
+        "meaning": "to be sure\nto be certain\ndefinite",
+        "tc_hanzi": "肯定"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student\nclassmate\na form of address used when speaking to a student",
+        "tc_hanzi": "同學"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或",
+        "pinyin": "huò",
+        "meaning": "or\neither ... or ... (used to list alternatives)",
+        "tc_hanzi": "或"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "父母",
+        "pinyin": "fù mǔ",
+        "meaning": "father and mother\nparents",
+        "tc_hanzi": "父母"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "表达",
+        "pinyin": "biǎo dá",
+        "meaning": "to express\nto convey",
+        "tc_hanzi": "表達"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "未来",
+        "pinyin": "wèi lái",
+        "meaning": "future\ntomorrow",
+        "tc_hanzi": "未來"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "期望",
+        "pinyin": "qī wàng",
+        "meaning": "to have expectations\nto earnestly hope\nexpectation",
+        "tc_hanzi": "期望"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国人",
+        "pinyin": "zhōng guó rén",
+        "meaning": "Chinese person/people",
+        "tc_hanzi": "中國人"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "不同",
+        "pinyin": "bù tóng",
+        "meaning": "different\nnot the same",
+        "tc_hanzi": "不同"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "年代",
+        "pinyin": "nián dài",
+        "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+        "tc_hanzi": "年代"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "不同",
+        "pinyin": "bù tóng",
+        "meaning": "different\nnot the same",
+        "tc_hanzi": "不同"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "时代",
+        "pinyin": "shí dài",
+        "meaning": "age\nera\nperiod",
+        "tc_hanzi": "時代"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "特点",
+        "pinyin": "tè diǎn",
+        "meaning": "characteristic (feature)\ntrait\nfeature",
+        "tc_hanzi": "特點"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "比如",
+        "pinyin": "bǐ rú",
+        "meaning": "for example",
+        "tc_hanzi": "比如"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "排",
+        "pinyin": "pái",
+        "meaning": "to set in order\nto arrange\nto line up",
+        "tc_hanzi": "排"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "伟",
+        "pinyin": "wěi",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "偉"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "60",
+        "pinyin": "2",
+        "tc_hanzi": "60"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "70",
+        "pinyin": "2",
+        "tc_hanzi": "70"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "常见",
+        "pinyin": "cháng jiàn",
+        "meaning": "commonly seen\ncommon\nto see sth frequently",
+        "tc_hanzi": "常見"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "previous\nfirst (of multiple parts)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "世纪",
+        "pinyin": "shì jì",
+        "meaning": "century",
+        "tc_hanzi": "世紀"
+      },
+      {
+        "hanzi": "60",
+        "pinyin": "2",
+        "tc_hanzi": "60"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "70",
+        "pinyin": "2",
+        "tc_hanzi": "70"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "年代",
+        "pinyin": "nián dài",
+        "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+        "tc_hanzi": "年代"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "社会",
+        "pinyin": "shè huì",
+        "meaning": "society",
+        "tc_hanzi": "社會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普遍",
+        "pinyin": "pǔ biàn",
+        "meaning": "general\ncommon",
+        "tc_hanzi": "普遍"
+      },
+      {
+        "hanzi": "崇尚",
+        "pinyin": "chóng shàng",
+        "meaning": "to hold in esteem\nto revere",
+        "tc_hanzi": "崇尚"
+      },
+      {
+        "hanzi": "军人",
+        "pinyin": "jūn rén",
+        "meaning": "soldier\nmilitary personnel",
+        "tc_hanzi": "軍人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "热衷",
+        "pinyin": "rè zhōng",
+        "meaning": "to feel strongly about\nto be fond of\nobsession",
+        "tc_hanzi": "熱衷"
+      },
+      {
+        "hanzi": "爱国",
+        "pinyin": "ài guó",
+        "meaning": "to love one's country\npatriotic",
+        "tc_hanzi": "愛國"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "主义",
+        "pinyin": "zhǔ yì",
+        "meaning": "-ism\nideology",
+        "tc_hanzi": "主義"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "通过",
+        "pinyin": "tōng guò",
+        "meaning": "through\nvia",
+        "tc_hanzi": "通過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hanzi": "中",
+        "pinyin": "zhōng",
+        "meaning": "within\ninside\namong",
+        "tc_hanzi": "中"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "勤劳",
+        "pinyin": "qín láo",
+        "meaning": "hardworking\nindustrious\ndiligent",
+        "tc_hanzi": "勤勞"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "勇敢",
+        "pinyin": "yǒng gǎn",
+        "meaning": "brave\ncourageous",
+        "tc_hanzi": "勇敢"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "表达",
+        "pinyin": "biǎo dá",
+        "meaning": "to express\nto convey",
+        "tc_hanzi": "表達"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "种",
+        "pinyin": "zhǒng",
+        "meaning": "kind\ntype\nclassifier for types, kinds, sorts",
+        "tc_hanzi": "種"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "热爱",
+        "pinyin": "rè ài",
+        "meaning": "to love ardently\nto adore",
+        "tc_hanzi": "熱愛"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "年代",
+        "pinyin": "nián dài",
+        "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+        "tc_hanzi": "年代"
+      },
+      {
+        "hanzi": "，“",
+        "tc_hanzi": "，“"
+      },
+      {
+        "hanzi": "伟",
+        "pinyin": "wěi",
+        "meaning": "big\nlarge\ngreat",
+        "tc_hanzi": "偉"
+      },
+      {
+        "hanzi": "”、“",
+        "tc_hanzi": "”、“"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "军",
+        "pinyin": "jūn",
+        "meaning": "army\nmilitary",
+        "tc_hanzi": "軍"
+      },
+      {
+        "hanzi": "”、“",
+        "tc_hanzi": "”、“"
+      },
+      {
+        "hanzi": "勇",
+        "pinyin": "yǒng",
+        "meaning": "brave",
+        "tc_hanzi": "勇"
+      },
+      {
+        "hanzi": "”、“",
+        "tc_hanzi": "”、“"
+      },
+      {
+        "hanzi": "建国",
+        "pinyin": "jiàn guó",
+        "meaning": "to found a country\nnation-building",
+        "tc_hanzi": "建國"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比较",
+        "pinyin": "bǐ jiào",
+        "meaning": "comparatively\nrelatively",
+        "tc_hanzi": "比較"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "普遍",
+        "pinyin": "pǔ biàn",
+        "meaning": "general\ncommon",
+        "tc_hanzi": "普遍"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "previous\nfirst (of multiple parts)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "世纪",
+        "pinyin": "shì jì",
+        "meaning": "century",
+        "tc_hanzi": "世紀"
+      },
+      {
+        "hanzi": "80",
+        "pinyin": "2",
+        "tc_hanzi": "80"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "90",
+        "pinyin": "2",
+        "tc_hanzi": "90"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "年代",
+        "pinyin": "nián dài",
+        "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+        "tc_hanzi": "年代"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "市场",
+        "pinyin": "shì chǎng",
+        "meaning": "market",
+        "tc_hanzi": "市場"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "经济",
+        "pinyin": "jīng jì",
+        "meaning": "economy\neconomic",
+        "tc_hanzi": "經濟"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "原因",
+        "pinyin": "yuán yīn",
+        "meaning": "cause\norigin\nreason",
+        "tc_hanzi": "原因"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "父母",
+        "pinyin": "fù mǔ",
+        "meaning": "father and mother\nparents",
+        "tc_hanzi": "父母"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "希望",
+        "pinyin": "xī wàng",
+        "meaning": "to wish for\nto desire\nto hope",
+        "tc_hanzi": "希望"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男孩",
+        "pinyin": "nán hái",
+        "meaning": "boy",
+        "tc_hanzi": "男孩"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "性格",
+        "pinyin": "xìng gé",
+        "meaning": "nature\ntemperament\ncharacter",
+        "tc_hanzi": "性格"
+      },
+      {
+        "hanzi": "光明磊落",
+        "pinyin": "guāng míng lěi luò",
+        "meaning": "open and candid (idiom)\nstraightforward and upright",
+        "tc_hanzi": "光明磊落"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "未来",
+        "pinyin": "wèi lái",
+        "meaning": "future\ntomorrow",
+        "tc_hanzi": "未來"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "优秀",
+        "pinyin": "yōu xiù",
+        "meaning": "outstanding\nexcellent",
+        "tc_hanzi": "優秀"
+      },
+      {
+        "hanzi": "出众",
+        "pinyin": "chū zhòng",
+        "meaning": "to stand out\noutstanding",
+        "tc_hanzi": "出眾"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女孩",
+        "pinyin": "nǚ hái",
+        "meaning": "girl",
+        "tc_hanzi": "女孩"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "美丽",
+        "pinyin": "měi lì",
+        "meaning": "beautiful",
+        "tc_hanzi": "美麗"
+      },
+      {
+        "hanzi": "文静",
+        "pinyin": "wén jìng",
+        "meaning": "(of a person's manner or character) gentle and quiet",
+        "tc_hanzi": "文靜"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "年代",
+        "pinyin": "nián dài",
+        "meaning": "a decade of a century (e.g. the Sixties)\nage\nera",
+        "tc_hanzi": "年代"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "父母",
+        "pinyin": "fù mǔ",
+        "meaning": "father and mother\nparents",
+        "tc_hanzi": "父母"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男孩",
+        "pinyin": "nán hái",
+        "meaning": "boy",
+        "tc_hanzi": "男孩"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "磊",
+        "pinyin": "lěi",
+        "meaning": "fig. sincere\nopen and honest",
+        "tc_hanzi": "磊"
+      },
+      {
+        "hanzi": "”“",
+        "tc_hanzi": "”“"
+      },
+      {
+        "hanzi": "杰",
+        "pinyin": "jié",
+        "meaning": "heroic\noutstanding person\nprominent",
+        "tc_hanzi": "傑"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女孩",
+        "pinyin": "nǚ hái",
+        "meaning": "girl",
+        "tc_hanzi": "女孩"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "婷",
+        "pinyin": "tíng",
+        "meaning": "graceful",
+        "tc_hanzi": "婷"
+      },
+      {
+        "hanzi": "”、“",
+        "tc_hanzi": "”、“"
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng",
+        "meaning": "still\ncalm\nquiet",
+        "tc_hanzi": "靜"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "et cetera\nand so on",
+        "tc_hanzi": "等"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "00",
+        "pinyin": "2",
+        "tc_hanzi": "00"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "2",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "带",
+        "pinyin": "dài",
+        "meaning": "to have\nto contain",
+        "tc_hanzi": "帶"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zǐ",
+        "meaning": "child\nson",
+        "tc_hanzi": "子"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比较",
+        "pinyin": "bǐ jiào",
+        "meaning": "comparatively\nrelatively",
+        "tc_hanzi": "比較"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "流行",
+        "pinyin": "liú xíng",
+        "meaning": "to spread\npopular",
+        "tc_hanzi": "流行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "比如",
+        "pinyin": "bǐ rú",
+        "meaning": "for example",
+        "tc_hanzi": "比如"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "男孩",
+        "pinyin": "nán hái",
+        "meaning": "boy",
+        "tc_hanzi": "男孩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zǐ",
+        "meaning": "child\nson",
+        "tc_hanzi": "子"
+      },
+      {
+        "hanzi": "轩",
+        "pinyin": "xuān",
+        "meaning": "high\ntall",
+        "tc_hanzi": "軒"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女孩",
+        "pinyin": "nǚ hái",
+        "meaning": "girl",
+        "tc_hanzi": "女孩"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "子",
+        "pinyin": "zǐ",
+        "meaning": "child\nson",
+        "tc_hanzi": "子"
+      },
+      {
+        "hanzi": "涵",
+        "pinyin": "hán",
+        "meaning": "to contain\nto include\nculvert",
+        "tc_hanzi": "涵"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "也许",
+        "pinyin": "yě xǔ",
+        "meaning": "perhaps\nmaybe",
+        "tc_hanzi": "也許"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "受",
+        "pinyin": "shòu",
+        "meaning": "to receive\nto accept",
+        "tc_hanzi": "受"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "古代",
+        "pinyin": "gǔ dài",
+        "meaning": "ancient times\nolden times",
+        "tc_hanzi": "古代"
+      },
+      {
+        "hanzi": "言情小说",
+        "pinyin": "yán qíng xiǎo shuō",
+        "meaning": "romantic fiction",
+        "tc_hanzi": "言情小說"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "影响",
+        "pinyin": "yǐng xiǎng",
+        "meaning": "influence\neffect\nimpact",
+        "tc_hanzi": "影響"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "00",
+        "pinyin": "2",
+        "tc_hanzi": "00"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "10",
+        "pinyin": "2",
+        "tc_hanzi": "10"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比较",
+        "pinyin": "bǐ jiào",
+        "meaning": "comparatively\nrelatively",
+        "tc_hanzi": "比較"
+      },
+      {
+        "hanzi": "富有",
+        "pinyin": "fù yǒu",
+        "meaning": "rich\nfull of",
+        "tc_hanzi": "富有"
+      },
+      {
+        "hanzi": "诗意",
+        "pinyin": "shī yì",
+        "meaning": "poetry\npoetic quality or flavor",
+        "tc_hanzi": "詩意"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "     ",
+        "tc_hanzi": "     "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "也许",
+        "pinyin": "yě xǔ",
+        "meaning": "perhaps\nmaybe",
+        "tc_hanzi": "也許"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "通过",
+        "pinyin": "tōng guò",
+        "meaning": "through\nvia",
+        "tc_hanzi": "通過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing)",
+        "tc_hanzi": "名字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come round",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "判断",
+        "pinyin": "pàn duàn",
+        "meaning": "to judge\nto determine\njudgment",
+        "tc_hanzi": "判斷"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "别人",
+        "pinyin": "bié ren",
+        "meaning": "other people",
+        "tc_hanzi": "別人"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "大概",
+        "pinyin": "dà gài",
+        "meaning": "roughly\nprobably\napproximate",
+        "tc_hanzi": "大概"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "年龄",
+        "pinyin": "nián líng",
+        "meaning": "(a person's) age",
+        "tc_hanzi": "年齡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "suiran",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "虽然",
+        "pinyin": "suī rán",
+        "meaning": "although\neven though",
+        "tc_hanzi": "雖然"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那么",
+        "pinyin": "nà me",
+        "meaning": "like that\nso\nthen",
+        "tc_hanzi": "那麼"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "准确",
+        "pinyin": "zhǔn què",
+        "meaning": "accurate\nprecise",
+        "tc_hanzi": "準確"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但",
+        "pinyin": "dàn",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一定",
+        "pinyin": "yí dìng",
+        "meaning": "certainly\nnecessarily",
+        "tc_hanzi": "一定"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "根据",
+        "pinyin": "gēn jù",
+        "meaning": "according to\nbased on\nbasis",
+        "tc_hanzi": "根據"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "比如",
+        "pinyin": "bǐ rú",
+        "meaning": "for example",
+        "tc_hanzi": "比如"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "当",
+        "pinyin": "dāng",
+        "meaning": "when\nduring",
+        "tc_hanzi": "當"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "听到",
+        "pinyin": "tīng dào",
+        "meaning": "to hear",
+        "tc_hanzi": "聽到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hanzi": "建国",
+        "pinyin": "jiàn guó",
+        "meaning": "to found a country\nnation-building",
+        "tc_hanzi": "建國"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "也许",
+        "pinyin": "yě xǔ",
+        "meaning": "perhaps\nmaybe",
+        "tc_hanzi": "也許"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "1960",
+        "pinyin": "4",
+        "tc_hanzi": "1960"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "until (a time)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "1979",
+        "pinyin": "4",
+        "tc_hanzi": "1979"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year",
+        "tc_hanzi": "年"
+      },
+      {
+        "hanzi": "之间",
+        "pinyin": "zhī jiān",
+        "meaning": "between\namong\ninter-",
+        "tc_hanzi": "之間"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出生",
+        "pinyin": "chū shēng",
+        "meaning": "to be born",
+        "tc_hanzi": "出生"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "g": "ruguo-jiu",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hanzi": "静",
+        "pinyin": "jìng",
+        "meaning": "still\ncalm\nquiet",
+        "tc_hanzi": "靜"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "也许",
+        "pinyin": "yě xǔ",
+        "meaning": "perhaps\nmaybe",
+        "tc_hanzi": "也許"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "80",
+        "pinyin": "2",
+        "tc_hanzi": "80"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hanzi": "90",
+        "pinyin": "2",
+        "tc_hanzi": "90"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      }
+    ],
+    "version": 2,
+    "synopsis": "If you learn the characteristics of names from different periods in China, you can guess someone's age just by hearing their name.",
+    "syllable_times": [
+      0.546233985758161,
+      0.9070294784580499,
+      1.179138321995465,
+      1.45124716553288,
+      1.678004535147392,
+      1.904761904761905,
+      2.086167800453515,
+      2.403628117913832,
+      4.036281179138322,
+      4.35374149659864,
+      5.170068027210885,
+      5.396825396825397,
+      5.578231292517007,
+      5.804988662131519,
+      6.167800453514739,
+      6.439909297052155,
+      6.621315192743764,
+      6.757369614512472,
+      6.938775510204081,
+      7.346938775510204,
+      7.619047619047619,
+      7.981859410430839,
+      8.344671201814059,
+      8.526077097505668,
+      8.75283446712018,
+      9.024943310657596,
+      10.56689342403628,
+      10.9297052154195,
+      11.2077044245003,
+      11.51927437641723,
+      11.79138321995465,
+      12.06349206349206,
+      12.38095238095238,
+      12.6984126984127,
+      13.01103394401131,
+      13.33333333333333,
+      13.60544217687075,
+      13.87755102040816,
+      14.33106575963719,
+      14.5315690096939,
+      14.73922902494331,
+      14.87528344671202,
+      15.14739229024943,
+      16.4172335600907,
+      16.73469387755102,
+      17.14285714285714,
+      17.41496598639456,
+      17.73242630385488,
+      18.04988662131519,
+      18.2312925170068,
+      18.41269841269841,
+      18.77551020408163,
+      18.95691609977324,
+      19.13832199546485,
+      19.9546485260771,
+      20.63492063492064,
+      20.99773242630386,
+      21.95011337868481,
+      22.63038548752834,
+      22.99319727891157,
+      23.85487528344671,
+      24.62585034013605,
+      24.98866213151927,
+      25.75963718820862,
+      26.66666666666667,
+      27.07482993197279,
+      27.98185941043084,
+      28.84353741496599,
+      29.1609977324263,
+      31.42857142857143,
+      31.65532879818594,
+      31.90425799325077,
+      32.15419501133787,
+      32.33219221609966,
+      32.61153201567614,
+      33.56009070294785,
+      33.87755102040816,
+      34.18105230703363,
+      34.42176870748299,
+      34.64852607709751,
+      34.92063492063492,
+      35.13963028106784,
+      35.32879818594105,
+      35.60090702947846,
+      36.3718820861678,
+      36.78004535147392,
+      36.98490284643249,
+      37.18474130777529,
+      37.32426303854875,
+      37.73242630385487,
+      37.96947930823448,
+      38.32199546485261,
+      38.50340136054422,
+      38.64747735039663,
+      38.90967675003082,
+      39.45578231292517,
+      39.68253968253968,
+      39.95346952894613,
+      41.9501133786848,
+      42.13151927437642,
+      42.40362811791383,
+      42.63038548752834,
+      42.81179138321995,
+      43.11089413450444,
+      43.44671201814059,
+      43.718820861678,
+      43.94824917664697,
+      44.17233560090703,
+      45.17006802721088,
+      45.3968253968254,
+      45.59775800106853,
+      45.89569160997733,
+      46.30385487528345,
+      46.48526077097506,
+      46.75736961451247,
+      46.98412698412698,
+      47.39229024943311,
+      47.59999588270067,
+      47.89115646258504,
+      48.20861678004535,
+      48.48072562358276,
+      48.69738009296014,
+      48.84353741496599,
+      49.1156462585034,
+      50.70294784580499,
+      50.9297052154195,
+      51.0626224136804,
+      51.24716553287982,
+      51.40005176273741,
+      51.74603174603175,
+      52.38095238095238,
+      52.56235827664399,
+      52.79520059525035,
+      53.06122448979592,
+      53.46938775510204,
+      53.69614512471655,
+      53.96825396825397,
+      54.19501133786848,
+      54.4671201814059,
+      54.82993197278912,
+      55.10204081632653,
+      55.28344671201814,
+      56.59863945578231,
+      56.82539682539682,
+      57.41496598639456,
+      57.68707482993197,
+      57.95918367346939,
+      58.14058956916099,
+      58.36734693877551,
+      58.68480725623583,
+      59.54648526077097,
+      60.40816326530612,
+      60.77097505668934,
+      61.04308390022675,
+      61.31519274376417,
+      61.54714515043835,
+      61.99546485260771,
+      62.34229140409247,
+      62.57021000384204,
+      62.72108843537415,
+      63.03854875283447,
+      64.58049886621315,
+      64.8888587826003,
+      65.12471655328798,
+      65.62358276643991,
+      65.94270549119753,
+      66.25850340136054,
+      66.53061224489795,
+      66.7342199288432,
+      66.93877551020408,
+      67.89115646258503,
+      68.20861678004535,
+      68.48072562358277,
+      68.82486152697362,
+      69.16099773242631,
+      69.43602529649255,
+      69.73303698128085,
+      70.06802721088435,
+      70.34013605442176,
+      71.33786848072562,
+      71.65532879818593,
+      72.29024943310658,
+      72.6077097505669,
+      72.8344671201814,
+      73.06122448979592,
+      74.33106575963718,
+      74.60872078724775,
+      74.89235675941958,
+      75.10204081632654,
+      75.37414965986395,
+      75.73696145124717,
+      76.05442176870748,
+      76.2358276643991,
+      76.4625850340136,
+      76.82539682539682,
+      77.14285714285714,
+      77.77777777777777,
+      78.0952380952381,
+      78.3219954648526,
+      78.91156462585035,
+      79.18367346938776,
+      79.41043083900227,
+      79.54648526077098,
+      79.68253968253968,
+      79.9092970521542,
+      80.86167800453515,
+      81.23481284519907,
+      81.54195011337869,
+      81.7687074829932,
+      81.99546485260771,
+      82.17687074829932,
+      82.40362811791383,
+      83.31065759637188,
+      84.35374149659864,
+      85.26077097505669,
+      86.21315192743764,
+      86.62131519274377,
+      86.87626323861187,
+      87.07482993197279,
+      87.33125891976759,
+      87.70975056689342,
+      87.84580498866214,
+      88.08999843245898,
+      88.25396825396825,
+      90.24943310657596,
+      90.47619047619048,
+      90.6575963718821,
+      90.84490803662209,
+      91.06575963718821,
+      91.47392290249434,
+      91.74603174603175,
+      92.10884353741497,
+      92.37826201576635,
+      92.6077097505669,
+      92.87981859410431,
+      93.78684807256236,
+      94.01360544217687,
+      94.33106575963718,
+      94.55500422756043,
+      94.78458049886622,
+      95.01133786848072,
+      95.23809523809524,
+      95.37414965986395,
+      95.64625850340136,
+      96.55328798185941,
+      96.78004535147392,
+      96.96391692126033,
+      97.23356009070295,
+      97.36961451247166,
+      97.64172335600907,
+      97.95918367346938,
+      98.2766439909297,
+      98.59410430839003,
+      98.95691609977324,
+      99.31972789115646,
+      99.50835835869003,
+      99.67843364493922,
+      99.9546485260771,
+      100.6802721088435,
+      100.9977324263039,
+      101.2698412698413,
+      101.5385682911961,
+      101.7970030035044,
+      102.0408163265306,
+      103.0839002267574,
+      103.3560090702948,
+      103.8548752834467,
+      104.172335600907,
+      104.3537414965986,
+      104.5804988662131,
+      106.3038548752834,
+      106.6461417313672,
+      106.9387755102041,
+      107.1201814058957,
+      107.3015873015873,
+      107.4829931972789,
+      107.7097505668934,
+      107.8693107887485,
+      108.0725623582766,
+      108.7074829931973,
+      108.9795918367347,
+      109.1609977324263,
+      109.4331065759637,
+      109.7052154195011,
+      109.9773242630386,
+      110.2040816326531,
+      110.4355431222289,
+      111.1111111111111,
+      111.4285714285714,
+      111.609977324263,
+      112.5170068027211,
+      113.5147392290249,
+      114.1496598639456,
+      114.421768707483,
+      115.6009070294785,
+      115.8740775716009,
+      116.0838370913082,
+      116.3718820861678,
+      116.5986394557823,
+      116.8253968253968,
+      117.0806820047485,
+      117.5510204081633,
+      117.8408831019311,
+      118.0498866213152,
+      118.6394557823129,
+      119.546485260771,
+      119.9092970521542,
+      120.1171459304445,
+      121.8140589569161,
+      122.1315192743764,
+      122.3582766439909,
+      122.6757369614512,
+      122.9478458049887,
+      123.4467120181406,
+      123.6734693877551,
+      123.9002267573696,
+      125.0793650793651,
+      125.3670992013237,
+      125.6689342403628,
+      125.8049886621315,
+      126.0770975056689,
+      126.3492063492064,
+      126.4852607709751,
+      126.6787605560815,
+      126.8934240362812,
+      128.2993197278911,
+      128.5260770975057,
+      128.9342403628118,
+      129.297052154195,
+      129.5238095238095,
+      129.929590207154,
+      130.249433106576,
+      131.3832199546485,
+      131.6553287981859,
+      131.8820861678005,
+      132.2902494331066,
+      132.6077097505669,
+      133.8321995464853,
+      134.0589569160998,
+      134.3310657596372,
+      134.528156478475,
+      134.9206349206349,
+      135.1927437641723,
+      135.4648526077098,
+      135.6462585034014,
+      135.8658606114397,
+      136.1184489857832,
+      136.4172335600907,
+      136.5636564798918,
+      136.8169092108223,
+      137.7777777777778,
+      138.0952380952381,
+      138.5034013605442,
+      138.6812266650117,
+      138.9115646258503,
+      139.1383219954648,
+      139.279324754988,
+      139.6371882086168,
+      140.1360544217687,
+      140.3628117913832,
+      140.5442176870748,
+      140.8067691291745,
+      140.997793793131,
+      141.210565062699,
+      141.4965986394558,
+      143.4013605442177,
+      143.6734693877551,
+      144.0816326530612,
+      144.3362527808384,
+      144.5351473922902,
+      144.6712018140589,
+      144.8913891448612,
+      145.0340136054422,
+      145.3514739229025,
+      145.5902922742915,
+      145.9410430839002,
+      146.7120181405896,
+      146.984126984127,
+      147.2108843537415,
+      147.5283446712018,
+      147.7552089388386,
+      147.9818594104308,
+      148.390022675737,
+      148.6167800453515,
+      148.8888888888889,
+      149.1156462585034,
+      150.6575963718821,
+      150.8843537414966,
+      151.1362524809456,
+      151.3832199546485,
+      151.5646258503401,
+      151.7892030468591,
+      152.0634920634921,
+      152.2448979591837,
+      152.4263038548753,
+      152.6530612244898,
+      153.7414965986395,
+      153.968253968254,
+      154.1496598639456,
+      154.3764172335601,
+      154.6031746031746,
+      154.8336835420371,
+      154.9659863945578,
+      155.2484635044651,
+      156.5532879818594,
+      156.8253968253968,
+      157.6417233560091,
+      157.8684807256236,
+      158.0671956314108,
+      158.3073383923596,
+      158.5068668206285,
+      158.6237049990465,
+      158.8208616780045,
+      159.2290249433107,
+      159.7732426303855,
+      160.1360544217687,
+      160.5442176870748,
+      161.859410430839,
+      162.1494854438532,
+      162.766439909297,
+      163.0385487528345,
+      163.2199546485261,
+      163.6281179138322,
+      163.8548752834467,
+      164.1269841269841,
+      164.3537414965986,
+      164.5351473922902,
+      164.9433106575964,
+      165.2607709750567,
+      165.4875283446712,
+      165.7624780156704,
+      166.0770975056689,
+      166.2727481648571,
+      166.4852607709751,
+      166.6213151927438,
+      166.8565404429953,
+      167.0387513095654,
+      167.2562358276644,
+      168.390022675737,
+      168.6167800453515,
+      168.9105981384065,
+      169.1609977324263,
+      169.5238095238095,
+      169.750566893424,
+      170.7936507936508,
+      171.1248543521415,
+      171.4285714285714,
+      171.694588994133,
+      171.8596151703217,
+      172.0181405895692,
+      172.3356009070295,
+      172.562358276644,
+      172.8344671201814,
+      173.2866088285672,
+      173.6054421768708,
+      174.0589569160998,
+      174.3764172335601,
+      174.6938775510204,
+      175.2455555555556,
+      175.2455555555556
+    ],
+    "sentence_indices": [
+      7,
+      10,
+      36,
+      66,
+      90,
+      92,
+      112,
+      124,
+      143,
+      160,
+      175,
+      194,
+      196,
+      211,
+      227,
+      264,
+      266,
+      282,
+      295,
+      314,
+      316,
+      329,
+      343,
+      369
+    ],
+    "sentence_translations": [
+      "The most frequent names in China",
+      "",
+      "Recently, People’s Daily released data about names, showing the top 20 most frequent names in China.",
+      "The top 5 names are: 1. Zhang Wei; 2. Wang Wei; 3. Wang Fang; 4. Li Wei; 5. Li Na.",
+      "Some people jokingly said that you will find at least one of the twenty names among your classmates or colleagues.",
+      "",
+      "When parents name their children, they often choose names that express expectations for their future.",
+      "Chinese names from different ages have different traits.",
+      "For example, the top ranked given name “Wei” is frequently seen among people born in 1960s and 1970s.",
+      "In the 60s and 70s of the last century, people admired soldiers and were passionately patriotic.",
+      "People wanted to include “diligence” and “courage” in the names to express this passion.",
+      "So from that era you often see names such as “Wei”, “Jun”, “Yong” and “Jianguo”.",
+      "",
+      "In the 80s and 90s of the last century, due to phenomenas like the market-oriented economy, ..",
+      ".. many parents wished their boys to be openhearted and successful, and their girls to be beautiful and gentle.",
+      "So parents at that time liked to use characters such as “Lei” and “Jie” for boys; and “Ting” and “Jing” for girls.",
+      "",
+      "Names with the character “Zi” are common among children born in the 2000s and the 2010s.",
+      "Such as “Zixuan” for boys and “Zihan” for girls.",
+      "Perhaps influenced by ancient romantic novels, children of the 2000s and 2010s often have poetic names.",
+      "",
+      "From now on, perhaps you can roughly guess people's age by their names.",
+      "Even though it is not that accurate, you can still make an educated guess.",
+      "For example, if you hear that a person is named “Wang Jianguo”, he is probably born between 1960 and 1979.",
+      "If the person's name is “Li Jing”, perhaps she was born in the 1980s or 1990s…"
+    ]
+  }
+}

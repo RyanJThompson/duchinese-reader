@@ -1,0 +1,752 @@
+{
+  "id": "375",
+  "title": "Do You Like Chinese Songs?",
+  "level": "newbie",
+  "date": "2017-09-16",
+  "synopsis": "Ben and Lili discuss Chinese songs.",
+  "audioUrl": "https://static.duchinese.net/documents/524/2dea5908056ee349352383ae62c144dd9fec0e65.mp3?1589791807",
+  "series": {
+    "title": "Ben’s life in China 4: Trouble in Paradise",
+    "chapter": 0,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你喜欢听中文歌吗？\n\n丽丽：本，你喜欢听中文歌吗？\n本：喜欢。\n丽丽：你喜欢听谁的歌？\n本：五月天的。\n丽丽：啊，我也喜欢他们。你最喜欢他们的什么歌？\n本：《突然好想你》。",
+    "traditional": "你喜歡聽中文歌嗎？\n\n麗麗：本，你喜歡聽中文歌嗎？\n本：喜歡。\n麗麗：你喜歡聽誰的歌？\n本：五月天的。\n麗麗：啊，我也喜歡他們。你最喜歡他們的什麼歌？\n本：《突然好想你》。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Do you like to listen to Chinese songs?"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：本，你喜欢听中文歌吗？",
+      "traditional": "麗麗：本，你喜歡聽中文歌嗎？",
+      "pinyin": "lì lì běn nǐ xǐ huan tīng zhōng wén gē ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ben, do you like to listen to Chinese songs?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：喜欢。",
+      "traditional": "本：喜歡。",
+      "pinyin": "běn xǐ huan",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Yes, I like to."
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：你喜欢听谁的歌？",
+      "traditional": "麗麗：你喜歡聽誰的歌？",
+      "pinyin": "lì lì nǐ xǐ huan tīng shéi de gē",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Whose songs do you like to listen to?"
+    },
+    {
+      "index": 8,
+      "simplified": "本：五月天的。",
+      "traditional": "本：五月天的。",
+      "pinyin": "běn wǔ yuè tiān de",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Mayday's."
+    },
+    {
+      "index": 10,
+      "simplified": "丽丽：啊，我也喜欢他们。你最喜欢他们的什么歌？",
+      "traditional": "麗麗：啊，我也喜歡他們。你最喜歡他們的什麼歌？",
+      "pinyin": "lì lì a wǒ yě xǐ huan tā men nǐ zuì xǐ huan tā men de shén me gē",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ah, I also like them. Which of their songs do you like the most?"
+    },
+    {
+      "index": 12,
+      "simplified": "本：《突然好想你》。",
+      "traditional": "本：《突然好想你》。",
+      "pinyin": "běn tū rán hǎo xiǎng nǐ",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: “Suddenly missing you so bad”."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中文",
+      "traditional": "中文",
+      "pinyin": "zhōng wén",
+      "meaning": "Chinese\nChinese written language",
+      "hsk": 3
+    },
+    {
+      "hanzi": "歌",
+      "traditional": "歌",
+      "pinyin": "gē",
+      "meaning": "song",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五月天",
+      "traditional": "五月天",
+      "pinyin": "wǔ yuè tiān",
+      "meaning": "Mayday, Taiwanese boy band formed in the late 1990s",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "突然",
+      "traditional": "突然",
+      "pinyin": "tū rán",
+      "meaning": "suddenly\nabruptly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to miss (feel wistful about the absence of sb or sth)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "tc_hanzi": "歌"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "tc_hanzi": "歌"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "tc_hanzi": "歌"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "五月天",
+        "pinyin": "wǔ yuè tiān",
+        "meaning": "Mayday, Taiwanese boy band formed in the late 1990s",
+        "tc_hanzi": "五月天"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "歌",
+        "pinyin": "gē",
+        "meaning": "song",
+        "tc_hanzi": "歌"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：《",
+        "tc_hanzi": "：《"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "突然",
+        "pinyin": "tū rán",
+        "meaning": "suddenly\nabruptly",
+        "tc_hanzi": "突然"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to miss (feel wistful about the absence of sb or sth)",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "》。",
+        "tc_hanzi": "》。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben and Lili discuss Chinese songs.",
+    "syllable_times": [
+      0.37414965986394555,
+      0.6699999999999999,
+      1.2188208616780045,
+      1.683673469387755,
+      2.0294784580498866,
+      2.2959183673469385,
+      2.568027210884354,
+      4.74,
+      4.74,
+      4.74,
+      5.986394557823129,
+      6.41,
+      6.8533333333333335,
+      7.222222222222222,
+      7.77,
+      8.105,
+      8.47,
+      8.83219954648526,
+      9.83,
+      9.83,
+      10.328798185941043,
+      11.649659863945578,
+      11.649659863945578,
+      11.649659863945578,
+      12.09,
+      12.493333333333334,
+      12.857142857142856,
+      13.33,
+      13.87,
+      14.09,
+      16.17,
+      16.17,
+      16.45124716553288,
+      16.66,
+      17.07,
+      18.588435374149658,
+      18.588435374149658,
+      18.588435374149658,
+      19.36,
+      19.756235827664398,
+      19.988662131519273,
+      20.311791383219955,
+      20.56,
+      20.869999999999997,
+      22.17687074829932,
+      22.517006802721088,
+      22.906666666666666,
+      23.32333333333333,
+      23.77,
+      24.08,
+      24.39,
+      24.79591836734694,
+      25.255102040816325,
+      25.54421768707483,
+      27.188208616780045,
+      27.188208616780045,
+      27.549999999999997,
+      28.01,
+      28.53,
+      29.03628117913832,
+      29.630816
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      20,
+      21,
+      25,
+      26,
+      35,
+      36,
+      41,
+      42,
+      59,
+      60,
+      67
+    ],
+    "sentence_translations": [
+      "Do you like to listen to Chinese songs?",
+      "",
+      "Lili: Ben, do you like to listen to Chinese songs?",
+      "",
+      "Ben: Yes, I like to.",
+      "",
+      "Lili: Whose songs do you like to listen to?",
+      "",
+      "Ben: Mayday's.",
+      "",
+      "Lili: Ah, I also like them. Which of their songs do you like the most?",
+      "",
+      "Ben: “Suddenly missing you so bad”.",
+      ""
+    ]
+  }
+}

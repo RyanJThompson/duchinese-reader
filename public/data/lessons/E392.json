@@ -1,0 +1,945 @@
+{
+  "id": "E392",
+  "title": "Chair or Table",
+  "level": "newbie",
+  "date": "2020-01-02",
+  "synopsis": "Little Ming’s Dad wants to buy a new table. But, does Little Ming’s Mom agree?",
+  "audioUrl": "https://static.duchinese.net/documents/50392/02359584703a2163044418500819647d1978576a.mp3?1577460881",
+  "series": null,
+  "fullText": {
+    "simplified": "椅子比桌子便宜\n\n小明的爸爸：我们买新的桌子吧。\n小明的妈妈：怎么了？\n小明的爸爸：这个桌子太低了。\n小明的妈妈：我觉得不低啊。\n小明的爸爸：可是我比你高啊。所以我觉得低。\n小明的妈妈：给你买新椅子吧。椅子比桌子便宜。\n",
+    "traditional": "椅子比桌子便宜\n\n小明的爸爸：我們買新的桌子吧。\n小明的媽媽：怎麼了？\n小明的爸爸：這個桌子太低了。\n小明的媽媽：我覺得不低啊。\n小明的爸爸：可是我比你高啊。所以我覺得低。\n小明的媽媽：給你買新椅子吧。椅子比桌子便宜。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "A chair is cheaper than a table"
+    },
+    {
+      "index": 2,
+      "simplified": "小明的爸爸：我们买新的桌子吧。",
+      "traditional": "小明的爸爸：我們買新的桌子吧。",
+      "pinyin": "xiǎo míng de bà ba wǒ men mǎi xīn de zhuō zi ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Dad: Let’s buy a new table."
+    },
+    {
+      "index": 4,
+      "simplified": "小明的妈妈：怎么了？",
+      "traditional": "小明的媽媽：怎麼了？",
+      "pinyin": "xiǎo míng de mā ma zěn me le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Mom: Why?"
+    },
+    {
+      "index": 6,
+      "simplified": "小明的爸爸：这个桌子太低了。",
+      "traditional": "小明的爸爸：這個桌子太低了。",
+      "pinyin": "xiǎo míng de bà ba zhè ge zhuō zi tài dī le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Dad: This table is too low."
+    },
+    {
+      "index": 8,
+      "simplified": "小明的妈妈：我觉得不低啊。",
+      "traditional": "小明的媽媽：我覺得不低啊。",
+      "pinyin": "xiǎo míng de mā ma wǒ jué de bù dī a",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Mom: I don’t think it’s low."
+    },
+    {
+      "index": 10,
+      "simplified": "小明的爸爸：可是我比你高啊。所以我觉得低。",
+      "traditional": "小明的爸爸：可是我比你高啊。所以我覺得低。",
+      "pinyin": "xiǎo míng de bà ba kě shì wǒ bǐ nǐ gāo a suǒ yǐ wǒ jué de dī",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Dad: But I’m taller than you. So, I think it’s low."
+    },
+    {
+      "index": 12,
+      "simplified": "小明的妈妈：给你买新椅子吧。椅子比桌子便宜。",
+      "traditional": "小明的媽媽：給你買新椅子吧。椅子比桌子便宜。",
+      "pinyin": "xiǎo míng de mā ma gěi nǐ mǎi xīn yǐ zi ba yǐ zi bǐ zhuō zi pián yi",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Ming’s Mom: Let’s buy a new chair for you. A chair is cheaper than a table."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "椅子",
+      "traditional": "椅子",
+      "pinyin": "yǐ zi",
+      "meaning": "chair",
+      "hsk": 1
+    },
+    {
+      "hanzi": "比",
+      "traditional": "比",
+      "pinyin": "bǐ",
+      "meaning": "to compare\nto contrast",
+      "hsk": 2
+    },
+    {
+      "hanzi": "桌子",
+      "traditional": "桌子",
+      "pinyin": "zhuō zi",
+      "meaning": "table",
+      "hsk": 1
+    },
+    {
+      "hanzi": "便宜",
+      "traditional": "便宜",
+      "pinyin": "pián yi",
+      "meaning": "cheap\ninexpensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么了",
+      "traditional": "怎麼了",
+      "pinyin": "zěn me le",
+      "meaning": "What's up?\nWhat happened?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "低",
+      "traditional": "低",
+      "pinyin": "dī",
+      "meaning": "low",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "可是",
+      "traditional": "可是",
+      "pinyin": "kě shì",
+      "meaning": "but\nhowever",
+      "hsk": 4
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "meaning": "high\ntall",
+      "hsk": 2
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair",
+        "tc_hanzi": "椅子"
+      },
+      {
+        "g": "bi-meiyou",
+        "hsk": 2,
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "meaning": "to compare\nto contrast",
+        "tc_hanzi": "比"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table",
+        "tc_hanzi": "桌子"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap\ninexpensive",
+        "tc_hanzi": "便宜"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table",
+        "tc_hanzi": "桌子"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么了",
+        "pinyin": "zěn me le",
+        "meaning": "What's up?\nWhat happened?",
+        "tc_hanzi": "怎麼了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table",
+        "tc_hanzi": "桌子"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "低",
+        "pinyin": "dī",
+        "meaning": "low",
+        "tc_hanzi": "低"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "低",
+        "pinyin": "dī",
+        "meaning": "low",
+        "tc_hanzi": "低"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 4,
+        "hanzi": "可是",
+        "pinyin": "kě shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "可是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bi-meiyou",
+        "hsk": 2,
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "meaning": "to compare\nto contrast",
+        "tc_hanzi": "比"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall",
+        "tc_hanzi": "高"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "低",
+        "pinyin": "dī",
+        "meaning": "low",
+        "tc_hanzi": "低"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair",
+        "tc_hanzi": "椅子"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair",
+        "tc_hanzi": "椅子"
+      },
+      {
+        "g": "bi-meiyou",
+        "hsk": 2,
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "meaning": "to compare\nto contrast",
+        "tc_hanzi": "比"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table",
+        "tc_hanzi": "桌子"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap\ninexpensive",
+        "tc_hanzi": "便宜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming’s Dad wants to buy a new table. But, does Little Ming’s Mom agree?",
+    "syllable_times": [
+      0.37,
+      0.97,
+      1.34,
+      1.625,
+      1.91,
+      2.275,
+      5.644048256890194,
+      5.644048256890194,
+      5.644048256890194,
+      5.644048256890194,
+      5.644048256890194,
+      5.644048256890194,
+      6.050000000000001,
+      6.56,
+      6.95,
+      7.27,
+      7.59,
+      7.9,
+      8.21,
+      10.34679710196371,
+      10.34679710196371,
+      10.34679710196371,
+      10.34679710196371,
+      10.34679710196371,
+      10.34679710196371,
+      10.583333333333332,
+      10.796666666666667,
+      12.738167251564862,
+      12.738167251564862,
+      12.738167251564862,
+      12.738167251564862,
+      12.738167251564862,
+      12.738167251564862,
+      13.094999999999999,
+      13.47,
+      13.895,
+      14.41,
+      14.885,
+      15.36,
+      17.462069229377782,
+      17.462069229377782,
+      17.462069229377782,
+      17.462069229377782,
+      17.462069229377782,
+      17.462069229377782,
+      17.7,
+      18.015,
+      18.43,
+      18.645,
+      18.946983643056267,
+      20.774803333543137,
+      20.774803333543137,
+      20.774803333543137,
+      20.774803333543137,
+      20.774803333543137,
+      20.774803333543137,
+      21.225,
+      21.65,
+      22.02,
+      22.33,
+      22.6,
+      23,
+      24.24,
+      24.7,
+      25.11,
+      25.49,
+      25.775,
+      26.06,
+      28.112181263009134,
+      28.112181263009134,
+      28.112181263009134,
+      28.112181263009134,
+      28.112181263009134,
+      28.112181263009134,
+      28.355,
+      28.57,
+      28.92,
+      29.25,
+      29.514908111795076,
+      29.66,
+      30.89,
+      31.21,
+      31.63,
+      31.94,
+      32.255,
+      32.6,
+      32.94,
+      33.573271,
+      33.573271
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      17,
+      18,
+      24,
+      25,
+      36,
+      37,
+      47,
+      48,
+      64,
+      65,
+      81
+    ],
+    "sentence_translations": [
+      "A chair is cheaper than a table",
+      "",
+      "Little Ming’s Dad: Let’s buy a new table.",
+      "",
+      "Little Ming’s Mom: Why?",
+      "",
+      "Little Ming’s Dad: This table is too low.",
+      "",
+      "Little Ming’s Mom: I don’t think it’s low.",
+      "",
+      "Little Ming’s Dad: But I’m taller than you. So, I think it’s low.",
+      "",
+      "Little Ming’s Mom: Let’s buy a new chair for you. A chair is cheaper than a table.",
+      ""
+    ]
+  }
+}

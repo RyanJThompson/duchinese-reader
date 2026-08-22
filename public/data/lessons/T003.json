@@ -1,0 +1,1541 @@
+{
+  "id": "T003",
+  "title": "Teacher’s Question",
+  "level": "elementary",
+  "date": "2020-04-25",
+  "synopsis": "Can you solve this riddle? What’s the third child’s name?",
+  "audioUrl": "https://static.duchinese.net/documents/60003/12d8818ff25acb38a3f1ee16533dc5ba7c60852a.mp3?1587289669",
+  "series": null,
+  "fullText": {
+    "simplified": "老师问的问题\n\n老师：我可以问你一个问题吗？\n学生：可以。\n老师：有一个人，他叫小明，他的妈妈有三个孩子。第一个孩子叫“大毛”，第二个孩子叫“二毛”，请问第三个孩子叫什么？\n学生：“三毛”。\n老师：不对！\n学生：为什么错了？请你再说一次，说慢一点。\n老师：小明的妈妈有三个孩子，第一个孩子叫大毛，第二个孩子叫二毛，第三个孩子叫什么？\n学生：我知道啦，第三个孩子叫“小明”。",
+    "traditional": "老師問的問題\n\n老師：我可以問你一個問題嗎？\n學生：可以。\n老師：有一個人，他叫小明，他的媽媽有三個孩子。第一個孩子叫“大毛”，第二個孩子叫“二毛”，請問第三個孩子叫什麼？\n學生：“三毛”。\n老師：不對！\n學生：為什麼錯了？請你再說一次，說慢一點。\n老師：小明的媽媽有三個孩子，第一個孩子叫大毛，第二個孩子叫二毛，第三個孩子叫什麼？\n學生：我知道啦，第三個孩子叫“小明”。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "The Teacher’s Question"
+    },
+    {
+      "index": 2,
+      "simplified": "老师：我可以问你一个问题吗？",
+      "traditional": "老師：我可以問你一個問題嗎？",
+      "pinyin": "lǎo shī wǒ kě yǐ wèn nǐ yí ge wèn tí ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Can I ask you a question?"
+    },
+    {
+      "index": 4,
+      "simplified": "学生：可以。",
+      "traditional": "學生：可以。",
+      "pinyin": "xué sheng kě yǐ",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Student: Of course."
+    },
+    {
+      "index": 6,
+      "simplified": "老师：有一个人，他叫小明，他的妈妈有三个孩子。",
+      "traditional": "老師：有一個人，他叫小明，他的媽媽有三個孩子。",
+      "pinyin": "lǎo shī yǒu yí ge rén tā jiào xiǎo míng tā de mā ma yǒu sān ge hái zi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "第一个孩子叫“大毛”，第二个孩子叫“二毛”，",
+      "traditional": "第一個孩子叫“大毛”，第二個孩子叫“二毛”，",
+      "pinyin": "dì yī ge hái zi jiào dà máo dì èr ge hái zi jiào èr máo",
+      "english": "Teacher: There is a person, his name is Little Ming. His mom has three children."
+    },
+    {
+      "index": 8,
+      "simplified": "请问第三个孩子叫什么？",
+      "traditional": "請問第三個孩子叫什麼？",
+      "pinyin": "qǐng wèn dì sān ge hái zi jiào shén me",
+      "english": "The first child’s name is “Big Mao”, the second child’s name is “Second Mao”."
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "What’s the third child’s name?"
+    },
+    {
+      "index": 10,
+      "simplified": "学生：“三毛”。",
+      "traditional": "學生：“三毛”。",
+      "pinyin": "xué sheng sān máo",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Student: “Third Mao”."
+    },
+    {
+      "index": 12,
+      "simplified": "老师：不对！",
+      "traditional": "老師：不對！",
+      "pinyin": "lǎo shī bú duì",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: Wrong!"
+    },
+    {
+      "index": 14,
+      "simplified": "学生：为什么错了？请你再说一次，说慢一点。",
+      "traditional": "學生：為什麼錯了？請你再說一次，說慢一點。",
+      "pinyin": "xué sheng wèi shén me cuò le qǐng nǐ zài shuō yí cì shuō màn yì diǎn",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Student: Why is it wrong? Please say it one more time, talking a bit slower."
+    },
+    {
+      "index": 16,
+      "simplified": "老师：小明的妈妈有三个孩子，",
+      "traditional": "老師：小明的媽媽有三個孩子，",
+      "pinyin": "lǎo shī xiǎo míng de mā ma yǒu sān ge hái zi",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "第一个孩子叫大毛，第二个孩子叫二毛，",
+      "traditional": "第一個孩子叫大毛，第二個孩子叫二毛，",
+      "pinyin": "dì yī ge hái zi jiào dà máo dì èr ge hái zi jiào èr máo",
+      "english": "Teacher: Little Ming’s mom has three children."
+    },
+    {
+      "index": 18,
+      "simplified": "第三个孩子叫什么？",
+      "traditional": "第三個孩子叫什麼？",
+      "pinyin": "dì sān ge hái zi jiào shén me",
+      "english": "The first child is called “Big Mao”. The second child is called “Second Mao”."
+    },
+    {
+      "index": 19,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "What’s the name of the third child?"
+    },
+    {
+      "index": 20,
+      "simplified": "学生：我知道啦，第三个孩子叫“小明”。",
+      "traditional": "學生：我知道啦，第三個孩子叫“小明”。",
+      "pinyin": "xué sheng wǒ zhī dào la dì sān ge hái zi jiào xiǎo míng",
+      "english": ""
+    },
+    {
+      "index": 21,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Student: I know! The third child’s name is “Little Ming”."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "meaning": "student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "meaning": "child",
+      "hsk": 2
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大毛",
+      "traditional": "大毛",
+      "pinyin": "dà máo",
+      "meaning": "Big Mao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二毛",
+      "traditional": "二毛",
+      "pinyin": "èr máo",
+      "meaning": "Second Mao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三毛",
+      "traditional": "三毛",
+      "pinyin": "sān máo",
+      "meaning": "Third Mao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不对",
+      "traditional": "不對",
+      "pinyin": "bú duì",
+      "meaning": "incorrect\nwrong",
+      "hsk": null
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "meaning": "wrong\nerroneous\nincorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "meaning": "classifier for enumerated events: time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "慢",
+      "traditional": "慢",
+      "pinyin": "màn",
+      "meaning": "slow",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一点",
+      "traditional": "一點",
+      "pinyin": "yì diǎn",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "啦",
+      "traditional": "啦",
+      "pinyin": "la",
+      "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+      "hsk": 6
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "大毛",
+        "pinyin": "dà máo",
+        "meaning": "Big Mao (name)",
+        "tc_hanzi": "大毛"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "二毛",
+        "pinyin": "èr máo",
+        "meaning": "Second Mao (name)",
+        "tc_hanzi": "二毛"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "三毛",
+        "pinyin": "sān máo",
+        "meaning": "Third Mao (name)",
+        "tc_hanzi": "三毛"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不对",
+        "pinyin": "bú duì",
+        "meaning": "incorrect\nwrong",
+        "tc_hanzi": "不對"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong\nerroneous\nincorrect",
+        "tc_hanzi": "錯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "ci",
+        "hsk": 2,
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "classifier for enumerated events: time",
+        "tc_hanzi": "次"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "meaning": "slow",
+        "tc_hanzi": "慢"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一点",
+        "pinyin": "yì diǎn",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "大毛",
+        "pinyin": "dà máo",
+        "meaning": "Big Mao (name)",
+        "tc_hanzi": "大毛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "二毛",
+        "pinyin": "èr máo",
+        "meaning": "Second Mao (name)",
+        "tc_hanzi": "二毛"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "啦",
+        "pinyin": "la",
+        "meaning": "sentence-final particle, contraction of 了啊, indicating exclamation",
+        "tc_hanzi": "啦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "孩子",
+        "pinyin": "hái zi",
+        "meaning": "child",
+        "tc_hanzi": "孩子"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Can you solve this riddle? What’s the third child’s name?",
+    "syllable_times": [
+      0.52,
+      0.99,
+      1.33,
+      1.52,
+      1.885,
+      3.7662331485612826,
+      3.7662331485612826,
+      3.7662331485612826,
+      4.25,
+      4.525,
+      4.8,
+      5.06,
+      5.37,
+      5.545,
+      5.72,
+      6.015,
+      6.31,
+      7.524711284109138,
+      7.524711284109138,
+      7.524711284109138,
+      7.865,
+      9.104119391603904,
+      9.104119391603904,
+      9.104119391603904,
+      9.53,
+      9.735333136536857,
+      9.98757047409361,
+      10.84,
+      11.17,
+      11.48,
+      11.850000000000001,
+      12.86,
+      13.07,
+      13.28,
+      13.61,
+      13.99,
+      14.33,
+      14.585,
+      14.84,
+      15.21,
+      16.29,
+      16.473333333333333,
+      16.656666666666666,
+      16.84,
+      17.2,
+      17.75,
+      18.04,
+      18.415,
+      19.45931893186411,
+      19.75,
+      19.95,
+      20.06,
+      20.395,
+      20.95,
+      21.26,
+      21.56,
+      22.58,
+      22.924999999999997,
+      23.6,
+      23.875,
+      24.15,
+      24.27,
+      24.61,
+      25.04,
+      25.29,
+      25.54,
+      26.69793615130136,
+      26.69793615130136,
+      26.69793615130136,
+      27.024400041986638,
+      28.275217169512445,
+      28.275217169512445,
+      28.275217169512445,
+      28.5268784203882,
+      29.87075570407514,
+      29.87075570407514,
+      29.87075570407514,
+      30.206038152415687,
+      30.41396112989571,
+      30.58,
+      30.895,
+      31.68,
+      32.02,
+      32.34,
+      32.61,
+      32.88,
+      33.125,
+      33.98,
+      34.31,
+      34.60333333333333,
+      34.89666666666667,
+      36.701312072320455,
+      36.701312072320455,
+      36.701312072320455,
+      37.065,
+      37.37,
+      37.53,
+      37.870000000000005,
+      38.37,
+      38.75,
+      39.010000000000005,
+      39.27,
+      39.615,
+      40.87,
+      41.04,
+      41.21,
+      41.38,
+      41.765,
+      42.37,
+      42.68,
+      43.045,
+      44.12,
+      44.385,
+      44.65,
+      44.76,
+      45.09,
+      45.62,
+      45.94,
+      46.28,
+      47.35,
+      47.61,
+      47.87,
+      47.99,
+      48.34,
+      48.85,
+      49.12,
+      49.39,
+      51.364553193138406,
+      51.364553193138406,
+      51.364553193138406,
+      51.66,
+      51.95,
+      52.24,
+      53.07,
+      53.28,
+      53.49,
+      53.65,
+      53.995000000000005,
+      54.47,
+      54.79,
+      55.18,
+      55.905601,
+      55.905601
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      17,
+      18,
+      22,
+      23,
+      42,
+      58,
+      66,
+      67,
+      72,
+      73,
+      77,
+      78,
+      95,
+      96,
+      106,
+      120,
+      127,
+      128,
+      142
+    ],
+    "sentence_translations": [
+      "The Teacher’s Question",
+      "",
+      "Teacher: Can I ask you a question?",
+      "",
+      "Student: Of course.",
+      "",
+      "Teacher: There is a person, his name is Little Ming. His mom has three children.",
+      "The first child’s name is “Big Mao”, the second child’s name is “Second Mao”.",
+      "What’s the third child’s name?",
+      "",
+      "Student: “Third Mao”.",
+      "",
+      "Teacher: Wrong!",
+      "",
+      "Student: Why is it wrong? Please say it one more time, talking a bit slower.",
+      "",
+      "Teacher: Little Ming’s mom has three children.",
+      "The first child is called “Big Mao”. The second child is called “Second Mao”.",
+      "What’s the name of the third child?",
+      "",
+      "Student: I know! The third child’s name is “Little Ming”.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "id": "914",
+  "title": "Do You Have an English Menu?",
+  "level": "newbie",
+  "date": "2020-06-29",
+  "synopsis": "Anne asks for an English menu at a Chinese restaurant.",
+  "audioUrl": "https://static.duchinese.net/documents/914/69cb2c410e3776e85e0ce88983d8b1c3bb403ba5.mp3?1588497622",
+  "series": null,
+  "fullText": {
+    "simplified": "请问有英文菜单吗？\n\n安：不好意思！请问有英文菜单吗？我看不懂中文菜单。\n店员：有！我去拿给您。\n安：好的，谢谢！\n店员：不客气！\n",
+    "traditional": "請問有英文菜單嗎？\n\n安：不好意思！請問有英文菜單嗎？我看不懂中文菜單。\n店員：有！我去拿給您。\n安：好的，謝謝！\n店員：不客氣！\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Excuse me, do you have an English menu?"
+    },
+    {
+      "index": 2,
+      "simplified": "安：不好意思！请问有英文菜单吗？我看不懂中文菜单。",
+      "traditional": "安：不好意思！請問有英文菜單嗎？我看不懂中文菜單。",
+      "pinyin": "ān bù hǎo yì si qǐng wèn yǒu yīng wén cài dān ma wǒ kàn bù dǒng zhōng wén cài dān",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I’m sorry, may I ask if you have an English menu? I can’t read the Chinese menu."
+    },
+    {
+      "index": 4,
+      "simplified": "店员：有！我去拿给您。",
+      "traditional": "店員：有！我去拿給您。",
+      "pinyin": "diàn yuán yǒu wǒ qù ná gěi nín",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: We do! I’ll go get it for you."
+    },
+    {
+      "index": 6,
+      "simplified": "安：好的，谢谢！",
+      "traditional": "安：好的，謝謝！",
+      "pinyin": "ān hǎo de xiè xie",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: Great, thanks!"
+    },
+    {
+      "index": 8,
+      "simplified": "店员：不客气！",
+      "traditional": "店員：不客氣！",
+      "pinyin": "diàn yuán bú kè qi",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Shop assistant: You’re welcome!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "英文",
+      "traditional": "英文",
+      "pinyin": "yīng wén",
+      "meaning": "English (language)",
+      "hsk": null
+    },
+    {
+      "hanzi": "菜单",
+      "traditional": "菜單",
+      "pinyin": "cài dān",
+      "meaning": "menu",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "安",
+      "traditional": "安",
+      "pinyin": "ān",
+      "meaning": "Anne (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "懂",
+      "traditional": "懂",
+      "pinyin": "dǒng",
+      "meaning": "to understand\nto comprehend",
+      "hsk": 2
+    },
+    {
+      "hanzi": "中文",
+      "traditional": "中文",
+      "pinyin": "zhōng wén",
+      "meaning": "Chinese\nChinese written language",
+      "hsk": 3
+    },
+    {
+      "hanzi": "店员",
+      "traditional": "店員",
+      "pinyin": "diàn yuán",
+      "meaning": "shop assistant",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to grab\nto seize",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "英文",
+        "pinyin": "yīng wén",
+        "meaning": "English (language)",
+        "tc_hanzi": "英文"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "英文",
+        "pinyin": "yīng wén",
+        "meaning": "English (language)",
+        "tc_hanzi": "英文"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "懂",
+        "pinyin": "dǒng",
+        "meaning": "to understand\nto comprehend",
+        "tc_hanzi": "懂"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to grab\nto seize",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "gei",
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安",
+        "pinyin": "ān",
+        "meaning": "Anne (name)",
+        "tc_hanzi": "安"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "店员",
+        "pinyin": "diàn yuán",
+        "meaning": "shop assistant",
+        "tc_hanzi": "店員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Anne asks for an English menu at a Chinese restaurant.",
+    "syllable_times": [
+      0.325,
+      0.98,
+      1.31,
+      1.58,
+      1.85,
+      2.13,
+      2.41,
+      4.713704245920223,
+      4.713704245920223,
+      4.985,
+      5.28,
+      5.575,
+      6.48,
+      6.845000000000001,
+      7.35,
+      7.89,
+      8.155,
+      8.42,
+      8.73,
+      9.04,
+      10.17,
+      10.565000000000001,
+      10.96,
+      11.179690266761925,
+      11.65,
+      11.975000000000001,
+      12.3,
+      12.675,
+      13.94822320163447,
+      13.94822320163447,
+      13.94822320163447,
+      15.07,
+      15.35,
+      15.72,
+      16.02,
+      16.305,
+      17.575754012362886,
+      17.575754012362886,
+      17.905,
+      18.551912168868668,
+      18.93,
+      20.34686092309819,
+      20.34686092309819,
+      20.34686092309819,
+      20.676666666666666,
+      21.003333333333334,
+      21.631361,
+      21.631361
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      25,
+      26,
+      36,
+      37,
+      43,
+      44,
+      48
+    ],
+    "sentence_translations": [
+      "Excuse me, do you have an English menu?",
+      "",
+      "Anne: I’m sorry, may I ask if you have an English menu? I can’t read the Chinese menu.",
+      "",
+      "Shop assistant: We do! I’ll go get it for you.",
+      "",
+      "Anne: Great, thanks!",
+      "",
+      "Shop assistant: You’re welcome!",
+      ""
+    ]
+  }
+}

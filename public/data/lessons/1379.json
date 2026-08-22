@@ -1,0 +1,1427 @@
+{
+  "id": "1379",
+  "title": "No Heating?",
+  "level": "elementary",
+  "date": "2022-02-12",
+  "synopsis": "The heating in Ben’s apartment isn’t working.",
+  "audioUrl": "https://static.duchinese.net/documents/1379/2f80194bb1402e968b58293a34fcfd48043bf879.mp3?1636463502",
+  "series": null,
+  "fullText": {
+    "simplified": "没有暖气？\n\n物业：喂，您好！这里是物业，有什么可以帮您吗？\n本：您好，我是住在802的。我想问一下，听说星期一就开始有暖气了，为什么我家的暖气一点儿都不热呢？\n物业：先生，是这样的，暖气管道有点儿问题，我们正在修。\n本：那什么时候可以修好？天气太冷了！\n物业：明天上午就可以了。\n本：好吧，谢谢，再见！\n物业：不客气，再见！",
+    "traditional": "沒有暖氣？\n\n物業：喂，您好！這裡是物業，有什麼可以幫您嗎？\n本：您好，我是住在802的。我想問一下，聽說星期一就開始有暖氣了，為什麼我家的暖氣一點兒都不熱呢？\n物業：先生，是這樣的，暖氣管道有點兒問題，我們正在修。\n本：那什麼時候可以修好？天氣太冷了！\n物業：明天上午就可以了。\n本：好吧，謝謝，再見！\n物業：不客氣，再見！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "No heating?"
+    },
+    {
+      "index": 2,
+      "simplified": "物业：喂，您好！这里是物业，有什么可以帮您吗？",
+      "traditional": "物業：喂，您好！這裡是物業，有什麼可以幫您嗎？",
+      "pinyin": "wù yè wéi nín hǎo zhè lǐ shì wù yè yǒu shén me kě yǐ bāng nín ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Property Management: Hello! This is property management. Is there anything I can help you with?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：您好，我是住在802的。",
+      "traditional": "本：您好，我是住在802的。",
+      "pinyin": "běn nín hǎo wǒ shì zhù zài 3 de",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "我想问一下，听说星期一就开始有暖气了，为什么我家的暖气一点儿都不热呢？",
+      "traditional": "我想問一下，聽說星期一就開始有暖氣了，為什麼我家的暖氣一點兒都不熱呢？",
+      "pinyin": "wǒ xiǎng wèn yí xià tīng shuō xīng qī yī jiù kāi shǐ yǒu nuǎn qì le wèi shén me wǒ jiā de nuǎn qì yì diǎn'r dōu bú rè ne",
+      "english": "Ben: Hello, I live in 802."
+    },
+    {
+      "index": 6,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "I wanted to ask, I heard that we had heating starting on Monday. Why is the heat in my apartment not warm at all?"
+    },
+    {
+      "index": 7,
+      "simplified": "物业：先生，是这样的，",
+      "traditional": "物業：先生，是這樣的，",
+      "pinyin": "wù yè xiān sheng shì zhè yàng de",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "暖气管道有点儿问题，我们正在修。",
+      "traditional": "暖氣管道有點兒問題，我們正在修。",
+      "pinyin": "nuǎn qì guǎn dào yǒu diǎn'r wèn tí wǒ men zhèng zài xiū",
+      "english": "Property Management: Sir, here’s what’s going on."
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "There’s something wrong with the heating pipes; we’re fixing it right now."
+    },
+    {
+      "index": 10,
+      "simplified": "本：那什么时候可以修好？天气太冷了！",
+      "traditional": "本：那什麼時候可以修好？天氣太冷了！",
+      "pinyin": "běn nà shén me shí hou kě yǐ xiū hǎo tiān qì tài lěng le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Then when will it be fixed? It’s too cold!"
+    },
+    {
+      "index": 12,
+      "simplified": "物业：明天上午就可以了。",
+      "traditional": "物業：明天上午就可以了。",
+      "pinyin": "wù yè míng tiān shàng wǔ jiù kě yǐ le",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Property Management: It’ll be fixed tomorrow morning."
+    },
+    {
+      "index": 14,
+      "simplified": "本：好吧，谢谢，再见！",
+      "traditional": "本：好吧，謝謝，再見！",
+      "pinyin": "běn hǎo ba xiè xie zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Alright, thank you. Goodbye!"
+    },
+    {
+      "index": 16,
+      "simplified": "物业：不客气，再见！",
+      "traditional": "物業：不客氣，再見！",
+      "pinyin": "wù yè bú kè qi zài jiàn",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Property Management: You’re welcome. Goodbye!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "暖气",
+      "traditional": "暖氣",
+      "pinyin": "nuǎn qì",
+      "meaning": "heater\ncentral heating\nwarm air",
+      "hsk": null
+    },
+    {
+      "hanzi": "物业",
+      "traditional": "物業",
+      "pinyin": "wù yè",
+      "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+      "hsk": 6
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "meaning": "to help\nto assist",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "听说",
+      "traditional": "聽說",
+      "pinyin": "tīng shuō",
+      "meaning": "to hear (sth said)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期一",
+      "traditional": "星期一",
+      "pinyin": "xīng qī yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "as early as\nalready\nright away",
+      "hsk": 2
+    },
+    {
+      "hanzi": "开始",
+      "traditional": "開始",
+      "pinyin": "kāi shǐ",
+      "meaning": "to begin\nto start",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一点儿",
+      "traditional": "一點兒",
+      "pinyin": "yì diǎn'r",
+      "meaning": "a bit\na little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "(not) at all",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "先生",
+      "traditional": "先生",
+      "pinyin": "xiān sheng",
+      "meaning": "Mister (Mr.)\ngentleman\nsir",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "meaning": "this kind of\nlike this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "管道",
+      "traditional": "管道",
+      "pinyin": "guǎn dào",
+      "meaning": "tubing\npipeline\nmeans",
+      "hsk": null
+    },
+    {
+      "hanzi": "点儿",
+      "traditional": "點兒",
+      "pinyin": "diǎn'r",
+      "meaning": "a little\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "修",
+      "traditional": "修",
+      "pinyin": "xiū",
+      "meaning": "to repair\nto build",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(suffix indicating completion or readiness)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold\ncold in manner; frosty",
+      "hsk": 1
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "meaning": "morning\nbefore noon",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "meaning": "goodbye\nsee you again later",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bú kè qi",
+      "meaning": "you're welcome\ndon't mention it",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "暖气",
+        "pinyin": "nuǎn qì",
+        "meaning": "heater\ncentral heating\nwarm air",
+        "tc_hanzi": "暖氣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "物业",
+        "pinyin": "wù yè",
+        "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+        "tc_hanzi": "物業"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "物业",
+        "pinyin": "wù yè",
+        "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+        "tc_hanzi": "物業"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "帮",
+        "pinyin": "bāng",
+        "meaning": "to help\nto assist",
+        "tc_hanzi": "幫"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "802",
+        "pinyin": "3",
+        "tc_hanzi": "802"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听说",
+        "pinyin": "tīng shuō",
+        "meaning": "to hear (sth said)",
+        "tc_hanzi": "聽說"
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīng qī yī",
+        "meaning": "Monday",
+        "tc_hanzi": "星期一"
+      },
+      {
+        "g": "jiu-promptness",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "开始",
+        "pinyin": "kāi shǐ",
+        "meaning": "to begin\nto start",
+        "tc_hanzi": "開始"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "暖气",
+        "pinyin": "nuǎn qì",
+        "meaning": "heater\ncentral heating\nwarm air",
+        "tc_hanzi": "暖氣"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "暖气",
+        "pinyin": "nuǎn qì",
+        "meaning": "heater\ncentral heating\nwarm air",
+        "tc_hanzi": "暖氣"
+      },
+      {
+        "g": "erhua",
+        "hsk": 1,
+        "hanzi": "一点儿",
+        "pinyin": "yì diǎn'r",
+        "meaning": "a bit\na little",
+        "tc_hanzi": "一點兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "(not) at all",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "物业",
+        "pinyin": "wù yè",
+        "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+        "tc_hanzi": "物業"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "先生",
+        "pinyin": "xiān sheng",
+        "meaning": "Mister (Mr.)\ngentleman\nsir",
+        "tc_hanzi": "先生"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这样",
+        "pinyin": "zhè yàng",
+        "meaning": "this kind of\nlike this",
+        "tc_hanzi": "這樣"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "暖气",
+        "pinyin": "nuǎn qì",
+        "meaning": "heater\ncentral heating\nwarm air",
+        "tc_hanzi": "暖氣"
+      },
+      {
+        "hanzi": "管道",
+        "pinyin": "guǎn dào",
+        "meaning": "tubing\npipeline\nmeans",
+        "tc_hanzi": "管道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "erhua",
+        "hsk": 1,
+        "hanzi": "点儿",
+        "pinyin": "diǎn'r",
+        "meaning": "a little\nsome",
+        "tc_hanzi": "點兒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hanzi": "修",
+        "pinyin": "xiū",
+        "meaning": "to repair\nto build",
+        "tc_hanzi": "修"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "修",
+        "pinyin": "xiū",
+        "meaning": "to repair\nto build",
+        "tc_hanzi": "修"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold\ncold in manner; frosty",
+        "tc_hanzi": "冷"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "物业",
+        "pinyin": "wù yè",
+        "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+        "tc_hanzi": "物業"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "morning\nbefore noon",
+        "tc_hanzi": "上午"
+      },
+      {
+        "g": "jiu-promptness",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "keyi",
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "物业",
+        "pinyin": "wù yè",
+        "meaning": "property\nreal estate\nabbr. for 物业管理|物業管理, property management",
+        "tc_hanzi": "物業"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "meaning": "you're welcome\ndon't mention it",
+        "tc_hanzi": "不客氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye\nsee you again later",
+        "tc_hanzi": "再見"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "The heating in Ben’s apartment isn’t working.",
+    "syllable_times": [
+      0.37414965986394555,
+      0.86,
+      1.3775510204081631,
+      3.214285714285714,
+      3.214285714285714,
+      3.214285714285714,
+      3.91,
+      4.325,
+      5.35,
+      5.5895691609977325,
+      5.91,
+      6.247165532879818,
+      6.4229024943310655,
+      7.43,
+      7.709750566893423,
+      7.953514739229025,
+      8.26,
+      8.429705215419501,
+      8.662131519274377,
+      8.8718820861678,
+      9.081632653061224,
+      10.4,
+      10.4,
+      10.770975056689341,
+      11.88,
+      12.114512471655328,
+      12.8,
+      13.15,
+      13.75,
+      14.09297052154195,
+      14.353741496598639,
+      14.73922902494331,
+      15.459183673469386,
+      15.742630385487528,
+      16.258503401360542,
+      16.59297052154195,
+      16.79705215419501,
+      17.448979591836736,
+      17.86848072562358,
+      18.69047619047619,
+      19.206349206349206,
+      19.501133786848072,
+      20.19,
+      20.470521541950113,
+      20.821995464852606,
+      21.49,
+      21.8140589569161,
+      22.307256235827662,
+      22.7891156462585,
+      24.01,
+      24.353741496598637,
+      24.693877551020407,
+      25.34,
+      25.878684807256235,
+      26.16780045351474,
+      26.35487528344671,
+      26.706349206349206,
+      27.43,
+      27.78344671201814,
+      28.69,
+      29.002267573696145,
+      29.200680272108844,
+      29.72222222222222,
+      30.578231292517007,
+      30.578231292517007,
+      30.578231292517007,
+      31.020408163265305,
+      31.62,
+      31.910430839002267,
+      32.15986394557823,
+      32.44,
+      33.11,
+      33.46371882086168,
+      33.66780045351474,
+      33.96258503401361,
+      34.42,
+      34.733560090702944,
+      34.94331065759637,
+      35.26077097505669,
+      35.96,
+      36.30952380952381,
+      36.69,
+      37.00113378684807,
+      37.19387755102041,
+      38.39,
+      38.39,
+      38.69614512471655,
+      39.002267573696145,
+      39.24603174603175,
+      39.489999999999995,
+      40.15,
+      40.42517006802721,
+      40.66326530612245,
+      41.045,
+      42.44,
+      42.90249433106576,
+      43.67,
+      44.25170068027211,
+      44.55,
+      46.03,
+      46.03,
+      46.03,
+      46.42290249433106,
+      46.58163265306122,
+      46.87074829931973,
+      47.42,
+      47.667500000000004,
+      47.919501133786845,
+      48.151927437641724,
+      49.92,
+      49.92,
+      50.40249433106576,
+      51.507936507936506,
+      51.99,
+      53.32,
+      53.70181405895691,
+      55.09,
+      55.09,
+      55.09,
+      55.419501133786845,
+      55.651927437641724,
+      56.28,
+      56.621315192743765,
+      57.7
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      23,
+      24,
+      35,
+      59,
+      60,
+      68,
+      78,
+      79,
+      93,
+      94,
+      102,
+      103,
+      112,
+      113,
+      119
+    ],
+    "sentence_translations": [
+      "No heating?",
+      "",
+      "Property Management: Hello! This is property management. Is there anything I can help you with?",
+      "",
+      "Ben: Hello, I live in 802.",
+      "I wanted to ask, I heard that we had heating starting on Monday. Why is the heat in my apartment not warm at all?",
+      "",
+      "Property Management: Sir, here’s what’s going on.",
+      "There’s something wrong with the heating pipes; we’re fixing it right now.",
+      "",
+      "Ben: Then when will it be fixed? It’s too cold!",
+      "",
+      "Property Management: It’ll be fixed tomorrow morning.",
+      "",
+      "Ben: Alright, thank you. Goodbye!",
+      "",
+      "Property Management: You’re welcome. Goodbye!",
+      ""
+    ]
+  }
+}

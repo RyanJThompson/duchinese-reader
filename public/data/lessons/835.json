@@ -1,0 +1,1598 @@
+{
+  "id": "835",
+  "title": "Ordering Milk",
+  "level": "elementary",
+  "date": "2020-02-01",
+  "synopsis": "Ben is trying to order some milk, but it’s not going so well.",
+  "audioUrl": "https://static.duchinese.net/documents/835/c047e13704279da0da91dc5edf95fda32627e3ea.mp3?1580203672",
+  "series": null,
+  "fullText": {
+    "simplified": "我要二奶\n\n丽丽：你想喝什么？\n本：我想喝奶。你呢？\n丽丽：我也想喝奶。\n本：好！服务员，我要二奶！服……\n丽丽：本！本！\n本：怎么了？\n丽丽：你不能说“我要二奶”！\n本：啊？为什么？你想喝奶，我也想喝奶，那不是“二奶”吗？\n丽丽：在中文里，“二奶”是“小老婆”的意思，不是“两杯牛奶”的意思。你说“我要二奶”，哪个服务员敢过来啊！\n本：天啊！中文太难了！服务员，我要两杯牛奶。",
+    "traditional": "我要二奶\n\n麗麗：你想喝什麼？\n本：我想喝奶。你呢？\n麗麗：我也想喝奶。\n本：好！服務員，我要二奶！服……\n麗麗：本！本！\n本：怎麼了？\n麗麗：你不能說“我要二奶”！\n本：啊？為什麼？你想喝奶，我也想喝奶，那不是“二奶”嗎？\n麗麗：在中文裡，“二奶”是“小老婆”的意思，不是“兩杯牛奶”的意思。你說“我要二奶”，哪個服務員敢過來啊！\n本：天啊！中文太難了！服務員，我要兩杯牛奶。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "“I want a mistress”"
+    },
+    {
+      "index": 2,
+      "simplified": "丽丽：你想喝什么？",
+      "traditional": "麗麗：你想喝什麼？",
+      "pinyin": "lì lì nǐ xiǎng hē shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: What do you want to drink?"
+    },
+    {
+      "index": 4,
+      "simplified": "本：我想喝奶。你呢？",
+      "traditional": "本：我想喝奶。你呢？",
+      "pinyin": "běn wǒ xiǎng hē nǎi nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I want to drink milk. What about you?"
+    },
+    {
+      "index": 6,
+      "simplified": "丽丽：我也想喝奶。",
+      "traditional": "麗麗：我也想喝奶。",
+      "pinyin": "lì lì wǒ yě xiǎng hē nǎi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: I also want to drink milk."
+    },
+    {
+      "index": 8,
+      "simplified": "本：好！服务员，我要二奶！服……",
+      "traditional": "本：好！服務員，我要二奶！服……",
+      "pinyin": "běn hǎo fú wù yuán wǒ yào èr nǎi fú",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ok! Waiter, I want two milk! Wai…"
+    },
+    {
+      "index": 10,
+      "simplified": "丽丽：本！本！",
+      "traditional": "麗麗：本！本！",
+      "pinyin": "lì lì běn běn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: Ben! Ben!"
+    },
+    {
+      "index": 12,
+      "simplified": "本：怎么了？",
+      "traditional": "本：怎麼了？",
+      "pinyin": "běn zěn me le",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: What is it?"
+    },
+    {
+      "index": 14,
+      "simplified": "丽丽：你不能说“我要二奶”！",
+      "traditional": "麗麗：你不能說“我要二奶”！",
+      "pinyin": "lì lì nǐ bù néng shuō wǒ yào èr nǎi",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lili: You can’t say \"I want two milk\"!"
+    },
+    {
+      "index": 16,
+      "simplified": "本：啊？为什么？你想喝奶，我也想喝奶，那不是“二奶”吗？",
+      "traditional": "本：啊？為什麼？你想喝奶，我也想喝奶，那不是“二奶”嗎？",
+      "pinyin": "běn a wèi shén me nǐ xiǎng hē nǎi wǒ yě xiǎng hē nǎi nà bú shì èr nǎi ma",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Ah? Why? You want to drink milk, I also want to drink milk, isn’t that “two milk”?"
+    },
+    {
+      "index": 18,
+      "simplified": "丽丽：在中文里，“二奶”是“小老婆”的意思，不是“两杯牛奶”的意思。",
+      "traditional": "麗麗：在中文裡，“二奶”是“小老婆”的意思，不是“兩杯牛奶”的意思。",
+      "pinyin": "lì lì zài zhōng wén lǐ èr nǎi shì xiǎo lǎo pó de yì si bú shì liǎng bēi niú nǎi de yì si",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "你说“我要二奶”，哪个服务员敢过来啊！",
+      "traditional": "你說“我要二奶”，哪個服務員敢過來啊！",
+      "pinyin": "nǐ shuō wǒ yào èr nǎi nǎ ge fú wù yuán gǎn guò lái a",
+      "english": "Lili: In Chinese, “two milk” means “mistress”, it doesn't mean “two glasses of milk”."
+    },
+    {
+      "index": 20,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "If you say “I want a mistress”, what waiter would dare to come over!"
+    },
+    {
+      "index": 21,
+      "simplified": "本：天啊！中文太难了！服务员，我要两杯牛奶。",
+      "traditional": "本：天啊！中文太難了！服務員，我要兩杯牛奶。",
+      "pinyin": "běn tiān a zhōng wén tài nán le fú wù yuán wǒ yào liǎng bēi niú nǎi",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Heavens! Chinese is so difficult! Waiter, I want two glasses of milk."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "二奶",
+      "traditional": "二奶",
+      "pinyin": "èr nǎi",
+      "meaning": "mistress\nsecond wife\nlover",
+      "hsk": null
+    },
+    {
+      "hanzi": "丽丽",
+      "traditional": "麗麗",
+      "pinyin": "lì lì",
+      "meaning": "Lili (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "奶",
+      "traditional": "奶",
+      "pinyin": "nǎi",
+      "meaning": "breast\nmilk",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "服",
+      "traditional": "服",
+      "pinyin": "fú",
+      "meaning": "to serve\nto obey",
+      "hsk": null
+    },
+    {
+      "hanzi": "怎么了",
+      "traditional": "怎麼了",
+      "pinyin": "zěn me le",
+      "meaning": "What's up?\nWhat happened?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "interjection of surprise\nAh!",
+      "hsk": 3
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中文",
+      "traditional": "中文",
+      "pinyin": "zhōng wén",
+      "meaning": "Chinese\nChinese written language",
+      "hsk": 3
+    },
+    {
+      "hanzi": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小老婆",
+      "traditional": "小老婆",
+      "pinyin": "xiǎo lǎo pó",
+      "meaning": "concubine\nmistress\n(dialect) woman",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "meaning": "meaning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "meaning": "cow's milk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "敢",
+      "traditional": "敢",
+      "pinyin": "gǎn",
+      "meaning": "to dare",
+      "hsk": 4
+    },
+    {
+      "hanzi": "过来",
+      "traditional": "過來",
+      "pinyin": "guò lái",
+      "meaning": "to come over\nto come up",
+      "hsk": null
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "sky\nheaven",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "二奶",
+        "pinyin": "èr nǎi",
+        "meaning": "mistress\nsecond wife\nlover",
+        "tc_hanzi": "二奶"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "奶",
+        "pinyin": "nǎi",
+        "meaning": "breast\nmilk",
+        "tc_hanzi": "奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "奶",
+        "pinyin": "nǎi",
+        "meaning": "breast\nmilk",
+        "tc_hanzi": "奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "二奶",
+        "pinyin": "èr nǎi",
+        "meaning": "mistress\nsecond wife\nlover",
+        "tc_hanzi": "二奶"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "服",
+        "pinyin": "fú",
+        "meaning": "to serve\nto obey",
+        "tc_hanzi": "服"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么了",
+        "pinyin": "zěn me le",
+        "meaning": "What's up?\nWhat happened?",
+        "tc_hanzi": "怎麼了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "二奶",
+        "pinyin": "èr nǎi",
+        "meaning": "mistress\nsecond wife\nlover",
+        "tc_hanzi": "二奶"
+      },
+      {
+        "hanzi": "”！",
+        "tc_hanzi": "”！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "interjection of surprise\nAh!",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "奶",
+        "pinyin": "nǎi",
+        "meaning": "breast\nmilk",
+        "tc_hanzi": "奶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "奶",
+        "pinyin": "nǎi",
+        "meaning": "breast\nmilk",
+        "tc_hanzi": "奶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "hanzi": "奶",
+        "pinyin": "nǎi",
+        "meaning": "breast\nmilk",
+        "tc_hanzi": "奶"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "丽丽",
+        "pinyin": "lì lì",
+        "meaning": "Lili (name)",
+        "tc_hanzi": "麗麗"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside",
+        "tc_hanzi": "裡"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "二奶",
+        "pinyin": "èr nǎi",
+        "meaning": "mistress\nsecond wife\nlover",
+        "tc_hanzi": "二奶"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "小老婆",
+        "pinyin": "xiǎo lǎo pó",
+        "meaning": "concubine\nmistress\n(dialect) woman",
+        "tc_hanzi": "小老婆"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "意思",
+        "pinyin": "yì si",
+        "meaning": "meaning",
+        "tc_hanzi": "意思"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "二奶",
+        "pinyin": "èr nǎi",
+        "meaning": "mistress\nsecond wife\nlover",
+        "tc_hanzi": "二奶"
+      },
+      {
+        "hanzi": "”，",
+        "tc_hanzi": "”，"
+      },
+      {
+        "g": "na",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which\nwhat",
+        "tc_hanzi": "哪"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "敢",
+        "pinyin": "gǎn",
+        "meaning": "to dare",
+        "tc_hanzi": "敢"
+      },
+      {
+        "hanzi": "过来",
+        "pinyin": "guò lái",
+        "meaning": "to come over\nto come up",
+        "tc_hanzi": "過來"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "sky\nheaven",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中文",
+        "pinyin": "zhōng wén",
+        "meaning": "Chinese\nChinese written language",
+        "tc_hanzi": "中文"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Ben is trying to order some milk, but it’s not going so well.",
+    "syllable_times": [
+      0.315,
+      0.63,
+      0.92,
+      3.1727126836326547,
+      3.1727126836326547,
+      3.1727126836326547,
+      3.37,
+      3.72,
+      3.95,
+      4.225,
+      5.412274577961587,
+      5.412274577961587,
+      5.73,
+      6.13,
+      6.465,
+      7.81,
+      8,
+      9.485570822496339,
+      9.485570822496339,
+      9.485570822496339,
+      9.73,
+      9.940000000000001,
+      10.15,
+      10.379999999999999,
+      12.49176850331255,
+      12.49176850331255,
+      13.7,
+      13.953333333333333,
+      14.206666666666667,
+      15.28,
+      15.559999999999999,
+      15.84,
+      16.18,
+      16.911562334378882,
+      17.45408361948025,
+      17.45408361948025,
+      17.45408361948025,
+      18.0795959505629,
+      19.816160325415296,
+      19.816160325415296,
+      20.120874379453365,
+      20.294965046650628,
+      22.057538895070035,
+      22.057538895070035,
+      22.057538895070035,
+      22.37,
+      22.65,
+      22.93,
+      23.63,
+      23.945,
+      24.26,
+      24.59,
+      26.582538769919182,
+      26.582538769919182,
+      27.64,
+      27.92,
+      28.2,
+      29.79,
+      29.99,
+      30.24,
+      30.55,
+      31.31,
+      31.67,
+      31.970000000000002,
+      32.27,
+      32.55,
+      33.254667516170784,
+      33.93,
+      34.17,
+      34.52762520970861,
+      34.8,
+      35.07,
+      37.11643185813497,
+      37.11643185813497,
+      37.11643185813497,
+      37.31,
+      37.545,
+      37.78,
+      38.51,
+      38.8,
+      39.49,
+      39.81,
+      40.204425438769114,
+      40.571482472890295,
+      40.864999999999995,
+      40.98,
+      41.19,
+      42.14,
+      42.47,
+      42.8,
+      43.1,
+      43.39,
+      43.685,
+      43.98,
+      44.1,
+      44.35,
+      45.66,
+      45.87937926551242,
+      46.77,
+      47.035,
+      47.3,
+      47.6,
+      48.41,
+      48.66,
+      48.91,
+      49.12,
+      49.33,
+      49.54,
+      49.74,
+      49.955,
+      50.17,
+      52.080578335570536,
+      52.080578335570536,
+      52.49,
+      53.49,
+      53.85,
+      54.24,
+      54.58,
+      54.92,
+      56.12,
+      56.40333333333333,
+      56.68666666666667,
+      57.58,
+      57.885,
+      58.41,
+      58.79,
+      59.19,
+      59.474999999999994,
+      60.073288,
+      60.073288
+    ],
+    "sentence_indices": [
+      3,
+      5,
+      12,
+      13,
+      23,
+      24,
+      32,
+      33,
+      45,
+      46,
+      52,
+      53,
+      57,
+      58,
+      69,
+      70,
+      96,
+      97,
+      123,
+      137,
+      138,
+      156
+    ],
+    "sentence_translations": [
+      "“I want a mistress”",
+      "",
+      "Lili: What do you want to drink?",
+      "",
+      "Ben: I want to drink milk. What about you?",
+      "",
+      "Lili: I also want to drink milk.",
+      "",
+      "Ben: Ok! Waiter, I want two milk! Wai…",
+      "",
+      "Lili: Ben! Ben!",
+      "",
+      "Ben: What is it?",
+      "",
+      "Lili: You can’t say \"I want two milk\"!",
+      "",
+      "Ben: Ah? Why? You want to drink milk, I also want to drink milk, isn’t that “two milk”?",
+      "",
+      "Lili: In Chinese, “two milk” means “mistress”, it doesn't mean “two glasses of milk”.",
+      "If you say “I want a mistress”, what waiter would dare to come over!",
+      "",
+      "Ben: Heavens! Chinese is so difficult! Waiter, I want two glasses of milk.",
+      ""
+    ]
+  }
+}

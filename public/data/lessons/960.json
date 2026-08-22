@@ -1,0 +1,556 @@
+{
+  "id": "960",
+  "title": "What are you drinking?",
+  "level": "newbie",
+  "date": "2019-12-04",
+  "synopsis": "At the restaurant, Li and Anne are looking at the menu, deciding what to order.",
+  "audioUrl": "https://static.duchinese.net/documents/960/b18a896d82d716c6744117718d02c7edbf79d55c.mp3?1591186078",
+  "series": {
+    "title": "Newbie Course 2: Lunch Date with Li",
+    "chapter": 3,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "你喝什么？\n\nLi：你吃什么？\nAnne：我吃这个、这个和那个。你呢？\nLi：我吃这个和那个。你喝什么？\nAnne：我喝水。你呢？\nLi：我也喝水。",
+    "traditional": "你喝什麼？\n\nLi：你吃什麼？\nAnne：我吃這個、這個和那個。你呢？\nLi：我吃這個和那個。你喝什麼？\nAnne：我喝水。你呢？\nLi：我也喝水。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "What are you drinking?"
+    },
+    {
+      "index": 2,
+      "simplified": "Li：你吃什么？",
+      "traditional": "Li：你吃什麼？",
+      "pinyin": "nǐ chī shén me",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: What are you eating?"
+    },
+    {
+      "index": 4,
+      "simplified": "Anne：我吃这个、这个和那个。你呢？",
+      "traditional": "Anne：我吃這個、這個和那個。你呢？",
+      "pinyin": "wǒ chī zhè ge zhè ge hé nà ge nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I’ll eat this, this, and that. And you?"
+    },
+    {
+      "index": 6,
+      "simplified": "Li：我吃这个和那个。你喝什么？",
+      "traditional": "Li：我吃這個和那個。你喝什麼？",
+      "pinyin": "wǒ chī zhè ge hé nà ge nǐ hē shén me",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Li: I’ll eat this and that. What are you drinking?"
+    },
+    {
+      "index": 8,
+      "simplified": "Anne：我喝水。你呢？",
+      "traditional": "Anne：我喝水。你呢？",
+      "pinyin": "wǒ hē shuǐ nǐ ne",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Anne: I’ll drink water. What about you?"
+    },
+    {
+      "index": 10,
+      "simplified": "Li：我也喝水。",
+      "traditional": "Li：我也喝水。",
+      "pinyin": "wǒ yě hē shuǐ",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Li: I’ll also drink water."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这个",
+      "traditional": "這個",
+      "pinyin": "zhè ge",
+      "meaning": "this",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那个",
+      "traditional": "那個",
+      "pinyin": "nà ge",
+      "meaning": "that\n(also pronounced nèi ge)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "hsk": 1
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那个",
+        "pinyin": "nà ge",
+        "meaning": "that\n(also pronounced nèi ge)",
+        "tc_hanzi": "那個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这个",
+        "pinyin": "zhè ge",
+        "meaning": "this",
+        "tc_hanzi": "這個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那个",
+        "pinyin": "nà ge",
+        "meaning": "that\n(also pronounced nèi ge)",
+        "tc_hanzi": "那個"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Anne：",
+        "tc_hanzi": "Anne："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ne",
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "Li：",
+        "tc_hanzi": "Li："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "tc_hanzi": "水"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "At the restaurant, Li and Anne are looking at the menu, deciding what to order.",
+    "syllable_times": [
+      0.45,
+      0.68,
+      1.0204081632653061,
+      2.88,
+      3.22,
+      3.516666666666667,
+      3.8133333333333335,
+      5.69,
+      6.25,
+      6.575963718820861,
+      6.95,
+      7.7,
+      8.18,
+      8.78,
+      9.200680272108844,
+      9.569160997732427,
+      10.76,
+      11.11,
+      12.96,
+      13.19,
+      13.48,
+      13.76,
+      14.34,
+      14.71,
+      15.028344671201813,
+      16.62,
+      16.9,
+      17.193877551020407,
+      17.465,
+      19.51,
+      19.89,
+      20.28344671201814,
+      21.28,
+      21.62,
+      23.5,
+      23.78,
+      24.01360544217687,
+      24.3,
+      24.936372
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      11,
+      12,
+      24,
+      25,
+      36,
+      37,
+      45,
+      46,
+      52
+    ],
+    "sentence_translations": [
+      "What are you drinking?",
+      "",
+      "Li: What are you eating?",
+      "",
+      "Anne: I’ll eat this, this, and that. And you?",
+      "",
+      "Li: I’ll eat this and that. What are you drinking?",
+      "",
+      "Anne: I’ll drink water. What about you?",
+      "",
+      "Li: I’ll also drink water.",
+      ""
+    ]
+  }
+}

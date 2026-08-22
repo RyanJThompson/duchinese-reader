@@ -1,0 +1,1600 @@
+{
+  "id": "1165",
+  "title": "Do Your Homework",
+  "level": "newbie",
+  "date": "2020-12-30",
+  "synopsis": "Little Ming is too busy having fun on a Sunday to do his homework!",
+  "audioUrl": "https://static.duchinese.net/documents/1165/4f2e34d75ceeaaa9daae88f928bf14fdb2e01511.mp3?1608993998",
+  "series": null,
+  "fullText": {
+    "simplified": "做作业\n\n    星期天的早上，小明玩游戏，他很高兴。妈妈说：“做作业吧！”\n    星期天的中午，小明去公园，他很高兴。妈妈问：“做作业了吗？”\n    星期天的下午，小明去跑步，他很高兴。妈妈问：“你什么时候做作业？\n    星期天的晚上，小明看电影，他很高兴。妈妈问：“你为什么不做作业？”\n    星期一的早上，小明五点起床。他做作业，他不高兴。妈妈问：“为什么五点起床？”\n    星期一的早上，小明上课时睡觉了。老师很生气，小明也很生气。他问自己：“为什么昨天我不做作业？”",
+    "traditional": "做作業\n\n    星期天的早上，小明玩遊戲，他很高興。媽媽說：“做作業吧！”\n    星期天的中午，小明去公園，他很高興。媽媽問：“做作業了嗎？”\n    星期天的下午，小明去跑步，他很高興。媽媽問：“你什麼時候做作業？\n    星期天的晚上，小明看電影，他很高興。媽媽問：“你為什麼不做作業？”\n    星期一的早上，小明五點起床。他做作業，他不高興。媽媽問：“為什麼五點起床？”\n    星期一的早上，小明上課時睡覺了。老師很生氣，小明也很生氣。他問自己：“為什麼昨天我不做作業？”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Do Your Homework"
+    },
+    {
+      "index": 2,
+      "simplified": "星期天的早上，小明玩游戏，他很高兴。妈妈说：“做作业吧！”",
+      "traditional": "星期天的早上，小明玩遊戲，他很高興。媽媽說：“做作業吧！”",
+      "pinyin": "xīng qī tiān de zǎo shang xiǎo míng wán yóu xì tā hěn gāo xìng mā ma shuō zuò zuò yè ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "On Sunday morning, Little Ming was playing games and was in a good mood. His mom said, “Do your homework!”"
+    },
+    {
+      "index": 4,
+      "simplified": "星期天的中午，小明去公园，他很高兴。妈妈问：“做作业了吗？”",
+      "traditional": "星期天的中午，小明去公園，他很高興。媽媽問：“做作業了嗎？”",
+      "pinyin": "xīng qī tiān de zhōng wǔ xiǎo míng qù gōng yuán tā hěn gāo xìng mā ma wèn zuò zuò yè le ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "On Sunday at noon, Little Ming went to the park and was in a good mood. His mom asked, “Have you done your homework?”"
+    },
+    {
+      "index": 6,
+      "simplified": "星期天的下午，小明去跑步，他很高兴。",
+      "traditional": "星期天的下午，小明去跑步，他很高興。",
+      "pinyin": "xīng qī tiān de xià wǔ xiǎo míng qù pǎo bù tā hěn gāo xìng",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "妈妈问：“你什么时候做作业？",
+      "traditional": "媽媽問：“你什麼時候做作業？",
+      "pinyin": "mā ma wèn nǐ shén me shí hou zuò zuò yè",
+      "english": "On Sunday afternoon, Little Ming went jogging and was in a good mood."
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "His mom asked, “When are you going to do your homework?”"
+    },
+    {
+      "index": 9,
+      "simplified": "星期天的晚上，小明看电影，他很高兴。",
+      "traditional": "星期天的晚上，小明看電影，他很高興。",
+      "pinyin": "xīng qī tiān de wǎn shang xiǎo míng kàn diàn yǐng tā hěn gāo xìng",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "妈妈问：“你为什么不做作业？”",
+      "traditional": "媽媽問：“你為什麼不做作業？”",
+      "pinyin": "mā ma wèn nǐ wèi shén me bú zuò zuò yè",
+      "english": "On Sunday evening, Little Ming watched a movie and was in a good mood."
+    },
+    {
+      "index": 11,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "His mom asked, “Why haven’t you done your homework?”"
+    },
+    {
+      "index": 12,
+      "simplified": "星期一的早上，小明五点起床。他做作业，他不高兴。",
+      "traditional": "星期一的早上，小明五點起床。他做作業，他不高興。",
+      "pinyin": "xīng qī yī de zǎo shang xiǎo míng wǔ diǎn qǐ chuáng tā zuò zuò yè tā bù gāo xìng",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "妈妈问：“为什么五点起床？”",
+      "traditional": "媽媽問：“為什麼五點起床？”",
+      "pinyin": "mā ma wèn wèi shén me wǔ diǎn qǐ chuáng",
+      "english": "On Monday morning, Little Ming got up at 5 o’clock. He did his homework and was not in a good mood."
+    },
+    {
+      "index": 14,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "His mom asked, “Why did you get up at 5 a.m.?”"
+    },
+    {
+      "index": 15,
+      "simplified": "星期一的早上，小明上课时睡觉了。老师很生气，小明也很生气。",
+      "traditional": "星期一的早上，小明上課時睡覺了。老師很生氣，小明也很生氣。",
+      "pinyin": "xīng qī yī de zǎo shang xiǎo míng shàng kè shí shuì jiào le lǎo shī hěn shēng qì xiǎo míng yě hěn shēng qì",
+      "english": ""
+    },
+    {
+      "index": 16,
+      "simplified": "他问自己：“为什么昨天我不做作业？”",
+      "traditional": "他問自己：“為什麼昨天我不做作業？”",
+      "pinyin": "tā wèn zì jǐ wèi shén me zuó tiān wǒ bú zuò zuò yè",
+      "english": "On Monday morning, Little Ming fell asleep during class. The teacher was angry, and Little Ming was also angry."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "作业",
+      "traditional": "作業",
+      "pinyin": "zuò yè",
+      "meaning": "homework\nschool assignment",
+      "hsk": 3
+    },
+    {
+      "hanzi": "星期天",
+      "traditional": "星期天",
+      "pinyin": "xīng qī tiān",
+      "meaning": "Sunday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "游戏",
+      "traditional": "遊戲",
+      "pinyin": "yóu xì",
+      "meaning": "game",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "meaning": "mother (informal)\nmom",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "中午",
+      "traditional": "中午",
+      "pinyin": "zhōng wǔ",
+      "meaning": "noon\nmidday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公园",
+      "traditional": "公園",
+      "pinyin": "gōng yuán",
+      "meaning": "public park",
+      "hsk": 3
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跑步",
+      "traditional": "跑步",
+      "pinyin": "pǎo bù",
+      "meaning": "to run\nto jog",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "evening\nnight",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "meaning": "why\nfor what reason",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期一",
+      "traditional": "星期一",
+      "pinyin": "xīng qī yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "meaning": "to get out of bed\nto get up",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "meaning": "to attend class",
+      "hsk": 2
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "meaning": "to get angry\nto take offense",
+      "hsk": 3
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "meaning": "yesterday",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "游戏",
+        "pinyin": "yóu xì",
+        "meaning": "game",
+        "tc_hanzi": "遊戲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中午",
+        "pinyin": "zhōng wǔ",
+        "meaning": "noon\nmidday",
+        "tc_hanzi": "中午"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "separable-verbs",
+        "hsk": 2,
+        "hanzi": "跑步",
+        "pinyin": "pǎo bù",
+        "meaning": "to run\nto jog",
+        "tc_hanzi": "跑步"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "星期天",
+        "pinyin": "xīng qī tiān",
+        "meaning": "Sunday",
+        "tc_hanzi": "星期天"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīng qī yī",
+        "meaning": "Monday",
+        "tc_hanzi": "星期一"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mother (informal)\nmom",
+        "tc_hanzi": "媽媽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīng qī yī",
+        "meaning": "Monday",
+        "tc_hanzi": "星期一"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "上课",
+        "pinyin": "shàng kè",
+        "meaning": "to attend class",
+        "tc_hanzi": "上課"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "生气",
+        "pinyin": "shēng qì",
+        "meaning": "to get angry\nto take offense",
+        "tc_hanzi": "生氣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 2,
+        "hanzi": "为什么",
+        "pinyin": "wèi shén me",
+        "meaning": "why\nfor what reason",
+        "tc_hanzi": "為什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "tc_hanzi": "昨天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "作业",
+        "pinyin": "zuò yè",
+        "meaning": "homework\nschool assignment",
+        "tc_hanzi": "作業"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming is too busy having fun on a Sunday to do his homework!",
+    "syllable_times": [
+      0.41,
+      0.8843537414965986,
+      2.11,
+      2.494331065759637,
+      2.71,
+      3.01,
+      3.18,
+      3.4863945578231292,
+      4.4727891156462585,
+      4.846938775510204,
+      5.39,
+      5.6859410430839,
+      5.9977324263038545,
+      7.06,
+      7.24,
+      7.511337868480726,
+      7.834467120181405,
+      8.95,
+      9.175,
+      9.4,
+      10.62,
+      10.873333333333333,
+      11.126666666666667,
+      11.38,
+      13.27,
+      13.533333333333333,
+      13.796666666666667,
+      14.06,
+      14.22,
+      14.615,
+      15.51,
+      15.86,
+      16.25,
+      16.5,
+      16.855,
+      17.66,
+      18.15,
+      18.446666666666665,
+      18.743333333333332,
+      19.79,
+      19.994999999999997,
+      20.2,
+      21.54,
+      21.796666666666667,
+      22.05333333333333,
+      22.31,
+      22.44,
+      24.49,
+      24.756666666666664,
+      25.023333333333333,
+      25.29,
+      25.4,
+      25.84,
+      26.77,
+      27.174999999999997,
+      27.63,
+      27.85,
+      28.28,
+      29.15,
+      29.67,
+      29.909297052154194,
+      30.209750566893423,
+      31.47,
+      31.665,
+      31.86,
+      33.02,
+      33.58,
+      33.864999999999995,
+      34.15,
+      34.465,
+      34.9,
+      35.16,
+      35.42,
+      37.03,
+      37.28333333333333,
+      37.53666666666667,
+      37.79,
+      37.95,
+      38.365,
+      39.21,
+      39.615,
+      40.08,
+      40.33,
+      40.58,
+      41.63,
+      42.11,
+      42.406666666666666,
+      42.70333333333333,
+      43.82,
+      44.015,
+      44.21,
+      45.71,
+      45.91,
+      46.22,
+      46.53,
+      46.84,
+      47.010000000000005,
+      47.18,
+      47.485,
+      49.57,
+      49.836666666666666,
+      50.10333333333333,
+      50.37,
+      50.52,
+      50.95,
+      51.83,
+      52.224999999999994,
+      52.76,
+      53.075,
+      53.39,
+      53.79,
+      54.8,
+      55.03,
+      55.255102040816325,
+      55.583900226757365,
+      56.53,
+      56.68,
+      56.87,
+      57.275,
+      58.5,
+      58.72,
+      58.94,
+      59.91,
+      60.27,
+      60.585,
+      60.93,
+      61.185,
+      61.44,
+      61.825,
+      64.1,
+      64.36333333333333,
+      64.62666666666667,
+      64.89,
+      65.03,
+      65.4,
+      66.38,
+      66.725,
+      67.11,
+      67.41,
+      67.71,
+      68.23,
+      68.57666666666667,
+      68.92333333333333,
+      69.88,
+      70.22,
+      70.67,
+      70.97,
+      71.41499999999999,
+      72.47,
+      72.83500000000001,
+      73.27,
+      73.53999999999999,
+      73.81,
+      74.2,
+      75.2,
+      75.45,
+      75.67460317460318,
+      75.86167800453515,
+      77.06,
+      77.42,
+      77.91383219954648,
+      78.55,
+      78.91499999999999,
+      79.36,
+      79.57,
+      79.88662131519274,
+      80.11,
+      80.41,
+      81.111043
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      25,
+      27,
+      48,
+      50,
+      62,
+      72,
+      74,
+      86,
+      96,
+      98,
+      115,
+      124,
+      126,
+      145
+    ],
+    "sentence_translations": [
+      "Do Your Homework",
+      "",
+      "On Sunday morning, Little Ming was playing games and was in a good mood. His mom said, “Do your homework!”",
+      "",
+      "On Sunday at noon, Little Ming went to the park and was in a good mood. His mom asked, “Have you done your homework?”",
+      "",
+      "On Sunday afternoon, Little Ming went jogging and was in a good mood.",
+      "His mom asked, “When are you going to do your homework?”",
+      "",
+      "On Sunday evening, Little Ming watched a movie and was in a good mood.",
+      "His mom asked, “Why haven’t you done your homework?”",
+      "",
+      "On Monday morning, Little Ming got up at 5 o’clock. He did his homework and was not in a good mood.",
+      "His mom asked, “Why did you get up at 5 a.m.?”",
+      "",
+      "On Monday morning, Little Ming fell asleep during class. The teacher was angry, and Little Ming was also angry.",
+      "He asked himself, “Why didn’t I do my homework yesterday?”"
+    ]
+  }
+}

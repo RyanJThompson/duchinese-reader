@@ -1,0 +1,858 @@
+{
+  "id": "013",
+  "title": "Hotel Introduction",
+  "level": "elementary",
+  "date": "2015-11-13",
+  "synopsis": "Do you plan a vacation in China and need a hotel? In this lesson we take a look at one hotel’s introduction, and learn new relevant words.",
+  "audioUrl": "https://static.duchinese.net/documents/14/e71b1dd73fcbe76dd426ac9543ac1554c00ecb39.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "宾馆介绍\n\n    大家好。下面向大家介绍一下我们宾馆。我们宾馆在火车站附近，有很多房间。宾馆的左边有一个饭店，右边有一个商场。另外，宾馆离公共汽车站很近，有到各个旅游景点、机场的公共汽车。欢迎大家入住我们的宾馆。",
+    "traditional": "賓館介紹\n\n    大家好。下面向大家介紹一下我們賓館。我們賓館在火車站附近，有很多房間。賓館的左邊有一個飯店，右邊有一個商場。另外，賓館離公共汽車站很近，有到各個旅遊景點、機場的公共汽車。歡迎大家入住我們的賓館。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Hotel Introduction"
+    },
+    {
+      "index": 2,
+      "simplified": "大家好。",
+      "traditional": "大家好。",
+      "pinyin": "dà jiā hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "下面向大家介绍一下我们宾馆。",
+      "traditional": "下面向大家介紹一下我們賓館。",
+      "pinyin": "xià miàn xiàng dà jiā jiè shào yí xià wǒ men bīn guǎn",
+      "english": "Hello everyone."
+    },
+    {
+      "index": 4,
+      "simplified": "我们宾馆在火车站附近，有很多房间。",
+      "traditional": "我們賓館在火車站附近，有很多房間。",
+      "pinyin": "wǒ men bīn guǎn zài huǒ chē zhàn fù jìn yǒu hěn duō fáng jiān",
+      "english": "The following is an introduction to our hotel for everyone."
+    },
+    {
+      "index": 5,
+      "simplified": "宾馆的左边有一个饭店，右边有一个商场。",
+      "traditional": "賓館的左邊有一個飯店，右邊有一個商場。",
+      "pinyin": "bīn guǎn de zuǒ bian yǒu yí ge fàn diàn yòu bian yǒu yí ge shāng chǎng",
+      "english": "Our hotel is close to the train station, and has lots of rooms."
+    },
+    {
+      "index": 6,
+      "simplified": "另外，宾馆离公共汽车站很近，",
+      "traditional": "另外，賓館離公共汽車站很近，",
+      "pinyin": "lìng wài bīn guǎn lí gōng gòng qì chē zhàn hěn jìn",
+      "english": "To the left of the hotel there is a restaurant, and on the right side there is a shopping mall."
+    },
+    {
+      "index": 7,
+      "simplified": "有到各个旅游景点、机场的公共汽车。",
+      "traditional": "有到各個旅遊景點、機場的公共汽車。",
+      "pinyin": "yǒu dào gè gè lǚ yóu jǐng diǎn jī chǎng de gōng gòng qì chē",
+      "english": "Furthermore, the hotel is very close to a public bus stop, ..."
+    },
+    {
+      "index": 8,
+      "simplified": "欢迎大家入住我们的宾馆。",
+      "traditional": "歡迎大家入住我們的賓館。",
+      "pinyin": "huān yíng dà jiā rù zhù wǒ men de bīn guǎn",
+      "english": "... which has public busses to all the tourist spots and the airport."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "宾馆",
+      "traditional": "賓館",
+      "pinyin": "bīn guǎn",
+      "meaning": "guesthouse\nhotel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "介绍",
+      "traditional": "介紹",
+      "pinyin": "jiè shào",
+      "meaning": "to introduce (sb to sb)\nto give a presentation\nintroduction",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下面",
+      "traditional": "下面",
+      "pinyin": "xià miàn",
+      "meaning": "below\nunder\nnext",
+      "hsk": 1
+    },
+    {
+      "hanzi": "向",
+      "traditional": "向",
+      "pinyin": "xiàng",
+      "meaning": "towards\nto face",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "火车站",
+      "traditional": "火車站",
+      "pinyin": "huǒ chē zhàn",
+      "meaning": "train station",
+      "hsk": 2
+    },
+    {
+      "hanzi": "附近",
+      "traditional": "附近",
+      "pinyin": "fù jìn",
+      "meaning": "(in the) vicinity\nnearby",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "meaning": "room",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "左边",
+      "traditional": "左邊",
+      "pinyin": "zuǒ bian",
+      "meaning": "the left side\nto the left of",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "meaning": "restaurant\nhotel",
+      "hsk": 1
+    },
+    {
+      "hanzi": "右边",
+      "traditional": "右邊",
+      "pinyin": "yòu bian",
+      "meaning": "right side\nto the right",
+      "hsk": 2
+    },
+    {
+      "hanzi": "商场",
+      "traditional": "商場",
+      "pinyin": "shāng chǎng",
+      "meaning": "shopping mall\nshopping center\ndepartment store",
+      "hsk": null
+    },
+    {
+      "hanzi": "另外",
+      "traditional": "另外",
+      "pinyin": "lìng wài",
+      "meaning": "additional\nin addition\nother",
+      "hsk": 4
+    },
+    {
+      "hanzi": "离",
+      "traditional": "離",
+      "pinyin": "lí",
+      "meaning": "to be away from\n(in giving distances) from",
+      "hsk": 2
+    },
+    {
+      "hanzi": "公共汽车",
+      "traditional": "公共汽車",
+      "pinyin": "gōng gòng qì chē",
+      "meaning": "bus",
+      "hsk": 2
+    },
+    {
+      "hanzi": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "meaning": "station\nhalt\nstop",
+      "hsk": 3
+    },
+    {
+      "hanzi": "近",
+      "traditional": "近",
+      "pinyin": "jìn",
+      "meaning": "near\nclose to\napproximately",
+      "hsk": 2
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "各个",
+      "traditional": "各個",
+      "pinyin": "gè gè",
+      "meaning": "every\nvarious",
+      "hsk": null
+    },
+    {
+      "hanzi": "旅游",
+      "traditional": "旅遊",
+      "pinyin": "lǚ yóu",
+      "meaning": "tourism\ntravel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "景点",
+      "traditional": "景點",
+      "pinyin": "jǐng diǎn",
+      "meaning": "scenic spot\nplace of interest",
+      "hsk": null
+    },
+    {
+      "hanzi": "机场",
+      "traditional": "機場",
+      "pinyin": "jī chǎng",
+      "meaning": "airport\nairfield",
+      "hsk": 2
+    },
+    {
+      "hanzi": "欢迎",
+      "traditional": "歡迎",
+      "pinyin": "huān yíng",
+      "meaning": "welcome\nto be well received",
+      "hsk": 3
+    },
+    {
+      "hanzi": "入住",
+      "traditional": "入住",
+      "pinyin": "rù zhù",
+      "meaning": "to check in (at a hotel etc)",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "介绍",
+        "pinyin": "jiè shào",
+        "meaning": "to introduce (sb to sb)\nto give a presentation\nintroduction",
+        "tc_hanzi": "介紹"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下面",
+        "pinyin": "xià miàn",
+        "meaning": "below\nunder\nnext",
+        "tc_hanzi": "下面"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "向",
+        "pinyin": "xiàng",
+        "meaning": "towards\nto face",
+        "tc_hanzi": "向"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "介绍",
+        "pinyin": "jiè shào",
+        "meaning": "to introduce (sb to sb)\nto give a presentation\nintroduction",
+        "tc_hanzi": "介紹"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "火车站",
+        "pinyin": "huǒ chē zhàn",
+        "meaning": "train station",
+        "tc_hanzi": "火車站"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "附近",
+        "pinyin": "fù jìn",
+        "meaning": "(in the) vicinity\nnearby",
+        "tc_hanzi": "附近"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "左边",
+        "pinyin": "zuǒ bian",
+        "meaning": "the left side\nto the left of",
+        "tc_hanzi": "左邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant\nhotel",
+        "tc_hanzi": "飯店"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "右边",
+        "pinyin": "yòu bian",
+        "meaning": "right side\nto the right",
+        "tc_hanzi": "右邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "商场",
+        "pinyin": "shāng chǎng",
+        "meaning": "shopping mall\nshopping center\ndepartment store",
+        "tc_hanzi": "商場"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "另外",
+        "pinyin": "lìng wài",
+        "meaning": "additional\nin addition\nother",
+        "tc_hanzi": "另外"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "g": "li",
+        "hsk": 2,
+        "hanzi": "离",
+        "pinyin": "lí",
+        "meaning": "to be away from\n(in giving distances) from",
+        "tc_hanzi": "離"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "站",
+        "pinyin": "zhàn",
+        "meaning": "station\nhalt\nstop",
+        "tc_hanzi": "站"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "近",
+        "pinyin": "jìn",
+        "meaning": "near\nclose to\napproximately",
+        "tc_hanzi": "近"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "各个",
+        "pinyin": "gè gè",
+        "meaning": "every\nvarious",
+        "tc_hanzi": "各個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "旅游",
+        "pinyin": "lǚ yóu",
+        "meaning": "tourism\ntravel",
+        "tc_hanzi": "旅遊"
+      },
+      {
+        "hanzi": "景点",
+        "pinyin": "jǐng diǎn",
+        "meaning": "scenic spot\nplace of interest",
+        "tc_hanzi": "景點"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "机场",
+        "pinyin": "jī chǎng",
+        "meaning": "airport\nairfield",
+        "tc_hanzi": "機場"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "meaning": "bus",
+        "tc_hanzi": "公共汽車"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "欢迎",
+        "pinyin": "huān yíng",
+        "meaning": "welcome\nto be well received",
+        "tc_hanzi": "歡迎"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "入住",
+        "pinyin": "rù zhù",
+        "meaning": "to check in (at a hotel etc)",
+        "tc_hanzi": "入住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "宾馆",
+        "pinyin": "bīn guǎn",
+        "meaning": "guesthouse\nhotel",
+        "tc_hanzi": "賓館"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Do you plan a vacation in China and need a hotel? In this lesson we take a look at one hotel’s introduction, and learn new relevant words.",
+    "syllable_times": [
+      0.2723640835507641,
+      0.5895691609977324,
+      0.8616780045351474,
+      2.448979591836735,
+      2.675736961451247,
+      3.038548752834467,
+      4.217687074829932,
+      4.580498866213152,
+      4.988662131519274,
+      5.26077097505669,
+      5.487528344671202,
+      5.850340136054422,
+      6.167800453514739,
+      6.530612244897959,
+      6.706965557437566,
+      7.210884353741497,
+      7.528344671201814,
+      7.755102040816326,
+      8.02721088435374,
+      9.931972789115646,
+      10.15873015873016,
+      10.34013605442177,
+      10.65759637188209,
+      11.11111111111111,
+      11.65532879818594,
+      11.88208616780045,
+      12.24489795918367,
+      12.53869494292833,
+      12.7891156462585,
+      14.4671201814059,
+      14.82993197278912,
+      15.19274376417234,
+      15.51020408163265,
+      15.78231292517007,
+      17.38450592943567,
+      17.68707482993197,
+      17.95918367346939,
+      18.2312925170068,
+      18.59410430839002,
+      19.13832199546485,
+      19.41043083900227,
+      19.59183673469388,
+      19.9546485260771,
+      20.27210884353741,
+      21.58730158730159,
+      21.90476190476191,
+      22.53968253968254,
+      22.85714285714286,
+      23.03854875283447,
+      23.40136054421769,
+      23.718820861678,
+      25.3968253968254,
+      25.71428571428572,
+      26.89342403628118,
+      27.21088435374149,
+      27.61904761904762,
+      28.07256235827665,
+      28.39002267573696,
+      28.66213151927438,
+      28.97959183673469,
+      29.29705215419501,
+      29.75056689342404,
+      30.02267573696145,
+      31.24716553287982,
+      31.74603174603175,
+      32.01814058956916,
+      32.29024943310657,
+      32.6530612244898,
+      32.83446712018141,
+      33.10657596371882,
+      33.42403628117914,
+      34.10430839002267,
+      34.42176870748299,
+      34.69387755102041,
+      35.10204081632653,
+      35.37414965986395,
+      35.64625850340136,
+      35.91836734693877,
+      37.55102040816327,
+      37.86144085566508,
+      38.14058956916099,
+      38.36734693877551,
+      38.77551020408163,
+      39.04761904761905,
+      39.41043083900227,
+      39.72789115646258,
+      39.90929705215419,
+      40.27210884353742,
+      40.58956916099773,
+      41.35392290249433,
+      41.35394668579102
+    ],
+    "sentence_indices": [
+      2,
+      3,
+      6,
+      14,
+      25,
+      39,
+      48,
+      58
+    ],
+    "sentence_translations": [
+      "Hotel Introduction",
+      "",
+      "Hello everyone.",
+      "The following is an introduction to our hotel for everyone.",
+      "Our hotel is close to the train station, and has lots of rooms.",
+      "To the left of the hotel there is a restaurant, and on the right side there is a shopping mall.",
+      "Furthermore, the hotel is very close to a public bus stop, ...",
+      "... which has public busses to all the tourist spots and the airport.",
+      "I welcome everyone to come and check into our hotel."
+    ]
+  }
+}

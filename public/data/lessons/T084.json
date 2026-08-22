@@ -1,0 +1,4549 @@
+{
+  "id": "T084",
+  "title": "What Character Is It?",
+  "level": "advanced",
+  "date": "2021-02-09",
+  "synopsis": "Test your skills by guessing Chinese riddles!",
+  "audioUrl": "https://static.duchinese.net/documents/60084/ed2a00ff348acc7055cad48540f3a599be580c87.mp3?1611931034",
+  "series": null,
+  "fullText": {
+    "simplified": "到底是什么字？\n\n    在中国，人们很喜欢猜谜语。因为猜谜语既可以涨知识，又可以放松。节日的时候，人们会猜灯谜；聚会的时候，人们喜欢猜猜脑筋急转弯或者谜语。\n    小张和小王见面聊天，他们聊着聊着就聊到了字谜。\n    小张说：“我最近看了几个字谜，考考你吧？”\n    小王说：“好哇，我最喜欢猜字谜了。”\n    小张说：“听好了！第一个是：清一半，浊一半，打一个字。”\n    小王听完，想了想说：“哈哈，我知道了！是蜻蜓的‘蜻’字，对不对？‘清’右半部分的‘青’字和‘浊’右半部分的‘虫’字，加起来就是‘蜻’字！”\n    小张说：“不错呀！对了，再听第二个：善一半，恶一半，打一个字。”\n    小王摇摇头说：“这个有点儿难，我想想。哎呀，不行啊，想不出来。”\n    小张说：“是嗓子哑了的‘哑’字。”他拿出纸和笔，在纸上写了写说：“你看，‘善’下半部分‘口’字加‘恶’上半部分的‘亚’字，加起来就是‘哑’字了。”\n    小王说：“这个难，真没想到。还有吗？”\n    小张说：“问一半，答一半，一问一答笑半天，打一个字。”\n    小王一听就说：“太难了，你告诉我答案吧！”\n    小张没说话，只是哈哈大笑。小王一听马上猜出来了。\n    朋友们，你知道这个字是什么吗？\n    答案是：‘哈’字。你们看，“问”中间的“口”字，加上“答”下半部分的“合”字，加起来就是“哈”字了。你猜对了吗？",
+    "traditional": "到底是什麼字？\n\n    在中國，人們很喜歡猜謎語。因為猜謎語既可以漲知識，又可以放鬆。節日的時候，人們會猜燈謎；聚會的時候，人們喜歡猜猜腦筋急轉彎或者謎語。\n    小張和小王見面聊天，他們聊著聊著就聊到了字謎。\n    小張說：“我最近看了幾個字謎，考考你吧？”\n    小王說：“好哇，我最喜歡猜字謎了。”\n    小張說：“聽好了！第一個是：清一半，濁一半，打一個字。”\n    小王聽完，想了想說：“哈哈，我知道了！是蜻蜓的‘蜻’字，對不對？‘清’右半部分的‘青’字和‘濁’右半部分的‘蟲’字，加起來就是‘蜻’字！”\n    小張說：“不錯呀！對了，再聽第二個：善一半，惡一半，打一個字。”\n    小王搖搖頭說：“這個有點兒難，我想想。哎呀，不行啊，想不出來。”\n    小張說：“是嗓子啞了的‘啞’字。”他拿出紙和筆，在紙上寫了寫說：“你看，‘善’下半部分‘口’字加‘惡’上半部分的‘亞’字，加起來就是‘啞’字了。”\n    小王說：“這個難，真沒想到。還有嗎？”\n    小張說：“問一半，答一半，一問一答笑半天，打一個字。”\n    小王一聽就說：“太難了，你告訴我答案吧！”\n    小張沒說話，只是哈哈大笑。小王一聽馬上猜出來了。\n    朋友們，你知道這個字是什麼嗎？\n    答案是：‘哈’字。你們看，“問”中間的“口”字，加上“答”下半部分的“合”字，加起來就是“哈”字了。你猜對了嗎？"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "What Character Is It?"
+    },
+    {
+      "index": 2,
+      "simplified": "在中国，人们很喜欢猜谜语。",
+      "traditional": "在中國，人們很喜歡猜謎語。",
+      "pinyin": "zài zhōng guó rén men hěn xǐ huan cāi mí yǔ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "因为猜谜语既可以涨知识，又可以放松。",
+      "traditional": "因為猜謎語既可以漲知識，又可以放鬆。",
+      "pinyin": "yīn wèi cāi mí yǔ jì kě yǐ zhǎng zhī shi yòu kě yǐ fàng sōng",
+      "english": "In China, people really like guessing riddles."
+    },
+    {
+      "index": 4,
+      "simplified": "节日的时候，人们会猜灯谜；",
+      "traditional": "節日的時候，人們會猜燈謎；",
+      "pinyin": "jié rì de shí hou rén men huì cāi dēng mí",
+      "english": "Because riddles can both expand your knowledge, and also help you relax."
+    },
+    {
+      "index": 5,
+      "simplified": "聚会的时候，人们喜欢猜猜脑筋急转弯或者谜语。",
+      "traditional": "聚會的時候，人們喜歡猜猜腦筋急轉彎或者謎語。",
+      "pinyin": "jù huì de shí hou rén men xǐ huan cāi cāi nǎo jīn jí zhuǎn wān huò zhě mí yǔ",
+      "english": "People will guess riddles written on lanterns during festivals, .."
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. and people like to guess brain teasers or riddles when they gather together."
+    },
+    {
+      "index": 7,
+      "simplified": "小张和小王见面聊天，他们聊着聊着就聊到了字谜。",
+      "traditional": "小張和小王見面聊天，他們聊著聊著就聊到了字謎。",
+      "pinyin": "xiǎo zhāng hé xiǎo wáng jiàn miàn liáo tiān tā men liáo zhe liáo zhe jiù liáo dào le zì mí",
+      "english": ""
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Zhang and Little Wang met up for a chat, and character riddles came up in the conversation."
+    },
+    {
+      "index": 9,
+      "simplified": "小张说：“我最近看了几个字谜，考考你吧？”",
+      "traditional": "小張說：“我最近看了幾個字謎，考考你吧？”",
+      "pinyin": "xiǎo zhāng shuō wǒ zuì jìn kàn le jǐ ge zì mí kǎo kǎo nǐ ba",
+      "english": ""
+    },
+    {
+      "index": 10,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Zhang said, “I’ve seen some character riddles recently, how about I test you?”"
+    },
+    {
+      "index": 11,
+      "simplified": "小王说：“好哇，我最喜欢猜字谜了。”",
+      "traditional": "小王說：“好哇，我最喜歡猜字謎了。”",
+      "pinyin": "xiǎo wáng shuō hǎo wa wǒ zuì xǐ huan cāi zì mí le",
+      "english": ""
+    },
+    {
+      "index": 12,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Wang said, “OK, I like guessing character riddles the most.”"
+    },
+    {
+      "index": 13,
+      "simplified": "小张说：“听好了！第一个是：",
+      "traditional": "小張說：“聽好了！第一個是：",
+      "pinyin": "xiǎo zhāng shuō tīng hǎo le dì yī ge shì",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "清一半，浊一半，打一个字。”",
+      "traditional": "清一半，濁一半，打一個字。”",
+      "pinyin": "qīng yí bàn zhuó yí bàn dǎ yí ge zì",
+      "english": "Little Zhang said, “Listen carefully! The first one is:"
+    },
+    {
+      "index": 15,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Take one half of ‘qing’ (clear), one half of ‘zhuo’ (muddy), and make a character.”"
+    },
+    {
+      "index": 16,
+      "simplified": "小王听完，想了想说：",
+      "traditional": "小王聽完，想了想說：",
+      "pinyin": "xiǎo wáng tīng wán xiǎng le xiǎng shuō",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "“哈哈，我知道了！是蜻蜓的‘蜻’字，对不对？‘",
+      "traditional": "“哈哈，我知道了！是蜻蜓的‘蜻’字，對不對？‘",
+      "pinyin": "hā hā wǒ zhī dào le shì qīng tíng de qīng zì duì bú duì",
+      "english": "Little Wang listened, thought about it and said, .."
+    },
+    {
+      "index": 18,
+      "simplified": "清’右半部分的‘青’字和‘浊’右半部分的‘虫’字，",
+      "traditional": "清’右半部分的‘青’字和‘濁’右半部分的‘蟲’字，",
+      "pinyin": "qīng yòu bàn bù fen de qīng zì hé zhuó yòu bàn bù fen de chóng zì",
+      "english": ".. “Haha, I got it! It’s ‘qing’ from ‘qingting’ (dragonfly), isn’t it?"
+    },
+    {
+      "index": 19,
+      "simplified": "加起来就是‘蜻’字！”",
+      "traditional": "加起來就是‘蜻’字！”",
+      "pinyin": "jiā qǐ lai jiù shì qīng zì",
+      "english": "The right part of ‘qing’ (clear) is ‘qing’ (green), and the right part of ‘zhuo’ (muddy) is ‘chong’ (insect), .."
+    },
+    {
+      "index": 20,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. add them together and you get the character ‘qing’!”"
+    },
+    {
+      "index": 21,
+      "simplified": "小张说：“不错呀！对了，再听第二个：",
+      "traditional": "小張說：“不錯呀！對了，再聽第二個：",
+      "pinyin": "xiǎo zhāng shuō bú cuò ya duì le zài tīng dì èr ge",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "善一半，恶一半，打一个字。”",
+      "traditional": "善一半，惡一半，打一個字。”",
+      "pinyin": "shàn yí bàn è yí bàn dǎ yí ge zì",
+      "english": "Little Zhang said, “Not bad! Now, listen again to the next one:"
+    },
+    {
+      "index": 23,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Take one half of ‘shan’ (virtuous), one half of ‘e’ (evil), and make a character.”"
+    },
+    {
+      "index": 24,
+      "simplified": "小王摇摇头说：",
+      "traditional": "小王搖搖頭說：",
+      "pinyin": "xiǎo wáng yáo yáo tóu shuō",
+      "english": ""
+    },
+    {
+      "index": 25,
+      "simplified": "“这个有点儿难，我想想。哎呀，不行啊，想不出来。”",
+      "traditional": "“這個有點兒難，我想想。哎呀，不行啊，想不出來。”",
+      "pinyin": "zhè ge yǒu diǎn'r nán wǒ xiǎng xiǎng āi yā bù xíng a xiǎng bù chū lái",
+      "english": "Little Wang shook his head and said, .."
+    },
+    {
+      "index": 26,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. “This one is a bit hard. Let me think about it. No, I can’t think of anything.”"
+    },
+    {
+      "index": 27,
+      "simplified": "小张说：“是嗓子哑了的‘哑’字。”",
+      "traditional": "小張說：“是嗓子啞了的‘啞’字。”",
+      "pinyin": "xiǎo zhāng shuō shì sǎng zi yǎ le de yǎ zì",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "他拿出纸和笔，在纸上写了写说：",
+      "traditional": "他拿出紙和筆，在紙上寫了寫說：",
+      "pinyin": "tā ná chū zhǐ hé bǐ zài zhǐ shang xiě le xiě shuō",
+      "english": "Little Zhang said, “It’s ‘ya’ (mute) in the expression ‘sangzi ya’ (to lose one’s voice).”"
+    },
+    {
+      "index": 29,
+      "simplified": "“你看，‘善’下半部分‘口’字加‘恶’上半部分的‘亚’字，",
+      "traditional": "“你看，‘善’下半部分‘口’字加‘惡’上半部分的‘亞’字，",
+      "pinyin": "nǐ kàn shàn xià bàn bù fen kǒu zì jiā è shàng bàn bù fen de yà zì",
+      "english": "He took out a piece of paper and a pen, wrote it on the paper, and said, .."
+    },
+    {
+      "index": 30,
+      "simplified": "加起来就是‘哑’字了。”",
+      "traditional": "加起來就是‘啞’字了。”",
+      "pinyin": "jiā qǐ lai jiù shì yǎ zì le",
+      "english": ".. “Have a look, the lower part of ‘shan’ (virtuous) is ‘kou’ (mouth), the upper part of ‘e’ (evil) is ‘ya’ (Asia), .."
+    },
+    {
+      "index": 31,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ".. add them together and you get the character ‘ya’ (mute).”"
+    },
+    {
+      "index": 32,
+      "simplified": "小王说：“这个难，真没想到。还有吗？”",
+      "traditional": "小王說：“這個難，真沒想到。還有嗎？”",
+      "pinyin": "xiǎo wáng shuō zhè ge nán zhēn méi xiǎng dào hái yǒu ma",
+      "english": ""
+    },
+    {
+      "index": 33,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Wang said, “This one was hard, I’d never have guessed it. Do you have more?”"
+    },
+    {
+      "index": 34,
+      "simplified": "小张说：“问一半，答一半，",
+      "traditional": "小張說：“問一半，答一半，",
+      "pinyin": "xiǎo zhāng shuō wèn yí bàn dá yí bàn",
+      "english": ""
+    },
+    {
+      "index": 35,
+      "simplified": "一问一答笑半天，打一个字。”",
+      "traditional": "一問一答笑半天，打一個字。”",
+      "pinyin": "yí wèn yì dá xiào bàn tiān dǎ yí ge zì",
+      "english": "Little Zhang said, “Take one half of ‘wen’ (to ask) and one half of ‘da’ (to answer)."
+    },
+    {
+      "index": 36,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "One asks, the other answers, and they laugh for a long time. Make a character.”"
+    },
+    {
+      "index": 37,
+      "simplified": "小王一听就说：“太难了，你告诉我答案吧！”",
+      "traditional": "小王一聽就說：“太難了，你告訴我答案吧！”",
+      "pinyin": "xiǎo wáng yì tīng jiù shuō tài nán le nǐ gào su wǒ dá àn ba",
+      "english": ""
+    },
+    {
+      "index": 38,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "When he heard this, Little Wang said, “That’s too hard. Tell me the answer!”"
+    },
+    {
+      "index": 39,
+      "simplified": "小张没说话，只是哈哈大笑。",
+      "traditional": "小張沒說話，只是哈哈大笑。",
+      "pinyin": "xiǎo zhāng méi shuō huà zhǐ shì hā hā dà xiào",
+      "english": ""
+    },
+    {
+      "index": 40,
+      "simplified": "小王一听马上猜出来了。",
+      "traditional": "小王一聽馬上猜出來了。",
+      "pinyin": "xiǎo wáng yì tīng mǎ shàng cāi chū lái le",
+      "english": "Little Zhang didn’t say anything, he just burst out laughing."
+    },
+    {
+      "index": 41,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "When he heard this, Little Wang instantly guessed the answer."
+    },
+    {
+      "index": 42,
+      "simplified": "朋友们，你知道这个字是什么吗？",
+      "traditional": "朋友們，你知道這個字是什麼嗎？",
+      "pinyin": "péng you men nǐ zhī dào zhè ge zì shì shén me ma",
+      "english": ""
+    },
+    {
+      "index": 43,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Friends, do you know what the character is?"
+    },
+    {
+      "index": 44,
+      "simplified": "答案是：‘哈’字。",
+      "traditional": "答案是：‘哈’字。",
+      "pinyin": "dá àn shì hā zì",
+      "english": ""
+    },
+    {
+      "index": 45,
+      "simplified": "你们看，“问”中间的“口”字，",
+      "traditional": "你們看，“問”中間的“口”字，",
+      "pinyin": "nǐ men kàn wèn zhōng jiān de kǒu zì",
+      "english": "The answer is “ha” (ha, the sound of laughter)."
+    },
+    {
+      "index": 46,
+      "simplified": "加上“答”下半部分的“合”字，",
+      "traditional": "加上“答”下半部分的“合”字，",
+      "pinyin": "jiā shàng dá xià bàn bù fen de hé zì",
+      "english": "You see, if you take “kou” (mouth) in the middle of “wen” (to ask), .."
+    },
+    {
+      "index": 47,
+      "simplified": "加起来就是“哈”字了。你猜对了吗？",
+      "traditional": "加起來就是“哈”字了。你猜對了嗎？",
+      "pinyin": "jiā qǐ lai jiù shì hā zì le nǐ cāi duì le ma",
+      "english": ".. and add the lower part of “da” (to answer) which is “he” (to combine), .."
+    },
+    {
+      "index": 48,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": ".. add them together and you get the character “ha”. Did you guess right?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "到底",
+      "traditional": "到底",
+      "pinyin": "dào dǐ",
+      "meaning": "after all\nactually\nwhen all is said and done",
+      "hsk": 4
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "meaning": "character\nletter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中国",
+      "traditional": "中國",
+      "pinyin": "zhōng guó",
+      "meaning": "China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猜",
+      "traditional": "猜",
+      "pinyin": "cāi",
+      "meaning": "to guess",
+      "hsk": 4
+    },
+    {
+      "hanzi": "谜语",
+      "traditional": "謎語",
+      "pinyin": "mí yǔ",
+      "meaning": "riddle",
+      "hsk": 6
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "既",
+      "traditional": "既",
+      "pinyin": "jì",
+      "meaning": "both... (and...)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "涨",
+      "traditional": "漲",
+      "pinyin": "zhǎng",
+      "meaning": "to rise (of prices, rivers)\nto go up",
+      "hsk": 5
+    },
+    {
+      "hanzi": "知识",
+      "traditional": "知識",
+      "pinyin": "zhī shi",
+      "meaning": "knowledge",
+      "hsk": 4
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "放松",
+      "traditional": "放鬆",
+      "pinyin": "fàng sōng",
+      "meaning": "to relax",
+      "hsk": 4
+    },
+    {
+      "hanzi": "节日",
+      "traditional": "節日",
+      "pinyin": "jié rì",
+      "meaning": "holiday\nfestival",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "灯谜",
+      "traditional": "燈謎",
+      "pinyin": "dēng mí",
+      "meaning": "lantern riddles",
+      "hsk": null
+    },
+    {
+      "hanzi": "聚会",
+      "traditional": "聚會",
+      "pinyin": "jù huì",
+      "meaning": "party\ngathering\nto meet",
+      "hsk": 4
+    },
+    {
+      "hanzi": "猜猜",
+      "traditional": "猜猜",
+      "pinyin": "cāi cāi",
+      "meaning": "to guess",
+      "hsk": null
+    },
+    {
+      "hanzi": "脑筋急转弯",
+      "traditional": "腦筋急轉彎",
+      "pinyin": "nǎo jīn jí zhuǎn wān",
+      "meaning": "brain teaser\nbrain twister",
+      "hsk": null
+    },
+    {
+      "hanzi": "或者",
+      "traditional": "或者",
+      "pinyin": "huò zhě",
+      "meaning": "or",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小王",
+      "traditional": "小王",
+      "pinyin": "xiǎo wáng",
+      "meaning": "Little Wang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "见面",
+      "traditional": "見面",
+      "pinyin": "jiàn miàn",
+      "meaning": "to meet\nto see each other",
+      "hsk": 3
+    },
+    {
+      "hanzi": "聊天",
+      "traditional": "聊天",
+      "pinyin": "liáo tiān",
+      "meaning": "to chat\nto gossip",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "聊",
+      "traditional": "聊",
+      "pinyin": "liáo",
+      "meaning": "to chat",
+      "hsk": null
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "(verb complement denoting completion or result of an action)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "字谜",
+      "traditional": "字謎",
+      "pinyin": "zì mí",
+      "meaning": "a riddle involving characters",
+      "hsk": null
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to see",
+      "hsk": 1
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "考考",
+      "traditional": "考考",
+      "pinyin": "kǎo kǎo",
+      "meaning": "to check\nto verify\nto test",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(to express agreement)\nokay\nall right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哇",
+      "traditional": "哇",
+      "pinyin": "wa",
+      "meaning": "(replaces 啊 when following the vowel \"u\" or \"ao\")",
+      "hsk": 6
+    },
+    {
+      "hanzi": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "meaning": "the most … thing\nthe best",
+      "hsk": 2
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "清",
+      "traditional": "清",
+      "pinyin": "qīng",
+      "meaning": "clear\ndistinct",
+      "hsk": null
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "浊",
+      "traditional": "濁",
+      "pinyin": "zhuó",
+      "meaning": "turbid\nmuddy\nimpure",
+      "hsk": null
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to make",
+      "hsk": null
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哈哈",
+      "traditional": "哈哈",
+      "pinyin": "hā hā",
+      "meaning": "(onom.) laughing out loud",
+      "hsk": null
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "蜻蜓",
+      "traditional": "蜻蜓",
+      "pinyin": "qīng tíng",
+      "meaning": "dragonfly",
+      "hsk": null
+    },
+    {
+      "hanzi": "蜻",
+      "traditional": "蜻",
+      "pinyin": "qīng",
+      "meaning": "see 蜻蜓",
+      "hsk": null
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "right\ncorrect",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "右",
+      "traditional": "右",
+      "pinyin": "yòu",
+      "meaning": "right (-hand)",
+      "hsk": null
+    },
+    {
+      "hanzi": "部分",
+      "traditional": "部分",
+      "pinyin": "bù fen",
+      "meaning": "part\nshare\nsection",
+      "hsk": 4
+    },
+    {
+      "hanzi": "青",
+      "traditional": "青",
+      "pinyin": "qīng",
+      "meaning": "green or blue\ncyan",
+      "hsk": 5
+    },
+    {
+      "hanzi": "虫",
+      "traditional": "蟲",
+      "pinyin": "chóng",
+      "meaning": "lower form of animal life, including insects, insect larvae, worms and similar creatures\nperson with a particular undesirable characteristic",
+      "hsk": null
+    },
+    {
+      "hanzi": "加",
+      "traditional": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "hsk": null
+    },
+    {
+      "hanzi": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐ lai",
+      "meaning": "(after a verb) indicating completeness or effectiveness",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不错",
+      "traditional": "不錯",
+      "pinyin": "bú cuò",
+      "meaning": "right\nnot bad\npretty good",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "again\nonce more",
+      "hsk": 2
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "善",
+      "traditional": "善",
+      "pinyin": "shàn",
+      "meaning": "good (virtuous)\nwell-disposed",
+      "hsk": 5
+    },
+    {
+      "hanzi": "恶",
+      "traditional": "惡",
+      "pinyin": "è",
+      "meaning": "evil\nfierce\nvicious",
+      "hsk": null
+    },
+    {
+      "hanzi": "摇摇",
+      "traditional": "搖搖",
+      "pinyin": "yáo yáo",
+      "meaning": "to shake\nto rock",
+      "hsk": null
+    },
+    {
+      "hanzi": "头",
+      "traditional": "頭",
+      "pinyin": "tóu",
+      "meaning": "head",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有点儿",
+      "traditional": "有點兒",
+      "pinyin": "yǒu diǎn'r",
+      "meaning": "slightly\na little\nsomewhat",
+      "hsk": null
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "想想",
+      "traditional": "想想",
+      "pinyin": "xiǎng xiǎng",
+      "meaning": "to think",
+      "hsk": null
+    },
+    {
+      "hanzi": "哎呀",
+      "traditional": "哎呀",
+      "pinyin": "āi yā",
+      "meaning": "interjection of wonder, shock or admiration",
+      "hsk": null
+    },
+    {
+      "hanzi": "不行",
+      "traditional": "不行",
+      "pinyin": "bù xíng",
+      "meaning": "won't do\nbe out of the question\nbe no good",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "meaning": "(after a verb) coming out, completion of an action, or ability to discern or detect",
+      "hsk": null
+    },
+    {
+      "hanzi": "嗓子",
+      "traditional": "嗓子",
+      "pinyin": "sǎng zi",
+      "meaning": "throat\nvoice",
+      "hsk": 5
+    },
+    {
+      "hanzi": "哑",
+      "traditional": "啞",
+      "pinyin": "yǎ",
+      "meaning": "dumb\nmute",
+      "hsk": null
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿出",
+      "traditional": "拿出",
+      "pinyin": "ná chū",
+      "meaning": "to take out\nto put out",
+      "hsk": null
+    },
+    {
+      "hanzi": "纸",
+      "traditional": "紙",
+      "pinyin": "zhǐ",
+      "meaning": "paper",
+      "hsk": null
+    },
+    {
+      "hanzi": "笔",
+      "traditional": "筆",
+      "pinyin": "bǐ",
+      "meaning": "pen\npencil",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下半",
+      "traditional": "下半",
+      "pinyin": "xià bàn",
+      "meaning": "second half\nbottom half",
+      "hsk": null
+    },
+    {
+      "hanzi": "口",
+      "traditional": "口",
+      "pinyin": "kǒu",
+      "meaning": "mouth\nopening",
+      "hsk": 3
+    },
+    {
+      "hanzi": "上半",
+      "traditional": "上半",
+      "pinyin": "shàng bàn",
+      "meaning": "first half\ntop half",
+      "hsk": null
+    },
+    {
+      "hanzi": "亚",
+      "traditional": "亞",
+      "pinyin": "yà",
+      "meaning": "Asia\nAsian",
+      "hsk": null
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "also\neven more\nin addition",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "答",
+      "traditional": "答",
+      "pinyin": "dá",
+      "meaning": "reply\nanswer\nrespond",
+      "hsk": null
+    },
+    {
+      "hanzi": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "meaning": "laugh\nsmile",
+      "hsk": 2
+    },
+    {
+      "hanzi": "半天",
+      "traditional": "半天",
+      "pinyin": "bàn tiān",
+      "meaning": "half of the day\na long time",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gào su",
+      "meaning": "to tell\nto inform",
+      "hsk": 2
+    },
+    {
+      "hanzi": "答案",
+      "traditional": "答案",
+      "pinyin": "dá àn",
+      "meaning": "answer\nsolution",
+      "hsk": 4
+    },
+    {
+      "hanzi": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "meaning": "to speak\nto talk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "只",
+      "traditional": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only\nmerely",
+      "hsk": 3
+    },
+    {
+      "hanzi": "大笑",
+      "traditional": "大笑",
+      "pinyin": "dà xiào",
+      "meaning": "to laugh heartily",
+      "hsk": 2
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "meaning": "plural marker for pronouns, and nouns referring to individuals",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哈",
+      "traditional": "哈",
+      "pinyin": "hā",
+      "meaning": "(onom. for laughter)",
+      "hsk": 5
+    },
+    {
+      "hanzi": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "中间",
+      "traditional": "中間",
+      "pinyin": "zhōng jiān",
+      "meaning": "between\nmid\nmiddle",
+      "hsk": 3
+    },
+    {
+      "hanzi": "加上",
+      "traditional": "加上",
+      "pinyin": "jiā shàng",
+      "meaning": "to put in\nto add\non top of that",
+      "hsk": null
+    },
+    {
+      "hanzi": "合",
+      "traditional": "合",
+      "pinyin": "hé",
+      "meaning": "to join\nto fit",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 4,
+        "hanzi": "到底",
+        "pinyin": "dào dǐ",
+        "meaning": "after all\nactually\nwhen all is said and done",
+        "tc_hanzi": "到底"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "tc_hanzi": "中國"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "谜语",
+        "pinyin": "mí yǔ",
+        "meaning": "riddle",
+        "tc_hanzi": "謎語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "谜语",
+        "pinyin": "mí yǔ",
+        "meaning": "riddle",
+        "tc_hanzi": "謎語"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "既",
+        "pinyin": "jì",
+        "meaning": "both... (and...)",
+        "tc_hanzi": "既"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "涨",
+        "pinyin": "zhǎng",
+        "meaning": "to rise (of prices, rivers)\nto go up",
+        "tc_hanzi": "漲"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "知识",
+        "pinyin": "zhī shi",
+        "meaning": "knowledge",
+        "tc_hanzi": "知識"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "放松",
+        "pinyin": "fàng sōng",
+        "meaning": "to relax",
+        "tc_hanzi": "放鬆"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "节日",
+        "pinyin": "jié rì",
+        "meaning": "holiday\nfestival",
+        "tc_hanzi": "節日"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "hui-future",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "灯谜",
+        "pinyin": "dēng mí",
+        "meaning": "lantern riddles",
+        "tc_hanzi": "燈謎"
+      },
+      {
+        "hanzi": "；",
+        "tc_hanzi": "；"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "聚会",
+        "pinyin": "jù huì",
+        "meaning": "party\ngathering\nto meet",
+        "tc_hanzi": "聚會"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hanzi": "猜猜",
+        "pinyin": "cāi cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜猜"
+      },
+      {
+        "hanzi": "脑筋急转弯",
+        "pinyin": "nǎo jīn jí zhuǎn wān",
+        "meaning": "brain teaser\nbrain twister",
+        "tc_hanzi": "腦筋急轉彎"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "或者",
+        "pinyin": "huò zhě",
+        "meaning": "or",
+        "tc_hanzi": "或者"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "谜语",
+        "pinyin": "mí yǔ",
+        "meaning": "riddle",
+        "tc_hanzi": "謎語"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "见面",
+        "pinyin": "jiàn miàn",
+        "meaning": "to meet\nto see each other",
+        "tc_hanzi": "見面"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "聊天",
+        "pinyin": "liáo tiān",
+        "meaning": "to chat\nto gossip",
+        "tc_hanzi": "聊天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hanzi": "聊",
+        "pinyin": "liáo",
+        "meaning": "to chat",
+        "tc_hanzi": "聊"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hanzi": "聊",
+        "pinyin": "liáo",
+        "meaning": "to chat",
+        "tc_hanzi": "聊"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hanzi": "聊",
+        "pinyin": "liáo",
+        "meaning": "to chat",
+        "tc_hanzi": "聊"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "字谜",
+        "pinyin": "zì mí",
+        "meaning": "a riddle involving characters",
+        "tc_hanzi": "字謎"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to see",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "字谜",
+        "pinyin": "zì mí",
+        "meaning": "a riddle involving characters",
+        "tc_hanzi": "字謎"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hanzi": "考考",
+        "pinyin": "kǎo kǎo",
+        "meaning": "to check\nto verify\nto test",
+        "tc_hanzi": "考考"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哇",
+        "pinyin": "wa",
+        "meaning": "(replaces 啊 when following the vowel \"u\" or \"ao\")",
+        "tc_hanzi": "哇"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "the most … thing\nthe best",
+        "tc_hanzi": "最"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "字谜",
+        "pinyin": "zì mí",
+        "meaning": "a riddle involving characters",
+        "tc_hanzi": "字謎"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(suffix indicating completion or readiness)",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "清",
+        "pinyin": "qīng",
+        "meaning": "clear\ndistinct",
+        "tc_hanzi": "清"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "浊",
+        "pinyin": "zhuó",
+        "meaning": "turbid\nmuddy\nimpure",
+        "tc_hanzi": "濁"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "蜻蜓",
+        "pinyin": "qīng tíng",
+        "meaning": "dragonfly",
+        "tc_hanzi": "蜻蜓"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "蜻",
+        "pinyin": "qīng",
+        "meaning": "see 蜻蜓",
+        "tc_hanzi": "蜻"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "hanzi": "？‘",
+        "tc_hanzi": "？‘"
+      },
+      {
+        "hanzi": "清",
+        "pinyin": "qīng",
+        "meaning": "clear\ndistinct",
+        "tc_hanzi": "清"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "右",
+        "pinyin": "yòu",
+        "meaning": "right (-hand)",
+        "tc_hanzi": "右"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "青",
+        "pinyin": "qīng",
+        "meaning": "green or blue\ncyan",
+        "tc_hanzi": "青"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "浊",
+        "pinyin": "zhuó",
+        "meaning": "turbid\nmuddy\nimpure",
+        "tc_hanzi": "濁"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "右",
+        "pinyin": "yòu",
+        "meaning": "right (-hand)",
+        "tc_hanzi": "右"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "虫",
+        "pinyin": "chóng",
+        "meaning": "lower form of animal life, including insects, insect larvae, worms and similar creatures\nperson with a particular undesirable characteristic",
+        "tc_hanzi": "蟲"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qǐ lai",
+        "meaning": "(after a verb) indicating completeness or effectiveness",
+        "tc_hanzi": "起來"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "蜻",
+        "pinyin": "qīng",
+        "meaning": "see 蜻蜓",
+        "tc_hanzi": "蜻"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "不错",
+        "pinyin": "bú cuò",
+        "meaning": "right\nnot bad\npretty good",
+        "tc_hanzi": "不錯"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again\nonce more",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "ordinals",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 5,
+        "hanzi": "善",
+        "pinyin": "shàn",
+        "meaning": "good (virtuous)\nwell-disposed",
+        "tc_hanzi": "善"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "恶",
+        "pinyin": "è",
+        "meaning": "evil\nfierce\nvicious",
+        "tc_hanzi": "惡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hanzi": "摇摇",
+        "pinyin": "yáo yáo",
+        "meaning": "to shake\nto rock",
+        "tc_hanzi": "搖搖"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "头",
+        "pinyin": "tóu",
+        "meaning": "head",
+        "tc_hanzi": "頭"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "g": "erhua",
+        "gh": true,
+        "hanzi": "有点儿",
+        "pinyin": "yǒu diǎn'r",
+        "meaning": "slightly\na little\nsomewhat",
+        "tc_hanzi": "有點兒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hanzi": "想想",
+        "pinyin": "xiǎng xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想想"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "哎呀",
+        "pinyin": "āi yā",
+        "meaning": "interjection of wonder, shock or admiration",
+        "tc_hanzi": "哎呀"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "不行",
+        "pinyin": "bù xíng",
+        "meaning": "won't do\nbe out of the question\nbe no good",
+        "tc_hanzi": "不行"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "(after a verb) coming out, completion of an action, or ability to discern or detect",
+        "tc_hanzi": "出來"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "嗓子",
+        "pinyin": "sǎng zi",
+        "meaning": "throat\nvoice",
+        "tc_hanzi": "嗓子"
+      },
+      {
+        "hanzi": "哑",
+        "pinyin": "yǎ",
+        "meaning": "dumb\nmute",
+        "tc_hanzi": "啞"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "哑",
+        "pinyin": "yǎ",
+        "meaning": "dumb\nmute",
+        "tc_hanzi": "啞"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hanzi": "拿出",
+        "pinyin": "ná chū",
+        "meaning": "to take out\nto put out",
+        "tc_hanzi": "拿出"
+      },
+      {
+        "hanzi": "纸",
+        "pinyin": "zhǐ",
+        "meaning": "paper",
+        "tc_hanzi": "紙"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笔",
+        "pinyin": "bǐ",
+        "meaning": "pen\npencil",
+        "tc_hanzi": "筆"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "纸",
+        "pinyin": "zhǐ",
+        "meaning": "paper",
+        "tc_hanzi": "紙"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "to write",
+        "tc_hanzi": "寫"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，‘",
+        "tc_hanzi": "，‘"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "善",
+        "pinyin": "shàn",
+        "meaning": "good (virtuous)\nwell-disposed",
+        "tc_hanzi": "善"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "下半",
+        "pinyin": "xià bàn",
+        "meaning": "second half\nbottom half",
+        "tc_hanzi": "下半"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "口",
+        "pinyin": "kǒu",
+        "meaning": "mouth\nopening",
+        "tc_hanzi": "口"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "恶",
+        "pinyin": "è",
+        "meaning": "evil\nfierce\nvicious",
+        "tc_hanzi": "惡"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hanzi": "上半",
+        "pinyin": "shàng bàn",
+        "meaning": "first half\ntop half",
+        "tc_hanzi": "上半"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "亚",
+        "pinyin": "yà",
+        "meaning": "Asia\nAsian",
+        "tc_hanzi": "亞"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qǐ lai",
+        "meaning": "(after a verb) indicating completeness or effectiveness",
+        "tc_hanzi": "起來"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "‘",
+        "tc_hanzi": "‘"
+      },
+      {
+        "hanzi": "哑",
+        "pinyin": "yǎ",
+        "meaning": "dumb\nmute",
+        "tc_hanzi": "啞"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "result-complements",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "答",
+        "pinyin": "dá",
+        "meaning": "reply\nanswer\nrespond",
+        "tc_hanzi": "答"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hanzi": "答",
+        "pinyin": "dá",
+        "meaning": "reply\nanswer\nrespond",
+        "tc_hanzi": "答"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "hanzi": "半天",
+        "pinyin": "bàn tiān",
+        "meaning": "half of the day\na long time",
+        "tc_hanzi": "半天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to make",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "g": "yi-jiu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "(used before verb to indicate action to be followed by a result)",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "g": "jiu-promptness",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "as early as\nalready\nright away",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "告诉",
+        "pinyin": "gào su",
+        "meaning": "to tell\nto inform",
+        "tc_hanzi": "告訴"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "答案",
+        "pinyin": "dá àn",
+        "meaning": "answer\nsolution",
+        "tc_hanzi": "答案"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "说话",
+        "pinyin": "shuō huà",
+        "meaning": "to speak\nto talk",
+        "tc_hanzi": "說話"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "只",
+        "pinyin": "zhǐ",
+        "meaning": "only\nmerely",
+        "tc_hanzi": "只"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "哈哈",
+        "pinyin": "hā hā",
+        "meaning": "(onom.) laughing out loud",
+        "tc_hanzi": "哈哈"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大笑",
+        "pinyin": "dà xiào",
+        "meaning": "to laugh heartily",
+        "tc_hanzi": "大笑"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小王",
+        "pinyin": "xiǎo wáng",
+        "meaning": "Little Wang (name)",
+        "tc_hanzi": "小王"
+      },
+      {
+        "g": "yi-jiu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "(used before verb to indicate action to be followed by a result)",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hanzi": "出来",
+        "pinyin": "chū lái",
+        "meaning": "(after a verb) coming out, completion of an action, or ability to discern or detect",
+        "tc_hanzi": "出來"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "们",
+        "pinyin": "men",
+        "meaning": "plural marker for pronouns, and nouns referring to individuals",
+        "tc_hanzi": "們"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "答案",
+        "pinyin": "dá àn",
+        "meaning": "answer\nsolution",
+        "tc_hanzi": "答案"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "：‘",
+        "tc_hanzi": "：‘"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "哈",
+        "pinyin": "hā",
+        "meaning": "(onom. for laughter)",
+        "tc_hanzi": "哈"
+      },
+      {
+        "hanzi": "’",
+        "tc_hanzi": "’"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你们",
+        "pinyin": "nǐ men",
+        "meaning": "you (plural)",
+        "tc_hanzi": "你們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "中间",
+        "pinyin": "zhōng jiān",
+        "meaning": "between\nmid\nmiddle",
+        "tc_hanzi": "中間"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "口",
+        "pinyin": "kǒu",
+        "meaning": "mouth\nopening",
+        "tc_hanzi": "口"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "加上",
+        "pinyin": "jiā shàng",
+        "meaning": "to put in\nto add\non top of that",
+        "tc_hanzi": "加上"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "答",
+        "pinyin": "dá",
+        "meaning": "reply\nanswer\nrespond",
+        "tc_hanzi": "答"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hanzi": "下半",
+        "pinyin": "xià bàn",
+        "meaning": "second half\nbottom half",
+        "tc_hanzi": "下半"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "部分",
+        "pinyin": "bù fen",
+        "meaning": "part\nshare\nsection",
+        "tc_hanzi": "部分"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "合",
+        "pinyin": "hé",
+        "meaning": "to join\nto fit",
+        "tc_hanzi": "合"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "起来",
+        "pinyin": "qǐ lai",
+        "meaning": "(after a verb) indicating completeness or effectiveness",
+        "tc_hanzi": "起來"
+      },
+      {
+        "g": "jiu-emphasis",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "哈",
+        "pinyin": "hā",
+        "meaning": "(onom. for laughter)",
+        "tc_hanzi": "哈"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "猜",
+        "pinyin": "cāi",
+        "meaning": "to guess",
+        "tc_hanzi": "猜"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right\ncorrect",
+        "tc_hanzi": "對"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Test your skills by guessing Chinese riddles!",
+    "syllable_times": [
+      0.33,
+      0.69,
+      0.9693877551020408,
+      1.201814058956916,
+      1.38,
+      3.35,
+      3.639455782312925,
+      3.9285714285714284,
+      4.69,
+      4.985,
+      5.357142857142857,
+      5.702947845804989,
+      5.91,
+      6.22,
+      6.586666666666667,
+      6.853741496598639,
+      8.06,
+      8.29,
+      8.73,
+      9.083333333333334,
+      9.436666666666666,
+      9.86,
+      10.11,
+      10.35,
+      10.59,
+      10.89,
+      11.185,
+      11.83,
+      12.053333333333333,
+      12.276666666666667,
+      12.5,
+      12.875,
+      14.59,
+      14.835,
+      15.08,
+      15.23,
+      15.57,
+      16.01,
+      16.285,
+      16.60997732426304,
+      16.82,
+      17.14,
+      17.475,
+      18.6,
+      18.880000000000003,
+      19.16,
+      19.31,
+      19.61,
+      20.1,
+      20.310000000000002,
+      20.52,
+      20.845,
+      21.17,
+      21.47,
+      21.79,
+      22.03,
+      22.27,
+      22.536666666666665,
+      22.803333333333335,
+      23.37,
+      23.59,
+      23.81,
+      24.189999999999998,
+      25.84,
+      26.2,
+      26.56,
+      26.72,
+      27.045,
+      27.37,
+      27.61,
+      27.85,
+      28.175,
+      29.42,
+      29.58,
+      29.74,
+      30.028344671201815,
+      30.19,
+      30.509999999999998,
+      30.83,
+      31.05,
+      31.31,
+      31.46,
+      31.61,
+      31.87,
+      33.29,
+      33.565,
+      33.84,
+      34.7,
+      34.94,
+      35.245,
+      35.55,
+      35.78,
+      36.01,
+      36.16,
+      36.31,
+      36.58,
+      37.27,
+      37.53,
+      37.76,
+      37.96,
+      40.11,
+      40.4,
+      40.69,
+      41.57,
+      41.93310657596372,
+      42.7891156462585,
+      43.01587301587301,
+      43.29931972789115,
+      43.554421768707485,
+      43.75,
+      44.02,
+      44.23,
+      44.45,
+      46.06,
+      46.383219954648524,
+      46.59863945578231,
+      47.32,
+      47.53,
+      47.785,
+      48.94,
+      49.13333333333333,
+      49.32666666666667,
+      49.52,
+      50.36,
+      50.75,
+      51.08,
+      51.61,
+      51.950113378684804,
+      52.15986394557823,
+      52.84,
+      53.13,
+      53.295,
+      53.46,
+      54.84,
+      55.2437641723356,
+      55.57256235827664,
+      55.870000000000005,
+      56.28,
+      56.62698412698413,
+      56.76303854875283,
+      56.98,
+      57.81,
+      58.16,
+      58.54,
+      58.82086167800453,
+      59.0702947845805,
+      59.29,
+      59.94,
+      60.35,
+      60.635000000000005,
+      60.92,
+      61.1,
+      61.48526077097505,
+      62.24,
+      62.443333333333335,
+      62.64666666666667,
+      63.54,
+      64.15,
+      64.41,
+      64.64,
+      64.88499999999999,
+      65.13,
+      65.31,
+      65.705,
+      66.48,
+      66.79,
+      67.36,
+      67.63,
+      67.89,
+      68.12,
+      68.35,
+      68.51,
+      68.88,
+      69.62,
+      69.91666666666667,
+      70.21333333333334,
+      70.57,
+      70.82,
+      71.07,
+      71.47,
+      72.82,
+      73.08,
+      73.34,
+      74.06,
+      74.34,
+      74.62,
+      75.58,
+      75.8,
+      76.51,
+      76.8,
+      77.04,
+      77.22222222222221,
+      77.52,
+      78.53,
+      78.99,
+      79.255,
+      79.85,
+      80.095,
+      80.34,
+      81.25,
+      81.52,
+      81.675,
+      81.83,
+      83.35,
+      83.685,
+      84.02,
+      84.24333333333333,
+      84.41043083900226,
+      84.69,
+      85.77,
+      86.01,
+      86.15,
+      86.37,
+      86.59,
+      87.41,
+      87.62,
+      87.96000000000001,
+      89.41,
+      89.675,
+      90.1,
+      90.32499999999999,
+      90.55,
+      91.14,
+      91.42,
+      91.62666666666667,
+      91.83333333333334,
+      93.55,
+      93.845,
+      94.14,
+      94.95,
+      95.34,
+      95.68,
+      96.02,
+      96.43,
+      96.59,
+      96.74,
+      97.08,
+      98.57,
+      99,
+      99.28,
+      99.56,
+      99.79,
+      100.07,
+      100.78,
+      101.32,
+      101.63499999999999,
+      101.95,
+      102.31292517006803,
+      102.5,
+      102.77,
+      103.95,
+      104.1156462585034,
+      105,
+      105.57,
+      105.94671201814059,
+      106.155,
+      106.44749999999999,
+      106.84,
+      107.225,
+      108.22,
+      108.8548752834467,
+      109.33,
+      109.67687074829932,
+      109.9546485260771,
+      110.18707482993197,
+      110.37,
+      110.67,
+      111.02,
+      111.96,
+      112.22,
+      112.47999999999999,
+      112.77,
+      113.06,
+      113.44,
+      113.83,
+      114.06462585034014,
+      115.05,
+      115.35499999999999,
+      115.66,
+      116.41,
+      116.595,
+      116.78,
+      117.64,
+      117.83,
+      118.11,
+      118.39,
+      119.28,
+      119.48,
+      119.65,
+      121.01,
+      121.315,
+      121.62,
+      122.83,
+      123.19,
+      123.47999999999999,
+      124.12,
+      124.45,
+      124.725,
+      125.43,
+      125.73129251700679,
+      126.1,
+      126.32,
+      126.76,
+      127.13151927437642,
+      127.44,
+      128.39,
+      128.65,
+      128.805,
+      128.96,
+      129.95,
+      130.32,
+      130.69,
+      130.89,
+      131.24716553287982,
+      131.47392290249434,
+      132.26757369614512,
+      132.60204081632654,
+      132.88548752834467,
+      133.45,
+      133.76,
+      133.98999999999998,
+      134.22,
+      134.45,
+      134.675,
+      134.9,
+      136.19,
+      136.57999999999998,
+      137.02,
+      137.21,
+      137.505,
+      138.32766439909295,
+      138.55442176870747,
+      138.9455782312925,
+      139.24603174603175,
+      139.48000000000002,
+      139.71655328798187,
+      140.66326530612244,
+      141.005,
+      141.29,
+      141.46,
+      142.09,
+      142.39,
+      142.69,
+      143.015873015873,
+      143.1859410430839,
+      143.39499999999998,
+      144.78,
+      145.04666666666668,
+      145.2607709750567,
+      145.92,
+      146.18666666666667,
+      146.37755102040816,
+      146.72,
+      146.96,
+      147.14285714285714,
+      147.48,
+      147.66,
+      147.84,
+      148.02,
+      149.43,
+      149.69,
+      149.95,
+      150.5612244897959,
+      150.98639455782313,
+      152.5,
+      152.68,
+      152.86,
+      153.94,
+      154.49,
+      154.75,
+      155.01,
+      155.18,
+      155.54500000000002,
+      156.34,
+      156.695,
+      157.15,
+      157.62,
+      157.885,
+      158.15,
+      158.41500000000002,
+      158.68,
+      158.82,
+      159.20999999999998,
+      160.38,
+      160.6972789115646,
+      160.91836734693877,
+      161.28,
+      161.565,
+      161.88,
+      162.4206349206349,
+      162.63,
+      163.51,
+      163.87,
+      164.2,
+      164.385,
+      164.57,
+      165.147347
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      17,
+      29,
+      38,
+      49,
+      51,
+      68,
+      70,
+      86,
+      88,
+      102,
+      104,
+      117,
+      130,
+      132,
+      141,
+      160,
+      183,
+      192,
+      194,
+      210,
+      223,
+      225,
+      230,
+      248,
+      250,
+      264,
+      278,
+      302,
+      312,
+      314,
+      331,
+      333,
+      345,
+      357,
+      359,
+      376,
+      378,
+      387,
+      395,
+      397,
+      409,
+      411,
+      418,
+      431,
+      443,
+      459
+    ],
+    "sentence_translations": [
+      "What Character Is It?",
+      "",
+      "In China, people really like guessing riddles.",
+      "Because riddles can both expand your knowledge, and also help you relax.",
+      "People will guess riddles written on lanterns during festivals, ..",
+      ".. and people like to guess brain teasers or riddles when they gather together.",
+      "",
+      "Little Zhang and Little Wang met up for a chat, and character riddles came up in the conversation.",
+      "",
+      "Little Zhang said, “I’ve seen some character riddles recently, how about I test you?”",
+      "",
+      "Little Wang said, “OK, I like guessing character riddles the most.”",
+      "",
+      "Little Zhang said, “Listen carefully! The first one is:",
+      "Take one half of ‘qing’ (clear), one half of ‘zhuo’ (muddy), and make a character.”",
+      "",
+      "Little Wang listened, thought about it and said, ..",
+      ".. “Haha, I got it! It’s ‘qing’ from ‘qingting’ (dragonfly), isn’t it?",
+      "The right part of ‘qing’ (clear) is ‘qing’ (green), and the right part of ‘zhuo’ (muddy) is ‘chong’ (insect), ..",
+      ".. add them together and you get the character ‘qing’!”",
+      "",
+      "Little Zhang said, “Not bad! Now, listen again to the next one:",
+      "Take one half of ‘shan’ (virtuous), one half of ‘e’ (evil), and make a character.”",
+      "",
+      "Little Wang shook his head and said, ..",
+      ".. “This one is a bit hard. Let me think about it. No, I can’t think of anything.”",
+      "",
+      "Little Zhang said, “It’s ‘ya’ (mute) in the expression ‘sangzi ya’ (to lose one’s voice).”",
+      "He took out a piece of paper and a pen, wrote it on the paper, and said, ..",
+      ".. “Have a look, the lower part of ‘shan’ (virtuous) is ‘kou’ (mouth), the upper part of ‘e’ (evil) is ‘ya’ (Asia), ..",
+      ".. add them together and you get the character ‘ya’ (mute).”",
+      "",
+      "Little Wang said, “This one was hard, I’d never have guessed it. Do you have more?”",
+      "",
+      "Little Zhang said, “Take one half of ‘wen’ (to ask) and one half of ‘da’ (to answer).",
+      "One asks, the other answers, and they laugh for a long time. Make a character.”",
+      "",
+      "When he heard this, Little Wang said, “That’s too hard. Tell me the answer!”",
+      "",
+      "Little Zhang didn’t say anything, he just burst out laughing.",
+      "When he heard this, Little Wang instantly guessed the answer.",
+      "",
+      "Friends, do you know what the character is?",
+      "",
+      "The answer is “ha” (ha, the sound of laughter).",
+      "You see, if you take “kou” (mouth) in the middle of “wen” (to ask), ..",
+      ".. and add the lower part of “da” (to answer) which is “he” (to combine), ..",
+      ".. add them together and you get the character “ha”. Did you guess right?",
+      ""
+    ]
+  }
+}

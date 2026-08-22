@@ -1,0 +1,796 @@
+{
+  "id": "E195",
+  "title": "Your Food Has Arrived",
+  "level": "elementary",
+  "date": "2018-02-24",
+  "synopsis": "It is really convenient to order home delivery food in China.",
+  "audioUrl": "https://static.duchinese.net/documents/666/9bc346a0d45b910141da21bad662020d6df6b25c.mp3?1519035901",
+  "series": null,
+  "fullText": {
+    "simplified": "外卖到了  \n\n外卖小哥：喂，您好，您的外卖到了，请开门。\n安妮：好的，请稍等。\n外卖小哥：这是您的外卖，牛肉炒饭。\n安妮：谢谢你。\n外卖小哥：不用客气。祝您用餐愉快！\n安妮：请慢走。",
+    "traditional": "外賣到了  \n\n外賣小哥：喂，您好，您的外賣到了，請開門。\n安妮：好的，請稍等。\n外賣小哥：這是您的外賣，牛肉炒飯。\n安妮：謝謝你。\n外賣小哥：不用客氣。祝您用餐愉快！\n安妮：請慢走。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "  \n\n",
+      "traditional": "  \n\n",
+      "pinyin": "",
+      "english": "Your Food Has Arrived"
+    },
+    {
+      "index": 2,
+      "simplified": "外卖小哥：喂，您好，您的外卖到了，请开门。",
+      "traditional": "外賣小哥：喂，您好，您的外賣到了，請開門。",
+      "pinyin": "wài mài xiǎo gē wéi nín hǎo nín de wài mài dào le qǐng kāi mén",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery guy: Hello, your home delivery is here. Please open the door."
+    },
+    {
+      "index": 4,
+      "simplified": "安妮：好的，请稍等。",
+      "traditional": "安妮：好的，請稍等。",
+      "pinyin": "ān nī hǎo de qǐng shāo děng",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Annie: Ok, wait a second."
+    },
+    {
+      "index": 6,
+      "simplified": "外卖小哥：这是您的外卖，牛肉炒饭。",
+      "traditional": "外賣小哥：這是您的外賣，牛肉炒飯。",
+      "pinyin": "wài mài xiǎo gē zhè shì nín de wài mài niú ròu chǎo fàn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery guy: Here is your food, beef fried rice."
+    },
+    {
+      "index": 8,
+      "simplified": "安妮：谢谢你。",
+      "traditional": "安妮：謝謝你。",
+      "pinyin": "ān nī xiè xie nǐ",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Annie: Thank you."
+    },
+    {
+      "index": 10,
+      "simplified": "外卖小哥：不用客气。祝您用餐愉快！",
+      "traditional": "外賣小哥：不用客氣。祝您用餐愉快！",
+      "pinyin": "wài mài xiǎo gē bú yòng kè qi zhù nín yòng cān yú kuài",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery guy: You are welcome. Have a nice meal."
+    },
+    {
+      "index": 12,
+      "simplified": "安妮：请慢走。",
+      "traditional": "安妮：請慢走。",
+      "pinyin": "ān nī qǐng màn zǒu",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Annie: Take care."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "外卖",
+      "traditional": "外賣",
+      "pinyin": "wài mài",
+      "meaning": "delivery (of food from a restaurant)\ntakeout",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哥",
+      "traditional": "哥",
+      "pinyin": "gē",
+      "meaning": "elder brother",
+      "hsk": null
+    },
+    {
+      "hanzi": "喂",
+      "traditional": "喂",
+      "pinyin": "wéi",
+      "meaning": "hello (when answering the phone)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "开门",
+      "traditional": "開門",
+      "pinyin": "kāi mén",
+      "meaning": "to open a door\nto open for business",
+      "hsk": null
+    },
+    {
+      "hanzi": "安妮",
+      "traditional": "安妮",
+      "pinyin": "ān nī",
+      "meaning": "Annie (name)\noften pronounced ān ní",
+      "hsk": null
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "稍等",
+      "traditional": "稍等",
+      "pinyin": "shāo děng",
+      "meaning": "to wait a moment",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "牛肉",
+      "traditional": "牛肉",
+      "pinyin": "niú ròu",
+      "meaning": "beef",
+      "hsk": null
+    },
+    {
+      "hanzi": "炒饭",
+      "traditional": "炒飯",
+      "pinyin": "chǎo fàn",
+      "meaning": "fried rice",
+      "hsk": null
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不用",
+      "traditional": "不用",
+      "pinyin": "bú yòng",
+      "meaning": "need not",
+      "hsk": null
+    },
+    {
+      "hanzi": "客气",
+      "traditional": "客氣",
+      "pinyin": "kè qi",
+      "meaning": "polite\ncourteous\nformal",
+      "hsk": 1
+    },
+    {
+      "hanzi": "祝",
+      "traditional": "祝",
+      "pinyin": "zhù",
+      "meaning": "to wish\nto express good wishes\nto pray",
+      "hsk": null
+    },
+    {
+      "hanzi": "用餐",
+      "traditional": "用餐",
+      "pinyin": "yòng cān",
+      "meaning": "to eat a meal",
+      "hsk": null
+    },
+    {
+      "hanzi": "愉快",
+      "traditional": "愉快",
+      "pinyin": "yú kuài",
+      "meaning": "happy\njoyful\ncheerful",
+      "hsk": 4
+    },
+    {
+      "hanzi": "慢走",
+      "traditional": "慢走",
+      "pinyin": "màn zǒu",
+      "meaning": "(to a departing guest) Take care!\nlit. walk slowly",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "  ",
+        "tc_hanzi": "  "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "哥",
+        "pinyin": "gē",
+        "meaning": "elder brother",
+        "tc_hanzi": "哥"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "喂",
+        "pinyin": "wéi",
+        "meaning": "hello (when answering the phone)",
+        "tc_hanzi": "喂"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "开门",
+        "pinyin": "kāi mén",
+        "meaning": "to open a door\nto open for business",
+        "tc_hanzi": "開門"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "稍等",
+        "pinyin": "shāo děng",
+        "meaning": "to wait a moment",
+        "tc_hanzi": "稍等"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "哥",
+        "pinyin": "gē",
+        "meaning": "elder brother",
+        "tc_hanzi": "哥"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "牛肉",
+        "pinyin": "niú ròu",
+        "meaning": "beef",
+        "tc_hanzi": "牛肉"
+      },
+      {
+        "hanzi": "炒饭",
+        "pinyin": "chǎo fàn",
+        "meaning": "fried rice",
+        "tc_hanzi": "炒飯"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "外卖",
+        "pinyin": "wài mài",
+        "meaning": "delivery (of food from a restaurant)\ntakeout",
+        "tc_hanzi": "外賣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "prefix used before the surname of a person to indicate affection or familiarity",
+        "tc_hanzi": "小"
+      },
+      {
+        "hanzi": "哥",
+        "pinyin": "gē",
+        "meaning": "elder brother",
+        "tc_hanzi": "哥"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不用",
+        "pinyin": "bú yòng",
+        "meaning": "need not",
+        "tc_hanzi": "不用"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "客气",
+        "pinyin": "kè qi",
+        "meaning": "polite\ncourteous\nformal",
+        "tc_hanzi": "客氣"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "祝",
+        "pinyin": "zhù",
+        "meaning": "to wish\nto express good wishes\nto pray",
+        "tc_hanzi": "祝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "hanzi": "用餐",
+        "pinyin": "yòng cān",
+        "meaning": "to eat a meal",
+        "tc_hanzi": "用餐"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "愉快",
+        "pinyin": "yú kuài",
+        "meaning": "happy\njoyful\ncheerful",
+        "tc_hanzi": "愉快"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "安妮",
+        "pinyin": "ān nī",
+        "meaning": "Annie (name)\noften pronounced ān ní",
+        "tc_hanzi": "安妮"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hanzi": "慢走",
+        "pinyin": "màn zǒu",
+        "meaning": "(to a departing guest) Take care!\nlit. walk slowly",
+        "tc_hanzi": "慢走"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "It is really convenient to order home delivery food in China.",
+    "syllable_times": [
+      0.36281179138322,
+      0.7256235827664399,
+      1.043083900226757,
+      3.784145097889374,
+      3.784145097889374,
+      3.784145097889374,
+      3.784145097889374,
+      3.784145097889374,
+      4.489795918367347,
+      4.761904761904762,
+      5.442176870748299,
+      5.714285714285714,
+      5.941043083900227,
+      6.213151927437642,
+      6.575963718820861,
+      6.865375393110258,
+      7.528344671201814,
+      7.981859410430839,
+      8.344671201814059,
+      10.47363643262582,
+      10.47363643262582,
+      10.47363643262582,
+      10.97661122174758,
+      11.60997732426304,
+      12.06349206349206,
+      12.51700680272109,
+      14.00421096578435,
+      14.00421096578435,
+      14.00421096578435,
+      14.00421096578435,
+      14.00421096578435,
+      14.28571428571429,
+      14.73922902494331,
+      15.01133786848072,
+      15.19274376417234,
+      15.46485260770975,
+      16.4172335600907,
+      16.87074829931973,
+      17.23356009070295,
+      17.59637188208617,
+      19.39316189033238,
+      19.39316189033238,
+      19.39316189033238,
+      19.78422168628068,
+      20.08211502058517,
+      21.84935248902568,
+      21.84935248902568,
+      21.84935248902568,
+      21.84935248902568,
+      21.84935248902568,
+      22.04081632653061,
+      22.31292517006803,
+      22.65908516636666,
+      23.6281179138322,
+      23.90022675736962,
+      24.35374149659864,
+      24.68711781097851,
+      25.13535397967682,
+      25.3968253968254,
+      27.01304378989486,
+      27.01304378989486,
+      27.01304378989486,
+      27.43764172335601,
+      27.75510204081633,
+      28.54809523809524,
+      28.54809523809524
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      23,
+      24,
+      31,
+      32,
+      45,
+      46,
+      51,
+      52,
+      64,
+      65,
+      70
+    ],
+    "sentence_translations": [
+      "Your Food Has Arrived",
+      "",
+      "Delivery guy: Hello, your home delivery is here. Please open the door.",
+      "",
+      "Annie: Ok, wait a second.",
+      "",
+      "Delivery guy: Here is your food, beef fried rice.",
+      "",
+      "Annie: Thank you.",
+      "",
+      "Delivery guy: You are welcome. Have a nice meal.",
+      "",
+      "Annie: Take care.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "id": "E002",
+  "title": "Man vs Machine Battle",
+  "level": "upper intermediate",
+  "date": "2016-03-26",
+  "synopsis": "Google's AlphaGo program recently made history when it won against Lee Se-dol in a game of Go.",
+  "audioUrl": "https://static.duchinese.net/documents/94/2755427aa2ce6eb0ec7567607b5863d6b2dd0799.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "围棋“人机大战”\n\n    最近，谷歌公司的电脑AlphaGo和韩国棋手李世石下围棋，AlphaGo赢了前三局。有的人觉得，现在电脑比人聪明了，可能未来人们要给电脑工作。还有的人觉得，因为电脑是很多工程师一起做的，所以是很多人赢了一个人。",
+    "traditional": "圍棋“人機大戰”\n\n    最近，谷歌公司的電腦AlphaGo和韓國棋手李世石下圍棋，AlphaGo贏了前三局。有的人覺得，現在電腦比人聰明了，可能未來人們要給電腦工作。還有的人覺得，因為電腦是很多工程師一起做的，所以是很多人贏了一個人。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Man vs Machine Battle"
+    },
+    {
+      "index": 2,
+      "simplified": "最近，谷歌公司的电脑AlphaGo和韩国棋手李世石下围棋，AlphaGo赢了前三局。",
+      "traditional": "最近，谷歌公司的電腦AlphaGo和韓國棋手李世石下圍棋，AlphaGo贏了前三局。",
+      "pinyin": "zuì jìn gǔ gē gōng sī de diàn nǎo 3 hé hán guó qí shǒu lǐ shì shí xià wéi qí 3 yíng le qián sān jú",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "有的人觉得，现在电脑比人聪明了，可能未来人们要给电脑工作。",
+      "traditional": "有的人覺得，現在電腦比人聰明了，可能未來人們要給電腦工作。",
+      "pinyin": "yǒu de rén jué de xiàn zài diàn nǎo bǐ rén cōng ming le kě néng wèi lái rén men yào gěi diàn nǎo gōng zuò",
+      "english": "Google's AlphaGo program recently played against Korean Go-player Lee Se-dol and won the first three games."
+    },
+    {
+      "index": 4,
+      "simplified": "还有的人觉得，因为电脑是很多工程师一起做的，所以是很多人赢了一个人。",
+      "traditional": "還有的人覺得，因為電腦是很多工程師一起做的，所以是很多人贏了一個人。",
+      "pinyin": "hái yǒu de rén jué de yīn wèi diàn nǎo shì hěn duō gōng chéng shī yì qǐ zuò de suǒ yǐ shì hěn duō rén yíng le yí ge rén",
+      "english": "Some people believe computers nowadays are smarter than humans, and that people in the future will maybe work for computers."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "围棋",
+      "traditional": "圍棋",
+      "pinyin": "wéi qí",
+      "meaning": "the game of Go",
+      "hsk": null
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "man\nhuman",
+      "hsk": 1
+    },
+    {
+      "hanzi": "机",
+      "traditional": "機",
+      "pinyin": "jī",
+      "meaning": "machine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "大战",
+      "traditional": "大戰",
+      "pinyin": "dà zhàn",
+      "meaning": "great war\nto fight a major battle",
+      "hsk": 5
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "谷歌",
+      "traditional": "谷歌",
+      "pinyin": "gǔ gē",
+      "meaning": "Google",
+      "hsk": null
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diàn nǎo",
+      "meaning": "computer",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "韩国",
+      "traditional": "韓國",
+      "pinyin": "hán guó",
+      "meaning": "South Korea (Republic of Korea)",
+      "hsk": null
+    },
+    {
+      "hanzi": "棋手",
+      "traditional": "棋手",
+      "pinyin": "qí shǒu",
+      "meaning": "chess player\ngo player",
+      "hsk": null
+    },
+    {
+      "hanzi": "李世石",
+      "traditional": "李世石",
+      "pinyin": "lǐ shì shí",
+      "meaning": "Lee Se-dol (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "meaning": "to play (chess, go, etc.)",
+      "hsk": null
+    },
+    {
+      "hanzi": "赢",
+      "traditional": "贏",
+      "pinyin": "yíng",
+      "meaning": "to win",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "front\nahead\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "meaning": "three\nthird",
+      "hsk": 1
+    },
+    {
+      "hanzi": "局",
+      "traditional": "局",
+      "pinyin": "jú",
+      "meaning": "classifier for games: match, set, round etc",
+      "hsk": 6
+    },
+    {
+      "hanzi": "有的人",
+      "traditional": "有的人",
+      "pinyin": "yǒu de rén",
+      "meaning": "some people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "比",
+      "traditional": "比",
+      "pinyin": "bǐ",
+      "meaning": "to compare\nto contrast",
+      "hsk": 2
+    },
+    {
+      "hanzi": "聪明",
+      "traditional": "聰明",
+      "pinyin": "cōng ming",
+      "meaning": "clever\nintelligent",
+      "hsk": 3
+    },
+    {
+      "hanzi": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "meaning": "possible\nprobable",
+      "hsk": 2
+    },
+    {
+      "hanzi": "未来",
+      "traditional": "未來",
+      "pinyin": "wèi lái",
+      "meaning": "future\ntomorrow",
+      "hsk": 5
+    },
+    {
+      "hanzi": "人们",
+      "traditional": "人們",
+      "pinyin": "rén men",
+      "meaning": "people",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to do sth (for sb)\n(passive particle)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "job\nwork",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "meaning": "because\nowing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "工程师",
+      "traditional": "工程師",
+      "pinyin": "gōng chéng shī",
+      "meaning": "engineer",
+      "hsk": 5
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to do\nto make",
+      "hsk": 1
+    },
+    {
+      "hanzi": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "therefore\nas a result",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "围棋",
+        "pinyin": "wéi qí",
+        "meaning": "the game of Go",
+        "tc_hanzi": "圍棋"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "man\nhuman",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "机",
+        "pinyin": "jī",
+        "meaning": "machine",
+        "tc_hanzi": "機"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "大战",
+        "pinyin": "dà zhàn",
+        "meaning": "great war\nto fight a major battle",
+        "tc_hanzi": "大戰"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "谷歌",
+        "pinyin": "gǔ gē",
+        "meaning": "Google",
+        "tc_hanzi": "谷歌"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hanzi": "AlphaGo",
+        "pinyin": "3",
+        "tc_hanzi": "AlphaGo"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "韩国",
+        "pinyin": "hán guó",
+        "meaning": "South Korea (Republic of Korea)",
+        "tc_hanzi": "韓國"
+      },
+      {
+        "hanzi": "棋手",
+        "pinyin": "qí shǒu",
+        "meaning": "chess player\ngo player",
+        "tc_hanzi": "棋手"
+      },
+      {
+        "hanzi": "李世石",
+        "pinyin": "lǐ shì shí",
+        "meaning": "Lee Se-dol (name)",
+        "tc_hanzi": "李世石"
+      },
+      {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "to play (chess, go, etc.)",
+        "tc_hanzi": "下"
+      },
+      {
+        "hanzi": "围棋",
+        "pinyin": "wéi qí",
+        "meaning": "the game of Go",
+        "tc_hanzi": "圍棋"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "AlphaGo",
+        "pinyin": "3",
+        "tc_hanzi": "AlphaGo"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "赢",
+        "pinyin": "yíng",
+        "meaning": "to win",
+        "tc_hanzi": "贏"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "front\nahead\nfirst",
+        "tc_hanzi": "前"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three\nthird",
+        "tc_hanzi": "三"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 6,
+        "hanzi": "局",
+        "pinyin": "jú",
+        "meaning": "classifier for games: match, set, round etc",
+        "tc_hanzi": "局"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有的人",
+        "pinyin": "yǒu de rén",
+        "meaning": "some people",
+        "tc_hanzi": "有的人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "g": "bi-meiyou",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "比",
+        "pinyin": "bǐ",
+        "meaning": "to compare\nto contrast",
+        "tc_hanzi": "比"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "man\nhuman",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "聪明",
+        "pinyin": "cōng ming",
+        "meaning": "clever\nintelligent",
+        "tc_hanzi": "聰明"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "可能",
+        "pinyin": "kě néng",
+        "meaning": "possible\nprobable",
+        "tc_hanzi": "可能"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "未来",
+        "pinyin": "wèi lái",
+        "meaning": "future\ntomorrow",
+        "tc_hanzi": "未來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人们",
+        "pinyin": "rén men",
+        "meaning": "people",
+        "tc_hanzi": "人們"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "g": "gei",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to do sth (for sb)\n(passive particle)",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "job\nwork",
+        "tc_hanzi": "工作"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有的人",
+        "pinyin": "yǒu de rén",
+        "meaning": "some people",
+        "tc_hanzi": "有的人"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "因为",
+        "pinyin": "yīn wèi",
+        "meaning": "because\nowing to",
+        "tc_hanzi": "因為"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer",
+        "tc_hanzi": "電腦"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "工程师",
+        "pinyin": "gōng chéng shī",
+        "meaning": "engineer",
+        "tc_hanzi": "工程師"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to do\nto make",
+        "tc_hanzi": "做"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "yinwei-suoyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "所以",
+        "pinyin": "suǒ yǐ",
+        "meaning": "therefore\nas a result",
+        "tc_hanzi": "所以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "赢",
+        "pinyin": "yíng",
+        "meaning": "to win",
+        "tc_hanzi": "贏"
+      },
+      {
+        "g": "le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Google's AlphaGo program recently made history when it won against Lee Se-dol in a game of Go.",
+    "syllable_times": [
+      0.2837615056303155,
+      0.6802721088435374,
+      0.9761395793682853,
+      1.315192743764172,
+      1.587301587301587,
+      2.630385487528345,
+      2.947845804988662,
+      3.6281179138322,
+      3.854875283446712,
+      4.172335600907029,
+      4.369927186706859,
+      4.580498866213152,
+      4.761904761904762,
+      5.034013605442177,
+      5.714285714285714,
+      5.941043083900227,
+      6.167800453514739,
+      6.893424036281179,
+      7.165532879818594,
+      7.482993197278912,
+      7.709750566893424,
+      7.979373538324472,
+      8.526077097505668,
+      8.70748299319728,
+      9.024943310657596,
+      9.523809523809524,
+      9.931972789115646,
+      10.20408163265306,
+      11.24716553287982,
+      11.42857142857143,
+      11.60997732426304,
+      12.15419501133787,
+      12.51700680272109,
+      12.6984126984127,
+      13.07768136332975,
+      13.38414378941049,
+      14.42176870748299,
+      14.5578231292517,
+      14.72349809598558,
+      14.96185776071504,
+      15.28344671201814,
+      16.00907029478458,
+      16.44868520644892,
+      17.00680272108843,
+      17.36961451247166,
+      17.73242630385488,
+      17.95918367346939,
+      18.32199546485261,
+      18.63945578231293,
+      18.82086167800454,
+      19.86394557823129,
+      20.09070294784581,
+      20.58956916099773,
+      20.86167800453515,
+      21.26984126984127,
+      21.45124716553288,
+      21.63265306122449,
+      21.8140589569161,
+      22.08616780045352,
+      22.40362811791383,
+      22.63038548752834,
+      22.9979007563966,
+      23.99092970521542,
+      24.35374149659864,
+      24.48979591836735,
+      24.6096661083768,
+      24.80725623582767,
+      25.12471655328798,
+      25.98639455782313,
+      26.19686219979073,
+      26.39455782312925,
+      26.71201814058957,
+      27.12018140589569,
+      27.39229024943311,
+      27.57369614512472,
+      27.83132847222134,
+      28.08103859717602,
+      28.27399642100464,
+      28.93424036281179,
+      29.1156462585034,
+      29.47845804988662,
+      29.79591836734694,
+      30.61224489795918,
+      31.00945733528088,
+      31.47392290249433,
+      31.74603174603175,
+      32.01814058956916,
+      32.33560090702948,
+      32.83446712018141,
+      33.06122448979592,
+      33.51473922902494,
+      33.83219954648526,
+      34.10430839002267,
+      35.09560090702948,
+      35.09562301635742
+    ],
+    "sentence_indices": [
+      6,
+      9,
+      30,
+      48
+    ],
+    "sentence_translations": [
+      "Man vs Machine Battle",
+      "",
+      "Google's AlphaGo program recently played against Korean Go-player Lee Se-dol and won the first three games.",
+      "Some people believe computers nowadays are smarter than humans, and that people in the future will maybe work for computers.",
+      "Other people believe since computers were made by multiple engineers it shows how multiple people won against one."
+    ]
+  }
+}

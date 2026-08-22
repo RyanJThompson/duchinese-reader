@@ -1,0 +1,620 @@
+{
+  "id": "1100",
+  "title": "Is the Weather Good?",
+  "level": "elementary",
+  "date": "2020-11-07",
+  "synopsis": "Plans to go out are often dependent on the weather. So is the weather good tomorrow?",
+  "audioUrl": "https://static.duchinese.net/documents/1100/19be6040dbb9d24df029c35daa20f77c10952fae.mp3?1596885259",
+  "series": null,
+  "fullText": {
+    "simplified": "天气好吗？\n\n妻子：如果明天天气好，你和我一起去商店买新衣服吧！你看看天气预报怎么说？\n丈夫：明天下雨、下雪、打雷，好像还有台风！",
+    "traditional": "天氣好嗎？\n\n妻子：如果明天天氣好，你和我一起去商店買新衣服吧！你看看天氣預報怎麼說？\n丈夫：明天下雨、下雪、打雷，好像還有颱風！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Is the Weather Good?"
+    },
+    {
+      "index": 2,
+      "simplified": "妻子：如果明天天气好，你和我一起去商店买新衣服吧！",
+      "traditional": "妻子：如果明天天氣好，你和我一起去商店買新衣服吧！",
+      "pinyin": "qī zi rú guǒ míng tiān tiān qì hǎo nǐ hé wǒ yì qǐ qù shāng diàn mǎi xīn yī fu ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "你看看天气预报怎么说？",
+      "traditional": "你看看天氣預報怎麼說？",
+      "pinyin": "nǐ kàn kan tiān qì yù bào zěn me shuō",
+      "english": "Wife: If the weather is good tomorrow, let’s go to the shops together to buy new clothes!"
+    },
+    {
+      "index": 4,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Can you check what the weather forecast says?"
+    },
+    {
+      "index": 5,
+      "simplified": "丈夫：明天下雨、下雪、打雷，好像还有台风！",
+      "traditional": "丈夫：明天下雨、下雪、打雷，好像還有颱風！",
+      "pinyin": "zhàng fu míng tiān xià yǔ xià xuě dǎ léi hǎo xiàng hái yǒu tái fēng",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Husband: Tomorrow it is raining, snowing, thundering, and it also seems like there will be a typhoon!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "meaning": "weather",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "妻子",
+      "traditional": "妻子",
+      "pinyin": "qī zi",
+      "meaning": "wife",
+      "hsk": 2
+    },
+    {
+      "hanzi": "如果",
+      "traditional": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "if\nin case",
+      "hsk": 3
+    },
+    {
+      "hanzi": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "meaning": "tomorrow\n(figurative) the near future",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "商店",
+      "traditional": "商店",
+      "pinyin": "shāng diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "meaning": "clothes",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "预报",
+      "traditional": "預報",
+      "pinyin": "yù bào",
+      "meaning": "forecast",
+      "hsk": 5
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "丈夫",
+      "traditional": "丈夫",
+      "pinyin": "zhàng fu",
+      "meaning": "husband",
+      "hsk": 2
+    },
+    {
+      "hanzi": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "to rain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下雪",
+      "traditional": "下雪",
+      "pinyin": "xià xuě",
+      "meaning": "to snow",
+      "hsk": null
+    },
+    {
+      "hanzi": "打雷",
+      "traditional": "打雷",
+      "pinyin": "dǎ léi",
+      "meaning": "to rumble with thunder",
+      "hsk": null
+    },
+    {
+      "hanzi": "好像",
+      "traditional": "好像",
+      "pinyin": "hǎo xiàng",
+      "meaning": "as if\nto seem like",
+      "hsk": 4
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "also\neven more\nin addition",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "台风",
+      "traditional": "颱風",
+      "pinyin": "tái fēng",
+      "meaning": "hurricane\ntyphoon",
+      "hsk": 6
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "妻子",
+        "pinyin": "qī zi",
+        "meaning": "wife",
+        "tc_hanzi": "妻子"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "ruguo-jiu",
+        "hsk": 3,
+        "hanzi": "如果",
+        "pinyin": "rú guǒ",
+        "meaning": "if\nin case",
+        "tc_hanzi": "如果"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "商店",
+        "pinyin": "shāng diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "商店"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes",
+        "tc_hanzi": "衣服"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "verb-reduplication",
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "tc_hanzi": "天氣"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "预报",
+        "pinyin": "yù bào",
+        "meaning": "forecast",
+        "tc_hanzi": "預報"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "丈夫",
+        "pinyin": "zhàng fu",
+        "meaning": "husband",
+        "tc_hanzi": "丈夫"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow\n(figurative) the near future",
+        "tc_hanzi": "明天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "tc_hanzi": "下雨"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "下雪",
+        "pinyin": "xià xuě",
+        "meaning": "to snow",
+        "tc_hanzi": "下雪"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "打雷",
+        "pinyin": "dǎ léi",
+        "meaning": "to rumble with thunder",
+        "tc_hanzi": "打雷"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "好像",
+        "pinyin": "hǎo xiàng",
+        "meaning": "as if\nto seem like",
+        "tc_hanzi": "好像"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "台风",
+        "pinyin": "tái fēng",
+        "meaning": "hurricane\ntyphoon",
+        "tc_hanzi": "颱風"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Plans to go out are often dependent on the weather. So is the weather good tomorrow?",
+    "syllable_times": [
+      0.3,
+      0.57,
+      0.8699999999999999,
+      2.94,
+      2.94,
+      2.94,
+      3.3200000000000003,
+      3.6791383219954645,
+      3.939909297052154,
+      4.2,
+      4.535147392290249,
+      4.784580498866213,
+      5.63,
+      5.878684807256236,
+      6.109999999999999,
+      6.37,
+      6.71,
+      7.08,
+      7.29,
+      7.55,
+      7.81,
+      8.02,
+      8.29,
+      8.543083900226756,
+      8.71,
+      9.569160997732427,
+      9.74,
+      10.03,
+      10.43,
+      10.675,
+      10.92,
+      11.077097505668934,
+      11.41,
+      11.678004535147393,
+      11.842403628117914,
+      13.17,
+      13.17,
+      13.17,
+      13.526077097505668,
+      13.82,
+      14.190000000000001,
+      15.2,
+      15.6,
+      16.78,
+      17.12,
+      18.07,
+      18.4,
+      18.73,
+      18.965,
+      19.2,
+      19.545,
+      20.206599
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      24,
+      31,
+      32,
+      46
+    ],
+    "sentence_translations": [
+      "Is the Weather Good?",
+      "",
+      "Wife: If the weather is good tomorrow, let’s go to the shops together to buy new clothes!",
+      "Can you check what the weather forecast says?",
+      "",
+      "Husband: Tomorrow it is raining, snowing, thundering, and it also seems like there will be a typhoon!",
+      ""
+    ]
+  }
+}

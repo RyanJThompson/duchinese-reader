@@ -1,0 +1,913 @@
+{
+  "id": "735",
+  "title": "Does Your Room Need Cleaning?",
+  "level": "elementary",
+  "date": "2019-08-10",
+  "synopsis": "He Jing is at a hotel, and the attendant has a question for him.",
+  "audioUrl": "https://static.duchinese.net/documents/1116/ecd98f13ce217e3137e4398b817e9e2021dd1587.mp3?1565000716",
+  "series": null,
+  "fullText": {
+    "simplified": "您的房间需要打扫吗？\n\n服务员：您好，不好意思！\n何京：请等一下。好了，有事吗？\n服务员：早上好，先生！请问您的房间现在需要打扫吗？\n何京：不好意思，我正在打电话。我想今天晚些时候再打扫。\n服务员：好的，没问题。\n何京：谢谢！",
+    "traditional": "您的房間需要打掃嗎？\n\n服務員：您好，不好意思！\n何京：請等一下。好了，有事嗎？\n服務員：早上好，先生！請問您的房間現在需要打掃嗎？\n何京：不好意思，我正在打電話。我想今天晚些時候再打掃。\n服務員：好的，沒問題。\n何京：謝謝！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Does Your Room Need Cleaning?"
+    },
+    {
+      "index": 2,
+      "simplified": "服务员：您好，不好意思！",
+      "traditional": "服務員：您好，不好意思！",
+      "pinyin": "fú wù yuán nín hǎo bù hǎo yì si",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Attendant: Hello, excuse me!"
+    },
+    {
+      "index": 4,
+      "simplified": "何京：请等一下。好了，有事吗？",
+      "traditional": "何京：請等一下。好了，有事嗎？",
+      "pinyin": "hé jīng qǐng děng yí xià hǎo le yǒu shì ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "He Jing: Please wait a moment. Ok, is something the matter?"
+    },
+    {
+      "index": 6,
+      "simplified": "服务员：早上好，先生！请问您的房间现在需要打扫吗？",
+      "traditional": "服務員：早上好，先生！請問您的房間現在需要打掃嗎？",
+      "pinyin": "fú wù yuán zǎo shang hǎo xiān sheng qǐng wèn nín de fáng jiān xiàn zài xū yào dǎ sǎo ma",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Attendant: Good morning, sir! May I ask if your room needs cleaning now?"
+    },
+    {
+      "index": 8,
+      "simplified": "何京：不好意思，我正在打电话。我想今天晚些时候再打扫。",
+      "traditional": "何京：不好意思，我正在打電話。我想今天晚些時候再打掃。",
+      "pinyin": "hé jīng bù hǎo yì si wǒ zhèng zài dǎ diàn huà wǒ xiǎng jīn tiān wǎn xiē shí hou zài dǎ sǎo",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "He Jing: I’m sorry, I’m on the phone right now. I don’t want the cleaning until a bit later today."
+    },
+    {
+      "index": 10,
+      "simplified": "服务员：好的，没问题。",
+      "traditional": "服務員：好的，沒問題。",
+      "pinyin": "fú wù yuán hǎo de méi wèn tí",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Attendant: Ok, no problem."
+    },
+    {
+      "index": 12,
+      "simplified": "何京：谢谢！",
+      "traditional": "何京：謝謝！",
+      "pinyin": "hé jīng xiè xie",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "He Jing: Thank you!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "meaning": "you (courteous)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "meaning": "room",
+      "hsk": 2
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "打扫",
+      "traditional": "打掃",
+      "pinyin": "dǎ sǎo",
+      "meaning": "to clean\nto sweep",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "您好",
+      "traditional": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "hello (polite)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+      "hsk": null
+    },
+    {
+      "hanzi": "何京",
+      "traditional": "何京",
+      "pinyin": "hé jīng",
+      "meaning": "He Jing (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "meaning": "to wait for\nto await",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一下",
+      "traditional": "一下",
+      "pinyin": "yí xià",
+      "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有事",
+      "traditional": "有事",
+      "pinyin": "yǒu shì",
+      "meaning": "to be occupied with sth\nto have sth on one's mind",
+      "hsk": null
+    },
+    {
+      "hanzi": "早上好",
+      "traditional": "早上好",
+      "pinyin": "zǎo shang hǎo",
+      "meaning": "Good morning!",
+      "hsk": null
+    },
+    {
+      "hanzi": "先生",
+      "traditional": "先生",
+      "pinyin": "xiān sheng",
+      "meaning": "Mister (Mr.)\ngentleman\nsir",
+      "hsk": 1
+    },
+    {
+      "hanzi": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "Excuse me, may I ask...?",
+      "hsk": 2
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "meaning": "to make a telephone call",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "meaning": "evening\nnight",
+      "hsk": null
+    },
+    {
+      "hanzi": "些",
+      "traditional": "些",
+      "pinyin": "xiē",
+      "meaning": "some (short for 一些)\na few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "meaning": "then (after sth, and not until then)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "meaning": "problem\nquestion",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您好",
+        "pinyin": "nín hǎo",
+        "meaning": "hello (polite)",
+        "tc_hanzi": "您好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "何京",
+        "pinyin": "hé jīng",
+        "meaning": "He Jing (name)",
+        "tc_hanzi": "何京"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "to wait for\nto await",
+        "tc_hanzi": "等"
+      },
+      {
+        "g": "xia",
+        "hsk": 2,
+        "hanzi": "一下",
+        "pinyin": "yí xià",
+        "meaning": "(used after a verb to indicate the action is done briefly or casually)",
+        "tc_hanzi": "一下"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "有事",
+        "pinyin": "yǒu shì",
+        "meaning": "to be occupied with sth\nto have sth on one's mind",
+        "tc_hanzi": "有事"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "早上好",
+        "pinyin": "zǎo shang hǎo",
+        "meaning": "Good morning!",
+        "tc_hanzi": "早上好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "先生",
+        "pinyin": "xiān sheng",
+        "meaning": "Mister (Mr.)\ngentleman\nsir",
+        "tc_hanzi": "先生"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "请问",
+        "pinyin": "qǐng wèn",
+        "meaning": "Excuse me, may I ask...?",
+        "tc_hanzi": "請問"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you (courteous)",
+        "tc_hanzi": "您"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "房间",
+        "pinyin": "fáng jiān",
+        "meaning": "room",
+        "tc_hanzi": "房間"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "何京",
+        "pinyin": "hé jīng",
+        "meaning": "He Jing (name)",
+        "tc_hanzi": "何京"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "meaning": "to feel embarrassed\nto find it embarrassing\nto be sorry (for inconveniencing sb)",
+        "tc_hanzi": "不好意思"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "tc_hanzi": "打電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hanzi": "晚",
+        "pinyin": "wǎn",
+        "meaning": "evening\nnight",
+        "tc_hanzi": "晚"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some (short for 一些)\na few",
+        "tc_hanzi": "些"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "then (after sth, and not until then)",
+        "tc_hanzi": "再"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "打扫",
+        "pinyin": "dǎ sǎo",
+        "meaning": "to clean\nto sweep",
+        "tc_hanzi": "打掃"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问题",
+        "pinyin": "wèn tí",
+        "meaning": "problem\nquestion",
+        "tc_hanzi": "問題"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "何京",
+        "pinyin": "hé jīng",
+        "meaning": "He Jing (name)",
+        "tc_hanzi": "何京"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "He Jing is at a hotel, and the attendant has a question for him.",
+    "syllable_times": [
+      0.24999999999999997,
+      0.47,
+      0.8099999999999999,
+      1.32,
+      1.65,
+      1.98,
+      2.275,
+      2.57,
+      4.249114931959202,
+      4.249114931959202,
+      4.249114931959202,
+      4.249114931959202,
+      4.5808361527201855,
+      5.54,
+      5.8025,
+      6.0649999999999995,
+      6.3275,
+      7.8999532765283025,
+      7.8999532765283025,
+      7.8999532765283025,
+      8.33,
+      8.58,
+      8.83,
+      9.99,
+      10.295,
+      11.29,
+      11.62,
+      11.934999999999999,
+      13.784416614522721,
+      13.784416614522721,
+      13.784416614522721,
+      13.784416614522721,
+      14.07,
+      14.34,
+      14.79,
+      15.16,
+      16.18,
+      16.57,
+      17.2,
+      17.435000000000002,
+      17.67,
+      18.03,
+      18.62,
+      19.020000000000003,
+      19.45,
+      19.695,
+      19.94,
+      20.225,
+      20.51,
+      22.340901473807136,
+      22.340901473807136,
+      22.340901473807136,
+      22.625,
+      22.89,
+      23.155,
+      23.92,
+      24.39,
+      24.68,
+      24.97,
+      25.263333333333332,
+      25.55666666666667,
+      26.59,
+      26.91,
+      27.54,
+      27.884999999999998,
+      28.27,
+      28.564999999999998,
+      28.86,
+      29.155,
+      29.62,
+      29.98,
+      30.27,
+      32.08459212838717,
+      32.08459212838717,
+      32.08459212838717,
+      32.08459212838717,
+      32.435,
+      33.21624525129574,
+      33.54,
+      33.806237668242154,
+      35.445085804037,
+      35.445085804037,
+      35.445085804037,
+      35.92,
+      36.608413,
+      36.608413
+    ],
+    "sentence_indices": [
+      7,
+      9,
+      15,
+      16,
+      28,
+      29,
+      44,
+      45,
+      62,
+      63,
+      70,
+      71,
+      75
+    ],
+    "sentence_translations": [
+      "Does Your Room Need Cleaning?",
+      "",
+      "Attendant: Hello, excuse me!",
+      "",
+      "He Jing: Please wait a moment. Ok, is something the matter?",
+      "",
+      "Attendant: Good morning, sir! May I ask if your room needs cleaning now?",
+      "",
+      "He Jing: I’m sorry, I’m on the phone right now. I don’t want the cleaning until a bit later today.",
+      "",
+      "Attendant: Ok, no problem.",
+      "",
+      "He Jing: Thank you!",
+      ""
+    ]
+  }
+}

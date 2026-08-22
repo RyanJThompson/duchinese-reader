@@ -1,0 +1,883 @@
+{
+  "id": "E384",
+  "title": "Easily Amused",
+  "level": "newbie",
+  "date": "2019-12-05",
+  "synopsis": "Paul and Little Le watched a movie together, but they had different opinions about the movie.",
+  "audioUrl": "https://static.duchinese.net/documents/50384/9b6f88ef7261346139f6a25f0c10393a3199706b.mp3?1575283996",
+  "series": null,
+  "fullText": {
+    "simplified": "笑点太低了\n\n保罗：这电影太好玩了，笑死我了！\n小乐：还好吧，我没有觉得很好笑啊。\n保罗：真的假的？我从头笑到尾！\n小乐：是你的笑点太低了吧。\n保罗：才不是，我觉得是你的笑点太高了。\n",
+    "traditional": "笑點太低了\n\n保羅：這電影太好玩了，笑死我了！\n小樂：還好吧，我沒有覺得很好笑啊。\n保羅：真的假的？我從頭笑到尾！\n小樂：是你的笑點太低了吧。\n保羅：才不是，我覺得是你的笑點太高了。\n"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "You’re too easily amused"
+    },
+    {
+      "index": 2,
+      "simplified": "保罗：这电影太好玩了，笑死我了！",
+      "traditional": "保羅：這電影太好玩了，笑死我了！",
+      "pinyin": "bǎo luó zhè diàn yǐng tài hǎo wán le xiào sǐ wǒ le",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: The movie was so funny, it made me laugh to death!"
+    },
+    {
+      "index": 4,
+      "simplified": "小乐：还好吧，我没有觉得很好笑啊。",
+      "traditional": "小樂：還好吧，我沒有覺得很好笑啊。",
+      "pinyin": "xiǎo lè hái hǎo ba wǒ méi yǒu jué de hěn hǎo xiào a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: It was alright, I don’t think it was that funny."
+    },
+    {
+      "index": 6,
+      "simplified": "保罗：真的假的？我从头笑到尾！",
+      "traditional": "保羅：真的假的？我從頭笑到尾！",
+      "pinyin": "bǎo luó zhēn de jiǎ de wǒ cóng tóu xiào dào wěi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Really? I was laughing from beginning to end!"
+    },
+    {
+      "index": 8,
+      "simplified": "小乐：是你的笑点太低了吧。",
+      "traditional": "小樂：是你的笑點太低了吧。",
+      "pinyin": "xiǎo lè shì nǐ de xiào diǎn tài dī le ba",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: It’s you that’s too easily amused."
+    },
+    {
+      "index": 10,
+      "simplified": "保罗：才不是，我觉得是你的笑点太高了。",
+      "traditional": "保羅：才不是，我覺得是你的笑點太高了。",
+      "pinyin": "bǎo luó cái bú shì wǒ jué de shì nǐ de xiào diǎn tài gāo le",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Certainly not, I think that it’s you who is too hard to amuse."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "笑点",
+      "traditional": "笑點",
+      "pinyin": "xiào diǎn",
+      "meaning": "jokes\npunchline",
+      "hsk": null
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "低",
+      "traditional": "低",
+      "pinyin": "dī",
+      "meaning": "low",
+      "hsk": 4
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好玩",
+      "traditional": "好玩",
+      "pinyin": "hǎo wán",
+      "meaning": "amusing\nfun\ninteresting",
+      "hsk": null
+    },
+    {
+      "hanzi": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "meaning": "laugh\nsmile",
+      "hsk": 2
+    },
+    {
+      "hanzi": "死",
+      "traditional": "死",
+      "pinyin": "sǐ",
+      "meaning": "death\nto die",
+      "hsk": 4
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "还好",
+      "traditional": "還好",
+      "pinyin": "hái hǎo",
+      "meaning": "not bad\ntolerable",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "meaning": "to think\nto feel",
+      "hsk": 2
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好笑",
+      "traditional": "好笑",
+      "pinyin": "hǎo xiào",
+      "meaning": "laughable\nfunny\nridiculous",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "real\ntrue",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "假",
+      "traditional": "假",
+      "pinyin": "jiǎ",
+      "meaning": "fake\nfalse",
+      "hsk": 4
+    },
+    {
+      "hanzi": "从头",
+      "traditional": "從頭",
+      "pinyin": "cóng tóu",
+      "meaning": "anew\nfrom the start",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to\nup to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "尾",
+      "traditional": "尾",
+      "pinyin": "wěi",
+      "meaning": "tail",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "才",
+      "traditional": "才",
+      "pinyin": "cái",
+      "meaning": "(particle used for emphasis) certainly",
+      "hsk": 3
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "meaning": "high\ntall",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "笑点",
+        "pinyin": "xiào diǎn",
+        "meaning": "jokes\npunchline",
+        "tc_hanzi": "笑點"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "低",
+        "pinyin": "dī",
+        "meaning": "low",
+        "tc_hanzi": "低"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hanzi": "好玩",
+        "pinyin": "hǎo wán",
+        "meaning": "amusing\nfun\ninteresting",
+        "tc_hanzi": "好玩"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "死",
+        "pinyin": "sǐ",
+        "meaning": "death\nto die",
+        "tc_hanzi": "死"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "还好",
+        "pinyin": "hái hǎo",
+        "meaning": "not bad\ntolerable",
+        "tc_hanzi": "還好"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hanzi": "好笑",
+        "pinyin": "hǎo xiào",
+        "meaning": "laughable\nfunny\nridiculous",
+        "tc_hanzi": "好笑"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "real\ntrue",
+        "tc_hanzi": "真"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "假",
+        "pinyin": "jiǎ",
+        "meaning": "fake\nfalse",
+        "tc_hanzi": "假"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "从头",
+        "pinyin": "cóng tóu",
+        "meaning": "anew\nfrom the start",
+        "tc_hanzi": "從頭"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to\nup to",
+        "tc_hanzi": "到"
+      },
+      {
+        "hanzi": "尾",
+        "pinyin": "wěi",
+        "meaning": "tail",
+        "tc_hanzi": "尾"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "笑点",
+        "pinyin": "xiào diǎn",
+        "meaning": "jokes\npunchline",
+        "tc_hanzi": "笑點"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "低",
+        "pinyin": "dī",
+        "meaning": "to lower (one's head)\nto let droop\nto hang down",
+        "tc_hanzi": "低"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 3,
+        "hanzi": "才",
+        "pinyin": "cái",
+        "meaning": "(particle used for emphasis) certainly",
+        "tc_hanzi": "才"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "觉得",
+        "pinyin": "jué de",
+        "meaning": "to think\nto feel",
+        "tc_hanzi": "覺得"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "笑点",
+        "pinyin": "xiào diǎn",
+        "meaning": "jokes\npunchline",
+        "tc_hanzi": "笑點"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "high\ntall",
+        "tc_hanzi": "高"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Paul and Little Le watched a movie together, but they had different opinions about the movie.",
+    "syllable_times": [
+      0.61,
+      1.1464650909238039,
+      1.5850370705048453,
+      1.89,
+      5.042469812525396,
+      5.042469812525396,
+      5.042469812525396,
+      5.4,
+      5.695,
+      5.99,
+      6.300000000000001,
+      6.61,
+      6.9,
+      7.8462104871631295,
+      8.452703771375596,
+      8.723886263600372,
+      8.97,
+      10.634306870289938,
+      10.634306870289938,
+      10.634306870289938,
+      11.015,
+      11.38,
+      12.36,
+      12.543416740920216,
+      12.719999999999999,
+      12.94,
+      13.205,
+      13.47,
+      13.760000000000002,
+      14.05,
+      14.41,
+      16.166288973621448,
+      16.166288973621448,
+      16.166288973621448,
+      16.465,
+      16.74,
+      17.33,
+      18.14,
+      18.41,
+      18.773124302131595,
+      19.19,
+      19.58,
+      19.79,
+      21.81826570158521,
+      21.81826570158521,
+      21.81826570158521,
+      22.23631839796637,
+      22.455,
+      22.653085869265897,
+      22.97,
+      23.32,
+      23.630000000000003,
+      23.94,
+      24.1,
+      26.007593161414597,
+      26.007593161414597,
+      26.007593161414597,
+      26.49606732864805,
+      26.804166803390103,
+      27.81,
+      28.13,
+      28.43,
+      28.94,
+      29.32,
+      29.57,
+      29.82,
+      30.25,
+      30.59,
+      31.035,
+      31.48,
+      31.994125,
+      31.994125
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      19,
+      20,
+      32,
+      33,
+      46,
+      47,
+      58,
+      59,
+      75
+    ],
+    "sentence_translations": [
+      "You’re too easily amused",
+      "",
+      "Paul: The movie was so funny, it made me laugh to death!",
+      "",
+      "Little Le: It was alright, I don’t think it was that funny.",
+      "",
+      "Paul: Really? I was laughing from beginning to end!",
+      "",
+      "Little Le: It’s you that’s too easily amused.",
+      "",
+      "Paul: Certainly not, I think that it’s you who is too hard to amuse.",
+      ""
+    ]
+  }
+}

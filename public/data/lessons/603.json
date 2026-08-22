@@ -1,0 +1,877 @@
+{
+  "id": "603",
+  "title": "Pick Up at the Airport",
+  "level": "intermediate",
+  "date": "2018-11-11",
+  "synopsis": "Manager Wang wants Little Zhang to pick up Ms. Honda at the airport.",
+  "audioUrl": "https://static.duchinese.net/documents/886/aa531a7624c443c3948052307da5f6ef915b20fb.mp3?1698350532",
+  "series": null,
+  "fullText": {
+    "simplified": "去接机\n\n王经理：小何，小张呢？\n小何：她出去买东西了。\n王经理：本田女士今天下午3点到机场，你让小张去接机。\n小何：好的。\n王经理：哦，对了。让小张带上合同，本田女士说她要在车上看。\n小何：好的。",
+    "traditional": "去接機\n\n王經理：小何，小張呢？\n小何：她出去買東西了。\n王經理：本田女士今天下午3點到機場，你讓小張去接機。\n小何：好的。\n王經理：哦，對了。讓小張帶上合同，本田女士說她要在車上看。\n小何：好的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Pick Up at the Airport"
+    },
+    {
+      "index": 2,
+      "simplified": "王经理：小何，小张呢？",
+      "traditional": "王經理：小何，小張呢？",
+      "pinyin": "wáng jīng lǐ xiǎo hé xiǎo zhāng ne",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Little He, where is Little Zhang?"
+    },
+    {
+      "index": 4,
+      "simplified": "小何：她出去买东西了。",
+      "traditional": "小何：她出去買東西了。",
+      "pinyin": "xiǎo hé tā chū qù mǎi dōng xi le",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: She went to buy some things."
+    },
+    {
+      "index": 6,
+      "simplified": "王经理：本田女士今天下午3点到机场，你让小张去接机。",
+      "traditional": "王經理：本田女士今天下午3點到機場，你讓小張去接機。",
+      "pinyin": "wáng jīng lǐ běn tián nǚ shì jīn tiān xià wǔ 1 diǎn dào jī chǎng nǐ ràng xiǎo zhāng qù jiē jī",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Ms. Honda will arrive at the airport at 3 this afternoon. Have Little Zhang go pick her up."
+    },
+    {
+      "index": 8,
+      "simplified": "小何：好的。",
+      "traditional": "小何：好的。",
+      "pinyin": "xiǎo hé hǎo de",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: Ok."
+    },
+    {
+      "index": 10,
+      "simplified": "王经理：哦，对了。让小张带上合同，本田女士说她要在车上看。",
+      "traditional": "王經理：哦，對了。讓小張帶上合同，本田女士說她要在車上看。",
+      "pinyin": "wáng jīng lǐ ò duì le ràng xiǎo zhāng dài shàng hé tong běn tián nǚ shì shuō tā yào zài chē shang kàn",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Manager Wang: Oh, right. Have Little Zhang bring the contract. Ms. Honda said she will read it in the car."
+    },
+    {
+      "index": 12,
+      "simplified": "小何：好的。",
+      "traditional": "小何：好的。",
+      "pinyin": "xiǎo hé hǎo de",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little He: Ok."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "接机",
+      "traditional": "接機",
+      "pinyin": "jiē jī",
+      "meaning": "to meet a plane (i.e. to meet sb at airport)",
+      "hsk": null
+    },
+    {
+      "hanzi": "王",
+      "traditional": "王",
+      "pinyin": "wáng",
+      "meaning": "surname Wang",
+      "hsk": null
+    },
+    {
+      "hanzi": "经理",
+      "traditional": "經理",
+      "pinyin": "jīng lǐ",
+      "meaning": "manager\ndirector",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "meaning": "to go out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本田",
+      "traditional": "本田",
+      "pinyin": "běn tián",
+      "meaning": "Honda (Japanese name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "女士",
+      "traditional": "女士",
+      "pinyin": "nǚ shì",
+      "meaning": "lady\nmadam",
+      "hsk": 5
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "afternoon\np.m.",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "机场",
+      "traditional": "機場",
+      "pinyin": "jī chǎng",
+      "meaning": "airport\nairfield",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "meaning": "to have sb do sth",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哦",
+      "traditional": "哦",
+      "pinyin": "ò",
+      "meaning": "oh (interjection indicating that one has just learned sth)",
+      "hsk": 6
+    },
+    {
+      "hanzi": "对了",
+      "traditional": "對了",
+      "pinyin": "duì le",
+      "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "带上",
+      "traditional": "帶上",
+      "pinyin": "dài shàng",
+      "meaning": "to take along with one",
+      "hsk": null
+    },
+    {
+      "hanzi": "合同",
+      "traditional": "合同",
+      "pinyin": "hé tong",
+      "meaning": "(business) contract",
+      "hsk": 5
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "will\ngoing to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "meaning": "car\nvehicle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shang",
+      "meaning": "upon\nabove",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "接机",
+        "pinyin": "jiē jī",
+        "meaning": "to meet a plane (i.e. to meet sb at airport)",
+        "tc_hanzi": "接機"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "出去",
+        "pinyin": "chū qù",
+        "meaning": "to go out",
+        "tc_hanzi": "出去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "(a common \"all-purpose\" noun that can denote any object or objects in Chinese)\nthing\nstuff",
+        "tc_hanzi": "東西"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "本田",
+        "pinyin": "běn tián",
+        "meaning": "Honda (Japanese name)",
+        "tc_hanzi": "本田"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "女士",
+        "pinyin": "nǚ shì",
+        "meaning": "lady\nmadam",
+        "tc_hanzi": "女士"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon\np.m.",
+        "tc_hanzi": "下午"
+      },
+      {
+        "hanzi": "3",
+        "pinyin": "1",
+        "tc_hanzi": "3"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "机场",
+        "pinyin": "jī chǎng",
+        "meaning": "airport\nairfield",
+        "tc_hanzi": "機場"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "接机",
+        "pinyin": "jiē jī",
+        "meaning": "to meet a plane (i.e. to meet sb at airport)",
+        "tc_hanzi": "接機"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "王",
+        "pinyin": "wáng",
+        "meaning": "surname Wang",
+        "tc_hanzi": "王"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "经理",
+        "pinyin": "jīng lǐ",
+        "meaning": "manager\ndirector",
+        "tc_hanzi": "經理"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 6,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "oh (interjection indicating that one has just learned sth)",
+        "tc_hanzi": "哦"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "对了",
+        "pinyin": "duì le",
+        "meaning": "Oh, that's right, ... (when one suddenly remembers sth)",
+        "tc_hanzi": "對了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "g": "rang",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "to have sb do sth",
+        "tc_hanzi": "讓"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "带上",
+        "pinyin": "dài shàng",
+        "meaning": "to take along with one",
+        "tc_hanzi": "帶上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "合同",
+        "pinyin": "hé tong",
+        "meaning": "(business) contract",
+        "tc_hanzi": "合同"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "本田",
+        "pinyin": "běn tián",
+        "meaning": "Honda (Japanese name)",
+        "tc_hanzi": "本田"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "女士",
+        "pinyin": "nǚ shì",
+        "meaning": "lady\nmadam",
+        "tc_hanzi": "女士"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "will\ngoing to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "车",
+        "pinyin": "chē",
+        "meaning": "car\nvehicle",
+        "tc_hanzi": "車"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Manager Wang wants Little Zhang to pick up Ms. Honda at the airport.",
+    "syllable_times": [
+      0.83,
+      1.3095238095238095,
+      3.35,
+      3.35,
+      3.35,
+      3.35,
+      3.815192743764172,
+      4.6,
+      4.988662131519274,
+      5.311791383219955,
+      8.19,
+      8.19,
+      8.19,
+      8.718820861678005,
+      9.104308390022675,
+      9.73,
+      10.226757369614512,
+      10.561224489795919,
+      10.861678004535147,
+      13.34,
+      13.34,
+      13.34,
+      13.34,
+      13.69047619047619,
+      14.115646258503402,
+      14.529478458049887,
+      15.08,
+      15.521541950113377,
+      15.839002267573695,
+      16.207482993197278,
+      16.66,
+      17.15986394557823,
+      17.63,
+      17.92517006802721,
+      18.236961451247165,
+      19.3,
+      19.63718820861678,
+      20.02267573696145,
+      20.36848072562358,
+      20.82,
+      21.19614512471655,
+      21.47959183673469,
+      22.59,
+      22.59,
+      22.59,
+      23.032879818594104,
+      24.76,
+      24.76,
+      24.76,
+      24.76,
+      25.28344671201814,
+      25.549886621315192,
+      26.57,
+      26.972789115646258,
+      27.352607709750565,
+      27.800453514739228,
+      28.07256235827664,
+      28.480725623582767,
+      28.8265306122449,
+      29.74489795918367,
+      30.017006802721088,
+      30.323129251700678,
+      30.668934240362812,
+      31.29,
+      32.03,
+      32.34126984126984,
+      32.636054421768705,
+      32.981859410430836,
+      33.36167800453514,
+      33.63945578231292,
+      34.94,
+      34.94,
+      34.94,
+      35.44784580498866,
+      36.4
+    ],
+    "sentence_indices": [
+      2,
+      4,
+      12,
+      13,
+      21,
+      22,
+      40,
+      41,
+      45,
+      46,
+      68,
+      69,
+      73
+    ],
+    "sentence_translations": [
+      "Pick Up at the Airport",
+      "",
+      "Manager Wang: Little He, where is Little Zhang?",
+      "",
+      "Little He: She went to buy some things.",
+      "",
+      "Manager Wang: Ms. Honda will arrive at the airport at 3 this afternoon. Have Little Zhang go pick her up.",
+      "",
+      "Little He: Ok.",
+      "",
+      "Manager Wang: Oh, right. Have Little Zhang bring the contract. Ms. Honda said she will read it in the car.",
+      "",
+      "Little He: Ok.",
+      ""
+    ]
+  }
+}

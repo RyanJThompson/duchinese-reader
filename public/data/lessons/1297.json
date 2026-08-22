@@ -1,0 +1,4108 @@
+{
+  "id": "1297",
+  "title": "Buying Movie Tickets Online",
+  "level": "intermediate",
+  "date": "2021-06-27",
+  "synopsis": "Learn how to use Maoyan to get cheap movie tickets!",
+  "audioUrl": "https://static.duchinese.net/documents/1297/293492bd1c3e87da5a24e8b2938fb5fb33e7c464.mp3?1621951622",
+  "series": null,
+  "fullText": {
+    "simplified": "网上买电影票\n\n小乐：我们今天去看电影，怎么样？\n保罗：好啊！最近有什么好片子吗？\n小乐：你想看什么样的片子？\n保罗：我听说最近有IMAX电影，我还没看过，想去看。\n小乐：好的，我上猫眼看看。\n保罗：电影票贵不贵？你有没有会员卡？\n小乐：现在谁还用会员卡啊！我们都在网上买票，能便宜不少。\n保罗：在网上怎么买电影票？快教教我！\n小乐：你看，打开美团，这儿有一个小猫头像，这就是“猫眼”。打开猫眼，这里可以买电影票，还能买演唱会门票、比赛门票什么的。\n保罗：我明白了，然后呢？\n小乐：打开猫眼以后先定位你所在的城市，然后这里就会出现现在正在上映的电影。选一个你想看的电影，点购票，系统就会提供几个我们附近的电影院给我们。我们可以按照自己的时间选一个影院。点进去后自己选座，然后付钱就行了。\n保罗：我终于学会在网上买电影票了，真方便！\n（一个小时后，在电影院）\n保罗：我们需要取票吗？\n小乐：付过钱后不是给了你一个二维码吗，在这个机器上扫码就可以了，你试试吧。\n保罗：这儿信号不太好，二维码打不开，怎么办呢？\n小乐：不是还给你发了一条短信吗？上面有验证码，在这个机器上输入验证码也可以。\n保罗：好的，拿到票了，我们走吧！",
+    "traditional": "網上買電影票\n\n小樂：我們今天去看電影，怎麼樣？\n保羅：好啊！最近有什麼好片子嗎？\n小樂：你想看什麼樣的片子？\n保羅：我聽說最近有IMAX電影，我還沒看過，想去看。\n小樂：好的，我上貓眼看看。\n保羅：電影票貴不貴？你有沒有會員卡？\n小樂：現在誰還用會員卡啊！我們都在網上買票，能便宜不少。\n保羅：在網上怎麼買電影票？快教教我！\n小樂：你看，打開美團，這兒有一個小貓頭像，這就是“貓眼”。打開貓眼，這裡可以買電影票，還能買演唱會門票、比賽門票甚麼的。\n保羅：我明白了，然後呢？\n小樂：打開貓眼以後先定位你所在的城市，然後這裡就會出現現在正在上映的電影。選一個你想看的電影，點購票，系統就會提供幾個我們附近的電影院給我們。我們可以按照自己的時間選一個影院。點進去後自己選座，然後付錢就行了。\n保羅：我終於學會在網上買電影票了，真方便！\n（一個小時後，在電影院）\n保羅：我們需要取票嗎？\n小樂：付過錢後不是給了你一個二維碼嗎，在這個機器上掃碼就可以了，你試試吧。\n保羅：這兒信號不太好，二維碼打不開，怎麼辦呢？\n小樂：不是還給你發了一條短信嗎？上面有驗證碼，在這個機器上輸入驗證碼也可以。\n保羅：好的，拿到票了，我們走吧！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Buying Movie Tickets Online"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：我们今天去看电影，怎么样？",
+      "traditional": "小樂：我們今天去看電影，怎麼樣？",
+      "pinyin": "xiǎo lè wǒ men jīn tiān qù kàn diàn yǐng zěn me yàng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: How about we go and see a movie today?"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：好啊！最近有什么好片子吗？",
+      "traditional": "保羅：好啊！最近有什麼好片子嗎？",
+      "pinyin": "bǎo luó hǎo a zuì jìn yǒu shén me hǎo piān zi ma",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Sure! What good movies have come out recently?"
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：你想看什么样的片子？",
+      "traditional": "小樂：你想看什麼樣的片子？",
+      "pinyin": "xiǎo lè nǐ xiǎng kàn shén me yàng de piān zi",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: What kind of movie do you want to see?"
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：我听说最近有IMAX电影，我还没看过，想去看。",
+      "traditional": "保羅：我聽說最近有IMAX電影，我還沒看過，想去看。",
+      "pinyin": "bǎo luó wǒ tīng shuō zuì jìn yǒu 2 diàn yǐng wǒ hái méi kàn guò xiǎng qù kàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I heard that there was an IMAX movie recently. I haven’t seen it yet. I want to go and see it."
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：好的，我上猫眼看看。",
+      "traditional": "小樂：好的，我上貓眼看看。",
+      "pinyin": "xiǎo lè hǎo de wǒ shàng māo yǎn kàn kan",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Okay, I will go on Maoyan to have a look."
+    },
+    {
+      "index": 12,
+      "simplified": "保罗：电影票贵不贵？你有没有会员卡？",
+      "traditional": "保羅：電影票貴不貴？你有沒有會員卡？",
+      "pinyin": "bǎo luó diàn yǐng piào guì bú guì nǐ yǒu méi yǒu huì yuán kǎ",
+      "english": ""
+    },
+    {
+      "index": 13,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Are the movie tickets expensive? Do you have a membership card?"
+    },
+    {
+      "index": 14,
+      "simplified": "小乐：现在谁还用会员卡啊！我们都在网上买票，能便宜不少。",
+      "traditional": "小樂：現在誰還用會員卡啊！我們都在網上買票，能便宜不少。",
+      "pinyin": "xiǎo lè xiàn zài shéi hái yòng huì yuán kǎ a wǒ men dōu zài wǎng shang mǎi piào néng pián yi bù shǎo",
+      "english": ""
+    },
+    {
+      "index": 15,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Who still uses membership cards nowadays? We buy tickets online, you can get them much cheaper."
+    },
+    {
+      "index": 16,
+      "simplified": "保罗：在网上怎么买电影票？快教教我！",
+      "traditional": "保羅：在網上怎麼買電影票？快教教我！",
+      "pinyin": "bǎo luó zài wǎng shang zěn me mǎi diàn yǐng piào kuài jiāo jiāo wǒ",
+      "english": ""
+    },
+    {
+      "index": 17,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: How do you buy movie tickets online? Teach me!"
+    },
+    {
+      "index": 18,
+      "simplified": "小乐：你看，打开美团，这儿有一个小猫头像，这就是“猫眼”。",
+      "traditional": "小樂：你看，打開美團，這兒有一個小貓頭像，這就是“貓眼”。",
+      "pinyin": "xiǎo lè nǐ kàn dǎ kāi měi tuán zhè‘r yǒu yí ge xiǎo māo tóu xiàng zhè jiù shì māo yǎn",
+      "english": ""
+    },
+    {
+      "index": 19,
+      "simplified": "打开猫眼，这里可以买电影票，还能买演唱会门票、比赛门票什么的。",
+      "traditional": "打開貓眼，這裡可以買電影票，還能買演唱會門票、比賽門票甚麼的。",
+      "pinyin": "dǎ kāi māo yǎn zhè lǐ kě yǐ mǎi diàn yǐng piào hái néng mǎi yǎn chàng huì mén piào bǐ sài mén piào shén me de",
+      "english": "Little Le: See, open Meituan. Here we have a little cat head icon, this is “Maoyan”."
+    },
+    {
+      "index": 20,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Open Maoyan, where you can buy movie tickets, as well as concert tickets, sports tickets, and so on."
+    },
+    {
+      "index": 21,
+      "simplified": "保罗：我明白了，然后呢？",
+      "traditional": "保羅：我明白了，然後呢？",
+      "pinyin": "bǎo luó wǒ míng bai le rán hòu ne",
+      "english": ""
+    },
+    {
+      "index": 22,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I see, and then?"
+    },
+    {
+      "index": 23,
+      "simplified": "小乐：打开猫眼以后先定位你所在的城市，然后这里就会出现现在正在上映的电影。",
+      "traditional": "小樂：打開貓眼以後先定位你所在的城市，然後這裡就會出現現在正在上映的電影。",
+      "pinyin": "xiǎo lè dǎ kāi māo yǎn yǐ hòu xiān dìng wèi nǐ suǒ zài de chéng shì rán hòu zhè lǐ jiù huì chū xiàn xiàn zài zhèng zài shàng yìng de diàn yǐng",
+      "english": ""
+    },
+    {
+      "index": 24,
+      "simplified": "选一个你想看的电影，点购票，系统就会提供几个我们附近的电影院给我们。",
+      "traditional": "選一個你想看的電影，點購票，系統就會提供幾個我們附近的電影院給我們。",
+      "pinyin": "xuǎn yí ge nǐ xiǎng kàn de diàn yǐng diǎn gòu piào xì tǒng jiù huì tí gōng jǐ ge wǒ men fù jìn de diàn yǐng yuàn gěi wǒ men",
+      "english": "Little Le: After opening Maoyan, first set the location to your city, then all the movies currently showing will appear."
+    },
+    {
+      "index": 25,
+      "simplified": "我们可以按照自己的时间选一个影院。点进去后自己选座，然后付钱就行了。",
+      "traditional": "我們可以按照自己的時間選一個影院。點進去後自己選座，然後付錢就行了。",
+      "pinyin": "wǒ men kě yǐ àn zhào zì jǐ de shí jiān xuǎn yí ge yǐng yuàn diǎn jìn qù hòu zì jǐ xuǎn zuò rán hòu fù qián jiù xíng le",
+      "english": "Choose a movie you want to see, select “purchase tickets”, and the system will list some nearby movie theaters for us."
+    },
+    {
+      "index": 26,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "We can choose a movie theater according to our preferred times. Next, we choose our seats, then pay, and it’s done."
+    },
+    {
+      "index": 27,
+      "simplified": "保罗：我终于学会在网上买电影票了，真方便！",
+      "traditional": "保羅：我終於學會在網上買電影票了，真方便！",
+      "pinyin": "bǎo luó wǒ zhōng yú xué huì zài wǎng shang mǎi diàn yǐng piào le zhēn fāng biàn",
+      "english": ""
+    },
+    {
+      "index": 28,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I’ve finally learned how to buy movie tickets online. It’s so convenient!"
+    },
+    {
+      "index": 29,
+      "simplified": "（一个小时后，在电影院）",
+      "traditional": "（一個小時後，在電影院）",
+      "pinyin": "yí ge xiǎo shí hòu zài diàn yǐng yuàn",
+      "english": ""
+    },
+    {
+      "index": 30,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "(One hour later, at the movie theater)"
+    },
+    {
+      "index": 31,
+      "simplified": "保罗：我们需要取票吗？",
+      "traditional": "保羅：我們需要取票嗎？",
+      "pinyin": "bǎo luó wǒ men xū yào qǔ piào ma",
+      "english": ""
+    },
+    {
+      "index": 32,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: Do we need to collect our tickets?"
+    },
+    {
+      "index": 33,
+      "simplified": "小乐：付过钱后不是给了你一个二维码吗，在这个机器上扫码就可以了，你试试吧。",
+      "traditional": "小樂：付過錢後不是給了你一個二維碼嗎，在這個機器上掃碼就可以了，你試試吧。",
+      "pinyin": "xiǎo lè fù guò qián hòu bú shì gěi le nǐ yí ge èr wéi mǎ ma zài zhè ge jī qì shang sǎo mǎ jiù kě yǐ le nǐ shì shi ba",
+      "english": ""
+    },
+    {
+      "index": 34,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: After paying, didn’t it give you a QR code? Just scan the code using this machine. Give it a go!"
+    },
+    {
+      "index": 35,
+      "simplified": "保罗：这儿信号不太好，二维码打不开，怎么办呢？",
+      "traditional": "保羅：這兒信號不太好，二維碼打不開，怎麼辦呢？",
+      "pinyin": "bǎo luó zhè‘r xìn hào bú tài hǎo èr wéi mǎ dǎ bù kāi zěn me bàn ne",
+      "english": ""
+    },
+    {
+      "index": 36,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: The signal isn’t good here, I can’t open the QR code. What should I do?"
+    },
+    {
+      "index": 37,
+      "simplified": "小乐：不是还给你发了一条短信吗？",
+      "traditional": "小樂：不是還給你發了一條短信嗎？",
+      "pinyin": "xiǎo lè bú shì hái gěi nǐ fā le yì tiáo duǎn xìn ma",
+      "english": ""
+    },
+    {
+      "index": 38,
+      "simplified": "上面有验证码，在这个机器上输入验证码也可以。",
+      "traditional": "上面有驗證碼，在這個機器上輸入驗證碼也可以。",
+      "pinyin": "shàng miàn yǒu yàn zhèng mǎ zài zhè ge jī qì shang shū rù yàn zhèng mǎ yě kě yǐ",
+      "english": "Little Le: Didn’t it also send you a text message?"
+    },
+    {
+      "index": 39,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "It contains a verification code. You can also enter the verification code into the machine."
+    },
+    {
+      "index": 40,
+      "simplified": "保罗：好的，拿到票了，我们走吧！",
+      "traditional": "保羅：好的，拿到票了，我們走吧！",
+      "pinyin": "bǎo luó hǎo de ná dào piào le wǒ men zǒu ba",
+      "english": ""
+    },
+    {
+      "index": 41,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Paul: Okay, I got the tickets. Let’s go!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shang",
+      "meaning": "online",
+      "hsk": null
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "票",
+      "traditional": "票",
+      "pinyin": "piào",
+      "meaning": "ticket\nballot",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "meaning": "today",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "meaning": "how\nhow about\nwhat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "(to express agreement)\nokay\nall right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "最近",
+      "traditional": "最近",
+      "pinyin": "zuì jìn",
+      "meaning": "recently\nlately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "片子",
+      "traditional": "片子",
+      "pinyin": "piān zi",
+      "meaning": "film\nmovie",
+      "hsk": null
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "样",
+      "traditional": "樣",
+      "pinyin": "yàng",
+      "meaning": "classifier: kind, type",
+      "hsk": null
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "听说",
+      "traditional": "聽說",
+      "pinyin": "tīng shuō",
+      "meaning": "to hear (sth said)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "meaning": "still\nyet",
+      "hsk": 3
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "meaning": "(experienced action marker)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "meaning": "to get onto\nto go up",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猫眼",
+      "traditional": "貓眼",
+      "pinyin": "māo yǎn",
+      "meaning": "Maoyan (Chinese online platform)",
+      "hsk": null
+    },
+    {
+      "hanzi": "看看",
+      "traditional": "看看",
+      "pinyin": "kàn kan",
+      "meaning": "to take a look at\nto examine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "meaning": "expensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "会员",
+      "traditional": "會員",
+      "pinyin": "huì yuán",
+      "meaning": "member",
+      "hsk": null
+    },
+    {
+      "hanzi": "卡",
+      "traditional": "卡",
+      "pinyin": "kǎ",
+      "meaning": "card",
+      "hsk": null
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "meaning": "to use",
+      "hsk": 3
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "may\ncan\nhave permission to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "便宜",
+      "traditional": "便宜",
+      "pinyin": "pián yi",
+      "meaning": "cheap\ninexpensive",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不少",
+      "traditional": "不少",
+      "pinyin": "bù shǎo",
+      "meaning": "many\na lot\nnot few",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "meaning": "quick",
+      "hsk": 2
+    },
+    {
+      "hanzi": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "meaning": "to teach",
+      "hsk": 3
+    },
+    {
+      "hanzi": "打开",
+      "traditional": "打開",
+      "pinyin": "dǎ kāi",
+      "meaning": "to open\nto unfold",
+      "hsk": null
+    },
+    {
+      "hanzi": "美团",
+      "traditional": "美團",
+      "pinyin": "měi tuán",
+      "meaning": "Meituan, Chinese group buying service",
+      "hsk": null
+    },
+    {
+      "hanzi": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè‘r",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small\ntiny\nlittle",
+      "hsk": 1
+    },
+    {
+      "hanzi": "猫",
+      "traditional": "貓",
+      "pinyin": "māo",
+      "meaning": "cat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "头像",
+      "traditional": "頭像",
+      "pinyin": "tóu xiàng",
+      "meaning": "head portrait\nbust",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "meaning": "just\nexactly\nprecisely",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "meaning": "here",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "meaning": "can\nmay\nable to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "演唱会",
+      "traditional": "演唱會",
+      "pinyin": "yǎn chàng huì",
+      "meaning": "concert\nvocal recital",
+      "hsk": null
+    },
+    {
+      "hanzi": "门票",
+      "traditional": "門票",
+      "pinyin": "mén piào",
+      "meaning": "ticket (for theater, cinema etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "比赛",
+      "traditional": "比賽",
+      "pinyin": "bǐ sài",
+      "meaning": "competition (sports etc)\nmatch",
+      "hsk": 3
+    },
+    {
+      "hanzi": "什么的",
+      "traditional": "甚麼的",
+      "pinyin": "shén me de",
+      "meaning": "and so on\nand what not",
+      "hsk": null
+    },
+    {
+      "hanzi": "明白",
+      "traditional": "明白",
+      "pinyin": "míng bai",
+      "meaning": "to understand\nto realize",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "然后",
+      "traditional": "然後",
+      "pinyin": "rán hòu",
+      "meaning": "then (afterwards)\nafter that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    },
+    {
+      "hanzi": "以后",
+      "traditional": "以後",
+      "pinyin": "yǐ hòu",
+      "meaning": "afterwards\nin the future",
+      "hsk": 3
+    },
+    {
+      "hanzi": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "meaning": "first\nearlier\nbefore",
+      "hsk": 3
+    },
+    {
+      "hanzi": "定位",
+      "traditional": "定位",
+      "pinyin": "dìng wèi",
+      "meaning": "to position\nto orientate\nposition",
+      "hsk": null
+    },
+    {
+      "hanzi": "所在",
+      "traditional": "所在",
+      "pinyin": "suǒ zài",
+      "meaning": "place\nto be located\nto belong to (organization etc)",
+      "hsk": null
+    },
+    {
+      "hanzi": "城市",
+      "traditional": "城市",
+      "pinyin": "chéng shì",
+      "meaning": "city\ntown",
+      "hsk": 3
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "出现",
+      "traditional": "出現",
+      "pinyin": "chū xiàn",
+      "meaning": "to appear\nto emerge",
+      "hsk": 4
+    },
+    {
+      "hanzi": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "meaning": "in the process of (doing something or happening)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "上映",
+      "traditional": "上映",
+      "pinyin": "shàng yìng",
+      "meaning": "to show (a movie)\nto screen\nto premiere (a movie)",
+      "hsk": null
+    },
+    {
+      "hanzi": "选",
+      "traditional": "選",
+      "pinyin": "xuǎn",
+      "meaning": "to choose\nto select",
+      "hsk": 3
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "to select\nto choose\nto order (food)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "购",
+      "traditional": "購",
+      "pinyin": "gòu",
+      "meaning": "to buy\nto purchase",
+      "hsk": null
+    },
+    {
+      "hanzi": "系统",
+      "traditional": "系統",
+      "pinyin": "xì tǒng",
+      "meaning": "system",
+      "hsk": 5
+    },
+    {
+      "hanzi": "提供",
+      "traditional": "提供",
+      "pinyin": "tí gōng",
+      "meaning": "to offer\nto supply\nto provide",
+      "hsk": 4
+    },
+    {
+      "hanzi": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "meaning": "a few\nseveral\nsome",
+      "hsk": 1
+    },
+    {
+      "hanzi": "附近",
+      "traditional": "附近",
+      "pinyin": "fù jìn",
+      "meaning": "(in the) vicinity\nnearby",
+      "hsk": 3
+    },
+    {
+      "hanzi": "电影院",
+      "traditional": "電影院",
+      "pinyin": "diàn yǐng yuàn",
+      "meaning": "cinema\nmovie theater",
+      "hsk": 1
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "按照",
+      "traditional": "按照",
+      "pinyin": "àn zhào",
+      "meaning": "in accordance with\non the basis of",
+      "hsk": 4
+    },
+    {
+      "hanzi": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "meaning": "oneself",
+      "hsk": 3
+    },
+    {
+      "hanzi": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "meaning": "time",
+      "hsk": 2
+    },
+    {
+      "hanzi": "影院",
+      "traditional": "影院",
+      "pinyin": "yǐng yuàn",
+      "meaning": "cinema\nmovie theater",
+      "hsk": null
+    },
+    {
+      "hanzi": "进去",
+      "traditional": "進去",
+      "pinyin": "jìn qù",
+      "meaning": "to go in\nto enter",
+      "hsk": null
+    },
+    {
+      "hanzi": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "meaning": "afterwards\nlater\npost-",
+      "hsk": 1
+    },
+    {
+      "hanzi": "座",
+      "traditional": "座",
+      "pinyin": "zuò",
+      "meaning": "seat",
+      "hsk": 4
+    },
+    {
+      "hanzi": "付钱",
+      "traditional": "付錢",
+      "pinyin": "fù qián",
+      "meaning": "to pay money",
+      "hsk": null
+    },
+    {
+      "hanzi": "行",
+      "traditional": "行",
+      "pinyin": "xíng",
+      "meaning": "all right\nOK!",
+      "hsk": 4
+    },
+    {
+      "hanzi": "终于",
+      "traditional": "終於",
+      "pinyin": "zhōng yú",
+      "meaning": "at last\nfinally",
+      "hsk": 3
+    },
+    {
+      "hanzi": "学会",
+      "traditional": "學會",
+      "pinyin": "xué huì",
+      "meaning": "to learn\nto master",
+      "hsk": null
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    },
+    {
+      "hanzi": "方便",
+      "traditional": "方便",
+      "pinyin": "fāng biàn",
+      "meaning": "convenient\nsuitable",
+      "hsk": 3
+    },
+    {
+      "hanzi": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "meaning": "hour",
+      "hsk": 2
+    },
+    {
+      "hanzi": "需要",
+      "traditional": "需要",
+      "pinyin": "xū yào",
+      "meaning": "requirement\nneed",
+      "hsk": 3
+    },
+    {
+      "hanzi": "取",
+      "traditional": "取",
+      "pinyin": "qǔ",
+      "meaning": "to take\nto get\nto fetch",
+      "hsk": 4
+    },
+    {
+      "hanzi": "付",
+      "traditional": "付",
+      "pinyin": "fù",
+      "meaning": "to pay\nto hand over to",
+      "hsk": null
+    },
+    {
+      "hanzi": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "meaning": "money",
+      "hsk": 1
+    },
+    {
+      "hanzi": "二维码",
+      "traditional": "二維碼",
+      "pinyin": "èr wéi mǎ",
+      "meaning": "two-dimensional barcode\nQR code",
+      "hsk": null
+    },
+    {
+      "hanzi": "机器",
+      "traditional": "機器",
+      "pinyin": "jī qì",
+      "meaning": "machine",
+      "hsk": 5
+    },
+    {
+      "hanzi": "扫",
+      "traditional": "掃",
+      "pinyin": "sǎo",
+      "meaning": "to scan",
+      "hsk": null
+    },
+    {
+      "hanzi": "码",
+      "traditional": "碼",
+      "pinyin": "mǎ",
+      "meaning": "number\ncode",
+      "hsk": null
+    },
+    {
+      "hanzi": "试试",
+      "traditional": "試試",
+      "pinyin": "shì shi",
+      "meaning": "to test\nto try out",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "信号",
+      "traditional": "信號",
+      "pinyin": "xìn hào",
+      "meaning": "signal",
+      "hsk": 5
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to hold up\nto hoist\nto raise",
+      "hsk": null
+    },
+    {
+      "hanzi": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "meaning": "to open",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么办",
+      "traditional": "怎麼辦",
+      "pinyin": "zěn me bàn",
+      "meaning": "what to do\nwhat should we do",
+      "hsk": 3
+    },
+    {
+      "hanzi": "发",
+      "traditional": "發",
+      "pinyin": "fā",
+      "meaning": "to send out\nto issue",
+      "hsk": 3
+    },
+    {
+      "hanzi": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "meaning": "item\narticle\nclause (of law or treaty)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "短信",
+      "traditional": "短信",
+      "pinyin": "duǎn xìn",
+      "meaning": "text message\nSMS",
+      "hsk": 4
+    },
+    {
+      "hanzi": "上面",
+      "traditional": "上面",
+      "pinyin": "shàng miàn",
+      "meaning": "on top of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "验证码",
+      "traditional": "驗證碼",
+      "pinyin": "yàn zhèng mǎ",
+      "meaning": "CAPTCHA\nverification code used on web sites",
+      "hsk": null
+    },
+    {
+      "hanzi": "输入",
+      "traditional": "輸入",
+      "pinyin": "shū rù",
+      "meaning": "to import\nto input",
+      "hsk": 5
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "meaning": "to take\nto receive",
+      "hsk": 3
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "(verb complement denoting completion or result of an action)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "meaning": "to walk\nto go",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today",
+        "tc_hanzi": "今天"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how\nhow about\nwhat",
+        "tc_hanzi": "怎麼樣"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "片子",
+        "pinyin": "piān zi",
+        "meaning": "film\nmovie",
+        "tc_hanzi": "片子"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hanzi": "样",
+        "pinyin": "yàng",
+        "meaning": "classifier: kind, type",
+        "tc_hanzi": "樣"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "片子",
+        "pinyin": "piān zi",
+        "meaning": "film\nmovie",
+        "tc_hanzi": "片子"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听说",
+        "pinyin": "tīng shuō",
+        "meaning": "to hear (sth said)",
+        "tc_hanzi": "聽說"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "最近",
+        "pinyin": "zuì jìn",
+        "meaning": "recently\nlately",
+        "tc_hanzi": "最近"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "IMAX",
+        "pinyin": "2",
+        "tc_hanzi": "IMAX"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "guo",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "to get onto\nto go up",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "猫眼",
+        "pinyin": "māo yǎn",
+        "meaning": "Maoyan (Chinese online platform)",
+        "tc_hanzi": "貓眼"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "看看",
+        "pinyin": "kàn kan",
+        "meaning": "to take a look at\nto examine",
+        "tc_hanzi": "看看"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive",
+        "tc_hanzi": "貴"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "会员",
+        "pinyin": "huì yuán",
+        "meaning": "member",
+        "tc_hanzi": "會員"
+      },
+      {
+        "hanzi": "卡",
+        "pinyin": "kǎ",
+        "meaning": "card",
+        "tc_hanzi": "卡"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "still\nyet",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "用",
+        "pinyin": "yòng",
+        "meaning": "to use",
+        "tc_hanzi": "用"
+      },
+      {
+        "hanzi": "会员",
+        "pinyin": "huì yuán",
+        "meaning": "member",
+        "tc_hanzi": "會員"
+      },
+      {
+        "hanzi": "卡",
+        "pinyin": "kǎ",
+        "meaning": "card",
+        "tc_hanzi": "卡"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to express questioning)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "may\ncan\nhave permission to",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "便宜",
+        "pinyin": "pián yi",
+        "meaning": "cheap\ninexpensive",
+        "tc_hanzi": "便宜"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "不少",
+        "pinyin": "bù shǎo",
+        "meaning": "many\na lot\nnot few",
+        "tc_hanzi": "不少"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "quick",
+        "tc_hanzi": "快"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "教",
+        "pinyin": "jiāo",
+        "meaning": "to teach",
+        "tc_hanzi": "教"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "打开",
+        "pinyin": "dǎ kāi",
+        "meaning": "to open\nto unfold",
+        "tc_hanzi": "打開"
+      },
+      {
+        "hanzi": "美团",
+        "pinyin": "měi tuán",
+        "meaning": "Meituan, Chinese group buying service",
+        "tc_hanzi": "美團"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small\ntiny\nlittle",
+        "tc_hanzi": "小"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat",
+        "tc_hanzi": "貓"
+      },
+      {
+        "hanzi": "头像",
+        "pinyin": "tóu xiàng",
+        "meaning": "head portrait\nbust",
+        "tc_hanzi": "頭像"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "猫眼",
+        "pinyin": "māo yǎn",
+        "meaning": "Maoyan (Chinese online platform)",
+        "tc_hanzi": "貓眼"
+      },
+      {
+        "hanzi": "”。",
+        "tc_hanzi": "”。"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "打开",
+        "pinyin": "dǎ kāi",
+        "meaning": "to open\nto unfold",
+        "tc_hanzi": "打開"
+      },
+      {
+        "hanzi": "猫眼",
+        "pinyin": "māo yǎn",
+        "meaning": "Maoyan (Chinese online platform)",
+        "tc_hanzi": "貓眼"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hanzi": "演唱会",
+        "pinyin": "yǎn chàng huì",
+        "meaning": "concert\nvocal recital",
+        "tc_hanzi": "演唱會"
+      },
+      {
+        "hanzi": "门票",
+        "pinyin": "mén piào",
+        "meaning": "ticket (for theater, cinema etc)",
+        "tc_hanzi": "門票"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "比赛",
+        "pinyin": "bǐ sài",
+        "meaning": "competition (sports etc)\nmatch",
+        "tc_hanzi": "比賽"
+      },
+      {
+        "hanzi": "门票",
+        "pinyin": "mén piào",
+        "meaning": "ticket (for theater, cinema etc)",
+        "tc_hanzi": "門票"
+      },
+      {
+        "hanzi": "什么的",
+        "pinyin": "shén me de",
+        "meaning": "and so on\nand what not",
+        "tc_hanzi": "甚麼的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "明白",
+        "pinyin": "míng bai",
+        "meaning": "to understand\nto realize",
+        "tc_hanzi": "明白"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "打开",
+        "pinyin": "dǎ kāi",
+        "meaning": "to open\nto unfold",
+        "tc_hanzi": "打開"
+      },
+      {
+        "hanzi": "猫眼",
+        "pinyin": "māo yǎn",
+        "meaning": "Maoyan (Chinese online platform)",
+        "tc_hanzi": "貓眼"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "以后",
+        "pinyin": "yǐ hòu",
+        "meaning": "afterwards\nin the future",
+        "tc_hanzi": "以後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "先",
+        "pinyin": "xiān",
+        "meaning": "first\nearlier\nbefore",
+        "tc_hanzi": "先"
+      },
+      {
+        "hanzi": "定位",
+        "pinyin": "dìng wèi",
+        "meaning": "to position\nto orientate\nposition",
+        "tc_hanzi": "定位"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hanzi": "所在",
+        "pinyin": "suǒ zài",
+        "meaning": "place\nto be located\nto belong to (organization etc)",
+        "tc_hanzi": "所在"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "城市",
+        "pinyin": "chéng shì",
+        "meaning": "city\ntown",
+        "tc_hanzi": "城市"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这里",
+        "pinyin": "zhè lǐ",
+        "meaning": "here",
+        "tc_hanzi": "這裡"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "出现",
+        "pinyin": "chū xiàn",
+        "meaning": "to appear\nto emerge",
+        "tc_hanzi": "出現"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "g": "zhengzai",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "正在",
+        "pinyin": "zhèng zài",
+        "meaning": "in the process of (doing something or happening)",
+        "tc_hanzi": "正在"
+      },
+      {
+        "hanzi": "上映",
+        "pinyin": "shàng yìng",
+        "meaning": "to show (a movie)\nto screen\nto premiere (a movie)",
+        "tc_hanzi": "上映"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "选",
+        "pinyin": "xuǎn",
+        "meaning": "to choose\nto select",
+        "tc_hanzi": "選"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "to select\nto choose\nto order (food)",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "购",
+        "pinyin": "gòu",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "購"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "系统",
+        "pinyin": "xì tǒng",
+        "meaning": "system",
+        "tc_hanzi": "系統"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "提供",
+        "pinyin": "tí gōng",
+        "meaning": "to offer\nto supply\nto provide",
+        "tc_hanzi": "提供"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few\nseveral\nsome",
+        "tc_hanzi": "幾"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "附近",
+        "pinyin": "fù jìn",
+        "meaning": "(in the) vicinity\nnearby",
+        "tc_hanzi": "附近"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影院",
+        "pinyin": "diàn yǐng yuàn",
+        "meaning": "cinema\nmovie theater",
+        "tc_hanzi": "電影院"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "按照",
+        "pinyin": "àn zhào",
+        "meaning": "in accordance with\non the basis of",
+        "tc_hanzi": "按照"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "时间",
+        "pinyin": "shí jiān",
+        "meaning": "time",
+        "tc_hanzi": "時間"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "选",
+        "pinyin": "xuǎn",
+        "meaning": "to choose\nto select",
+        "tc_hanzi": "選"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "影院",
+        "pinyin": "yǐng yuàn",
+        "meaning": "cinema\nmovie theater",
+        "tc_hanzi": "影院"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "to select\nto choose\nto order (food)",
+        "tc_hanzi": "點"
+      },
+      {
+        "hanzi": "进去",
+        "pinyin": "jìn qù",
+        "meaning": "to go in\nto enter",
+        "tc_hanzi": "進去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "自己",
+        "pinyin": "zì jǐ",
+        "meaning": "oneself",
+        "tc_hanzi": "自己"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "选",
+        "pinyin": "xuǎn",
+        "meaning": "to choose\nto select",
+        "tc_hanzi": "選"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "座",
+        "pinyin": "zuò",
+        "meaning": "seat",
+        "tc_hanzi": "座"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hanzi": "付钱",
+        "pinyin": "fù qián",
+        "meaning": "to pay money",
+        "tc_hanzi": "付錢"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "行",
+        "pinyin": "xíng",
+        "meaning": "all right\nOK!",
+        "tc_hanzi": "行"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "终于",
+        "pinyin": "zhōng yú",
+        "meaning": "at last\nfinally",
+        "tc_hanzi": "終於"
+      },
+      {
+        "g": "result-complements",
+        "hanzi": "学会",
+        "pinyin": "xué huì",
+        "meaning": "to learn\nto master",
+        "tc_hanzi": "學會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "网上",
+        "pinyin": "wǎng shang",
+        "meaning": "online",
+        "tc_hanzi": "網上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "方便",
+        "pinyin": "fāng biàn",
+        "meaning": "convenient\nsuitable",
+        "tc_hanzi": "方便"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "（",
+        "tc_hanzi": "（"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "小时",
+        "pinyin": "xiǎo shí",
+        "meaning": "hour",
+        "tc_hanzi": "小時"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影院",
+        "pinyin": "diàn yǐng yuàn",
+        "meaning": "cinema\nmovie theater",
+        "tc_hanzi": "電影院"
+      },
+      {
+        "hanzi": "）",
+        "tc_hanzi": "）"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "需要",
+        "pinyin": "xū yào",
+        "meaning": "requirement\nneed",
+        "tc_hanzi": "需要"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "to take\nto get\nto fetch",
+        "tc_hanzi": "取"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "meaning": "to pay\nto hand over to",
+        "tc_hanzi": "付"
+      },
+      {
+        "g": "guo",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "过",
+        "pinyin": "guò",
+        "meaning": "(experienced action marker)",
+        "tc_hanzi": "過"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money",
+        "tc_hanzi": "錢"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "后",
+        "pinyin": "hòu",
+        "meaning": "afterwards\nlater\npost-",
+        "tc_hanzi": "後"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "二维码",
+        "pinyin": "èr wéi mǎ",
+        "meaning": "two-dimensional barcode\nQR code",
+        "tc_hanzi": "二維碼"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "机器",
+        "pinyin": "jī qì",
+        "meaning": "machine",
+        "tc_hanzi": "機器"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hanzi": "扫",
+        "pinyin": "sǎo",
+        "meaning": "to scan",
+        "tc_hanzi": "掃"
+      },
+      {
+        "hanzi": "码",
+        "pinyin": "mǎ",
+        "meaning": "number\ncode",
+        "tc_hanzi": "碼"
+      },
+      {
+        "g": "jiu-emphasis",
+        "hsk": 2,
+        "hanzi": "就",
+        "pinyin": "jiù",
+        "meaning": "just\nexactly\nprecisely",
+        "tc_hanzi": "就"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "verb-reduplication",
+        "gh": true,
+        "hsk": 3,
+        "hanzi": "试试",
+        "pinyin": "shì shi",
+        "meaning": "to test\nto try out",
+        "tc_hanzi": "試試"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这儿",
+        "pinyin": "zhè‘r",
+        "meaning": "here",
+        "tc_hanzi": "這兒"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "信号",
+        "pinyin": "xìn hào",
+        "meaning": "signal",
+        "tc_hanzi": "信號"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "二维码",
+        "pinyin": "èr wéi mǎ",
+        "meaning": "two-dimensional barcode\nQR code",
+        "tc_hanzi": "二維碼"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to hold up\nto hoist\nto raise",
+        "tc_hanzi": "打"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "to open",
+        "tc_hanzi": "開"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "also\neven more\nin addition",
+        "tc_hanzi": "還"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "发",
+        "pinyin": "fā",
+        "meaning": "to send out\nto issue",
+        "tc_hanzi": "發"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "meaning": "item\narticle\nclause (of law or treaty)",
+        "tc_hanzi": "條"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "短信",
+        "pinyin": "duǎn xìn",
+        "meaning": "text message\nSMS",
+        "tc_hanzi": "短信"
+      },
+      {
+        "g": "ma",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上面",
+        "pinyin": "shàng miàn",
+        "meaning": "on top of",
+        "tc_hanzi": "上面"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "验证码",
+        "pinyin": "yàn zhèng mǎ",
+        "meaning": "CAPTCHA\nverification code used on web sites",
+        "tc_hanzi": "驗證碼"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "机器",
+        "pinyin": "jī qì",
+        "meaning": "machine",
+        "tc_hanzi": "機器"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "上",
+        "pinyin": "shang",
+        "meaning": "upon\nabove\n(also used in semi-idiomatic sense for in, on etc.)",
+        "tc_hanzi": "上"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "输入",
+        "pinyin": "shū rù",
+        "meaning": "to import\nto input",
+        "tc_hanzi": "輸入"
+      },
+      {
+        "hanzi": "验证码",
+        "pinyin": "yàn zhèng mǎ",
+        "meaning": "CAPTCHA\nverification code used on web sites",
+        "tc_hanzi": "驗證碼"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "keyi",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "可以",
+        "pinyin": "kě yǐ",
+        "meaning": "can\nmay\nable to",
+        "tc_hanzi": "可以"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "(to express agreement)\nokay\nall right",
+        "tc_hanzi": "好"
+      },
+      {
+        "g": "de-positive",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(used to add a positive or affirmative tone)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "拿",
+        "pinyin": "ná",
+        "meaning": "to take\nto receive",
+        "tc_hanzi": "拿"
+      },
+      {
+        "g": "result-complements",
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "(verb complement denoting completion or result of an action)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket\nballot",
+        "tc_hanzi": "票"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "to walk\nto go",
+        "tc_hanzi": "走"
+      },
+      {
+        "g": "ba-confirmation",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      0.5,
+      1.08,
+      1.59,
+      1.8820861678004535,
+      2.193877551020408,
+      4.33,
+      4.33,
+      4.33,
+      4.705,
+      5.11,
+      5.53,
+      6.01,
+      6.31,
+      6.73,
+      7.05,
+      7.95,
+      8.180272108843537,
+      8.356009070294784,
+      10.36,
+      10.36,
+      10.36,
+      10.99,
+      12.54,
+      12.947845804988662,
+      13.62,
+      14.019274376417233,
+      14.3140589569161,
+      14.51814058956916,
+      14.96,
+      15.36281179138322,
+      15.59,
+      17.91,
+      17.91,
+      17.91,
+      18.23,
+      18.55,
+      19.38,
+      19.829931972789115,
+      20.045,
+      20.3775,
+      20.74,
+      21.1,
+      23.64,
+      23.64,
+      23.64,
+      23.939909297052154,
+      24.265,
+      24.92063492063492,
+      25.20408163265306,
+      25.44784580498866,
+      25.95,
+      26.258503401360542,
+      26.86,
+      27.195,
+      28.56,
+      28.89,
+      29.185000000000002,
+      29.48,
+      29.92063492063492,
+      31.09,
+      31.55,
+      31.89,
+      34.54081632653061,
+      34.54081632653061,
+      34.54081632653061,
+      35.085034013605444,
+      35.986394557823125,
+      36.29818594104308,
+      36.83,
+      37.28458049886621,
+      37.64,
+      38.004999999999995,
+      40.32,
+      40.32,
+      40.32,
+      40.626666666666665,
+      40.93333333333334,
+      41.73,
+      42.16,
+      42.474999999999994,
+      44.25,
+      44.55,
+      44.807256235827666,
+      45.06235827664399,
+      45.74263038548753,
+      46.160000000000004,
+      46.54195011337868,
+      49.15,
+      49.15,
+      49.15,
+      49.64,
+      50.29,
+      50.82,
+      51.16,
+      51.75170068027211,
+      52.13718820861678,
+      52.38662131519274,
+      52.84580498866213,
+      54,
+      54.39,
+      54.92,
+      55.21,
+      55.56689342403628,
+      55.98,
+      56.42,
+      56.865,
+      57.98,
+      58.29,
+      58.67,
+      59.121315192743765,
+      59.46145124716553,
+      62.2,
+      62.2,
+      62.2,
+      62.59,
+      62.99,
+      63.67,
+      63.955,
+      64.24,
+      64.69,
+      65.05,
+      65.35147392290249,
+      66.59,
+      67.12,
+      67.57936507936508,
+      67.9,
+      70.31,
+      70.31,
+      70.31,
+      70.56,
+      71.74,
+      72.09,
+      72.47,
+      72.85,
+      74.07596371882086,
+      74.81,
+      75.17,
+      75.45351473922902,
+      76.02,
+      76.59,
+      76.97845804988661,
+      77.35827664399093,
+      78.6,
+      79.05328798185941,
+      79.32539682539682,
+      80.00566893424036,
+      80.505,
+      82.07,
+      82.42,
+      82.75,
+      83.14625850340136,
+      84.25,
+      84.61,
+      85,
+      85.39682539682539,
+      85.55,
+      86.32,
+      86.72335600907029,
+      87.05215419501134,
+      88.31,
+      88.65,
+      88.99,
+      89.57,
+      89.96,
+      90.47619047619047,
+      90.74,
+      91.06009070294785,
+      91.94,
+      92.3,
+      92.66,
+      93.05,
+      93.52,
+      93.77666666666667,
+      94.03333333333333,
+      95.54,
+      95.54,
+      95.54,
+      95.95,
+      96.3548752834467,
+      96.6,
+      98.05,
+      98.49,
+      98.9,
+      100.92,
+      100.92,
+      100.92,
+      101.25999999999999,
+      101.63,
+      101.94,
+      102.31292517006803,
+      102.64500000000001,
+      103.44,
+      103.88,
+      104.245,
+      104.89,
+      105.26077097505669,
+      105.69,
+      106.05,
+      106.25,
+      106.65,
+      107.83,
+      108.24000000000001,
+      109.02,
+      109.3,
+      109.58,
+      109.85499999999999,
+      110.13,
+      110.515,
+      111.26,
+      111.7,
+      112.34,
+      112.635,
+      112.93,
+      113.275,
+      113.62,
+      113.8,
+      114.21000000000001,
+      115.71,
+      116.09,
+      116.39455782312925,
+      117.11,
+      117.455,
+      117.84,
+      118.26,
+      118.47,
+      118.845,
+      120.89,
+      121.51,
+      121.8424036281179,
+      122.96,
+      123.375,
+      123.9,
+      124.19,
+      124.48,
+      124.795,
+      125.11,
+      125.42,
+      126.21,
+      126.495,
+      126.78,
+      127.11500000000001,
+      127.45,
+      127.98,
+      128.32666666666668,
+      128.67333333333335,
+      129.15,
+      129.4,
+      129.69,
+      131.12,
+      131.43424036281178,
+      131.64,
+      131.82999999999998,
+      132.09183673469389,
+      132.39,
+      133.02,
+      133.345,
+      133.67,
+      133.85,
+      134.19501133786846,
+      135,
+      135.36,
+      135.63,
+      135.93,
+      136.28,
+      137.5,
+      137.83,
+      138.125,
+      138.48072562358277,
+      138.99,
+      139.27,
+      139.54648526077096,
+      139.92,
+      140.84,
+      141.15,
+      141.84,
+      142.24,
+      142.67,
+      142.94,
+      143.21,
+      145.04,
+      145.04,
+      145.04,
+      145.51,
+      145.83499999999998,
+      146.16,
+      146.5,
+      147.34,
+      147.75,
+      148.16,
+      148.66,
+      149.12,
+      149.48333333333335,
+      149.84666666666666,
+      150.21,
+      151.42,
+      151.95578231292515,
+      152.29,
+      154.85,
+      155.11,
+      155.37,
+      155.6972789115646,
+      155.95238095238093,
+      156.79,
+      157.36,
+      157.67333333333335,
+      157.98666666666668,
+      160.75,
+      160.75,
+      160.75,
+      161.11,
+      161.56,
+      161.95499999999998,
+      162.38,
+      162.89,
+      163.29,
+      166.04,
+      166.04,
+      166.04,
+      166.37,
+      166.57,
+      166.985,
+      167.74,
+      168.0045351473923,
+      168.54,
+      168.81,
+      169.06,
+      169.28,
+      169.53514739229024,
+      170.09637188208617,
+      170.38,
+      170.63492063492063,
+      170.94,
+      172.22,
+      172.52,
+      172.81,
+      173,
+      173.23,
+      173.51,
+      174.14,
+      174.52,
+      174.97,
+      175.225,
+      175.48000000000002,
+      175.735,
+      176.6,
+      177.17,
+      177.44,
+      177.71,
+      179.54,
+      179.54,
+      179.54,
+      179.98,
+      180.48,
+      180.95,
+      181.29333333333332,
+      181.63666666666666,
+      183.15,
+      183.49,
+      183.73,
+      184.25,
+      184.56,
+      184.8299319727891,
+      186,
+      186.325,
+      186.65,
+      186.97500000000002,
+      188.89,
+      188.89,
+      188.89,
+      189.1609977324263,
+      189.73,
+      190.07,
+      190.39,
+      190.95,
+      191.2018140589569,
+      191.36,
+      191.59863945578232,
+      192,
+      192.285,
+      192.6530612244898,
+      193.66,
+      194.0362811791383,
+      194.31405895691609,
+      194.7,
+      194.96499999999997,
+      195.23,
+      196.46,
+      196.73,
+      196.95999999999998,
+      197.19,
+      197.435,
+      197.68,
+      198.28,
+      198.67000000000002,
+      199.09,
+      199.37,
+      199.65,
+      200.11,
+      200.41333333333336,
+      200.71666666666667,
+      202.11,
+      202.11,
+      202.11,
+      202.56235827664398,
+      203.72,
+      204.1439909297052,
+      204.39,
+      204.78,
+      206.04,
+      206.345,
+      206.68,
+      207.03,
+      208.057166
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      16,
+      17,
+      29,
+      30,
+      40,
+      41,
+      60,
+      61,
+      71,
+      72,
+      87,
+      88,
+      109,
+      110,
+      124,
+      125,
+      147,
+      166,
+      167,
+      176,
+      177,
+      200,
+      226,
+      250,
+      251,
+      266,
+      267,
+      276,
+      277,
+      285,
+      286,
+      317,
+      318,
+      334,
+      335,
+      349,
+      363,
+      364,
+      378
+    ],
+    "sentence_translations": [
+      "Buying Movie Tickets Online",
+      "",
+      "Little Le: How about we go and see a movie today?",
+      "",
+      "Paul: Sure! What good movies have come out recently?",
+      "",
+      "Little Le: What kind of movie do you want to see?",
+      "",
+      "Paul: I heard that there was an IMAX movie recently. I haven’t seen it yet. I want to go and see it.",
+      "",
+      "Little Le: Okay, I will go on Maoyan to have a look.",
+      "",
+      "Paul: Are the movie tickets expensive? Do you have a membership card?",
+      "",
+      "Little Le: Who still uses membership cards nowadays? We buy tickets online, you can get them much cheaper.",
+      "",
+      "Paul: How do you buy movie tickets online? Teach me!",
+      "",
+      "Little Le: See, open Meituan. Here we have a little cat head icon, this is “Maoyan”.",
+      "Open Maoyan, where you can buy movie tickets, as well as concert tickets, sports tickets, and so on.",
+      "",
+      "Paul: I see, and then?",
+      "",
+      "Little Le: After opening Maoyan, first set the location to your city, then all the movies currently showing will appear.",
+      "Choose a movie you want to see, select “purchase tickets”, and the system will list some nearby movie theaters for us.",
+      "We can choose a movie theater according to our preferred times. Next, we choose our seats, then pay, and it’s done.",
+      "",
+      "Paul: I’ve finally learned how to buy movie tickets online. It’s so convenient!",
+      "",
+      "(One hour later, at the movie theater)",
+      "",
+      "Paul: Do we need to collect our tickets?",
+      "",
+      "Little Le: After paying, didn’t it give you a QR code? Just scan the code using this machine. Give it a go!",
+      "",
+      "Paul: The signal isn’t good here, I can’t open the QR code. What should I do?",
+      "",
+      "Little Le: Didn’t it also send you a text message?",
+      "It contains a verification code. You can also enter the verification code into the machine.",
+      "",
+      "Paul: Okay, I got the tickets. Let’s go!",
+      ""
+    ]
+  }
+}

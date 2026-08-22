@@ -1,0 +1,552 @@
+{
+  "id": "E320",
+  "title": "Coward",
+  "level": "elementary",
+  "date": "2019-05-04",
+  "synopsis": "How do you call someone a “coward” in Chinese?",
+  "audioUrl": "https://static.duchinese.net/documents/1028/96e2c4159422489c09e8b83906ba62aa2d588cca.mp3?1555842498",
+  "series": null,
+  "fullText": {
+    "simplified": "怂\n\n小何：这个工作太难了！又这么多！\n小张：你怎么不跟老板说啊？\n小何：我不敢……\n小张：你真怂！",
+    "traditional": "㞞\n\n小何：這個工作太難了！又這麼多！\n小張：你怎麼不跟老闆說啊？\n小何：我不敢……\n小張：你真㞞！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Coward"
+    },
+    {
+      "index": 2,
+      "simplified": "小何：这个工作太难了！又这么多！",
+      "traditional": "小何：這個工作太難了！又這麼多！",
+      "pinyin": "xiǎo hé zhè ge gōng zuò tài nán le yòu zhè me duō",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: This work is too difficult! And there is too much!"
+    },
+    {
+      "index": 4,
+      "simplified": "小张：你怎么不跟老板说啊？",
+      "traditional": "小張：你怎麼不跟老闆說啊？",
+      "pinyin": "xiǎo zhāng nǐ zěn me bù gēn lǎo bǎn shuō a",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Zhang: Why don’t you talk to the boss?"
+    },
+    {
+      "index": 6,
+      "simplified": "小何：我不敢……",
+      "traditional": "小何：我不敢……",
+      "pinyin": "xiǎo hé wǒ bù gǎn",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little He: I don’t dare to…"
+    },
+    {
+      "index": 8,
+      "simplified": "小张：你真怂！",
+      "traditional": "小張：你真㞞！",
+      "pinyin": "xiǎo zhāng nǐ zhēn sóng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Zhang: You are such a coward!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "怂",
+      "traditional": "㞞",
+      "pinyin": "sóng",
+      "meaning": "weak and incompetent\ncoward\n(originally, this word has no simplified character)",
+      "hsk": null
+    },
+    {
+      "hanzi": "小何",
+      "traditional": "小何",
+      "pinyin": "xiǎo hé",
+      "meaning": "Little He (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "job\nwork",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "meaning": "difficult (to...)\nproblem\ndifficulty",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(used for emphasis)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "meaning": "this way\nlike this",
+      "hsk": 3
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小张",
+      "traditional": "小張",
+      "pinyin": "xiǎo zhāng",
+      "meaning": "Little Zhang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "meaning": "how\nwhy",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "meaning": "with",
+      "hsk": 3
+    },
+    {
+      "hanzi": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎo bǎn",
+      "meaning": "boss\nowner",
+      "hsk": 5
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "敢",
+      "traditional": "敢",
+      "pinyin": "gǎn",
+      "meaning": "to dare",
+      "hsk": 4
+    },
+    {
+      "hanzi": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "meaning": "really\ntruly",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "怂",
+        "pinyin": "sóng",
+        "meaning": "weak and incompetent\ncoward\n(originally, this word has no simplified character)",
+        "tc_hanzi": "㞞"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "job\nwork",
+        "tc_hanzi": "工作"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "difficult (to...)\nproblem\ndifficulty",
+        "tc_hanzi": "難"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "这么",
+        "pinyin": "zhè me",
+        "meaning": "this way\nlike this",
+        "tc_hanzi": "這麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how\nwhy",
+        "tc_hanzi": "怎麼"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meaning": "boss\nowner",
+        "tc_hanzi": "老闆"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小何",
+        "pinyin": "xiǎo hé",
+        "meaning": "Little He (name)",
+        "tc_hanzi": "小何"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "敢",
+        "pinyin": "gǎn",
+        "meaning": "to dare",
+        "tc_hanzi": "敢"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小张",
+        "pinyin": "xiǎo zhāng",
+        "meaning": "Little Zhang (name)",
+        "tc_hanzi": "小張"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "really\ntruly",
+        "tc_hanzi": "真"
+      },
+      {
+        "hanzi": "怂",
+        "pinyin": "sóng",
+        "meaning": "weak and incompetent\ncoward\n(originally, this word has no simplified character)",
+        "tc_hanzi": "㞞"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "How do you call someone a “coward” in Chinese?",
+    "syllable_times": [
+      2.776181315496071,
+      2.776181315496071,
+      2.776181315496071,
+      3.105,
+      3.29,
+      3.64,
+      4.03,
+      4.300000000000001,
+      4.57,
+      5.53,
+      5.98,
+      6.19,
+      6.4,
+      8.364092825895352,
+      8.364092825895352,
+      8.364092825895352,
+      8.75,
+      9.065000000000001,
+      9.54,
+      9.81,
+      10.09,
+      10.405000000000001,
+      10.72,
+      11.06,
+      12.989525075139282,
+      12.989525075139282,
+      12.989525075139282,
+      13.32,
+      13.765,
+      16.0447783915672,
+      16.0447783915672,
+      16.0447783915672,
+      16.48,
+      16.947285540705266,
+      17.837917,
+      17.837917
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      16,
+      17,
+      27,
+      28,
+      34,
+      35,
+      41
+    ],
+    "sentence_translations": [
+      "Coward",
+      "",
+      "Little He: This work is too difficult! And there is too much!",
+      "",
+      "Little Zhang: Why don’t you talk to the boss?",
+      "",
+      "Little He: I don’t dare to…",
+      "",
+      "Little Zhang: You are such a coward!",
+      ""
+    ]
+  }
+}

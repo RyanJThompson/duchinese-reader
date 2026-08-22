@@ -1,0 +1,617 @@
+{
+  "id": "1101",
+  "title": "Double Bed",
+  "level": "elementary",
+  "date": "2020-11-14",
+  "synopsis": "A dialogue about character composition between a teacher and a student.",
+  "audioUrl": "https://static.duchinese.net/documents/1101/93c7af6e204bb982da4e6c73245a14dab2a37ccb.mp3?1596885281",
+  "series": null,
+  "fullText": {
+    "simplified": "双人床\n\n老师：“广”字下面加一个“木”字是什么字？\n学生：是“床”字，老师。\n老师：那“广”字下面加两个“木”字是什么字呢？\n学生：是双人床！",
+    "traditional": "雙人床\n\n老師：“廣”字下面加一個“木”字是什麼字？\n學生：是“床”字，老師。\n老師：那“廣”字下面加兩個“木”字是什麼字呢？\n學生：是雙人床！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Double Bed"
+    },
+    {
+      "index": 2,
+      "simplified": "老师：“广”字下面加一个“木”字是什么字？",
+      "traditional": "老師：“廣”字下面加一個“木”字是什麼字？",
+      "pinyin": "lǎo shī guǎng zì xià miàn jiā yí ge mù zì shì shén me zì",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: If you take the character for “wide” and add the character for “wood” under it, what character is that?"
+    },
+    {
+      "index": 4,
+      "simplified": "学生：是“床”字，老师。",
+      "traditional": "學生：是“床”字，老師。",
+      "pinyin": "xué sheng shì chuáng zì lǎo shī",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Student: It’s the character for “bed”, teacher."
+    },
+    {
+      "index": 6,
+      "simplified": "老师：那“广”字下面加两个“木”字是什么字呢？",
+      "traditional": "老師：那“廣”字下面加兩個“木”字是什麼字呢？",
+      "pinyin": "lǎo shī nà guǎng zì xià miàn jiā liǎng ge mù zì shì shén me zì ne",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Teacher: In that case, if you add two characters for “wood” under the character for “wide”, what character is that?"
+    },
+    {
+      "index": 8,
+      "simplified": "学生：是双人床！",
+      "traditional": "學生：是雙人床！",
+      "pinyin": "xué sheng shì shuāng rén chuáng",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Student: It’s a double bed!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "双人床",
+      "traditional": "雙人床",
+      "pinyin": "shuāng rén chuáng",
+      "meaning": "double bed",
+      "hsk": null
+    },
+    {
+      "hanzi": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "meaning": "teacher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "广",
+      "traditional": "廣",
+      "pinyin": "guǎng",
+      "meaning": "wide\nnumerous\nto spread",
+      "hsk": 5
+    },
+    {
+      "hanzi": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "meaning": "character\nletter",
+      "hsk": 1
+    },
+    {
+      "hanzi": "下面",
+      "traditional": "下面",
+      "pinyin": "xià miàn",
+      "meaning": "below\nunder\nnext",
+      "hsk": 1
+    },
+    {
+      "hanzi": "加",
+      "traditional": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "hsk": null
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yí",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "木",
+      "traditional": "木",
+      "pinyin": "mù",
+      "meaning": "tree\nwood",
+      "hsk": null
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "meaning": "student",
+      "hsk": 1
+    },
+    {
+      "hanzi": "床",
+      "traditional": "床",
+      "pinyin": "chuáng",
+      "meaning": "bed",
+      "hsk": 2
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "hsk": 2
+    },
+    {
+      "hanzi": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "双人床",
+        "pinyin": "shuāng rén chuáng",
+        "meaning": "double bed",
+        "tc_hanzi": "雙人床"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "广",
+        "pinyin": "guǎng",
+        "meaning": "wide\nnumerous\nto spread",
+        "tc_hanzi": "廣"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下面",
+        "pinyin": "xià miàn",
+        "meaning": "below\nunder\nnext",
+        "tc_hanzi": "下面"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "meaning": "tree\nwood",
+        "tc_hanzi": "木"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "床",
+        "pinyin": "chuáng",
+        "meaning": "bed",
+        "tc_hanzi": "床"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher",
+        "tc_hanzi": "老師"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "广",
+        "pinyin": "guǎng",
+        "meaning": "wide\nnumerous\nto spread",
+        "tc_hanzi": "廣"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "下面",
+        "pinyin": "xià miàn",
+        "meaning": "below\nunder\nnext",
+        "tc_hanzi": "下面"
+      },
+      {
+        "hanzi": "加",
+        "pinyin": "jiā",
+        "meaning": "to add",
+        "tc_hanzi": "加"
+      },
+      {
+        "g": "er-liang",
+        "hsk": 2,
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two",
+        "tc_hanzi": "兩"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hanzi": "木",
+        "pinyin": "mù",
+        "meaning": "tree\nwood",
+        "tc_hanzi": "木"
+      },
+      {
+        "hanzi": "”",
+        "tc_hanzi": "”"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character\nletter",
+        "tc_hanzi": "字"
+      },
+      {
+        "g": "ne",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "particle indicating that a previously asked question is to be applied to the preceding word\nwhat about ...?\nand ...?",
+        "tc_hanzi": "呢"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student",
+        "tc_hanzi": "學生"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hanzi": "双人床",
+        "pinyin": "shuāng rén chuáng",
+        "meaning": "double bed",
+        "tc_hanzi": "雙人床"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "A dialogue about character composition between a teacher and a student.",
+    "syllable_times": [
+      0.4066666666666667,
+      0.6689342403628118,
+      3.03,
+      3.03,
+      3.03,
+      3.41,
+      3.79,
+      4.125,
+      4.46,
+      4.77,
+      4.9399999999999995,
+      5.170068027210884,
+      5.566893424036281,
+      6.23,
+      6.502267573696145,
+      6.7063492063492065,
+      6.87,
+      8.52,
+      8.52,
+      8.52,
+      8.870000000000001,
+      9.342403628117914,
+      9.95,
+      10.27,
+      11.8,
+      11.8,
+      11.8,
+      12.09,
+      12.57,
+      12.868480725623582,
+      13.190000000000001,
+      13.849206349206348,
+      14.26,
+      14.750566893424036,
+      14.948979591836734,
+      15.24,
+      15.88,
+      16.150793650793652,
+      16.343537414965986,
+      16.53,
+      16.72,
+      18.26,
+      18.26,
+      18.26,
+      18.7,
+      19.05,
+      19.285714285714285,
+      20.147755
+    ],
+    "sentence_indices": [
+      1,
+      3,
+      21,
+      22,
+      32,
+      33,
+      53,
+      54,
+      59
+    ],
+    "sentence_translations": [
+      "Double Bed",
+      "",
+      "Teacher: If you take the character for “wide” and add the character for “wood” under it, what character is that?",
+      "",
+      "Student: It’s the character for “bed”, teacher.",
+      "",
+      "Teacher: In that case, if you add two characters for “wood” under the character for “wide”, what character is that?",
+      "",
+      "Student: It’s a double bed!",
+      ""
+    ]
+  }
+}

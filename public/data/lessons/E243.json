@@ -1,0 +1,825 @@
+{
+  "id": "E243",
+  "title": "Second Cup Half Price",
+  "level": "elementary",
+  "date": "2018-08-04",
+  "synopsis": "Will you buy two cups because of a promotion?",
+  "audioUrl": "https://static.duchinese.net/documents/809/f0aaa0b79f95e9895f102df5219369ce1d103a6e.mp3?1532935069",
+  "series": null,
+  "fullText": {
+    "simplified": "第二杯半价\n\n小乐：我们去喝奶茶吧！\n保罗：我有点累，不想去。\n小乐：奶茶店不太远，我们一起去吧。\n保罗：你是不是想去那家新的奶茶店？\n小乐：是的，他们现在第二杯半价。",
+    "traditional": "第二杯半價\n\n小樂：我們去喝奶茶吧！\n保羅：我有點累，不想去。\n小樂：奶茶店不太遠，我們一起去吧。\n保羅：你是不是想去那家新的奶茶店？\n小樂：是的，他們現在第二杯半價。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Second Cup Half Price"
+    },
+    {
+      "index": 2,
+      "simplified": "小乐：我们去喝奶茶吧！",
+      "traditional": "小樂：我們去喝奶茶吧！",
+      "pinyin": "xiǎo lè wǒ men qù hē nǎi chá ba",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: Let’s go drink milk tea!"
+    },
+    {
+      "index": 4,
+      "simplified": "保罗：我有点累，不想去。",
+      "traditional": "保羅：我有點累，不想去。",
+      "pinyin": "bǎo luó wǒ yǒu diǎn lèi bù xiǎng qù",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: I’m a bit tired. I don’t want to go."
+    },
+    {
+      "index": 6,
+      "simplified": "小乐：奶茶店不太远，我们一起去吧。",
+      "traditional": "小樂：奶茶店不太遠，我們一起去吧。",
+      "pinyin": "xiǎo lè nǎi chá diàn bú tài yuǎn wǒ men yì qǐ qù ba",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Little Le: The milk tea shop is not too far away. Let’s go together."
+    },
+    {
+      "index": 8,
+      "simplified": "保罗：你是不是想去那家新的奶茶店？",
+      "traditional": "保羅：你是不是想去那家新的奶茶店？",
+      "pinyin": "bǎo luó nǐ shì bu shì xiǎng qù nà jiā xīn de nǎi chá diàn",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Paul: You want to go to that new milk tea shop, right?"
+    },
+    {
+      "index": 10,
+      "simplified": "小乐：是的，他们现在第二杯半价。",
+      "traditional": "小樂：是的，他們現在第二杯半價。",
+      "pinyin": "xiǎo lè shì de tā men xiàn zài dì èr bēi bàn jià",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Little Le: Yes, it’s half price for the second cup now."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "meaning": "two\nsecond",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "价",
+      "traditional": "價",
+      "pinyin": "jià",
+      "meaning": "price\nvalue",
+      "hsk": null
+    },
+    {
+      "hanzi": "小乐",
+      "traditional": "小樂",
+      "pinyin": "xiǎo lè",
+      "meaning": "Little Le (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we\nus\nour",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "奶茶",
+      "traditional": "奶茶",
+      "pinyin": "nǎi chá",
+      "meaning": "milk tea",
+      "hsk": null
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "保罗",
+      "traditional": "保羅",
+      "pinyin": "bǎo luó",
+      "meaning": "Paul (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有点",
+      "traditional": "有點",
+      "pinyin": "yǒu diǎn",
+      "meaning": "a little",
+      "hsk": 1
+    },
+    {
+      "hanzi": "累",
+      "traditional": "累",
+      "pinyin": "lèi",
+      "meaning": "tired\nto wear out",
+      "hsk": 2
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "店",
+      "traditional": "店",
+      "pinyin": "diàn",
+      "meaning": "store\nshop",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "meaning": "far\ndistant",
+      "hsk": 2
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是不是",
+      "traditional": "是不是",
+      "pinyin": "shì bu shì",
+      "meaning": "is or isn't\nwhether or not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "hsk": 2
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "是的",
+      "traditional": "是的",
+      "pinyin": "shì de",
+      "meaning": "yes, that's right",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "meaning": "they",
+      "hsk": 1
+    },
+    {
+      "hanzi": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "meaning": "now\nat present",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "价",
+        "pinyin": "jià",
+        "meaning": "price\nvalue",
+        "tc_hanzi": "價"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有点",
+        "pinyin": "yǒu diǎn",
+        "meaning": "a little",
+        "tc_hanzi": "有點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "累",
+        "pinyin": "lèi",
+        "meaning": "tired\nto wear out",
+        "tc_hanzi": "累"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "tai-le",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far\ndistant",
+        "tc_hanzi": "遠"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we\nus\nour",
+        "tc_hanzi": "我們"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "保罗",
+        "pinyin": "bǎo luó",
+        "meaning": "Paul (name)",
+        "tc_hanzi": "保羅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是不是",
+        "pinyin": "shì bu shì",
+        "meaning": "is or isn't\nwhether or not",
+        "tc_hanzi": "是不是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new",
+        "tc_hanzi": "新"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "奶茶",
+        "pinyin": "nǎi chá",
+        "meaning": "milk tea",
+        "tc_hanzi": "奶茶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "店",
+        "pinyin": "diàn",
+        "meaning": "store\nshop",
+        "tc_hanzi": "店"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "小乐",
+        "pinyin": "xiǎo lè",
+        "meaning": "Little Le (name)",
+        "tc_hanzi": "小樂"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是的",
+        "pinyin": "shì de",
+        "meaning": "yes, that's right",
+        "tc_hanzi": "是的"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他们",
+        "pinyin": "tā men",
+        "meaning": "they",
+        "tc_hanzi": "他們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now\nat present",
+        "tc_hanzi": "現在"
+      },
+      {
+        "g": "ordinals",
+        "hsk": 2,
+        "hanzi": "第",
+        "pinyin": "dì",
+        "meaning": "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "tc_hanzi": "第"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two\nsecond",
+        "tc_hanzi": "二"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "价",
+        "pinyin": "jià",
+        "meaning": "price\nvalue",
+        "tc_hanzi": "價"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Will you buy two cups because of a promotion?",
+    "syllable_times": [
+      0.272108843537415,
+      0.5895691609977324,
+      1.1791383219954648,
+      1.5419501133786848,
+      4.512870963809528,
+      4.512870963809528,
+      4.512870963809528,
+      4.807256235827665,
+      5.079365079365079,
+      5.442176870748299,
+      5.668934240362812,
+      5.941043083900227,
+      6.303854875283447,
+      7.622112197141479,
+      7.622112197141479,
+      7.622112197141479,
+      8.253968253968255,
+      8.526077097505668,
+      8.75283446712018,
+      10.01893726623375,
+      10.342121636612326,
+      10.657596371882086,
+      12.273617541632438,
+      12.273617541632438,
+      12.273617541632438,
+      12.562358276643991,
+      12.92517006802721,
+      13.514739229024944,
+      13.741496598639456,
+      14.104308390022675,
+      15.328798185941043,
+      15.555555555555555,
+      15.82766439909297,
+      16.099773242630384,
+      16.417233560090704,
+      16.73469387755102,
+      18.103134355832747,
+      18.103134355832747,
+      18.103134355832747,
+      18.73015873015873,
+      19.183673469387756,
+      19.31972789115646,
+      19.909297052154194,
+      20.36281179138322,
+      20.634920634920636,
+      20.90702947845805,
+      21.31519274376417,
+      21.67800453514739,
+      22.086167800453516,
+      22.35827664399093,
+      22.72108843537415,
+      24.144037083979313,
+      24.144037083979313,
+      24.144037083979313,
+      24.53514739229025,
+      25.532879818594104,
+      25.80498866213152,
+      25.975400397158044,
+      26.349206349206348,
+      26.848072562358276,
+      27.07482993197279,
+      27.392290249433106,
+      27.84580498866213,
+      28.20861678004535,
+      28.842607709750567,
+      28.842607709750567
+    ],
+    "sentence_indices": [
+      5,
+      7,
+      15,
+      16,
+      26,
+      27,
+      40,
+      41,
+      54,
+      55,
+      67
+    ],
+    "sentence_translations": [
+      "Second Cup Half Price",
+      "",
+      "Little Le: Let’s go drink milk tea!",
+      "",
+      "Paul: I’m a bit tired. I don’t want to go.",
+      "",
+      "Little Le: The milk tea shop is not too far away. Let’s go together.",
+      "",
+      "Paul: You want to go to that new milk tea shop, right?",
+      "",
+      "Little Le: Yes, it’s half price for the second cup now.",
+      ""
+    ]
+  }
+}

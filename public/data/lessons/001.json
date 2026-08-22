@@ -1,0 +1,522 @@
+{
+  "id": "001",
+  "title": "Self Introduction at Work",
+  "level": "newbie",
+  "date": "2015-11-12",
+  "synopsis": "If you work in China you will probably have to introduce yourself at some point. Here we see an example of a simple self introduction in Chinese.",
+  "audioUrl": "https://static.duchinese.net/documents/1/1feb01a6477ed4d18fdaabd142dfd653ffe7e02f.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "自我介绍\n\n    大家好！我叫张亮，今年23岁，来自北京。我喜欢看书，看电影。\n\n    很高兴能和大家一起工作。谢谢大家。",
+    "traditional": "自我介紹\n\n    大家好！我叫張亮，今年23歲，來自北京。我喜歡看書，看電影。\n\n    很高興能和大家一起工作。謝謝大家。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Self introduction"
+    },
+    {
+      "index": 2,
+      "simplified": "大家好！",
+      "traditional": "大家好！",
+      "pinyin": "dà jiā hǎo",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "我叫张亮，今年23岁，来自北京。",
+      "traditional": "我叫張亮，今年23歲，來自北京。",
+      "pinyin": "wǒ jiào zhāng liàng jīn nián 3 suì lái zì běi jīng",
+      "english": "Hi everyone!"
+    },
+    {
+      "index": 4,
+      "simplified": "我喜欢看书，看电影。",
+      "traditional": "我喜歡看書，看電影。",
+      "pinyin": "wǒ xǐ huan kàn shū kàn diàn yǐng",
+      "english": "My name is Liang Zhang; I'm 23 years old and come from Beijing."
+    },
+    {
+      "index": 5,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "I like to read and to watch movies."
+    },
+    {
+      "index": 6,
+      "simplified": "很高兴能和大家一起工作。",
+      "traditional": "很高興能和大家一起工作。",
+      "pinyin": "hěn gāo xìng néng hé dà jiā yì qǐ gōng zuò",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "谢谢大家。",
+      "traditional": "謝謝大家。",
+      "pinyin": "xiè xie dà jiā",
+      "english": "I am very happy to be able to work together with everyone."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "自我",
+      "traditional": "自我",
+      "pinyin": "zì wǒ",
+      "meaning": "self-\nego (psychology)",
+      "hsk": null
+    },
+    {
+      "hanzi": "介绍",
+      "traditional": "介紹",
+      "pinyin": "jiè shào",
+      "meaning": "to introduce (sb to sb)\nto give a presentation\nintroduction",
+      "hsk": 2
+    },
+    {
+      "hanzi": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "meaning": "everyone",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call\nto shout\nto cry out",
+      "hsk": 1
+    },
+    {
+      "hanzi": "张",
+      "traditional": "張",
+      "pinyin": "zhāng",
+      "meaning": "surname Zhang",
+      "hsk": null
+    },
+    {
+      "hanzi": "亮",
+      "traditional": "亮",
+      "pinyin": "liàng",
+      "meaning": "first name Liang",
+      "hsk": null
+    },
+    {
+      "hanzi": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "meaning": "this year",
+      "hsk": 1
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    },
+    {
+      "hanzi": "来自",
+      "traditional": "來自",
+      "pinyin": "lái zì",
+      "meaning": "to come from",
+      "hsk": 4
+    },
+    {
+      "hanzi": "北京",
+      "traditional": "北京",
+      "pinyin": "běi jīng",
+      "meaning": "Beijing, capital of People's Republic of China",
+      "hsk": 1
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看书",
+      "traditional": "看書",
+      "pinyin": "kàn shū",
+      "meaning": "to read\nto study",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "meaning": "movie\nfilm",
+      "hsk": 1
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一起",
+      "traditional": "一起",
+      "pinyin": "yì qǐ",
+      "meaning": "together",
+      "hsk": 2
+    },
+    {
+      "hanzi": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "job\nwork",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hanzi": "自我",
+        "pinyin": "zì wǒ",
+        "meaning": "self-\nego (psychology)",
+        "tc_hanzi": "自我"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "介绍",
+        "pinyin": "jiè shào",
+        "meaning": "to introduce (sb to sb)\nto give a presentation\nintroduction",
+        "tc_hanzi": "介紹"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "to call\nto shout\nto cry out",
+        "tc_hanzi": "叫"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "surname Zhang",
+        "tc_hanzi": "張"
+      },
+      {
+        "hanzi": "亮",
+        "pinyin": "liàng",
+        "meaning": "first name Liang",
+        "tc_hanzi": "亮"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "今年",
+        "pinyin": "jīn nián",
+        "meaning": "this year",
+        "tc_hanzi": "今年"
+      },
+      {
+        "hanzi": "23",
+        "pinyin": "3",
+        "tc_hanzi": "23"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "来自",
+        "pinyin": "lái zì",
+        "meaning": "to come from",
+        "tc_hanzi": "來自"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China",
+        "tc_hanzi": "北京"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "hanzi": "看书",
+        "pinyin": "kàn shū",
+        "meaning": "to read\nto study",
+        "tc_hanzi": "看書"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie\nfilm",
+        "tc_hanzi": "電影"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n\n    ",
+        "tc_hanzi": "\n\n    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "g": "neng",
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "一起",
+        "pinyin": "yì qǐ",
+        "meaning": "together",
+        "tc_hanzi": "一起"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "job\nwork",
+        "tc_hanzi": "工作"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "大家",
+        "pinyin": "dà jiā",
+        "meaning": "everyone",
+        "tc_hanzi": "大家"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "If you work in China you will probably have to introduce yourself at some point. Here we see an example of a simple self introduction in Chinese.",
+    "syllable_times": [
+      0.4195579034276307,
+      0.7709750566893424,
+      1.08843537414966,
+      4.399092970521542,
+      4.671201814058957,
+      4.988662131519274,
+      6.394557823129252,
+      6.984126984126984,
+      7.392290249433106,
+      7.688882549279229,
+      9.297052154195011,
+      9.65986394557823,
+      10.29478458049887,
+      10.56689342403628,
+      10.9607939875646,
+      11.38321995464853,
+      13.15192743764172,
+      13.56009070294785,
+      14.05895691609977,
+      14.42176870748299,
+      16.55328798185941,
+      16.96145124716553,
+      17.37981400804225,
+      17.95918367346939,
+      18.35510561419394,
+      19.50113378684807,
+      19.86394557823129,
+      20.22675736961451,
+      22.72108843537415,
+      23.17460317460317,
+      23.47859841480095,
+      23.94557823129252,
+      24.28378101987968,
+      24.71655328798186,
+      25.03401360544218,
+      25.57823129251701,
+      25.89569160997732,
+      26.25850340136055,
+      26.57596371882086,
+      28.02721088435374,
+      28.51382484656088,
+      28.84353741496599,
+      29.1156462585034,
+      29.93918418884277
+    ],
+    "sentence_indices": [
+      2,
+      3,
+      6,
+      18,
+      25,
+      26,
+      34
+    ],
+    "sentence_translations": [
+      "Self introduction",
+      "",
+      "Hi everyone!",
+      "My name is Liang Zhang; I'm 23 years old and come from Beijing.",
+      "I like to read and to watch movies.",
+      "",
+      "I am very happy to be able to work together with everyone.",
+      "Thank you everyone."
+    ]
+  }
+}

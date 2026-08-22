@@ -1,0 +1,1934 @@
+{
+  "id": "1774",
+  "title": "A Wrong Number",
+  "level": "newbie",
+  "date": "2022-09-12",
+  "synopsis": "null",
+  "audioUrl": "https://static.duchinese.net/documents/1774/ef7153a68419e92e6be6f88a077c8ffd178d4b80.mp3?1660116131",
+  "series": {
+    "title": "A Wrong Number",
+    "chapter": 9,
+    "totalChapters": 16
+  },
+  "fullText": {
+    "simplified": "十、老关不见了\n\n    这个星期一小东打电话，但是老关没接电话。\n    这个星期三小东打电话，但是老关也没接电话\n    ……\n    五天了，老关都没接电话。\n    老关去哪儿了？她在睡觉吗？她不想和我做朋友了吗？她不住在那个老年公寓了吗？她……她在哪儿？小东想了很多很多。五天了，老关都没接电话。小东不知道怎么办了，他太不高兴了。这时候，爸爸回来了。\n    小东说：“爸爸，老关不见了！怎么办？怎么办？”\n    爸爸问：“老关？老关是谁？”\n    小东说：“老关是我的朋友，好朋友！她六十四岁了，她住在老年公寓，她不见了！怎么办？怎么办？”",
+    "traditional": "十、老關不見了\n\n    這個星期一小東打電話，但是老關沒接電話。\n    這個星期三小東打電話，但是老關也沒接電話\n    ……\n    五天了，老關都沒接電話。\n    老關去哪兒了？她在睡覺嗎？她不想和我做朋友了嗎？她不住在那個老年公寓了嗎？她……她在哪兒？小東想了很多很多。五天了，老關都沒接電話。小東不知道怎麼辦了，他太不高興了。這時候，爸爸回來了。\n    小東說：“爸爸，老關不見了！怎麼辦？怎麼辦？”\n    爸爸問：“老關？老關是誰？”\n    小東說：“老關是我的朋友，好朋友！她六十四歲了，她住在老年公寓，她不見了！怎麼辦？怎麼辦？”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 2,
+      "simplified": "这个星期一小东打电话，但是老关没接电话。",
+      "traditional": "這個星期一小東打電話，但是老關沒接電話。",
+      "pinyin": "zhè ge xīng qī yī xiǎo dōng dǎ diàn huà dàn shì lǎo guān méi jiē diàn huà",
+      "english": "This Monday, Little Dong called, but Old Guan did not answer the phone."
+    },
+    {
+      "index": 3,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 4,
+      "simplified": "这个星期三小东打电话，但是老关也没接电话",
+      "traditional": "這個星期三小東打電話，但是老關也沒接電話",
+      "pinyin": "zhè ge xīng qī sān xiǎo dōng dǎ diàn huà dàn shì lǎo guān yě méi jiē diàn huà",
+      "english": "This Wednesday, Little Dong called, but Old Guan also did not answer the phone."
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ……",
+      "traditional": "\n    ……",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 6,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "五天了，老关都没接电话。",
+      "traditional": "五天了，老關都沒接電話。",
+      "pinyin": "wǔ tiān le lǎo guān dōu méi jiē diàn huà",
+      "english": "Five days had passed, and Old Guan still had not answered the phone."
+    },
+    {
+      "index": 8,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "老关去哪儿了？她在睡觉吗？她不想和我做朋友了吗？",
+      "traditional": "老關去哪兒了？她在睡覺嗎？她不想和我做朋友了嗎？",
+      "pinyin": "lǎo guān qù nǎ'r le tā zài shuì jiào ma tā bù xiǎng hé wǒ zuò péng you le ma",
+      "english": "Where has Old Guan gone? Is she sleeping? She doesn’t want to be friends with me anymore?"
+    },
+    {
+      "index": 10,
+      "simplified": "她不住在那个老年公寓了吗？她……她在哪儿？",
+      "traditional": "她不住在那個老年公寓了嗎？她……她在哪兒？",
+      "pinyin": "tā bú zhù zài nà ge lǎo nián gōng yù le ma tā tā zài nǎ'r",
+      "english": "She’s not living in that senior apartment anymore? Where … Where is she?"
+    },
+    {
+      "index": 11,
+      "simplified": "小东想了很多很多。五天了，老关都没接电话。",
+      "traditional": "小東想了很多很多。五天了，老關都沒接電話。",
+      "pinyin": "xiǎo dōng xiǎng le hěn duō hěn duō wǔ tiān le lǎo guān dōu méi jiē diàn huà",
+      "english": "Little Dong thought about this a lot. Five days had passed, and Old Guan still had not answered the phone."
+    },
+    {
+      "index": 12,
+      "simplified": "小东不知道怎么办了，他太不高兴了。这时候，爸爸回来了。",
+      "traditional": "小東不知道怎麼辦了，他太不高興了。這時候，爸爸回來了。",
+      "pinyin": "xiǎo dōng bù zhī dào zěn me bàn le tā tài bù gāo xìng le zhè shí hou bà ba huí lái le",
+      "english": "Little Dong did not know what to do. He was very unhappy. At this time, Dad returned home."
+    },
+    {
+      "index": 13,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 14,
+      "simplified": "小东说：“爸爸，老关不见了！怎么办？怎么办？”",
+      "traditional": "小東說：“爸爸，老關不見了！怎麼辦？怎麼辦？”",
+      "pinyin": "xiǎo dōng shuō bà ba lǎo guān bú jiàn le zěn me bàn zěn me bàn",
+      "english": "Little Dong said, “Dad, Old Guan disappeared! What shall I do? What shall I do?”"
+    },
+    {
+      "index": 15,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 16,
+      "simplified": "爸爸问：“老关？老关是谁？”",
+      "traditional": "爸爸問：“老關？老關是誰？”",
+      "pinyin": "bà ba wèn lǎo guān lǎo guān shì shéi",
+      "english": "Dad asked, “Old Guan? Who is Old Guan?”"
+    },
+    {
+      "index": 17,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": ""
+    },
+    {
+      "index": 18,
+      "simplified": "小东说：“老关是我的朋友，好朋友！",
+      "traditional": "小東說：“老關是我的朋友，好朋友！",
+      "pinyin": "xiǎo dōng shuō lǎo guān shì wǒ de péng you hǎo péng you",
+      "english": "Little Dong said, “Old Guan is my friend, my good friend!"
+    },
+    {
+      "index": 19,
+      "simplified": "她六十四岁了，她住在老年公寓，她不见了！怎么办？怎么办？”",
+      "traditional": "她六十四歲了，她住在老年公寓，她不見了！怎麼辦？怎麼辦？”",
+      "pinyin": "tā liù shí sì suì le tā zhù zài lǎo nián gōng yù tā bú jiàn le zěn me bàn zěn me bàn",
+      "english": "She is 64 years old. She lives in a senior apartment. She has disappeared! What shall I do? What shall I do?”"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老关",
+      "traditional": "老關",
+      "pinyin": "lǎo guān",
+      "meaning": "Old Guan (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "不见",
+      "traditional": "不見",
+      "pinyin": "bú jiàn",
+      "meaning": "not to see\nto have disappeared\nto be missing",
+      "hsk": null
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "meaning": "this\nthese",
+      "hsk": 1
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "星期一",
+      "traditional": "星期一",
+      "pinyin": "xīng qī yī",
+      "meaning": "Monday",
+      "hsk": null
+    },
+    {
+      "hanzi": "小东",
+      "traditional": "小東",
+      "pinyin": "xiǎo dōng",
+      "meaning": "Little Dong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "meaning": "to call",
+      "hsk": null
+    },
+    {
+      "hanzi": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "meaning": "telephone\nphone number",
+      "hsk": 1
+    },
+    {
+      "hanzi": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "but\nhowever",
+      "hsk": 2
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "接",
+      "traditional": "接",
+      "pinyin": "jiē",
+      "meaning": "to receive\nto answer (the phone)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "星期三",
+      "traditional": "星期三",
+      "pinyin": "xīng qī sān",
+      "meaning": "Wednesday",
+      "hsk": null
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "meaning": "to sleep\nto go to bed",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "meaning": "to act as\nto be\nto become",
+      "hsk": 1
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "meaning": "to live\nto stay",
+      "hsk": 1
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "that\nthose",
+      "hsk": 1
+    },
+    {
+      "hanzi": "老年",
+      "traditional": "老年",
+      "pinyin": "lǎo nián",
+      "meaning": "elderly\nold age",
+      "hsk": null
+    },
+    {
+      "hanzi": "公寓",
+      "traditional": "公寓",
+      "pinyin": "gōng yù",
+      "meaning": "apartment\napartment building",
+      "hsk": 5
+    },
+    {
+      "hanzi": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "hsk": 1
+    },
+    {
+      "hanzi": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "meaning": "many\nmuch\nmore",
+      "hsk": 1
+    },
+    {
+      "hanzi": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "meaning": "to know\nto be aware of\nto realize",
+      "hsk": 2
+    },
+    {
+      "hanzi": "怎么办",
+      "traditional": "怎麼辦",
+      "pinyin": "zěn me bàn",
+      "meaning": "what to do\nwhat should we do",
+      "hsk": 3
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "meaning": "too (much)\nvery",
+      "hsk": 1
+    },
+    {
+      "hanzi": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "meaning": "happy\nglad\nin a cheerful mood",
+      "hsk": 1
+    },
+    {
+      "hanzi": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "meaning": "time",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lái",
+      "meaning": "to return\nto come back",
+      "hsk": 1
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "meaning": "is\nare",
+      "hsk": 1
+    },
+    {
+      "hanzi": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "hsk": 1
+    },
+    {
+      "hanzi": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "hsk": 1
+    },
+    {
+      "hanzi": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "meaning": "years old",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hanzi": "、",
+        "tc_hanzi": "、"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hanzi": "不见",
+        "pinyin": "bú jiàn",
+        "meaning": "not to see\nto have disappeared\nto be missing",
+        "tc_hanzi": "不見"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "xīng qī yī",
+        "meaning": "Monday",
+        "tc_hanzi": "星期一"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to call",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "星期三",
+        "pinyin": "xīng qī sān",
+        "meaning": "Wednesday",
+        "tc_hanzi": "星期三"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "to call",
+        "tc_hanzi": "打"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "但是",
+        "pinyin": "dàn shì",
+        "meaning": "but\nhowever",
+        "tc_hanzi": "但是"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "g": "ye",
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "zhengzai",
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in the middle of doing sth\n(indicating an action in progress)",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to sleep\nto go to bed",
+        "tc_hanzi": "睡覺"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "to act as\nto be\nto become",
+        "tc_hanzi": "做"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "that\nthose",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "classifiers",
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hanzi": "老年",
+        "pinyin": "lǎo nián",
+        "meaning": "elderly\nold age",
+        "tc_hanzi": "老年"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "公寓",
+        "pinyin": "gōng yù",
+        "meaning": "apartment\napartment building",
+        "tc_hanzi": "公寓"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hanzi": "……",
+        "tc_hanzi": "……"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "very",
+        "tc_hanzi": "很"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many\nmuch\nmore",
+        "tc_hanzi": "多"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five",
+        "tc_hanzi": "五"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "g": "dou",
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "mei",
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "接",
+        "pinyin": "jiē",
+        "meaning": "to receive\nto answer (the phone)",
+        "tc_hanzi": "接"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "电话",
+        "pinyin": "diàn huà",
+        "meaning": "telephone\nphone number",
+        "tc_hanzi": "電話"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "知道",
+        "pinyin": "zhī dào",
+        "meaning": "to know\nto be aware of\nto realize",
+        "tc_hanzi": "知道"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)\nvery",
+        "tc_hanzi": "太"
+      },
+      {
+        "g": "bu",
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy\nglad\nin a cheerful mood",
+        "tc_hanzi": "高興"
+      },
+      {
+        "g": "tai-le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(used for emphasis)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "这",
+        "pinyin": "zhè",
+        "meaning": "this\nthese",
+        "tc_hanzi": "這"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time",
+        "tc_hanzi": "時候"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回来",
+        "pinyin": "huí lái",
+        "meaning": "to return\nto come back",
+        "tc_hanzi": "回來"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hanzi": "不见",
+        "pinyin": "bú jiàn",
+        "meaning": "not to see\nto have disappeared\nto be missing",
+        "tc_hanzi": "不見"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who",
+        "tc_hanzi": "誰"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小东",
+        "pinyin": "xiǎo dōng",
+        "meaning": "Little Dong (name)",
+        "tc_hanzi": "小東"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "老关",
+        "pinyin": "lǎo guān",
+        "meaning": "Old Guan (name)",
+        "tc_hanzi": "老關"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "is\nare",
+        "tc_hanzi": "是"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "de",
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "tc_hanzi": "六"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "四",
+        "pinyin": "sì",
+        "meaning": "four",
+        "tc_hanzi": "四"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "years old",
+        "tc_hanzi": "歲"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "to live\nto stay",
+        "tc_hanzi": "住"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "老年",
+        "pinyin": "lǎo nián",
+        "meaning": "elderly\nold age",
+        "tc_hanzi": "老年"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "公寓",
+        "pinyin": "gōng yù",
+        "meaning": "apartment\napartment building",
+        "tc_hanzi": "公寓"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hanzi": "不见",
+        "pinyin": "bú jiàn",
+        "meaning": "not to see\nto have disappeared\nto be missing",
+        "tc_hanzi": "不見"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "怎么办",
+        "pinyin": "zěn me bàn",
+        "meaning": "what to do\nwhat should we do",
+        "tc_hanzi": "怎麼辦"
+      },
+      {
+        "hanzi": "？”",
+        "tc_hanzi": "？”"
+      }
+    ],
+    "version": 2,
+    "syllable_times": [
+      1.5,
+      1.92,
+      2.77,
+      3.2709750566893425,
+      3.883219954648526,
+      6.08,
+      6.462585034013605,
+      6.967120181405895,
+      7.358276643990929,
+      7.687074829931973,
+      8.61,
+      9.104308390022675,
+      9.84,
+      10.18140589569161,
+      10.555555555555555,
+      12,
+      12.295918367346939,
+      13.214285714285714,
+      13.628117913832199,
+      14.41,
+      15.034013605442176,
+      15.515873015873016,
+      15.929705215419501,
+      18.16,
+      18.51,
+      19.16,
+      19.733560090702948,
+      20.045351473922903,
+      21.38,
+      21.853741496598637,
+      22.63,
+      23.043333333333333,
+      23.424036281179138,
+      24.94,
+      25.27777777777778,
+      26.37,
+      26.69501133786848,
+      27.54,
+      28.1859410430839,
+      28.66,
+      29.17800453514739,
+      29.625850340136054,
+      31.54,
+      32.11451247165533,
+      32.590702947845806,
+      33.83,
+      34.240362811791385,
+      35.2,
+      35.708616780045354,
+      36.17913832199547,
+      36.55328798185941,
+      37.02947845804989,
+      38.62,
+      39.064625850340136,
+      39.93,
+      40.41383219954648,
+      40.90136054421769,
+      42.29,
+      42.585034013605444,
+      43.33,
+      43.98526077097505,
+      44.631519274376416,
+      46.14,
+      47.27,
+      47.755102040816325,
+      48.21995464852608,
+      48.616780045351476,
+      49.6,
+      50.090702947845806,
+      50.73696145124716,
+      51.19047619047619,
+      51.45691609977324,
+      53.54,
+      54.71,
+      55.144999999999996,
+      55.60657596371882,
+      55.980725623582764,
+      56.31519274376417,
+      57.04,
+      57.590702947845806,
+      58.11224489795918,
+      58.548752834467116,
+      58.89455782312925,
+      59.13265306122449,
+      60.74,
+      62.2,
+      62.590702947845806,
+      62.90816326530612,
+      64.77324263038548,
+      65.25510204081633,
+      66.29,
+      66.80272108843538,
+      67.09183673469387,
+      67.77210884353741,
+      68.49773242630386,
+      69.13265306122449,
+      70.81,
+      71.36054421768708,
+      71.80272108843538,
+      72.98185941043084,
+      73.34467120181405,
+      74.34,
+      74.80725623582767,
+      75.24943310657596,
+      75.7312925170068,
+      76.14512471655328,
+      77.64,
+      78.20294784580499,
+      79,
+      79.37641723356009,
+      79.72222222222221,
+      80.48,
+      80.94104308390023,
+      81.36621315192744,
+      81.8424036281179,
+      83.16,
+      84.39342403628117,
+      85.06235827664399,
+      85.41950113378685,
+      85.75,
+      86.24716553287982,
+      88.39002267573696,
+      88.78684807256235,
+      89.13265306122449,
+      90.11,
+      90.69160997732426,
+      91.05442176870748,
+      91.5702947845805,
+      91.88775510204081,
+      93.56,
+      94.22335600907029,
+      94.59183673469387,
+      96.40022675736961,
+      96.70068027210884,
+      97.47165532879818,
+      97.82312925170068,
+      98.59,
+      98.93990929705215,
+      99.38775510204081,
+      100.5,
+      100.73696145124717,
+      100.90702947845804,
+      101.75170068027211,
+      102.10884353741497,
+      102.38095238095238,
+      104.14,
+      104.6031746031746,
+      104.8639455782313,
+      106.46,
+      106.89342403628117,
+      108.22,
+      108.59410430839002,
+      109.44,
+      109.87528344671202,
+      111.7,
+      112.34,
+      112.82312925170068,
+      114.19,
+      114.62018140589569,
+      115.34,
+      116.00340136054422,
+      116.34920634920634,
+      116.58163265306122,
+      117.13718820861678,
+      118.15,
+      118.75850340136054,
+      119.33673469387755,
+      120.65,
+      121.48,
+      122.01814058956916,
+      122.40929705215419,
+      123.04421768707482,
+      123.48639455782313,
+      124.75,
+      125.21541950113378,
+      125.59523809523809,
+      126.32,
+      126.78571428571428,
+      127.18820861678005,
+      127.4829931972789,
+      128.88,
+      129.34807256235828,
+      129.7845804988662,
+      130.3174603174603,
+      131.5,
+      131.9047619047619,
+      132.15986394557822,
+      133.1972789115646,
+      133.54,
+      133.81519274376416,
+      135
+    ],
+    "sentence_indices": [
+      5,
+      8,
+      21,
+      23,
+      36,
+      39,
+      41,
+      51,
+      53,
+      73,
+      90,
+      108,
+      127,
+      129,
+      142,
+      144,
+      153,
+      155,
+      167
+    ],
+    "sentence_translations": [
+      "(10) Old Guan Disappeared",
+      "",
+      "This Monday, Little Dong called, but Old Guan did not answer the phone.",
+      "",
+      "This Wednesday, Little Dong called, but Old Guan also did not answer the phone.",
+      "",
+      "",
+      "Five days had passed, and Old Guan still had not answered the phone.",
+      "",
+      "Where has Old Guan gone? Is she sleeping? She doesn’t want to be friends with me anymore?",
+      "She’s not living in that senior apartment anymore? Where … Where is she?",
+      "Little Dong thought about this a lot. Five days had passed, and Old Guan still had not answered the phone.",
+      "Little Dong did not know what to do. He was very unhappy. At this time, Dad returned home.",
+      "",
+      "Little Dong said, “Dad, Old Guan disappeared! What shall I do? What shall I do?”",
+      "",
+      "Dad asked, “Old Guan? Who is Old Guan?”",
+      "",
+      "Little Dong said, “Old Guan is my friend, my good friend!",
+      "She is 64 years old. She lives in a senior apartment. She has disappeared! What shall I do? What shall I do?”"
+    ]
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "id": "E191",
+  "title": "Your Package Arrived",
+  "level": "elementary",
+  "date": "2018-02-03",
+  "synopsis": "What do you say when the delivery man calls you?",
+  "audioUrl": "https://static.duchinese.net/documents/647/7824d7621653985b69a17da28f6e5de99b166418.mp3?1517217144",
+  "series": null,
+  "fullText": {
+    "simplified": "你的快递到了  \n\n快递员：你好，你的快递到了。家里没有人，放在哪里？\n林红：你好，请把快递放在我家门口。\n快递员：我不能进小区。\n林红：那把快递放在门卫那里吧。谢谢！\n快递员：好的！",
+    "traditional": "你的快遞到了  \n\n快遞員：你好，你的快遞到了。家裡沒有人，放在哪裏？\n林紅：你好，請把快遞放在我家門口。\n快遞員：我不能進小區。\n林紅：那把快遞放在門衛那裡吧。謝謝！\n快遞員：好的！"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "Your Package Arrived"
+    },
+    {
+      "index": 2,
+      "simplified": "快递员：你好，你的快递到了。家里没有人，放在哪里？",
+      "traditional": "快遞員：你好，你的快遞到了。家裡沒有人，放在哪裏？",
+      "pinyin": "kuài dì yuán nǐ hǎo nǐ de kuài dì dào le jiā lǐ méi yǒu rén fàng zài nǎ lǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery man: Hello! Your package arrived. No one is at home. Where should I put it?"
+    },
+    {
+      "index": 4,
+      "simplified": "林红：你好，请把快递放在我家门口。",
+      "traditional": "林紅：你好，請把快遞放在我家門口。",
+      "pinyin": "lín hóng nǐ hǎo qǐng bǎ kuài dì fàng zài wǒ jiā mén kǒu",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Hong: Hello! Please put it at my door."
+    },
+    {
+      "index": 6,
+      "simplified": "快递员：我不能进小区。",
+      "traditional": "快遞員：我不能進小區。",
+      "pinyin": "kuài dì yuán wǒ bù néng jìn xiǎo qū",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Delivery man: I can't get through the gate to the community."
+    },
+    {
+      "index": 8,
+      "simplified": "林红：那把快递放在门卫那里吧。谢谢！",
+      "traditional": "林紅：那把快遞放在門衛那裡吧。謝謝！",
+      "pinyin": "lín hóng nà bǎ kuài dì fàng zài mén wèi nà lǐ ba xiè xie",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Lin Hong: Then please leave it at the security gate. Thank you!"
+    },
+    {
+      "index": 10,
+      "simplified": "快递员：好的！",
+      "traditional": "快遞員：好的！",
+      "pinyin": "kuài dì yuán hǎo de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Delivery man: Ok!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "快递",
+      "traditional": "快遞",
+      "pinyin": "kuài dì",
+      "meaning": "express delivery",
+      "hsk": null
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive\nto reach",
+      "hsk": 2
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "员",
+      "traditional": "員",
+      "pinyin": "yuán",
+      "meaning": "person\nemployee\nmember",
+      "hsk": null
+    },
+    {
+      "hanzi": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello\nhi",
+      "hsk": null
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "meaning": "to not have",
+      "hsk": 1
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "放",
+      "traditional": "放",
+      "pinyin": "fàng",
+      "meaning": "to put\nto place",
+      "hsk": 3
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪里",
+      "traditional": "哪裏",
+      "pinyin": "nǎ lǐ",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "林红",
+      "traditional": "林紅",
+      "pinyin": "lín hóng",
+      "meaning": "Lin Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "meaning": "to ask\nto invite\nplease (do sth)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "把",
+      "traditional": "把",
+      "pinyin": "bǎ",
+      "meaning": "particle marking the following noun as a direct object",
+      "hsk": 3
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "home\nfamily",
+      "hsk": 1
+    },
+    {
+      "hanzi": "门口",
+      "traditional": "門口",
+      "pinyin": "mén kǒu",
+      "meaning": "doorway\ngate\nentrance",
+      "hsk": null
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "meaning": "to be able to\nto be capable of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "进",
+      "traditional": "進",
+      "pinyin": "jìn",
+      "meaning": "to go forward\nto go in\nto enter",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小区",
+      "traditional": "小區",
+      "pinyin": "xiǎo qū",
+      "meaning": "housing estate\nneighborhood\nresidential community",
+      "hsk": null
+    },
+    {
+      "hanzi": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "meaning": "then (in that case)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "门卫",
+      "traditional": "門衛",
+      "pinyin": "mén wèi",
+      "meaning": "guard at gate\nsentry",
+      "hsk": null
+    },
+    {
+      "hanzi": "那里",
+      "traditional": "那裡",
+      "pinyin": "nà lǐ",
+      "meaning": "there\nthat place",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "to thank\nthank you",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "  ",
+        "tc_hanzi": "  "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hanzi": "员",
+        "pinyin": "yuán",
+        "meaning": "person\nemployee\nmember",
+        "tc_hanzi": "員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to arrive\nto reach",
+        "tc_hanzi": "到"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "to not have",
+        "tc_hanzi": "沒有"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "哪里",
+        "pinyin": "nǎ lǐ",
+        "meaning": "where",
+        "tc_hanzi": "哪裏"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "你好",
+        "pinyin": "nǐ hǎo",
+        "meaning": "hello\nhi",
+        "tc_hanzi": "你好"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "qing",
+        "hsk": 1,
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "to ask\nto invite\nplease (do sth)",
+        "tc_hanzi": "請"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home\nfamily",
+        "tc_hanzi": "家"
+      },
+      {
+        "hanzi": "门口",
+        "pinyin": "mén kǒu",
+        "meaning": "doorway\ngate\nentrance",
+        "tc_hanzi": "門口"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hanzi": "员",
+        "pinyin": "yuán",
+        "meaning": "person\nemployee\nmember",
+        "tc_hanzi": "員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "neng",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "to be able to\nto be capable of",
+        "tc_hanzi": "能"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "进",
+        "pinyin": "jìn",
+        "meaning": "to go forward\nto go in\nto enter",
+        "tc_hanzi": "進"
+      },
+      {
+        "hanzi": "小区",
+        "pinyin": "xiǎo qū",
+        "meaning": "housing estate\nneighborhood\nresidential community",
+        "tc_hanzi": "小區"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那",
+        "pinyin": "nà",
+        "meaning": "then (in that case)",
+        "tc_hanzi": "那"
+      },
+      {
+        "g": "ba",
+        "hsk": 3,
+        "hanzi": "把",
+        "pinyin": "bǎ",
+        "meaning": "particle marking the following noun as a direct object",
+        "tc_hanzi": "把"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "放",
+        "pinyin": "fàng",
+        "meaning": "to put\nto place",
+        "tc_hanzi": "放"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "门卫",
+        "pinyin": "mén wèi",
+        "meaning": "guard at gate\nsentry",
+        "tc_hanzi": "門衛"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "那里",
+        "pinyin": "nà lǐ",
+        "meaning": "there\nthat place",
+        "tc_hanzi": "那裡"
+      },
+      {
+        "g": "ba-confirmation",
+        "hsk": 2,
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": "(indicates a suggested action)\n(indicates a speculation)\n(used to concede a point)",
+        "tc_hanzi": "吧"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank\nthank you",
+        "tc_hanzi": "謝謝"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuài dì",
+        "meaning": "express delivery",
+        "tc_hanzi": "快遞"
+      },
+      {
+        "hanzi": "员",
+        "pinyin": "yuán",
+        "meaning": "person\nemployee\nmember",
+        "tc_hanzi": "員"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What do you say when the delivery man calls you?",
+    "syllable_times": [
+      0.1820995078023784,
+      0.36281179138322,
+      0.6802721088435374,
+      0.9070294784580499,
+      1.26984126984127,
+      3.882646978798082,
+      3.882646978798082,
+      3.882646978798082,
+      3.882646978798082,
+      4.172335600907029,
+      5.079365079365079,
+      5.306122448979592,
+      5.532879818594104,
+      5.895691609977324,
+      6.213151927437642,
+      6.530612244897959,
+      8.02721088435374,
+      8.390022675736962,
+      8.75283446712018,
+      8.979591836734693,
+      9.160997732426305,
+      10.38548752834467,
+      10.65759637188209,
+      11.06575963718821,
+      11.29251700680272,
+      13.36079271392284,
+      13.36079271392284,
+      13.36079271392284,
+      13.65079365079365,
+      14.69387755102041,
+      15.05668934240363,
+      15.23809523809524,
+      15.60090702947846,
+      15.91836734693878,
+      16.19047619047619,
+      16.4172335600907,
+      16.59863945578231,
+      16.82539682539683,
+      17.0822066504517,
+      19.24191213235035,
+      19.24191213235035,
+      19.24191213235035,
+      19.24191213235035,
+      19.72789115646259,
+      19.9546485260771,
+      20.31746031746032,
+      20.70786564946495,
+      20.99773242630386,
+      23.13987816067958,
+      23.13987816067958,
+      23.13987816067958,
+      23.80952380952381,
+      24.08163265306122,
+      24.44444444444444,
+      24.85260770975057,
+      25.17006802721088,
+      25.4875283446712,
+      25.75963718820862,
+      26.03365566039892,
+      26.24789298299115,
+      26.39455782312925,
+      27.39229024943311,
+      27.80045351473923,
+      29.47520296454219,
+      29.47520296454219,
+      29.47520296454219,
+      29.47520296454219,
+      29.88662131519274,
+      30.45793650793651,
+      30.45793650793651
+    ],
+    "sentence_indices": [
+      6,
+      8,
+      27,
+      28,
+      41,
+      42,
+      51,
+      52,
+      65,
+      66,
+      71
+    ],
+    "sentence_translations": [
+      "Your Package Arrived",
+      "",
+      "Delivery man: Hello! Your package arrived. No one is at home. Where should I put it?",
+      "",
+      "Lin Hong: Hello! Please put it at my door.",
+      "",
+      "Delivery man: I can't get through the gate to the community.",
+      "",
+      "Lin Hong: Then please leave it at the security gate. Thank you!",
+      "",
+      "Delivery man: Ok!",
+      ""
+    ]
+  }
+}

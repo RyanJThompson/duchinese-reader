@@ -1,0 +1,966 @@
+{
+  "id": "145",
+  "title": "Lying",
+  "level": "elementary",
+  "date": "2016-07-02",
+  "synopsis": "Little Ming visits his father's office. This time he can't stop himself from telling a lie.",
+  "audioUrl": "https://static.duchinese.net/documents/166/665de49a1c86d0710ea4b9d3f6973da95d5484f8.mp3",
+  "series": null,
+  "fullText": {
+    "simplified": "说谎   \n\n    一天，小明去他爸爸的公司玩。爸爸的一个女同事逗他说：“小明，你好帅啊！”小明也对女同事说：“姐姐，你好漂亮啊！”\n    说完他马上跑到他爸爸的面前说：“爸爸，对不起，我又说谎了！”\n    全公司的人都笑了。",
+    "traditional": "說謊   \n\n    一天，小明去他爸爸的公司玩。爸爸的一個女同事逗他說：“小明，你好帥啊！”小明也對女同事說：“姐姐，你好漂亮啊！”\n    說完他馬上跑到他爸爸的面前說：“爸爸，對不起，我又說謊了！”\n    全公司的人都笑了。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Lying"
+    },
+    {
+      "index": 2,
+      "simplified": "一天，小明去他爸爸的公司玩。",
+      "traditional": "一天，小明去他爸爸的公司玩。",
+      "pinyin": "yì tiān xiǎo míng qù tā bà ba de gōng sī wán",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "爸爸的一个女同事逗他说：“小明，你好帅啊！”",
+      "traditional": "爸爸的一個女同事逗他說：“小明，你好帥啊！”",
+      "pinyin": "bà ba de yí ge nǚ tóng shì dòu tā shuō xiǎo míng nǐ hǎo shuài a",
+      "english": "One day, Little Ming went to his dad's office to play."
+    },
+    {
+      "index": 4,
+      "simplified": "小明也对女同事说：“姐姐，你好漂亮啊！”",
+      "traditional": "小明也對女同事說：“姐姐，你好漂亮啊！”",
+      "pinyin": "xiǎo míng yě duì nǚ tóng shì shuō jiě jie nǐ hǎo piào liang a",
+      "english": "One of dad's female colleagues joked with Little Ming and said: “Little Ming, you're so handsome!”"
+    },
+    {
+      "index": 5,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "Little Ming replied to the female colleague: “Miss, you're very beautiful!”"
+    },
+    {
+      "index": 6,
+      "simplified": "说完他马上跑到他爸爸的面前说：“爸爸，对不起，我又说谎了！”",
+      "traditional": "說完他馬上跑到他爸爸的面前說：“爸爸，對不起，我又說謊了！”",
+      "pinyin": "shuō wán tā mǎ shàng pǎo dào tā bà ba de miàn qián shuō bà ba duì bu qǐ wǒ yòu shuō huǎng le",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n    ",
+      "traditional": "\n    ",
+      "pinyin": "",
+      "english": "After he finished speaking he ran over to his dad and said: “Dad, I'm sorry! I told a lie again!”"
+    },
+    {
+      "index": 8,
+      "simplified": "全公司的人都笑了。",
+      "traditional": "全公司的人都笑了。",
+      "pinyin": "quán gōng sī de rén dōu xiào le",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Everyone at the company laughed."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "说谎",
+      "traditional": "說謊",
+      "pinyin": "shuō huǎng",
+      "meaning": "to lie\nto tell an untruth",
+      "hsk": 6
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "小明",
+      "traditional": "小明",
+      "pinyin": "xiǎo míng",
+      "meaning": "Little Ming (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "meaning": "father (informal)\ndad",
+      "hsk": 1
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "company\nfirm",
+      "hsk": 2
+    },
+    {
+      "hanzi": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "meaning": "to play\nto have fun",
+      "hsk": 2
+    },
+    {
+      "hanzi": "个",
+      "traditional": "個",
+      "pinyin": "ge",
+      "meaning": "classifier for people or objects in general",
+      "hsk": 1
+    },
+    {
+      "hanzi": "女",
+      "traditional": "女",
+      "pinyin": "nǚ",
+      "meaning": "female\nwoman",
+      "hsk": 2
+    },
+    {
+      "hanzi": "同事",
+      "traditional": "同事",
+      "pinyin": "tóng shì",
+      "meaning": "colleague\ncoworker",
+      "hsk": 3
+    },
+    {
+      "hanzi": "逗",
+      "traditional": "逗",
+      "pinyin": "dòu",
+      "meaning": "to tease (play with)\namusing",
+      "hsk": 5
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "帅",
+      "traditional": "帥",
+      "pinyin": "shuài",
+      "meaning": "handsome\nsmart",
+      "hsk": 4
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "meaning": "also\ntoo",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "meaning": "towards\nat",
+      "hsk": 2
+    },
+    {
+      "hanzi": "姐姐",
+      "traditional": "姐姐",
+      "pinyin": "jiě jie",
+      "meaning": "older sister",
+      "hsk": 2
+    },
+    {
+      "hanzi": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "meaning": "pretty\nbeautiful\ngood-looking",
+      "hsk": 1
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "meaning": "at once\nright away\nimmediately",
+      "hsk": 3
+    },
+    {
+      "hanzi": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "hsk": 2
+    },
+    {
+      "hanzi": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "meaning": "to (a place)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "面",
+      "traditional": "面",
+      "pinyin": "miàn",
+      "meaning": "face\nside\nsurface",
+      "hsk": 5
+    },
+    {
+      "hanzi": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "meaning": "before\nago",
+      "hsk": 1
+    },
+    {
+      "hanzi": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "meaning": "I'm sorry",
+      "hsk": 1
+    },
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "又",
+      "traditional": "又",
+      "pinyin": "yòu",
+      "meaning": "(once) again\nalso",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "全",
+      "traditional": "全",
+      "pinyin": "quán",
+      "meaning": "all\nentire",
+      "hsk": 4
+    },
+    {
+      "hanzi": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "meaning": "person\npeople",
+      "hsk": 1
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "meaning": "laugh\nsmile",
+      "hsk": 2
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 6,
+        "hanzi": "说谎",
+        "pinyin": "shuō huǎng",
+        "meaning": "to lie\nto tell an untruth",
+        "tc_hanzi": "說謊"
+      },
+      {
+        "hanzi": "   ",
+        "tc_hanzi": "   "
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "to play\nto have fun",
+        "tc_hanzi": "玩"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yí",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "个",
+        "pinyin": "ge",
+        "meaning": "classifier for people or objects in general",
+        "tc_hanzi": "個"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女",
+        "pinyin": "nǚ",
+        "meaning": "female\nwoman",
+        "tc_hanzi": "女"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "逗",
+        "pinyin": "dòu",
+        "meaning": "to tease (play with)\namusing",
+        "tc_hanzi": "逗"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "帅",
+        "pinyin": "shuài",
+        "meaning": "handsome\nsmart",
+        "tc_hanzi": "帥"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "小明",
+        "pinyin": "xiǎo míng",
+        "meaning": "Little Ming (name)",
+        "tc_hanzi": "小明"
+      },
+      {
+        "g": "ye",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "also\ntoo",
+        "tc_hanzi": "也"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "towards\nat",
+        "tc_hanzi": "對"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "女",
+        "pinyin": "nǚ",
+        "meaning": "female\nwoman",
+        "tc_hanzi": "女"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "同事",
+        "pinyin": "tóng shì",
+        "meaning": "colleague\ncoworker",
+        "tc_hanzi": "同事"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "姐姐",
+        "pinyin": "jiě jie",
+        "meaning": "older sister",
+        "tc_hanzi": "姐姐"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty\nbeautiful\ngood-looking",
+        "tc_hanzi": "漂亮"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "马上",
+        "pinyin": "mǎ shàng",
+        "meaning": "at once\nright away\nimmediately",
+        "tc_hanzi": "馬上"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "跑",
+        "pinyin": "pǎo",
+        "meaning": "to run",
+        "tc_hanzi": "跑"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "to (a place)",
+        "tc_hanzi": "到"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he or him\n(used for either sex when the sex is unknown or unimportant)",
+        "tc_hanzi": "他"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "面",
+        "pinyin": "miàn",
+        "meaning": "face\nside\nsurface",
+        "tc_hanzi": "面"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "前",
+        "pinyin": "qián",
+        "meaning": "before\nago",
+        "tc_hanzi": "前"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：“",
+        "tc_hanzi": "：“"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "father (informal)\ndad",
+        "tc_hanzi": "爸爸"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "I'm sorry",
+        "tc_hanzi": "對不起"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "又",
+        "pinyin": "yòu",
+        "meaning": "(once) again\nalso",
+        "tc_hanzi": "又"
+      },
+      {
+        "hsk": 6,
+        "hanzi": "说谎",
+        "pinyin": "shuō huǎng",
+        "meaning": "to lie\nto tell an untruth",
+        "tc_hanzi": "說謊"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "！”",
+        "tc_hanzi": "！”"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hsk": 4,
+        "hanzi": "全",
+        "pinyin": "quán",
+        "meaning": "all\nentire",
+        "tc_hanzi": "全"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "公司",
+        "pinyin": "gōng sī",
+        "meaning": "company\nfirm",
+        "tc_hanzi": "公司"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person\npeople",
+        "tc_hanzi": "人"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "laugh\nsmile",
+        "tc_hanzi": "笑"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Little Ming visits his father's office. This time he can't stop himself from telling a lie.",
+    "syllable_times": [
+      0.7256235827664399,
+      2.403628117913832,
+      2.711324969061653,
+      3.673469387755102,
+      4.217687074829932,
+      4.625850340136054,
+      5.002942522959243,
+      5.442176870748299,
+      5.804988662131519,
+      6.077097505668934,
+      6.394557823129252,
+      6.750017291772257,
+      7.074829931972789,
+      9.024943310657596,
+      9.342403628117914,
+      9.61451247165533,
+      10.06802721088435,
+      10.34013605442177,
+      10.74829931972789,
+      11.02040816326531,
+      11.51688809501768,
+      11.88208616780045,
+      12.15419501133787,
+      12.50387189298348,
+      14.19501133786848,
+      14.69387755102041,
+      15.64625850340136,
+      16.09977324263038,
+      16.4172335600907,
+      16.96145124716553,
+      19.04761904761905,
+      19.45578231292517,
+      19.86394557823129,
+      20.22675736961451,
+      20.63492063492064,
+      20.95238095238095,
+      21.21065050715964,
+      21.53964510648157,
+      22.85714285714286,
+      23.31065759637188,
+      24.30839002267574,
+      24.76190476190476,
+      25.12471655328798,
+      25.62358276643991,
+      25.94104308390023,
+      27.75510204081633,
+      28.20861678004535,
+      29.0702947845805,
+      29.43310657596372,
+      29.82688872249487,
+      30.26932973537609,
+      30.61224489795918,
+      31.02040816326531,
+      31.33786848072562,
+      31.70068027210884,
+      31.97278911564626,
+      32.27733125537546,
+      32.6530612244898,
+      33.07145615029047,
+      34.96598639455782,
+      35.23809523809524,
+      36.09977324263038,
+      36.4172335600907,
+      36.66770746011986,
+      37.73242630385487,
+      38.09523809523809,
+      38.50340136054422,
+      38.95691609977325,
+      39.41043083900227,
+      41.13378684807256,
+      41.63265306122449,
+      41.99546485260771,
+      42.20202152904932,
+      42.53101612837125,
+      43.03854875283447,
+      43.47262136091333,
+      43.94557823129252,
+      44.5163492063492,
+      44.5163492063492
+    ],
+    "sentence_indices": [
+      2,
+      5,
+      16,
+      33,
+      47,
+      49,
+      71,
+      73,
+      81
+    ],
+    "sentence_translations": [
+      "Lying",
+      "",
+      "One day, Little Ming went to his dad's office to play.",
+      "One of dad's female colleagues joked with Little Ming and said: “Little Ming, you're so handsome!”",
+      "Little Ming replied to the female colleague: “Miss, you're very beautiful!”",
+      "",
+      "After he finished speaking he ran over to his dad and said: “Dad, I'm sorry! I told a lie again!”",
+      "",
+      "Everyone at the company laughed.",
+      ""
+    ]
+  }
+}

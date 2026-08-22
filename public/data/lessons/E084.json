@@ -1,0 +1,1021 @@
+{
+  "id": "E084",
+  "title": "I Want Warm Water",
+  "level": "intermediate",
+  "date": "2017-01-28",
+  "synopsis": "No matter where they are in the world, Chinese people are always able to find warm water.",
+  "audioUrl": "https://static.duchinese.net/documents/327/72601edc321d3f513a17dfa1308a0e612b25832e.mp3?1485199910",
+  "series": null,
+  "fullText": {
+    "simplified": "我要喝热水\n\n    林红和王芳在美国旅行。在一家餐厅吃早饭时，服务员问她们想喝什么。林红想喝热水，王芳想喝热牛奶。服务员说这些都没有。林红看着菜单，想了一会儿，说：“给我来一杯热茶，不要茶包。她要一杯热可可，不要可可粉。”",
+    "traditional": "我要喝熱水\n\n    林紅和王芳在美國旅行。在一家餐廳吃早飯時，服務員問她們想喝什麼。林紅想喝熱水，王芳想喝熱牛奶。服務員說這些都沒有。林紅看著菜單，想了一會兒，說：“給我來一杯熱茶，不要茶包。她要一杯熱可可，不要可可粉。”"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "I want to drink warm water"
+    },
+    {
+      "index": 2,
+      "simplified": "林红和王芳在美国旅行。",
+      "traditional": "林紅和王芳在美國旅行。",
+      "pinyin": "lín hóng hé wáng fāng zài měi guó lǚ xíng",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "在一家餐厅吃早饭时，服务员问她们想喝什么。",
+      "traditional": "在一家餐廳吃早飯時，服務員問她們想喝什麼。",
+      "pinyin": "zài yì jiā cān tīng chī zǎo fàn shí fú wù yuán wèn tā men xiǎng hē shén me",
+      "english": "Lin Hong and Wang Fang were traveling in the US."
+    },
+    {
+      "index": 4,
+      "simplified": "林红想喝热水，王芳想喝热牛奶。",
+      "traditional": "林紅想喝熱水，王芳想喝熱牛奶。",
+      "pinyin": "lín hóng xiǎng hē rè shuǐ wáng fāng xiǎng hē rè niú nǎi",
+      "english": "When they were having breakfast in a restaurant, a waiter asked them what they wanted to drink."
+    },
+    {
+      "index": 5,
+      "simplified": "服务员说这些都没有。",
+      "traditional": "服務員說這些都沒有。",
+      "pinyin": "fú wù yuán shuō zhè xiē dōu méi yǒu",
+      "english": "Lin Hong wanted to drink warm water and Wang Fang wanted to have some warm milk."
+    },
+    {
+      "index": 6,
+      "simplified": "林红看着菜单，想了一会儿，说：",
+      "traditional": "林紅看著菜單，想了一會兒，說：",
+      "pinyin": "lín hóng kàn zhe cài dān xiǎng le yí huì'r shuō",
+      "english": "The waiter said they didn’t have those things."
+    },
+    {
+      "index": 7,
+      "simplified": "“给我来一杯热茶，不要茶包。她要一杯热可可，不要可可粉。”",
+      "traditional": "“給我來一杯熱茶，不要茶包。她要一杯熱可可，不要可可粉。”",
+      "pinyin": "gěi wǒ lái yì bēi rè chá bú yào chá bāo tā yào yì bēi rè kě kě bú yào kě kě fěn",
+      "english": "Lin Hong looked at the menu and thought for a while. She said:"
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "meaning": "to want to\nto wish to",
+      "hsk": 2
+    },
+    {
+      "hanzi": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热水",
+      "traditional": "熱水",
+      "pinyin": "rè shuǐ",
+      "meaning": "hot water",
+      "hsk": null
+    },
+    {
+      "hanzi": "林红",
+      "traditional": "林紅",
+      "pinyin": "lín hóng",
+      "meaning": "Lin Hong (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "和",
+      "traditional": "和",
+      "pinyin": "hé",
+      "meaning": "and\nwith\ntogether with",
+      "hsk": 1
+    },
+    {
+      "hanzi": "王芳",
+      "traditional": "王芳",
+      "pinyin": "wáng fāng",
+      "meaning": "Wang Fang (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "meaning": "(located) at\n(to be) in; on",
+      "hsk": 1
+    },
+    {
+      "hanzi": "美国",
+      "traditional": "美國",
+      "pinyin": "měi guó",
+      "meaning": "USA",
+      "hsk": null
+    },
+    {
+      "hanzi": "旅行",
+      "traditional": "旅行",
+      "pinyin": "lǚ xíng",
+      "meaning": "to travel\njourney",
+      "hsk": 4
+    },
+    {
+      "hanzi": "一",
+      "traditional": "一",
+      "pinyin": "yì",
+      "meaning": "one\nfirst",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "meaning": "classifier for families or businesses",
+      "hsk": 1
+    },
+    {
+      "hanzi": "餐厅",
+      "traditional": "餐廳",
+      "pinyin": "cān tīng",
+      "meaning": "dining hall\ndining room\nrestaurant",
+      "hsk": 4
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早饭",
+      "traditional": "早飯",
+      "pinyin": "zǎo fàn",
+      "meaning": "breakfast",
+      "hsk": null
+    },
+    {
+      "hanzi": "时",
+      "traditional": "時",
+      "pinyin": "shí",
+      "meaning": "time\nwhen",
+      "hsk": 1
+    },
+    {
+      "hanzi": "服务员",
+      "traditional": "服務員",
+      "pinyin": "fú wù yuán",
+      "meaning": "server\nwaiter\nwaitress",
+      "hsk": 2
+    },
+    {
+      "hanzi": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她们",
+      "traditional": "她們",
+      "pinyin": "tā men",
+      "meaning": "they\nthem",
+      "hsk": 1
+    },
+    {
+      "hanzi": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to want\nto wish",
+      "hsk": 1
+    },
+    {
+      "hanzi": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "meaning": "what",
+      "hsk": 1
+    },
+    {
+      "hanzi": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "hsk": 1
+    },
+    {
+      "hanzi": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "meaning": "cow's milk",
+      "hsk": 2
+    },
+    {
+      "hanzi": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "meaning": "to say\nto speak\nto explain",
+      "hsk": 1
+    },
+    {
+      "hanzi": "这些",
+      "traditional": "這些",
+      "pinyin": "zhè xiē",
+      "meaning": "these",
+      "hsk": null
+    },
+    {
+      "hanzi": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "meaning": "all\nboth\nentirely",
+      "hsk": 1
+    },
+    {
+      "hanzi": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "meaning": "(negative prefix for verbs)\nhave not",
+      "hsk": 1
+    },
+    {
+      "hanzi": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "meaning": "to have\nthere is",
+      "hsk": 1
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "meaning": "(indicates continuing action or state)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "菜单",
+      "traditional": "菜單",
+      "pinyin": "cài dān",
+      "meaning": "menu",
+      "hsk": 3
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "一会儿",
+      "traditional": "一會兒",
+      "pinyin": "yí huì'r",
+      "meaning": "a moment\na while\n(also pr. yì huǐ'r)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "hsk": 2
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "meaning": "classifier for certain containers of liquids: glass, cup",
+      "hsk": 1
+    },
+    {
+      "hanzi": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "meaning": "tea\ntea plant",
+      "hsk": 1
+    },
+    {
+      "hanzi": "不",
+      "traditional": "不",
+      "pinyin": "bú",
+      "meaning": "(negative prefix)\nnot\nno",
+      "hsk": 1
+    },
+    {
+      "hanzi": "茶包",
+      "traditional": "茶包",
+      "pinyin": "chá bāo",
+      "meaning": "tea bag",
+      "hsk": null
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "可可",
+      "traditional": "可可",
+      "pinyin": "kě kě",
+      "meaning": "cocoa (loanword)",
+      "hsk": null
+    },
+    {
+      "hanzi": "粉",
+      "traditional": "粉",
+      "pinyin": "fěn",
+      "meaning": "powder\nfood prepared from starch\nnoodles or pasta made from any kind of flour",
+      "hsk": null
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "热水",
+        "pinyin": "rè shuǐ",
+        "meaning": "hot water",
+        "tc_hanzi": "熱水"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and\nwith\ntogether with",
+        "tc_hanzi": "和"
+      },
+      {
+        "hanzi": "王芳",
+        "pinyin": "wáng fāng",
+        "meaning": "Wang Fang (name)",
+        "tc_hanzi": "王芳"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hanzi": "美国",
+        "pinyin": "měi guó",
+        "meaning": "USA",
+        "tc_hanzi": "美國"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "旅行",
+        "pinyin": "lǚ xíng",
+        "meaning": "to travel\njourney",
+        "tc_hanzi": "旅行"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "(located) at\n(to be) in; on",
+        "tc_hanzi": "在"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "classifier for families or businesses",
+        "tc_hanzi": "家"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "餐厅",
+        "pinyin": "cān tīng",
+        "meaning": "dining hall\ndining room\nrestaurant",
+        "tc_hanzi": "餐廳"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "早饭",
+        "pinyin": "zǎo fàn",
+        "meaning": "breakfast",
+        "tc_hanzi": "早飯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "时",
+        "pinyin": "shí",
+        "meaning": "time\nwhen",
+        "tc_hanzi": "時"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "to ask",
+        "tc_hanzi": "問"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她们",
+        "pinyin": "tā men",
+        "meaning": "they\nthem",
+        "tc_hanzi": "她們"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "g": "question-words-overview",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "什么",
+        "pinyin": "shén me",
+        "meaning": "what",
+        "tc_hanzi": "什麼"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hanzi": "热水",
+        "pinyin": "rè shuǐ",
+        "meaning": "hot water",
+        "tc_hanzi": "熱水"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hanzi": "王芳",
+        "pinyin": "wáng fāng",
+        "meaning": "Wang Fang (name)",
+        "tc_hanzi": "王芳"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to want\nto wish",
+        "tc_hanzi": "想"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink",
+        "tc_hanzi": "喝"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "牛奶",
+        "pinyin": "niú nǎi",
+        "meaning": "cow's milk",
+        "tc_hanzi": "牛奶"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "服务员",
+        "pinyin": "fú wù yuán",
+        "meaning": "server\nwaiter\nwaitress",
+        "tc_hanzi": "服務員"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "这些",
+        "pinyin": "zhè xiē",
+        "meaning": "these",
+        "tc_hanzi": "這些"
+      },
+      {
+        "g": "dou",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all\nboth\nentirely",
+        "tc_hanzi": "都"
+      },
+      {
+        "g": "mei",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "(negative prefix for verbs)\nhave not",
+        "tc_hanzi": "沒"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "to have\nthere is",
+        "tc_hanzi": "有"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "林红",
+        "pinyin": "lín hóng",
+        "meaning": "Lin Hong (name)",
+        "tc_hanzi": "林紅"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "g": "zhe",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": "(indicates continuing action or state)",
+        "tc_hanzi": "著"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "菜单",
+        "pinyin": "cài dān",
+        "meaning": "menu",
+        "tc_hanzi": "菜單"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "to think",
+        "tc_hanzi": "想"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "一会儿",
+        "pinyin": "yí huì'r",
+        "meaning": "a moment\na while\n(also pr. yì huǐ'r)",
+        "tc_hanzi": "一會兒"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "说",
+        "pinyin": "shuō",
+        "meaning": "to say\nto speak\nto explain",
+        "tc_hanzi": "說"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "“",
+        "tc_hanzi": "“"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "to give",
+        "tc_hanzi": "給"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea\ntea plant",
+        "tc_hanzi": "茶"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "茶包",
+        "pinyin": "chá bāo",
+        "meaning": "tea bag",
+        "tc_hanzi": "茶包"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "一",
+        "pinyin": "yì",
+        "meaning": "one\nfirst",
+        "tc_hanzi": "一"
+      },
+      {
+        "g": "classifiers",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "杯",
+        "pinyin": "bēi",
+        "meaning": "classifier for certain containers of liquids: glass, cup",
+        "tc_hanzi": "杯"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot",
+        "tc_hanzi": "熱"
+      },
+      {
+        "hanzi": "可可",
+        "pinyin": "kě kě",
+        "meaning": "cocoa (loanword)",
+        "tc_hanzi": "可可"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "g": "bu",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "不",
+        "pinyin": "bú",
+        "meaning": "(negative prefix)\nnot\nno",
+        "tc_hanzi": "不"
+      },
+      {
+        "g": "yao",
+        "gh": true,
+        "hsk": 2,
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "to want to\nto wish to",
+        "tc_hanzi": "要"
+      },
+      {
+        "hanzi": "可可",
+        "pinyin": "kě kě",
+        "meaning": "cocoa (loanword)",
+        "tc_hanzi": "可可"
+      },
+      {
+        "hanzi": "粉",
+        "pinyin": "fěn",
+        "meaning": "powder\nfood prepared from starch\nnoodles or pasta made from any kind of flour",
+        "tc_hanzi": "粉"
+      },
+      {
+        "hanzi": "。”",
+        "tc_hanzi": "。”"
+      }
+    ],
+    "version": 2,
+    "synopsis": "No matter where they are in the world, Chinese people are always able to find warm water.",
+    "syllable_times": [
+      0.4081632653061225,
+      0.8616780045351474,
+      1.224489795918367,
+      1.63265306122449,
+      4.263038548752834,
+      4.716553287981859,
+      5.351473922902494,
+      5.759637188208616,
+      6.213151927437642,
+      6.848072562358277,
+      7.256235827664399,
+      7.573696145124717,
+      8.02721088435374,
+      8.334341807224742,
+      10.34013605442177,
+      10.70294784580499,
+      10.96663383439664,
+      11.33786848072562,
+      11.72983750977725,
+      12.15419501133787,
+      12.47165532879819,
+      12.7891156462585,
+      13.10657596371882,
+      14.5578231292517,
+      14.80989050403175,
+      15.10204081632653,
+      15.55555555555556,
+      15.89809351610822,
+      16.281179138322,
+      16.64399092970521,
+      17.18820861678005,
+      17.50566893424036,
+      17.77777777777778,
+      19.72789115646259,
+      20.09070294784581,
+      20.49176510179425,
+      20.99773242630386,
+      21.31519274376417,
+      21.57252740951463,
+      23.26530612244898,
+      23.6734693877551,
+      24.17233560090703,
+      24.62585034013605,
+      24.98866213151927,
+      25.35147392290249,
+      25.65769555053605,
+      27.93650793650794,
+      28.11791383219955,
+      28.43537414965986,
+      28.76423390910565,
+      29.70521541950113,
+      29.97732426303855,
+      30.52154195011338,
+      30.8843537414966,
+      31.20181405895692,
+      33.87755102040816,
+      34.24036281179139,
+      34.6031746031746,
+      34.96598639455782,
+      35.19274376417233,
+      35.55555555555556,
+      36.64399092970522,
+      37.05215419501134,
+      37.27891156462585,
+      37.55102040816327,
+      38.59410430839002,
+      40.27210884353742,
+      40.58956916099773,
+      40.95238095238095,
+      41.26984126984127,
+      41.58730158730159,
+      41.99546485260771,
+      42.31292517006803,
+      43.44671201814059,
+      43.71385026452279,
+      44.08163265306123,
+      44.44444444444444,
+      46.21315192743764,
+      46.53061224489796,
+      46.89342403628118,
+      47.12018140589569,
+      47.52834467120181,
+      47.85991702750617,
+      48.20861678004535,
+      49.1609977324263,
+      49.4222877826551,
+      49.75056689342404,
+      50.15873015873016,
+      50.43083900226758,
+      51.06730158730159,
+      51.06730158730159
+    ],
+    "sentence_indices": [
+      4,
+      7,
+      14,
+      29,
+      40,
+      47,
+      58
+    ],
+    "sentence_translations": [
+      "I want to drink warm water",
+      "",
+      "Lin Hong and Wang Fang were traveling in the US.",
+      "When they were having breakfast in a restaurant, a waiter asked them what they wanted to drink.",
+      "Lin Hong wanted to drink warm water and Wang Fang wanted to have some warm milk.",
+      "The waiter said they didn’t have those things.",
+      "Lin Hong looked at the menu and thought for a while. She said:",
+      "“I would like to have a cup of tea without a tea bag. She wants a cup of warm cocoa without the cocoa powder.”"
+    ]
+  }
+}

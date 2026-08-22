@@ -1,0 +1,867 @@
+{
+  "id": "E172",
+  "title": "Grandma’s Morning",
+  "level": "elementary",
+  "date": "2017-12-01",
+  "synopsis": "Grandma has a lot to do in the morning.",
+  "audioUrl": "https://static.duchinese.net/documents/591/1f218f90537148ec9bcb9360fcad3eb638ed609f.mp3?1511798156",
+  "series": null,
+  "fullText": {
+    "simplified": "奶奶的早上\n\n    小宝的奶奶每天早上六点起床，她常常一边吃早饭一边看报纸。吃完早饭，奶奶会送小宝去幼儿园，然后跟朋友去公园散步。她喜欢一边散步一边跟朋友聊天。十点半，奶奶会回家做饭，她常常一边做饭一边听京剧。",
+    "traditional": "奶奶的早上\n\n    小寶的奶奶每天早上六點起床，她常常一邊吃早飯一邊看報紙。吃完早飯，奶奶會送小寶去幼兒園，然後跟朋友去公園散步。她喜歡一邊散步一邊跟朋友聊天。十點半，奶奶會回家做飯，她常常一邊做飯一邊聽京劇。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n    ",
+      "traditional": "\n\n    ",
+      "pinyin": "",
+      "english": "Grandma’s morning"
+    },
+    {
+      "index": 2,
+      "simplified": "小宝的奶奶每天早上六点起床，她常常一边吃早饭一边看报纸。",
+      "traditional": "小寶的奶奶每天早上六點起床，她常常一邊吃早飯一邊看報紙。",
+      "pinyin": "xiǎo bǎo de nǎi nai měi tiān zǎo shang liù diǎn qǐ chuáng tā cháng cháng yì biān chī zǎo fàn yì biān kàn bào zhǐ",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "吃完早饭，奶奶会送小宝去幼儿园，然后跟朋友去公园散步。",
+      "traditional": "吃完早飯，奶奶會送小寶去幼兒園，然後跟朋友去公園散步。",
+      "pinyin": "chī wán zǎo fàn nǎi nai huì sòng xiǎo bǎo qù yòu ér yuán rán hòu gēn péng you qù gōng yuán sàn bù",
+      "english": "Xiao Bao’s grandma gets up at 6 every morning. She often reads the newspaper while having breakfast."
+    },
+    {
+      "index": 4,
+      "simplified": "她喜欢一边散步一边跟朋友聊天。",
+      "traditional": "她喜歡一邊散步一邊跟朋友聊天。",
+      "pinyin": "tā xǐ huan yì biān sàn bù yì biān gēn péng you liáo tiān",
+      "english": "After breakfast, grandma will take Xiao Bao to the kindergarten, and later take a walk with her friends in the park."
+    },
+    {
+      "index": 5,
+      "simplified": "十点半，奶奶会回家做饭，她常常一边做饭一边听京剧。",
+      "traditional": "十點半，奶奶會回家做飯，她常常一邊做飯一邊聽京劇。",
+      "pinyin": "shí diǎn bàn nǎi nai huì huí jiā zuò fàn tā cháng cháng yì biān zuò fàn yì biān tīng jīng jù",
+      "english": "She likes talking with her friends while walking."
+    },
+    {
+      "index": 6,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "At 10:30 am, grandma will go back home and cook lunch. She often listens to Beijing opera while cooking."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "奶奶",
+      "traditional": "奶奶",
+      "pinyin": "nǎi nai",
+      "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+      "hsk": 3
+    },
+    {
+      "hanzi": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "meaning": "morning\nearly morning",
+      "hsk": 2
+    },
+    {
+      "hanzi": "小宝",
+      "traditional": "小寶",
+      "pinyin": "xiǎo bǎo",
+      "meaning": "Xiao Bao (name)",
+      "hsk": null
+    },
+    {
+      "hanzi": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "meaning": "each\nevery",
+      "hsk": 2
+    },
+    {
+      "hanzi": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "meaning": "day",
+      "hsk": 1
+    },
+    {
+      "hanzi": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "hsk": 1
+    },
+    {
+      "hanzi": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "meaning": "o'clock",
+      "hsk": 1
+    },
+    {
+      "hanzi": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "meaning": "to get out of bed\nto get up",
+      "hsk": 2
+    },
+    {
+      "hanzi": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "meaning": "she\nher",
+      "hsk": 1
+    },
+    {
+      "hanzi": "常常",
+      "traditional": "常常",
+      "pinyin": "cháng cháng",
+      "meaning": "frequently\noften",
+      "hsk": 3
+    },
+    {
+      "hanzi": "一边",
+      "traditional": "一邊",
+      "pinyin": "yì biān",
+      "meaning": "on the one hand\ndoing while",
+      "hsk": 3
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "早饭",
+      "traditional": "早飯",
+      "pinyin": "zǎo fàn",
+      "meaning": "breakfast",
+      "hsk": null
+    },
+    {
+      "hanzi": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at\nto watch\nto read (silently)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "报纸",
+      "traditional": "報紙",
+      "pinyin": "bào zhǐ",
+      "meaning": "newspaper\nnewsprint",
+      "hsk": 2
+    },
+    {
+      "hanzi": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "meaning": "to finish\nto end\nto complete",
+      "hsk": 2
+    },
+    {
+      "hanzi": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "meaning": "likely to\nsure to",
+      "hsk": 3
+    },
+    {
+      "hanzi": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "meaning": "to deliver\nto send",
+      "hsk": 2
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "幼儿园",
+      "traditional": "幼兒園",
+      "pinyin": "yòu ér yuán",
+      "meaning": "kindergarten\nnursery school",
+      "hsk": 5
+    },
+    {
+      "hanzi": "然后",
+      "traditional": "然後",
+      "pinyin": "rán hòu",
+      "meaning": "then (afterwards)\nafter that",
+      "hsk": 3
+    },
+    {
+      "hanzi": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "meaning": "with",
+      "hsk": 3
+    },
+    {
+      "hanzi": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "meaning": "friend",
+      "hsk": 1
+    },
+    {
+      "hanzi": "公园",
+      "traditional": "公園",
+      "pinyin": "gōng yuán",
+      "meaning": "public park",
+      "hsk": 3
+    },
+    {
+      "hanzi": "散步",
+      "traditional": "散步",
+      "pinyin": "sàn bù",
+      "meaning": "to take a walk\nto go for a walk",
+      "hsk": 4
+    },
+    {
+      "hanzi": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "meaning": "to like\nto be fond of",
+      "hsk": 1
+    },
+    {
+      "hanzi": "聊天",
+      "traditional": "聊天",
+      "pinyin": "liáo tiān",
+      "meaning": "to chat\nto gossip",
+      "hsk": 3
+    },
+    {
+      "hanzi": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "hsk": 1
+    },
+    {
+      "hanzi": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "meaning": "half\n(after a number) and a half",
+      "hsk": 3
+    },
+    {
+      "hanzi": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "to return home",
+      "hsk": 1
+    },
+    {
+      "hanzi": "做饭",
+      "traditional": "做飯",
+      "pinyin": "zuò fàn",
+      "meaning": "to prepare a meal\nto cook",
+      "hsk": null
+    },
+    {
+      "hanzi": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "meaning": "to listen\nto hear\nto obey",
+      "hsk": 1
+    },
+    {
+      "hanzi": "京剧",
+      "traditional": "京劇",
+      "pinyin": "jīng jù",
+      "meaning": "Beijing opera",
+      "hsk": 4
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "    ",
+        "tc_hanzi": "    "
+      },
+      {
+        "hanzi": "小宝",
+        "pinyin": "xiǎo bǎo",
+        "meaning": "Xiao Bao (name)",
+        "tc_hanzi": "小寶"
+      },
+      {
+        "g": "de",
+        "gh": true,
+        "hsk": 1,
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(shows possession or belonging)\n(describes nouns and turns verbs or adjectives into nouns)\n(used in the 是…的 construction to emphasize details)",
+        "tc_hanzi": "的"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "each\nevery",
+        "tc_hanzi": "每"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "天",
+        "pinyin": "tiān",
+        "meaning": "day",
+        "tc_hanzi": "天"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "早上",
+        "pinyin": "zǎo shang",
+        "meaning": "morning\nearly morning",
+        "tc_hanzi": "早上"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six",
+        "tc_hanzi": "六"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "起床",
+        "pinyin": "qǐ chuáng",
+        "meaning": "to get out of bed\nto get up",
+        "tc_hanzi": "起床"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "常常",
+        "pinyin": "cháng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "常常"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hanzi": "早饭",
+        "pinyin": "zǎo fàn",
+        "meaning": "breakfast",
+        "tc_hanzi": "早飯"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "to look at\nto watch\nto read (silently)",
+        "tc_hanzi": "看"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "报纸",
+        "pinyin": "bào zhǐ",
+        "meaning": "newspaper\nnewsprint",
+        "tc_hanzi": "報紙"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "to finish\nto end\nto complete",
+        "tc_hanzi": "完"
+      },
+      {
+        "hanzi": "早饭",
+        "pinyin": "zǎo fàn",
+        "meaning": "breakfast",
+        "tc_hanzi": "早飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "to deliver\nto send",
+        "tc_hanzi": "送"
+      },
+      {
+        "hanzi": "小宝",
+        "pinyin": "xiǎo bǎo",
+        "meaning": "Xiao Bao (name)",
+        "tc_hanzi": "小寶"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 5,
+        "hanzi": "幼儿园",
+        "pinyin": "yòu ér yuán",
+        "meaning": "kindergarten\nnursery school",
+        "tc_hanzi": "幼兒園"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "然后",
+        "pinyin": "rán hòu",
+        "meaning": "then (afterwards)\nafter that",
+        "tc_hanzi": "然後"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "公园",
+        "pinyin": "gōng yuán",
+        "meaning": "public park",
+        "tc_hanzi": "公園"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "散步",
+        "pinyin": "sàn bù",
+        "meaning": "to take a walk\nto go for a walk",
+        "tc_hanzi": "散步"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like\nto be fond of",
+        "tc_hanzi": "喜歡"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "散步",
+        "pinyin": "sàn bù",
+        "meaning": "to take a walk\nto go for a walk",
+        "tc_hanzi": "散步"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "跟",
+        "pinyin": "gēn",
+        "meaning": "with",
+        "tc_hanzi": "跟"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend",
+        "tc_hanzi": "朋友"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "聊天",
+        "pinyin": "liáo tiān",
+        "meaning": "to chat\nto gossip",
+        "tc_hanzi": "聊天"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten",
+        "tc_hanzi": "十"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "o'clock",
+        "tc_hanzi": "點"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "半",
+        "pinyin": "bàn",
+        "meaning": "half\n(after a number) and a half",
+        "tc_hanzi": "半"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "奶奶",
+        "pinyin": "nǎi nai",
+        "meaning": "(informal) grandma (paternal grandmother)\n(respectful) mistress of the house",
+        "tc_hanzi": "奶奶"
+      },
+      {
+        "g": "hui-future",
+        "hsk": 3,
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "likely to\nsure to",
+        "tc_hanzi": "會"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "回家",
+        "pinyin": "huí jiā",
+        "meaning": "to return home",
+        "tc_hanzi": "回家"
+      },
+      {
+        "hanzi": "做饭",
+        "pinyin": "zuò fàn",
+        "meaning": "to prepare a meal\nto cook",
+        "tc_hanzi": "做飯"
+      },
+      {
+        "hanzi": "，",
+        "tc_hanzi": "，"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she\nher",
+        "tc_hanzi": "她"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "常常",
+        "pinyin": "cháng cháng",
+        "meaning": "frequently\noften",
+        "tc_hanzi": "常常"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hanzi": "做饭",
+        "pinyin": "zuò fàn",
+        "meaning": "to prepare a meal\nto cook",
+        "tc_hanzi": "做飯"
+      },
+      {
+        "g": "yibian-yibian",
+        "hsk": 3,
+        "hanzi": "一边",
+        "pinyin": "yì biān",
+        "meaning": "on the one hand\ndoing while",
+        "tc_hanzi": "一邊"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "to listen\nto hear\nto obey",
+        "tc_hanzi": "聽"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "京剧",
+        "pinyin": "jīng jù",
+        "meaning": "Beijing opera",
+        "tc_hanzi": "京劇"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "Grandma has a lot to do in the morning.",
+    "syllable_times": [
+      0.5111080479345469,
+      0.8616780045351474,
+      1.360544217687075,
+      1.750143096454616,
+      4.897959183673469,
+      5.351473922902494,
+      5.714285714285714,
+      6.167800453514739,
+      6.621315192743764,
+      7.936507936507937,
+      8.300733104340239,
+      8.843537414965986,
+      9.192592064836132,
+      9.841269841269842,
+      10.29478458049887,
+      10.70294784580499,
+      11.06575963718821,
+      13.37868480725623,
+      13.83219954648526,
+      14.22912345709794,
+      15.05668934240363,
+      15.41950113378685,
+      15.91836734693878,
+      16.3265306122449,
+      16.68934240362812,
+      18.04988662131519,
+      18.36734693877551,
+      18.95691609977324,
+      19.41043083900227,
+      19.77324263038549,
+      22.72108843537415,
+      23.12925170068027,
+      23.49206349206349,
+      23.83678092751054,
+      25.5328798185941,
+      25.89569160997732,
+      26.57596371882086,
+      26.93877551020408,
+      27.39229024943311,
+      27.84580498866213,
+      28.57142857142857,
+      29.1156462585034,
+      29.47845804988662,
+      29.88662131519274,
+      32.01814058956916,
+      32.38095238095238,
+      33.37868480725623,
+      33.74149659863946,
+      34.19501133786848,
+      34.92063492063492,
+      35.51020408163265,
+      35.87301587301587,
+      36.4172335600907,
+      36.91609977324263,
+      39.36507936507937,
+      39.77324263038549,
+      40.18651721712135,
+      41.08843537414966,
+      41.49659863945578,
+      41.85941043083901,
+      42.40362811791383,
+      43.44671201814059,
+      43.80952380952381,
+      44.62585034013605,
+      45.12471655328798,
+      45.62358276643991,
+      46.16780045351474,
+      46.57596371882086,
+      49.38775510204081,
+      49.84126984126984,
+      50.24943310657596,
+      51.97278911564626,
+      52.33560090702948,
+      53.15192743764172,
+      53.65535569025127,
+      54.10430839002267,
+      54.5124716553288,
+      54.87528344671202,
+      57.14285714285715,
+      57.64172335600907,
+      58.0498866213152,
+      59.04761904761905,
+      59.41043083900227,
+      59.81859410430839,
+      60.18791805488277,
+      61.26984126984127,
+      61.63265306122449,
+      62.17687074829932,
+      62.67573696145125,
+      63.12925170068027,
+      63.81730158730159,
+      63.81730158730159
+    ],
+    "sentence_indices": [
+      3,
+      6,
+      25,
+      43,
+      52,
+      69
+    ],
+    "sentence_translations": [
+      "Grandma’s morning",
+      "",
+      "Xiao Bao’s grandma gets up at 6 every morning. She often reads the newspaper while having breakfast.",
+      "After breakfast, grandma will take Xiao Bao to the kindergarten, and later take a walk with her friends in the park.",
+      "She likes talking with her friends while walking.",
+      "At 10:30 am, grandma will go back home and cook lunch. She often listens to Beijing opera while cooking.",
+      ""
+    ]
+  }
+}

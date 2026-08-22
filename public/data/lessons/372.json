@@ -1,0 +1,624 @@
+{
+  "id": "372",
+  "title": "I'm Going Grocery Shopping",
+  "level": "newbie",
+  "date": "2017-09-02",
+  "synopsis": "What do you say when you bump into an acquaintance on the street?",
+  "audioUrl": "https://static.duchinese.net/documents/512/b8107cdbdaa23f295355fef9953597155d11df52.mp3?1589791621",
+  "series": {
+    "title": "Ben’s life in China 3: Who is Little Yu?",
+    "chapter": 11,
+    "totalChapters": 29
+  },
+  "fullText": {
+    "simplified": "我去买菜\n\n本：李阿姨好！吃饭了吗？\n李阿姨：吃了。你去哪儿呀？\n本：我去买菜。\n李阿姨：有空来家里玩儿啊！\n本：好的。",
+    "traditional": "我去買菜\n\n本：李阿姨好！吃飯了嗎？\n李阿姨：吃了。你去哪兒呀？\n本：我去買菜。\n李阿姨：有空來家裡玩兒啊！\n本：好的。"
+  },
+  "sentences": [
+    {
+      "index": 1,
+      "simplified": "\n\n",
+      "traditional": "\n\n",
+      "pinyin": "",
+      "english": "I'm going grocery shopping"
+    },
+    {
+      "index": 2,
+      "simplified": "本：李阿姨好！吃饭了吗？",
+      "traditional": "本：李阿姨好！吃飯了嗎？",
+      "pinyin": "běn lǐ ā yí hǎo chī fàn le ma",
+      "english": ""
+    },
+    {
+      "index": 3,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: Hello, Aunt Li! Did you eat yet?"
+    },
+    {
+      "index": 4,
+      "simplified": "李阿姨：吃了。你去哪儿呀？",
+      "traditional": "李阿姨：吃了。你去哪兒呀？",
+      "pinyin": "lǐ ā yí chī le nǐ qù nǎ'r ya",
+      "english": ""
+    },
+    {
+      "index": 5,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Li: I did eat. Where are you going?"
+    },
+    {
+      "index": 6,
+      "simplified": "本：我去买菜。",
+      "traditional": "本：我去買菜。",
+      "pinyin": "běn wǒ qù mǎi cài",
+      "english": ""
+    },
+    {
+      "index": 7,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Ben: I'm going grocery shopping."
+    },
+    {
+      "index": 8,
+      "simplified": "李阿姨：有空来家里玩儿啊！",
+      "traditional": "李阿姨：有空來家裡玩兒啊！",
+      "pinyin": "lǐ ā yí yǒu kòng lái jiā lǐ wán'r a",
+      "english": ""
+    },
+    {
+      "index": 9,
+      "simplified": "\n",
+      "traditional": "\n",
+      "pinyin": "",
+      "english": "Aunt Li: If you have time, come by our house to play!"
+    },
+    {
+      "index": 10,
+      "simplified": "本：好的。",
+      "traditional": "本：好的。",
+      "pinyin": "běn hǎo de",
+      "english": ""
+    },
+    {
+      "index": 11,
+      "simplified": "",
+      "traditional": "",
+      "pinyin": "",
+      "english": "Ben: Sure."
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "meaning": "I\nme",
+      "hsk": 1
+    },
+    {
+      "hanzi": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+      "hsk": 1
+    },
+    {
+      "hanzi": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "meaning": "to buy\nto purchase",
+      "hsk": 1
+    },
+    {
+      "hanzi": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "meaning": "dish (type of food)\ncuisine",
+      "hsk": 1
+    },
+    {
+      "hanzi": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "meaning": "Ben (name)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "李",
+      "traditional": "李",
+      "pinyin": "lǐ",
+      "meaning": "surname Li",
+      "hsk": null
+    },
+    {
+      "hanzi": "阿姨",
+      "traditional": "阿姨",
+      "pinyin": "ā yí",
+      "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+      "hsk": 3
+    },
+    {
+      "hanzi": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "meaning": "good\nwell",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "meaning": "to have a meal\nto eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "meaning": "(marks a completed action or a change of situation)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "meaning": "(question particle for \"yes-no\" questions)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "hsk": 1
+    },
+    {
+      "hanzi": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "meaning": "you (informal)",
+      "hsk": 1
+    },
+    {
+      "hanzi": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ'r",
+      "meaning": "where",
+      "hsk": 1
+    },
+    {
+      "hanzi": "呀",
+      "traditional": "呀",
+      "pinyin": "ya",
+      "meaning": "(particle equivalent to 啊, normally after a vowel)",
+      "hsk": 4
+    },
+    {
+      "hanzi": "有空",
+      "traditional": "有空",
+      "pinyin": "yǒu kòng",
+      "meaning": "to have time (to do sth)",
+      "hsk": null
+    },
+    {
+      "hanzi": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "meaning": "to come\nto arrive",
+      "hsk": 1
+    },
+    {
+      "hanzi": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "meaning": "(at) home\n(in one's) family",
+      "hsk": 1
+    },
+    {
+      "hanzi": "玩儿",
+      "traditional": "玩兒",
+      "pinyin": "wán'r",
+      "meaning": "to play\nto have fun\nto hang out",
+      "hsk": null
+    },
+    {
+      "hanzi": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+      "hsk": 2
+    },
+    {
+      "hanzi": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de",
+      "meaning": "OK\nfine",
+      "hsk": 1
+    }
+  ],
+  "raw": {
+    "words": [
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good\nwell",
+        "tc_hanzi": "好"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃饭",
+        "pinyin": "chī fàn",
+        "meaning": "to have a meal\nto eat",
+        "tc_hanzi": "吃飯"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "g": "ma",
+        "hsk": 1,
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle for \"yes-no\" questions)",
+        "tc_hanzi": "嗎"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "to eat",
+        "tc_hanzi": "吃"
+      },
+      {
+        "g": "le",
+        "hsk": 1,
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(marks a completed action or a change of situation)",
+        "tc_hanzi": "了"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (informal)",
+        "tc_hanzi": "你"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "g": "question-words-overview",
+        "hsk": 1,
+        "hanzi": "哪儿",
+        "pinyin": "nǎ'r",
+        "meaning": "where",
+        "tc_hanzi": "哪兒"
+      },
+      {
+        "hsk": 4,
+        "hanzi": "呀",
+        "pinyin": "ya",
+        "meaning": "(particle equivalent to 啊, normally after a vowel)",
+        "tc_hanzi": "呀"
+      },
+      {
+        "hanzi": "？",
+        "tc_hanzi": "？"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I\nme",
+        "tc_hanzi": "我"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "to go\nto go to (a place)\n(when used either before or after a verb) to go in order to do sth",
+        "tc_hanzi": "去"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy\nto purchase",
+        "tc_hanzi": "買"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food)\ncuisine",
+        "tc_hanzi": "菜"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hanzi": "李",
+        "pinyin": "lǐ",
+        "meaning": "surname Li",
+        "tc_hanzi": "李"
+      },
+      {
+        "hsk": 3,
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meaning": "maternal aunt\nauntie (form of address for any woman around one’s mother’s age)\nauntie (form of address for working-age female caretakers, including nurses, cleaning ladies, live-in staff, etc.)",
+        "tc_hanzi": "阿姨"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hanzi": "有空",
+        "pinyin": "yǒu kòng",
+        "meaning": "to have time (to do sth)",
+        "tc_hanzi": "有空"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "to come\nto arrive",
+        "tc_hanzi": "來"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "(at) home\n(in one's) family",
+        "tc_hanzi": "家裡"
+      },
+      {
+        "g": "erhua",
+        "hanzi": "玩儿",
+        "pinyin": "wán'r",
+        "meaning": "to play\nto have fun\nto hang out",
+        "tc_hanzi": "玩兒"
+      },
+      {
+        "hsk": 2,
+        "hanzi": "啊",
+        "pinyin": "a",
+        "meaning": "(at the end of a sentence to show affirmation, approval, or consent)",
+        "tc_hanzi": "啊"
+      },
+      {
+        "hanzi": "！",
+        "tc_hanzi": "！"
+      },
+      {
+        "hanzi": "\n",
+        "tc_hanzi": "\n"
+      },
+      {
+        "hsk": 1,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "Ben (name)",
+        "tc_hanzi": "本"
+      },
+      {
+        "hanzi": "：",
+        "tc_hanzi": "："
+      },
+      {
+        "hsk": 1,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "OK\nfine",
+        "tc_hanzi": "好的"
+      },
+      {
+        "hanzi": "。",
+        "tc_hanzi": "。"
+      }
+    ],
+    "version": 2,
+    "synopsis": "What do you say when you bump into an acquaintance on the street?",
+    "syllable_times": [
+      0.49,
+      1.0204081632653061,
+      1.44,
+      4.26,
+      4.26,
+      4.659863945578231,
+      4.875,
+      5.255102040816326,
+      6.34,
+      6.6899999999999995,
+      7.091836734693877,
+      7.329931972789115,
+      8.69,
+      8.69,
+      8.69,
+      8.69,
+      9.13265306122449,
+      10.549886621315192,
+      10.918367346938775,
+      11.564625850340136,
+      11.995464852607709,
+      13.26,
+      13.26,
+      13.71,
+      14.1,
+      14.438775510204081,
+      15.93,
+      15.93,
+      15.93,
+      15.93,
+      16.27,
+      16.77,
+      17.086167800453513,
+      17.414965986394556,
+      17.687074829931973,
+      18.07256235827664,
+      18.79,
+      18.79,
+      19.25170068027211,
+      19.940023,
+      19.940023
+    ],
+    "sentence_indices": [
+      4,
+      6,
+      16,
+      17,
+      28,
+      29,
+      36,
+      37,
+      46,
+      47,
+      51
+    ],
+    "sentence_translations": [
+      "I'm going grocery shopping",
+      "",
+      "Ben: Hello, Aunt Li! Did you eat yet?",
+      "",
+      "Aunt Li: I did eat. Where are you going?",
+      "",
+      "Ben: I'm going grocery shopping.",
+      "",
+      "Aunt Li: If you have time, come by our house to play!",
+      "",
+      "Ben: Sure.",
+      ""
+    ]
+  }
+}
